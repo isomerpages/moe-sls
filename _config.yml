@@ -1,4 +1,4 @@
-title: Title
+title: SLS Info-Site
 url: https://www.learning.moe.edu.sg
 favicon: /images/apple-touch-icon.png
 colors:
@@ -15,7 +15,10 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: An Isomer site of the Singapore Government
+description: The SLS is MOE's core platform for teaching and learning and is one
+  of MOE’s key initiatives to transform the learning experiences of Singaporean
+  students through the purposeful use of technology to enable students to engage
+  in different learning modes.
 permalink: none
 baseurl: ""
 exclude:
