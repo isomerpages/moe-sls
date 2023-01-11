@@ -11,7 +11,6 @@ description: ""
      Please note that the call waiting time may be longer during peak periods such as
      Home-Based Learning days.
    </p>
-   <hr>
  </div>
  <h2 class="section-title">Having Problems Logging In?</h2>
                 <hr>
@@ -37,5 +36,4 @@ description: ""
                   using the security questions that you have set up when your account was first
                   activated.
                 <br>
-                <br>You can also approach your School-Based Helpline or teacher for help.		
-								
+                <br>You can also approach your School-Based Helpline or teacher for help.
