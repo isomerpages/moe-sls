@@ -1,4 +1,5 @@
 collections:
   get-help:
     output: true
-    order: []
+    order:
+      - Contact SLS Helpdesk.md
