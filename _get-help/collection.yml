@@ -2,4 +2,5 @@ collections:
   get-help:
     output: true
     order:
+      - Get Help from your School.md
       - Contact SLS Helpdesk.md
