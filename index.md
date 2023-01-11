@@ -25,4 +25,9 @@ sections:
       description: Infobar description
       button: Button Text
   - resources: {}
+  - infopic:
+      title: What's New in SLS
+      button: Read the changelog here
+      url: https://www.learning.moe.edu.sg/sls/user-guide/vle/update.html
+      image: /images/Media/Carousel/Student_1.png
 ---
