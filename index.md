@@ -8,6 +8,16 @@ notification: Singapore Student Learning Space (SLS)
 sections:
   - hero:
       background: /images/Landing.png
+      key_highlights:
+        - title: Student
+          description: Key Highlight description
+          url: https://www.learning.moe.edu.sg/sls/students/index.html
+        - title: Teacher
+          description: Some highlight description
+          url: https://www.learning.moe.edu.sg/sls/teachers/index.html
+        - title: Partners
+          description: Key Highlight description
+          url: https://www.learning.moe.edu.sg/sls/partners/index.html
   - infobar:
       title: What is SLS?
       description: The SLS is MOE's core platform for teaching and learning and is one
