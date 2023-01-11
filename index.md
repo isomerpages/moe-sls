@@ -4,7 +4,7 @@ title: Title
 description: An Isomer site of the Singapore Government
 image: /images/LogoSecondaryLight.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: Singapore Student Learning Space (SLS)
 sections:
   - hero:
       background: /images/Landing.png
