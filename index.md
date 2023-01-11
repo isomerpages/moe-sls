@@ -19,15 +19,17 @@ sections:
       title: The Future of SLS
       description: SLS will continue to evolve to support MOE’s key priorities and
         serve the needs of our users. <Text limitation of 160 chars>
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
-  - resources: {}
   - infopic:
-      title: What's New in SLS
+      title: What's New in SLS (Part 1)
       button: Read the changelog here
       url: https://www.learning.moe.edu.sg/sls/user-guide/vle/update.html
       image: /images/Media/Carousel/Student_1.png
+  - infopic:
+      title: What's New in SLS (Part 1)
+      description: "This list details the changes users can expect in the upcoming SLS
+        Release 18, which will be rolled out on 1 December 2022. "
+      button: Read the changelog here
+      url: https://www.learning.moe.edu.sg/sls/user-guide/vle/update.html
+      image: /images/Media/Carousel/Student_2.png
+      alt: Image alt text
 ---
