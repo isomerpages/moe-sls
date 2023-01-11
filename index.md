@@ -15,4 +15,14 @@ sections:
         Singaporean students.
       button: Login to SLS
       url: https://vle.learning.moe.edu.sg/
+  - infobar:
+      title: The Future of SLS
+      description: SLS will continue to evolve to support MOE’s key priorities and
+        serve the needs of our users. <Text limitation of 160 chars>
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+  - resources: {}
 ---
