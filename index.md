@@ -30,10 +30,10 @@ sections:
       description: SLS will continue to evolve to support MOE’s key priorities and
         serve the needs of our users. <Text limitation of 160 chars>
   - infopic:
-      title: What's New in SLS (Part 1)
+      title: R18 Class Groups
       button: Read the changelog here
       url: https://www.learning.moe.edu.sg/sls/user-guide/vle/update.html
-      image: /images/Media/Carousel/Student_1.png
+      image: /images/Media/Carousel/Card 9.png
   - infopic:
       title: What's New in SLS (Part 2)
       description: "This list details the changes users can expect in the upcoming SLS
