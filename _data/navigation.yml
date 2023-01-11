@@ -4,10 +4,13 @@ links:
     url: /
   - title: Students
     url: /sls/students
-  - title: Teachers
-    url: /sls/teachers
-    sublinks: []
   - title: Sample Folder
     collection: example-folder
   - title: Sample Resource
     resource_room: true
+  - title: Teachers
+    url: /sls/teachers
+  - title: Partners
+    url: /sls/partners
+  - title: Login to SLS
+    url: https://vle.learning.moe.edu.sg/login
