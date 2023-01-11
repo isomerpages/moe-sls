@@ -34,6 +34,7 @@ sections:
       button: Read the changelog here
       url: https://www.learning.moe.edu.sg/sls/user-guide/vle/update.html
       image: /images/Media/Carousel/Card 9.png
+      alt: R18 Class Groups
   - infopic:
       title: What's New in SLS (Part 2)
       description: "This list details the changes users can expect in the upcoming SLS
