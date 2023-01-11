@@ -12,13 +12,11 @@ description: ""
      Home-Based Learning days.
    </p>
  </div>
- <h2 class="section-title">Having Problems Logging In?</h2>
-                <hr>
+ <h2 >Having Problems Logging In?</h2>
                 <p>
                   For common login issues, you may refer to the <a target="_blank" href="../../logintroubleshooting/index.html">Login Troubleshooting Tips.</a>
                 </p>
 	<h2 class="section-title">Need Further Assistance?</h2>
-                <hr>
                 <p>
                   The SLS Helpdesk is happy to answer your queries on SLS through the contact
                   details listed below.
