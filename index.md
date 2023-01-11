@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Student
           description: Key Highlight description
-          url: https://www.learning.moe.edu.sg/sls/students/index.html
+          url: /sls/students
         - title: Teacher
           description: Some highlight description
           url: https://www.learning.moe.edu.sg/sls/teachers/index.html
