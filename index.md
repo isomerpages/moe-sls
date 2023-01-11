@@ -35,7 +35,7 @@ sections:
       url: https://www.learning.moe.edu.sg/sls/user-guide/vle/update.html
       image: /images/Media/Carousel/Student_1.png
   - infopic:
-      title: What's New in SLS (Part 1)
+      title: What's New in SLS (Part 2)
       description: "This list details the changes users can expect in the upcoming SLS
         Release 18, which will be rolled out on 1 December 2022. "
       button: Read the changelog here
