@@ -8,7 +8,7 @@ description: ""
 <br><br>Please note that the call waiting time may be longer during peak periods such as Home-Based Learning days.
  <h3 >Having Problems Logging In?</h3>
   <p>For common login issues, you may refer to the <a target="_blank" href="../../logintroubleshooting/index.html">Login Troubleshooting Tips.</a></p>
-	<h3>Need Further Assistance?</h3>
+	 <h3 >Need Further Assistance?</h3>
  <p>The SLS Helpdesk is happy to answer your queries on SLS through the contact details listed below.</p>
  <p><b>Operating Hours and Contact Details</b></p>
  <b>Mondays ― Fridays:</b>
