@@ -19,5 +19,5 @@ description: ""
  <br><b>Closed on Sundays &amp; Public Holidays</b>
  <br>Email: helpdesk@sls.ufinity.com
  <br>Tel: (65) 6702 6513
-<u>Note</u>: If you are a student, the Helpdesk will need to verify your identity using the security questions that you have set up when your account was first activated.<br>
+ <br> <br><u>Note</u>: If you are a student, the Helpdesk will need to verify your identity using the security questions that you have set up when your account was first activated.<br>
  <br>You can also approach your School-Based Helpline or teacher for help.
