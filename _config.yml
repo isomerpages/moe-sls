@@ -3,18 +3,18 @@ url: https://www.learning.moe.edu.sg
 favicon: /images/Assets/apple-touch-icon.png
 colors:
   primary-color: "#2b63d9"
-  secondary-color: "#4372d6"
+  secondary-color: "#0b233f"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#e96a6a"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#4ecbd3"
     - title: media-color-three
-      color: "#00838f"
+      color: "#fbbc04"
     - title: media-color-four
-      color: "#00838f"
+      color: "#ffffff"
     - title: media-color-five
-      color: "#00838f"
+      color: "#fbbc04"
 description: The SLS is MOE's core platform for teaching and learning and is one
   of MOE’s key initiatives to transform the learning experiences of Singaporean
   students through the purposeful use of technology to enable students to engage
