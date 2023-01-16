@@ -7,7 +7,7 @@ description: The SLS is MOE's core platform for teaching and learning and is one
   in different learning modes.
 image: /images/LogoSecondaryLight.svg
 permalink: /
-notification: <!Singapore Student Learning Space (SLS) Site Notification>
+notification: "!Singapore Student Learning Space (SLS) Site Notification"
 sections:
   - hero:
       background: /images/Landing.png
