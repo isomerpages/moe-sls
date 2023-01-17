@@ -55,7 +55,7 @@ plugins:
 staging: https://staging.d19lt3odqxq3m6.amplifyapp.com
 prod: https://master.d19lt3odqxq3m6.amplifyapp.com
 shareicon: /images/LogoSecondaryLight.svg
-is_government: false
+is_government: true
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
