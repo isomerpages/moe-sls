@@ -11,6 +11,6 @@ links:
   - title: Login to SLS
     url: https://vle.learning.moe.edu.sg/login
   - title: User Guide
-    collection: get-help
+    collection: user-guide
   - title: Posts
     resource_room: true
