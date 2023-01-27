@@ -2,8 +2,8 @@ collections:
   user-guide:
     output: true
     order:
-      - Teachers UG/Rich Text (New).md
-      - Teachers UG/Lesson & Course Management (New).md
       - Teachers UG/.keep
+      - Teachers UG/Lesson & Course Management (New).md
+      - Teachers UG/Rich Text (New).md
       - Get Help from your School.md
       - Contact SLS Helpdesk.md
