@@ -10,7 +10,7 @@ links:
     url: /sls/partners
   - title: Login to SLS
     url: https://vle.learning.moe.edu.sg/login
-  - title: Helpdesk
+  - title: User Guide
     collection: get-help
   - title: Posts
     resource_room: true
