@@ -1,5 +1,5 @@
 collections:
-  get-help:
+  user-guide:
     output: true
     order:
       - Get Help from your School.md
