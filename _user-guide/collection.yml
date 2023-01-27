@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Teachers UG/.keep
-      - Teachers UG.md
       - Get Help from your School.md
       - Contact SLS Helpdesk.md
