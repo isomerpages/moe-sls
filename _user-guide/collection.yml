@@ -2,7 +2,7 @@ collections:
   user-guide:
     output: true
     order:
-      - Teachers UG/Teachers UG.md
+      - Teachers UG/Lesson & Course Management (New).md
       - Teachers UG/.keep
       - Get Help from your School.md
       - Contact SLS Helpdesk.md
