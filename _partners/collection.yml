@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Integration/Whitelisted Websites.md
       - Integration/Integrated Apps.md
       - Integration/External Engines.md
       - Integration/.keep
