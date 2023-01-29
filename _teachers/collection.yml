@@ -2,6 +2,7 @@ collections:
   teachers:
     output: true
     order:
+      - User Guide/Account Management (New).md
       - User Guide/My Drive (New).md
       - User Guide/Resources (New).md
       - User Guide/Announcements & Notifications.md
