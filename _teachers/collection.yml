@@ -1,4 +1,5 @@
 collections:
   teachers:
     output: true
-    order: []
+    order:
+      - User Guide/.keep
