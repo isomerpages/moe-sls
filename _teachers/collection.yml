@@ -2,13 +2,9 @@ collections:
   teachers:
     output: true
     order:
-      - SLS Professional Development/.keep
-      - SLS Professional Development/Teaching and Learning with SLS.md
-      - SLS Professional Development/EPedagogy One  Stop Site.md
-      - Frequently Asked Questions.md
-      - "Build: The SLS Card Game.md"
-      - Feature Highlights/.keep
       - Teachers.md
+      - Feature Highlights/.keep
+      - "Build: The SLS Card Game.md"
       - User Guide/.keep
       - User Guide/Lesson & Course Management (New).md
       - User Guide/Rich Text (New).md
@@ -23,3 +19,7 @@ collections:
       - User Guide/My Subjects.md
       - User Guide/Copyright Matters.md
       - User Guide/Useful Information.md
+      - Frequently Asked Questions.md
+      - SLS Professional Development/.keep
+      - SLS Professional Development/Teaching and Learning with SLS.md
+      - SLS Professional Development/EPedagogy One  Stop Site.md
