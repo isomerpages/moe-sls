@@ -2,6 +2,7 @@ collections:
   teachers:
     output: true
     order:
+      - Teachers.md
       - User Guide/.keep
       - User Guide/Lesson & Course Management (New).md
       - User Guide/Rich Text (New).md
