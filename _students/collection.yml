@@ -2,4 +2,5 @@ collections:
   students:
     output: true
     order:
+      - Frequently Asked Questions/.keep
       - Student.md
