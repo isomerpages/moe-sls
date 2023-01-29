@@ -2,7 +2,7 @@ collections:
   teachers:
     output: true
     order:
-      - SLS Professional Development/ePedagogy One  Stop Site.md
+      - SLS Professional Development/EPedagogy One  Stop Site.md
       - SLS Professional Development/Teaching and Learning with SLS.md
       - SLS Professional Development/.keep
       - Frequently Asked Questions.md
