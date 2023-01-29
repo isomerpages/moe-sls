@@ -2,17 +2,17 @@ collections:
   teachers:
     output: true
     order:
-      - User Guide/Useful Information.md
-      - User Guide/Copyright Matters.md
-      - User Guide/My Subjects.md
-      - User Guide/Account Management (New).md
-      - User Guide/My Drive (New).md
-      - User Guide/Resources (New).md
-      - User Guide/Announcements & Notifications.md
-      - User Guide/Learning Progress.md
-      - User Guide/Class Group Management (New).md
-      - User Guide/Integration.md
-      - User Guide/Assignments.md
-      - User Guide/Rich Text.md
-      - User Guide/Lesson & Course Management.md
       - User Guide/.keep
+      - User Guide/Lesson & Course Management.md
+      - User Guide/Rich Text.md
+      - User Guide/Assignments.md
+      - User Guide/Integration.md
+      - User Guide/Class Group Management (New).md
+      - User Guide/Learning Progress.md
+      - User Guide/Announcements & Notifications.md
+      - User Guide/Resources (New).md
+      - User Guide/My Drive (New).md
+      - User Guide/Account Management (New).md
+      - User Guide/My Subjects.md
+      - User Guide/Copyright Matters.md
+      - User Guide/Useful Information.md
