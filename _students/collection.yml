@@ -1,4 +1,5 @@
 collections:
   students:
     output: true
-    order: []
+    order:
+      - Student.md
