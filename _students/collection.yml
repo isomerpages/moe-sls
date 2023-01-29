@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Feature Highlights/Posters.md
       - Feature Highlights/.keep
       - Student Initiated Learning.md
       - User Guide/User Guide (Students).md
