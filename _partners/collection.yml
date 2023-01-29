@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Integration/External Engines.md
       - Integration/.keep
       - Partnership/Partnership with SLS.md
       - Partnership/Partnership Models.md
