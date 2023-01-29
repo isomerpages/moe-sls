@@ -2,6 +2,7 @@ collections:
   teachers:
     output: true
     order:
+      - User Guide/Useful Information.md
       - User Guide/Copyright Matters.md
       - User Guide/My Subjects.md
       - User Guide/Account Management (New).md
