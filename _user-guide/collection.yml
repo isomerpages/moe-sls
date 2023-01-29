@@ -2,11 +2,11 @@ collections:
   user-guide:
     output: true
     order:
-      - Teachers UG/About Lesson & Section Templates.md
-      - Teachers UG/Create a Course (New).md
-      - Teachers UG/Create a Lesson (New).md
-      - Teachers UG/About Lessons and Courses (Improved).md
       - Teachers UG/.keep
+      - Teachers UG/About Lessons and Courses (Improved).md
+      - Teachers UG/Create a Lesson (New).md
+      - Teachers UG/Create a Course (New).md
+      - Teachers UG/About Lesson & Section Templates.md
       - Teachers UG/Example page.md
       - Get Help from your School.md
       - Contact SLS Helpdesk.md
