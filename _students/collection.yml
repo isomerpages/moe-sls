@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - Frequently Asked Questions/Technical Support and Passwords.md
       - Frequently Asked Questions/.keep
       - Student.md
