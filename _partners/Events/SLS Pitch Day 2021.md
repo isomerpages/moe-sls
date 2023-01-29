@@ -4,6 +4,7 @@ permalink: /partners/Events/permalink/
 description: ""
 third_nav_title: Events
 ---
+# Table of contents
 1. [Overview](/sls/student)
 2. [Featured Pitches](/sls/student)
 3. [Assessment and Analytics](/sls/student)
