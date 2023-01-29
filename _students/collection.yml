@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - User Guide/Account Management (Sec & JCCI).md
       - User Guide/.keep
       - Frequently Asked Questions/Young Overseas Singaporeans.md
       - Frequently Asked Questions/Technical Support and Passwords.md
