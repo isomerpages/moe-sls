@@ -3,3 +3,33 @@ title: Partners
 permalink: /sls/partners/
 description: ""
 ---
+![](/images/Media/Quick%20Links/Partners%20Hero.png)
+
+Take charge of your learning! Explore new features as well as our growing library of resources.
+
+## General Information
+#### About SLS
+[Overview of SLS](/sls/student)
+<br>[Future of SLS](/sls/student)
+#### SLS in the News
+[Articles](/sls/student)
+<br>[Awards](/sls/student)
+
+## Partnership 
+[Partnership with SLS](/sls/student)
+<br>[Partnership Models](/sls/student)
+
+## Integration
+[Whitelisted Websites](/sls/student)
+<br>[Integrated Apps](/sls/student)
+<br>[External Engines](/sls/student)
+
+## Events
+#### SLS Pitch Day 2022
+[Overview of SLS](/sls/student)
+<br>[Future of SLS](/sls/student)
+#### SLS Pitch Day 2021
+[Articles](/sls/student)
+<br>[Awards](/sls/student)
+## Sandbox
+[Apply for Sandbox Access](/sls/student)
