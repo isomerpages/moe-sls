@@ -13,5 +13,6 @@ collections:
       - Integration/Whitelisted Websites.md
       - Integration/Integrated Apps.md
       - Integration/External Engines.md
+      - Events/Directory.md
       - Events/.keep
       - Sandbox.md
