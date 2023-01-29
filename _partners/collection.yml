@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Sandbox.md
       - Events/.keep
       - Integration/Whitelisted Websites.md
       - Integration/Integrated Apps.md
