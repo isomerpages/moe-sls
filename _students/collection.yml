@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - User Guide/.keep
       - Frequently Asked Questions/Young Overseas Singaporeans.md
       - Frequently Asked Questions/Technical Support and Passwords.md
       - Frequently Asked Questions/.keep
