@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Media/Quick%20Links/Teachers%20Hero.png)
 
-Take charge of your learning! Explore new features as well as our growing library of resources.
+Looking for new ways to support your students’ learning? SLS features can enhance your teaching to engage your students better!
 
 ## Feature Highlights  
 #### Posters
