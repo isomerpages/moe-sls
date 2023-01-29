@@ -6,10 +6,11 @@ third_nav_title: User Guide
 ---
 # Insert Rich Text
 ### Formatting and Links
-1. [Formatting & Paragraphing (New)](#introduction)
-2. [Insert Table](#paragraph1)
-3. [Insert Hyperlink](#paragraph2)
-4. [Insert Tooltip for Students](#paragraph3)
+1. [Formatting & Paragraphing (New)](/TeachersUG/Formatting/)
+2. [Insert Table](/TeachersUG/InsertTable/)
+3. [Insert Hyperlink](/TeachersUG/InsertHyperlink/)
+4. [Insert Tooltip for Students](/TeachersUG/InsertStudentTooltip/)
+5. [Insert Tooltip for Teachers](/TeachersUG/InsertTeachingAction/)
 
 ### Media
 
