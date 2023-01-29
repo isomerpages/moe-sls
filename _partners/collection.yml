@@ -2,6 +2,7 @@ collections:
   partners:
     output: true
     order:
+      - Partnership/Partnership with SLS.md
       - Partnership/Partnership Models.md
       - Partnership/.keep
       - General Information/.keep
