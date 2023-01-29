@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Student Initiated Learning.md
       - User Guide/User Guide (Students).md
       - User Guide/User Guide (Login Troubleshooting).md
       - User Guide/Account Management.md
