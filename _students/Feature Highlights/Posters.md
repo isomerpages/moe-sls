@@ -5,14 +5,14 @@ description: ""
 third_nav_title: Feature Highlights
 ---
 # Table of contents
-1. [R18 Posters](/sls/student)
-2. [R17 Posters](/sls/student)
-3. [R16 Posters](/sls/student)
-4. [R15 Posters](/sls/student)
-5. [R14 Posters](/sls/student)
+1. [R18 Posters](#R18)
+2. [R17 Posters](#R17)
+3. [R16 Posters](#R16)
+4. [R15 Posters](#R15)
+5. [R14 Posters](#R14)
 
 
-## R18 Posters
+## R18 Posters    <a name="R18"></a>
 Updated Login to SLS
 ![](/images/Media/6Posters/(1%20of%202)%20Student%20MIMS.png)
 User Guide: [Login to SLS](/sls/student)
@@ -21,10 +21,10 @@ Learn Together in SLS
 ![](/images/Media/6Posters/(2%20of%202)%20Student%20Learn%20Together.png)
 User Guide: [About Google Integration](/sls/student)
 
-## R17 Posters
+## R17 Posters<a name="R17"></a>
 
-## R16 Posters
+## R16 Posters<a name="R16"></a>
 
-## R15 Posters
+## R15 Posters<a name="R15"></a>
 
-## R14 Posters
+## R14 Posters<a name="R14"></a>
