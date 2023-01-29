@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Teachers.md
+      - Feature Highlights/R18 Posters.md
       - Feature Highlights/.keep
       - "Build: The SLS Card Game.md"
       - User Guide/.keep
