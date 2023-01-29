@@ -2,16 +2,16 @@ collections:
   partners:
     output: true
     order:
-      - Sandbox.md
-      - Events/.keep
-      - Integration/Whitelisted Websites.md
-      - Integration/Integrated Apps.md
-      - Integration/External Engines.md
-      - Integration/.keep
-      - Partnership/Partnership with SLS.md
-      - Partnership/Partnership Models.md
-      - Partnership/.keep
+      - Partners.md
       - General Information/.keep
       - General Information/Overview of SLS.md
       - General Information/Future of SLS.md
-      - Partners.md
+      - Partnership/.keep
+      - Partnership/Partnership with SLS.md
+      - Partnership/Partnership Models.md
+      - Integration/.keep
+      - Integration/Whitelisted Websites.md
+      - Integration/Integrated Apps.md
+      - Integration/External Engines.md
+      - Events/.keep
+      - Sandbox.md
