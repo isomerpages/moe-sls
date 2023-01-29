@@ -5,10 +5,8 @@ description: ""
 third_nav_title: Events
 ---
 # Table of contents
-1. [About Lessons/Courses (Improved)](#introduction)
-2. [Create a Lesson (New)](#paragraph1)
-3. [Create a Course (New)](#paragraph2)
-4. [About Lesson/Section Templates](#paragraph3)
+1. [Overview](/sls/student)
+2. [Featured Pitches](/sls/student)
 
 ## About Lessons/Courses (Improved) <a name="introduction"></a>
 **Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
