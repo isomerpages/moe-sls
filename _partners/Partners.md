@@ -26,10 +26,14 @@ Take charge of your learning! Explore new features as well as our growing librar
 
 ## Events
 #### SLS Pitch Day 2022
-[Overview of SLS](/sls/student)
-<br>[Future of SLS](/sls/student)
+[Overview](/sls/student)
+<br>[Featured Pitches](/sls/student)
 #### SLS Pitch Day 2021
-[Articles](/sls/student)
-<br>[Awards](/sls/student)
+[Overview](/sls/student)
+<br>[Featured Pitches](/sls/student)
+<br>[Assessment and Analytics](/sls/student)
+<br>[Content and Resources](/sls/student)
+<br>[Pedagogy and Instruction](/sls/student)
+<br>[Others](/sls/student)
 ## Sandbox
 [Apply for Sandbox Access](/sls/student)
