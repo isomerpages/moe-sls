@@ -1,19 +1,17 @@
 logo: /images/Assets/LogoSecondaryLight.svg
 links:
   - title: Home
-    url: /
+    collection: example-folder
   - title: Students
-    url: /sls/students
+    collection: students
   - title: Teachers
-    url: /sls/teachers
+    collection: teachers
   - title: Partners
-    url: /sls/partners
+    collection: partners
   - title: Login to SLS
     url: https://vle.learning.moe.edu.sg/login
   - title: Posts
     resource_room: true
-  - title: Partners
-    collection: partners
   - title: Sub Menu
     url: /submenu
     sublinks:
