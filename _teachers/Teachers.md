@@ -7,7 +7,7 @@ description: ""
 
 Looking for new ways to support your students’ learning? SLS features can enhance your teaching to engage your students better!
 
-![](/images/Assets/3Columns32.svg)
+![](/images/Assets/3Columns32.svg){ height="36px" width="36px" }
 ![](/images/Assets/Bell16.svg)
 ![](/images/Bell16%201.png)
 
@@ -17,7 +17,10 @@ Looking for new ways to support your students’ learning? SLS features can enha
 	[<img src="/images/Assets/Bell16.svg" width="250"/>](/images/Assets/Bell16.svg)
 	6
 	    ![](/images/Assets/Bell16.svg](/images/Assets/Bell16.svg){ width=50% }
-
+			
+7
+<img src="/images/Bell16%201.png" width="30%">
+																						
 ## Feature Highlights  
 #### Posters
 [Release 18 (1 Dec 2022)](/sls/student)
