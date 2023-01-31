@@ -2,4 +2,5 @@ collections:
   about-sls:
     output: true
     order:
+      - News Articles.md
       - Awards.md
