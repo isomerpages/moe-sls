@@ -3,11 +3,12 @@ title: Teachers
 permalink: /sls/teachers/
 description: ""
 ---
-
-
 ![](/images/Media/Quick%20Links/Teachers%20Hero.png)
 
 Looking for new ways to support your students’ learning? SLS features can enhance your teaching to engage your students better!
+
+![](/images/Assets/3Columns32.svg)
+![](/images/Assets/Bell16.svg)
 
 ## Feature Highlights  
 #### Posters
