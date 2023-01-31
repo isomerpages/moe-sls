@@ -12,8 +12,8 @@ links:
     url: https://vle.learning.moe.edu.sg/login
   - title: Posts
     resource_room: true
-  - title: Menu Title
-    collection: example-folder
+  - title: Partners
+    collection: partners
   - title: Sub Menu
     url: /submenu
     sublinks:
