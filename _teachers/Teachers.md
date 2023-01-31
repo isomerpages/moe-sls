@@ -11,6 +11,11 @@ Looking for new ways to support your students’ learning? SLS features can enha
 ![](/images/Assets/Bell16.svg)
 ![](/images/Bell16%201.png)
 
+4
+    <img src="/images/Assets/Bell16.svg" width="200">
+5		 
+	[<img src="/images/Assets/Bell16.svg" width="250"/>](/images/Assets/Bell16.svg)
+
 ## Feature Highlights  
 #### Posters
 [Release 18 (1 Dec 2022)](/sls/student)
