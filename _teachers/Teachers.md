@@ -19,7 +19,10 @@ Looking for new ways to support your students’ learning? SLS features can enha
 	    ![](/images/Assets/Bell16.svg](/images/Assets/Bell16.svg){ width=50% }
 			
 7
-<img src="/images/Bell16%201.png" width="30%">
+<img src="/images/Bell16%201.png" height="10rem">
+
+8
+<img src="/images/Bell16%201.png" height="10px">
 																						
 ## Feature Highlights  
 #### Posters
