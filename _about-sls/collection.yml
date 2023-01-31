@@ -2,5 +2,6 @@ collections:
   about-sls:
     output: true
     order:
+      - Future of SLS.md
       - News Articles.md
       - Awards.md
