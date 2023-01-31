@@ -8,7 +8,8 @@ description: ""
 Looking for new ways to support your students’ learning? SLS features can enhance your teaching to engage your students better!
 
 ![](/images/Assets/3Columns32.svg)
-![](/images/Assets/Bell16.svg)
+![](/images/Assets/Bell16![](/images/Bell16%201.png).svg)
+![](/images/Bell16%201.png)
 
 ## Feature Highlights  
 #### Posters
