@@ -1,4 +1,4 @@
 collections:
-  who-we-are:
+  about-sls:
     output: true
     order: []
