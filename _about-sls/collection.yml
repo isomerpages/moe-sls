@@ -1,4 +1,4 @@
 collections:
-  sls-about:
+  about-sls:
     output: true
     order: []
