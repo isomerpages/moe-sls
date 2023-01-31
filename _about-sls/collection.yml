@@ -1,4 +1,5 @@
 collections:
   about-sls:
     output: true
-    order: []
+    order:
+      - Awards.md
