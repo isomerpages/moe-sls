@@ -12,12 +12,3 @@ links:
     url: https://vle.learning.moe.edu.sg/login
   - title: Posts
     resource_room: true
-  - title: Sub Menu
-    url: /submenu
-    sublinks:
-      - title: UG1
-        url: /permalink
-      - title: UG2
-        url: /permalink
-      - title: UG3
-        url: /permalink
