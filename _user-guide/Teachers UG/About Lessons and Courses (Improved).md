@@ -29,151 +29,29 @@ A Course can be assigned to students as an Assignment.
 Starting from R17, you can gamify your courses, by introducing game-based elements. These game-based elements include Experience Points (XP) and Levels, Game Stories, and Achievements. 
 <a href="/about-sls/overviewofsls/" target="_blank">Click here to find out more</a>
 
-  
-  
-
-                </section\>
-
-              <br\>
-
-  
-
-              <div class\="page-content sug-user-content"\>
-
-                <section class\="section"\>
-
-                  <h2 class\="section-title"\>Manage a Lesson or Course</h2\>
-
-                  <hr />
-
-                  <p\>
-
-                   From the right menu of the Lesson or Course Editor, you can
-
-                  </p\>
-
-                 <ol\>
-
-                   <li\>
-
-                     <p\>
-
-                       <a href\="../../teacher/LessonManagement/ManageGamification.html" target\="\_blank"\>Manage Gamification Settings</a\>
-
-                     </p\>
-
-                   </li\>
-
-                   <li\>
-
-                     <p\>
-
-                       <a href\="../../teacher/LessonManagement/CreateLesson.html" target\="\_blank"\>Manage Passcode Settings</a\>
-
-                   From the right menu of the Lesson or Course View, you can
-
-               
-                       <a href\="../../teacher/LessonManagement/ManageGamification.html" target\="\_blank"\>View Gamification Settings</a\>
-
-                       <a href\="../../teacher/LessonManagement/CreateLesson.html" target\="\_blank"\>Preview as Student</a\>
-
-                 
-                       <a href\="../../teacher/LessonManagement/CopyLesson.html" target\="\_blank"\>Copy to My Drive</a\>
-
-                  
-                       <a href\="../../teacher/MyDrive/MyTemplates.html" target\="\_blank"\>Set as Template</a\>
-
-                     </p\>
-
-                   </li\>
-
-                   <li\>
-
-                     <p\>
-
-                       <a href\="../../teacher/LessonManagement/ShareLesson.html" target\="\_blank"\>Share with Teachers</a\>
-
-                     </p\>
-
-                   </li\>
-
-                   <li\>
-
-                     <p\>
-
-                       <a href\="../../teacher/ClassGroupManagement/AboutGroupResources.html" target\="\_blank"\>Add to Class Group Resources</a\>
-
-                     </p\>
-
-                   </li\>
-
-                   <li\>
-
-                     <p\>
-
-                       <a href\="../../admin/CRDO/MOELibrary.html" target\="\_blank"\>Check for Submission (MOE Library) - for CRDOs only</a\>
-
-                     </p\>
-
-                   </li\>
-
-                   <li\>
-
-                     <p\>
-
-                       <a href\="../../teacher/LessonResources/SubmitLessons.html" target\="\_blank"\>Check for Submissions (Community Gallery)</a\>
-
-                     </p\>
-
-                   </li\>
-
-                   <li\>
-
-                     <p\>
-
-                       <a href\="../../teacher/LessonResources/PrintWorksheet.html" target\="\_blank"\>View as Print-friendly Worksheet</a\>
-
-                     </p\>
-
-                   </li\>
-
-                   <li\>
-
-                     <p\>
-
-                       <a href\="../../teacher/LessonManagement/MoveToTrash.html" target\="\_blank"\>Move to Trash</a\>
-
-                     </p\>
-
-                   </li\>
-
-                 </ol\>
-
-  
-
-                </section\>
-
-              <br\>
-
-  
-
-            </div\>
-
-            <div class\="page-content sug-user-content"\>
-
-              <section class\="section"\>
-
-                <h2 class\="section-title"\>Activity or Quiz</h2\>
-
-                <hr />
-
-                <p\>
-
-                  An Activity or Quiz is part of a Lesson or Course.
-
-                  Teachers can create up to 20 Activities or Quizzes in a Lesson or Section.
-
-                  An Activity can comprise of <strong\>Components</strong\> of all types, including Text/media, all question types,
+ #### Manage a Lesson or Course
+<hr>
+From the right menu of the Lesson or Course Editor, you can
+
+1. <a href="/about-sls/overviewofsls/" target="_blank">Manage Gamification Settings</a>
+2. <a href="/about-sls/overviewofsls/" target="_blank">Manage Passcode Settings</a>
+              
+From the right menu of the Lesson or Course View, you can
+
+1. <a href="/about-sls/overviewofsls/" target="_blank">View Gamification Settings</a>
+2. <a href="/about-sls/overviewofsls/" target="_blank">Preview as Student</a>
+3. <a href="/about-sls/overviewofsls/" target="_blank">Copy to My Drive</a>
+4. <a href="/about-sls/overviewofsls/" target="_blank">Set as Template</a>
+5. <a href="/about-sls/overviewofsls/" target="_blank">Share with Teachers</a>
+6. <a href="/about-sls/overviewofsls/" target="_blank">Add to Class Group Resources</a>
+7. <a href="/about-sls/overviewofsls/" target="_blank">Check for Submission (MOE Library) - for CRDOs only</a>
+8. <a href="/about-sls/overviewofsls/" target="_blank">Check for Submissions (Community Gallery)</a>
+9. <a href="/about-sls/overviewofsls/" target="_blank">View as Print-friendly Worksheet</a>
+10. <a href="/about-sls/overviewofsls/" target="_blank">Move to Trash</a>         
+            
+#### Activity or Quiz
+<hr>
+An Activity or Quiz is part of a Lesson or Course. Teachers can create up to 20 Activities or Quizzes in a Lesson or Section. An Activity can comprise of **Components** of all types, including Text/media, all question types,
 
                   Poll, and Interactive Thinking Tool.
 
