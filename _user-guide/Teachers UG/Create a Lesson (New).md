@@ -4,3 +4,15 @@ permalink: /user-guide/Teachers-UG/createlesson/
 description: ""
 third_nav_title: Teachers UG
 ---
+<base target="_blank">
+
+#### Create a Lesson (New)
+
+![](/images/Flagged%20image.jpg)
+
+##### Lesson
+<hr>
+
+1. From the Notifications page, click the Flag icon (see #1) to flag a Notification. You can use it to flag important notifications you wish to follow up on.
+
+2. A Flagged Notification will be indicated with a Red Flag (see #2)
