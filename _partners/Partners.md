@@ -9,15 +9,13 @@ Take charge of your learning! Explore new features as well as our growing librar
 
 ## General Information
 #### About SLS
-[Overview of SLS](/sls/student)
-<br>[Future of SLS](/sls/student)
+[Overview of SLS](/sls/student) |  [Future of SLS](/sls/student)
 #### SLS in the News
-[Articles](/sls/student)
-<br>[Awards](/sls/student)
+[Articles](/sls/student) |  [Awards](/sls/student)
 
 ## Partnership 
-[Partnership with SLS](/sls/student)
-<br>[Partnership Models](/sls/student)
+1. [Partnership with SLS](/sls/student)
+2. [Partnership Models](/sls/student)
 
 ## Integration
 [Whitelisted Websites](/sls/student)
