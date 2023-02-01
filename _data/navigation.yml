@@ -1,7 +1,7 @@
 logo: /images/Assets/LogoSecondaryLight.svg
 links:
   - title: Home
-    collection: example-folder
+    collection: about-sls
   - title: Students
     collection: students
   - title: Teachers
