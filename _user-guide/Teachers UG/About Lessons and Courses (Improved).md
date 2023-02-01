@@ -4,6 +4,8 @@ permalink: /user-guide/Teachers-UG/aboutlessons/
 description: ""
 third_nav_title: Teachers UG
 ---
+<base target="_blank">
+
 #### About Lessons and Courses (Improved)
 
 ##### Lesson
@@ -24,7 +26,9 @@ A Course can be assigned to students as an Assignment.
 
 ![](/images/Assets/Bulb32.svg)
 #### Did you know?
-Starting from R17, you can gamify your courses, by introducing game-based elements. These game-based elements include Experience Points (XP) and Levels, Game Stories, and Achievements. Click <a href\="../../teacher/LessonManagement/AboutGamification.html" target\="\_blank"\>here</a\> to find out more.
+Starting from R17, you can gamify your courses, by introducing game-based elements. These game-based elements include Experience Points (XP) and Levels, Game Stories, and Achievements. 
+[Click here to find out more](/teacher/LessonManagement/AboutGamification.html)
+
 
                       </p\>
 
