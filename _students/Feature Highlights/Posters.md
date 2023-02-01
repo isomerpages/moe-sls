@@ -4,7 +4,7 @@ permalink: /students/Feature-Highlights/posters/
 description: ""
 third_nav_title: Feature Highlights
 ---
-# Table of contents<a name="TOC"></a>
+# Table of Contents<a name="TOC"></a>
 1. [R18 Posters](#R18)
 2. [R17 Posters](#R17)
 3. [R16 Posters](#R16)
