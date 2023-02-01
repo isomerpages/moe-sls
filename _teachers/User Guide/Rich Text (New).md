@@ -37,7 +37,7 @@ Non-Whitelisted Websites](#paragraph1)
 
 
 #### Formatting and Paragraphing<a name="Formatting"></a> 
-Starting from R18, you are able to <strong>Undo</strong> and <strong>Redo</strong> your work by clicking the respective <img src\="../../../../../media/images/UpdatedAssets/Icons/Undo.svg" height\="24"\> and <img src\="../../../../../media/images/UpdatedAssets/Icons/Redo.svg" height\="24"\> icons in the Rich Text Editor.
+Starting from R18, you are able to <strong>Undo</strong> and <strong>Redo</strong> your work by clicking the respective ![](/images/Media/Icons/Undo.svg) and ![](/images/Media/Icons/Redo.svg) icons in the Rich Text Editor.
 
 
 
@@ -45,20 +45,24 @@ Starting from R18, you are able to <strong>Undo</strong> and <strong>Redo</stron
 #### Formatting Text
 <hr>
 
-1. In the Rich Text Editor, you are able to Bold <img src\="../../../../../media/images/UpdatedAssets/Icons/Bold.svg" height\="24"\>, Italise <img src\="../../../../../media/images/UpdatedAssets/Icons/Italise.svg" height\="24"\>, change font colour <img src\="../../../../../media/images/UpdatedAssets/Icons/FontColour.svg" height\="24"\> highlight text <img src\="../../../../../media/images/UpdatedAssets/Icons/Highlight.svg" height\="24"\>, insert bullet <img src\="../../../../../media/images/UpdatedAssets/Icons/Bullet.svg" height\="24"\>   or numbering <img src\="../../../../../media/images/UpdatedAssets/Icons/Numbering.svg" height\="24"\> by clicking the respective icons.
+1. In the Rich Text Editor, you are able to Bold,
+![](/images/Media/Icons/Bold.svg) Italise ![](/images/Media/Icons/Italise.svg) change font colour, ![](/images/Media/Icons/FontColour.svg) highlight text, ![](/images/Media/Icons/Highlight.svg)
+insert bullet, ![](/images/Media/Icons/Bullet.svg) or numbering, ![](/images/Media/Icons/Numbering.svg) by clicking the respective icons.
 
 
 
 <u>Note</u>: To underline a text, use the keyboard shortcut (Windows: control + U, MacOS: command + U)
 
-Click the <strong>dropdown</strong> arrow next to the respective icons to select the font or highlight colour. For more colour options, click <img src\="../../../../../media/images/UpdatedAssets/Icons/Drawing.png" height\="24"\>.
+Click the <strong>dropdown</strong> arrow next to the respective icons to select the font or highlight colour. For more colour options, click 
+![](/images/Media/Icons/Drawing.png).
 
 #### Paragraphing Text
 <hr>
 
 1. In the Rich Text Editor, you are able to align your text left/center/right/justify, change the font type and paragraphing style.
 
-2. To adjust the text alignment, click <img src\="../../../../../media/images/UpdatedAssets/Icons/TextAlign.svg" height\="24"\> and select an alignment type.
+2. To adjust the text alignment, click ![](/images/Media/Icons/TextAlign.svg)
+and select an alignment type.
 
 3. Click the <strong>dropdown</strong> arrow beside “English” to change the font type.
 
