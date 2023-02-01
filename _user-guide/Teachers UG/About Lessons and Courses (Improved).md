@@ -27,9 +27,7 @@ A Course can be assigned to students as an Assignment.
 ![](/images/Assets/Bulb32.svg)
 #### Did you know?
 Starting from R17, you can gamify your courses, by introducing game-based elements. These game-based elements include Experience Points (XP) and Levels, Game Stories, and Achievements. 
-[Click here to find out more](/teacher/LessonManagement/AboutGamification.html)
-
-<a href="/teacher/LessonManagement/AboutGamification.html" target="_blank">Click here to find out more</a>
+<a href="/about-sls/overviewofsls/" target="_blank">Click here to find out more</a>
 
   
   
