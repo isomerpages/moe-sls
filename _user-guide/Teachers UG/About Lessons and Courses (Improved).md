@@ -85,7 +85,8 @@ The Lesson Details or Course Details card can be found in the <strong>Settings</
 
 <u>Note</u>: You can expand or hide a Lesson Details or Course Details card by clicking the <strong>Settings</strong> icon
 
-                <img src\="../../../../../media/images/UpdatedAssets/Icons/Settings.png" img height\=24 width\=24 src etc.\>
+![](/images/Media/Icons/Settings.png)
+
 
 #### Section Details Card (For Courses only)
 <hr>
@@ -96,7 +97,7 @@ The Section Details Card can be found in the <strong>Settings</strong> drawer on
 
 <u>Note</u>: You can view or hide a Section Details card by clicking the <strong>Settings</strong> icon
 
-      <img src\="../../../../../media/images/UpdatedAssets/Icons/Settings.png" img height\=24 width\=24 src etc.\>
+![](/images/Media/Icons/Settings.png)
 
 #### Activity Details Card
 <hr>
@@ -109,6 +110,10 @@ The Activity Details card contains
 1. A Component Details card is attached to every component in an Activity. These cards are arranged in order of the Components found in that Activity. To navigate to the component, you may also click on the card. This will bring you to the top of the Component. 
 
 ![](/images/Media/2Teacher/LMCardDetails.png)
+
+iframe name="Framename" src="https://www.learning.moe.edu.sg/sls/media/images/UpdatedAssets/2Teacher/LMCardDetails.png" height="220" frameborder="0" scrolling="yes" style="width: 100%;"> </iframe
+
+<iframe width=200 height=150 src="https://www.youtube.com/embed/uAofAedhlWw?list=PLQxzGTcC-xNUWDHiwCmHgBGMSnuKtoEiT" title="SLS - Game On!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 2. The Component Details Cards can also be edited when in Lesson Editor or Course Editor.
 
