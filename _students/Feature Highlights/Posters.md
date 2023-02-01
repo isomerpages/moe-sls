@@ -4,8 +4,7 @@ permalink: /students/Feature-Highlights/posters/
 description: ""
 third_nav_title: Feature Highlights
 ---
-
-# Table of contents
+# Table of contents<a name="TOC"></a>
 1. [R18 Posters](#R18)
 2. [R17 Posters](#R17)
 3. [R16 Posters](#R16)
@@ -22,10 +21,14 @@ Learn Together in SLS
 ![](/images/Media/6Posters/(2%20of%202)%20Student%20Learn%20Together.png)
 User Guide: [About Google Integration](/sls/student)
 
+[Return to the top](#TOC)
+
 ## R17 Posters<a name="R17"></a>
+[Return to the top](#TOC)
 
 ## R16 Posters<a name="R16"></a>
-
+[Return to the top](#TOC)
 ## R15 Posters<a name="R15"></a>
-
+[Return to the top](#TOC)
 ## R14 Posters<a name="R14"></a>
+[Return to the top](#TOC)
