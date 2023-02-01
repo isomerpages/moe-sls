@@ -6,7 +6,7 @@ third_nav_title: User Guide
 ---
 # Insert Rich Text
 ### Formatting and Links
-1. [Formatting & Paragraphing (New)](/TeachersUG/Formatting/)
+1. [Formatting & Paragraphing (New)](#Formatting)
 2. [Insert Table](/TeachersUG/InsertTable/)
 3. [Insert Hyperlink](/TeachersUG/InsertHyperlink/)
 4. [Insert Tooltip for Students](/TeachersUG/InsertStudentTooltip/)
@@ -34,3 +34,6 @@ Non-Whitelisted Websites](#paragraph1)
 1. [Text-to-Speech (TTS)](#introduction)
 2. [Speech Evalution](#paragraph1)
 3. [Localisation and E-Dictionary](#paragraph2)
+
+
+#### Formatting and Paragraphing<a name="Formatting"></a>
