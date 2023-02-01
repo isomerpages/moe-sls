@@ -51,305 +51,65 @@ From the right menu of the Lesson or Course View, you can
             
 #### Activity or Quiz
 <hr>
-An Activity or Quiz is part of a Lesson or Course. Teachers can create up to 20 Activities or Quizzes in a Lesson or Section. An Activity can comprise of **Components** of all types, including Text/media, all question types,
-
-                  Poll, and Interactive Thinking Tool.
-
-                </p\>
-
-                <p\>
-
-                  A Quiz can only contain questions. There are three types of Quiz mode:
-
-                </p\>
-
-<ul\>
-
-  <li\>
-
-    <p\>
-
-      <strong\>Teacher-Marked Quiz</strong\>: Students will receive their marks and individualised
-
-      comments after Teacher has marked and released the Quiz.
-
-    </p\>
-
-    <li\>
-
-      <p\>
-
-        <strong\>Auto-graded Quiz</strong\>: Students will receive their marks and feedback after completing the entire Quiz.
-
-                </p\>
-
-                <li\>
-
-                  <p\>
-
-                    <strong\>Progressive Quiz</strong\>: Students will receive their marks and feedback after each Question in the Quiz.
-
-                  </p\>
-
-                </li\>
-
-              </ul\>
-
-                <p\>
-
-                  To create an Activity or Quiz, you need to be in the <strong\>Lesson Editor</strong\> or <strong\>Course Editor</strong\>.
-
-                </p\>
-
-                <p\>
-
-                  <u\>Note</u\>: Starting from R18, you can set an Activity as optional, and create Team Activities in Quizzes.
-
-                </p\>
-
-              </section\>
-
-              <br\>
-
-  
-  
-
-              <div class\="page-content sug-user-content"\>
-
-              <section class\="section"\>
-
-                <h2 class\="section-title"\>Lesson Details or Course Details Card</h2\>
-
-                <hr />
-
-                <p\>
-
-                  The Lesson Details or Course Details card can be found in the <strong\>Settings</strong\> drawer on the Cover page of
-
-                  every Lesson or Course. It contains:
-
-                  <ol\>
-
-                    <li\>Lesson or Course Notes</li\>
-
-                    <li\>Language Settings
-
-                      <ul\>
-
-                        <li\>Language Localisation</li\>
-
-                        <li\>E-Dictionary</li\>
-
-                      </ul\>
-
-                    </li\>
-
-                    <li\>Tags
-
-                      <ul\>
-
-                        <li\>Keyword Tags</li\>
-
-                        <li\>Learning Experiences (For Lessons only)</li\>
-
-                        <li\>Lesson or Course Tags</li\>
-
-                      </ul\>
-
-                    </li\>
-
-                    <li\>Lesson or Course Credited to..</li\>
-
-                    <li\>
-
-                      Lesson or Course Permissions <strong\>New in R18</strong\>
-
-                      <ul\>
-
-                        <li\>
-
-                          <p\>
-
-                            Allow teachers to copy, assign and publish this Lesson or Course; allow students to copy this Lesson or Course
-
-                          </p\>
-
-                        </li\>
-
-                          <li\>
-
-                            <p\>
-
-                              Allow teachers and students to view print-friendly worksheet
-
-                            </p\>
-
-                          </li\>
-
-                          <li\>
-
-                            <p\>
-
-                              Allow students to reattempt as self-study lesson or Course
-
-                            </p\>
-
-                          </li\>
-
-                        </li\>
-
-                      </ul\>
-
-                    </li\>
-
-                    <li\>Lesson or Course Information</li\>
-
-                  </ol\>
-
-                </p\>
-
-                <u\>Note</u\>: You can expand or hide a Lesson Details or Course Details card by clicking the <strong\>Settings</strong\> icon
+An Activity or Quiz is part of a Lesson or Course. Teachers can create up to 20 Activities or Quizzes in a Lesson or Section. An Activity can comprise of **Components** of all types, including Text/media, all question types, Poll, and Interactive Thinking Tool.
+
+A Quiz can only contain questions. There are three types of Quiz mode:
+
+<strong>Teacher-Marked Quiz</strong>: Students will receive their marks and individualised comments after Teacher has marked and released the Quiz.
+
+<strong>Auto-graded Quiz</strong>: Students will receive their marks and feedback after completing the entire Quiz.
+				
+ <strong>Progressive Quiz</strong>: Students will receive their marks and feedback after each Question in the Quiz.
+
+To create an Activity or Quiz, you need to be in the <strong>Lesson Editor</strong> or 	<strong>Course Editor</strong>.
+
+<u>Note</u>: Starting from R18, you can set an Activity as optional, and create Team Activities in Quizzes.
+
+#### Lesson Details or Course Details Card
+<hr>
+The Lesson Details or Course Details card can be found in the <strong>Settings</strong> drawer on the Cover page of every Lesson or Course. It contains:
+
+1.  Lesson or Course Notes
+2. Language Settings
+	*	Language Localisation
+	* E-Dictionary
+3. Tags
+	<ul><li>Keyword Tags</li>
+	<li>Learning Experiences (For Lessons only)</li>
+		<li>Lesson or Course Tags</li></ul>
+4. Lesson or Course Credited to..
+5. Lesson or Course Permissions <strong>New in R18</strong>
+	*	Allow teachers to copy, assign and publish this Lesson or Course; allow students to copy this Lesson or Course
+	* Allow teachers and students to view print-friendly worksheet
+6. Allow students to reattempt as self-study lesson or Course
+
+<u>Note</u>: You can expand or hide a Lesson Details or Course Details card by clicking the <strong>Settings</strong> icon
 
                 <img src\="../../../../../media/images/UpdatedAssets/Icons/Settings.png" img height\=24 width\=24 src etc.\>
 
-                .
+#### Section Details Card (For Courses only)
+<hr>
+The Section Details Card can be found in the <strong>Settings</strong> drawer on the Cover page of every Section. It contains:
 
-  
+1. Section Notes
+2. Learning Experience
 
-              </section\>
-
-              <br\>
-
-  
-
-              <div class\="page-content sug-user-content"\>
-
-              <section class\="section"\>
-
-                <h2 class\="section-title"\>Section Details Card (For Courses only)</h2\>
-
-                <hr />
-
-                <p\>
-
-                  The Section Details Card can be found in the <strong\>Settings</strong\> drawer on the Cover page of every Section. It contains:
-
-                </p\>
-
-                  <ol\>
-
-                    <li\>Section Notes</li\>
-
-                    <li\>Learning Experience</li\>
-
-                  </ol\>
-
-                </p\>
-
-                <u\>Note</u\>: You can view or hide a Section Details card by clicking the <strong\>Settings</strong\> icon
+<u>Note</u>: You can view or hide a Section Details card by clicking the <strong>Settings</strong> icon
 
       <img src\="../../../../../media/images/UpdatedAssets/Icons/Settings.png" img height\=24 width\=24 src etc.\>
 
-                .
+#### Activity Details Card
+<hr>
+The Activity Details card contains
+1. Activity Notes
+2. Active Learning Process (ALP)
 
-                </p\>
+  #### Component Details Card
+<hr>
+1. A Component Details card is attached to every component in an Activity. These cards are arranged in order of the Components found in that Activity. To navigate to the component, you may also click on the card. This will bring you to the top of the Component. 
 
-  
+![](/images/Media/2Teacher/LMCardDetails.png)
 
-              </section\>
+2. The Component Details Cards can also be edited when in Lesson Editor or Course Editor.
 
-              <br\>
-
-  
-
-              <div class\="page-content sug-user-content"\>
-
-              <section class\="section"\>
-
-                <h2 class\="section-title"\>Activity Details Card</h2\>
-
-                <hr />
-
-                <p\>
-
-                  The Activity Details card contains
-
-                  <ol\>
-
-                    <li\>Activity Notes</li\>
-
-                    <li\>Active Learning Process (ALP)</li\>
-
-  
-
-                  </ol\>
-
-                </p\>
-
-  
-
-              </section\>
-
-              <br\>
-
-  
-
-           <div class\="page-content sug-user-content"\>
-
-              <section class\="section"\>
-
-                <h2 class\="section-title"\>Component Details Card</h2\>
-
-                <hr />
-
-                <ol\>
-
-                  <li\>
-
-                <p\>
-
-                  A Component Details card is attached to every component in an Activity.
-
-                  These cards are arranged in order of the Components found in that Activity.
-
-                  To navigate to the component, you may also click on the card. This will bring you to the top of the Component. </p\>
-
-                  <figure class\="embed" style\="width: 30%; margin-left: auto; margin-right: auto;"\>
-
-                  <div class\="embed-container"\>
-
-                  <img src\="../../../../../media/images/UpdatedAssets/2Teacher/LMCardDetails.png" />
-
-                  </div\>
-
-                  </figure\>
-
-                </li\>
-
-                <li\>
-
-                  <p\>
-
-                    The Component Details Cards can also be edited when in Lesson Editor or Course Editor.
-
-                  </p\>
-
-                </li\>
-
-                <li\>
-
-                  <p\>
-
-                    Click <strong\>Edit</strong\> to include Questions into Learning Progress, add Keyword Tags for all components except Text/Media and ITT and Question Tags for questions only.
-
-                    These tags will help to improve your Search Result when searching for resources in Search.
-
-                  </p\>
-
-                </li\>
-
-              </ol\>
-
-        </section\>
-
-              <br\>
+3. Click <strong>Edit</strong> to include Questions into Learning Progress, add Keyword Tags for all components except Text/Media and ITT and Question Tags for questions only. These tags will help to improve your Search Result when searching for resources in Search.
