@@ -6,11 +6,11 @@ third_nav_title: Teachers UG
 ---
 <base target="_blank">
 
-#### Create a Lesson (New)
+### View Notifications (New)
 
 ![](/images/Flagged%20image.jpg)
 
-##### Lesson
+##### Flag a Notification
 <hr>
 
 1. From the Notifications page, click the Flag icon (see #1) to flag a Notification. You can use it to flag important notifications you wish to follow up on.
