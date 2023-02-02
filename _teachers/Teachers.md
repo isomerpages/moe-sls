@@ -28,7 +28,6 @@ Looking for new ways to support your students’ learning? SLS features can enha
 
 Note: You can expand or hide a Lesson Details or Course Details card by clicking the **Settings** icon
 <img src="/images/Assets/Bell16.svg" style="width:50px; display: inline;"/> 
-
 Note: You can expand or hide a Lesson Details or Course Details card by clicking the **Settings** icon
 
 
