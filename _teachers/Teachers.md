@@ -25,6 +25,20 @@ Looking for new ways to support your students’ learning? SLS features can enha
   </tr>  
 </table>
 
+
+<br><br>
+<hr> 
+
+<table>  
+	
+  <tr>  
+    <th>Note: You can expand or hide a Lesson Details or Course Details card by clicking the **Settings** icon</th>
+    <th><img src="/images/Assets/3Columns32.svg" style="width:50px;"/></th>  A Component Details card is attached to every component in an Activity. These cards are arranged in order of the Components found in that Activity. To navigate to the component, you may also click on the card. This will bring you to the top of the Component.
+ </table>
+A Component Details card is attached to every component in an Activity. These cards are arranged in order of the Components found in that Activity. To navigate to the component, you may also click on the card. This will bring you to the top of the Component.
+<hr>
+
+1. 
 ![](/images/Assets/3Columns32.svg){ height="36px" width="36px" }
 ![](/images/Assets/Bell16.svg)
 ![](/images/Bell16%201.png)
@@ -42,9 +56,8 @@ Looking for new ways to support your students’ learning? SLS features can enha
 8
 <img src="/images/Bell16%201.png" width="10px">
 
-9. Hello<img src="/images/Bell16%201.png" style="width:10px;"/>world
+9. Hello<img src="/images/Assets/Bell16.svg" style="width:50px;"/>world
 
-10. Hello<td><img src="/images/Bell16%201.png" style="width:10px;"/>world</td>
 
 ## Feature Highlights  
 #### Posters
