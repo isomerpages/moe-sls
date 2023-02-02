@@ -19,9 +19,9 @@ Looking for new ways to support your students’ learning? SLS features can enha
     <td>Germany</td>  
   </tr>  
   <tr>  
-    <td>Centro comercial Moctezuma</td>  
-    <td>Francisco Chang</td>  
-    <td>Mexico</td>  
+    <td><img src="/images/Assets/3Columns32.svg" style="width:50px;"/></td>  
+    <td><img src="/images/Assets/Bell16.svg" style="width:50px;"/></td>  
+    <td><img src="/images/Media/Quick%20Links/Teachers%20Hero.png" style="width:50px;"/></td>  
   </tr>  
 </table>
 
@@ -40,8 +40,12 @@ Looking for new ways to support your students’ learning? SLS features can enha
 <img src="/images/Bell16%201.png" height="10rem">
 
 8
-<img src="/images/Bell16%201.png" height="10px">
-																						
+<img src="/images/Bell16%201.png" width="10px">
+
+9. Hello<img src="/images/Bell16%201.png" style="width:10px;"/>world
+
+10. Hello<td><img src="/images/Bell16%201.png" style="width:10px;"/>world</td>
+
 ## Feature Highlights  
 #### Posters
 [Release 18 (1 Dec 2022)](/sls/student)
