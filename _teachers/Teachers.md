@@ -27,7 +27,7 @@ Looking for new ways to support your students’ learning? SLS features can enha
 
 
 Note: You can expand or hide a Lesson Details or Course Details card by clicking the **Settings** icon
-<img src="/images/Assets/Bell16.svg" style="width:50px; display: inline;"/> 
+<img src="/images/Assets/Bell16.svg" style="width:10%; display: inline;"/> 
 Note: You can expand or hide a Lesson Details or Course Details card by clicking the **Settings** icon
 
 
@@ -56,12 +56,16 @@ A Component Details card is attached to every component in an Activity. These ca
 	    ![](/images/Assets/Bell16.svg](/images/Assets/Bell16.svg){ width=50% }
 			
 7
-<img src="/images/Bell16%201.png" height="10rem">
+<img src="/images/Bell16%201.png" style= "height:160px">
 
 8
-<img src="/images/Bell16%201.png" width="10px">
+<img src="/images/Bell16%201.png" width="16px">
 
 9. Hello<img src="/images/Assets/Bell16.svg" style="width:50px;"/>world
+
+<img src="/images/Media/Quick%20Links/Teachers%20Hero.png" style="height:100px">
+
+11. !important
 
 
 ## Feature Highlights  
