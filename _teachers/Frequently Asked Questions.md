@@ -3,11 +3,12 @@ title: Frequently Asked Questions
 permalink: /teachers/teacherfaqs/
 description: ""
 ---
-### Technical Support and Passwords
+Overview of SLS System
+----------------------
+---
 
-#### Overview of SLS System
-
-1. **What is SLS?** The Singapore Student Learning Space (SLS) is one of MOE’s key initiatives to transform the learning experiences of Singaporean students through the purposeful use of technology to enable students to engage in different learning modes, including self-directed and collaborative learning. All school leaders, teachers and students in the national school system have access to the SLS.
+1. **What is SLS?** 
+<br>The Singapore Student Learning Space (SLS) is one of MOE’s key initiatives to transform the learning experiences of Singaporean students through the purposeful use of technology to enable students to engage in different learning modes, including self-directed and collaborative learning. All school leaders, teachers and students in the national school system have access to the SLS.
     
     The SLS is an online learning portal providing equal access to quality curriculum-aligned resources in major subjects from primary to pre-university level, in line with the development of [21st Century Competencies](https://www.moe.gov.sg/education-in-sg/21st-century-competencies) (21CC).
     
@@ -37,42 +38,56 @@ Access to SLS
     - Young Overseas Singaporeans who are not on LOA from a Singapore school but intend to return to Singapore’s education system [can apply for access to the SLS through this application form.](https://go.gov.sg/applyforsls)
    
  
-Technical &amp; Infrastructure Support
---------------------------------------
+Technical & Infrastructure Support
+---
 
 ---
 
-1. **What are the technical requirements for devices to access the SLS?**
+1. **What are the technical requirements for devices to access the SLS?** <br>
+
+	The Student Learning Space (SLS) is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices.
+
+	Note: Due to the responsive nature of the site, the layout of the components on the website will appear differently on different devices.
     
-     The Student Learning Space (SLS) is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices.
-    
-     Note: Due to the responsive nature of the site, the layout of the components on the website will appear differently on different devices.
-    
-     The recommended operating systems and browsers as at 7 June 2022 are as follows:
-    
-        Operating System Browsers     Microsoft Windows 10 Google Chrome 88 and later
-    
-    Microsoft Edge 88 and later
-    
-        Mac OS 10.15 and later Safari 14 and later
-    
-    Google Chrome 88 and later
-    
-        iPadOS 14 and later Safari 14 and later
-    
-    Google Chrome 88 and later
-    
-        iOS 14 and later Safari 14 and later
-    
-    Google Chrome 88 and later
-    
-        Android 10 and later Google Chrome 88 and later
-    
-       ChromeOS 103 and later Google Chrome 103 and later
-    
-       
-    
-     If you are having trouble even though your browser meets the above requirements, you can find self-help steps on the [SLS Troubleshooting page](../user-guide/vle/logintroubleshooting/index.html).
+	The recommended operating systems and browsers as at 7 June 2022 are as follows:
+
+<table>  
+  <tr>  
+    <th>Operating System</th>  
+    <th>Browsers</th>  
+  </tr>  
+  <tr>  
+    <td>Microsoft Windows 10</td>  
+    <td>Google Chrome 88 and later    
+    Microsoft Edge 88 and later</td>  
+  </tr>  
+  <tr>  
+    <td>Mac OS 10.15 and later</td>  
+    <td>Safari 14 and later
+			Google Chrome 88 and later</td>  
+  </tr>  
+	  <tr>  
+    <td>iPadOS 14 and later</td>  
+    <td>Safari 14 and later
+			Google Chrome 88 and later</td>  
+  </tr>  
+		  <tr>  
+    <td>iOS 14 and later</td>  
+    <td>Safari 14 and later
+			Google Chrome 88 and later</td>  
+  </tr>  
+	<tr>  
+    <td>Android 10 and later</td>  
+    <td>Google Chrome 88 and later</td>  
+  </tr>  
+	<tr>  
+    <td>ChromeOS 103 and later</td>  
+    <td>Google Chrome 103 and later</td>  
+  </tr>  
+</table>
+
+If you are having trouble even though your browser meets the above requirements, you can find self-help steps on the [SLS Troubleshooting page](../user-guide/vle/logintroubleshooting/index.html).
+
 2. **Who can users contact for technical support?**
     
      For assistance on login and browser issues, users are advised to refer to the [SLS Troubleshooting page](../user-guide/vle/logintroubleshooting/index.html).
@@ -82,9 +97,8 @@ Technical &amp; Infrastructure Support
    
 
 Tips on Passwords and Other Security Features
----------------------------------------------
+----------------------------------
 
----
 
 1. **What can students do if they forget their passwords?**
     
@@ -96,33 +110,47 @@ Tips on Passwords and Other Security Features
     
     Here is a poster for students on how to troubleshoot login issues.
     
-       [ ![](../media/images/UpdatedAssets/5Troubleshooting/Self-help tips for student login.png) ]() For Teachers:
+       [ ![](../media/images/UpdatedAssets/5Troubleshooting/Self-help tips for student login.png) ]()
+			 
+	For Teachers:
     
-    Teachers can reset their password using the Forgot Password link.
+	Teachers can reset their password using the Forgot Password link.
     
-    For issues related to the provisioning of accounts to non-MIMS users, direct hires or flexi-adjunct teachers, schools can also email: SLS\_OPS@moe.gov.sg.
+	For issues related to the provisioning of accounts to non-MIMS users, direct hires or flexi-adjunct teachers, schools can also email: SLS\_OPS@moe.gov.sg.
+
 2. **Can students change the security questions?**
     
     The security questions provided are fixed but students can log in to change their answers to the security questions.
-3. **What can students do if their accounts are locked ?**
+		
+3. **What can students do if their accounts are locked ?**<br><br>
+Students can call their [School-Based Helpline](../user-guide/vle/logintroubleshooting/LoginTroubleshooting/SchoolBasedHelpline.html) or the SLS Helpdesk (see below) to unlock their SLS accounts.
+
+
+<table>  
+  <tr>  
+    <th></th>  
+    <th>SLS Helpdesk</th>  
+  </tr>  
+  <tr>  
+    <td>Contact Information</td>  
+    <td>Email: helpdesk@sls.ufinity.com
+<br>Tel: (65) 6702 6513</td>  
+  </tr>  
+  <tr>  
+    <td>Operating Hours</td>  
+    <td>
+Mondays - Fridays:
+<br>4 pm - 9 pm (School Days)
+<br>9 am - 9 pm (School Holidays)
+<br>Saturdays:
+<br>9:00 am - 3:00 pm
+<br>(Closed on Sundays &; Public Holidays)</td>  
+</tr>  
+</table>
     
-    Students can call their [School-Based Helpline](../user-guide/vle/logintroubleshooting/LoginTroubleshooting/SchoolBasedHelpline.html) or the SLS Helpdesk (see below) to unlock their SLS accounts.
+               
     
-         SLS Helpdesk     Contact Information Email: helpdesk@sls.ufinity.com
-    
-    Tel: (65) 6702 6513
-    
-        Operating Hours Mondays - Fridays:
-    
-    4 pm - 9 pm (School Days)
-    
-    9 am - 9 pm (School Holidays)
-    
-    Saturdays:
-    
-    9:00 am - 3:00 pm)
-    
-    (Closed on Sundays &amp; Public Holidays)
+         
     
         
  
