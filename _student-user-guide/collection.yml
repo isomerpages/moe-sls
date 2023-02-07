@@ -1,0 +1,4 @@
+collections:
+  student-user-guide:
+    output: true
+    order: []
