@@ -2,6 +2,7 @@ collections:
   user-guide:
     output: true
     order:
+      - Teachers UG/Example Title 3.md
       - Teachers UG/Example Title 2.md
       - Teachers UG/.keep
       - Teachers UG/About Lessons and Courses (Improved).md
