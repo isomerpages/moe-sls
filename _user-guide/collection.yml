@@ -4,6 +4,7 @@ collections:
     order:
       - Useful Information/Example Title.md
       - Useful Information/.keep
+      - Copyright Matters/Example Title.md
       - Copyright Matters/.keep
       - My Subjects/.keep
       - Account Management/.keep
