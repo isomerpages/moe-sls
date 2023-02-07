@@ -1,5 +1,5 @@
 collections:
-  user-guide:
+  teacher-user-guide:
     output: true
     order:
       - Login Troubleshooting/.keep
