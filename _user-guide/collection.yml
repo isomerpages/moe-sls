@@ -2,6 +2,7 @@ collections:
   user-guide:
     output: true
     order:
+      - Rich Text/.keep
       - Lesson & Course Management/.keep
       - Login Troubleshooting/Get Help from your School.md
       - Login Troubleshooting/Contact SLS Helpdesk.md
