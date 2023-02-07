@@ -14,11 +14,11 @@ third_nav_title: Feature Highlights
 
 ## R18 Posters    <a name="R18"></a>
 Updated Login to SLS
-![](/images/Media/6Posters/(1%20of%202)%20Student%20MIMS.png)
+<img src="/images/Media/6Posters/(1%20of%202)%20Student%20MIMS.png" style="width:100%;"/>
 User Guide: [Login to SLS](/sls/student)
 
 Learn Together in SLS
-![](/images/Media/6Posters/(2%20of%202)%20Student%20Learn%20Together.png)
+<img src="/images/Media/6Posters/(2%20of%202)%20Student%20Learn%20Together.png" style="width:50%;"/>
 User Guide: [About Google Integration](/sls/student)
 
 [Return to the top](#TOC)
