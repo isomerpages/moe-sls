@@ -4,7 +4,6 @@ permalink: /user-guide/Teachers-UG/aboutlessons/
 description: ""
 third_nav_title: Lesson & Course Management
 ---
-
 <base target="_blank">
 
 #### About Lessons and Courses (Improved)
@@ -31,7 +30,7 @@ A Course can be assigned to students as an Assignment.
 Starting from R17, you can gamify your courses, by introducing game-based elements. These game-based elements include Experience Points (XP) and Levels, Game Stories, and Achievements. 
 <a href="/about-sls/overviewofsls/" target="_blank">Click here to find out more</a>
 
- #### Manage a Lesson or Course
+#### Manage a Lesson or Course
 <hr>
 From the right menu of the Lesson or Course Editor, you can
 
@@ -108,7 +107,7 @@ The Activity Details card contains
 1. A Component Details card is attached to every component in an Activity. These cards are arranged in order of the Components found in that Activity. To navigate to the component, you may also click on the card. This will bring you to the top of the Component. 
 <br>
 <br>
-<img src="/images/Media/2Teacher/LMCardDetails.png" style="width:50%; display: ;"/>
+<img src="/images/Media/2Teacher/LMCardDetails.png" style="width:30%; display: ;"/>
 
 2. The Component Details Cards can also be edited when in Lesson Editor or Course Editor.
 
