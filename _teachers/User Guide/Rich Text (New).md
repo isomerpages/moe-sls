@@ -38,16 +38,16 @@ Non-Whitelisted Websites](#paragraph1)
 <hr>
 
 ### Formatting and Paragraphing<a name="Formatting"></a> 
-Starting from R18, you are able to <strong>Undo</strong> and <strong>Redo</strong> your work by clicking the respective <img src="/images//Media/Icons/Undo.svg" style="width:5%; display: inline;"/>  and <img src="/images//Media/Icons/Redo.svg" style="width:5%; display: inline;"/> icons in the Rich Text Editor.
+Starting from R18, you are able to <strong>Undo</strong> and <strong>Redo</strong> your work by clicking the respective <img src="/images/Media/Icons/Undo.svg" style="width:5%; display: inline;"/>  and <img src="/images/Media/Icons/Redo.svg" style="width:5%; display: inline;"/> icons in the Rich Text Editor.
 
 #### Formatting Text
 <hr>
 
 1. In the Rich Text Editor, you are able to Bold,
-<img src="/images//Media/Icons/Bold.svg" style="width:5%; display: inline;"/> Italise, 
-<img src="/images//Media/Icons/Italise.svg" style="width:5%; display: inline;"/> change font colour, 
-<img src="/images//Media/Icons/FontColour.svg" style="width:5%; display: inline;"/> highlight text, <img src="/images//Media/Icons/Highlight.svg" style="width:5%; display: inline;"/>
-insert bullet, <img src="/images//Media/Icons/Bullet.svg" style="width:5%; display: inline;"/> or numbering, <img src="/images//Media/Icons/Numbering.svg" style="width:5%; display: inline;"/> by clicking the respective icons.
+<img src="/images/Media/Icons/Bold.svg" style="width:5%; display: inline;"/> Italise, 
+<img src="/images/Media/Icons/Italise.svg" style="width:5%; display: inline;"/> change font colour, 
+<img src="/images/Media/Icons/FontColour.svg" style="width:5%; display: inline;"/> highlight text, <img src="/images/Media/Icons/Highlight.svg" style="width:5%; display: inline;"/>
+insert bullet, <img src="/images/Media/Icons/Bullet.svg" style="width:5%; display: inline;"/> or numbering, <img src="/images/Media/Icons/Numbering.svg" style="width:5%; display: inline;"/> by clicking the respective icons.
 
 
 
@@ -57,14 +57,14 @@ insert bullet, <img src="/images//Media/Icons/Bullet.svg" style="width:5%; displ
 
 <u>Note</u>: To underline a text, use the keyboard shortcut (Windows: control + U, MacOS: command + U)
 
-Click the <strong>dropdown</strong> arrow next to the respective icons to select the font or highlight colour. For more colour options, click <img src="/images//Media/Icons/Drawing.png" style="width:5%; display: inline;"/>.
+Click the <strong>dropdown</strong> arrow next to the respective icons to select the font or highlight colour. For more colour options, click <img src="/images/Media/Icons/Drawing.png" style="width:5%; display: inline;"/>.
 
 #### Paragraphing Text
 <hr>
 
 1. In the Rich Text Editor, you are able to align your text left/center/right/justify, change the font type and paragraphing style.
 
-2. To adjust the text alignment, click <img src="/images//Media/Icons/TextAlign.svg" style="width:5%; display: inline;"/>
+2. To adjust the text alignment, click <img src="/images/Media/Icons/TextAlign.svg" style="width:5%; display: inline;"/>
 and select an alignment type.
 
 3. Click the <strong>dropdown</strong> arrow beside “English” to change the font type.
