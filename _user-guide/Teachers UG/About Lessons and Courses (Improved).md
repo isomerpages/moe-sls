@@ -24,8 +24,9 @@ Each Activity comprises a number of Components such as Text/Media, Poll, Interac
 
 A Course can be assigned to students as an Assignment.
 
-![](/images/Assets/Bulb32.svg)
-#### Did you know?
+
+#### <img src="/images/Assets/Bulb32.svg" style="width:50px; display: inline;"/>  Did you know?
+
 Starting from R17, you can gamify your courses, by introducing game-based elements. These game-based elements include Experience Points (XP) and Levels, Game Stories, and Achievements. 
 <a href="/about-sls/overviewofsls/" target="_blank">Click here to find out more</a>
 
@@ -35,7 +36,7 @@ From the right menu of the Lesson or Course Editor, you can
 
 1. <a href="/about-sls/overviewofsls/" target="_blank">Manage Gamification Settings</a>
 2. <a href="/about-sls/overviewofsls/" target="_blank">Manage Passcode Settings</a>
-              
+
 From the right menu of the Lesson or Course View, you can
 
 1. <a href="/about-sls/overviewofsls/" target="_blank">View Gamification Settings</a>
@@ -47,8 +48,8 @@ From the right menu of the Lesson or Course View, you can
 7. <a href="/about-sls/overviewofsls/" target="_blank">Check for Submission (MOE Library) - for CRDOs only</a>
 8. <a href="/about-sls/overviewofsls/" target="_blank">Check for Submissions (Community Gallery)</a>
 9. <a href="/about-sls/overviewofsls/" target="_blank">View as Print-friendly Worksheet</a>
-10. <a href="/about-sls/overviewofsls/" target="_blank">Move to Trash</a>         
-            
+10. <a href="/about-sls/overviewofsls/" target="_blank">Move to Trash</a>
+
 #### Activity or Quiz
 <hr>
 An Activity or Quiz is part of a Lesson or Course. Teachers can create up to 20 Activities or Quizzes in a Lesson or Section. An Activity can comprise of **Components** of all types, including Text/media, all question types, Poll, and Interactive Thinking Tool.
@@ -83,10 +84,7 @@ The Lesson Details or Course Details card can be found in the <strong>Settings</
 	* Allow teachers and students to view print-friendly worksheet
 6. Allow students to reattempt as self-study lesson or Course
 
-<u>Note</u>: You can expand or hide a Lesson Details or Course Details card by clicking the <strong>Settings</strong> icon
-
-![](/images/Media/Icons/Settings.png)
-
+<u>Note</u>: You can expand or hide a Lesson Details or Course Details card by clicking the <strong>Settings</strong> icon  <img src="/images/Media/Icons/Settings.png" style="width:5%; display: inline;"/>
 
 #### Section Details Card (For Courses only)
 <hr>
@@ -95,9 +93,8 @@ The Section Details Card can be found in the <strong>Settings</strong> drawer on
 1. Section Notes
 2. Learning Experience
 
-<u>Note</u>: You can view or hide a Section Details card by clicking the <strong>Settings</strong> icon
-
-![](/images/Media/Icons/Settings.png)
+<u>Note</u>: You can view or hide a Section Details card by clicking the <strong>Settings</strong> icon 
+<img src="/images/Media/Icons/Settings.png" style="width:5%; display: inline;"/>
 
 #### Activity Details Card
 <hr>
@@ -108,12 +105,9 @@ The Activity Details card contains
   #### Component Details Card
 <hr>
 1. A Component Details card is attached to every component in an Activity. These cards are arranged in order of the Components found in that Activity. To navigate to the component, you may also click on the card. This will bring you to the top of the Component. 
-
-![](/images/Media/2Teacher/LMCardDetails.png)
-
-iframe name="Framename" src="https://www.learning.moe.edu.sg/sls/media/images/UpdatedAssets/2Teacher/LMCardDetails.png" height="220" frameborder="0" scrolling="yes" style="width: 100%;"> </iframe
-
-<iframe width=200 height=150 src="https://www.youtube.com/embed/uAofAedhlWw?list=PLQxzGTcC-xNUWDHiwCmHgBGMSnuKtoEiT" title="SLS - Game On!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br>
+<br>
+<img src="/images/Media/2Teacher/LMCardDetails.png" style="width:50%; display: ;"/>
 
 2. The Component Details Cards can also be edited when in Lesson Editor or Course Editor.
 
