@@ -2,6 +2,7 @@ collections:
   user-guide:
     output: true
     order:
+      - Learning Progress/.keep
       - Class Group Management/.keep
       - Integration/.keep
       - Assignments/.keep
