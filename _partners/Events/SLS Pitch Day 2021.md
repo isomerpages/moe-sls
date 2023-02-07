@@ -4,8 +4,7 @@ permalink: /partners/Events/slspitchday2021/
 description: ""
 third_nav_title: Events
 ---
-
-# Table of contents
+# Directory
 1. [Overview](/sls/student)
 2. [Featured Pitches](/sls/student)
 3. [Assessment and Analytics](/sls/student)
