@@ -2,6 +2,7 @@ collections:
   user-guide:
     output: true
     order:
+      - Useful Information/.keep
       - Copyright Matters/.keep
       - My Subjects/.keep
       - Account Management/.keep
