@@ -2,6 +2,7 @@ collections:
   user-guide:
     output: true
     order:
+      - Class Group Management/.keep
       - Integration/.keep
       - Assignments/.keep
       - Rich Text/.keep
