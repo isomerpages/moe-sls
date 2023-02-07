@@ -22,8 +22,7 @@ third_nav_title: User Guide
 
 ### Website
 1. [Embed Whitelisted Websites](#introduction)
-2. [Previously Whitelisted/  
-Non-Whitelisted Websites](#paragraph1)
+2. [Previously Whitelisted/Non-Whitelisted Websites](#paragraph1)
 
 ### Special Characters/Other Languages
 1. [Insert Mathematical or Chemical Equation](#introduction)
