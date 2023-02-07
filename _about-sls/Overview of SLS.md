@@ -9,4 +9,9 @@ The SLS is continually being developed in response to the needs of students and 
 
  The SLS’s agile development allows it to quickly adapt to new demands from users or policy changes. The SLS has already whitelisted 200+ free content/ tools and built APIs according to international specifications to integrate with other systems to exchange content and tools (LTI 1.3), assessment items (QTI3) and learning data (xAPI).
 
-<iframe width="500px" height="275px" src="https://www.youtube.com/embed/ht--L3Pj_yQ" title="Singapore Student Learning Space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="bp-youtube">
+
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/ht--L3Pj_yQ" title="Singapore Student Learning Space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	
+
+</div>
