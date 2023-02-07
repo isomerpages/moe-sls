@@ -2,15 +2,15 @@ collections:
   students:
     output: true
     order:
+      - Student.md
       - Feature Highlights/.keep
       - Feature Highlights/Posters.md
       - Feature Highlights/Videos.md
       - Student Initiated Learning.md
+      - User Guide/.keep
       - User Guide/User Guide (Students).md
       - User Guide/User Guide (Login Troubleshooting).md
       - User Guide/Account Management.md
-      - User Guide/.keep
+      - Frequently Asked Questions/.keep
       - Frequently Asked Questions/Young Overseas Singaporeans.md
       - Frequently Asked Questions/Technical Support and Passwords.md
-      - Frequently Asked Questions/.keep
-      - Student.md
