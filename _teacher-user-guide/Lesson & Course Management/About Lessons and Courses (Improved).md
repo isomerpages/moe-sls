@@ -4,7 +4,7 @@ permalink: /user-guide/Teachers-UG/aboutlessons/
 description: ""
 third_nav_title: Lesson & Course Management
 ---
-#### About Lessons and Courses (Improved)
+<h4>About Lessons and Courses (Improved)</h4>
 
 ##### Lesson
 <hr>
