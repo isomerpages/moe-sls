@@ -102,7 +102,7 @@ The Activity Details card contains
 1. Activity Notes
 2. Active Learning Process (ALP)
 
-  #### Component Details Card
+#### Component Details Card
 <hr>
 1. A Component Details card is attached to every component in an Activity. These cards are arranged in order of the Components found in that Activity. To navigate to the component, you may also click on the card. This will bring you to the top of the Component. 
 <br>
