@@ -35,6 +35,7 @@ Non-Whitelisted Websites](#paragraph1)
 2. [Speech Evalution](#paragraph1)
 3. [Localisation and E-Dictionary](#paragraph2)
 
+<hr>
 
 ### Formatting and Paragraphing<a name="Formatting"></a> 
 Starting from R18, you are able to <strong>Undo</strong> and <strong>Redo</strong> your work by clicking the respective <img src="/images//Media/Icons/Undo.svg" style="width:5%; display: inline;"/>  and <img src="/images//Media/Icons/Redo.svg" style="width:5%; display: inline;"/> icons in the Rich Text Editor.
