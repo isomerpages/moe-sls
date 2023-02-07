@@ -2,6 +2,7 @@ collections:
   user-guide:
     output: true
     order:
+      - My Drive/.keep
       - Resources/.keep
       - Announcements & Notifications/.keep
       - Learning Progress/.keep
