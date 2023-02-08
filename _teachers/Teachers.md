@@ -7,29 +7,6 @@ description: ""
 
 Looking for new ways to support your students’ learning? SLS features can enhance your teaching to engage your students better!
 
-<table>  
-  <tr>  
-    <th>Column 1</th>
-    <th>Column 2</th>  
-    <th>Column 3</th>  
-  </tr>  
-  <tr>  
-    <td>Alfreds Futterkiste</td>  
-    <td>Maria Anders</td>  
-    <td>Germany</td>  
-  </tr>  
-  <tr>  
-    <td><img src="/images/Assets/3Columns32.svg" style="width:50px;"/></td>  
-    <td><img src="/images/Assets/Bell16.svg" style="width:50px;"/></td>  
-    <td><img src="/images/Media/Quick%20Links/Teachers%20Hero.png" style="width:50px;"/></td>  
-  </tr>  
-</table>
-
-
-Note: You can expand or hide a Lesson Details or Course Details card by clicking the **Settings** icon
-<img src="/images/Assets/Bell16.svg" style="width:5%; display: inline;"/> 
-Note: You can expand or hide a Lesson Details or Course Details card by clicking the **Settings** icon
-
 <hr> 
 
 
