@@ -2,6 +2,7 @@ collections:
   teachers:
     output: true
     order:
+      - User Guide 2/Discover.md
       - User Guide 2/Organise.md
       - User Guide 2/Track Progress.md
       - User Guide 2/Notify.md
