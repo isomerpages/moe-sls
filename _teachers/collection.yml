@@ -2,7 +2,7 @@ collections:
   teachers:
     output: true
     order:
-      - User Guide 2/How to create Lessons?.md
+      - User Guide 2/Author.md
       - User Guide 2/.keep
       - Teachers.md
       - Feature Highlights/Release Videos.md
