@@ -2,6 +2,7 @@ collections:
   student-user-guide:
     output: true
     order:
+      - Authentication & Profile Mgmt/Update Answers to Security Questions.md
       - Authentication & Profile Mgmt/Set Password Reset Email Address.md
       - Authentication & Profile Mgmt/Change Password.md
       - Authentication & Profile Mgmt/.keep
