@@ -2,4 +2,5 @@ collections:
   student-user-guide:
     output: true
     order:
+      - Authentication & Profile Mgmt/Change Password.md
       - Authentication & Profile Mgmt/.keep
