@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - SLS/Example Title.md
       - SLS/.keep
       - Login Troubleshooting/.keep
       - Login Troubleshooting/Get Help from your School.md
