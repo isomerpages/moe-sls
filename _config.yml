@@ -2,7 +2,7 @@ title: SLS Info-Site
 url: https://www.learning.moe.edu.sg
 favicon: /images/Assets/apple-touch-icon.png
 colors:
-  primary-color: "#bd10e0"
+  primary-color: "#ffffff"
   secondary-color: "#50e3c2"
   media-colors:
     - title: media-color-one
