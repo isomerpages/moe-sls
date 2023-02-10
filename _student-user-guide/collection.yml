@@ -2,6 +2,7 @@ collections:
   student-user-guide:
     output: true
     order:
+      - Assign/.keep
       - Track Progress/Example Title.md
       - Track Progress/.keep
       - Organise/Example Title.md
