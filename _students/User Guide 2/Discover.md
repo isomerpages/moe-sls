@@ -13,15 +13,9 @@ third_nav_title: User Guide 2
 ### What types of automated feedback are there?
 1. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">About Lessons/Courses (Improved)</a>
 2. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Create a Lesson (New)</a>
-3. <a href="/user-guide/Teachers-UG/createcourse/" target="_blank">Create a Course (New)</a>
-
 
 ### How to use App Library?
 
 1. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">About Lessons/Courses (Improved)</a>
 2. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Create a Lesson (New)</a>
 3. <a href="/user-guide/Teachers-UG/createcourse/" target="_blank">Create a Course (New)</a>
-
-## How to add Rich Text?
-1. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">About Lessons/Courses (Improved)</a>
-2. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Create a Lesson (New)</a>
