@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - User Guide 2/Self Study.md
       - User Guide 2/Organise.md
       - User Guide 2/Track Progress.md
       - User Guide 2/Assign.md
