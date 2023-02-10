@@ -4,6 +4,7 @@ collections:
     order:
       - Self Study/Example Title.md
       - Self Study/.keep
+      - Plan/Example Title.md
       - Plan/.keep
       - Notify/.keep
       - Authentication & Profile Mgmt/Manage Linked Account (New).md
