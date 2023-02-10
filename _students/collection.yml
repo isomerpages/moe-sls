@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - User Guide 2/Assign.md
       - User Guide 2/Assess.md
       - User Guide 2/Gamify.md
       - User Guide 2/Discover.md
