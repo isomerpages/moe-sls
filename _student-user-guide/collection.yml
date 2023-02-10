@@ -2,6 +2,7 @@ collections:
   student-user-guide:
     output: true
     order:
+      - Self Study/Example Title.md
       - Self Study/.keep
       - Plan/.keep
       - Notify/.keep
