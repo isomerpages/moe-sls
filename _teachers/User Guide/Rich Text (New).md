@@ -49,14 +49,10 @@ Starting from R18, you are able to <strong>Undo</strong> and <strong>Redo</stron
 insert bullet, <img src="/images/Media/Icons/Bullet.svg" style="width:5%; display: inline;"/> or numbering, <img src="/images/Media/Icons/Numbering.svg" style="width:5%; display: inline;"/> by clicking the respective icons.
 
 
-
-
-
-
-
 <u>Note</u>: To underline a text, use the keyboard shortcut (Windows: control + U, MacOS: command + U)
 
 Click the <strong>dropdown</strong> arrow next to the respective icons to select the font or highlight colour. For more colour options, click <img src="/images/Media/Icons/Drawing.png" style="width:5%; display: inline;"/>.
+
 
 #### Paragraphing Text
 <hr>
