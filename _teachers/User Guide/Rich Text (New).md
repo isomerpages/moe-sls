@@ -63,7 +63,7 @@ Click the <strong>dropdown</strong> arrow next to the respective icons to select
 
 1. In the Rich Text Editor, you are able to align your text left/center/right/justify, change the font type and paragraphing style.
 
-2. To adjust the text alignment, click <img src="/images/Media/Icons/TextAlign.svg" style="width:5%; display: inline;"/>
+2. To adjust the text alignment, click <img src="/images/Media/Icons/TextAlign.svg" style="width:24px; display: inline;"/>
 and select an alignment type.
 
 3. Click the <strong>dropdown</strong> arrow beside “English” to change the font type.
