@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - User Guide 2/Authentication & Profile Management.md
       - User Guide 2/Notify.md
       - User Guide 2/Plan.md
       - User Guide 2/Self Study.md
