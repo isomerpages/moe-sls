@@ -1,4 +1,5 @@
 collections:
   student-user-guide:
     output: true
-    order: []
+    order:
+      - Authentication & Profile Mgmt/.keep
