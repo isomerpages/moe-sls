@@ -4,6 +4,7 @@ collections:
     order:
       - Assess/Example Title.md
       - Assess/.keep
+      - Assign/Example Title.md
       - Assign/.keep
       - Track Progress/Example Title.md
       - Track Progress/.keep
