@@ -2,6 +2,7 @@ collections:
   student-user-guide:
     output: true
     order:
+      - Plan/.keep
       - Notify/.keep
       - Authentication & Profile Mgmt/Manage Linked Account (New).md
       - Authentication & Profile Mgmt/Customise an Avatar.md
