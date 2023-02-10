@@ -3,7 +3,7 @@ url: https://www.learning.moe.edu.sg
 favicon: /images/Assets/apple-touch-icon.png
 colors:
   primary-color: "#bd10e0"
-  secondary-color: "#0b233f"
+  secondary-color: "#50e3c2"
   media-colors:
     - title: media-color-one
       color: "#e96a6a"
