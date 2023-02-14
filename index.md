@@ -12,40 +12,41 @@ sections:
   - hero:
       background: /images/Landing.png
       key_highlights:
-        - title: Student
-          description: Take charge of your learning
-          url: /sls/students
-        - title: Teacher
-          description: Support student's learning
-          url: https://www.learning.moe.edu.sg/sls/teachers/index.html
-        - title: Partners
-          description: Enhance learning experiences
+        - title: R18 E-Posters
+          description: Check out the latest posters
           url: https://www.learning.moe.edu.sg/sls/partners/index.html
   - infobar:
-      title: What is SLS?
+      title: About SLS
       description: The SLS is MOE's core platform for teaching and learning and is one
         of MOE’s key initiatives to transform the learning experiences of
         Singaporean students.
-      button: Login to SLS
-      url: https://vle.learning.moe.edu.sg/
-  - infobar:
-      title: The Future of SLS
-      description: SLS will continue to evolve to support MOE’s key priorities and
-        serve the needs of our users. <Text limitation of 160 chars>
+      button: Find out more here
+      url: https://staging.d19lt3odqxq3m6.amplifyapp.com/about-sls/overviewofsls/
   - infopic:
-      title: R18 Class Groups
-      button: Read the changelog here
+      title: Students
+      button: go to students page
       url: https://www.learning.moe.edu.sg/sls/user-guide/vle/update.html
-      image: /images/Media/Carousel/Card 9.png
+      image: /images/Media/Quick Links/Students Hero.png
       alt: R18 Class Groups
-      description: "This list details the changes users can expect in the upcoming SLS
-        Release 18, which will be rolled out on 1 December 2022. "
+      description: Take charge of your learning! Explore new features as well as our
+        growing library of resources.
   - infopic:
-      title: What's New in SLS (Part 2)
-      description: "This list details the changes users can expect in the upcoming SLS
-        Release 18, which will be rolled out on 1 December 2022. "
-      button: Read the changelog here
-      url: https://www.learning.moe.edu.sg/sls/user-guide/vle/update.html
-      image: /images/Media/Carousel/Student_2.png
+      title: Teachers
+      description: Looking for new ways to support your students’ learning? SLS
+        features can enhance your teaching to engage your students better!
+      button: Go to teachers page
+      url: https://staging.d19lt3odqxq3m6.amplifyapp.com/sls/teachers/
+      image: /images/Media/Quick Links/Teachers Hero.png
       alt: Image alt text
+  - infopic:
+      title: Partners
+      description: The SLS team welcomes companies and agencies with expertise to
+        enhance users’ learning experiences through apps and platforms.
+      button: Go to partners page
+      url: https://staging.d19lt3odqxq3m6.amplifyapp.com/sls/partners/
+      image: /images/Media/Quick Links/Partners Hero.png
+      alt: Image alt text
+  - resources:
+      title: Latest News
+      button: find out more
 ---
