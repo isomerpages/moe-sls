@@ -1,4 +1,5 @@
 collections:
   admin-user-guide:
     output: true
-    order: []
+    order:
+      - Example Title.md
