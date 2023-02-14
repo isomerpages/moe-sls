@@ -8,10 +8,6 @@ links:
     collection: teachers
   - title: Partners
     collection: partners
-  - title: Login to SLS
-    url: https://vle.learning.moe.edu.sg/login
-  - title: Latest News
-    resource_room: true
   - title: User Guides
     url: /userguides
     sublinks:
@@ -23,3 +19,7 @@ links:
         url: /admin-user-guide/permalink
       - title: Login Troubleshooting UG
         url: /login-troubleshooting/permalink
+  - title: Login to SLS
+    url: https://vle.learning.moe.edu.sg/login
+  - title: Latest News
+    resource_room: true
