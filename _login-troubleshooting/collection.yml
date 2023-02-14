@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - School Based Helpline.md
+      - Technical Issues/Operating System and Browser Requirements (Updated).md
       - Technical Issues/Web Browser Troubleshooting Tips.md
       - Technical Issues/Slow Site Loading.md
       - Technical Issues/.keep
