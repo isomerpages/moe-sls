@@ -13,7 +13,6 @@ Learn Together in SLS
 <img src="/images/Media/6Posters/(2%20of%202)%20Student%20Learn%20Together.png" style="width:50%;"/>
 User Guide: [About Google Integration](/sls/student)
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
