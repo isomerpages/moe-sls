@@ -1,4 +1,5 @@
 collections:
   login-troubleshooting:
     output: true
-    order: []
+    order:
+      - Example Title.md
