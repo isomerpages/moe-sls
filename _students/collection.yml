@@ -2,6 +2,12 @@ collections:
   students:
     output: true
     order:
+      - Student.md
+      - Feature Highlights/.keep
+      - Feature Highlights/Posters.md
+      - Feature Highlights/Videos.md
+      - Student Initiated Learning.md
+      - User Guide 2/.keep
       - User Guide 2/Authentication & Profile Management.md
       - User Guide 2/Notify.md
       - User Guide 2/Plan.md
@@ -12,12 +18,6 @@ collections:
       - User Guide 2/Assess.md
       - User Guide 2/Gamify.md
       - User Guide 2/Discover.md
-      - User Guide 2/.keep
-      - Student.md
-      - Feature Highlights/.keep
-      - Feature Highlights/Posters.md
-      - Feature Highlights/Videos.md
-      - Student Initiated Learning.md
       - Frequently Asked Questions/.keep
       - Frequently Asked Questions/Young Overseas Singaporeans.md
       - Frequently Asked Questions/Technical Support and Passwords.md
