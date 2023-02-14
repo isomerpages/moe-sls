@@ -5,7 +5,7 @@ description: ""
 ---
 ![](/images/Media/Quick%20Links/Partners%20Hero.png)
 
-Take charge of your learning! Explore new features as well as our growing library of resources.
+The SLS team welcomes companies and agencies with expertise to enhance users’ learning experiences through apps and platforms.
 
 ## General Information
 #### About SLS
