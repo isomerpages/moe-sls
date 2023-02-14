@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Author/.keep
-      - Lesson & Course Management/.keep
-      - Lesson & Course Management/About Lessons and Courses (Improved).md
-      - Lesson & Course Management/Create a Lesson (New).md
-      - Lesson & Course Management/Create a Course (New).md
-      - Lesson & Course Management/About Lesson & Section Templates.md
-      - Lesson & Course Management/Example page.md
+      - Gamify/.keep
+      - Gamify/About Lessons and Courses (Improved).md
+      - Gamify/Create a Lesson (New).md
+      - Gamify/Create a Course (New).md
+      - Gamify/About Lesson & Section Templates.md
+      - Gamify/Example page.md
       - Rich Text/.keep
       - Rich Text/Example Title.md
       - Assignments/.keep
