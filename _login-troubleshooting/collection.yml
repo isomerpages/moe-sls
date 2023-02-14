@@ -2,6 +2,7 @@ collections:
   login-troubleshooting:
     output: true
     order:
+      - Login Self Help for Students/Unsuccessful Password Reset Attempts.md
       - Login Self Help for Students/Unlock Account.md
       - Login Self Help for Students/.keep
       - School Based Helpline.md
