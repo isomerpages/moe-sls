@@ -2,16 +2,16 @@ collections:
   login-troubleshooting:
     output: true
     order:
+      - Login Self Help for Students/.keep
       - Login Self Help for Students/Log in with MIMS (New).md
       - Login Self Help for Students/Reset SLS Password (Student).md
       - Login Self Help for Students/Forgot Username.md
       - Login Self Help for Students/Unsuccessful Password Reset Attempts.md
       - Login Self Help for Students/Unlock Account.md
-      - Login Self Help for Students/.keep
-      - School Based Helpline.md
+      - Login Self Help for Teachers/.keep
+      - Technical Issues/.keep
       - Technical Issues/Operating System and Browser Requirements (Updated).md
       - Technical Issues/Web Browser Troubleshooting Tips.md
       - Technical Issues/Slow Site Loading.md
-      - Technical Issues/.keep
-      - Login Self Help for Teachers/.keep
+      - School Based Helpline.md
       - Example Title.md
