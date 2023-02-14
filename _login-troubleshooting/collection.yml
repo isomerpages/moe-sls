@@ -2,6 +2,7 @@ collections:
   login-troubleshooting:
     output: true
     order:
+      - Login Self Help for Students/.keep
       - School Based Helpline.md
       - Technical Issues/Operating System and Browser Requirements (Updated).md
       - Technical Issues/Web Browser Troubleshooting Tips.md
