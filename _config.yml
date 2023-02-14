@@ -57,6 +57,6 @@ prod: https://master.d19lt3odqxq3m6.amplifyapp.com
 shareicon: /images/LogoSecondaryLight.svg
 is_government: true
 facebook-pixel: ""
-google_analytics: ""
+google_analytics: UA-134623204-2
 linkedin-insights: ""
 resources_name: latest-news
