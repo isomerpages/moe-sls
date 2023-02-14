@@ -2,6 +2,7 @@ collections:
   student-user-guide:
     output: true
     order:
+      - Login Troubleshooting.md
       - Discover/Example Title.md
       - Discover/.keep
       - Gamify/Example Title.md
