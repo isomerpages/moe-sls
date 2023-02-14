@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Author/About Lessons and Courses (Improved).md
       - Author/Create a Lesson (New).md
       - Author/Create a Course (New).md
       - Author/About Lesson & Section Templates.md
