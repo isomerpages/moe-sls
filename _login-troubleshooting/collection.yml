@@ -2,6 +2,7 @@ collections:
   login-troubleshooting:
     output: true
     order:
+      - Login Self Help for Students/Reset SLS Password (Student).md
       - Login Self Help for Students/Forgot Username.md
       - Login Self Help for Students/Unsuccessful Password Reset Attempts.md
       - Login Self Help for Students/Unlock Account.md
