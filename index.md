@@ -14,7 +14,7 @@ sections:
       key_highlights:
         - title: R18 E-Posters
           description: Check out the latest posters
-          url: https://www.learning.moe.edu.sg/sls/partners/index.html
+          url: https://staging.d19lt3odqxq3m6.amplifyapp.com/teachers/Feature-Highlights/R18posters/
   - infobar:
       title: About SLS
       description: The SLS is MOE's core platform for teaching and learning and is one
