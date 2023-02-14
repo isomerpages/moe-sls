@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - School Based Helpline.md
-      - Get Help/.keep
       - Technical Issues (Updated)/.keep
       - Get Help (New)/.keep
       - Example Title.md
