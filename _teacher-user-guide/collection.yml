@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - SLS/.keep
-      - SLS/Example Title.md
+      - SLS/Author.md
       - Lesson & Course Management/.keep
       - Lesson & Course Management/About Lessons and Courses (Improved).md
       - Lesson & Course Management/Create a Lesson (New).md
