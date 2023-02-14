@@ -9,13 +9,13 @@ description: ""
 
 **Images for userguide or to be displayed beside text**
 
-Hello this is a text of 18 pixel size <img src="/images/Assets/Bell16.svg" style="width:18px; display: inline;"/>
+Hello this is a text of 18 pixel size <img src="/images/Assets/Bell16.svg" style="width:18px; display: inline;"/> Is this your choice?
 
-Hello this is a text of 20 pixel size <img src="/images/Assets/Bell16.svg" style="width:20px; display: inline;"/>
+Hello this is a text of 20 pixel size <img src="/images/Assets/Bell16.svg" style="width:20px; display: inline;"/> Is this your choice?
 
-Hello this is a text of 22 pixel size <img src="/images/Assets/Bell16.svg" style="width:22px; display: inline;"/>
+Hello this is a text of 22 pixel size <img src="/images/Assets/Bell16.svg" style="width:22px; display: inline;"/> Is this your choice?
 
-Hello this is a text of 24 pixel size <img src="/images/Assets/Bell16.svg" style="width:24px; display: inline;"/>
+Hello this is a text of 24 pixel size <img src="/images/Assets/Bell16.svg" style="width:24px; display: inline;"/> Is this your choice?
 
 **Images with rounded corners (note that this applies to ALL images on the page)**
 
