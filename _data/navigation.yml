@@ -1,7 +1,7 @@
 logo: /images/Assets/LogoSecondaryLight.svg
 links:
-  - title: About SLS
-    collection: about-sls
+  - title: Latest News
+    resource_room: true
   - title: Students
     collection: students
   - title: Teachers
@@ -19,7 +19,7 @@ links:
         url: /admin-user-guide/permalink
       - title: Login Troubleshooting UG
         url: /login-troubleshooting/permalink
+  - title: About SLS
+    collection: about-sls
   - title: Login to SLS
     url: https://vle.learning.moe.edu.sg/login
-  - title: Latest News
-    resource_room: true
