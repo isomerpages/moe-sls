@@ -41,5 +41,3 @@ Try disabling your browser extensions and see if the problem is resolved.
  If you encounter any login issues, you will need to clear your cache and browsing history.
 
 You may refer to this [guide]() on how to clear your cache.
-
-           
