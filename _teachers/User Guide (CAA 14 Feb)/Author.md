@@ -4,9 +4,6 @@ permalink: /teachers/User-Guide-2/Author/
 description: ""
 third_nav_title: User Guide (CAA 14 Feb)
 ---
-
-
-
 ## How to create Lessons?
 
 ### Lesson Overview
