@@ -25,8 +25,8 @@ collections:
       - Notify/Example Title.md
       - Resources/.keep
       - Resources/Example Title.md
-      - Account Management/.keep
-      - Account Management/Example Title.md
+      - Authentication & Profile Mgmt/.keep
+      - Authentication & Profile Mgmt/Example Title.md
       - My Subjects/.keep
       - My Subjects/Example Title.md
       - Copyright Matters/.keep
