@@ -4,7 +4,7 @@ permalink: /login-troubleshooting/Login-Self-Help-for-Students/UnlockAccount/
 description: ""
 third_nav_title: Login Self Help for Students
 ---
- Unlock Account
+Unlock Account
 ==============
 
    How a Student Account Gets Locked
@@ -29,5 +29,3 @@ third_nav_title: Login Self Help for Students
 
 1. Contact your class form teacher or subject teacher. Your teacher will inform your school's SLS administrator, who will be able to unlock your account.
 2. Alternatively, please contact your [School-Based Helpline](../../logintroubleshooting/LoginTroubleshooting/SchoolBasedHelpline.html) for help.
- 
-             
