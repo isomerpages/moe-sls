@@ -2,28 +2,28 @@ collections:
   student-user-guide:
     output: true
     order:
-      - Login Troubleshooting.md
-      - Discover/Example Title.md
       - Discover/.keep
-      - Gamify/Example Title.md
+      - Discover/Example Title.md
       - Gamify/.keep
-      - Assess/Example Title.md
+      - Gamify/Example Title.md
       - Assess/.keep
-      - Assign/Example Title.md
+      - Assess/Example Title.md
       - Assign/.keep
-      - Track Progress/Example Title.md
+      - Assign/Example Title.md
       - Track Progress/.keep
-      - Organise/Example Title.md
+      - Track Progress/Example Title.md
       - Organise/.keep
-      - Self Study/Example Title.md
+      - Organise/Example Title.md
       - Self Study/.keep
-      - Plan/Example Title.md
+      - Self Study/Example Title.md
       - Plan/.keep
-      - Notify/Example Title.md
+      - Plan/Example Title.md
       - Notify/.keep
+      - Notify/Example Title.md
+      - Authentication & Profile Mgmt/.keep
       - Authentication & Profile Mgmt/Manage Linked Account (New).md
       - Authentication & Profile Mgmt/Customise an Avatar.md
       - Authentication & Profile Mgmt/Update Answers to Security Questions.md
       - Authentication & Profile Mgmt/Set Password Reset Email Address.md
       - Authentication & Profile Mgmt/Change Password.md
-      - Authentication & Profile Mgmt/.keep
+      - Login Troubleshooting.md
