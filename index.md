@@ -11,6 +11,10 @@ notification: "!Singapore Student Learning Space (SLS) Site Notification"
 sections:
   - hero:
       background: /images/Landing.png
+      key_highlights:
+        - title: R18 Posters
+          description: Learn about Class Groups!
+          url: https://staging.d19lt3odqxq3m6.amplifyapp.com/teachers/Feature-Highlights/R18posters/
   - infobar:
       title: About SLS
       description: The SLS is MOE's core platform for teaching and learning and is one
