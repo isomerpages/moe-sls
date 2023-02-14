@@ -15,13 +15,9 @@ sections:
         - title: R18 E-Posters
           description: Check out the latest posters
           url: https://staging.d19lt3odqxq3m6.amplifyapp.com/teachers/Feature-Highlights/R18posters/
-  - infobar:
-      title: About SLS
-      description: The SLS is MOE's core platform for teaching and learning and is one
-        of MOE’s key initiatives to transform the learning experiences of
-        Singaporean students.
-      button: Find out more here
-      url: https://staging.d19lt3odqxq3m6.amplifyapp.com/about-sls/overviewofsls/
+  - resources:
+      title: Latest News
+      button: find out more
   - infopic:
       title: Students
       button: go to students page
@@ -46,7 +42,11 @@ sections:
       url: https://staging.d19lt3odqxq3m6.amplifyapp.com/sls/partners/
       image: /images/Media/Quick Links/Partners Hero.png
       alt: Image alt text
-  - resources:
-      title: Latest News
-      button: find out more
+  - infobar:
+      title: About SLS
+      description: The SLS is MOE's core platform for teaching and learning and is one
+        of MOE’s key initiatives to transform the learning experiences of
+        Singaporean students.
+      button: Find out more here
+      url: https://staging.d19lt3odqxq3m6.amplifyapp.com/about-sls/overviewofsls/
 ---
