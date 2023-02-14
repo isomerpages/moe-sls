@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Author/About Lesson & Section Templates.md
       - Author/.keep
       - Gamify/.keep
       - Gamify/About Lessons and Courses (Improved).md
