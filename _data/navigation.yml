@@ -12,3 +12,14 @@ links:
     url: https://vle.learning.moe.edu.sg/login
   - title: Latest News
     resource_room: true
+  - title: User Guides
+    url: /userguides
+    sublinks:
+      - title: Students UG
+        url: /student-user-guide/Authentication-and-Profile-Mgmt/managelinked/
+      - title: Teachers UG
+        url: /user-guide/Teachers-UG/aboutlessons/
+      - title: Admin UG
+        url: /admin-user-guide/permalink
+      - title: Login Troubleshooting UG
+        url: /login-troubleshooting/permalink
