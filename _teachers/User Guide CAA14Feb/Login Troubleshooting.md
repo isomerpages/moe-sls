@@ -20,6 +20,6 @@ third_nav_title: User Guide CAA14Feb
 ## Technical Issues (Updated)
 	
 ### Browser Issues
-1. <a href="/login-troubleshooting/Technical-Issues/OSBrowserRequirements/">Operating System and Browser Requirements (Updated)</a>
+1. <a href="/login-troubleshooting/Technical-Issues/OSBrowserRequirements/" target="_blank">Operating System and Browser Requirements (Updated)</a>
 2. <a href="/login-troubleshooting/Technical-Issues/WebBrowserTroubleshooting/" target="_blank">Web Browser Troubleshooting Tips</a>
 3. <a href="/login-troubleshooting/Technical-Issues/SlowSiteLoading/" target="_blank">Slow Site Loading</a>
