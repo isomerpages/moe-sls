@@ -18,10 +18,12 @@ third_nav_title: User Guide CAA14Feb
 
 ### How to manage my SLS account?
 #### Manage Personal Account
-1. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">Reset Password</a>
-2. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Set Alternate Email Address</a>
-3. <a href="/user-guide/Teachers-UG/createcourse/" target="_blank">Manage Linked Account (New)</a>
-4. <a href="/user-guide/Teachers-UG/LessonTemplates/" target="_blank">Customise an Avatar</a>
+1. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">Change Display Name</a>
+2. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Change Password</a>
+3. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">Reset Password</a>
+4. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Set Alternate Email Address</a>
+5. <a href="/user-guide/Teachers-UG/createcourse/" target="_blank">Manage Linked Account (New)</a>
+6. <a href="/user-guide/Teachers-UG/LessonTemplates/" target="_blank">Customise an Avatar</a>
 
 #### Using Teacher's Student Account
 1. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">Switch to Student Account</a>
