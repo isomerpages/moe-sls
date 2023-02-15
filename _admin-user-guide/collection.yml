@@ -2,4 +2,5 @@ collections:
   admin-user-guide:
     output: true
     order:
+      - Code shortcuts.md
       - Example Title.md
