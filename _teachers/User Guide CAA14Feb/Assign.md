@@ -23,52 +23,29 @@ third_nav_title: User Guide CAA14Feb
 4. <a href="/user-guide/Teachers-UG/LessonTemplates/" target="_blank">Mark Assignment as Complete/Incomplete (New)</a>
 5. <a href="/user-guide/Teachers-UG/LessonTemplates/" target="_blank">View Students' Notes</a>
 
-### Manage Activity and Component
-1. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">About Lessons/Courses (Improved)</a>
-2. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Create a Lesson (New)</a>
-3. <a href="/user-guide/Teachers-UG/createcourse/" target="_blank">Create a Course (New)</a>
+### How to provide feedback to students?
+
+#### Assignment
+1. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">Underline and Annotate Students' Responses</a>
+2. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Add Teacher's Feedback (Improved)</a>
+3. <a href="/user-guide/Teachers-UG/createcourse/" target="_blank">Marking Google-Attached Files (New)</a>
+4. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">About Mathematics Feedback (new)</a>
+5. <a href="/user-guide/Teachers-UG/createcourse/" target="_blank">About Learning Feedback Assistant (New)</a>
+
+#### Teacher-Marked Quiz
+1. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">Mark a Teacher-Marked Quiz</a>
+2. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Release a Teacher-Marked Quiz</a>
+3. <a href="/user-guide/Teachers-UG/createcourse/" target="_blank">Unsubmit a Teacher-Marked Quiz</a>
 
 
-### Add from Existing Activity and Component
+### How to manage Assignments?
 
-1. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">About Lessons/Courses (Improved)</a>
-2. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Create a Lesson (New)</a>
-3. <a href="/user-guide/Teachers-UG/createcourse/" target="_blank">Create a Course (New)</a>
-
-## How to add Rich Text?
-1. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">About Lessons/Courses (Improved)</a>
-2. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Create a Lesson (New)</a>
-3. <a href="/user-guide/Teachers-UG/createcourse/" target="_blank">Create a Course (New)</a>
-4. <a href="/user-guide/Teachers-UG/LessonTemplates/" target="_blank">About Lesson/Section Templates</a>
-5. View and Edit a Lesson/Course Plan (New)
-6. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">About Lessons/Courses (Improved)</a>
-7. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Create a Lesson (New)</a>
-8. <a href="/user-guide/Teachers-UG/createcourse/" target="_blank">Create a Course (New)</a>
-<a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">About Lessons/Courses (Improved)</a>
-9. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Create a Lesson (New)</a>
-10. <a href="/user-guide/Teachers-UG/createcourse/" target="_blank">Create a Course (New)</a>
-<a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">About Lessons/Courses (Improved)</a>
-6. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">About Lessons/Courses (Improved)</a>
-7. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Create a Lesson (New)</a>
-8. <a href="/user-guide/Teachers-UG/createcourse/" target="_blank">Create a Course (New)</a>
-<a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">About Lessons/Courses (Improved)</a>
-9. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Create a Lesson (New)</a>
-
-
-## How to use iMTL features?
-1. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">About Lessons/Courses (Improved)</a>
-2. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Create a Lesson (New)</a>
-3. <a href="/user-guide/Teachers-UG/createcourse/" target="_blank">Create a Course (New)</a>
-
-
-## How to manage Lessons?
-1. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">About Lessons/Courses (Improved)</a>
-2. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Create a Lesson (New)</a>
-3. <a href="/user-guide/Teachers-UG/createcourse/" target="_blank">Create a Course (New)</a>
-4. <a href="/user-guide/Teachers-UG/LessonTemplates/" target="_blank">About Lesson/Section Templates</a>
-5. View and Edit a Lesson/Course Plan (New)
-
-## What are the copyright guidelines for resources?
-1. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">About Lessons/Courses (Improved)</a>
-2. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Create a Lesson (New)</a>
-3. <a href="/user-guide/Teachers-UG/createcourse/" target="_blank">Create a Course (New)</a>
+1. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">Manage an Assignment (New)</a>
+2. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Move an Assignment</a>
+3. <a href="/user-guide/Teachers-UG/createcourse/" target="_blank">Pause/Resume an Assignment</a>
+4. <a href="/user-guide/Teachers-UG/LessonTemplates/" target="_blank">Edit an Assignment</a>
+5. <a href="/user-guide/Teachers-UG/LessonTemplates/" target="_blank">Delete an Assignment</a>
+6. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">Copy an Assignment</a>
+7. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Change Access to Activities (New)</a>
+8. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">Allow Students to Share Assignment</a>
+9. <a href="/user-guide/Teachers-UG/createlesson/" target="_blank">Allow Students to Copy Assignment (Improved)</a>
