@@ -57,10 +57,22 @@ Paragraph Name<a name="linktoparagraph"></a>
 
 Harry Potter<a name="Expelliarmus"></a>
 
+**Hyperlink**
+	<br>
+Markdown:
+[Authentication](/teachers/User-Guide/richtext/)
+<br>
+	HTML:
+<a href="/user-guide/Teachers-UG/aboutlessons/">About Lessons/Courses (Improved)</a>
+<br>
+Note that Markdown CANNOT be used to open a new tab.
+	
 **Link to open in new tab**
-
+<br>
 <a href="URL" target="_blank">Text goes here</a>
 
 e.g.
-
+HTML:
 <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">About Lessons/Courses (Improved)</a>
+	
+	
