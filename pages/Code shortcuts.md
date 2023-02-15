@@ -74,5 +74,3 @@ Note that Markdown CANNOT be used to open a new tab.
 e.g.
 HTML:
 <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">About Lessons/Courses (Improved)</a>
-	
-	
