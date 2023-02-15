@@ -20,7 +20,5 @@ third_nav_title: User Guide CAA14Feb
 #### Apps
 1. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">Install App</a>
 
-
 ### What are My Subjects?
-
 1. <a href="/user-guide/Teachers-UG/aboutlessons/" target="_blank">Search for My Resources</a>
