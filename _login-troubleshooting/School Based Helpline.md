@@ -3,10 +3,6 @@ title: School Based Helpline
 permalink: /login-troubleshooting/SchoolBasedHelpline/
 description: ""
 ---
-
-
-
-
 School-Based Helpline
 =====================
 
@@ -23,10 +19,8 @@ You may use the search function to find your school quickly.
 |Ahmad Ibrahim Secondary School|Tel: 65949026 <br>Email: aiss_slshelpline@aiss.edu.sg <br>  Others:|
 |Ai Tong School|Tel: 98385529 <br>            Email:  <br>                      Others: Form SG|
 |Alexandra Primary School|Tel: 62485400 <br>                       Email: <br>    Others:|
-|Anchor Green Primary School|Tel: 68861356
-                      Email: locanas_francis_gutierrez@schools.gov.sg, hariani_salleh@schools.gov.sg
-                      
-                        Others:|
+|Anchor Green Primary School|Tel: 68861356<br>                 Email: locanas_francis_gutierrez@schools.gov.sg, hariani_salleh@schools.gov.sg <br> Others:|
+
 |Anderson Primary School|Tel: 64560340
                       Email: suzanah_saparwan@moe.edu.sg
                       
