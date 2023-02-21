@@ -7,15 +7,10 @@ description: ""
 
 The SLS team welcomes companies and agencies with expertise to enhance users’ learning experiences through apps and platforms.
 
-## General Information
-#### About SLS
-[Overview of SLS](/sls/student) |  [Future of SLS](/sls/student)
-#### SLS in the News
-[Articles](/sls/student) |  [Awards](/sls/student)
-
 ## Partnership 
-1. [Partnership with SLS](/sls/student)
-2. [Partnership Models](/sls/student)
+[Partnership with SLS](/sls/student)
+<br>[Partnership Models](/sls/student)
+<br>[Research](/sls/student)
 
 ## Integration
 [Whitelisted Websites](/sls/student)
