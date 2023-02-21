@@ -2,7 +2,7 @@ collections:
   students:
     output: true
     order:
-      - Student.md
+      - Students.md
       - Feature Highlights/.keep
       - Feature Highlights/Posters.md
       - Feature Highlights/Videos.md
