@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Partners.md
-      - Partnership/SLS Data.md
       - Partnership/.keep
       - Partnership/Partnership with SLS.md
       - Partnership/Partnership Models.md
+      - Partnership/SLS Data.md
       - Integration/.keep
       - Integration/Whitelisted Websites.md
       - Integration/Integrated Apps.md
