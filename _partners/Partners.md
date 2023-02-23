@@ -20,13 +20,13 @@ The SLS team welcomes companies and agencies with expertise to enhance users’ 
 ## Events
 #### SLS Pitch Day 2022
 [Overview](/partners/Events/slspitchday2022/)
-<br>[Featured Pitches](/sls/student)
+<br>[Featured Pitches](/partners/Events/featuredpitches2022/)
 #### SLS Pitch Day 2021
 [Overview](/partners/Events/slspitchday2021/)
-<br>[Featured Pitches](/sls/student)
-<br>[Assessment and Analytics](/sls/student)
-<br>[Content and Resources](/sls/student)
-<br>[Pedagogy and Instruction](/sls/student)
-<br>[Others](/sls/student)
+<br>[Featured Pitches](/partners/Events/slspitchday2021/)
+<br>[Assessment and Analytics](/partners/Events/assessmentanalytics2021/)
+<br>[Content and Resources](/partners/Events/contentresources2021/)
+<br>[Pedagogy and Instruction](/partners/Events/pedagogyinstruction2021/)
+<br>[Others](/partners/Events/others2021/)
 ## Sandbox
 [Apply for Sandbox Access](/partners/sandbox/)
