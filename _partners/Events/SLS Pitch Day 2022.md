@@ -48,15 +48,15 @@ From your selected Track(s), elaborate based on one or more of the following Foc
 	* make it easier to present data and insights in a meaningful way?
 	* help to find and organise relevant data for a particular educational need?
 
-- **User Experience and Interactions.** How would your product or service:
-	 - improve the communication experience (announcements, notifications, etc.) within SLS?
-	 - make it easier for users to access or use features and apps in SLS?
-	 - increase accessibility for students with Special Educational Needs (SEN)?
+* **User Experience and Interactions.** How would your product or service:
+	* improve the communication experience (announcements, notifications, etc.) within SLS?
+	* make it easier for users to access or use features and apps in SLS?
+	* increase accessibility for students with Special Educational Needs (SEN)?
 2. Resources
 - **Curriculum Resources.** How would your product or service enhance the quality and range of resources available to support:
-	 - the teaching and learning of subjects, both examinable and non-examinable?
-	 - the delivery of curriculum beyond the classroom to develop students' cognitive, affective, physical, and aesthetic abilities?
-	 - extensions to areas of study not covered above as part of Student-Initiated Learning (SIL)?
+	- the teaching and learning of subjects, both examinable and non-examinable?
+	- the delivery of curriculum beyond the classroom to develop students' cognitive, affective, physical, and aesthetic abilities?
+	- extensions to areas of study not covered above as part of Student-Initiated Learning (SIL)?
 
     
 Format
