@@ -43,10 +43,10 @@ From your selected Track(s), elaborate based on one or more of the following Foc
 	* empower students to learn on their own through self-study?
 	* help students to keep track and make sense of their learning progress?
 
-- **Data Analytics.** How would your product or service:
-	 - improve the quality of insights that we can get from the data in SLS?
-	 - make it easier to present data and insights in a meaningful way?
-	 - help to find and organise relevant data for a particular educational need?
+* **Data Analytics.** How would your product or service:
+	* improve the quality of insights that we can get from the data in SLS?
+	* make it easier to present data and insights in a meaningful way?
+	* help to find and organise relevant data for a particular educational need?
 
 - **User Experience and Interactions.** How would your product or service:
 	 - improve the communication experience (announcements, notifications, etc.) within SLS?
