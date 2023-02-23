@@ -38,23 +38,23 @@ Describe your proposed product or service and how it would enhance one or more o
 From your selected Track(s), elaborate based on one or more of the following Focus Areas:
 
 1. Features   
-- **Learning management.** How would your product or service:      
-		- enhance the way teachers deliver Teaching and Learning through SLS?
-		- empower students to learn on their own through self-study?
-		- help students to keep track and make sense of their learning progress?
+* **Learning management.** How would your product or service:
+	* enhance the way teachers deliver Teaching and Learning through SLS?
+	* empower students to learn on their own through self-study?
+	* help students to keep track and make sense of their learning progress?
 - **Data Analytics.** How would your product or service:
-		 - improve the quality of insights that we can get from the data in SLS?
-		 - make it easier to present data and insights in a meaningful way?
-		 - help to find and organise relevant data for a particular educational need?
+	 - improve the quality of insights that we can get from the data in SLS?
+	 - make it easier to present data and insights in a meaningful way?
+	 - help to find and organise relevant data for a particular educational need?
 - **User Experience and Interactions.** How would your product or service:
-		 - improve the communication experience (announcements, notifications, etc.) within SLS?
-		 - make it easier for users to access or use features and apps in SLS?
-		 - increase accessibility for students with Special Educational Needs (SEN)?
+	 - improve the communication experience (announcements, notifications, etc.) within SLS?
+	 - make it easier for users to access or use features and apps in SLS?
+	 - increase accessibility for students with Special Educational Needs (SEN)?
 2. Resources
 - **Curriculum Resources.** How would your product or service enhance the quality and range of resources available to support:
-		 - the teaching and learning of subjects, both examinable and non-examinable?
-		 - the delivery of curriculum beyond the classroom to develop students' cognitive, affective, physical, and aesthetic abilities?
-		 - extensions to areas of study not covered above as part of Student-Initiated Learning (SIL)?
+	 - the teaching and learning of subjects, both examinable and non-examinable?
+	 - the delivery of curriculum beyond the classroom to develop students' cognitive, affective, physical, and aesthetic abilities?
+	 - extensions to areas of study not covered above as part of Student-Initiated Learning (SIL)?
 
     
 Format
