@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Partners.md
+      - Partnership/SLS Data.md
       - Partnership/.keep
       - Partnership/Partnership with SLS.md
       - Partnership/Partnership Models.md
