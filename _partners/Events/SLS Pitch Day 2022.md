@@ -25,7 +25,11 @@ It allows an opportunity to connect, discuss and share with MOE divisions on pro
 
 ---
 
-  [![SLS Pitch Day 2022](../../../media/images/UpdatedAssets/7Partners/JENI4774.jpg)](../../../media/images/UpdatedAssets/7Partners/JENI4774.jpg)    [![Enchanting conversations](../../../media/images/UpdatedAssets/7Partners/JENI4952.jpg)](../../../media/images/UpdatedAssets/7Partners/JENI4952.jpg)    [![Many people talking](../../../media/images/UpdatedAssets/7Partners/JENI4851.jpg)](../../../media/images/UpdatedAssets/7Partners/JENI4851.jpg)    [![Explanations and connection](../../../media/images/UpdatedAssets/7Partners/JENI4987.jpg)](../../../media/images/UpdatedAssets/7Partners/JENI4987.jpg)    [![Colleagues at MOE](../../../media/images/UpdatedAssets/7Partners/JENI4949.jpg)](../../../media/images/UpdatedAssets/7Partners/JENI4949.jpg)         
+  [![SLS Pitch Day 2022](/images/Media/4Partners/JENI4774.jpg)](/images/Media/4Partners/JENI4774.jpg)    
+	[![Enchanting conversations](/images/Media/4Partners/JENI4952.jpg)](/images/Media/4Partners/JENI4952.jpg)    
+	[![Many people talking](/images/Media/4Partners/JENI4851.jpg)](/images/Media/4Partners/JENI4851.jpg)    
+	[![Explanations and connection](/images/Media/4Partners/JENI4987.jpg)](/images/Media/4Partners/JENI4987.jpg)    
+	[![Colleagues at MOE](/images/Media/4Partners/JENI4949.jpg)](/images/Media/4Partners/JENI4949.jpg)         
 
 Task
 -----------
