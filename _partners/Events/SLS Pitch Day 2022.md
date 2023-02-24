@@ -7,7 +7,7 @@ third_nav_title: Events
 Overview of SLS
 ===============
 
-![](../../../media/images/category/banner2022.png)   
+<img src="/images/Media/SLS%20Build%20(Category)/banner2022.png" style="width:;"/>
 
 Welcome to SLS Pitch Day
 ------------------------
