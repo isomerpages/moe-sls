@@ -31,6 +31,11 @@ It allows an opportunity to connect, discuss and share with MOE divisions on pro
 	[![Explanations and connection](/images/Media/4Partners/JENI4987.jpg)](/images/Media/4Partners/JENI4987.jpg)    
 	[![Colleagues at MOE](/images/Media/4Partners/JENI4949.jpg)](/images/Media/4Partners/JENI4949.jpg)         
 
+<a href="[/images/Media/4Partners/JENI4949.jpg)" target="_blank">
+<img src="/images/Media/4Partners/JENI4949.jpg" style="width: 250px; display: inline;"/></a>
+<img src="/images/Media/4Partners/JENI4949.jpg" style="width: 250px; display: inline;"/>
+<img src="/images/Media/4Partners/JENI4949.jpg" style="width: 250px; display: inline;"/>
+
 Task
 -----------
 ---
