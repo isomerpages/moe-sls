@@ -3,7 +3,6 @@ title: Students
 permalink: /sls/students/
 description: ""
 ---
-
 ![Students](/images/Students%20Hero.png)
 
 Take charge of your learning! Explore new features as well as our growing library of resources.
