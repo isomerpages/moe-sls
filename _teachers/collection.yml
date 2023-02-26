@@ -2,6 +2,7 @@ collections:
   teachers:
     output: true
     order:
+      - "Build   The SLS Card Game/Build: The SLS Card Game.md"
       - Build   The SLS Card Game/.keep
       - Teachers.md
       - Feature Highlights/.keep
