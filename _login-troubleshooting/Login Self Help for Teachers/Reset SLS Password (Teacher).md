@@ -24,6 +24,4 @@ Reset SLS Password (Teacher)
     - You will need to enter the new password twice to confirm that you have entered it correctly.
 8. Click **Submit**.
 9. If your password reset is successful, you will be brought to the login page.
-10. Click [here](../../logintroubleshooting/LoginTroubleshooting/PasswordResetEmail.html) if you did not receive your password reset email
- 
-            
+10. Click [here](/login-troubleshooting/Login-Self-Help-for-Teachers/PasswordResetEmail/) if you did not receive your password reset email
