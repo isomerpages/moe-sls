@@ -20,8 +20,9 @@ Note: This option is only applicable to MIMS users. For users whose SLS username
 
 1. From the main login page, click **Login with MIMS**.
 2. At the MIMS login page, enter your MIMS username and password.
-  ![](images/Media/2Teacher/LTM1.png)  4. Click **Sign in**.
-5. Upon successful authentication, you will be brought to the SLS homepage.
+  ![](images/Media/2Teacher/LTM1.png)  
+3. Click **Sign in**.
+4. Upon successful authentication, you will be brought to the SLS homepage.
  
     
   Unable to Sign-in to MIMS Account
