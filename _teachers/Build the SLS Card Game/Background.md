@@ -4,9 +4,6 @@ permalink: /teachers/Build-The-SLS-Card-Game/background/
 description: ""
 third_nav_title: Build the SLS Card Game
 ---
-
-
-
 ![](/images/Media/SLS%20Build%20(Category)/banner2.png)
 # Background
 
@@ -26,4 +23,9 @@ Game Modes
 
 ![](/images/Media/SLS%20Build%20(Category)/3%20game%20modes.png)
 
- For more details, please refer to the rules under "Game Modes"
+ For more details, please refer to the rules for the respective game modes below
+ 
+ ## Rules
+[General Rules](/teachers/Build-The-SLS-Card-Game/generalrules/)
+<br>[Quick Build Mode](/teachers/Build-The-SLS-Card-Game/quickbuild/)
+<br>[Shared Build Mode](/teachers/Build-The-SLS-Card-Game/sharedbuild/)
