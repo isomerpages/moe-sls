@@ -24,19 +24,20 @@ It allows an opportunity to connect, discuss and share with MOE divisions on pro
 -------------
 
 ---
+<a href="/images/Media/4Partners/JENI4774.jpg" target="_blank">
+<img src="/images/Media/4Partners/JENI4774.jpg" style="width: 225px; display: inline;" alt="SLS Pitch Day 2022"/></a>
 
-  [![SLS Pitch Day 2022](/images/Media/4Partners/JENI4774.jpg)](/images/Media/4Partners/JENI4774.jpg)    
-	[![Enchanting conversations](/images/Media/4Partners/JENI4952.jpg)](/images/Media/4Partners/JENI4952.jpg)    
-	[![Many people talking](/images/Media/4Partners/JENI4851.jpg)](/images/Media/4Partners/JENI4851.jpg)    
-	[![Explanations and connection](/images/Media/4Partners/JENI4987.jpg)](/images/Media/4Partners/JENI4987.jpg)    
-	[![Colleagues at MOE](/images/Media/4Partners/JENI4949.jpg)](/images/Media/4Partners/JENI4949.jpg)         
+<a href="/images/Media/4Partners/JENI4952.jpg" target="_blank">
+<img src="/images/Media/4Partners/JENI4952.jpg" style="width: 225px; display: inline;" alt="Enchanting conversations"/></a>
 
-<a href="/images/Media/4Partners/JENI4949.jpg)" target="_blank">
-<img src="/images/Media/4Partners/JENI4949.jpg" style="width: 225px; display: inline;"/></a>
-<a href="/images/Media/4Partners/JENI4987.jpg)" target="_blank">
-<img src="/images/Media/4Partners/JENI4987.jpg" style="width: 225px; display: inline;"/></a>
-<a href="/images/Media/4Partners/JENI4851.jpg)" target="_blank">
-<img src="/images/Media/4Partners/JENI4851.jpg" style="width: 225px; display: inline;"/></a>
+<a href="/images/Media/4Partners/JENI4851.jpg" target="_blank">
+<img src="/images/Media/4Partners/JENI4851.jpg" style="width: 225px; display: inline;" alt="Many people talking"/></a>
+
+<a href="/images/Media/4Partners/JENI4987.jpg" target="_blank">
+<img src="/images/Media/4Partners/JENI4987.jpg" style="width: 225px; display: inline;" alt="Explanations and connection"/></a>
+
+<a href="/images/Media/4Partners/JENI4949.jpg" target="_blank">
+<img src="/images/Media/4Partners/JENI4949.jpg" style="width: 225px; display: inline;" alt="Colleagues at MOE"/></a>
 
 Task
 -----------
@@ -48,7 +49,8 @@ Describe your proposed product or service and how it would enhance one or more o
  
 From your selected Track(s), elaborate based on one or more of the following Focus Areas:
 
-1. Features   
+1. Features
+<br>
 * **Learning management.** How would your product or service:
 	* enhance the way teachers deliver Teaching and Learning through SLS?
 	* empower students to learn on their own through self-study?
@@ -63,6 +65,7 @@ From your selected Track(s), elaborate based on one or more of the following Foc
 	* improve the communication experience (announcements, notifications, etc.) within SLS?
 	* make it easier for users to access or use features and apps in SLS?
 	* increase accessibility for students with Special Educational Needs (SEN)?
+<br>
 2. Resources
 - **Curriculum Resources.** How would your product or service enhance the quality and range of resources available to support:
 	- the teaching and learning of subjects, both examinable and non-examinable?
