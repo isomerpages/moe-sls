@@ -56,6 +56,7 @@ From your selected Track(s), elaborate based on one or more of the following Foc
 	* increase accessibility for students with Special Educational Needs (SEN)?
 	
 <li>Resources</li>
+<ol>
 
 - **Curriculum Resources.** How would your product or service enhance the quality and range of resources available to support:
 	- the teaching and learning of subjects, both examinable and non-examinable?
