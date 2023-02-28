@@ -4,9 +4,9 @@ permalink: /teachers/Build-The-SLS-Card-Game/generalrules/
 description: ""
 third_nav_title: Build the SLS Card Game
 ---
+![](/images/Media/SLS%20Build%20(Category)/General%20rules%20-%20cards%202.png)
 
-![](images/media/category/General%20rules%20-%20cards%202.png)
- General Rules
+General Rules
 -----
 
 ---
@@ -51,5 +51,3 @@ third_nav_title: Build the SLS Card Game
     
     
     - The Subgroup Access element card should be played on an Activity or Quiz card instead.
-
-          
