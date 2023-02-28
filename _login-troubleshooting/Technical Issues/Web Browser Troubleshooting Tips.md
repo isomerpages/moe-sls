@@ -40,4 +40,6 @@ Try disabling your browser extensions and see if the problem is resolved.
 
  If you encounter any login issues, you will need to clear your cache and browsing history.
 
-You may refer to this [guide](/media/images/UpdatedAssets/4Browser Requirements/Clear-Cache.pdf) on how to clear your cache.
+You may refer to this [guide](images/Media/5Troubleshooting/Clear-Cache.pdf) on how to clear your cache.
+
+<a href="images/Media/5Troubleshooting/Clear-Cache.pdf" target="\_blank"><img src="/images/Media/5Troubleshooting/Clear-Cache.png"></a>
