@@ -5,12 +5,12 @@ description: ""
 third_nav_title: Login Self Help for Students
 ---
 Reset SLS Password (Student)
-============================
+===================
 
  If you have forgotten your SLS password, you can reset it by having a password reset email sent to your email address, or by answering a series of security questions.
 
-   Reset Password with a Password Reset Link
------------------------------------------
+ Reset Password with a Password Reset Link
+----------------------------------
 
 ---
 
@@ -36,7 +36,7 @@ Reset SLS Password (Student)
  
     
  Did Not Receive Password Reset Email
-------------------------------------
+----------------------------------
 
 ---
 
@@ -62,7 +62,8 @@ If the problem persists, please contact the school's SLS Administrator.
     
      Note: You will be prompted only if you have set a verified alternate email. Otherwise, you will be brought directly to the Security Questions page.
     
-      ![](../../../../media/images/UpdatedAssets/2Teacher/TSPStudentPwResetMethod.png)  
+![](images/Media/2Teacher/TSPStudentPwResetMethod.png)  
+			
 6. On the Security Questions page, enter the answers to the security questions.
     
       Note: You must answer all questions correctly before you can reset your password.
@@ -77,5 +78,3 @@ If the problem persists, please contact the school's SLS Administrator.
  If you need to log in to the SLS during class and have forgotten your password, your teacher can generate a 2-Hour Temporary Password (2HTP). The 2HTP only allows you to access the Assignments and MOE Library. It does not allow you to reset your password or change other details in your Profile.
 
  This is only a temporary solution. If you have forgotten your password, you should try to reset it by following the steps above.
-
-             
