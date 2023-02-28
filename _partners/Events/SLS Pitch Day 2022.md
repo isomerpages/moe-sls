@@ -52,7 +52,7 @@ From your selected Track(s), elaborate based on one or more of the following Foc
 <ol><li>Features</li>
 <ul>
 	
-* **Learning management.** How would your product or service:
+<li>**Learning management.** How would your product or service:</li>
 	* enhance the way teachers deliver Teaching and Learning through SLS?
 	* empower students to learn on their own through self-study?
 	* help students to keep track and make sense of their learning progress?
