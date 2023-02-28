@@ -26,9 +26,10 @@ Take charge of your learning! Explore new features as well as our growing librar
 ## User Guide
 [User Guide (Students)](/students/User-Guide-2/Authentication/) 
 <br>[User Guide Login Troubleshooting](/login-troubleshooting/Login-Self-Help-for-Students/LoginMIMSStudent/)
-<br>[Account Management (Pri)](/sls/student)
+<br>[Account Management (Pri)](/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(Pri).pdf)
 <br>
-[Account Management (Sec)](/sls/student)
+[Account Management (Sec/JCCI)](/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(SecJCCI).pdf)
+
 ## Frequently Asked Questions
 [Young Overseas Singaporeans](/students/Frequently-Asked-Questions/YoungOverseas/)
 <br>[Technical Support and Passwords](/students/Frequently-Asked-Questions/TechnicalSupport/)
