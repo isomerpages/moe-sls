@@ -28,16 +28,16 @@ It allows an opportunity to connect, discuss and share with MOE divisions on pro
 <img src="/images/Media/4Partners/JENI4774.jpg" alt="SLS Pitch Day 2022;" style="width: 225px; display: inline;"></a> 
 
 <a href="/images/Media/4Partners/JENI4952.jpg" target="_blank">
-<img src="/images/Media/4Partners/JENI4952.jpg" style="width: 225px; display: inline;" alt="Enchanting conversations"></a>
+<img src="/images/Media/4Partners/JENI4952.jpg"  alt="Enchanting conversations" style="width: 225px; display: inline;"></a>
 
 <a href="/images/Media/4Partners/JENI4851.jpg" target="_blank">
-<img src="/images/Media/4Partners/JENI4851.jpg" style="width: 225px; display: inline;" alt="Many people talking"></a>
+<img src="/images/Media/4Partners/JENI4851.jpg" alt="Many people talking" style="width: 225px; display: inline;"></a>
 
 <a href="/images/Media/4Partners/JENI4987.jpg" target="_blank">
-<img src="/images/Media/4Partners/JENI4987.jpg" style="width: 225px; display: inline;" alt="Explanations and connection"></a>
+<img src="/images/Media/4Partners/JENI4987.jpg" style="width: 225px; display: inline;"></a>
 
 <a href="/images/Media/4Partners/JENI4949.jpg" target="_blank">
-<img src="/images/Media/4Partners/JENI4949.jpg" style="width: 225px; display: inline;" alt="Colleagues at MOE"></a>
+<img src="/images/Media/4Partners/JENI4949.jpg" style="width: 225px; display: inline;"></a>
 
 Task
 -----------
@@ -56,7 +56,7 @@ From your selected Track(s), elaborate based on one or more of the following Foc
 <ul><li>enhance the way teachers deliver Teaching and Learning through SLS?
 <li>empower students to learn on their own through self-study?
 <li>help students to keep track and make sense of their learning progress?
-	</ul>
+</ul>
 <li><b>Data Analytics.</b> How would your product or service:
 <ul><li>improve the quality of insights that we can get from the data in SLS?
 <li>make it easier to present data and insights in a meaningful way?
@@ -66,7 +66,7 @@ From your selected Track(s), elaborate based on one or more of the following Foc
 <ul><li>improve the communication experience (announcements, notifications, etc.) within SLS?
 <li>make it easier for users to access or use features and apps in SLS?
 <li>increase accessibility for students with Special Educational Needs (SEN)?
-	</ul>
+</ul>
 </li>
 </ul>
 	
