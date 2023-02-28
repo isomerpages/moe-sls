@@ -109,14 +109,14 @@ Tips on Passwords and Other Security Features
     There are steps on this page to guide students on what to do if they have forgotten their username, password, or if their account has been locked.
     
     Here is a poster for students on how to troubleshoot login issues.
+		
+<a href="/images/Media/5Troubleshooting/Self-help%20tips%20for%20student%20login.png" target="\_blank"><img src="/images/Media/5Troubleshooting/Self-help%20tips%20for%20student%20login.png"></a>
+
+For Teachers:
     
-       [ ![](../media/images/UpdatedAssets/5Troubleshooting/Self-help tips for student login.png) ]()
-			 
-	For Teachers:
-    
-	Teachers can reset their password using the Forgot Password link.
-    
-	For issues related to the provisioning of accounts to non-MIMS users, direct hires or flexi-adjunct teachers, schools can also email: SLS\_OPS@moe.gov.sg.
+Teachers can reset their password using the Forgot Password link.
+
+For issues related to the provisioning of accounts to non-MIMS users, direct hires or flexi-adjunct teachers, schools can also email: SLS_OPS@moe.gov.sg.
 
 2. **Can students change the security questions?**
     
