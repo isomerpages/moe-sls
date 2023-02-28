@@ -2,6 +2,7 @@ collections:
   teachers:
     output: true
     order:
+      - Test/Index.md
       - Test/Background 2.md
       - Test/.keep
       - Teachers.md
