@@ -38,26 +38,24 @@ Describe your proposed product or service and how it would enhance one or more o
 From your selected Track(s), elaborate based on one or more of the following Focus Areas:
 
 <ol><li>Features</li>
-<ul><li><b>Learning management.</b> How would your product or service:
-<ul><li>enhance the way teachers deliver Teaching and Learning through SLS?
-<li>empower students to learn on their own through self-study?
-<li>help students to keep track and make sense of their learning progress?
-</ul></li>
-
-<li><b>Data Analytics.</b> How would your product or service:
-<ul><li>improve the quality of insights that we can get from the data in SLS?
-<li>make it easier to present data and insights in a meaningful way?
-<li>help to find and organise relevant data for a particular educational need?
-</li></ul>
-<li><b>User Experience and Interactions.</b> How would your product or service:
-<ul><li>improve the communication experience (announcements, notifications, etc.) within SLS?
-<li>make it easier for users to access or use features and apps in SLS?
-<li>increase accessibility for students with Special Educational Needs (SEN)?
-</li></ul>
-</li>
-</ul>
 	
-<li>Resources</li></ol>
+* **Learning management.** How would your product or service:
+	* enhance the way teachers deliver Teaching and Learning through SLS?
+	* empower students to learn on their own through self-study?
+	* help students to keep track and make sense of their learning progress?
+
+
+* **Data Analytics.** How would your product or service:
+	* improve the quality of insights that we can get from the data in SLS?
+	* make it easier to present data and insights in a meaningful way?
+	* help to find and organise relevant data for a particular educational need?
+
+* **User Experience and Interactions.** How would your product or service:
+	* improve the communication experience (announcements, notifications, etc.) within SLS?
+	* make it easier for users to access or use features and apps in SLS?
+	* increase accessibility for students with Special Educational Needs (SEN)?
+	
+<li>Resources</li>
 
 - **Curriculum Resources.** How would your product or service enhance the quality and range of resources available to support:
 	- the teaching and learning of subjects, both examinable and non-examinable?
