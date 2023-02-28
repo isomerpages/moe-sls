@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Technical Issues
 ---
 Operating System and Browser Requirements (Updated)
-===================================================
+===================
 
  
  The Student Learning Space (SLS) is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices.
@@ -26,6 +26,4 @@ Operating System and Browser Requirements (Updated)
 
    
 
- If you are having trouble even though your browser meets the above requirements, refer to the [Web Browser Troubleshooting Tips.](../../logintroubleshooting/LoginTroubleshooting/WebBrowserTroubleshooting.html)
-
-              
+ If you are having trouble even though your browser meets the above requirements, refer to the [Web Browser Troubleshooting Tips.](/login-troubleshooting/Technical-Issues/WebBrowserTroubleshooting/)
