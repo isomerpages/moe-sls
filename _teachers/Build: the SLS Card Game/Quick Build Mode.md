@@ -4,8 +4,7 @@ permalink: /teachers/Build-The-SLS-Card-Game/quickbuild/
 description: ""
 third_nav_title: "Build: the SLS Card Game"
 ---
-
-![](../../../media/images/category/quickbuildmode.png)    
+![](/images/Media/SLS%20Build%20(Category)/quickbuildmode.png)    
 
 Quick Build Mode
 -----------
