@@ -42,8 +42,7 @@ From your selected Track(s), elaborate based on one or more of the following Foc
 <ul><li>enhance the way teachers deliver Teaching and Learning through SLS?
 <li>empower students to learn on their own through self-study?
 <li>help students to keep track and make sense of their learning progress?
-</li>
-</ul>
+</li></ul></ul>
 	
 <li><b>Data Analytics.</b> How would your product or service:
 <ul><li>improve the quality of insights that we can get from the data in SLS?
