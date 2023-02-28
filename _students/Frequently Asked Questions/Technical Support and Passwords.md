@@ -70,7 +70,7 @@ Tips on Passwords and Other Security Features
     
     Here is a poster for students on how to troubleshoot login issues.
     
-![](/images/Media/5Troubleshooting/Self-help%20tips%20for%20student%20login.png)
+<a href="/images/Media/5Troubleshooting/Self-help%20tips%20for%20student%20login.png" target="\_blank"><img src="/images/Media/5Troubleshooting/Self-help%20tips%20for%20student%20login.png"></a>
 
 2. **Can students change the security questions?**
     
