@@ -2,6 +2,7 @@ collections:
   teachers:
     output: true
     order:
+      - Test/Quick Build Mode.md
       - Test/General Rules.md
       - Test/Index.md
       - Test/Background 2.md
