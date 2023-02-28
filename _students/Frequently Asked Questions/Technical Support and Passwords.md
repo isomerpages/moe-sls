@@ -22,7 +22,7 @@ Overview of SLS System
     
     The SLS is continually being developed in response to needs of students and teachers. Curriculum-aligned resources and system tools are continually being improved and developed in line with suggestions and feedback from teachers and students to cater to students’ diverse and evolving learning needs.
  
-Technical &amp; Infrastructure Support
+Technical & Infrastructure Support
 --------------------------------------
 
 ---
@@ -46,11 +46,11 @@ Technical &amp; Infrastructure Support
 
        
     
-If you are having trouble even though your browser meets the above requirements, you can find self-help steps on the [SLS Troubleshooting page](../user-guide/vle/logintroubleshooting/index.html).
+If you are having trouble even though your browser meets the above requirements, you can find self-help steps on the [Web Browser Troubleshooting Tips page](/login-troubleshooting/Technical-Issues/WebBrowserTroubleshooting/).
 
 2. **Who can users contact for technical support?**
     
-For assistance on login and browser issues, users are advised to refer to the [SLS Troubleshooting page](../user-guide/vle/logintroubleshooting/index.html).
+For assistance on login and browser issues, users are advised to refer to the [Login Self-Help for Students](/login-troubleshooting/Login-Self-Help-for-Students/LoginMIMSStudent/).
 
 3. **Will students need additional hardware / internet subscription to access the SLS?**
     
@@ -58,19 +58,19 @@ SLS is web based and can be accessed using most computing devices that are conne
  
   
 Tips on Passwords and Other Security Features
----------------------------------------------
+----------------------------------
 
 ---
 
 1. **What can students do if they forget their passwords?**
     
-    Students can go to the [SLS Troubleshooting page](../user-guide/vle/logintroubleshooting/index.html) on “Login Issues” for self-help tips
+    Students can go to the [Login Self-Help for Students](/login-troubleshooting/Login-Self-Help-for-Students/LoginMIMSStudent/) for self-help tips
     
     There are steps on this page to guide students on what to do if they have forgotten their username, password, or if their account has been locked.
     
     Here is a poster for students on how to troubleshoot login issues.
     
-[ ![](../media/images/UpdatedAssets/5Troubleshooting/Self-help tips for student login.png) ]() 
+![](/images/Media/5Troubleshooting/Self-help%20tips%20for%20student%20login.png)
 
 2. **Can students change the security questions?**
     
@@ -78,12 +78,9 @@ Tips on Passwords and Other Security Features
 	
 3. **What can students do if their accounts are locked ?**
     
-Students can call their [School-Based Helpline](../user-guide/vle/logintroubleshooting/LoginTroubleshooting/SchoolBasedHelpline.html) or the SLS Helpdesk (see below) to unlock their SLS accounts.
+Students can call their [School-Based Helpline](/login-troubleshooting/SchoolBasedHelpline/) or the SLS Helpdesk (see below) to unlock their SLS accounts.
     
 ||SLS Helpdesk|
 |--- |--- |
 |Contact Information|Email: helpdesk@sls.ufinity.com<br>Tel: (65) 6702 6513|
 |Operating Hours|Mondays - Fridays: <br>                           4 pm - 9 pm (School Days) <br> 9 am - 9 pm (School Holidays)<br>Saturdays:9:00 am - 3:00 pm)<br>(Closed on Sundays & Public Holidays)|
-
- 
-          
