@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Build the SLS Card Game
 ---
 ![](../../../media/images/category/quickbuildmode.png)    
+
 Quick Build Mode
 -----------
 
@@ -27,5 +28,3 @@ Quick Build Mode
 2. All players turn over their cards and use the cards to form a serquence of components and their elements
 3. At any time during the game, a player can discard one card in their hand and draw two cards from the draw pile
 4. The first player to fulfil the win condition and shouts out '**SLS**' wins.
-
-         
