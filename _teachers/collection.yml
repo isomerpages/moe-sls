@@ -2,8 +2,6 @@ collections:
   teachers:
     output: true
     order:
-      - User Guide Admin/Manage Users.md
-      - User Guide Admin/.keep
       - Teachers.md
       - Feature Highlights/.keep
       - Feature Highlights/Release Videos.md
@@ -32,6 +30,8 @@ collections:
       - User Guide CAA14Feb/Resources.md
       - User Guide CAA14Feb/Authentication & Profile Management.md
       - User Guide CAA14Feb/Useful Information.md
+      - User Guide Admin/.keep
+      - User Guide Admin/Manage Users.md
       - Frequently Asked Questions.md
       - SLS Professional Development/.keep
       - SLS Professional Development/Teaching and Learning with SLS.md
