@@ -2,6 +2,7 @@ collections:
   teachers:
     output: true
     order:
+      - Test/Facilitation Resources.md
       - Test/Print to Play.md
       - Test/Shared Build Mode.md
       - Test/Quick Build Mode.md
