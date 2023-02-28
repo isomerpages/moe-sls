@@ -2,6 +2,12 @@ collections:
   teachers:
     output: true
     order:
+      - Teachers.md
+      - Feature Highlights/.keep
+      - Feature Highlights/Release Videos.md
+      - Feature Highlights/R18 Posters.md
+      - Feature Highlights/R17 Posters.md
+      - Feature Highlights/R16 Posters.md
       - Build the SLS Card Game/.keep
       - Build the SLS Card Game/Index.md
       - Build the SLS Card Game/Background.md
@@ -11,12 +17,6 @@ collections:
       - Build the SLS Card Game/Print to Play.md
       - Build the SLS Card Game/Facilitation Resources.md
       - Build the SLS Card Game/Instruction Booklet.md
-      - Teachers.md
-      - Feature Highlights/.keep
-      - Feature Highlights/Release Videos.md
-      - Feature Highlights/R18 Posters.md
-      - Feature Highlights/R17 Posters.md
-      - Feature Highlights/R16 Posters.md
       - User Guide CAA14Feb/.keep
       - User Guide CAA14Feb/Author.md
       - User Guide CAA14Feb/Gamify.md
