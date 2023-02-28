@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Students.md
+      - Feature Highlights/R17 Posters.md
       - Feature Highlights/.keep
       - Feature Highlights/Release Videos.md
       - Feature Highlights/R18 Posters.md
