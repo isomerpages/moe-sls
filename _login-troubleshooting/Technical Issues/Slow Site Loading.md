@@ -4,9 +4,7 @@ permalink: /login-troubleshooting/Technical-Issues/SlowSiteLoading/
 description: ""
 third_nav_title: Technical Issues
 ---
-
-
- Slow Site Loading
+Slow Site Loading
 =================
 
   
@@ -17,7 +15,7 @@ third_nav_title: Technical Issues
     
     - Your school's Desktop Engineer (DE) (if the problem occurs in school)
     - Internet Service Provider (ISP) (if the problem occurs at home)
-2. Ensure that your web browser meets the [minimum requirements](../../logintroubleshooting/LoginTroubleshooting/OSBrowserRequirements.html).
+2. Ensure that your web browser meets the [minimum requirements](/login-troubleshooting/Technical-Issues/OSBrowserRequirements/).
 3. Clear your browser's [cache](https://www.wikihow.com/Clear-Your-Browser%27s-Cache) and [cookies](https://www.wikihow.com/Clear-Your-Browser%27s-Cookies) and restart your web browser.
 4. Switch to another web browser.
 If the problem persists, please contact the SLS Helpdesk at  or call 6702 6513.
@@ -40,5 +38,3 @@ If the problem persists, please contact the SLS Helpdesk at  or call 6702 6513.
  If you encounter any login issues, you will need to clear your cache and browsing history.
 
 You may refer to this [guide]() on how to clear your cache.
-
-           
