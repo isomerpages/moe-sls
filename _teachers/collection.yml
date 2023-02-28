@@ -2,6 +2,7 @@ collections:
   teachers:
     output: true
     order:
+      - User Guide Admin/Manage Users.md
       - User Guide Admin/.keep
       - Teachers.md
       - Feature Highlights/.keep
