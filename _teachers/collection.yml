@@ -2,15 +2,15 @@ collections:
   teachers:
     output: true
     order:
-      - Build the SLS Card Game/Instruction Booklet.md
-      - Build the SLS Card Game/Facilitation Resources.md
-      - Build the SLS Card Game/Print to Play.md
-      - Build the SLS Card Game/Shared Build Mode.md
-      - Build the SLS Card Game/Quick Build Mode.md
-      - Build the SLS Card Game/General Rules.md
+      - Build the SLS Card Game/.keep
       - Build the SLS Card Game/Index.md
       - Build the SLS Card Game/Background.md
-      - Build the SLS Card Game/.keep
+      - Build the SLS Card Game/General Rules.md
+      - Build the SLS Card Game/Quick Build Mode.md
+      - Build the SLS Card Game/Shared Build Mode.md
+      - Build the SLS Card Game/Print to Play.md
+      - Build the SLS Card Game/Facilitation Resources.md
+      - Build the SLS Card Game/Instruction Booklet.md
       - Teachers.md
       - Feature Highlights/.keep
       - Feature Highlights/Release Videos.md
