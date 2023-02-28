@@ -37,4 +37,6 @@ If the problem persists, please contact the SLS Helpdesk at  or call 6702 6513.
 
  If you encounter any login issues, you will need to clear your cache and browsing history.
 
-You may refer to this [guide]() on how to clear your cache.
+You may refer to this [guide](images/Media/5Troubleshooting/Clear-Cache.pdf) on how to clear your cache.
+
+<a href="images/Media/5Troubleshooting/Clear-Cache.pdf" target="\_blank"><img src="/images/Media/5Troubleshooting/Clear-Cache.png"></a>
