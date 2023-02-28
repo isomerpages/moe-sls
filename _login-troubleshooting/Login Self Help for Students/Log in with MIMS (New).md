@@ -22,9 +22,10 @@ Log in with MIMS (for Secondary and JC/CI students)
 
 1. From the main login page, click **Login with MIMS**.
 2. At the MIMS login page, enter your MIMS username and password.
-  ![](../../../../media/images/UpdatedAssets/Teacher/LTM1.png)  4. Click **Sign in**.
-5. Upon successful authentication, you will be brought to the SLS homepage.
- 
+  ![](images/Media/2Teacher/LTM1.png) 
+
+3. Click **Sign in**.
+4. Upon successful authentication, you will be brought to the SLS homepage.
     
   Unable to Sign-in to MIMS Account
 ---------------------------------
@@ -42,6 +43,3 @@ Please approach your teacher or MIMS student administrator for assistance. If yo
 1. From the main login page, click **Login with SLS** to access the existing login page.
 2. Enter your *existing SLS password*.
 3. Click **Login**
-   
- 
-          
