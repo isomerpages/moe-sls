@@ -21,7 +21,7 @@ sections:
   - infopic:
       title: Students
       button: go to students page
-      url: https://www.learning.moe.edu.sg/sls/user-guide/vle/update.html
+      url: /sls/students/
       image: /images/Media/Quick Links/Students Hero.png
       alt: R18 Class Groups
       description: Take charge of your learning! Explore new features as well as our
@@ -31,7 +31,7 @@ sections:
       description: Looking for new ways to support your students’ learning? SLS
         features can enhance your teaching to engage your students better!
       button: Go to teachers page
-      url: https://staging.d19lt3odqxq3m6.amplifyapp.com/sls/teachers/
+      url: /sls/teachers/
       image: /images/Media/Quick Links/Teachers Hero.png
       alt: Image alt text
   - infopic:
@@ -39,7 +39,7 @@ sections:
       description: The SLS team welcomes companies and agencies with expertise to
         enhance users’ learning experiences through apps and platforms.
       button: Go to partners page
-      url: https://staging.d19lt3odqxq3m6.amplifyapp.com/sls/partners/
+      url: /sls/partners/
       image: /images/Media/Quick Links/Partners Hero.png
       alt: Image alt text
   - infobar:
@@ -48,5 +48,5 @@ sections:
         of MOE’s key initiatives to transform the learning experiences of
         Singaporean students.
       button: Find out more here
-      url: https://staging.d19lt3odqxq3m6.amplifyapp.com/about-sls/overviewofsls/
+      url: /about-sls/overviewofsls/
 ---
