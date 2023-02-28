@@ -17,8 +17,6 @@ Take charge of your learning! Explore new features as well as our growing librar
 <br>[Release 17 (1 Dec 2022)](/students/Feature-Highlights/r17posters/)
 <br>[Release 16 (1 Dec 2022)](/students/Feature-Highlights/r16posters/)
 
-
-
 ## Student-Initiated Learning
 [For Secondary Level](/students/studentinitiatedlearning/)
 <br>[For JC/MI Level](/students/studentinitiatedlearning/)
