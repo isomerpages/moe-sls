@@ -66,7 +66,9 @@ From your selected Track(s), elaborate based on one or more of the following Foc
 	* make it easier for users to access or use features and apps in SLS?
 	* increase accessibility for students with Special Educational Needs (SEN)?
 <br>
+
 2. Resources
+<br>
 - **Curriculum Resources.** How would your product or service enhance the quality and range of resources available to support:
 	- the teaching and learning of subjects, both examinable and non-examinable?
 	- the delivery of curriculum beyond the classroom to develop students' cognitive, affective, physical, and aesthetic abilities?
