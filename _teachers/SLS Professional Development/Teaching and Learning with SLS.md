@@ -9,9 +9,10 @@ Teaching and Learning with SLS
 ---
 
 <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fab4ec7d-facb-4e96-8888-7f935d4921a0/cover" target="_blank">Lesson 1: Introduction</a>
-<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fab4ec7d-facb-4e96-8888-7f935d4921a0/cover" target="_blank"><img src="/images/Media/2Teacher/T_L_with_SLS_Lesson_1.webp" style="width:50%" align="left" /></a>
+<a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/fab4ec7d-facb-4e96-8888-7f935d4921a0/cover" target="_blank"><img src="/images/Media/2Teacher/T_L_with_SLS_Lesson_1.webp" style="width:50%" /></a>
 
 <hr>
+
 <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/021c91a1-eed8-4bf6-a894-fa54db43e804/cover" target="_blank">Lesson 2: Getting Started with SLS</a>
 <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/021c91a1-eed8-4bf6-a894-fa54db43e804/cover" target="_blank"><img src="/images/Media/2Teacher/T_L_with_SLS_Lesson_2.png" style="width:50%" /></a>
 
