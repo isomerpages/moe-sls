@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Landing Page.png
+      background: /images/LandingPage.png
       key_highlights:
         - title: R18 Posters
           description: Learn about Class Groups!
