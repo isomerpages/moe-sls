@@ -33,5 +33,3 @@ Teaching and Learning with SLS
 
 <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e0e9f6c4-6731-4685-b0fd-fc3404fadfc9/cover" target="_blank">SLS Release 17 Spotlight (Post Event)</a>
 <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/e0e9f6c4-6731-4685-b0fd-fc3404fadfc9/cover" target="_blank"><img src="/images/Media/2Teacher/Spotlight__Aug_2022_.png"/></a>
-
-<a href="/files/Posters/R18/(1%20of%203)%20Teacher%20MIMS.pdf" target="_blank"><img src="/images/Media/6Posters/(1%20of%203)%20Teacher%20MIMS.png" style="width:100%;" alt="Updated Login to SLS"/></a>
