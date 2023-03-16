@@ -21,3 +21,6 @@ Others
 |3|Microsoft|Microsoft's mission is to empower every person and every organization on the planet to achieve more.|
 |4|NEC Asia Pacific Pte Ltd*|NEC Emotion and Attentiveness Analytics for Online and Onsite Learning.|
 |5|Taiger Singapore Pte Ltd*|Learn Beyond Walls - TAIGER is an AI company with a dream to free the human intellect.|
+
+
+<font size=2>*shortlisted</font>
