@@ -21,3 +21,6 @@ Assessment and Analytics
 |4|GETMARKED*|Convert any Word or PDF worksheets into an online e-assignment.|
 |5|Integral Solutions (Asia) Pte Ltd|Integral Solutions Asia has 28 years' experience in providing AI advanced data analytics solutions.|
 |6|Practicle Pte Ltd|Practicle is a gamified adaptive practice system that personalises learning and makes Math fun.|
+
+
+<font size=2>*shortlisted</font>
