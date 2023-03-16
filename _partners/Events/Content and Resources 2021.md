@@ -29,3 +29,6 @@ Content and Resources
 |11|Stag Match(in partnership with LearnCourseOnline.com)|Stag Match Institute hosts a wide range of WSQ Courses, Adult Learning Courses, Children Robotics and Coding programmes. LearnCourseOnline is a cloud LMS with leading e-learning technology and seamless transition to live-learning services in multiple regions.|
 |12|The Amdon Group|The Amdon Group is a global leader in STEM education for children aged 5 to 18 (Grades K-12).|
 |13|Yumcha Studios Pte Ltd*|The Dim Sum Warriors Comic Reader App increases language play, creativity, and reading engagement in Chinese and English through funny bilingual comic stories, super cute dim sum characters, games, and cutting-edge voice evaluation technology.|
+
+
+<font size=2>*shortlisted</font>
