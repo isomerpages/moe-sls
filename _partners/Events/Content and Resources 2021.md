@@ -25,9 +25,7 @@ Content and Resources
 |7|Future Ready Academy*|Empowers future-ready Leaders, Innovators, Entrepreneurs with digital and problem-solving skills.|
 |8|MoneyTree Asia Pacific Pte Ltd|MoneyTree is a pioneer in Financial Literacy for kids 6 to 16 years across the Asia Pacific region.|
 |9|Ottodot Pte Ltd*|Makes learning fun through educational games.|
-|10|Singapore Education Academy (Asia Pacific) Pte Ltd[^1]|Zapzapmath is designed to help students learn math through engaging games.|
+|10|Singapore Education Academy (Asia Pacific) Pte Ltd*|Zapzapmath is designed to help students learn math through engaging games.|
 |11|Stag Match(in partnership with LearnCourseOnline.com)|Stag Match Institute hosts a wide range of WSQ Courses, Adult Learning Courses, Children Robotics and Coding programmes. LearnCourseOnline is a cloud LMS with leading e-learning technology and seamless transition to live-learning services in multiple regions.|
 |12|The Amdon Group|The Amdon Group is a global leader in STEM education for children aged 5 to 18 (Grades K-12).|
 |13|Yumcha Studios Pte Ltd*|The Dim Sum Warriors Comic Reader App increases language play, creativity, and reading engagement in Chinese and English through funny bilingual comic stories, super cute dim sum characters, games, and cutting-edge voice evaluation technology.|
-
-[^1]: <font size=2>Shortlisted</font>
