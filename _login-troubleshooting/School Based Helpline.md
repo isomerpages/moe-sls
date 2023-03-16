@@ -20,12 +20,8 @@ You may use the search function to find your school quickly.
 |Ai Tong School|Tel: 98385529 <br>            Email:  <br>                      Others: Form SG|
 |Alexandra Primary School|Tel: 62485400 <br>                       Email: <br>    Others:|
 |Anchor Green Primary School|Tel: 68861356<br>                 Email: locanas_francis_gutierrez@schools.gov.sg, hariani_salleh@schools.gov.sg <br> Others:|
-|Anderson Primary School| Tel: 64560340 <br>       Email: suzanah_saparwan@moe.edu.sg  <br>   Others: Form SG|
-												
-|Anderson Secondary School|Tel: 64598303
-                      Email:
-                      
-                        Others:|
+|Anderson Primary School| Tel: 64560340 <br>       Email: suzanah_saparwan@moe.edu.sg  <br>   Others: Form SG|								
+|Anderson Secondary School|Tel: 64598303 <br> Email:  <br>  Others:|
 |Anderson Serangoon Junior College|Tel: 64598774
                       Email: admin_asrjc@moe.edu.sg
                       
