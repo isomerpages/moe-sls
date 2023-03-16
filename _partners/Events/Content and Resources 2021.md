@@ -30,4 +30,4 @@ Content and Resources
 |12|The Amdon Group*|The Amdon Group is a global leader in STEM education for children aged 5 to 18 (Grades K-12).|
 |13|Yumcha Studios Pte Ltd*|The Dim Sum Warriors Comic Reader App increases language play, creativity, and reading engagement in Chinese and English through funny bilingual comic stories, super cute dim sum characters, games, and cutting-edge voice evaluation technology.|
 
-[^1]: Shortlisted
+<font size=6>[^1]: Shortlisted</font>
