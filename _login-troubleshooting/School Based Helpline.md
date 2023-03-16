@@ -13,8 +13,8 @@ You may use the search function to find your school quickly.
 
 |School|Helpline|
 |--- |--- |
-|Admiralty Primary School   |Tel: 63620598 <br/> Email:<br/> Others:|
-|Admiralty Secondary School|Tel: 63651733 <br/>     Email:<br/> Others:|
+|Admiralty Primary School   |Tel: 63620598 <br> Email:<br> Others:|
+|Admiralty Secondary School|Tel: 63651733 <br>     Email:<br> Others:|
 |Ahmad Ibrahim Primary School|Tel: 67592906 <br>   Email:  <br>  Others:|
 |Ahmad Ibrahim Secondary School|Tel: 65949026 <br>Email: aiss_slshelpline@aiss.edu.sg <br>  Others:|
 |Ai Tong School|Tel: 98385529 <br>            Email:  <br>                      Others: Form SG|
