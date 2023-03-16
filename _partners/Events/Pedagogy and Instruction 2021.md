@@ -30,4 +30,5 @@ Pedagogy and Instruction
 |12|Soqqle|Soqqle is like 'Tiktok', but for education. Students upload video homework for peer learning.|
 |13|Techsbook|Content creators that aim to provide quality materials to complement the standard curriculum.|
 
-            
+
+<font size=2>*shortlisted</font>
