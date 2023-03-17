@@ -21,9 +21,9 @@ You may use the search function to find your school quickly.
                   <tr>
                     <td>Admiralty Primary School</td>
                     <td>
-                      <p>Tel: 63620598</p>
-                      <p>Email:</p>
-                      <p>Others:</p>
+                      Tel: 63620598
+                      <br>Email:
+                      <br>Others:
                     </td>
                   </tr>
                   <tr>
