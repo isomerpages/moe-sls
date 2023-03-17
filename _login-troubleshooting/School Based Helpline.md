@@ -15,7 +15,7 @@ td:nth-child(2) {word-break: break-all;}
 <table>
 <thead>
 <tr>
-<th style="width: 50%">School</th>
+<th style="width: 40%">School</th>
 <th>Helpline</th>
 </tr>
 </thead>
