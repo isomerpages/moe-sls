@@ -9,11 +9,13 @@ School-Based Helpline
 The following are details on how you can contact your school to assist in login or e-learning issues during working hours.
 
 You may use the search function to find your school quickly.
-
+<style>
+td:nth-child(2) {word-break: break-all;}
+</style>
 <table>
 <thead>
 <tr>
-<th>School</th>
+<th style="width: 50%">School</th>
 <th>Helpline</th>
 </tr>
 </thead>
