@@ -21,7 +21,7 @@ You may use the search function to find your school quickly.
 <tr>
 <td>Admiralty Primary School</td>
 <td>
-<br>Tel: 63620598
+Tel: 63620598
 <br>Email:
 <br>Others:
 </td>
@@ -29,7 +29,7 @@ You may use the search function to find your school quickly.
 <tr>
 <td>Admiralty Secondary School</td>
 <td>
-<br>Tel: 63651733
+Tel: 63651733
 <br>Email:
 <br>
 Others:
@@ -40,7 +40,7 @@ Others:
 <tr>
 <td>Ahmad Ibrahim Primary School</td>
 <td>
-<br>Tel: 67592906
+Tel: 67592906
 <br>Email:
 <br>Others:
 </td>
@@ -48,7 +48,7 @@ Others:
 <tr>
 <td>Ahmad Ibrahim Secondary School</td>
 <td>
-<br>Tel: 65949026
+Tel: 65949026
 <br>Email: aiss_slshelpline@aiss.edu.sg
 <br>
 Others:
@@ -60,7 +60,7 @@ Others:
 <tr>
 <td>Ai Tong School</td>
 <td>
-<br>Tel: 98385529
+Tel: 98385529
 <br>Email:
 <br>Others: <a href='https://go.gov.sg/ats-sls-studenticon-issues'>Form SG</a>
 </td>
@@ -69,7 +69,7 @@ Others:
 <tr>
 <td>Alexandra Primary School</td>
 <td>
-<br>Tel: 62485400
+Tel: 62485400
 <br>Email:
 <br>
 Others:
@@ -80,7 +80,7 @@ Others:
 <tr>
 <td>Anchor Green Primary School</td>
 <td>
-<br>Tel: 68861356
+Tel: 68861356
 <br>Email: locanas_francis_gutierrez@schools.gov.sg, hariani_salleh@schools.gov.sg
 <br>
 Others:
@@ -91,7 +91,7 @@ Others:
 <tr>
 <td>Anderson Primary School</td>
 <td>
-<br>Tel: 64560340
+Tel: 64560340
 <br>Email: suzanah_saparwan@moe.edu.sg
 <br>
 Others: <a href='https://form.gov.sg/#!/5d7e0dd328467500121f6aab'>Form SG</a>
@@ -101,7 +101,7 @@ Others: <a href='https://form.gov.sg/#!/5d7e0dd328467500121f6aab'>Form SG</a>
 <tr>
 <td>Anderson Secondary School</td>
 <td>
-<br>Tel: 64598303
+Tel: 64598303
 <br>Email:
 <br>
 Others:
@@ -112,7 +112,7 @@ Others:
 <tr>
 <td>Anderson Serangoon Junior College</td>
 <td>
-<br>Tel: 64598774
+Tel: 64598774
 <br>Email: admin_asrjc@moe.edu.sg
 <br>
 Others:
@@ -123,7 +123,7 @@ Others:
 <tr>
 <td>Ang Mo Kio Primary School</td>
 <td>
-<br>Tel: 64590247
+Tel: 64590247
 <br>Email:
 <br>
 Others: <a href='https://go.gov.sg/amkpslshelp'>Form SG</a>
@@ -133,7 +133,7 @@ Others: <a href='https://go.gov.sg/amkpslshelp'>Form SG</a>
 <tr>
 <td>Ang Mo Kio Secondary School</td>
 <td>
-<br>Tel: 64548605
+Tel: 64548605
 <br>Email:
 <br>
 Others:
@@ -144,7 +144,7 @@ Others:
 <tr>
 <td>Anglican High School</td>
 <td>
-<br>Tel: 62414866
+Tel: 62414866
 <br>Email:
 <br>
 Others:
@@ -155,7 +155,7 @@ Others:
 <tr>
 <td>Anglo-Chinese Junior College</td>
 <td>
-<br>Tel: 67750511
+Tel: 67750511
 <br>Email: teo_shee_yong@acjc.edu.sg
 <br>
 Others:
@@ -166,7 +166,7 @@ Others:
 <tr>
 <td>Anglo-Chinese School (Barker Road)</td>
 <td>
-<br>Tel: 63595376
+Tel: 63595376
 <br>Email: acsbr_it@moe.edu.sg
 <br>
 Others:
@@ -177,7 +177,7 @@ Others:
 <tr>
 <td>Anglo-Chinese School (Independent)</td>
 <td>
-<br>Tel: 68700355
+Tel: 68700355
 <br>Email: lms-admin@acsindep.edu.sg
 <br>
 Others: <a href="https://www.acsindep.moe.edu.sg/for-students/singapore-student-learning-space/">More Info</a>
@@ -188,7 +188,7 @@ Others: <a href="https://www.acsindep.moe.edu.sg/for-students/singapore-student-
 <tr>
 <td>Anglo-Chinese School (Junior)</td>
 <td>
-<br>Tel: 67337911
+Tel: 67337911
 <br>Email:
 <br>
 Others: <a href="https://go.gov.sg/acsjsls">https://go.gov.sg/acsjsls</a>
@@ -199,7 +199,7 @@ Others: <a href="https://go.gov.sg/acsjsls">https://go.gov.sg/acsjsls</a>
 <tr>
 <td>Anglo-Chinese School (Primary)</td>
 <td>
-<br>Tel: 62501633
+Tel: 62501633
 <br>Email: vedavalli@schools.gov.sg
 <br>
 Others:
@@ -210,7 +210,7 @@ Others:
 <tr>
 <td>Angsana Primary School</td>
 <td>
-<br>Tel: 67830427
+Tel: 67830427
 <br>Email: low_hui_ling@moe.edu.sg
 <br>
 Others: <a href="https://angsanapri.moe.edu.sg/quicklinks/sls-student-learning-space">School Website</a>
@@ -221,7 +221,7 @@ Others: <a href="https://angsanapri.moe.edu.sg/quicklinks/sls-student-learning-s
 <tr>
 <td>Assumption English School</td>
 <td>
-<br>Tel: 65729100
+Tel: 65729100
 <br>Email: tang_kok_bin@moe.edu.sg
 <br>
 Others:
@@ -232,7 +232,7 @@ Others:
 <tr>
 <td>Assumption Pathway School</td>
 <td>
-<br>Tel: 68793900
+Tel: 68793900
 <br>Email:
 <br>
 Others:
@@ -243,7 +243,7 @@ Others:
 <tr>
 <td>Bartley Secondary School</td>
 <td>
-<br>Tel: 62889013
+Tel: 62889013
 <br>Email:
 <br>
 Others:
@@ -254,7 +254,7 @@ Others:
 <tr>
 <td>Beacon Primary School</td>
 <td>
-<br>Tel: 67697255
+Tel: 67697255
 <br>Email: beaconprisch_ict@moe.edu.sg
 <br>
 Others:
@@ -265,7 +265,7 @@ Others:
 <tr>
 <td>Beatty Secondary School</td>
 <td>
-<br>Tel: 62569108
+Tel: 62569108
 <br>Email: rohmannan_amran@moe.edu.sg
 <br>
 Others: <a href="https://go.gov.sg/beattysls">Form SG</a>
@@ -276,7 +276,7 @@ Others: <a href="https://go.gov.sg/beattysls">Form SG</a>
 <tr>
 <td>Bedok Green Primary School</td>
 <td>
-<br>Tel: 64425416
+Tel: 64425416
 <br>Email: bgps@moe.edu.sg
 <br>
 Others:
@@ -287,7 +287,7 @@ Others:
 <tr>
 <td>Bedok Green Secondary School</td>
 <td>
-<br>Tel: 64463301
+Tel: 64463301
 <br>Email: bgss@moe.edu.sg
 <br>
 Others:
@@ -298,7 +298,7 @@ Others:
 <tr>
 <td>Bedok South Secondary School</td>
 <td>
-<br>Tel: 64414479
+Tel: 64414479
 <br>Email: bsss@moe.edu.sg
 <br>
 Others: <a href="https://form.gov.sg/5e3114cd3e5eff0011af8b4e">Form SG</a>
@@ -309,7 +309,7 @@ Others: <a href="https://form.gov.sg/5e3114cd3e5eff0011af8b4e">Form SG</a>
 <tr>
 <td>Bedok View Secondary School</td>
 <td>
-<br>Tel: 64430563 
+Tel: 64430563 
 <br>Email: bedokview_ss@moe.edu.sg
 <br>
 Others:
@@ -320,7 +320,7 @@ Others:
 <tr>
 <td>Bendemeer Primary School</td>
 <td>
-<br>Tel: 62982911
+Tel: 62982911
 <br>Email: annabelle_ananthi_clemant@moe.edu.sg
 <br>
 Others: <a href="https://form.gov.sg/#!/5d536818f0c5370012d1c890">Form SG</a>
@@ -330,7 +330,7 @@ Others: <a href="https://form.gov.sg/#!/5d536818f0c5370012d1c890">Form SG</a>
 <tr>
 <td>Bendemeer Secondary School</td>
 <td>
-<br>Tel: 62927616
+Tel: 62927616
 <br>Email: bdms-icthelp@bdms.moe.edu.sg
 <br>
 Others: <a href='https://go.gov.sg/bdms-icthelp'>Form SG</a>
@@ -341,7 +341,7 @@ Others: <a href='https://go.gov.sg/bdms-icthelp'>Form SG</a>
 <tr>
 <td>Blangah Rise Primary School</td>
 <td>
-<br>Tel: 62717387
+Tel: 62717387
 <br>Email:
 <br>
 Others:
@@ -352,7 +352,7 @@ Others:
 <tr>
 <td>Boon Lay Garden Primary School</td>
 <td>
-<br>Tel: 63160998
+Tel: 63160998
 <br>Email: blgps@moe.edu.sg
 <br>
 Others:
@@ -363,7 +363,7 @@ Others:
 <tr>
 <td>Boon Lay Secondary School</td>
 <td>
-<br>Tel: 67940161
+Tel: 67940161
 <br>Email:
 <br>
 Others:
@@ -374,7 +374,7 @@ Others:
 <tr>
 <td>Bowen Secondary School</td>
 <td>
-<br>Tel: 63859466
+Tel: 63859466
 <br>Email:
 <br>
 Others:
@@ -385,7 +385,7 @@ Others:
 <tr>
 <td>Broadrick Secondary School</td>
 <td>
-<br>Tel: 63445025
+Tel: 63445025
 <br>Email:
 <br>
 Others:
@@ -396,7 +396,7 @@ Others:
 <tr>
 <td>Bukit Batok Secondary School</td>
 <td>
-<br>Tel: 65663121 ext 225
+Tel: 65663121 ext 225
 <br>Email: fatin_sufiah_kadir@moe.edu.sg
 <br>
 Others:
@@ -407,7 +407,7 @@ Others:
 <tr>
 <td>Bukit Merah Secondary School</td>
 <td>
-<br>Tel: 64748934
+Tel: 64748934
 <br>Email: muhammad_haikal_razali@moe.edu.sg
 <br>
 Others:
@@ -418,7 +418,7 @@ Others:
 <tr>
 <td>Bukit Panjang Govt. High School</td>
 <td>
-<br>Tel: 67691031
+Tel: 67691031
 <br>Email:
 <br>
 Others: <a href="https://form.gov.sg/5e3bc13888573300116cb9fe">Form SG</a>
@@ -429,7 +429,7 @@ Others: <a href="https://form.gov.sg/5e3bc13888573300116cb9fe">Form SG</a>
 <tr>
 <td>Bukit Panjang Primary School</td>
 <td>
-<br>Tel: 67691912
+Tel: 67691912
 <br>Email:
 <br>
 Others:
@@ -440,7 +440,7 @@ Others:
 <tr>
 <td>Bukit Timah Primary School</td>
 <td>
-<br>Tel: 64662863
+Tel: 64662863
 <br>Email:
 <br>
 Others:
@@ -451,7 +451,7 @@ Others:
 <tr>
 <td>Bukit View Primary School</td>
 <td>
-<br>Tel: 65661980
+Tel: 65661980
 <br>Email: bukitview_ps@moe.edu.sg 
 <br>
 Others:
@@ -462,7 +462,7 @@ Others:
 <tr>
 <td>Bukit View Secondary School</td>
 <td>
-<br>Tel: 65661990
+Tel: 65661990
 <br>Email: Mr Vicnes at vicnes@btvss.moe.edu.sg, Mr Alexander Chia at alexander_s_chia@btvss.moe.edu.sg, Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 <br>
 Others:
@@ -473,7 +473,7 @@ Others:
 <tr>
 <td>Canberra Primary School</td>
 <td>
-<br>Tel: 67597433
+Tel: 67597433
 <br>Email: canberra_ps@moe.edu.sg
 <br>
 Others: E-Learning Day on 24th May 2022 (Tuesday)
@@ -484,7 +484,7 @@ Others: E-Learning Day on 24th May 2022 (Tuesday)
 <tr>
 <td>Canberra Secondary School</td>
 <td>
-<br>Tel: 62571915
+Tel: 62571915
 <br>Email: koh_mei_fang_jacqueline@moe.edu.sg
 <br>
 Others:
@@ -495,7 +495,7 @@ Others:
 <tr>
 <td>Canossa Catholic Primary School</td>
 <td>
-<br>Tel: 68441418
+Tel: 68441418
 <br>Email:
 <br>
 Others:
@@ -506,7 +506,7 @@ Others:
 <tr>
 <td>Cantonment Primary School</td>
 <td>
-<br>Tel: 65119555
+Tel: 65119555
 <br>Email: cantonment_ps@moe.edu.sg
 <br>
 Others: You can send us a WhatsApp to 65119555 with a photo of the error.
@@ -517,7 +517,7 @@ Others: You can send us a WhatsApp to 65119555 with a photo of the error.
 <tr>
 <td>Casuarina Primary School</td>
 <td>
-<br>Tel: 65837132
+Tel: 65837132
 <br>Email:
 <br>
 Others:
@@ -528,7 +528,7 @@ Others:
 <tr>
 <td>Catholic High School (Primary)</td>
 <td>
-<br>Tel: 87617103
+Tel: 87617103
 <br>Email:
 <br>
 Others: <a href="https://go.gov.sg/chshelpdesk">Form SG</a>
@@ -539,7 +539,7 @@ Others: <a href="https://go.gov.sg/chshelpdesk">Form SG</a>
 <tr>
 <td>Catholic High School (Secondary)</td>
 <td>
-<br>Tel: 64582177
+Tel: 64582177
 <br>Email: chs@moe.edu.sg 
 <br>
 Others: <a href="https://go.gov.sg/chspasswordreset">Form SG</a>
@@ -550,7 +550,7 @@ Others: <a href="https://go.gov.sg/chspasswordreset">Form SG</a>
 <tr>
 <td>Catholic Junior College</td>
 <td>
-<br>Tel: 62524083
+Tel: 62524083
 <br>Email:
 <br>
 Others: <a href="https://go.gov.sg/reset">Form SG</a>
@@ -561,7 +561,7 @@ Others: <a href="https://go.gov.sg/reset">Form SG</a>
 <tr>
 <td>Cedar Girls' Secondary School</td>
 <td>
-<br>Tel: 62884909/65976318
+Tel: 62884909/65976318
 <br>Email:
 <br>
 Others: <a href="https://form.gov.sg/#!/5d59d7ba1ae4fa0014d36bb3">Form SG</a>
@@ -572,7 +572,7 @@ Others: <a href="https://form.gov.sg/#!/5d59d7ba1ae4fa0014d36bb3">Form SG</a>
 <tr>
 <td>Cedar Primary School</td>
 <td>
-<br>Tel: 62885633
+Tel: 62885633
 <br>Email:
 <br>
 Others:  <a href="https://docs.google.com/forms/d/e/1FAIpQLScRLUPDccsYpVaYT6mTwRlGysGkvvEnPW36ajslbFE5gb2XQw/viewform">Google Form</a>
@@ -583,7 +583,7 @@ Others:  <a href="https://docs.google.com/forms/d/e/1FAIpQLScRLUPDccsYpVaYT6mTwR
 <tr>
 <td>Changkat Changi Secondary School</td>
 <td>
-<br>Tel: 67859790
+Tel: 67859790
 <br>Email:
 <br>
 Others: <a href="https://go.gov.sg/hbl">Form SG</a>
@@ -594,7 +594,7 @@ Others: <a href="https://go.gov.sg/hbl">Form SG</a>
 <tr>
 <td>Changkat Primary School</td>
 <td>
-<br>Tel: 67830923
+Tel: 67830923
 <br>Email:
 <br>
 Others: <a href="https://form.gov.sg/5d9c31130152c7001911c710">Form SG</a>
@@ -605,7 +605,7 @@ Others: <a href="https://form.gov.sg/5d9c31130152c7001911c710">Form SG</a>
 <tr>
 <td>CHIJ (Katong) Primary</td>
 <td>
-<br>Tel: 63443072
+Tel: 63443072
 <br>Email: mohamad_izwan_jamal@moe.edu.sg
 <br>
 Others: <a href="https://form.gov.sg/#!/5ff1c39f404a380012f84102">Form SG</a>
@@ -616,7 +616,7 @@ Others: <a href="https://form.gov.sg/#!/5ff1c39f404a380012f84102">Form SG</a>
 <tr>
 <td>CHIJ (Kellock)</td>
 <td>
-<br>Tel: 62730096
+Tel: 62730096
 <br>Email:
 <br>
 Others:
@@ -627,7 +627,7 @@ Others:
 <tr>
 <td>CHIJ Katong Convent</td>
 <td>
-<br>Tel: 64486433
+Tel: 64486433
 <br>Email:
 <br>
 Others: <a href="https://go.gov.sg/kcslshelpline">Form SG</a>
@@ -638,7 +638,7 @@ Others: <a href="https://go.gov.sg/kcslshelpline">Form SG</a>
 <tr>
 <td>CHIJ Our Lady of Good Counsel</td>
 <td>
-<br>Tel: 62886930
+Tel: 62886930
 <br>Email:
 <br>
 Others:
@@ -649,7 +649,7 @@ Others:
 <tr>
 <td>CHIJ Our Lady of the Nativity</td>
 <td>
-<br>Tel: 63852455
+Tel: 63852455
 <br>Email: sarina_md_ismail@schools.gov.sg
 <br>
 Others:
@@ -660,7 +660,7 @@ Others:
 <tr>
 <td>CHIJ Our Lady Queen of Peace</td>
 <td>
-<br>Tel: 67691529
+Tel: 67691529
 <br>Email: mohammad_ihsan_mohd_yaccob@moe.edu.sg
 <br>
 Others:
@@ -671,7 +671,7 @@ Others:
 <tr>
 <td>CHIJ Primary (Toa Payoh)</td>
 <td>
-<br>Tel: 63532164
+Tel: 63532164
 <br>Email: chijtpps@moe.edu.sg
 <br>
 Others:
@@ -682,7 +682,7 @@ Others:
 <tr>
 <td>CHIJ Secondary (Toa Payoh)</td>
 <td>
-<br>Tel: 63534972
+Tel: 63534972
 <br>Email:
 <br>
 Others:
@@ -693,7 +693,7 @@ Others:
 <tr>
 <td>CHIJ St. Joseph's Convent</td>
 <td>
-<br>Tel: 64897580
+Tel: 64897580
 <br>Email:
 <br>
 Others:
@@ -704,7 +704,7 @@ Others:
 <tr>
 <td>CHIJ St. Nicholas Girls' School</td>
 <td>
-<br>Tel: 63541839(Secondary Section),64549698(Primary Section)
+Tel: 63541839(Secondary Section),64549698(Primary Section)
 <br>Email:
 <br>
 Others:
@@ -715,7 +715,7 @@ Others:
 <tr>
 <td>CHIJ St. Theresa's Convent</td>
 <td>
-<br>Tel: 64775777
+Tel: 64775777
 <br>Email: ng_kok_huat@moe.edu.sg
 <br>
 Others:
@@ -726,7 +726,7 @@ Others:
 <tr>
 <td>Chongfu School</td>
 <td>
-<br>Tel: 67585527
+Tel: 67585527
 <br>Email:
 <br>
 Others: Contact Form Teacher via Class Dojo/ Whatsapp / Phone
@@ -737,7 +737,7 @@ Others: Contact Form Teacher via Class Dojo/ Whatsapp / Phone
 <tr>
 <td>Chongzheng Primary School</td>
 <td>
-<br>Tel: 67818002
+Tel: 67818002
 <br>Email: Tang_Wai_Leng@moe.edu.sg
 <br>
 Others: Form Teachers via ClassDojo
@@ -748,7 +748,7 @@ Others: Form Teachers via ClassDojo
 <tr>
 <td>Christ Church Secondary School</td>
 <td>
-<br>Tel: 68933297
+Tel: 68933297
 <br>Email: ccss@moe.edu.sg
 <br>
 Others: <a href="http://chr.sg/resetpwd">Form SG</a>
@@ -759,7 +759,7 @@ Others: <a href="http://chr.sg/resetpwd">Form SG</a>
 <tr>
 <td>Chua Chu Kang Primary School</td>
 <td>
-<br>Tel: 86379952
+Tel: 86379952
 <br>Email:
 <br>
 Others:
@@ -770,7 +770,7 @@ Others:
 <tr>
 <td>Chua Chu Kang Secondary School</td>
 <td>
-<br>Tel: 89408022
+Tel: 89408022
 <br>Email: support@cckss.edu.sg
 <br>
 Others: <a href='https://chuachukangsec-moe-edu-sg-admin.cwp.sg/announcement/sls-school-based-helpline'>School Website</a>
@@ -781,7 +781,7 @@ Others: <a href='https://chuachukangsec-moe-edu-sg-admin.cwp.sg/announcement/sls
 <tr>
 <td>Chung Cheng High School (Main)</td>
 <td>
-<br>Tel: 65791395
+Tel: 65791395
 <br>Email: cchms@moe.edu.sg
 <br>
 Others:
@@ -792,7 +792,7 @@ Others:
 <tr>
 <td>Chung Cheng High School (Yishun)</td>
 <td>
-<br>Tel: 67583912
+Tel: 67583912
 <br>Email: ang_hui_jun_edwin@moe.edu.sg
 <br>
 Others:
@@ -803,7 +803,7 @@ Others:
 <tr>
 <td>Clementi Primary School</td>
 <td>
-<br>Tel: 67797449
+Tel: 67797449
 <br>Email: admin_clementi_ps@moe.edu.sg
 <br>
 Others:
@@ -814,7 +814,7 @@ Others:
 <tr>
 <td>Clementi Town Secondary School</td>
 <td>
-<br>Tel: 65721148
+Tel: 65721148
 <br>Email: tech@ctss.edu.sg
 <br>
 Others:
@@ -825,7 +825,7 @@ Others:
 <tr>
 <td>Commonwealth Secondary School</td>
 <td>
-<br>Tel: 91716103
+Tel: 91716103
 <br>Email: help.ict@cwss.moe.edu.sg
 <br>
 Others: 65606866
@@ -836,7 +836,7 @@ Others: 65606866
 <tr>
 <td>Compassvale Primary School</td>
 <td>
-<br>Tel: 63882819
+Tel: 63882819
 <br>Email:
 <br>
 Others:
@@ -847,7 +847,7 @@ Others:
 <tr>
 <td>Compassvale Secondary School</td>
 <td>
-<br>Tel: 68815047
+Tel: 68815047
 <br>Email:
 <br>
 Others:
@@ -858,7 +858,7 @@ Others:
 <tr>
 <td>Concord Primary School</td>
 <td>
-<br>Tel: 67632139
+Tel: 67632139
 <br>Email: norhafizah_pungut@schools.gov.sg
 <br>
 Others: <a href='https://go.gov.sg/concordsls'>Form SG</a>
@@ -869,7 +869,7 @@ Others: <a href='https://go.gov.sg/concordsls'>Form SG</a>
 <tr>
 <td>Corporation Primary School</td>
 <td>
-<br>Tel: 67957381/67954859 
+Tel: 67957381/67954859 
 <br>Email: kwan_tuck_soon@moe.edu.sg
 <br>
 Others:
@@ -880,7 +880,7 @@ Others:
 <tr>
 <td>Crescent Girls' School</td>
 <td>
-<br>Tel: 67087976
+Tel: 67087976
 <br>Email: IT.SUPPORT.TEAM@live.crescent.edu.sg
 <br>
 Others:
@@ -891,7 +891,7 @@ Others:
 <tr>
 <td>Crest Secondary School</td>
 <td>
-<br>Tel: 68992779
+Tel: 68992779
 <br>Email:
 <br>
 Others:
@@ -902,7 +902,7 @@ Others:
 <tr>
 <td>Damai Primary School</td>
 <td>
-<br>Tel: 64456483
+Tel: 64456483
 <br>Email: nur_azlin_ahmad@schools.gov.sg, jeffery_wong@schools.gov.sg
 <br>
 Others:
@@ -913,7 +913,7 @@ Others:
 <tr>
 <td>Damai Secondary School</td>
 <td>
-<br>Tel: 64436848
+Tel: 64436848
 <br>Email:
 <br>
 Others: <a href='http://gg.gg/dsshelpdesk'>Form SG</a>
@@ -924,7 +924,7 @@ Others: <a href='http://gg.gg/dsshelpdesk'>Form SG</a>
 <tr>
 <td>Dazhong Primary School</td>
 <td>
-<br>Tel: 65658002
+Tel: 65658002
 <br>Email: siti_nur_aisha_aziz@schools.gov.sg, dazhong_ps@moe.edu.sg
 <br>
 Others:
@@ -935,7 +935,7 @@ Others:
 <tr>
 <td>De La Salle School</td>
 <td>
-<br>Tel: 67667675
+Tel: 67667675
 <br>Email:
 <br>
 Others: (Recommended) <a href='https://form.gov.sg/#!/5e3dfc284bfa3c0011351632'>Form SG</a>
@@ -946,7 +946,7 @@ Others: (Recommended) <a href='https://form.gov.sg/#!/5e3dfc284bfa3c0011351632'>
 <tr>
 <td>Deyi Secondary School</td>
 <td>
-<br>Tel: 64561565
+Tel: 64561565
 <br>Email:
 <br>
 Others:
@@ -957,7 +957,7 @@ Others:
 <tr>
 <td>Dunearn Secondary School</td>
 <td>
-<br>Tel: 65653692 
+Tel: 65653692 
 <br>Email:
 <br>
 Others: <a href='https://go.gov.sg/dsshelpdesk'>Form SG</a>
@@ -968,7 +968,7 @@ Others: <a href='https://go.gov.sg/dsshelpdesk'>Form SG</a>
 <tr>
 <td>Dunman High School</td>
 <td>
-<br>Tel: 63450533
+Tel: 63450533
 <br>Email: sls@dhs.sg
 <br>
 Others:
@@ -979,7 +979,7 @@ Others:
 <tr>
 <td>Dunman Secondary School</td>
 <td>
-<br>Tel: 67862668
+Tel: 67862668
 <br>Email: dunman_ss@moe.edu.sg
 <br>
 Others:
@@ -990,7 +990,7 @@ Others:
 <tr>
 <td>East Spring Primary School</td>
 <td>
-<br>Tel: 67866192
+Tel: 67866192
 <br>Email:
 <br>
 Others: <a href='https://eastspringpri.moe.edu.sg/others/sls-password-reset'>School Website</a>
@@ -1001,7 +1001,7 @@ Others: <a href='https://eastspringpri.moe.edu.sg/others/sls-password-reset'>Sch
 <tr>
 <td>East Spring Secondary School</td>
 <td>
-<br>Tel: 65873805
+Tel: 65873805
 <br>Email: slshelp@esss.edu.sg
 <br>
 Others:
@@ -1012,7 +1012,7 @@ Others:
 <tr>
 <td>Edgefield Primary School</td>
 <td>
-<br>Tel: 63126091
+Tel: 63126091
 <br>Email:
 <br>
 Others:
@@ -1023,7 +1023,7 @@ Others:
 <tr>
 <td>Edgefield Secondary School</td>
 <td>
-<br>Tel: 68839511
+Tel: 68839511
 <br>Email: techsupport@edgefield.sg
 <br>
 Others:
@@ -1034,7 +1034,7 @@ Others:
 <tr>
 <td>Elias Park Primary School</td>
 <td>
-<br>Tel: 65844393
+Tel: 65844393
 <br>Email: lee_tse_yang_justin@moe.edu.sg
 <br>
 Others:
@@ -1045,7 +1045,7 @@ Others:
 <tr>
 <td>Endeavour Primary School</td>
 <td>
-<br>Tel: 64824650 / 64824835
+Tel: 64824650 / 64824835
 <br>Email:
 <br>
 Others:
@@ -1056,7 +1056,7 @@ Others:
 <tr>
 <td>Eunoia Junior College</td>
 <td>
-<br>Tel: 63518388
+Tel: 63518388
 <br>Email: helpdesk@ejc.edu.sg
 <br>
 Others:
@@ -1067,7 +1067,7 @@ Others:
 <tr>
 <td>Eunos Primary School</td>
 <td>
-<br>Tel: 67463336/97732961
+Tel: 67463336/97732961
 <br>Email: eunos_ps@moe.edu.sg
 <br>
 Others:
@@ -1078,7 +1078,7 @@ Others:
 <tr>
 <td>Evergreen Primary School</td>
 <td>
-<br>Tel: 63687705
+Tel: 63687705
 <br>Email:
 <br>
 Others: <a href='https://go.gov.sg/egpsslshelp'>Form SG</a>
@@ -1089,7 +1089,7 @@ Others: <a href='https://go.gov.sg/egpsslshelp'>Form SG</a>
 <tr>
 <td>Evergreen Secondary School</td>
 <td>
-<br>Tel: 63656392
+Tel: 63656392
 <br>Email:
 <br>
 Others:
@@ -1100,7 +1100,7 @@ Others:
 <tr>
 <td>Fairfield Methodist School (Primary)</td>
 <td>
-<br>Tel: 67788431
+Tel: 67788431
 <br>Email:
 <br>
 Others: School general office staff during elearning day
@@ -1111,7 +1111,7 @@ Others: School general office staff during elearning day
 <tr>
 <td>Fairfield Methodist School (Secondary)</td>
 <td>
-<br>Tel: 67788702
+Tel: 67788702
 <br>Email: lee_yew_ming_a@moe.edu.sg
 <br>
 Others: Call the General Office from 8 a.m. to 3 p.m. for assistance.
@@ -1122,7 +1122,7 @@ Others: Call the General Office from 8 a.m. to 3 p.m. for assistance.
 <tr>
 <td>Fajar Secondary School</td>
 <td>
-<br>Tel: 67691491
+Tel: 67691491
 <br>Email:
 <br>
 Others:
@@ -1133,7 +1133,7 @@ Others:
 <tr>
 <td>Farrer Park Primary School</td>
 <td>
-<br>Tel: 62952272
+Tel: 62952272
 <br>Email:
 <br>
 Others:
@@ -1144,7 +1144,7 @@ Others:
 <tr>
 <td>Fengshan Primary School</td>
 <td>
-<br>Tel: 65860123
+Tel: 65860123
 <br>Email: muhammad_fariz_mohamed_zain@schools.gov.sg
 <br>
 Others: <a href='https://form.gov.sg/5d65d57cd6754c0012d6d775'>Form SG</a>
@@ -1155,7 +1155,7 @@ Others: <a href='https://form.gov.sg/5d65d57cd6754c0012d6d775'>Form SG</a>
 <tr>
 <td>Fern Green Primary School</td>
 <td>
-<br>Tel: 68343100
+Tel: 68343100
 <br>Email: admin_ferngreen_ps@moe.edu.sg
 <br>
 Others: <a href="https://form.gov.sg/#!/631851bfea4514001354a7de">Form SG</a>
@@ -1166,7 +1166,7 @@ Others: <a href="https://form.gov.sg/#!/631851bfea4514001354a7de">Form SG</a>
 <tr>
 <td>Fernvale Primary School</td>
 <td>
-<br>Tel: 63153051
+Tel: 63153051
 <br>Email:
 <br>
 Others:
@@ -1177,7 +1177,7 @@ Others:
 <tr>
 <td>First Toa Payoh Primary School</td>
 <td>
-<br>Tel: 62567822
+Tel: 62567822
 <br>Email: ho_joo_hui_effie@moe.edu.sg 
 <br>
 Others:
@@ -1188,7 +1188,7 @@ Others:
 <tr>
 <td>Frontier Primary Schoo</td>
 <td>
-<br>Tel: 65789555 ext.310
+Tel: 65789555 ext.310
 <br>Email: nur_aisha_idris@schools.gov.sg, mohammed_nidzam_zakariah@schools.gov.sg
 <br>
 Others: <a href='https://go.gov.sg/frontier-formsg'>Form SG</a>, <a href='https://frontierpri.moe.edu.sg/'>School Website</a>
@@ -1199,7 +1199,7 @@ Others: <a href='https://go.gov.sg/frontier-formsg'>Form SG</a>, <a href='https:
 <tr>
 <td>Fuchun Primary School</td>
 <td>
-<br>Tel: 63683925
+Tel: 63683925
 <br>Email: admin_fcps@moe.edu.sg
 <br>
 Others:
@@ -1210,7 +1210,7 @@ Others:
 <tr>
 <td>Fuchun Secondary School</td>
 <td>
-<br>Tel: 63681984
+Tel: 63681984
 <br>Email: ict@fcs.edu.sg
 <br>
 Others:
@@ -1221,7 +1221,7 @@ Others:
 <tr>
 <td>Fuhua Primary School</td>
 <td>
-<br>Tel: 65624370
+Tel: 65624370
 <br>Email: sls@fuhuapri.edu.sg
 <br>
 Others: <a href='https://go.gov.sg/fhpssls'>Form SG</a>
@@ -1232,7 +1232,7 @@ Others: <a href='https://go.gov.sg/fhpssls'>Form SG</a>
 <tr>
 <td>Fuhua Secondary School</td>
 <td>
-<br>Tel: 65004227
+Tel: 65004227
 <br>Email:
 <br>
 Others:
@@ -1243,7 +1243,7 @@ Others:
 <tr>
 <td>Gan Eng Seng Primary School</td>
 <td>
-<br>Tel: 64717451
+Tel: 64717451
 <br>Email: gesps@moe.edu.sg
 <br>
 Others: http://ganengsengpri.moe.edu.sg/
@@ -1254,7 +1254,7 @@ Others: http://ganengsengpri.moe.edu.sg/
 <tr>
 <td>Gan Eng Seng School</td>
 <td>
-<br>Tel: 64745594
+Tel: 64745594
 <br>Email: gess@moe.edu.sg
 <br>
 Others:
@@ -1265,7 +1265,7 @@ Others:
 <tr>
 <td>Geylang Methodist School (Primary)</td>
 <td>
-<br>Tel: 67486746
+Tel: 67486746
 <br>Email: chan_shu_hui_daphne@moe.edu.sg
 <br>
 Others:
@@ -1276,7 +1276,7 @@ Others:
 <tr>
 <td>Geylang Methodist School (Secondary)</td>
 <td>
-<br>Tel: 67466503
+Tel: 67466503
 <br>Email: leong_chong_kin@schools.gov.sg
 <br>
 Others: <a href='https://tinyurl.com/ICTHelpline'>Form SG</a>
@@ -1287,7 +1287,7 @@ Others: <a href='https://tinyurl.com/ICTHelpline'>Form SG</a>
 <tr>
 <td>Gongshang Primary School</td>
 <td>
-<br>Tel: 67831191 ext.238
+Tel: 67831191 ext.238
 <br>Email: sim_aik_seng@moe.edu.sg
 <br>
 Others:
@@ -1298,7 +1298,7 @@ Others:
 <tr>
 <td>Greendale Primary School</td>
 <td>
-<br>Tel: 68861413
+Tel: 68861413
 <br>Email:
 <br>
 Others:
@@ -1309,7 +1309,7 @@ Others:
 <tr>
 <td>Greendale Secondary School</td>
 <td>
-<br>Tel: 63158616
+Tel: 63158616
 <br>Email:
 <br>
 Others:
@@ -1320,7 +1320,7 @@ Others:
 <tr>
 <td>Greenridge Primary School</td>
 <td>
-<br>Tel: 67604265
+Tel: 67604265
 <br>Email: grps@moe.edu.sg
 <br>
 Others:
@@ -1331,7 +1331,7 @@ Others:
 <tr>
 <td>Greenridge Secondary School</td>
 <td>
-<br>Tel: 67601052
+Tel: 67601052
 <br>Email:
 <br>
 Others: Form Teachers
@@ -1342,7 +1342,7 @@ Others: Form Teachers
 <tr>
 <td>Greenwood Primary School</td>
 <td>
-<br>Tel: 63666158
+Tel: 63666158
 <br>Email:
 <br>
 Others: <a href='http://go.gov.sg/slsgwps'>Google Form</a>
@@ -1353,7 +1353,7 @@ Others: <a href='http://go.gov.sg/slsgwps'>Google Form</a>
 <tr>
 <td>Guangyang Primary School</td>
 <td>
-<br>Tel: 62508713
+Tel: 62508713
 <br>Email: gypspd@yahoo.com
 <br>
 Others:
@@ -1364,7 +1364,7 @@ Others:
 <tr>
 <td>Guangyang Secondary School</td>
 <td>
-<br>Tel: 62589781
+Tel: 62589781
 <br>Email: chan_yew_sum_sunny@moe.edu.sg
 <br>
 Others:
@@ -1375,7 +1375,7 @@ Others:
 <tr>
 <td>Hai Sing Catholic School</td>
 <td>
-<br>Tel: 65827864
+Tel: 65827864
 <br>Email: teo_yee_ming@schools.gov.sg
 <br>
 Others:
@@ -1386,7 +1386,7 @@ Others:
 <tr>
 <td>Haig Girls' School</td>
 <td>
-<br>Tel: 63440293
+Tel: 63440293
 <br>Email: muhamad_ansar_kamsan@moe.edu.sg
 <br>
 Others:
@@ -1397,7 +1397,7 @@ Others:
 <tr>
 <td>Henry Park Primary School</td>
 <td>
-<br>Tel: 64663600
+Tel: 64663600
 <br>Email:
 <br>
 Others:
@@ -1408,7 +1408,7 @@ Others:
 <tr>
 <td>Hillgrove Secondary School</td>
 <td>
-<br>Tel: 65603276
+Tel: 65603276
 <br>Email: 
 <br>
 Others: <a href='https://www.hillgrovesec.moe.edu.sg/partnerships/links'>School Website</a>, <a href='https://form.gov.sg/#!/5d523905d45d9100197a9cf2'>Form SG</a>
@@ -1419,7 +1419,7 @@ Others: <a href='https://www.hillgrovesec.moe.edu.sg/partnerships/links'>School 
 <tr>
 <td>Holy Innocents' High School</td>
 <td>
-<br>Tel: 62833381
+Tel: 62833381
 <br>Email: hihs@moe.edu.sg
 <br>
 Others:
@@ -1430,7 +1430,7 @@ Others:
 <tr>
 <td>Holy Innocents' Primary School</td>
 <td>
-<br>Tel: 62886516
+Tel: 62886516
 <br>Email: holyinnocentspri@moe.edu.sg
 <br>
 Others: <a href="https://go.gov.sg/hips-slsunlock">Form SG</a>
@@ -1441,7 +1441,7 @@ Others: <a href="https://go.gov.sg/hips-slsunlock">Form SG</a>
 <tr>
 <td>Hong Wen School</td>
 <td>
-<br>Tel: 62943340
+Tel: 62943340
 <br>Email:
 <br>
 Others:
@@ -1452,7 +1452,7 @@ Others:
 <tr>
 <td>Horizon Primary School</td>
 <td>
-<br>Tel: 67535411
+Tel: 67535411
 <br>Email:
 <br>
 Others:
@@ -1463,7 +1463,7 @@ Others:
 <tr>
 <td>Hougang Primary School</td>
 <td>
-<br>Tel: 64897445
+Tel: 64897445
 <br>Email: nurul_putri_fateha_jamal@moe.edu.sg
 <br>
 Others: <a href='https://go.gov.sg/hgpslsonlineform'>Form SG</a>
@@ -1474,7 +1474,7 @@ Others: <a href='https://go.gov.sg/hgpslsonlineform'>Form SG</a>
 <tr>
 <td>Hougang Secondary School</td>
 <td>
-<br>Tel: 63851990
+Tel: 63851990
 <br>Email: hougang_ss@moe.edu.sg
 <br>
 Others: 63726668 ext 260 or <a href='https://form.gov.sg/#!/5e411c92366d6a0011c76b50'>Form SG</a>
@@ -1485,7 +1485,7 @@ Others: 63726668 ext 260 or <a href='https://form.gov.sg/#!/5e411c92366d6a0011c7
 <tr>
 <td>Hua Yi Secondary School</td>
 <td>
-<br>Tel: 65634568
+Tel: 65634568
 <br>Email:
 <br>
 Others:
@@ -1496,7 +1496,7 @@ Others:
 <tr>
 <td>Huamin Primary School</td>
 <td>
-<br>Tel: 67529004
+Tel: 67529004
 <br>Email:
 <br>
 Others:
@@ -1507,7 +1507,7 @@ Others:
 <tr>
 <td>Hwa Chong Institution</td>
 <td>
-<br>Tel: 64688971
+Tel: 64688971
 <br>Email: IT@hci.edu.sg
 <br>
 Others:
@@ -1518,7 +1518,7 @@ Others:
 <tr>
 <td>Innova Primary School</td>
 <td>
-<br>Tel: 68944693
+Tel: 68944693
 <br>Email:
 <br>
 Others:
@@ -1529,7 +1529,7 @@ Others:
 <tr>
 <td>Jiemin Primary School</td>
 <td>
-<br>Tel: 67586472
+Tel: 67586472
 <br>Email:
 <br>
 Others:
@@ -1540,7 +1540,7 @@ Others:
 <tr>
 <td>Jing Shan Primary School</td>
 <td>
-<br>Tel: 64566305
+Tel: 64566305
 <br>Email:
 <br>
 Others:
@@ -1551,7 +1551,7 @@ Others:
 <tr>
 <td>Junyuan Primary School</td>
 <td>
-<br>Tel: 67830375
+Tel: 67830375
 <br>Email: junyuan_ps@moe.edu.sg
 <br>
 Others:
@@ -1562,7 +1562,7 @@ Others:
 <tr>
 <td>Junyuan Secondary School</td>
 <td>
-<br>Tel: 65873683/65873684
+Tel: 65873683/65873684
 <br>Email: admin@junyuansec.edu.sg
 <br>
 Others: <a href='https://go.gov.sg/jysls'>Form SG</a>
@@ -1573,7 +1573,7 @@ Others: <a href='https://go.gov.sg/jysls'>Form SG</a>
 <tr>
 <td>Jurong Pioneer Junior College</td>
 <td>
-<br>Tel: 65646878
+Tel: 65646878
 <br>Email:
 <br>
 Others:
@@ -1584,7 +1584,7 @@ Others:
 <tr>
 <td>Jurong Primary School</td>
 <td>
-<br>Tel: 97830818
+Tel: 97830818
 <br>Email:
 <br>
 Others:
@@ -1595,7 +1595,7 @@ Others:
 <tr>
 <td>Jurong Secondary School</td>
 <td>
-<br>Tel: 62655980
+Tel: 62655980
 <br>Email:
 <br>
 Others: Contact Form Teachers
@@ -1606,7 +1606,7 @@ Others: Contact Form Teachers
 <tr>
 <td>Jurong West Primary School</td>
 <td>
-<br>Tel: 67933419
+Tel: 67933419
 <br>Email:
 <br>
 Others:
@@ -1617,7 +1617,7 @@ Others:
 <tr>
 <td>Jurong West Secondary School</td>
 <td>
-<br>Tel: 62623593
+Tel: 62623593
 <br>Email:
 <br>
 Others: <a href='https://form.gov.sg/#!/5d6e1250d6754c0012d7ef15'>Form SG</a>
@@ -1628,7 +1628,7 @@ Others: <a href='https://form.gov.sg/#!/5d6e1250d6754c0012d7ef15'>Form SG</a>
 <tr>
 <td>Jurongville Secondary School</td>
 <td>
-<br>Tel: 65638704
+Tel: 65638704
 <br>Email: sls@jvs.edu.sg
 <br>
 Others:
@@ -1639,7 +1639,7 @@ Others:
 <tr>
 <td>Juying Primary School</td>
 <td>
-<br>Tel: 67932039 ext.123
+Tel: 67932039 ext.123
 <br>Email:
 <br>
 Others:
@@ -1650,7 +1650,7 @@ Others:
 <tr>
 <td>Juying Secondary School</td>
 <td>
-<br>Tel: 63089898
+Tel: 63089898
 <br>Email:
 <br>
 Others:
@@ -1661,7 +1661,7 @@ Others:
 <tr>
 <td>Keming Primary School</td>
 <td>
-<br>Tel: 68962054
+Tel: 68962054
 <br>Email:
 <br>
 Others:
@@ -1672,7 +1672,7 @@ Others:
 <tr>
 <td>Kent Ridge Secondary School</td>
 <td>
-<br>Tel: 67731127
+Tel: 67731127
 <br>Email: help@krss.edu.sg
 <br>
 Others:
@@ -1683,7 +1683,7 @@ Others:
 <tr>
 <td>Kheng Cheng School</td>
 <td>
-<br>Tel: 62552502
+Tel: 62552502
 <br>Email:
 <br>
 Others:
@@ -1694,7 +1694,7 @@ Others:
 <tr>
 <td>Kong Hwa School</td>
 <td>
-<br>Tel: 63421195 ext 577
+Tel: 63421195 ext 577
 <br>Email:
 <br>
 Others:
@@ -1705,7 +1705,7 @@ Others:
 <tr>
 <td>Kranji Primary School</td>
 <td>
-<br>Tel: 67634812
+Tel: 67634812
 <br>Email:
 <br>
 Others: <a href='http://go.gov.sg/passwordresetform'>Form SG</a>
@@ -1716,7 +1716,7 @@ Others: <a href='http://go.gov.sg/passwordresetform'>Form SG</a>
 <tr>
 <td>Kranji Secondary School</td>
 <td>
-<br>Tel: 67662464
+Tel: 67662464
 <br>Email: m_losiny@schools.gov.sg
 <br>
 Others:
@@ -1727,7 +1727,7 @@ Others:
 <tr>
 <td>Kuo Chuan Presbyterian Primary School</td>
 <td>
-<br>Tel: 62595396
+Tel: 62595396
 <br>Email: ronnie_kuek_kia_wee@moe.edu.sg
 <br>
 Others:
@@ -1738,7 +1738,7 @@ Others:
 <tr>
 <td>Kuo Chuan Presbyterian Secondary School</td>
 <td>
-<br>Tel: 62593811
+Tel: 62593811
 <br>Email: kcpss@moe.edu.sg
 <br>
 Others:
@@ -1749,7 +1749,7 @@ Others:
 <tr>
 <td>Lakeside Primary School</td>
 <td>
-<br>Tel: 62620918
+Tel: 62620918
 <br>Email: lakeside_ps@moe.edu.sg
 <br>
 Others: <a href='https://go.gov.sg/lakesidesls'>Form SG</a>
@@ -1760,7 +1760,7 @@ Others: <a href='https://go.gov.sg/lakesidesls'>Form SG</a>
 <tr>
 <td>Lianhua Primary School</td>
 <td>
-<br>Tel: 65639502
+Tel: 65639502
 <br>Email: ma_su_lin@moe.edu.sg
 <br>
 Others:
@@ -1771,7 +1771,7 @@ Others:
 <tr>
 <td>Loyang View Secondary School</td>
 <td>
-<br>Tel: 65821727
+Tel: 65821727
 <br>Email:
 <br>
 Others:
@@ -1782,7 +1782,7 @@ Others:
 <tr>
 <td>Maha Bodhi School</td>
 <td>
-<br>Tel: 67442115
+Tel: 67442115
 <br>Email: 
 <br>
 Others:
@@ -1793,7 +1793,7 @@ Others:
 <tr>
 <td>Manjusri Secondary School</td>
 <td>
-<br>Tel: 68424558
+Tel: 68424558
 <br>Email: winston_kok@moe.edu.sg
 <br>
 Others: <a href='https://form.gov.sg/#!/5d01dc550816b400111ce980'>Form SG</a>
@@ -1804,7 +1804,7 @@ Others: <a href='https://form.gov.sg/#!/5d01dc550816b400111ce980'>Form SG</a>
 <tr>
 <td>Maris Stella High School</td>
 <td>
-<br>Tel: 62827743 (Primary) / 62803880 (Secondary) 
+Tel: 62827743 (Primary) / 62803880 (Secondary) 
 <br>Email: 
 <br>
 Others: iCON emails of teachers (Primary section)
@@ -1815,7 +1815,7 @@ Others: iCON emails of teachers (Primary section)
 <tr>
 <td>Marsiling Primary School</td>
 <td>
-<br>Tel: 62696193
+Tel: 62696193
 <br>Email: chua_ban_hwee_jasper@schools.gov.sg
 <br>
 Others: siti_fatimah_bt_muhammad@schools.gov.sg; ang_yew_leong@schools.gov.sg
@@ -1826,7 +1826,7 @@ Others: siti_fatimah_bt_muhammad@schools.gov.sg; ang_yew_leong@schools.gov.sg
 <tr>
 <td>Marsiling Secondary School</td>
 <td>
-<br>Tel: 68941413
+Tel: 68941413
 <br>Email: noor_ijah_zainol@schools.gov.sg
 <br>
 Others:
@@ -1837,7 +1837,7 @@ Others:
 <tr>
 <td>Marymount Convent School</td>
 <td>
-<br>Tel: 62566701
+Tel: 62566701
 <br>Email: mmcs@moe.edu.sg
 <br>
 Others:
@@ -1848,7 +1848,7 @@ Others:
 <tr>
 <td>Mayflower Primary School</td>
 <td>
-<br>Tel: 64520849
+Tel: 64520849
 <br>Email: mayflower_ps@moe.edu.sg
 <br>
 Others:
@@ -1859,7 +1859,7 @@ Others:
 <tr>
 <td>Mayflower Secondary School</td>
 <td>
-<br>Tel: 64577783
+Tel: 64577783
 <br>Email: mayflower_ss@moe.edu.sg
 <br>
 Others:
@@ -1870,7 +1870,7 @@ Others:
 <tr>
 <td>Mee Toh School</td>
 <td>
-<br>Tel: 64893326
+Tel: 64893326
 <br>Email: 
 <br>
 Others: <a href='https://meetoh.moe.edu.sg/for-students/mee-tohians-self-directed-learners'>More Info</a>
@@ -1881,7 +1881,7 @@ Others: <a href='https://meetoh.moe.edu.sg/for-students/mee-tohians-self-directe
 <tr>
 <td>Meridian Primary School</td>
 <td>
-<br>Tel: 65832125
+Tel: 65832125
 <br>Email: azzilawaty_abdullah@moe.edu.sg
 <br>
 Others:
@@ -1892,7 +1892,7 @@ Others:
 <tr>
 <td>Meridian Secondary School</td>
 <td>
-<br>Tel: 65831387
+Tel: 65831387
 <br>Email: meridian_sec@moe.edu.sg
 <br>
 Others:
@@ -1903,7 +1903,7 @@ Others:
 <tr>
 <td>Methodist Girls' School (Primary)</td>
 <td>
-<br>Tel: 64694800
+Tel: 64694800
 <br>Email: nur_atiqa_harun@schools.gov.sg
 <br>
 Others: <a href='https://go.gov.sg/mgpspasswordreset'>Form SG</a>
@@ -1914,7 +1914,7 @@ Others: <a href='https://go.gov.sg/mgpspasswordreset'>Form SG</a>
 <tr>
 <td>Methodist Girls' School (Secondary)</td>
 <td>
-<br>Tel: 67962434
+Tel: 67962434
 <br>Email: edmund_wong@mgs.sch.edu.sg
 <br>
 Others:
@@ -1925,7 +1925,7 @@ Others:
 <tr>
 <td>Millennia Institute</td>
 <td>
-<br>Tel: 63023700
+Tel: 63023700
 <br>Email:
 <br>
 Others:
@@ -1936,7 +1936,7 @@ Others:
 <tr>
 <td>Montfort Junior School</td>
 <td>
-<br>Tel: 65101588
+Tel: 65101588
 <br>Email: 
 <br>
 Others:
@@ -1947,7 +1947,7 @@ Others:
 <tr>
 <td>Montfort Secondary School</td>
 <td>
-<br>Tel: 65107070
+Tel: 65107070
 <br>Email:
 <br>
 Others:
@@ -1958,7 +1958,7 @@ Others:
 <tr>
 <td>Nan Chiau High School</td>
 <td>
-<br>Tel: 64897971
+Tel: 64897971
 <br>Email: support@nchs.edu.sg
 <br>
 Others:
@@ -1969,7 +1969,7 @@ Others:
 <tr>
 <td>Nan Chiau Primary School</td>
 <td>
-<br>Tel: 96504836
+Tel: 96504836
 <br>Email: ncps@moe.edu.sg 
 <br>
 Others: <a href='https://go.gov.sg/ncps-hbl-helpdesk'>Form SG</a>
@@ -1980,7 +1980,7 @@ Others: <a href='https://go.gov.sg/ncps-hbl-helpdesk'>Form SG</a>
 <tr>
 <td>Nan Hua High School</td>
 <td>
-<br>Tel: 67788303
+Tel: 67788303
 <br>Email: wang_shiyun@moe.edu.sg
 <br>
 Others:
@@ -1991,7 +1991,7 @@ Others:
 <tr>
 <td>Nan Hua Primary School</td>
 <td>
-<br>Tel: 67788050
+Tel: 67788050
 <br>Email:
 <br>
 Others: <a href='https://form.gov.sg/5e39f3358dd8640011b3d453'>Form SG</a>
@@ -2002,7 +2002,7 @@ Others: <a href='https://form.gov.sg/5e39f3358dd8640011b3d453'>Form SG</a>
 <tr>
 <td>Nanyang Girls' High School</td>
 <td>
-<br>Tel: 64663275
+Tel: 64663275
 <br>Email: 
 <br>
 Others:
@@ -2013,7 +2013,7 @@ Others:
 <tr>
 <td>Nanyang Junior College</td>
 <td>
-<br>Tel: 62842281
+Tel: 62842281
 <br>Email:
 <br>
 Others:
@@ -2024,7 +2024,7 @@ Others:
 <tr>
 <td>Nanyang Primary School</td>
 <td>
-<br>Tel: 64672677
+Tel: 64672677
 <br>Email: 
 <br>
 Others:
@@ -2035,7 +2035,7 @@ Others:
 <tr>
 <td>National Junior College</td>
 <td>
-<br>Tel: 66642300
+Tel: 66642300
 <br>Email:
 <br>
 Others:
@@ -2046,7 +2046,7 @@ Others:
 <tr>
 <td>Naval Base Primary School</td>
 <td>
-<br>Tel: 67537114
+Tel: 67537114
 <br>Email: nbps@moe.edu.sg
 <br>
 Others:
@@ -2057,7 +2057,7 @@ Others:
 <tr>
 <td>Naval Base Secondary School</td>
 <td>
-<br>Tel: 65271996
+Tel: 65271996
 <br>Email: admin_nbss@moe.edu.sg
 <br>
 Others: 62571996 ext. 105
@@ -2068,7 +2068,7 @@ Others: 62571996 ext. 105
 <tr>
 <td>New Town Primary School</td>
 <td>
-<br>Tel: 64748805
+Tel: 64748805
 <br>Email: 
 <br>
 Others: <a href='https://go.gov.sg/ntpssupportforsls'>Form SG</a>
@@ -2079,7 +2079,7 @@ Others: <a href='https://go.gov.sg/ntpssupportforsls'>Form SG</a>
 <tr>
 <td>New Town Secondary School</td>
 <td>
-<br>Tel: 67754140
+Tel: 67754140
 <br>Email: iffa_iryani_said@moe.edu.sg
 <br>
 Others:
@@ -2090,7 +2090,7 @@ Others:
 <tr>
 <td>Ngee Ann Primary School</td>
 <td>
-<br>Tel: 64418677
+Tel: 64418677
 <br>Email: 
 <br>
 Others:
@@ -2101,7 +2101,7 @@ Others:
 <tr>
 <td>Ngee Ann Secondary School</td>
 <td>
-<br>Tel: 67844583
+Tel: 67844583
 <br>Email: CHUA_Piak_Eng@schools.gov.sg, nass_helpme_ict@moe.edu.sg
 <br>
 Others: ICT Studio 2 Helpdesk
@@ -2112,7 +2112,7 @@ Others: ICT Studio 2 Helpdesk
 <tr>
 <td>North Spring Primary School</td>
 <td>
-<br>Tel: 68816887 / 67026513
+Tel: 68816887 / 67026513
 <br>Email: ict_helpdesk@nsps.edu.sg
 <br>
 Others:
@@ -2123,7 +2123,7 @@ Others:
 <tr>
 <td>North View Primary School</td>
 <td>
-<br>Tel: 68334995
+Tel: 68334995
 <br>Email: tan_full_chang@moe.edu.sg
 <br>
 Others: 6759 3235
@@ -2134,7 +2134,7 @@ Others: 6759 3235
 <tr>
 <td>North Vista Primary School</td>
 <td>
-<br>Tel: 64843566
+Tel: 64843566
 <br>Email: nvtps@moe.edu.sg
 <br>
 Others:
@@ -2145,7 +2145,7 @@ Others:
 <tr>
 <td>North Vista Secondary School</td>
 <td>
-<br>Tel: 68793969 ext 109
+Tel: 68793969 ext 109
 <br>Email: muhd_shafiq_abdul_razak@schools.gov.sg
 <br>
 Others: ICT Associate
@@ -2156,7 +2156,7 @@ Others: ICT Associate
 <tr>
 <td>Northbrooks Secondary School</td>
 <td>
-<br>Tel: 81283047
+Tel: 81283047
 <br>Email: northbrooks_ict@moe.edu.sg
 <br>
 Others: <a href="https://go.gov.sg/northbrooksresetpassword">Form SG</a>
@@ -2167,7 +2167,7 @@ Others: <a href="https://go.gov.sg/northbrooksresetpassword">Form SG</a>
 <tr>
 <td>Northland Primary School</td>
 <td>
-<br>Tel: 67598884
+Tel: 67598884
 <br>Email: nur_dalela_abu_hasan@moe.edu.sg 
 <br>
 Others:
@@ -2178,7 +2178,7 @@ Others:
 <tr>
 <td>Northland Secondary School</td>
 <td>
-<br>Tel: 62576781
+Tel: 62576781
 <br>Email: northlandhelpdesk@gmail.com
 <br>
 Others:
@@ -2189,7 +2189,7 @@ Others:
 <tr>
 <td>NorthLight School</td>
 <td>
-<br>Tel: 69296277
+Tel: 69296277
 <br>Email: nls@moe.edu.sg
 <br>
 Others:
@@ -2200,7 +2200,7 @@ Others:
 <tr>
 <td>Northoaks Primary School</td>
 <td>
-<br>Tel: 6753 8835 
+Tel: 6753 8835 
 <br>Email: 
 <br>
 Others:
@@ -2211,7 +2211,7 @@ Others:
 <tr>
 <td>NUS High School of Mathematics and Science</td>
 <td>
-<br>Tel: 65161709
+Tel: 65161709
 <br>Email:
 <br>
 Others:
@@ -2222,7 +2222,7 @@ Others:
 <tr>
 <td>Oasis Primary School</td>
 <td>
-<br>Tel: 96450775/63209855
+Tel: 96450775/63209855
 <br>Email: daniel_low_chuen_zher@moe.edu.sg
 <br>
 Others:
@@ -2233,7 +2233,7 @@ Others:
 <tr>
 <td>Opera Estate Primary School</td>
 <td>
-<br>Tel: 62410417
+Tel: 62410417
 <br>Email:
 <br>
 Others:
@@ -2244,7 +2244,7 @@ Others:
 <tr>
 <td>Orchid Park Secondary School</td>
 <td>
-<br>Tel: 67598547
+Tel: 67598547
 <br>Email: tan_yaw_jin@moe.edu.sg
 <br>
 Others:
@@ -2255,7 +2255,7 @@ Others:
 <tr>
 <td>Outram Secondary School</td>
 <td>
-<br>Tel: 67334077
+Tel: 67334077
 <br>Email:
 <br>
 Others: Form teachers
@@ -2266,7 +2266,7 @@ Others: Form teachers
 <tr>
 <td>Palm View Primary School</td>
 <td>
-<br>Tel: 65087300
+Tel: 65087300
 <br>Email: ict_service_request@plvps.edu.sg
 <br>
 Others:
@@ -2277,7 +2277,7 @@ Others:
 <tr>
 <td>Park View Primary School</td>
 <td>
-<br>Tel: 65851421
+Tel: 65851421
 <br>Email:
 <br>
 Others:
@@ -2288,7 +2288,7 @@ Others:
 <tr>
 <td>Pasir Ris Crest Secondary School</td>
 <td>
-<br>Tel: 65811655
+Tel: 65811655
 <br>Email: 
 <br>
 Others:
@@ -2299,7 +2299,7 @@ Others:
 <tr>
 <td>Pasir Ris Primary School</td>
 <td>
-<br>Tel: 65822606
+Tel: 65822606
 <br>Email: refine_lubis@moe.edu.sg
 <br>
 Others:
@@ -2310,7 +2310,7 @@ Others:
 <tr>
 <td>Pasir Ris Secondary School</td>
 <td>
-<br>Tel: 65010800
+Tel: 65010800
 <br>Email: siti_radilah_ahmad_sidek@moe.edu.sg 
 <br>
 Others: Home Teachers
@@ -2321,7 +2321,7 @@ Others: Home Teachers
 <tr>
 <td>Paya Lebar Methodist Girls' School (Primary)</td>
 <td>
-<br>Tel: 62862795
+Tel: 62862795
 <br>Email: plmgps@moe.edu.sg
 <br>
 Others: Whatsapp 9046 0803
@@ -2332,7 +2332,7 @@ Others: Whatsapp 9046 0803
 <tr>
 <td>Paya Lebar Methodist Girls' School (Secondary)</td>
 <td>
-<br>Tel: 62816606
+Tel: 62816606
 <br>Email: lee_wei_te@plmgss.edu.sg
 <br>
 Others: <a href='https://docs.google.com/forms/d/17D1eldhpMb7m0MsAcUfTOoooZnBBS4ZlEwM2f4rTUOA/viewform?edit_requested=true'>Google Form</a>
@@ -2343,7 +2343,7 @@ Others: <a href='https://docs.google.com/forms/d/17D1eldhpMb7m0MsAcUfTOoooZnBBS4
 <tr>
 <td>Pei Chun Public School</td>
 <td>
-<br>Tel: 65053541 / 65053545
+Tel: 65053541 / 65053545
 <br>Email: khoo_elaine@moe.edu.sg
 <br>
 Others:
@@ -2354,7 +2354,7 @@ Others:
 <tr>
 <td>Pei Hwa Presbyterian Primary School</td>
 <td>
-<br>Tel: 64663787 / 64663797
+Tel: 64663787 / 64663797
 <br>Email: 
 <br>
 Others:
@@ -2365,7 +2365,7 @@ Others:
 <tr>
 <td>Pei Hwa Secondary School</td>
 <td>
-<br>Tel: 65009580
+Tel: 65009580
 <br>Email:
 <br>
 Others:
@@ -2376,7 +2376,7 @@ Others:
 <tr>
 <td>Pei Tong Primary School</td>
 <td>
-<br>Tel: 66602874
+Tel: 66602874
 <br>Email: 
 <br>
 Others: <a href='https://go.gov.sg/slsptps'>Form SG</a>
@@ -2387,7 +2387,7 @@ Others: <a href='https://go.gov.sg/slsptps'>Form SG</a>
 <tr>
 <td>Peicai Secondary School</td>
 <td>
-<br>Tel: 62884159
+Tel: 62884159
 <br>Email: peicai_ss@moe.edu.sg
 <br>
 Others:
@@ -2398,7 +2398,7 @@ Others:
 <tr>
 <td>Peirce Secondary School</td>
 <td>
-<br>Tel: 64576454
+Tel: 64576454
 <br>Email: 
 <br>
 Others:
@@ -2409,7 +2409,7 @@ Others:
 <tr>
 <td>Peiying Primary School</td>
 <td>
-<br>Tel: 62575684
+Tel: 62575684
 <br>Email:
 <br>
 Others:
@@ -2420,7 +2420,7 @@ Others:
 <tr>
 <td>Ping Yi Secondary School</td>
 <td>
-<br>Tel: 64489580
+Tel: 64489580
 <br>Email: pyss@moe.edu.sg
 <br>
 Others:
@@ -2431,7 +2431,7 @@ Others:
 <tr>
 <td>Pioneer Primary School</td>
 <td>
-<br>Tel: 67932397
+Tel: 67932397
 <br>Email:
 <br>
 Others:
@@ -2442,7 +2442,7 @@ Others:
 <tr>
 <td>Poi Ching School</td>
 <td>
-<br>Tel: 67856420
+Tel: 67856420
 <br>Email: alex_huang@schools.gov.sg
 <br>
 Others:
@@ -2453,7 +2453,7 @@ Others:
 <tr>
 <td>Presbyterian High School</td>
 <td>
-<br>Tel: 64543722
+Tel: 64543722
 <br>Email: 
 <br>
 Others:
@@ -2464,7 +2464,7 @@ Others:
 <tr>
 <td>Princess Elizabeth Primary School</td>
 <td>
-<br>Tel: 65655111
+Tel: 65655111
 <br>Email: peps@moe.edu.sg
 <br>
 Others: <a href='https://go.gov.sg/peps-helpline'>Form SG</a>
@@ -2475,7 +2475,7 @@ Others: <a href='https://go.gov.sg/peps-helpline'>Form SG</a>
 <tr>
 <td>Punggol Cove Primary School</td>
 <td>
-<br>Tel: 63857339
+Tel: 63857339
 <br>Email: 
 <br>
 Others:
@@ -2486,7 +2486,7 @@ Others:
 <tr>
 <td>Punggol Green Primary School</td>
 <td>
-<br>Tel: 65383011
+Tel: 65383011
 <br>Email: tay_boon_peng@moe.edu.sg
 <br>
 Others:
@@ -2497,7 +2497,7 @@ Others:
 <tr>
 <td>Punggol Primary School</td>
 <td>
-<br>Tel: 63850762
+Tel: 63850762
 <br>Email: 
 <br>
 Others: Form SG (refer to school for link)
@@ -2508,7 +2508,7 @@ Others: Form SG (refer to school for link)
 <tr>
 <td>Punggol Secondary School</td>
 <td>
-<br>Tel: 64897851
+Tel: 64897851
 <br>Email: 
 <br>
 Others:
@@ -2519,7 +2519,7 @@ Others:
 <tr>
 <td>Punggol View Primary School</td>
 <td>
-<br>Tel: 65701588
+Tel: 65701588
 <br>Email: pang_teng_yen@moe.edu.sg
 <br>
 Others: iskandar_abdul_hamid@moe.edu.sg
@@ -2530,7 +2530,7 @@ Others: iskandar_abdul_hamid@moe.edu.sg
 <tr>
 <td>Qifa Primary School</td>
 <td>
-<br>Tel: 67783085
+Tel: 67783085
 <br>Email: 
 <br>
 Others:
@@ -2541,7 +2541,7 @@ Others:
 <tr>
 <td>Qihua Primary School</td>
 <td>
-<br>Tel: 62696250
+Tel: 62696250
 <br>Email: 
 <br>
 Others:
@@ -2552,7 +2552,7 @@ Others:
 <tr>
 <td>Queenstown Primary School</td>
 <td>
-<br>Tel: 64741044
+Tel: 64741044
 <br>Email: 
 <br>
 Others:
@@ -2563,7 +2563,7 @@ Others:
 <tr>
 <td>Queenstown Secondary School</td>
 <td>
-<br>Tel: 64741055
+Tel: 64741055
 <br>Email: qtss@moe.edu.sg
 <br>
 Others: Submit a request for unlocking of account or password reset <a href='https://form.gov.sg/5c33056e5bb1af0017756470'>here</a>
@@ -2574,7 +2574,7 @@ Others: Submit a request for unlocking of account or password reset <a href='htt
 <tr>
 <td>Queensway Secondary School</td>
 <td>
-<br>Tel: 64710807
+Tel: 64710807
 <br>Email: zairee_sallai@moe.edu.sg
 <br>
 Others: 64741421
@@ -2585,7 +2585,7 @@ Others: 64741421
 <tr>
 <td>Radin Mas Primary School</td>
 <td>
-<br>Tel: 62733937
+Tel: 62733937
 <br>Email: 
 <br>
 Others:
@@ -2596,7 +2596,7 @@ Others:
 <tr>
 <td>Raffles Girls' Primary School</td>
 <td>
-<br>Tel: 64684377
+Tel: 64684377
 <br>Email: 
 <br>
 Others:
@@ -2607,7 +2607,7 @@ Others:
 <tr>
 <td>Raffles Girls' School (Secondary)</td>
 <td>
-<br>Tel: 69706457
+Tel: 69706457
 <br>Email: itcare@rafflesgirlssch.edu.sg
 <br>
 Others:
@@ -2618,7 +2618,7 @@ Others:
 <tr>
 <td>Raffles Institution</td>
 <td>
-<br>Tel: 63193145
+Tel: 63193145
 <br>Email: discovery@ri.edu.sg
 <br>
 Others:
@@ -2629,7 +2629,7 @@ Others:
 <tr>
 <td>Red Swastika School</td>
 <td>
-<br>Tel: 64430380
+Tel: 64430380
 <br>Email: lim_ee_min@schools.gov.sg
 <br>
 Others:
@@ -2640,7 +2640,7 @@ Others:
 <tr>
 <td>Regent Secondary School</td>
 <td>
-<br>Tel: 67653828
+Tel: 67653828
 <br>Email: 
 <br>
 Others: 67653828 (Look for ICT dept)
@@ -2651,7 +2651,7 @@ Others: 67653828 (Look for ICT dept)
 <tr>
 <td>River Valley High School</td>
 <td>
-<br>Tel: 65678115
+Tel: 65678115
 <br>Email: 
 <br>
 Others: Subject Teachers
@@ -2662,7 +2662,7 @@ Others: Subject Teachers
 <tr>
 <td>River Valley Primary School</td>
 <td>
-<br>Tel: 67371785
+Tel: 67371785
 <br>Email: 
 <br>
 Others: <a href="https://go.gov.sg/rvps-sls-reset-request">Form SG</a>
@@ -2673,7 +2673,7 @@ Others: <a href="https://go.gov.sg/rvps-sls-reset-request">Form SG</a>
 <tr>
 <td>Riverside Primary School</td>
 <td>
-<br>Tel: 63654490
+Tel: 63654490
 <br>Email: 
 <br>
 Others:
@@ -2684,7 +2684,7 @@ Others:
 <tr>
 <td>Riverside Secondary School</td>
 <td>
-<br>Tel: 62699631
+Tel: 62699631
 <br>Email: 
 <br>
 Others:
@@ -2695,7 +2695,7 @@ Others:
 <tr>
 <td>Rivervale Primary School</td>
 <td>
-<br>Tel: 63887450
+Tel: 63887450
 <br>Email: 
 <br>
 Others:
@@ -2706,7 +2706,7 @@ Others:
 <tr>
 <td>Rosyth School</td>
 <td>
-<br>Tel: 64812273
+Tel: 64812273
 <br>Email: 
 <br>
 Others:
@@ -2717,7 +2717,7 @@ Others:
 <tr>
 <td>Rulang Primary School</td>
 <td>
-<br>Tel: 65657771
+Tel: 65657771
 <br>Email: 
 <br>
 Others:
@@ -2728,7 +2728,7 @@ Others:
 <tr>
 <td>School of Science and Technology, Singapore</td>
 <td>
-<br>Tel: 65717427
+Tel: 65717427
 <br>Email: loh_kwai_yin@sst.edu.sg
 <br>
 Others: Refer to instructions in the left panel of the Students Blog: <a href="http://studentsblog.sst.edu.sg">http://studentsblog.sst.edu.sg</a>
@@ -2739,7 +2739,7 @@ Others: Refer to instructions in the left panel of the Students Blog: <a href="h
 <tr>
 <td>School of the Arts, Singapore</td>
 <td>
-<br>Tel: 6338 9663 / 6342 5857
+Tel: 6338 9663 / 6342 5857
 <br>Email: 
 <br>
 Others:
@@ -2750,7 +2750,7 @@ Others:
 <tr>
 <td>Sembawang Primary School</td>
 <td>
-<br>Tel: 67567330
+Tel: 67567330
 <br>Email: 
 <br>
 Others:
@@ -2761,7 +2761,7 @@ Others:
 <tr>
 <td>Sembawang Secondary School</td>
 <td>
-<br>Tel: 67566760
+Tel: 67566760
 <br>Email: 
 <br>
 Others:
@@ -2772,7 +2772,7 @@ Others:
 <tr>
 <td>Seng Kang Primary School</td>
 <td>
-<br>Tel: 63840809
+Tel: 63840809
 <br>Email: mohammed_azhar_mohd_shariff@schools.gov.sg,skps@moe.edu.sg
 <br>
 Others: <a href='http://tinyurl.com/SLS-Unlock-Account-2019'>Form SG</a>
@@ -2783,7 +2783,7 @@ Others: <a href='http://tinyurl.com/SLS-Unlock-Account-2019'>Form SG</a>
 <tr>
 <td>Seng Kang Secondary School</td>
 <td>
-<br>Tel: 63887258
+Tel: 63887258
 <br>Email: low_young_kwang@moe.edu.sg
 <br>
 Others: <a href='https://go.gov.sg/skss-sls-account-issue'>Form SG</a>
@@ -2794,7 +2794,7 @@ Others: <a href='https://go.gov.sg/skss-sls-account-issue'>Form SG</a>
 <tr>
 <td>Sengkang Green Primary School</td>
 <td>
-<br>Tel: 63864255
+Tel: 63864255
 <br>Email: 
 <br>
 Others:
@@ -2805,7 +2805,7 @@ Others:
 <tr>
 <td>Serangoon Garden Secondary School</td>
 <td>
-<br>Tel: 62889227
+Tel: 62889227
 <br>Email: 
 <br>
 Others:
@@ -2816,7 +2816,7 @@ Others:
 <tr>
 <td>Serangoon Secondary School</td>
 <td>
-<br>Tel: 63851589
+Tel: 63851589
 <br>Email: chan_chee_hoe_A@moe.edu.sg
 <br>
 Others:
@@ -2827,7 +2827,7 @@ Others:
 <tr>
 <td>Shuqun Primary School</td>
 <td>
-<br>Tel: 65637129
+Tel: 65637129
 <br>Email: sqps@moe.edu.sg
 <br>
 Others:
@@ -2838,7 +2838,7 @@ Others:
 <tr>
 <td>Si Ling Primary School</td>
 <td>
-<br>Tel: 62698832
+Tel: 62698832
 <br>Email: 
 <br>
 Others:
@@ -2849,7 +2849,7 @@ Others:
 <tr>
 <td>Singapore Chinese Girls' Primary School</td>
 <td>
-<br>Tel: 62527966
+Tel: 62527966
 <br>Email: admin_scgps@moe.edu.sg
 <br>
 Others:
@@ -2860,7 +2860,7 @@ Others:
 <tr>
 <td>Singapore Chinese Girls' School</td>
 <td>
-<br>Tel: 62527966
+Tel: 62527966
 <br>Email: 
 <br>
 Others:
@@ -2871,7 +2871,7 @@ Others:
 <tr>
 <td>Singapore Sports School</td>
 <td>
-<br>Tel: 67660100
+Tel: 67660100
 <br>Email: alexkohwh@sportsschool.edu.sg, mohamad_faizal_jasman@sportsschool.edu.sg, Reymund_G_Ardines@sportsschool.edu.sg
 <br>
 Others:
@@ -2882,7 +2882,7 @@ Others:
 <tr>
 <td>South View Primary School</td>
 <td>
-<br>Tel: 67697176
+Tel: 67697176
 <br>Email: admin_svps@moe.edu.sg
 <br>
 Others: <a href='https://go.gov.sg/svpsls'>Form SG</a>
@@ -2893,7 +2893,7 @@ Others: <a href='https://go.gov.sg/svpsls'>Form SG</a>
 <tr>
 <td>Spectra Secondary School</td>
 <td>
-<br>Tel: 63207120
+Tel: 63207120
 <br>Email: helpdesk@spectra.edu.sg
 <br>
 Others:
@@ -2904,7 +2904,7 @@ Others:
 <tr>
 <td>Springdale Primary School</td>
 <td>
-<br>Tel: 63157600
+Tel: 63157600
 <br>Email: springdale_ps@moe.edu.sg
 <br>
 Others:
@@ -2915,7 +2915,7 @@ Others:
 <tr>
 <td>Springfield Secondary School</td>
 <td>
-<br>Tel: 63183053
+Tel: 63183053
 <br>Email: 
 <br>
 Others:
@@ -2926,7 +2926,7 @@ Others:
 <tr>
 <td>St. Andrew's Junior College</td>
 <td>
-<br>Tel: 62857008
+Tel: 62857008
 <br>Email: it_help@sajc.edu.sg
 <br>
 Others: <a href='https://form.gov.sg/#!/5d537ac7a1bf7a00125b4654'>Form SG</a> or Whatsapp to 89079710 with CG, Name and UserID
@@ -2937,7 +2937,7 @@ Others: <a href='https://form.gov.sg/#!/5d537ac7a1bf7a00125b4654'>Form SG</a> or
 <tr>
 <td>St. Andrew's Junior School</td>
 <td>
-<br>Tel: 62884303
+Tel: 62884303
 <br>Email: ict@saintandrewsjunior.moe.edu.sg
 <br>
 Others: <a href='https://form.gov.sg/#!/5d229344bf829f00113c1876'>Form SG</a>
@@ -2948,7 +2948,7 @@ Others: <a href='https://form.gov.sg/#!/5d229344bf829f00113c1876'>Form SG</a>
 <tr>
 <td>St. Andrew's Secondary School</td>
 <td>
-<br>Tel: 62851944
+Tel: 62851944
 <br>Email: 
 <br>
 Others:
@@ -2959,7 +2959,7 @@ Others:
 <tr>
 <td>St. Anthony's Canossian Primary School</td>
 <td>
-<br>Tel: 64492239
+Tel: 64492239
 <br>Email: 
 <br>
 Others:
@@ -2970,7 +2970,7 @@ Others:
 <tr>
 <td>St. Anthony's Canossian Secondary School</td>
 <td>
-<br>Tel: 64490616
+Tel: 64490616
 <br>Email: 
 <br>
 Others:
@@ -2981,7 +2981,7 @@ Others:
 <tr>
 <td>St. Anthony's Primary School</td>
 <td>
-<br>Tel: 65690822
+Tel: 65690822
 <br>Email: lim_suan_chu@moe.edu.sg
 <br>
 Others: Email kiliammal_kathamuthu@moe.edu.sg
@@ -2992,7 +2992,7 @@ Others: Email kiliammal_kathamuthu@moe.edu.sg
 <tr>
 <td>St. Gabriel's Primary School</td>
 <td>
-<br>Tel: 62803628
+Tel: 62803628
 <br>Email: 
 <br>
 Others: <a href='https://go.gov.sg/sgpssls'>Form SG</a>
@@ -3003,7 +3003,7 @@ Others: <a href='https://go.gov.sg/sgpssls'>Form SG</a>
 <tr>
 <td>St. Gabriel's Secondary School</td>
 <td>
-<br>Tel: 62889470
+Tel: 62889470
 <br>Email: 
 <br>
 Others: <a href='https://form.gov.sg/#!/5d5a138c0842660019287a60'>Form SG</a>
@@ -3014,7 +3014,7 @@ Others: <a href='https://form.gov.sg/#!/5d5a138c0842660019287a60'>Form SG</a>
 <tr>
 <td>St. Hilda's Primary School</td>
 <td>
-<br>Tel: 64350211
+Tel: 64350211
 <br>Email: lee_choon_song@schools.gov.sg
 <br>
 Others: <a href="https://form.gov.sg/609e36d76d1aca0011ae6578">Form SG</a>
@@ -3025,7 +3025,7 @@ Others: <a href="https://form.gov.sg/609e36d76d1aca0011ae6578">Form SG</a>
 <tr>
 <td>St. Hilda's Secondary School</td>
 <td>
-<br>Tel: 65069821/63055277
+Tel: 65069821/63055277
 <br>Email: admin_shss@moe.edu.sg
 <br>
 Others:
@@ -3036,7 +3036,7 @@ Others:
 <tr>
 <td>St. Joseph's Institution</td>
 <td>
-<br>Tel: 62500022
+Tel: 62500022
 <br>Email: itcare@sji.edu.sg
 <br>
 Others:
@@ -3047,7 +3047,7 @@ Others:
 <tr>
 <td>St. Joseph's Institution Junior</td>
 <td>
-<br>Tel: 62552700
+Tel: 62552700
 <br>Email: ict_helpdesk@sjijunior.edu.sg
 <br>
 Others:
@@ -3058,7 +3058,7 @@ Others:
 <tr>
 <td>St. Margaret's Primary School</td>
 <td>
-<br>Tel: 63394247
+Tel: 63394247
 <br>Email: nur_azzah_noh@moe.edu.sg
 <br>
 Others:
@@ -3069,7 +3069,7 @@ Others:
 <tr>
 <td>St. Margaret's Secondary School</td>
 <td>
-<br>Tel: 82001676
+Tel: 82001676
 <br>Email: stmargsadmin@stmargs.edu.sg
 <br>
 Others:
@@ -3080,7 +3080,7 @@ Others:
 <tr>
 <td>St. Patrick's School</td>
 <td>
-<br>Tel: 63440929 ext.153
+Tel: 63440929 ext.153
 <br>Email: chua_seng_yeon_vincent@moe.edu.sg
 <br>
 Others:
@@ -3091,7 +3091,7 @@ Others:
 <tr>
 <td>St. Stephen's School</td>
 <td>
-<br>Tel: 62419513
+Tel: 62419513
 <br>Email: 
 <br>
 Others: <a href='https://form.gov.sg/#!/5e37d58673a1e90011945210'>Form SG</a>
@@ -3102,7 +3102,7 @@ Others: <a href='https://form.gov.sg/#!/5e37d58673a1e90011945210'>Form SG</a>
 <tr>
 <td>Stamford Primary School</td>
 <td>
-<br>Tel: 62945074
+Tel: 62945074
 <br>Email: 
 <br>
 Others:
@@ -3113,7 +3113,7 @@ Others:
 <tr>
 <td>Swiss Cottage Secondary School</td>
 <td>
-<br>Tel: 66319620/65637173
+Tel: 66319620/65637173
 <br>Email: giam_chin_leong@schools.gov.sg
 <br>
 Others:
@@ -3124,7 +3124,7 @@ Others:
 <tr>
 <td>Tampines Meridian Junior College</td>
 <td>
-<br>Tel: 63493660
+Tel: 63493660
 <br>Email: 
 <br>
 Others:
@@ -3135,7 +3135,7 @@ Others:
 <tr>
 <td>Tampines North Primary School</td>
 <td>
-<br>Tel: 67854329
+Tel: 67854329
 <br>Email: 
 <br>
 Others:
@@ -3146,7 +3146,7 @@ Others:
 <tr>
 <td>Tampines Primary School</td>
 <td>
-<br>Tel: 67831190
+Tel: 67831190
 <br>Email: icttps@gmail.com
 <br>
 Others:
@@ -3157,7 +3157,7 @@ Others:
 <tr>
 <td>Tampines Secondary School</td>
 <td>
-<br>Tel: 67835423/81265620
+Tel: 67835423/81265620
 <br>Email: neo_shufen@moe.edu.sg
 <br>
 Others:
@@ -3168,7 +3168,7 @@ Others:
 <tr>
 <td>Tanglin Secondary School</td>
 <td>
-<br>Tel: 64248200
+Tel: 64248200
 <br>Email: tanglin_ss@moe.edu.sg
 <br>
 Others:
@@ -3179,7 +3179,7 @@ Others:
 <tr>
 <td>Tanjong Katong Girls' School</td>
 <td>
-<br>Tel: 63441593
+Tel: 63441593
 <br>Email: tan_jie_ming@moe.edu.sg
 <br>
 Others:
@@ -3190,7 +3190,7 @@ Others:
 <tr>
 <td>Tanjong Katong Primary School</td>
 <td>
-<br>Tel: 63444728
+Tel: 63444728
 <br>Email: 
 <br>
 Others:
@@ -3201,7 +3201,7 @@ Others:
 <tr>
 <td>Tanjong Katong Secondary School</td>
 <td>
-<br>Tel: 63443471
+Tel: 63443471
 <br>Email: nur_shirah_rafidi@moe.edu.sg
 <br>
 Others:
@@ -3212,7 +3212,7 @@ Others:
 <tr>
 <td>Tao Nan School</td>
 <td>
-<br>Tel: 64428307
+Tel: 64428307
 <br>Email: 
 <br>
 Others:
@@ -3223,7 +3223,7 @@ Others:
 <tr>
 <td>Teck Ghee Primary School</td>
 <td>
-<br>Tel: 64548769
+Tel: 64548769
 <br>Email: 
 <br>
 Others: <a href='https://form.gov.sg/609de16fb3fce000127e3ffe'>Form SG</a>
@@ -3234,7 +3234,7 @@ Others: <a href='https://form.gov.sg/609de16fb3fce000127e3ffe'>Form SG</a>
 <tr>
 <td>Teck Whye Primary School</td>
 <td>
-<br>Tel: 97888640
+Tel: 97888640
 <br>Email: 
 <br>
 Others: <a href='https://go.gov.sg/twpshelpline'>Form SG</a>
@@ -3245,7 +3245,7 @@ Others: <a href='https://go.gov.sg/twpshelpline'>Form SG</a>
 <tr>
 <td>Teck Whye Secondary School</td>
 <td>
-<br>Tel: 92256525
+Tel: 92256525
 <br>Email: HBL_helpdesk@twss.edu.sg
 <br>
 Others:
@@ -3256,7 +3256,7 @@ Others:
 <tr>
 <td>Telok Kurau Primary School</td>
 <td>
-<br>Tel: 62441600
+Tel: 62441600
 <br>Email: 
 <br>
 Others:
@@ -3267,7 +3267,7 @@ Others:
 <tr>
 <td>Temasek Junior College</td>
 <td>
-<br>Tel: 64428066
+Tel: 64428066
 <br>Email: Low_Kian_Seh@schools.gov.sg
 <br>
 Others:
@@ -3278,7 +3278,7 @@ Others:
 <tr>
 <td>Temasek Primary School</td>
 <td>
-<br>Tel: 64438134
+Tel: 64438134
 <br>Email: lee_sheng_jie_fabian@schools.gov.sg
 <br>
 
@@ -3290,7 +3290,7 @@ Upcoming E-learning Days: 19 May 2021 to 27 May 2021
 <tr>
 <td>Temasek Secondary School</td>
 <td>
-<br>Tel: 64495020
+Tel: 64495020
 <br>Email: temasek_ss@moe.edu.sg 
 <br>
 Others:
@@ -3301,7 +3301,7 @@ Others:
 <tr>
 <td>Townsville Primary School</td>
 <td>
-<br>Tel: 64574345
+Tel: 64574345
 <br>Email: 
 <br>
 Others:
@@ -3312,7 +3312,7 @@ Others:
 <tr>
 <td>Unity Primary School</td>
 <td>
-<br>Tel: 67676750
+Tel: 67676750
 <br>Email: Unity_ps@moe.edu.sg
 <br>
 Others:
@@ -3323,7 +3323,7 @@ Others:
 <tr>
 <td>Unity Secondary School</td>
 <td>
-<br>Tel: 67671070
+Tel: 67671070
 <br>Email: unity_ss@moe.edu.sg
 <br>
 Others: <a href='http://go.gov.sg/unitysecslshelp'>Form SG</a>
@@ -3334,7 +3334,7 @@ Others: <a href='http://go.gov.sg/unitysecslshelp'>Form SG</a>
 <tr>
 <td>Valour Primary School</td>
 <td>
-<br>Tel: 62426390
+Tel: 62426390
 <br>Email: valour_ps@moe.edu.sg
 <br>
 Others:
@@ -3345,7 +3345,7 @@ Others:
 <tr>
 <td>Victoria Junior College</td>
 <td>
-<br>Tel: 62402117
+Tel: 62402117
 <br>Email: help@vjc.sg
 <br>
 Others:
@@ -3356,7 +3356,7 @@ Others:
 <tr>
 <td>Victoria School</td>
 <td>
-<br>Tel: 62912965 ext 247
+Tel: 62912965 ext 247
 <br>Email: 
 <br>
 Others:
@@ -3367,7 +3367,7 @@ Others:
 <tr>
 <td>Waterway Primary School</td>
 <td>
-<br>Tel: 6636 6880
+Tel: 6636 6880
 <br>Email: 
 <br>
 Others:
@@ -3378,7 +3378,7 @@ Others:
 <tr>
 <td>Wellington Primary School</td>
 <td>
-<br>Tel: 67533319
+Tel: 67533319
 <br>Email: wellingtonps@moe.edu.sg
 <br>
 Others:
@@ -3389,7 +3389,7 @@ Others:
 <tr>
 <td>West Grove Primary School</td>
 <td>
-<br>Tel: 85338145
+Tel: 85338145
 <br>Email: buthisigamani_sasirekha@moe.edu.sg
 <br>
 Others:
@@ -3400,7 +3400,7 @@ Others:
 <tr>
 <td>West Spring Primary School</td>
 <td>
-<br>Tel: 63144192
+Tel: 63144192
 <br>Email: 
 <br>
 Others: <a href='https://go.gov.sg/wpssls'>Form SG</a>
@@ -3411,7 +3411,7 @@ Others: <a href='https://go.gov.sg/wpssls'>Form SG</a>
 <tr>
 <td>West Spring Secondary School</td>
 <td>
-<br>Tel: 68920369
+Tel: 68920369
 <br>Email: xie_shuxian_shelia@moe.edu.sg
 <br>
 Others: <a href='https://westspringsec.moe.edu.sg/homebasedlearning'>School Website</a>
@@ -3422,7 +3422,7 @@ Others: <a href='https://westspringsec.moe.edu.sg/homebasedlearning'>School Webs
 <tr>
 <td>West View Primary School</td>
 <td>
-<br>Tel: 6760 0178
+Tel: 6760 0178
 <br>Email: ho_wilven@schools.gov.sg
 <br>
 Others:
@@ -3433,7 +3433,7 @@ Others:
 <tr>
 <td>Westwood Primary School</td>
 <td>
-<br>Tel: 64121690
+Tel: 64121690
 <br>Email: 
 <br>
 Others: <a href='https://go.gov.sg/wwpssls'>Form SG</a>
@@ -3444,7 +3444,7 @@ Others: <a href='https://go.gov.sg/wwpssls'>Form SG</a>
 <tr>
 <td>Westwood Secondary School</td>
 <td>
-<br>Tel: 67929737
+Tel: 67929737
 <br>Email: 
 <br>
 Others: Contact Form Teachers or Subject Teachers directly
@@ -3455,7 +3455,7 @@ Others: Contact Form Teachers or Subject Teachers directly
 <tr>
 <td>White Sands Primary School</td>
 <td>
-<br>Tel: 69229100
+Tel: 69229100
 <br>Email: 
 <br>
 Others:
@@ -3466,7 +3466,7 @@ Others:
 <tr>
 <td>Whitley Secondary School</td>
 <td>
-<br>Tel: 64561336
+Tel: 64561336
 <br>Email: techsupport@whitleysec.moe.edu.sg
 <br>
 Others:
@@ -3477,7 +3477,7 @@ Others:
 <tr>
 <td>Woodgrove Primary School</td>
 <td>
-<br>Tel: 68943371
+Tel: 68943371
 <br>Email: 
 <br>
 Others:
@@ -3488,7 +3488,7 @@ Others:
 <tr>
 <td>Woodgrove Secondary School</td>
 <td>
-<br>Tel: 68932564
+Tel: 68932564
 <br>Email: 
 <br>
 Others:
@@ -3499,7 +3499,7 @@ Others:
 <tr>
 <td>Woodlands Primary School</td>
 <td>
-<br>Tel: 62697410
+Tel: 62697410
 <br>Email: 
 <br>
 Others:
@@ -3510,7 +3510,7 @@ Others:
 <tr>
 <td>Woodlands Ring Primary School</td>
 <td>
-<br>Tel: 63643679
+Tel: 63643679
 <br>Email: 
 <br>
 Others:
@@ -3521,7 +3521,7 @@ Others:
 <tr>
 <td>Woodlands Ring Secondary School</td>
 <td>
-<br>Tel: 63643712
+Tel: 63643712
 <br>Email: 
 <br>
 Others:
@@ -3532,7 +3532,7 @@ Others:
 <tr>
 <td>Woodlands Secondary School</td>
 <td>
-<br>Tel: 68494400
+Tel: 68494400
 <br>Email: 
 <br>
 Others: <a href='http://gg.gg/wdlslspassword'>Google Form</a>
@@ -3543,7 +3543,7 @@ Others: <a href='http://gg.gg/wdlslspassword'>Google Form</a>
 <tr>
 <td>Xinghua Primary School</td>
 <td>
-<br>Tel: 62889121
+Tel: 62889121
 <br>Email: 
 <br>
 Others:
@@ -3554,7 +3554,7 @@ Others:
 <tr>
 <td>Xingnan Primary School</td>
 <td>
-<br>Tel: 67913679
+Tel: 67913679
 <br>Email: 
 <br>
 Others:
@@ -3565,7 +3565,7 @@ Others:
 <tr>
 <td>Xinmin Primary School</td>
 <td>
-<br>Tel: 62835479
+Tel: 62835479
 <br>Email: 
 <br>
 Others:
@@ -3576,7 +3576,7 @@ Others:
 <tr>
 <td>Xinmin Secondary School</td>
 <td>
-<br>Tel: 62889382
+Tel: 62889382
 <br>Email: 
 <br>
 Others:
@@ -3587,7 +3587,7 @@ Others:
 <tr>
 <td>Xishan Primary School</td>
 <td>
-<br>Tel: 67588837
+Tel: 67588837
 <br>Email: 
 <br>
 Others: extension 217 (after calling in)
@@ -3598,7 +3598,7 @@ Others: extension 217 (after calling in)
 <tr>
 <td>Yangzheng Primary School</td>
 <td>
-<br>Tel: 62846298
+Tel: 62846298
 <br>Email: 
 <br>
 Others:
@@ -3609,7 +3609,7 @@ Others:
 <tr>
 <td>Yew Tee Primary School</td>
 <td>
-<br>Tel: 92954567
+Tel: 92954567
 <br>Email: lew_jia_chien@schools.gov.sg
 <br>
 Others:
@@ -3620,7 +3620,7 @@ Others:
 <tr>
 <td>Yio Chu Kang Primary School</td>
 <td>
-<br>Tel: 63851365
+Tel: 63851365
 <br>Email: 
 <br>
 Others: Google Form
@@ -3631,7 +3631,7 @@ Others: Google Form
 <tr>
 <td>Yio Chu Kang Secondary School</td>
 <td>
-<br>Tel: 64560669 ext.128 
+Tel: 64560669 ext.128 
 <br>Email: 
 <br>
 Others: <a href='https://go.gov.sg/yckss-sls-help'>Form SG</a>
@@ -3642,7 +3642,7 @@ Others: <a href='https://go.gov.sg/yckss-sls-help'>Form SG</a>
 <tr>
 <td>Yishun Innova Junior College</td>
 <td>
-<br>Tel: 62579873
+Tel: 62579873
 <br>Email: yeo_swee_ching@schools.gov.sg
 <br>
 Others: <a href='https://go.gov.sg/icthelpline'>Form SG</a>
@@ -3653,7 +3653,7 @@ Others: <a href='https://go.gov.sg/icthelpline'>Form SG</a>
 <tr>
 <td>Yishun Primary School</td>
 <td>
-<br>Tel: 62577461
+Tel: 62577461
 <br>Email: 
 <br>
 Others: <a href="https://go.gov.sg/ypshelpdesk">Form SG</a>
@@ -3664,7 +3664,7 @@ Others: <a href="https://go.gov.sg/ypshelpdesk">Form SG</a>
 <tr>
 <td>Yishun Secondary School</td>
 <td>
-<br>Tel: 68767122
+Tel: 68767122
 <br>Email: praveen_prakash@moe.edu.sg
 <br>
 Others: <a href='https://form.gov.sg/#!/5e6598228bfe490011201560'>Form SG</a>
@@ -3675,7 +3675,7 @@ Others: <a href='https://form.gov.sg/#!/5e6598228bfe490011201560'>Form SG</a>
 <tr>
 <td>Yishun Town Secondary School</td>
 <td>
-<br>Tel: 68538440
+Tel: 68538440
 <br>Email: 
 <br>
 Others:
@@ -3686,7 +3686,7 @@ Others:
 <tr>
 <td>Yu Neng Primary School</td>
 <td>
-<br>Tel: 64490121 ext.176
+Tel: 64490121 ext.176
 <br>Email: 
 <br>
 Others: <a href='https://form.gov.sg/#!/5cca661ede59dc00172f7e26'>Form SG</a>
@@ -3697,7 +3697,7 @@ Others: <a href='https://form.gov.sg/#!/5cca661ede59dc00172f7e26'>Form SG</a>
 <tr>
 <td>Yuan Ching Secondary School</td>
 <td>
-<br>Tel: 62612489
+Tel: 62612489
 <br>Email: 
 <br>
 Others: <a href='https://go.gov.sg/sls-pw-reset'>Form SG</a>
@@ -3708,7 +3708,7 @@ Others: <a href='https://go.gov.sg/sls-pw-reset'>Form SG</a>
 <tr>
 <td>Yuhua Primary School</td>
 <td>
-<br>Tel: 65605062
+Tel: 65605062
 <br>Email: yuhua_ps@moe.edu.sg
 <br>
 Others:
@@ -3719,7 +3719,7 @@ Others:
 <tr>
 <td>Yuhua Secondary School</td>
 <td>
-<br>Tel: 65661985
+Tel: 65661985
 <br>Email: yuhua_ss@moe.edu.sg
 <br>
 Others: <a href='https://form.gov.sg/#!/5cbd58d20150a5001701cf74'>Form SG</a>
@@ -3730,7 +3730,7 @@ Others: <a href='https://form.gov.sg/#!/5cbd58d20150a5001701cf74'>Form SG</a>
 <tr>
 <td>Yumin Primary School</td>
 <td>
-<br>Tel: 67811262
+Tel: 67811262
 <br>Email: chia_wenn_teck@moe.edu.sg,Lester_Ting_Huong_San@moe.edu.sg
 <br>
 Others:
@@ -3741,7 +3741,7 @@ Others:
 <tr>
 <td>Yusof Ishak Secondary School</td>
 <td>
-<br>Tel: 65009800
+Tel: 65009800
 <br>Email: yiss@moe.edu.sg
 <br>
 Others:
@@ -3752,7 +3752,7 @@ Others:
 <tr>
 <td>Yuying Secondary School</td>
 <td>
-<br>Tel: 62827968
+Tel: 62827968
 <br>Email: 
 <br>
 Others:
@@ -3763,7 +3763,7 @@ Others:
 <tr>
 <td>Zhangde Primary School</td>
 <td>
-<br>Tel: 62740357
+Tel: 62740357
 <br>Email: tan_kim_heng_felix@schools.gov.sg,lee_hui_fen_fiona@schools.gov.sg
 <br>
 Others:
@@ -3774,7 +3774,7 @@ Others:
 <tr>
 <td>Zhenghua Primary School</td>
 <td>
-<br>Tel: 67697478
+Tel: 67697478
 <br>Email: bargavi_kalivaradhan@schools.gov.sg
 <br>
 Others:
@@ -3785,7 +3785,7 @@ Others:
 <tr>
 <td>Zhenghua Secondary School</td>
 <td>
-<br>Tel: 67639455
+Tel: 67639455
 <br>Email: zhenghua_ss@moe.edu.sg, rozaini_muhaimin_rozlan@moe.edu.sg
 <br>
 Others:
@@ -3796,7 +3796,7 @@ Others:
 <tr>
 <td>Zhonghua Primary School</td>
 <td>
-<br>Tel: 62835413
+Tel: 62835413
 <br>Email: 
 <br>
 Others:
@@ -3807,7 +3807,7 @@ Others:
 <tr>
 <td>Zhonghua Secondary School</td>
 <td>
-<br>Tel: 62824339
+Tel: 62824339
 <br>Email: zhonghua_ss@moe.edu.sg
 <br>
 Others:
