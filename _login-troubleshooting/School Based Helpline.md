@@ -10,6 +10,34 @@ The following are details on how you can contact your school to assist in login 
 
 You may use the search function to find your school quickly.
 
+<table>
+                <thead>
+                  <tr>
+                    <th>School</th>
+                    <th>Helpline</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td>Admiralty Primary School</td>
+                    <td>
+                      <p>Tel: 63620598</p>
+                      <p>Email:</p>
+                      <p>Others:</p>
+                    </td>
+                  </tr>
+                  <tr>
+                    <td>Admiralty Secondary School</td>
+                    <td>
+                      <p>Tel: 63651733</p>
+                      <p>Email:</p>
+                      <p>
+                        Others:
+                      </p>
+                    </td>
+                  </tr>
+</tbody>
+</table>
 
 |School|Helpline|
 |--- |--- |
