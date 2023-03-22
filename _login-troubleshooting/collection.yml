@@ -2,7 +2,6 @@ collections:
   login-troubleshooting:
     output: true
     order:
-      - Table Test page.md
       - School Based Helpline.md
       - Technical Issues/.keep
       - Technical Issues/Operating System and Browser Requirements (Updated).md
