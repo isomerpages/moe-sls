@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+Check out the latest addition to the SLS Embed Whitelist!
+
+**[Toy Theatre](https://toytheater.com/)**: Provides free educational games and tools for Primary School students to enhance their learning.
+
