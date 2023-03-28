@@ -12,7 +12,7 @@ links:
     url: /userguides
     sublinks:
       - title: Students UG
-        url: /student-user-guide/Authentication-and-Profile-Mgmt/managelinked/
+        url: /student-user-guide/authentication-and-profile-mgmt/managelinked/
       - title: Teachers UG
         url: /user-guide/Teachers-UG/aboutlessons/
       - title: Admin UG
