@@ -2,11 +2,11 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Author/.keep
       - Author/About Lessons and Courses (Improved).md
       - Author/Create a Lesson (New).md
       - Author/Create a Course (New).md
       - Author/About Lesson & Section Templates.md
-      - Author/.keep
       - Gamify/.keep
       - Gamify/Example page.md
       - Assign/.keep
@@ -17,8 +17,8 @@ collections:
       - Plan/Example Title.md
       - Discover/.keep
       - Discover/Example Title.md
-      - Organise/Notify.md
       - Organise/.keep
+      - Organise/Notify.md
       - Organise/Discover.md
       - Track Progress/.keep
       - Track Progress/Example Title.md
