@@ -3,6 +3,9 @@ collections:
     output: true
     order:
       - Organise Group.md
+      - Organise/.keep
+      - Organise/Notify.md
+      - Organise/Discover.md
       - Author/.keep
       - Author/About Lessons and Courses (Improved).md
       - Author/Create a Lesson (New).md
@@ -18,9 +21,6 @@ collections:
       - Plan/Example Title.md
       - Discover/.keep
       - Discover/Example Title.md
-      - Organise/.keep
-      - Organise/Notify.md
-      - Organise/Discover.md
       - Track Progress/.keep
       - Track Progress/Example Title.md
       - Notify/.keep
