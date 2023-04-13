@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Enact/.keep
       - Organise/.keep
       - Author/.keep
       - Author/About Lessons and Courses (Improved).md
