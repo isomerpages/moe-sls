@@ -2,7 +2,6 @@ collections:
   teacher-user-guide:
     output: true
     order:
-      - Organise Group.md
       - Organise/Plan.md
       - Organise/Discover Test.md
       - Organise/.keep
