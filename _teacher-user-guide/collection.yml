@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Other Useful Information/.keep
       - Administer/.keep
       - Enact/.keep
       - Organise/.keep
