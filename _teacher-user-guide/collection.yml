@@ -2,11 +2,6 @@ collections:
   teacher-user-guide:
     output: true
     order:
-      - Organise/Plan.md
-      - Organise/Discover Test.md
-      - Organise/.keep
-      - Organise/Notify.md
-      - Organise/Discover.md
       - Author/.keep
       - Author/About Lessons and Courses (Improved).md
       - Author/Create a Lesson (New).md
