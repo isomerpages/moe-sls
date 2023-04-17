@@ -4,6 +4,7 @@ collections:
     order:
       - Other Useful Information/.keep
       - Administer/.keep
+      - Enact/Differentiate.md
       - Enact/Enact.md
       - Enact/Assign.md
       - Enact/.keep
