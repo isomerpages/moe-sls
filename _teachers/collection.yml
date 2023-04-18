@@ -2,7 +2,7 @@ collections:
   teachers:
     output: true
     order:
-      - User Guide April/.keep
+      - CUO Clusters Directory/.keep
       - Teachers.md
       - Feature Highlights/.keep
       - Feature Highlights/Release Videos.md
