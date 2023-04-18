@@ -2,7 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
-      - Test page.md
+      - CUO Cluster Directory.md
       - Other Useful Information/.keep
       - Administer/.keep
       - Enact/Collaborate.md
