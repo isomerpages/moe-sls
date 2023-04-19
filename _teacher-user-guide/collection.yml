@@ -2,6 +2,11 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Author/.keep
+      - Author/About Lessons and Courses (Improved).md
+      - Author/Create a Lesson (New).md
+      - Author/Create a Course (New).md
+      - Author/About Lesson & Section Templates.md
       - Gamify/.keep
       - Assign/.keep
       - Enact/.keep
@@ -27,11 +32,6 @@ collections:
       - Organise/Organise.md
       - Organise/Self Study.md
       - Organise/Customise.md
-      - Author/.keep
-      - Author/About Lessons and Courses (Improved).md
-      - Author/Create a Lesson (New).md
-      - Author/Create a Course (New).md
-      - Author/About Lesson & Section Templates.md
       - Enact (Collaborate) Prop2/.keep
       - Enact (Collaborate) Prop2/How to use the Class Group Forum?.md
       - CUO Cluster Directory.md
