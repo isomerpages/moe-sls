@@ -9,7 +9,7 @@ Click on the following links to go to the respective page:
 1.  #### [Discover](../teacher-user-guide/organise/discover/)
 
 ##### Where to search for resources?
-* About the MOE Library
+* [About the MOE Library](/teacher-user-guide/discover/moelibrary)
 * About the Community Gallery
 * Search for Resources
 * Leave Reviews
