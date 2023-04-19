@@ -2,6 +2,8 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Assess/.keep
+      - Assess/Example Title.md
       - Track Progress/.keep
       - Publish/.keep
       - Administer/.keep
@@ -24,8 +26,6 @@ collections:
       - Author/Create a Lesson (New).md
       - Author/Create a Course (New).md
       - Author/About Lesson & Section Templates.md
-      - Assess/.keep
-      - Assess/Example Title.md
       - Enact (Collaborate) Prop2/.keep
       - Enact (Collaborate) Prop2/How to use the Class Group Forum?.md
       - CUO Cluster Directory.md
