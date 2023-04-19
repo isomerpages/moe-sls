@@ -21,13 +21,13 @@ Click on the following links to go to the respective page:
   <summary>
  Where to search for resources?</summary>
 	
-* About the MOE Library
-* About the Community Gallery
-* Search for Resources
-* Leave Reviews
-* Make a Copy of a Lesson
-* View Lesson Details
-* View Print-Friendly Worksheet
+* [About the MOE Library](/teacher-user-guide/discover/moelibrary)
+* [About the Community Gallery]()
+* [Search for Resources]()
+* [Leave Reviews]()
+* [Make a Copy of a Lesson]()
+* [View Lesson Details]()
+* [View Print-Friendly Worksheet]()
 	
 	</details>
 
