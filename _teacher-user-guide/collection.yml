@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Differentiate/.keep
       - Personalise/.keep
       - Collaborate/.keep
       - Assess/.keep
