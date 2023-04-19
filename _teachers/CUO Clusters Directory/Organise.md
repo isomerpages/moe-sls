@@ -31,7 +31,7 @@ Click on the following links to go to the respective page:
 	
 	</details>
 
-3.  #### [Notify](../teacher-user-guide/organise/notify/)
+2.  #### [Notify](../teacher-user-guide/organise/notify/)
 4.  #### [Plan](../teacher-user-guide/organise/plan/)
 5.  #### [Organise](../teacher-user-guide/organise/organise/)
 6.  #### [Self Study](../teacher-user-guide/organise/selfstudy/)
