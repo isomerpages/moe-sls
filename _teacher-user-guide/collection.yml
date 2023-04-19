@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Organise (Discover)/Search for Resources.md
       - Organise (Discover)/Leave Reviews.md
       - Organise (Discover)/Make a Copy of a Lesson.md
       - Organise (Discover)/View Lesson Details.md
