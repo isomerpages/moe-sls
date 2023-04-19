@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Collaborate/.keep
       - Assess/.keep
       - Assess/Example Title.md
       - Track Progress/.keep
