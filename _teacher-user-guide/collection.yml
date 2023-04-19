@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Organise (Discover)/Embed Whitelisted Websites.md
       - Organise (Discover)/Previously Whitelisted & Non Whitelisted Websites.md
       - Organise (Discover)/About My Subjects.md
       - Organise (Discover)/Follow or Unfollow Subjects.md
