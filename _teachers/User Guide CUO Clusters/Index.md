@@ -10,7 +10,7 @@ Placeholder Image
 
 ![](/images/favicon-isomer.ico)
 	
-## Organise
+## [Organise](/teachers/cuo-clusters-directory/organise/)
 * #### Discover
 * #### Notify
 *  #### Plan
@@ -18,26 +18,26 @@ Placeholder Image
 *  #### Self Study
 *  #### Customise
 
-## Author
+## [Author](/teachers/cuo-clusters-directory/author/)
 * #### Author
 * #### Gamify
 
-## Enact
+## [Enact](/teachers/cuo-clusters-directory/enact/)
 * #### Assign
 * #### Enact
 * #### Differentiate
 * #### Personalise
 * #### Collaborate
-## Assess
+## [Assess](/teachers/cuo-clusters-directory/assess/)
 * #### Assess
 * #### Track Progress
 
-## Administer
+## [Administer](/teachers/cuo-clusters-directory/administer/)
 * #### Publish
 * #### Administer
 * #### Develop
 * #### Connect
 * #### Extend
 
-## Other Useful Information
+## [Other Useful Information](/teachers/cuo-clusters-directory/otheruseful/)
 * #### Other Useful Information
