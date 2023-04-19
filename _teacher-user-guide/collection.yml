@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Organise (Discover)/Add Exisiting Activities from Resources.md
       - Organise (Discover)/Add Existing Components Resources.md
       - Organise (Discover)/View External Resources.md
       - Organise (Discover)/Embed Whitelisted Websites.md
