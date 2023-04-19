@@ -18,10 +18,10 @@ collections:
       - Organise (Discover)/Previously Whitelisted & Non Whitelisted Websites.md
       - Organise (Discover)/About My Subjects.md
       - Organise (Discover)/Follow or Unfollow Subjects.md
-      - Organise (Notify)/Example Title.md
       - Organise (Notify)/.keep
-      - Organise (Plan)/Example Title.md
+      - Organise (Notify)/Example Title.md
       - Organise (Plan)/.keep
+      - Organise (Plan)/Example Title.md
       - Organise (Organise)/.keep
       - Organise (Organise)/Discover.md
       - Organise (Organise)/Notify.md
@@ -29,45 +29,45 @@ collections:
       - Organise (Organise)/Organise.md
       - Organise (Organise)/Self Study.md
       - Organise (Organise)/Customise.md
-      - Organise (Self Study)/Example Title.md
       - Organise (Self Study)/.keep
-      - Organise (Customise)/Example Title.md
+      - Organise (Self Study)/Example Title.md
       - Organise (Customise)/.keep
+      - Organise (Customise)/Example Title.md
       - Author (Author)/.keep
       - Author (Author)/About Lessons and Courses (Improved).md
       - Author (Author)/Create a Lesson (New).md
       - Author (Author)/Create a Course (New).md
       - Author (Author)/About Lesson & Section Templates.md
-      - Author (Gamify)/Example Title.md
       - Author (Gamify)/.keep
-      - Enact (Assign)/Example Title.md
+      - Author (Gamify)/Example Title.md
       - Enact (Assign)/.keep
-      - Enact (Enact)/Example Title.md
+      - Enact (Assign)/Example Title.md
       - Enact (Enact)/.keep
-      - Enact (Differentiate)/Example Title.md
+      - Enact (Enact)/Example Title.md
       - Enact (Differentiate)/.keep
-      - Enact (Personalise)/Example Title.md
+      - Enact (Differentiate)/Example Title.md
       - Enact (Personalise)/.keep
-      - Enact (Collaborate)/Example Title.md
-      - Enact (Collaborate)/.keep
-      - Assess (Assess)/.keep
-      - Assess (Assess)/Example Title.md
-      - Assess (Track Progress)/Example Title.md
-      - Assess (Track Progress)/.keep
-      - Administer (Publish)/Example Title.md
-      - Administer (Publish)/.keep
-      - Administer (Administer)/Example Title.md
-      - Administer (Administer)/.keep
-      - Administer (Develop)/Example Title.md
-      - Administer (Develop)/.keep
-      - Administer (Connect)/Example Title.md
-      - Administer (Connect)/.keep
-      - Administer (Extend)/Example Title.md
-      - Administer (Extend)/.keep
-      - Other Useful Information/Example Title.md
-      - Other Useful Information/.keep
-      - Enact (Collaborate) Prop2/.keep
-      - Enact (Collaborate) Prop2/How to use the Class Group Forum?.md
-      - CUO Cluster Directory.md
+      - Enact (Personalise)/Example Title.md
       - Enact (Collaborate) Prop1/.keep
       - Enact (Collaborate) Prop1/About the Forum.md
+      - Enact (Collaborate) Prop2/.keep
+      - Enact (Collaborate) Prop2/How to use the Class Group Forum?.md
+      - Enact (Collaborate)/.keep
+      - Enact (Collaborate)/Example Title.md
+      - Assess (Assess)/.keep
+      - Assess (Assess)/Example Title.md
+      - Assess (Track Progress)/.keep
+      - Assess (Track Progress)/Example Title.md
+      - Administer (Publish)/.keep
+      - Administer (Publish)/Example Title.md
+      - Administer (Administer)/.keep
+      - Administer (Administer)/Example Title.md
+      - Administer (Develop)/.keep
+      - Administer (Develop)/Example Title.md
+      - Administer (Connect)/.keep
+      - Administer (Connect)/Example Title.md
+      - Administer (Extend)/.keep
+      - Administer (Extend)/Example Title.md
+      - Other Useful Information/.keep
+      - Other Useful Information/Example Title.md
+      - CUO Cluster Directory.md
