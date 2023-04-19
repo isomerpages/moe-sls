@@ -13,13 +13,13 @@ collections:
       - Organise (Notify)/.keep
       - Organise (Plan)/Example Title.md
       - Organise (Plan)/.keep
-      - Organise/.keep
-      - Organise/Discover.md
-      - Organise/Notify.md
-      - Organise/Plan.md
-      - Organise/Organise.md
-      - Organise/Self Study.md
-      - Organise/Customise.md
+      - Organise (Organise)/.keep
+      - Organise (Organise)/Discover.md
+      - Organise (Organise)/Notify.md
+      - Organise (Organise)/Plan.md
+      - Organise (Organise)/Organise.md
+      - Organise (Organise)/Self Study.md
+      - Organise (Organise)/Customise.md
       - Self Study/.keep
       - Customise/.keep
       - Author/.keep
