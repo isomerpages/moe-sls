@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Organise (Discover)/View Lesson Details.md
       - Organise (Discover)/View Print Friendly Worksheet.md
       - Organise (Discover)/Add Exisiting Activities from Resources.md
       - Organise (Discover)/Add Existing Components Resources.md
