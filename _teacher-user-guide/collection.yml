@@ -2,6 +2,10 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Organise (Discover)/.keep
+      - Organise (Discover)/Index.md
+      - Organise (Discover)/About the MOE Library.md
+      - Organise (Discover)/About the Community Gallery.md
       - Organise (Discover)/Search for Resources.md
       - Organise (Discover)/Leave Reviews.md
       - Organise (Discover)/Make a Copy of a Lesson.md
@@ -14,10 +18,6 @@ collections:
       - Organise (Discover)/Previously Whitelisted & Non Whitelisted Websites.md
       - Organise (Discover)/About My Subjects.md
       - Organise (Discover)/Follow or Unfollow Subjects.md
-      - Organise (Discover)/About the Community Gallery.md
-      - Organise (Discover)/Index.md
-      - Organise (Discover)/About the MOE Library.md
-      - Organise (Discover)/.keep
       - Organise (Notify)/Example Title.md
       - Organise (Notify)/.keep
       - Organise (Plan)/Example Title.md
