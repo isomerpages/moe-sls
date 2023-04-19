@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Discover/Follow or Unfollow Subjects.md
       - Discover/About the Community Gallery.md
       - Discover/Index.md
       - Discover/About the MOE Library.md
