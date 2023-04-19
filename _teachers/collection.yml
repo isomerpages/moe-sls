@@ -2,13 +2,13 @@ collections:
   teachers:
     output: true
     order:
-      - CUO Clusters Directory/.keep
-      - CUO Clusters Directory/Organise.md
-      - CUO Clusters Directory/Author.md
-      - CUO Clusters Directory/Enact.md
-      - CUO Clusters Directory/Assess.md
-      - CUO Clusters Directory/Administer.md
-      - CUO Clusters Directory/Other Useful Information.md
+      - User Guide CUO Clusters/.keep
+      - User Guide CUO Clusters/Organise.md
+      - User Guide CUO Clusters/Author.md
+      - User Guide CUO Clusters/Enact.md
+      - User Guide CUO Clusters/Assess.md
+      - User Guide CUO Clusters/Administer.md
+      - User Guide CUO Clusters/Other Useful Information.md
       - Teachers.md
       - Feature Highlights/.keep
       - Feature Highlights/Release Videos.md
