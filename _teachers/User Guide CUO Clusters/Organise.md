@@ -4,33 +4,36 @@ permalink: /teachers/cuo-clusters-directory/organise/
 description: ""
 third_nav_title: User Guide CUO Clusters
 ---
-Click on the following links to go to the respective page:
+## Organise
 
-#### [1. Organise (Discover)](../teacher-user-guide/organise/discover/)
+#### [1. Organise (Discover)](/teacher-user-guide/discover/index/)
 
 <details>
   <summary>
  Where to search for resources?</summary>
 
 * [About the MOE Library](/teacher-user-guide/discover/moelibrary)
-* [About the Community Gallery]()
-* [Search for Resources]()
-* [Leave Reviews]()
-* [Make a Copy of a Lesson]()
-* [View Lesson Details]()
-* [View Print-Friendly Worksheet]()
+* [About the Community Gallery](/teacher-user-guide/discover/communitygallery/)
+* [Search for Resources](/teacher-user-guide/organise-discover/searchresources/)
+* [Leave Reviews](/teacher-user-guide/organise-discover/leavereviews/)
+* [Make a Copy of a Lesson](/teacher-user-guide/organise-discover/makecopy/)
+* [View Lesson Details](/teacher-user-guide/organise-discover/viewlesson/)
+* [View Print-Friendly Worksheet](/teacher-user-guide/organise-discover/viewprint/)
 </details>
 	
-##### Where to search for resources?
-* [About the MOE Library](/teacher-user-guide/discover/moelibrary)
-* [About the Community Gallery]()
-* [Search for Resources]()
-* [Leave Reviews]()
-* [Make a Copy of a Lesson]()
-* [View Lesson Details]()
-* [View Print-Friendly Worksheet]()
+##### How to add Resources from Library?
+* <a href="/teacher-user-guide/organise-discover/addexistingactivities/" target="_blank">Add Exisiting Activities from Resources</a>
+* <a href="/teacher-user-guide/organise-discover/addexisting/" target="_blank">Add Exisiting Components Resources</a>
+* [Add Exisiting Media Objects from Resources]()
 
+##### What websites are whitelisted in SLS?
+*  <a href="/teacher-user-guide/organise-discover/viewexternal/" target="_blank">View External Resources</a>
+*  [Embed Whitelisted Websites](/teacher-user-guide/organise-discover/embedwhitelisted/)
+*  [Previously Whitelisted &amp; Non-Whitelisted Websites](/teacher-user-guide/discover/whitelistedwebsites/)
 
+##### What are My Subjects?
+*  <a href="/teacher-user-guide/discover/aboutsubjects/" target="_blank">About My Subjects</a>
+*  [Follow &amp; Unfollow Subjects](/teacher-user-guide/discover/followsubjects/)
 	
 
 
