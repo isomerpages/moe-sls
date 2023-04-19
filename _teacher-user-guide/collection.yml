@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Enact (Collaborate) Prop2/.keep
       - CUO Cluster Directory.md
       - Other Useful Information/.keep
       - Enact (Collaborate)   Rec/About the Forum.md
