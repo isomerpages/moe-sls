@@ -2,7 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
-      - ADminister/.keep
+      - Administer/.keep
       - Develop/.keep
       - Connect/.keep
       - Extend/.keep
