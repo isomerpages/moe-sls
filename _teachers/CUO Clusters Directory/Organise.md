@@ -6,7 +6,7 @@ third_nav_title: CUO Clusters Directory
 ---
 Click on the following links to go to the respective page:
 
-#### [1. Discover](../teacher-user-guide/organise/discover/)
+#### [1. Organise (Discover)](../teacher-user-guide/organise/discover/)
 
 ##### Where to search for resources?
 * [About the MOE Library](/teacher-user-guide/discover/moelibrary)
@@ -31,8 +31,8 @@ Click on the following links to go to the respective page:
 	
 	</details>
 
-2.  #### [Notify](../teacher-user-guide/organise/notify/)
-4.  #### [Plan](../teacher-user-guide/organise/plan/)
-5.  #### [Organise](../teacher-user-guide/organise/organise/)
-6.  #### [Self Study](../teacher-user-guide/organise/selfstudy/)
-7.  #### [Customise](../teacher-user-guide/organise/customise/)
+2.  #### [Organise (Notify)](../teacher-user-guide/organise/notify/)
+4.  #### [Organise (Plan)](../teacher-user-guide/organise/plan/)
+5.  #### [Organise (Organise)](../teacher-user-guide/organise/organise/)
+6.  #### [Organise (Self Study)](../teacher-user-guide/organise/selfstudy/)
+7.  #### [Organise (Customise)](../teacher-user-guide/organise/customise/)
