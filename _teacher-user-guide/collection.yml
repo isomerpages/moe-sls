@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Connect/.keep
       - Extend/.keep
       - Discover/.keep
       - Notify/.keep
