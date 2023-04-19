@@ -43,6 +43,7 @@ collections:
       - Assess (Track Progress)/.keep
       - Administer (Publish)/.keep
       - Administer (Administer)/.keep
+      - Administer (Develop)/Example Title.md
       - Administer (Develop)/.keep
       - Administer (Connect)/Example Title.md
       - Administer (Connect)/.keep
