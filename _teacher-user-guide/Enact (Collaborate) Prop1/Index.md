@@ -10,7 +10,7 @@ third_nav_title: Enact (Collaborate) Prop1
 * [About the Forum]()
 * [Change Forum Settings]()
 * [Post and Comment in the Forum]()
-2. How to Create Team Activities
+2. How to Create Team Activities?
 * [Create Team Activities]()
 * [Create Teams]()
 3. How can students collaborate in SLS?
