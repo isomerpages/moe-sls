@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Discover/Previously Whitelisted & Non Whitelisted Websites.md
       - Discover/About My Subjects.md
       - Discover/Follow or Unfollow Subjects.md
       - Discover/About the Community Gallery.md
