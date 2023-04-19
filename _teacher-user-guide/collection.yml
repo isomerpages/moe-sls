@@ -24,11 +24,11 @@ collections:
       - Organise (Self Study)/.keep
       - Organise (Customise)/Example Title.md
       - Organise (Customise)/.keep
-      - Author/.keep
-      - Author/About Lessons and Courses (Improved).md
-      - Author/Create a Lesson (New).md
-      - Author/Create a Course (New).md
-      - Author/About Lesson & Section Templates.md
+      - Author (Author)/.keep
+      - Author (Author)/About Lessons and Courses (Improved).md
+      - Author (Author)/Create a Lesson (New).md
+      - Author (Author)/Create a Course (New).md
+      - Author (Author)/About Lesson & Section Templates.md
       - Gamify/.keep
       - Assign/.keep
       - Enact/.keep
