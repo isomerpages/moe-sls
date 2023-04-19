@@ -2,6 +2,16 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Discover/.keep
+      - Notify/.keep
+      - Plan/.keep
+      - Organise/.keep
+      - Organise/Discover.md
+      - Organise/Notify.md
+      - Organise/Plan.md
+      - Organise/Organise.md
+      - Organise/Self Study.md
+      - Organise/Customise.md
       - Self Study/.keep
       - Customise/.keep
       - Author/.keep
@@ -24,16 +34,6 @@ collections:
       - Connect/.keep
       - Extend/.keep
       - Other Useful Information/.keep
-      - Discover/.keep
-      - Notify/.keep
-      - Plan/.keep
-      - Organise/.keep
-      - Organise/Discover.md
-      - Organise/Notify.md
-      - Organise/Plan.md
-      - Organise/Organise.md
-      - Organise/Self Study.md
-      - Organise/Customise.md
       - Enact (Collaborate) Prop2/.keep
       - Enact (Collaborate) Prop2/How to use the Class Group Forum?.md
       - CUO Cluster Directory.md
