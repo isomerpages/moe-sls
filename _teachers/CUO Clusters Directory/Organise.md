@@ -8,6 +8,19 @@ Click on the following links to go to the respective page:
 
 #### [1. Organise (Discover)](../teacher-user-guide/organise/discover/)
 
+<details>
+  <summary>
+ Where to search for resources?</summary>
+
+* [About the MOE Library](/teacher-user-guide/discover/moelibrary)
+* [About the Community Gallery]()
+* [Search for Resources]()
+* [Leave Reviews]()
+* [Make a Copy of a Lesson]()
+* [View Lesson Details]()
+* [View Print-Friendly Worksheet]()
+</details>
+	
 ##### Where to search for resources?
 * [About the MOE Library](/teacher-user-guide/discover/moelibrary)
 * [About the Community Gallery]()
@@ -17,19 +30,9 @@ Click on the following links to go to the respective page:
 * [View Lesson Details]()
 * [View Print-Friendly Worksheet]()
 
-<details>
-  <summary>
- Where to search for resources?</summary>
+
 	
-* [About the MOE Library](/teacher-user-guide/discover/moelibrary)
-* [About the Community Gallery]()
-* [Search for Resources]()
-* [Leave Reviews]()
-* [Make a Copy of a Lesson]()
-* [View Lesson Details]()
-* [View Print-Friendly Worksheet]()
-	
-	</details>
+
 
 2.  #### [Organise (Notify)](../teacher-user-guide/organise/notify/)
 4.  #### [Organise (Plan)](../teacher-user-guide/organise/plan/)
