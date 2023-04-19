@@ -2,15 +2,9 @@ collections:
   teacher-user-guide:
     output: true
     order:
-      - Plan/.keep
-      - Notify/.keep
       - Discover/.keep
-      - Enact (Collaborate) Prop2/How to use the Class Group Forum?.md
-      - Enact (Collaborate) Prop2/.keep
-      - CUO Cluster Directory.md
-      - Other Useful Information/.keep
-      - Enact (Collaborate) Prop1/About the Forum.md
-      - Enact (Collaborate) Prop1/.keep
+      - Notify/.keep
+      - Plan/.keep
       - Organise/.keep
       - Organise/Discover.md
       - Organise/Notify.md
@@ -25,3 +19,9 @@ collections:
       - Author/About Lesson & Section Templates.md
       - Assess/.keep
       - Assess/Example Title.md
+      - Enact (Collaborate) Prop2/.keep
+      - Enact (Collaborate) Prop2/How to use the Class Group Forum?.md
+      - CUO Cluster Directory.md
+      - Other Useful Information/.keep
+      - Enact (Collaborate) Prop1/.keep
+      - Enact (Collaborate) Prop1/About the Forum.md
