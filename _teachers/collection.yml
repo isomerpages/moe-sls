@@ -2,6 +2,7 @@ collections:
   teachers:
     output: true
     order:
+      - CUO Clusters Directory/Assess.md
       - CUO Clusters Directory/Administer.md
       - CUO Clusters Directory/Other Useful Information.md
       - CUO Clusters Directory/Enact.md
