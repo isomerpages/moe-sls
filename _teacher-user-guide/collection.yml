@@ -45,6 +45,7 @@ collections:
       - Administer (Administer)/.keep
       - Administer (Develop)/.keep
       - Administer (Connect)/.keep
+      - Administer (Extend)/Example Title.md
       - Administer (Extend)/.keep
       - Other Useful Information/Example Title.md
       - Other Useful Information/.keep
