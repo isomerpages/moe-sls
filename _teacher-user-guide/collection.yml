@@ -2,13 +2,13 @@ collections:
   teacher-user-guide:
     output: true
     order:
-      - Discover/Previously Whitelisted & Non Whitelisted Websites.md
-      - Discover/About My Subjects.md
-      - Discover/Follow or Unfollow Subjects.md
-      - Discover/About the Community Gallery.md
-      - Discover/Index.md
-      - Discover/About the MOE Library.md
-      - Discover/.keep
+      - Organise (Discover)/Previously Whitelisted & Non Whitelisted Websites.md
+      - Organise (Discover)/About My Subjects.md
+      - Organise (Discover)/Follow or Unfollow Subjects.md
+      - Organise (Discover)/About the Community Gallery.md
+      - Organise (Discover)/Index.md
+      - Organise (Discover)/About the MOE Library.md
+      - Organise (Discover)/.keep
       - Notify/.keep
       - Plan/.keep
       - Organise/.keep
