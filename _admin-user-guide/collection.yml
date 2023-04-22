@@ -2,6 +2,7 @@ collections:
   admin-user-guide:
     output: true
     order:
+      - Administer (Administer)/Index.md
       - Administer (Administer)/Activate Teacher Account.md
       - Administer (Administer)/Prepare Student Accounts through School
         Cockpit.md
