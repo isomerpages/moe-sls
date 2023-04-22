@@ -2,7 +2,6 @@ collections:
   student-user-guide:
     output: true
     order:
-      - Enact (Collaborate)/.keep
       - Discover/.keep
       - Discover/Example Title.md
       - Notify/.keep
@@ -18,6 +17,7 @@ collections:
       - Gamify/Example Title.md
       - Assign/.keep
       - Assign/Example Title.md
+      - Enact (Collaborate)/.keep
       - Assess/.keep
       - Assess/Example Title.md
       - Track Progress/.keep
