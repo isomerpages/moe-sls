@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Administer (Administer)/.keep
+      - Administer (Publish)/Index.md
       - Administer (Publish)/Create MOE Library Resources.md
       - Administer (Publish)/Manage Lessons.md
       - Administer (Publish)/Manage Media.md
