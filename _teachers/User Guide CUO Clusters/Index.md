@@ -15,7 +15,6 @@ Placeholder Image
 * #### Notify
 *  #### Plan
 *  #### Organise
-*  #### Self Study
 *  #### Customise
 
 ## [Author](/teachers/cuo-clusters-directory/author/)
@@ -34,10 +33,6 @@ Placeholder Image
 
 ## [Administer](/teachers/cuo-clusters-directory/administer/)
 * #### Publish
-* #### Administer
-* #### Develop
-* #### Connect
-* #### Extend
 
 ## [Other Useful Information](/teachers/cuo-clusters-directory/otheruseful/)
 * #### Other Useful Information
