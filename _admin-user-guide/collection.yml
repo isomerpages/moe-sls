@@ -4,5 +4,6 @@ collections:
     order:
       - Administer (Administer)/.keep
       - Administer (Publish)/.keep
+      - Organise (Notify)/Manage Content Maps.md
       - Organise (Notify)/.keep
       - Code shortcuts.md
