@@ -4,6 +4,7 @@ collections:
     order:
       - Organise (Discover)/.keep
       - Organise (Discover)/Example Title.md
+      - Organise (Notify)/About Notifications (New).md
       - Organise (Notify)/View Notifications (New).md
       - Organise (Notify)/.keep
       - Organise (Plan)/.keep
