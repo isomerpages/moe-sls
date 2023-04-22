@@ -2,6 +2,7 @@ collections:
   admin-user-guide:
     output: true
     order:
+      - Administer (Administer)/Verification Exercise.md
       - Administer (Administer)/Manage Subjects (For Schools Not Using School
         Cockpit).md
       - Administer (Administer)/Manage Class Groups.md
