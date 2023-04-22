@@ -2,9 +2,9 @@ collections:
   admin-user-guide:
     output: true
     order:
+      - Administer (Administer)/.keep
       - Organise (Notify)/.keep
       - Administer (Publish)/.keep
-      - Administer (Administer)/.keep
       - Manage Users.md
       - Code shortcuts.md
       - Example Title.md
