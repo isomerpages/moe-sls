@@ -2,6 +2,8 @@ collections:
   admin-user-guide:
     output: true
     order:
+      - Administer (Administer)/Prepare Student Accounts through School
+        Cockpit.md
       - Administer (Administer)/Inform Parents of Student SLS IDs.md
       - Administer (Administer)/Initiate Student Account Activation.md
       - Administer (Administer)/Monitor Student Activation.md
