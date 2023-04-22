@@ -4,6 +4,7 @@ collections:
     order:
       - Administer (Administer)/.keep
       - Administer (Publish)/.keep
+      - Organise (Notify)/Manage School Announcements (Enhanced).md
       - Organise (Notify)/Index.md
       - Organise (Notify)/Create MOE Library Resources.md
       - Organise (Notify)/Manage Lessons.md
