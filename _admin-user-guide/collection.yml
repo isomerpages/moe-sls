@@ -2,6 +2,7 @@ collections:
   admin-user-guide:
     output: true
     order:
+      - Administer (Administer)/Generate Reports.md
       - Administer (Administer)/.keep
       - Administer (Publish)/Index.md
       - Administer (Publish)/Create MOE Library Resources.md
