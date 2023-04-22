@@ -2,6 +2,7 @@ collections:
   admin-user-guide:
     output: true
     order:
+      - Administer (Administer)/Monitor Student Activation.md
       - Administer (Administer)/Reset Passwords.md
       - Administer (Administer)/Unlock Account.md
       - Administer (Administer)/About Manage Users.md
