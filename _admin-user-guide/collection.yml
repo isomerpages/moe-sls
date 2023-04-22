@@ -2,6 +2,7 @@ collections:
   admin-user-guide:
     output: true
     order:
+      - Administer (Administer)/Reset Passwords.md
       - Administer (Administer)/Unlock Account.md
       - Administer (Administer)/About Manage Users.md
       - Administer (Administer)/Export Full User List.md
