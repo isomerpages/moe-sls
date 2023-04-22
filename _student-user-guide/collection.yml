@@ -2,8 +2,8 @@ collections:
   student-user-guide:
     output: true
     order:
-      - Discover/.keep
-      - Discover/Example Title.md
+      - Organise (Discover)/.keep
+      - Organise (Discover)/Example Title.md
       - Notify/.keep
       - Notify/Example Title.md
       - Plan/.keep
