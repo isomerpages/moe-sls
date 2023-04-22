@@ -3,8 +3,8 @@ collections:
     output: true
     order:
       - Administer (Administer)/.keep
-      - Organise (Notify)/.keep
       - Administer (Publish)/.keep
+      - Organise (Notify)/.keep
       - Manage Users.md
       - Code shortcuts.md
       - Example Title.md
