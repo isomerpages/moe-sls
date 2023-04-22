@@ -112,6 +112,8 @@ collections:
       - Author (Author)/Copyright FAQs.md
       - Author (Author)/Email Template for Copyright Clearance.md
       - Author (Author)/.keep
+      - Author (Gamify)/.keep
+      - Author (Gamify)/Example Title.md
       - Author (Gamify)/About Gamification.md
       - Author (Gamify)/Manage Gamification Settings.md
       - Author (Gamify)/Create Game Teams.md
@@ -119,8 +121,6 @@ collections:
       - Author (Gamify)/Award XP, Game Story and Achievements Manually.md
       - Author (Gamify)/About Leaderboard.md
       - Author (Gamify)/Display Leaderboard for Students (Improved).md
-      - Author (Gamify)/.keep
-      - Author (Gamify)/Example Title.md
       - Enact (Assign)/.keep
       - Enact (Assign)/Example Title.md
       - Enact (Enact)/.keep
