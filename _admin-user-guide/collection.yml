@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Administer (Administer)/.keep
+      - Administer (Publish)/Manage Owner Groups.md
       - Administer (Publish)/Manage Content Maps.md
       - Administer (Publish)/.keep
       - Organise (Notify)/Manage School Announcements (Enhanced).md
