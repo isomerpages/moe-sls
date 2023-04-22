@@ -171,6 +171,8 @@ collections:
       - Enact (Collaborate) Prop2/How to coauthor lessons with teachers?.md
       - Enact (Collaborate)/.keep
       - Enact (Collaborate)/Index.md
+      - Assess (Assess)/.keep
+      - Assess (Assess)/Example Title.md
       - Assess (Assess)/Add and Edit Quizzes (New).md
       - Assess (Assess)/Set Assignments as Assessments.md
       - Assess (Assess)/Add & View Passcodes.md
@@ -185,8 +187,6 @@ collections:
       - Assess (Assess)/Mark Teacher Marked Quizzes.md
       - Assess (Assess)/Release Teacher Marked Quizzes.md
       - Assess (Assess)/Unsubmit Teacher Marked Quizzes.md
-      - Assess (Assess)/.keep
-      - Assess (Assess)/Example Title.md
       - Assess (Track Progress)/.keep
       - Assess (Track Progress)/Example Title.md
       - Administer (Publish)/.keep
