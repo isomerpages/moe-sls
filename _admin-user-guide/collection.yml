@@ -2,6 +2,8 @@ collections:
   admin-user-guide:
     output: true
     order:
+      - Administer (Administer)/Manage Subjects (For Schools Not Using School
+        Cockpit).md
       - Administer (Administer)/Manage Class Groups.md
       - Administer (Administer)/Generate Reports.md
       - Administer (Administer)/.keep
