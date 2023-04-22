@@ -2,6 +2,7 @@ collections:
   admin-user-guide:
     output: true
     order:
+      - Administer (Administer)/Manage Class Groups.md
       - Administer (Administer)/Generate Reports.md
       - Administer (Administer)/.keep
       - Administer (Publish)/Index.md
