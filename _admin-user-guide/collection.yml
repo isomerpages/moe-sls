@@ -4,6 +4,7 @@ collections:
     order:
       - Administer (Administer)/.keep
       - Administer (Publish)/.keep
+      - Organise (Notify)/Manage Lessons.md
       - Organise (Notify)/Manage Media.md
       - Organise (Notify)/Generate CCPM Reports (New).md
       - Organise (Notify)/Manage Owner Groups.md
