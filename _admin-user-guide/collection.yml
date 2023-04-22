@@ -2,6 +2,7 @@ collections:
   admin-user-guide:
     output: true
     order:
+      - Administer (Administer)/.keep
       - Manage Users.md
       - Code shortcuts.md
       - Example Title.md
