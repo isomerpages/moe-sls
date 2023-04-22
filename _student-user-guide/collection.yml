@@ -2,7 +2,6 @@ collections:
   student-user-guide:
     output: true
     order:
-      - Organise (Customise)/.keep
       - Discover/.keep
       - Discover/Example Title.md
       - Notify/.keep
@@ -13,11 +12,12 @@ collections:
       - Organise/Example Title.md
       - Self Study/.keep
       - Self Study/Example Title.md
-      - Track Progress/.keep
-      - Track Progress/Example Title.md
+      - Organise (Customise)/.keep
+      - Gamify/.keep
+      - Gamify/Example Title.md
       - Assign/.keep
       - Assign/Example Title.md
       - Assess/.keep
       - Assess/Example Title.md
-      - Gamify/.keep
-      - Gamify/Example Title.md
+      - Track Progress/.keep
+      - Track Progress/Example Title.md
