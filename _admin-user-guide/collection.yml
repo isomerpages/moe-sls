@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Administer (Administer)/.keep
+      - Administer (Publish)/Generate CCPM Reports (New).md
       - Administer (Publish)/Manage Owner Groups.md
       - Administer (Publish)/Manage Content Maps.md
       - Administer (Publish)/.keep
