@@ -2,6 +2,7 @@ collections:
   admin-user-guide:
     output: true
     order:
+      - Administer (Administer)/Inform Parents of Student SLS IDs.md
       - Administer (Administer)/Initiate Student Account Activation.md
       - Administer (Administer)/Monitor Student Activation.md
       - Administer (Administer)/Reset Passwords.md
