@@ -2,6 +2,7 @@ collections:
   student-user-guide:
     output: true
     order:
+      - Organise (Discover)/About App Library.md
       - Organise (Discover)/Access App Library.md
       - Organise (Discover)/.keep
       - Organise (Notify)/Index.md
