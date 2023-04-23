@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Organise (Discover)/.keep
-      - Organise (Discover)/Example Title.md
       - Organise (Notify)/Index.md
       - Organise (Notify)/About Notifications (New).md
       - Organise (Notify)/View Notifications (New).md
