@@ -2,6 +2,7 @@ collections:
   student-user-guide:
     output: true
     order:
+      - Organise (Discover)/Attempt Self Study Resources (New).md
       - Organise (Discover)/Search for Resources (New).md
       - Organise (Discover)/About App Library.md
       - Organise (Discover)/Access App Library.md
