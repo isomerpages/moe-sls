@@ -34,12 +34,12 @@ Title 1
 <li><img style="width:5%; display: inline;" src="/images/Assets/Bell16.svg"></li>
 <li>Example 3</li>
 </ul>
-	</details>		
+</details>		
 </ul>
-	</details>		
+</details>		
 </ul>
-	</details>		
-		</details>		
+</details>		
+</details>		
 	<br>
 	
 ## [Organise](/teachers/cuo-clusters-directory/organise/)
