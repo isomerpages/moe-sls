@@ -9,16 +9,37 @@ third_nav_title: User Guide CUO Clusters
 Placeholder Image
 
 ![](/images/favicon-isomer.ico)
-<p>
-</p><h3><details><summary>H 1</summary><p></p>
-	 
-1. Discovery
-<details><summary> Title 1</summary>	</details>		
-2. Notify
-	
-3. Plan
+
+<p></p><h3><details><summary>H 1</summary><p></p>
+Title 1
+<details><summary>Subtitle 1</summary>	
+	<ul>
+<li>Example 1</li>
+<li>Example 2</li>
+<li>Example 3</li>
+</ul>
 	</details>		
-	
+		</details>		
+		
+<p></p></h3><h3><details><summary>H 1</summary><p></p>
+Title 1
+<details><summary>Subtitle 1</summary>	
+	<ul>
+<details><summary>Subsubtitle 1</summary>	
+	<ul>
+<details><summary>Subsubsubtitle 1</summary>	
+	<ul>
+<li><img style="width:50px; display: inline;" src="/images/favicon-isomer.ico">
+</li>
+<li><img style="width:5%; display: inline;" src="/images/Assets/Bell16.svg"></li>
+<li>Example 3</li>
+</ul>
+	</details>		
+</ul>
+	</details>		
+</ul>
+	</details>		
+		</details>		
 	
 ## [Organise](/teachers/cuo-clusters-directory/organise/)
 * #### Discover
