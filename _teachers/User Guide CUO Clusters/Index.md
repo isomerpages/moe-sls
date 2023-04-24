@@ -9,15 +9,15 @@ third_nav_title: User Guide CUO Clusters
 Placeholder Image
 
 ![](/images/favicon-isomer.ico)
-
-<details><summary> Organise
-	</summary>
+<p>
+</p><h1><details><summary>H 1</summary><p></p>
+	 
 1. Discovery
-	
+<details><summary> Title 1</summary>	</details>		
 2. Notify
 	
 3. Plan
-</details>
+	</details>		
 	
 	
 ## [Organise](/teachers/cuo-clusters-directory/organise/)
@@ -45,4 +45,4 @@ Placeholder Image
 * #### Publish
 
 ## [Other Useful Information](/teachers/cuo-clusters-directory/otheruseful/)
-* #### Other Useful Information
+* #### Other Useful Information</h1>
