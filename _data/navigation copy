@@ -1,0 +1,25 @@
+logo: /images/Assets/LogoSecondaryLight.svg
+links:
+  - title: Latest News
+    resource_room: true
+  - title: Students
+    collection: students
+  - title: Teachers
+    collection: teachers
+  - title: Partners
+    collection: partners
+  - title: User Guides
+    url: /userguides
+    sublinks:
+      - title: Students UG
+        url: /student-user-guide/organise-discover/index/
+      - title: Teachers UG
+        url: /teacher-user-guide/discover/index/
+      - title: Admin UG
+        url: /admin-user-guide/administer-administer/index/
+      - title: Login Troubleshooting UG
+        url: /login-troubleshooting/SchoolBasedHelpline/
+  - title: About SLS
+    collection: about-sls
+  - title: Login to SLS
+    url: https://vle.learning.moe.edu.sg/login
