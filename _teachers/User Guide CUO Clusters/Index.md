@@ -10,7 +10,7 @@ Placeholder Image
 
 ![](/images/favicon-isomer.ico)
 
-<p></p><h3><details><summary>H 1</summary><p></p>
+<p></p><h3><details><summary>H 1</summary></details></h3><p></p>
 Title 1
 <details><summary>Subtitle 1</summary>	
 	<ul>
@@ -19,9 +19,9 @@ Title 1
 <li>Example 3</li>
 </ul>
 	</details>		
-		</details>		
+				
 		
-<p></p></h3><h3><details><summary>H 1</summary><p></p>
+<p></p><h3><details><summary>H 1</summary><p></p>
 Title 1
 <details><summary>Subtitle 1</summary>	
 	<ul>
