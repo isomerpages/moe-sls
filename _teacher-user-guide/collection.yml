@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Organise (Discover)/.keep
-      - Organise (Discover)/Index (New).md
+      - Organise (Discover)/Index.md
       - Organise (Discover)/About the MOE Library.md
       - Organise (Discover)/About the Community Gallery.md
       - Organise (Discover)/Search for Resources.md
