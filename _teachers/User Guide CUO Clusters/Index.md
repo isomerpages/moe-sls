@@ -10,7 +10,7 @@ Placeholder Image
 
 ![](/images/favicon-isomer.ico)
 <p>
-</p><h1><details><summary>H 1</summary><p></p>
+</p><h3><details><summary>H 1</summary><p></p>
 	 
 1. Discovery
 <details><summary> Title 1</summary>	</details>		
@@ -45,4 +45,4 @@ Placeholder Image
 * #### Publish
 
 ## [Other Useful Information](/teachers/cuo-clusters-directory/otheruseful/)
-* #### Other Useful Information</h1>
+* #### Other Useful Information</h3>
