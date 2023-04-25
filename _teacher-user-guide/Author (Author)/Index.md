@@ -19,12 +19,12 @@ third_nav_title: Author (Author)
 * <a href="/teacher-user-guide/author-author/addedit/" target="_blank">Add and Edit Components (Enhanced)</a>
 * <a href="/teacher-user-guide/author-author/adddisplay/" target="_blank">Add Display (New)</a>
 * <a href="/teacher-user-guide/author-author/addmultiple/" target="_blank">Add Multiple Choice Questions</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Add Fill in the Blank Questions</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Add Click and Drop Questions</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Add Error Editing Questions</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">AAdd Audio Response Questions</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Add Multi Part Questions</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Upload Question and Test Interoperability (QTI) Files</a>
+* <a href="/teacher-user-guide/author-author/addfill/" target="_blank">Add Fill in the Blank Questions</a>
+* <a href="/teacher-user-guide/author-author/addclick/" target="_blank">Add Click and Drop Questions</a>
+* <a href="/teacher-user-guide/author-author/adderror/" target="_blank">Add Error Editing Questions</a>
+* <a href="/teacher-user-guide/author-author/addaudio/" target="_blank">Add Audio Response Questions</a>
+* <a href="/teacher-user-guide/author-author/addmulti/" target="_blank">Add Multi Part Questions</a>
+* <a href="/teacher-user-guide/author-author/uploadquestion/" target="_blank">Upload Question and Test Interoperability (QTI) Files</a>
 * <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Add Rubrics to Audio and Free Response Questions</a>
 
 ##### 3. Rich Text
