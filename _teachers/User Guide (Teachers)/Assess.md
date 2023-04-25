@@ -13,8 +13,6 @@ third_nav_title: User Guide (Teachers)
 1. Quizzes
 	
 * [Add and Edit Quizzes (New)](https://www.notion.so/Add-and-Edit-Quizzes-New-b868eb6f0d6a4c378fd1bc9f4d88014a)
-
-* [Add and Edit Quizzes (New) (V Edit)](https://www.notion.so/Add-and-Edit-Quizzes-New-V-Edit-f25acb1b696745c7a8fc2c18c528d15e)
 	
 2. Assessments
 	
