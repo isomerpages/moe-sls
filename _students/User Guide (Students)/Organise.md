@@ -6,39 +6,111 @@ third_nav_title: User Guide (Students)
 ---
 ## Organise
 
-#### [1. Organise (Discover)](/teacher-user-guide/discover/index/)
+### [1. Organise (Discover)](/teacher-user-guide/discover/index/)
 
-<details>
-  <summary>
- Where to search for resources?</summary>
+#### Where to find self-study resources?
 
-* [About the MOE Library](/teacher-user-guide/discover/moelibrary)
-* [About the Community Gallery](/teacher-user-guide/discover/communitygallery/)
-* [Search for Resources](/teacher-user-guide/organise-discover/searchresources/)
-* [Leave Reviews](/teacher-user-guide/organise-discover/leavereviews/)
-* [Make a Copy of a Lesson](/teacher-user-guide/organise-discover/makecopy/)
-* [View Lesson Details](/teacher-user-guide/organise-discover/viewlesson/)
-* [View Print-Friendly Worksheet](/teacher-user-guide/organise-discover/viewprint/)
-</details>
-	
-##### How to add Resources from Library?
-* <a href="/teacher-user-guide/organise-discover/addexistingactivities/" target="_blank">Add Exisiting Activities from Resources</a>
-* <a href="/teacher-user-guide/organise-discover/addexisting/" target="_blank">Add Exisiting Components Resources</a>
-* [Add Exisiting Media Objects from Resources]()
+* [About Self-Study Resources (New)](https://www.notion.so/About-Self-Study-Resources-New-ba3327e653f34034ad34bd25633af58a)
 
-##### What websites are whitelisted in SLS?
-*  <a href="/teacher-user-guide/organise-discover/viewexternal/" target="_blank">View External Resources</a>
-*  [Embed Whitelisted Websites](/teacher-user-guide/organise-discover/embedwhitelisted/)
-*  [Previously Whitelisted &amp; Non-Whitelisted Websites](/teacher-user-guide/discover/whitelistedwebsites/)
+* [Access Self-Study Resources (New)](https://www.notion.so/Access-Self-Study-Resources-New-90f3de040d2b4004b466bce49b6b1920)
 
-##### What are My Subjects?
-*  <a href="/teacher-user-guide/discover/aboutsubjects/" target="_blank">About My Subjects</a>
-*  [Follow &amp; Unfollow Subjects](/teacher-user-guide/discover/followsubjects/)
-	
+* [Attempt Self-Study Resources (New)](https://www.notion.so/Attempt-Self-Study-Resources-New-ce320c72330b4c558d9e2ea6259aa099)
+
+* [Search for Resources (New)](https://www.notion.so/Search-for-Resources-New-4491f3970e9142728ca43510f1572b89)
+
+#### How to use App Library?
+
+* [About App Library](https://www.notion.so/About-App-Library-e1ea09b0abe347429dad490b3f52387e)
+
+* [Access App Library](https://www.notion.so/Access-App-Library-50df2797f337499cb373d976ed1e7b25)
+
+### [2. Organise (Notify)](../teacher-user-guide/organise/notify/)
+
+#### What are Notifications? (New)
+
+* [About Notifications (New)](https://www.notion.so/About-Notifications-New-2cbb1b3c875e42638a257c0fef32a960)
+
+* [View Notifications (New)](https://www.notion.so/View-Notifications-New-7e5a0c20fb91454cba158aba6be15e6f)
 
 
-2.  #### [Organise (Notify)](../teacher-user-guide/organise/notify/)
-4.  #### [Organise (Plan)](../teacher-user-guide/organise/plan/)
-5.  #### [Organise (Organise)](../teacher-user-guide/organise/organise/)
-6.  #### [Organise (Self Study)](../teacher-user-guide/organise/selfstudy/)
-7.  #### [Organise (Customise)](../teacher-user-guide/organise/customise/)
+### [3. Organise (Plan)](../teacher-user-guide/organise/plan/)
+
+#### How to use SLS Planner?
+
+* [About Planner (New)](https://www.notion.so/About-Planner-New-24a3ad25ba3f44acb6645d9c91b777d2)
+
+### [4. Organise (Organise)](../teacher-user-guide/organise/organise/)
+
+#### How to access Class Groups?
+
+* [Access Class Groups ](https://www.notion.so/Access-Class-Groups-80e7d028a0174ff3be9a96a59fb0c8a3)
+
+* [Pin Class Groups (Enhanced)](https://www.notion.so/Pin-Class-Groups-Enhanced-60046a9563b64c429ca5b09452cfbd78)
+
+* [Access Past Class Groups](https://www.notion.so/Access-Past-Class-Groups-10d92c314a0f4b2fb19c9b5711e48e25)
+
+#### How to organise My Drive?
+
+* [Search in My Drive](https://www.notion.so/Search-in-My-Drive-615058454d3c4168a8c4c30d78f788ab)
+
+* [Create New Folders](https://www.notion.so/Create-New-Folders-4a1e9822f04a42c4b76730cae67ee7ef)
+
+* [Organise My Drive](https://www.notion.so/Organise-My-Drive-b4e38ee1221145d396fd9a3230c39cbc)
+
+* [Move Resources to Trash](https://www.notion.so/Move-Resources-to-Trash-0e4680d17e96409193095612e1defc25)
+
+* [Restore Resources from Trash](https://www.notion.so/Restore-Resources-from-Trash-6321ee12cd0b4e62af7aa416558c6c51)
+
+* [Delete Resources Permanently](https://www.notion.so/Delete-Resources-Permanently-09ba5c50a406457e82838275350ac296)
+
+#### How to star resources?
+
+* [About Starred Resources](https://www.notion.so/About-Starred-Resources-2ffaa00b740749d691094c6bfe90d3de)
+
+* [Star Resources](https://www.notion.so/Star-Resources-428ae0a7460343dab96ef042e4826d9b)
+
+#### What are My Subjects?
+
+* [About My Subjects](https://www.notion.so/About-My-Subjects-18db7a7db85a47069a57b2782d4e2393)
+
+* [Follow & Unfollow Subjects](https://www.notion.so/Follow-Unfollow-Subjects-c4682431eba444c99f40105769cd5827)
+
+#### How to organise self-study resources?
+
+* [View Print-Friendly Worksheet](https://www.notion.so/View-Print-Friendly-Worksheet-786df90b43244739957011861d19c28a)
+
+* [Copy to My Drive](https://www.notion.so/Copy-to-My-Drive-11b20088b3c341998b8b66e92215ae47)
+
+### [5. Organise (Self Study)](../teacher-user-guide/organise/selfstudy/)
+
+#### How to use Adaptive Learning? 
+
+* [About Adaptive Learning System (ALS)](https://www.notion.so/About-Adaptive-Learning-System-ALS-Remove-New-in-R18-9583340184304d8ab5d345cfc31c5e65)
+
+* [Access Adaptive Learning System (ALS)](https://www.notion.so/Access-Adaptive-Learning-System-ALS-Remove-New-in-R18-9fe2e924206743b5af8cc0eabaefbdb3)
+
+#### How to make Notes and Annotations?
+
+* [Annotate Text within Activities](https://www.notion.so/Annotate-Text-within-Activities-a2b513db074f4fa697765a2817230edc)
+
+* [Add Notes to Images](https://www.notion.so/Add-Notes-to-Images-5f6cd49cfef347da91d54d8324530b9d)
+
+* [View Notes](https://www.notion.so/View-Notes-c1008dc4895e497c80413e6f1b526fbf)
+
+* [Comments on Notes](https://www.notion.so/Comments-on-Notes-69cd155feb5e4c72902e2907418c0194)
+
+### [6. Organise (Customise)](../teacher-user-guide/organise/customise/)
+
+#### How to manage my SLS account?
+
+* [Customise an Avatar](https://www.notion.so/Customise-an-Avatar-5fff8f1041904eb1991be15106db9bf9)
+
+* [Set Password Reset Email Address](https://www.notion.so/Set-Password-Reset-Email-Address-40bebaecb9a54ec5a1586f3203b41e91)
+
+* [Set Email Notifications (New)](https://www.notion.so/Set-Email-Notifications-New-19bb6750954a4170932d3aea0c698b5c)
+
+* [Manage Linked Account](https://www.notion.so/Manage-Linked-Account-3ba03c957a774c26bee2af7113a05c1a)
+
+* [Change Password](https://www.notion.so/Change-Password-80abe207af2d4ddb9bd06ce96ff49bef)
+
+* [Update Answers to Security Questions](https://www.notion.so/Update-Answers-to-Security-Questions-ed700a5b906d4ec4917830adf5ced4c8)
