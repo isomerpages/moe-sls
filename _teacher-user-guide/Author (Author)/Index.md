@@ -11,9 +11,9 @@ third_nav_title: Author (Author)
 * <a href="/teacher-user-guide/author-author/createlessons/" target="_blank">Create Lessons (New)</a>
 
 ##### 1. Activities and Templates
-* About Templates
-* Add New using Templates
-* Add and Edit Activities &amp; Sections (Enhanced)
+* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">About Templates</a>
+* <a href="/teacher-user-guide/author-author/addtemplates/" target="_blank">Add New using Templates</a>
+* <a href="/teacher-user-guide/author-author/addactivities/" target="_blank">Add and Edit Activities &amp; Sections (Enhanced)</a>
 
 #####  2. Component
 * Add and Edit Components (Enhanced)
