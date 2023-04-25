@@ -5,17 +5,18 @@ description: ""
 third_nav_title: Author (Author)
 ---
 ## Author (Author)
+
 * <a href="/teacher-user-guide/author-author/aboutlessons/" target="_blank">About Lessons (Enhanced)</a>
 
 ### How to create Lessons?
 * <a href="/teacher-user-guide/author-author/createlessons/" target="_blank">Create Lessons (New)</a>
 
-##### 1. Activities and Templates
+<details><summary><h4>1. Activities and Templates</h4></summary>
 * <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">About Templates</a>
 * <a href="/teacher-user-guide/author-author/addtemplates/" target="_blank">Add New using Templates</a>
 * <a href="/teacher-user-guide/author-author/addactivities/" target="_blank">Add and Edit Activities &amp; Sections (Enhanced)</a>
-
-#####  2. Component
+</details>
+<details><summary><h4>2. Component</h4></summary>
 * <a href="/teacher-user-guide/author-author/addedit/" target="_blank">Add and Edit Components (Enhanced)</a>
 * <a href="/teacher-user-guide/author-author/adddisplay/" target="_blank">Add Display (New)</a>
 * <a href="/teacher-user-guide/author-author/addmultiple/" target="_blank">Add Multiple Choice Questions</a>
@@ -26,8 +27,9 @@ third_nav_title: Author (Author)
 * <a href="/teacher-user-guide/author-author/addmulti/" target="_blank">Add Multi Part Questions</a>
 * <a href="/teacher-user-guide/author-author/uploadquestion/" target="_blank">Upload Question and Test Interoperability (QTI) Files</a>
 * <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Add Rubrics to Audio and Free Response Questions</a>
+</details>
 
-##### 3. Rich Text
+<details><summary><h4>3. Rich Text</h4></summary>
 * <a href="/teacher-user-guide/author-author/aboutrich/" target="_blank">About Rich Text Editor (Enhanced)</a>
 * <a href="/teacher-user-guide/author-author/formatting/" target="_blank">Formatting &amp; Paragraphing</a>
 * <a href="/teacher-user-guide/author-author/inserttables/" target="_blank">Insert Tables</a>
@@ -42,8 +44,9 @@ third_nav_title: Author (Author)
 * <a href="/teacher-user-guide/author-author/textspeech/" target="_blank">Text to Speech (TTS)</a>
 * <a href="/teacher-user-guide/author-author/speechevaluation/" target="_blank">Speech Evaluation (Enhanced)</a>
 * <a href="/teacher-user-guide/author-author/localisation/" target="_blank">Localisation and eDictionary</a>
+</details>
 
-### More about Lessons
+<details><summary><h4>4. More about Lessons</h4></summary>
 <ul>
   <li><a href="/teacher-user-guide/author-author/editlessons/" target="_blank">Edit Lessons</a></li>
   <li><a href="/teacher-user-guide/author-author/movelessons/" target="_blank">Move Lessons to Trash</a></li>
@@ -54,8 +57,9 @@ third_nav_title: Author (Author)
   <li><a href="/teacher-user-guide/author-author/editdetails/" target="_blank">Edit Detail cards (New)</a></li>
   <li><a href="/teacher-user-guide/author-author/filesize/" target="_blank">File Size Limits</a></li>
 </ul>
+</details>
 
-<details><summary><h3>What are the copyright guidelines for resources?</h3></summary>
+<details><summary><h4>5. What are the copyright guidelines for resources?</h4></summary>
 <ul>
   <li><a href="/teacher-user-guide/author-author/resources/" target="_blank">Resources</a></li>
   <li><a href="/teacher-user-guide/author-author/copyrightfaqs/" target="_blank">Copyright FAQs</a></li>
