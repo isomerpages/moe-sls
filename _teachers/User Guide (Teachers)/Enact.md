@@ -6,7 +6,7 @@ third_nav_title: User Guide (Teachers)
 ---
 ## Enact
 
-#### [1. Enact (Assign)](/teacher-user-guide/discover/index/)
+### [1. Enact (Assign)](/teacher-user-guide/discover/index/)
 
 <details><summary><h4> How to complete Assignments?</h4></summary>
 <details><summary><h5> How to access my Assignments?</h5></summary>
@@ -75,4 +75,18 @@ third_nav_title: User Guide (Teachers)
 </details>	
 </details>
 
-#### [2. Enact (Collaborate)](/teacher-user-guide/discover/index/)
+### [2. Enact (Collaborate)](/teacher-user-guide/discover/index/)
+
+#### How to share my Assignment with peers?
+
+* [About Assignment Sharing](https://www.notion.so/About-Assignment-Sharing-36b51c5efc44478c92b700aa3ae9a784) 
+* [Request to Share Assignment](https://www.notion.so/Request-to-Share-Assignment-5b207b8ee6b349beb7743733a38aed5a) 
+* [Accept a Share Request](https://www.notion.so/Accept-a-Share-Request-7d0b40bd3b354d66834201fe851344e9) 
+* [Interact in a Shared Assignment](https://www.notion.so/Interact-in-a-Shared-Assignment-b473c5d156c5475ba2c0ea4dcff2b716)
+
+#### How to use the Forums?
+
+* [Access the Forum](https://www.notion.so/Access-the-Forum-93f952d2efdc45a883710367a75e6660)
+* [Create a New Poll](https://www.notion.so/Create-a-New-Poll-399b4ec9678b45d7b0efe7ae910711c1)
+* [Edit a Poll](https://www.notion.so/Edit-a-Poll-698e803e01674f96b7c482c66dd85f81)
+* [Posting on a Discussion Topic (Improved)](https://www.notion.so/Posting-on-a-Discussion-Topic-Improved-a8fe5fcf8ff34cffa2f0af58b285a58f)
