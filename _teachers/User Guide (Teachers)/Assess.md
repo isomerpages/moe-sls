@@ -37,11 +37,15 @@ third_nav_title: User Guide (Teachers)
 
 ### [2. Assess (Track Progress)](/teacher-user-guide/discover/index/)
 
-<details><summary><h4>How to submit Lessons to Community Gallery?</h4></summary>
+<details><summary><h4>How to monitor student’s Learning Progress?</h4></summary>
 	
-* [Submit Lessons](https://www.notion.so/Submit-Lessons-3eef2c35ee5a4c589ef37aaba50baf9c)
+* [About Learning Progress](https://www.notion.so/About-Learning-Progress-6ac789b78f6741c69528d7a6f05e55c8)
 
-* [Resubmit Lessons](https://www.notion.so/Resubmit-Lessons-a14e2604a378428996de0e4024b7f100)
+* [View by Topic](https://www.notion.so/View-by-Topic-4e33f0daff314aa888e7574c68f5b3e0)
 
-* [Copyright Guidelines for Submission](https://www.notion.so/Copyright-Guidelines-for-Submission-232b6d03faa84fdf9ce0ffb5d70dc052)
+* [View by Month](https://www.notion.so/View-by-Month-cbc17dd6e6304bc5a1d46f826737943c)
+
+* [View by Student](https://www.notion.so/View-by-Student-8553f41d69734001a5a8420a83a73a8d)
+
+* [View Excluded Questions](https://www.notion.so/View-Excluded-Questions-ca303b400db34dfb8ce7ef89cfe3e528)
 </details>
