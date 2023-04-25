@@ -55,8 +55,7 @@ third_nav_title: Author (Author)
   <li><a href="/teacher-user-guide/author-author/filesize/" target="_blank">File Size Limits</a></li>
 </ul>
 
-<details>
-<summary><h3>What are the copyright guidelines for resources?</h3></summary>
+<details><summary><h3>What are the copyright guidelines for resources?</h3></summary>
 <ul>
   <li><a href="/teacher-user-guide/author-author/resources/" target="_blank">Resources</a></li>
   <li><a href="/teacher-user-guide/author-author/copyrightfaqs/" target="_blank">Copyright FAQs</a></li>
