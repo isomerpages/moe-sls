@@ -42,5 +42,16 @@ third_nav_title: Author (Author)
 * Localisation and eDictionary
 
 ### More about Lessons
+* Edit Lessons
+* Move Lessons to Trash
+* Make a Copy of Lessons & Assignments
+* Add Question Tags
+* View and Edit Lesson Plans
+* Add Lesson Tags
+* Edit Detail cards (New)
+* File Size Limits
 
 ### What are the copyright guidelines for resources?
+* Resources
+* Copyright FAQs
+* Email Template for Copyright Clearance
