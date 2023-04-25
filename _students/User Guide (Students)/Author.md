@@ -4,41 +4,13 @@ permalink: /students/user-guide-students/author/
 description: ""
 third_nav_title: User Guide (Students)
 ---
-## Organise
+## Author
 
-#### [1. Organise (Discover)](/teacher-user-guide/discover/index/)
+### [1. Author (Gamify)](/teacher-user-guide/discover/index/)
+#### How to attempt gamified resources?
 
-<details>
-  <summary>
- Where to search for resources?</summary>
+* [About Gamification](https://www.notion.so/About-Gamification-473be9256eab40f0ac11e3feeffd422e)
 
-* [About the MOE Library](/teacher-user-guide/discover/moelibrary)
-* [About the Community Gallery](/teacher-user-guide/discover/communitygallery/)
-* [Search for Resources](/teacher-user-guide/organise-discover/searchresources/)
-* [Leave Reviews](/teacher-user-guide/organise-discover/leavereviews/)
-* [Make a Copy of a Lesson](/teacher-user-guide/organise-discover/makecopy/)
-* [View Lesson Details](/teacher-user-guide/organise-discover/viewlesson/)
-* [View Print-Friendly Worksheet](/teacher-user-guide/organise-discover/viewprint/)
-</details>
-	
-##### How to add Resources from Library?
-* <a href="/teacher-user-guide/organise-discover/addexistingactivities/" target="_blank">Add Exisiting Activities from Resources</a>
-* <a href="/teacher-user-guide/organise-discover/addexisting/" target="_blank">Add Exisiting Components Resources</a>
-* [Add Exisiting Media Objects from Resources]()
+* [Attempt a Gamified Course](https://www.notion.so/Attempt-a-Gamified-Course-0ca58753d5274ab79035b2cc8d0826de)
 
-##### What websites are whitelisted in SLS?
-*  <a href="/teacher-user-guide/organise-discover/viewexternal/" target="_blank">View External Resources</a>
-*  [Embed Whitelisted Websites](/teacher-user-guide/organise-discover/embedwhitelisted/)
-*  [Previously Whitelisted &amp; Non-Whitelisted Websites](/teacher-user-guide/discover/whitelistedwebsites/)
-
-##### What are My Subjects?
-*  <a href="/teacher-user-guide/discover/aboutsubjects/" target="_blank">About My Subjects</a>
-*  [Follow &amp; Unfollow Subjects](/teacher-user-guide/discover/followsubjects/)
-	
-
-
-2.  #### [Organise (Notify)](../teacher-user-guide/organise/notify/)
-4.  #### [Organise (Plan)](../teacher-user-guide/organise/plan/)
-5.  #### [Organise (Organise)](../teacher-user-guide/organise/organise/)
-6.  #### [Organise (Self Study)](../teacher-user-guide/organise/selfstudy/)
-7.  #### [Organise (Customise)](../teacher-user-guide/organise/customise/)
+* [Check Progress on Leaderboard ](https://www.notion.so/Check-Progress-on-Leaderboard-9e255135bf3f48e4b827f645fa60ee07)
