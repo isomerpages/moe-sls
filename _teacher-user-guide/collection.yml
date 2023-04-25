@@ -160,6 +160,8 @@ collections:
       - Enact (Collaborate) Prop1/Add a Discussion & Topic.md
       - Enact (Collaborate) Prop1/Share a Lesson.md
       - Enact (Collaborate) Prop1/Access a Shared Lesson.md
+      - Enact (Collaborate)/.keep
+      - Enact (Collaborate)/Index.md
       - Enact (Collaborate)/About the Forum.md
       - Enact (Collaborate)/Change Forum Settings.md
       - Enact (Collaborate)/Post and Comment in the Forum.md
@@ -170,8 +172,6 @@ collections:
       - Enact (Collaborate)/Add a Discussion & Topic.md
       - Enact (Collaborate)/Share a Lesson.md
       - Enact (Collaborate)/Access a Shared Lesson.md
-      - Enact (Collaborate)/.keep
-      - Enact (Collaborate)/Index.md
       - Assess (Assess)/.keep
       - Assess (Assess)/Index.md
       - Assess (Assess)/Add and Edit Quizzes (New).md
