@@ -45,9 +45,9 @@ Title 1
 ## [Organise](/teachers/user-guide-teachers/organise/)
 * #### Discover
 * #### Notify
-*  #### Plan
-*  #### Organise
-*  #### Customise
+* #### Plan
+* #### Organise
+* #### Customise
 
 ## [Author](/teachers/user-guide-teachers/author/)
 * #### Author
