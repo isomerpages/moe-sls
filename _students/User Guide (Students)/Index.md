@@ -24,6 +24,7 @@ Placeholder Image
 ## [Enact](/students/user-guide-students/enact/)
 * #### Assign
 * #### Collaborate
+
 ## [Assess](/students/user-guide-students/assess/)
 * #### Assess
 * #### Track Progress
