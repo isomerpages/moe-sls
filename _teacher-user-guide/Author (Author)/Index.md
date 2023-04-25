@@ -16,16 +16,16 @@ third_nav_title: Author (Author)
 * <a href="/teacher-user-guide/author-author/addactivities/" target="_blank">Add and Edit Activities &amp; Sections (Enhanced)</a>
 
 #####  2. Component
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">About Templates</a>Add and Edit Components (Enhanced)
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">About Templates</a>Add Display (New)
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">About Templates</a>Add Multiple Choice Questions
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">About Templates</a>Add Fill in the Blank Questions
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">About Templates</a>Add Click and Drop Questions
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">About Templates</a>Add Error Editing Questions
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">About Templates</a>Add Audio Response Questions
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">About Templates</a>Add Multi Part Questions
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">About Templates</a>Upload Question and Test Interoperability Files
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">About Templates</a>Add Rubrics to Audio and Free Response Questions
+* <a href="/teacher-user-guide/author-author/addedit/" target="_blank">Add and Edit Components (Enhanced)</a>
+* <a href="/teacher-user-guide/author-author/adddisplay/" target="_blank">Add Display (New)</a>
+* <a href="/teacher-user-guide/author-author/addmultiple/" target="_blank">Add Multiple Choice Questions</a>
+* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Add Fill in the Blank Questions</a>
+* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Add Click and Drop Questions</a>
+* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Add Error Editing Questions</a>
+* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">AAdd Audio Response Questions</a>
+* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Add Multi Part Questions</a>
+* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Upload Question and Test Interoperability (QTI) Files</a>
+* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Add Rubrics to Audio and Free Response Questions</a>
 
 ##### 3. Rich Text
 * <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">About Rich Text Editor (Enhanced)</a>
