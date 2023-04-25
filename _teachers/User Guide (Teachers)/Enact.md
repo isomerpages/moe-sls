@@ -8,85 +8,113 @@ third_nav_title: User Guide (Teachers)
 
 ### [1. Enact (Assign)](/teacher-user-guide/discover/index/)
 
-<details><summary><h4> How to complete Assignments?</h4></summary>
-<details><summary><h5> How to access my Assignments?</h5></summary>
+<details><summary><h4> How to create Assignments?</h4></summary>
 
-* [About Assignments](https://www.notion.so/About-Assignments-b1488c912e684915bcf5a5603922def8)
-* [View Assignments](https://www.notion.so/View-Assignments-6be91692ffa346c28b6e59162664ebf4)
-* [Navigate an Assignment](https://www.notion.so/Navigate-an-Assignment-87ff488ea01f448c98756c71ec1690d1)
-* [Attempt an Assignment](https://www.notion.so/Attempt-an-Assignment-60371cf299084e898c3034cdf4e5f44a)
-* [Complete an Activity &amp; Section](https://www.notion.so/Complete-an-Activity-Section-acd1a513de55404ba53efffca445cfbb)
-</details>
-<details><summary><h5>How to attempt the different Question Types?</h5></summary> 
+1. Assignments
 
-[Attempt a Multiple-Choice Question](https://www.notion.so/Attempt-a-Multiple-Choice-Question-2d617463a708420f8a5d3eb371f5e1b8)
+* [Create Assignments](https://www.notion.so/Create-Assignments-57b945d3186b494ca2ab9d80a184d30f)
 
-[Attempt a Fill-in-the-Blanks Question](https://www.notion.so/Attempt-a-Fill-in-the-Blanks-Question-d24eab0b58b14d90b553782e4b743289)
+* [Quick Assign Activities/Quizzes (NEW)](https://www.notion.so/Quick-Assign-Activities-Quizzes-NEW-6b28557882c04d9e99089d297e974fe4)
 
-[Attempt a Click-and-Drop Question](https://www.notion.so/Attempt-a-Click-and-Drop-Question-61f94a43a54d459ba8213235e1aaa5f7)
+2. Assign
 
-[Attempt an Error-Editing Question](https://www.notion.so/Attempt-an-Error-Editing-Question-3da010f2a861470aa51797ab3b5ce4fb)
+* [Assign MOE Library Lessons](https://www.notion.so/Assign-MOE-Library-Lessons-50ab6026356d4e47b2d7da04097a407a)
 
-[Attempt an Audio-Response Question](https://www.notion.so/Attempt-an-Audio-Response-Question-143e12cad8084b5f9c808b5a6fccd97c)
+* [Assign Community Gallery Lessons](https://www.notion.so/Assign-Community-Gallery-Lessons-f74994bf9f8c4344b6ae286d4171e8b6)
 
-[Attempt a Free-Response Question](https://www.notion.so/Attempt-a-Free-Response-Question-0a25b2983dff4f179e49634a9ded3186)
-
-[Attempt a Multi-Part Question](https://www.notion.so/Attempt-a-Multi-Part-Question-7f0faf0935a94d96bb39bcebb97535d3)
-
-[Attempt an Interactive Thinking Tool Component](https://www.notion.so/Attempt-an-Interactive-Thinking-Tool-Component-9c0e596a56f94093849f7e2fbd5bd925)
-
-[Attempt a Poll](https://www.notion.so/Attempt-a-Poll-2e67c19fb9e8462e98c3bbaefb62369f)
-
-[Attempt a Question with Rubrics](https://www.notion.so/Attempt-a-Question-with-Rubrics-f18a7f9d5b2c4acaba3045debb98c8aa)
-
-[Attempt a Team Quiz](https://www.notion.so/Attempt-a-Team-Quiz-84dde19b26ea48b2a40d3db1a8c6b1e0)
-
-[Attempt Google-Attached Files](https://www.notion.so/Attempt-Google-Attached-Files-3aa961399d4c4032a665c3213e03a817)
-</details>
-<details>	
-<summary><h5>What features are there to support learning of my Mother Tongue?</h5></summary>
-
-[Text-to-Speech (TTS)](https://www.notion.so/Text-to-Speech-TTS-eb9e91fcf6c948faa3dba65c6f38cf42)
-
-[Speech Evaluation](https://www.notion.so/Speech-Evaluation-8de953cc81b64296ad4861fa3ec90a7e)
-
-[E-Dictionary](https://www.notion.so/E-Dictionary-b6e29f7fe51c440dbdecc5d93ba17112)
-</details>
-<details>	
-<summary><h5>How to add Rich Text in responses?</h5></summary>
-
-[Formatting &amp; Paragraphing](https://www.notion.so/Formatting-Paragraphing-7914b48243384679811f7afb9071f3d5)
-
-[Insert Tables](https://www.notion.so/Insert-Tables-7f2744cac033430b9adccb0517625d10)
-
-[Upload File](https://www.notion.so/Upload-File-1d227318e89145fa9d367c3e3a05d1d7)
-
-[Insert Drawing ](https://www.notion.so/Insert-Drawing-39406e5ce3524978a0b4e732f9a495b4)
-
-[Insert Chinese or Tamil Text](https://www.notion.so/Insert-Chinese-or-Tamil-Text-2d55e6bda2784de78b66dc50b01c859b)
-
-[Insert Mathematical or Chemical Equations](https://www.notion.so/Insert-Mathematical-or-Chemical-Equations-f46ba7a11512468d94567d762695601d)
-
-[Insert &amp; Edit Links ](https://www.notion.so/Insert-Edit-Links-7567da82ddc74a9fad7e0c8bf60afe65)
-
-[Insert Emoticon](https://www.notion.so/Insert-Emoticon-9cd7961445804aeba3caf234b5cefd72)
-
-[Insert Tooltip](https://www.notion.so/Insert-Tooltip-3507c9d2857f497b9ae1f1cc7fab3550)
-</details>	
+* [Add Assignments to Class Group ](https://www.notion.so/Add-Assignments-to-Class-Group-f788876fb3394080ba18dd0cafb8f1b2)
 </details>
 
-### [2. Enact (Collaborate)](/teacher-user-guide/discover/index/)
+<details><summary><h4>More about Assignments</h4></summary>
 
-#### How to share my Assignment with peers?
+* [Manage Assignments](https://www.notion.so/Manage-Assignments-e8dfaf38e7e645d2b3257148ca5b79cf)
 
-* [About Assignment Sharing](https://www.notion.so/About-Assignment-Sharing-36b51c5efc44478c92b700aa3ae9a784) 
-* [Request to Share Assignment](https://www.notion.so/Request-to-Share-Assignment-5b207b8ee6b349beb7743733a38aed5a) 
-* [Accept a Share Request](https://www.notion.so/Accept-a-Share-Request-7d0b40bd3b354d66834201fe851344e9) 
-* [Interact in a Shared Assignment](https://www.notion.so/Interact-in-a-Shared-Assignment-b473c5d156c5475ba2c0ea4dcff2b716)
+* [Schedule Assignments](https://www.notion.so/Schedule-Assignments-4af53c198aa14f228ee41ee3034408d1)
 
-#### How to use the Forums?
+* [Edit Assignments](https://www.notion.so/Edit-Assignments-c79f4ec524564f41b01bf2227c54b60f)
 
-* [Access the Forum](https://www.notion.so/Access-the-Forum-93f952d2efdc45a883710367a75e6660)
-* [Create a New Poll](https://www.notion.so/Create-a-New-Poll-399b4ec9678b45d7b0efe7ae910711c1)
-* [Edit a Poll](https://www.notion.so/Edit-a-Poll-698e803e01674f96b7c482c66dd85f81)
-* [Posting on a Discussion Topic (Improved)](https://www.notion.so/Posting-on-a-Discussion-Topic-Improved-a8fe5fcf8ff34cffa2f0af58b285a58f)
+* [Pause/Resume Assignments](https://www.notion.so/Pause-Resume-Assignments-e4ee6a3e3ae14abc89911f502b9d7532)
+
+* [Move Assignments](https://www.notion.so/Move-Assignments-8d2d78b423b742cea1bf5dcf30ff7d0c)
+
+* [Delete Assignments](https://www.notion.so/Delete-Assignments-ce1ba49497c8485285520981bc8972ee)
+
+* [Copy Assignments](https://www.notion.so/Copy-Assignments-ab01687d036f450ba6c88f0a77aca6cd)
+
+* [Allow Students to Copy Assignments](https://www.notion.so/Allow-Students-to-Copy-Assignments-464aa9acc79441279dbd1d15b46ebc44)
+
+* [Allow Students to Share Assignments](https://www.notion.so/Allow-Students-to-Share-Assignments-7979b3be104d4431bd7a2335bcca956a)
+
+* [Highlight and Annotate in Teacher's Copy of Assignment ](https://www.notion.so/Highlight-and-Annotate-in-Teacher-s-Copy-of-Assignment-d26a685f3af54e42916b96b63094d244)
+</details>
+
+### [2. Enact (Enact)](/teacher-user-guide/discover/index/)
+
+<details><summary><h4>How to manage Activity pacing?</h4></summary>
+
+* [Change Access to Activities](https://www.notion.so/Change-Access-to-Activities-b3162b83b65840118b98aac7d8415e67)
+</details>
+<details><summary><h4>How to add Notes and leave Annotations?</h4></summary>
+* [Underline and Annotate Students' Responses](https://www.notion.so/Underline-and-Annotate-Students-Responses-1a7cd80b434d4944ac4328cb18a79be6)
+</details>
+
+### [3. Enact (Differentiate)](/teacher-user-guide/discover/index/)
+
+<details><summary><h4>How to organise my students within Class Groups?</h4></summary>
+
+* [About Subgroups](https://www.notion.so/About-Subgroups-1470e32a452a4d7898b812dc7446bd51)
+
+* [Create Subgroups](https://www.notion.so/Create-Subgroups-39f9abc114de4da5a0fc7aadaf85f1e4)
+
+* [View Subgroups](https://www.notion.so/View-Subgroups-5c8d9aa1d004417089d64cc7e3164c2a)
+
+* [Edit or Delete a Subgroup](https://www.notion.so/Edit-or-Delete-a-Subgroup-c1c90da739d44019bcecbf2de0f65189)
+</details>
+
+<details><summary><h4>How to provide differentiated access to students?</h4></summary>
+
+* [Add Section Prerequisites](https://www.notion.so/Add-Section-Prerequisites-cca3a5fb4b604466becb7cdac54aa54a)
+
+* [Set Differentiated Access](https://www.notion.so/Set-Differentiated-Access-952356f305d14b25b429c2567aa8dfb9)
+</details>
+
+### [4. Enact (Personalise)](/teacher-user-guide/discover/index/)
+
+<details><summary><h4>How to personalise Lessons for students?</h4></summary>
+
+* [Set Optional Activities &amp; Quizzes](https://www.notion.so/Set-Optional-Activities-Quizzes-f4a756d986294893b524808660fba010)
+</details>
+
+### [5. Enact (Collaborate)](/teacher-user-guide/discover/index/)
+
+<details><summary><h4>How to use the Class Group Forum?</h4></summary>
+
+* [About the Forum](https://www.notion.so/About-the-Forum-7fa2e38bee6b4fb6bfb129b57a3826c1)
+
+* [Change Forum Settings](https://www.notion.so/Change-Forum-Settings-065c1cc3db094053806016a28692fbea)
+
+* [Post and Comment in the Forum ](https://www.notion.so/Post-and-Comment-in-the-Forum-4ed3a412f8ae4e28878be3d6d595ca8b)
+</details>
+
+<details><summary><h4> How to create Team Activities?</h4></summary>
+
+* [Create Team Activities (New)](https://www.notion.so/Create-Team-Activities-New-6c0575d551824f87abdd350c03578630)
+
+* [Create Teams](https://www.notion.so/Create-Teams-a087118f0b1845e897c946bfaaa37ee4)
+</details>
+
+<details><summary><h4>How can students collaborate in SLS?</h4></summary>
+
+* [Add an Interactive Thinking Tool](https://www.notion.so/Add-an-Interactive-Thinking-Tool-6f55a46973f14ee1aa0a645bbbef3b57)
+
+* [Add a Poll](https://www.notion.so/Add-a-Poll-1472c16615054d62bc7428fa21273cf2)
+
+* [Add a Discussion &amp; Topic (New)](https://www.notion.so/Add-a-Discussion-Topic-New-e5d1a14cd0d04d5cbb3718c93e67bc30)
+</details>
+
+<details><summary><h4> How to co-author lessons with teachers?</h4></summary>
+
+* [Share a Lesson](https://www.notion.so/Share-a-Lesson-a87560faac4940bdbed829c616ddb1fc)
+
+* [Access a Shared Lesson](https://www.notion.so/Access-a-Shared-Lesson-8f4e9487e32344e48627aa71dce6d857)
+	</details>
