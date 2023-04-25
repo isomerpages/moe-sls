@@ -42,29 +42,29 @@ Title 1
 		
 <br>
 	
-## [Organise](/teachers/cuo-clusters-directory/organise/)
+## [Organise](/teachers/user-guide-teachers/organise/)
 * #### Discover
 * #### Notify
 *  #### Plan
 *  #### Organise
 *  #### Customise
 
-## [Author](/teachers/cuo-clusters-directory/author/)
+## [Author](/teachers/user-guide-teachers/author/)
 * #### Author
 * #### Gamify
 
-## [Enact](/teachers/cuo-clusters-directory/enact/)
+## [Enact](/teachers/user-guide-teachers/enact/)
 * #### Assign
 * #### Enact
 * #### Differentiate
 * #### Personalise
 * #### Collaborate
-## [Assess](/teachers/cuo-clusters-directory/assess/)
+## [Assess](/teachers/user-guide-teachers/assess/)
 * #### Assess
 * #### Track Progress
 
-## [Administer](/teachers/cuo-clusters-directory/administer/)
+## [Administer](/teachers/user-guide-teachers/administer/)
 * #### Publish
 
-## [Other Useful Information](/teachers/cuo-clusters-directory/otheruseful/)
+## [Other Useful Information](/teachers/user-guide-teachers/otheruseful/)
 * #### Other Useful Information
