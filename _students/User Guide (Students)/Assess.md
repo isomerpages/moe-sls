@@ -4,41 +4,37 @@ permalink: /students/user-guide-students/assess/
 description: ""
 third_nav_title: User Guide (Students)
 ---
-## Organise
+## Assess
 
-#### [1. Organise (Discover)](/teacher-user-guide/discover/index/)
+### [1. Assess (Assess)](/teacher-user-guide/discover/index/)
 
-<details>
-  <summary>
- Where to search for resources?</summary>
+#### How to complete Assessments?
 
-* [About the MOE Library](/teacher-user-guide/discover/moelibrary)
-* [About the Community Gallery](/teacher-user-guide/discover/communitygallery/)
-* [Search for Resources](/teacher-user-guide/organise-discover/searchresources/)
-* [Leave Reviews](/teacher-user-guide/organise-discover/leavereviews/)
-* [Make a Copy of a Lesson](/teacher-user-guide/organise-discover/makecopy/)
-* [View Lesson Details](/teacher-user-guide/organise-discover/viewlesson/)
-* [View Print-Friendly Worksheet](/teacher-user-guide/organise-discover/viewprint/)
-</details>
-	
-##### How to add Resources from Library?
-* <a href="/teacher-user-guide/organise-discover/addexistingactivities/" target="_blank">Add Exisiting Activities from Resources</a>
-* <a href="/teacher-user-guide/organise-discover/addexisting/" target="_blank">Add Exisiting Components Resources</a>
-* [Add Exisiting Media Objects from Resources]()
+* [About Assessments (New)](https://www.notion.so/About-Assessments-New-c4ce19066515478da1119b2d69055ca2)
 
-##### What websites are whitelisted in SLS?
-*  <a href="/teacher-user-guide/organise-discover/viewexternal/" target="_blank">View External Resources</a>
-*  [Embed Whitelisted Websites](/teacher-user-guide/organise-discover/embedwhitelisted/)
-*  [Previously Whitelisted &amp; Non-Whitelisted Websites](/teacher-user-guide/discover/whitelistedwebsites/)
+#### How to view completed Assignments?
 
-##### What are My Subjects?
-*  <a href="/teacher-user-guide/discover/aboutsubjects/" target="_blank">About My Subjects</a>
-*  [Follow &amp; Unfollow Subjects](/teacher-user-guide/discover/followsubjects/)
+* [View Completed Assignments](https://www.notion.so/View-Completed-Assignments-2c69d5ae67804ca8944f4890b274510e)
+
+* [View Quiz Results](https://www.notion.so/View-Quiz-Results-ed4c69e5f2cf4e9099a77df81375bf5a)
+
+* [View and Respond to Teacher Comments](https://www.notion.so/View-and-Respond-to-Teacher-Comments-62403cdfd10e4807836c0343b37d23b6)
+
+#### What types of automated feedback are there?
+
+* [About Mathematics Feedback](https://www.notion.so/About-Mathematics-Feedback-09ab64766d76452a85ef13b99e8017f9)
+
+* [Learning Feedback Assistant (New)](https://www.notion.so/Learning-Feedback-Assistant-New-25ae04ceb6d449a58d0d5e366af1d2a6)
 	
 
+### [2. Assess (Track Progress)](../teacher-user-guide/organise/notify/)
 
-2.  #### [Organise (Notify)](../teacher-user-guide/organise/notify/)
-4.  #### [Organise (Plan)](../teacher-user-guide/organise/plan/)
-5.  #### [Organise (Organise)](../teacher-user-guide/organise/organise/)
-6.  #### [Organise (Self Study)](../teacher-user-guide/organise/selfstudy/)
-7.  #### [Organise (Customise)](../teacher-user-guide/organise/customise/)
+#### How to monitor my Learning Progress?
+
+* [About Learning Progress](https://www.notion.so/About-Learning-Progress-064b10f886834b0a885d19fed641fd5d)
+
+* [View by Topic](https://www.notion.so/View-by-Topic-820194b28bb54254ad76d7c3fc6e1fb9)
+
+* [View by Month](https://www.notion.so/View-by-Month-a6bf5da2fe9a4464b7b01593587ff8e1)
+
+* [View by Question](https://www.notion.so/View-by-Question-55ad50d4e92f413a89e140ae57817e4b)
