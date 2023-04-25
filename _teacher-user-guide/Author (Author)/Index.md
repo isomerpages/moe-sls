@@ -5,17 +5,17 @@ description: ""
 third_nav_title: Author (Author)
 ---
 ## Author (Author)
-* About Lessons (Enhanced)
+* <a href="/teacher-user-guide/author-author/aboutlessons/" target="_blank">About Lessons (Enhanced)</a>
 
 ### How to create Lessons?
-* Create Lessons (New)
+* <a href="/teacher-user-guide/author-author/createlessons/" target="_blank">Create Lessons (New)</a>
 
-###### 1. Activities and Templates
+##### 1. Activities and Templates
 * About Templates
 * Add New using Templates
-* Add and Edit Activities & Sections (Enhanced)
+* Add and Edit Activities &amp; Sections (Enhanced)
 
-######  2. Component
+#####  2. Component
 * Add and Edit Components (Enhanced)
 * Add Display (New)
 * Add Multiple Choice Questions
@@ -27,16 +27,18 @@ third_nav_title: Author (Author)
 * Upload Question and Test Interoperability Files
 * Add Rubrics to Audio and Free Response Questions
 
-###### 3. Rich Text
+##### 3. Rich Text
 * About Rich Text Editor (Enhanced)
-* Formatting & Paragraphing
+* Formatting &amp; Paragraphing
 * Insert Tables
-* Insert & Edit External Links
-* Insert & Edit Links to Sections (New)
+* Insert &amp; Edit External Links
+* Insert &amp; Edit Links to Sections (New)
 * Insert Tooltips (Enhanced)
 * HTML5 Content Development
 * Insert Drawings (Enhanced)
 * Insert Mathematical or Chemical Equations
+* Insert Emoticons
+* Insert Chinese or Tamil Text
 * Text to Speech (TTS)
 * Speech Evaluation (Enhanced)
 * Localisation and eDictionary
@@ -44,7 +46,7 @@ third_nav_title: Author (Author)
 ### More about Lessons
 * Edit Lessons
 * Move Lessons to Trash
-* Make a Copy of Lessons & Assignments
+* Make a Copy of Lessons &amp; Assignments
 * Add Question Tags
 * View and Edit Lesson Plans
 * Add Lesson Tags
