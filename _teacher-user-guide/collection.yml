@@ -66,13 +66,11 @@ collections:
       - Organise (Customise)/Manage Linked Account.md
       - Organise (Customise)/Change SLS Password.md
       - Organise (Customise)/Switch to Student Account.md
+      - Author (Author)/.keep
       - Author (Author)/Index.md
       - Author (Author)/About Lessons (Enhanced).md
       - Author (Author)/Create Lessons (New).md
-      - Author (Author)/View and Edit Lesson Plans.md
       - Author (Author)/About Templates.md
-      - Author (Author)/Add Lesson Tags.md
-      - Author (Author)/Edit Detail cards (New).md
       - Author (Author)/Add and Edit Activities & Sections (Enhanced).md
       - Author (Author)/Add New using Templates.md
       - Author (Author)/Add and Edit Components (Enhanced).md
@@ -88,10 +86,6 @@ collections:
       - Author (Author)/Add Rubrics to Audio and Free Response Questions.md
       - Author (Author)/Add Media Objects.md
       - Author (Author)/Embed YouTube Videos.md
-      - Author (Author)/Text to Speech (TTS).md
-      - Author (Author)/Speech Evaluation (Enhanced).md
-      - Author (Author)/Localisation and eDictionary.md
-      - Author (Author)/Add Question Tags.md
       - Author (Author)/About Rich Text Editor.md
       - Author (Author)/Formatting & Paragraphing.md
       - Author (Author)/Insert Tables.md
@@ -103,14 +97,20 @@ collections:
       - Author (Author)/Insert Mathematical or Chemical Equations.md
       - Author (Author)/Insert Emoticons.md
       - Author (Author)/Insert Chinese or Tamil Text.md
-      - Author (Author)/File Size Limits.md
+      - Author (Author)/Text to Speech (TTS).md
+      - Author (Author)/Speech Evaluation (Enhanced).md
+      - Author (Author)/Localisation and eDictionary.md
       - Author (Author)/Edit Lessons.md
       - Author (Author)/Move Lessons to Trash.md
       - Author (Author)/Make a Copy of Lessons & Assignments.md
+      - Author (Author)/Add Question Tags.md
+      - Author (Author)/View and Edit Lesson Plans.md
+      - Author (Author)/Add Lesson Tags.md
+      - Author (Author)/Edit Detail cards (New).md
+      - Author (Author)/File Size Limits.md
       - Author (Author)/Resources.md
       - Author (Author)/Copyright FAQs.md
       - Author (Author)/Email Template for Copyright Clearance.md
-      - Author (Author)/.keep
       - Author (Gamify)/.keep
       - Author (Gamify)/Index.md
       - Author (Gamify)/About Gamification.md
