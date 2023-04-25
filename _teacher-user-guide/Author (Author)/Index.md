@@ -28,32 +28,37 @@ third_nav_title: Author (Author)
 * <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Add Rubrics to Audio and Free Response Questions</a>
 
 ##### 3. Rich Text
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">About Rich Text Editor (Enhanced)</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Formatting &amp; Paragraphing</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Insert Tables</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Insert &amp; Edit External Links</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Insert &amp; Edit Links to Sections (New)</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Insert Tooltips (Enhanced)</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">HTML5 Content Development</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Insert Drawings (Enhanced)</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Insert Mathematical or Chemical Equations</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Insert Emoticons</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Insert Chinese or Tamil Text</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Text to Speech (TTS)</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Speech Evaluation (Enhanced)</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Localisation and eDictionary</a>
+* <a href="/teacher-user-guide/author-author/aboutrich/" target="_blank">About Rich Text Editor (Enhanced)</a>
+* <a href="/teacher-user-guide/author-author/formatting/" target="_blank">Formatting &amp; Paragraphing</a>
+* <a href="/teacher-user-guide/author-author/inserttables/" target="_blank">Insert Tables</a>
+* <a href="/teacher-user-guide/author-author/insertexternal/" target="_blank">Insert &amp; Edit External Links</a>
+* <a href="/teacher-user-guide/author-author/insertlinks/" target="_blank">Insert &amp; Edit Links to Sections (New)</a>
+* <a href="/teacher-user-guide/author-author/inserttooltips/" target="_blank">Insert Tooltips (Enhanced)</a>
+* <a href="/teacher-user-guide/author-author/html5/" target="_blank">HTML5 Content Development</a>
+* <a href="/teacher-user-guide/author-author/insertdrawings/" target="_blank">Insert Drawings (Enhanced)</a>
+* <a href="/teacher-user-guide/author-author/insertequations/" target="_blank">Insert Mathematical or Chemical Equations</a>
+* <a href="/teacher-user-guide/author-author/insertemoticons/" target="_blank">Insert Emoticons</a>
+* <a href="/teacher-user-guide/author-author/inserttext/" target="_blank">Insert Chinese or Tamil Text</a>
+* <a href="/teacher-user-guide/author-author/textspeech/" target="_blank">Text to Speech (TTS)</a>
+* <a href="/teacher-user-guide/author-author/speechevaluation/" target="_blank">Speech Evaluation (Enhanced)</a>
+* <a href="/teacher-user-guide/author-author/localisation/" target="_blank">Localisation and eDictionary</a>
 
 ### More about Lessons
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Edit Lessons</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Move Lessons to Trash</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Make a Copy of Lessons &amp; Assignments</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Add Question Tags</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">View and Edit Lesson Plans</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Add Lesson Tags</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Edit Detail cards (New)</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">File Size Limits</a>
+<ul>
+  <li><a href="/teacher-user-guide/author-author/editlessons/" target="_blank">Edit Lessons</a></li>
+  <li><a href="/teacher-user-guide/author-author/movelessons/" target="_blank">Move Lessons to Trash</a></li>
+  <li><a href="/teacher-user-guide/author-author/makecopy/" target="_blank">Make a Copy of Lessons &amp; Assignments</a></li>
+  <li><a href="/teacher-user-guide/author-author/addquestion/" target="_blank">Add Question Tags</a></li>
+  <li><a href="/teacher-user-guide/author-author/viewedit/" target="_blank">View and Edit Lesson Plans</a></li>
+  <li><a href="/teacher-user-guide/author-author/addlesson/" target="_blank">Add Lesson Tags</a></li>
+  <li><a href="/teacher-user-guide/author-author/editdetails/" target="_blank">Edit Detail cards (New)</a></li>
+  <li><a href="/teacher-user-guide/author-author/filesize/" target="_blank">File Size Limits</a></li>
+</ul>
+
 
 ### What are the copyright guidelines for resources?
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Resources</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Copyright FAQs</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Email Template for Copyright Clearance</a>
+<ul>
+  <li><a href="/teacher-user-guide/author-author/resources/" target="_blank">Resources</a></li>
+  <li><a href="/teacher-user-guide/author-author/copyrightfaqs/" target="_blank">Copyright FAQs</a></li>
+  <li><a href="/teacher-user-guide/author-author/emailtemplate/" target="_blank">Email Template for Copyright Clearance</a></li>
+</ul>
