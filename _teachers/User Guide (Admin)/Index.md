@@ -10,13 +10,9 @@ Placeholder Image
 
 ![](/images/favicon-isomer.ico)
 
-## [Organise](/teachers/user-guide-teachers/organise/)
-* #### Discover
-* #### Notify
-* #### Plan
-* #### Organise
-* #### Customise
+## [Organise](/teachers/user-guide-admin/organise/)
+* #### [Notify]()
 
-## [Author](/teachers/user-guide-teachers/author/)
-* #### Author
-* #### Gamify
+## [Administer](/teachers/user-guide-admin/administer/)
+* #### [Publish]()
+* #### [Administer]()
