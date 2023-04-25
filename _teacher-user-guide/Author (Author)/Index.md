@@ -28,7 +28,18 @@ third_nav_title: Author (Author)
 * Add Rubrics to Audio and Free Response Questions
 
 ###### 3. Rich Text
-
+* About Rich Text Editor (Enhanced)
+* Formatting & Paragraphing
+* Insert Tables
+* Insert & Edit External Links
+* Insert & Edit Links to Sections (New)
+* Insert Tooltips (Enhanced)
+* HTML5 Content Development
+* Insert Drawings (Enhanced)
+* Insert Mathematical or Chemical Equations
+* Text to Speech (TTS)
+* Speech Evaluation (Enhanced)
+* Localisation and eDictionary
 
 ### More about Lessons
 
