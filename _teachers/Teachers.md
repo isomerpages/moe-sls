@@ -28,8 +28,8 @@ Looking for new ways to support your students’ learning? SLS features can enha
 [Game Rules and Support](/teachers/Build-The-SLS-Card-Game/Index/)
   
 ## User Guide
-[User Guide (Teachers)](/teachers/User-Guide/Author/)
-<br>[User Guide (Admin)](/teachers/User-Guide-Admin/manageusers/)
+[User Guide (Teachers)](/teachers/user-guide-teachers/index/)
+<br>[User Guide (Admin)](/teachers/user-guide-admin/index/)
 <br>[User Guide (Login Troubleshooting)](/login-troubleshooting/Login-Self-Help-for-Teachers/LoginMIMSTeacher/)
 
 ## Frequently Asked Questions
