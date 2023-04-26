@@ -38,7 +38,6 @@ third_nav_title: User Guide (Students)
 
 ### [3. Organise (Plan)](../teacher-user-guide/organise/plan/)
 
-#### 
 <details><summary><h4>How to use SLS Planner?</h4></summary>
 	
 <a target="_blank" href="https://www.notion.so/About-Planner-New-24a3ad25ba3f44acb6645d9c91b777d2">About Planner (New)</a>
