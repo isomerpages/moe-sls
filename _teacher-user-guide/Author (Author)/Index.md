@@ -12,38 +12,46 @@ third_nav_title: Author (Author)
 * <a href="/teacher-user-guide/author-author/createlessons/" target="_blank">Create Lessons (New)</a>
 
 <details><summary><h4>1. Activities and Templates</h4></summary>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">About Templates</a>
-* <a href="/teacher-user-guide/author-author/addtemplates/" target="_blank">Add New using Templates</a>
-* <a href="/teacher-user-guide/author-author/addactivities/" target="_blank">Add and Edit Activities &amp; Sections (Enhanced)</a>
+
+<ul>
+<li><a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">About Templates</a></li>
+<li><a href="/teacher-user-guide/author-author/addtemplates/" target="_blank">Add New using Templates</a></li>
+<li><a href="/teacher-user-guide/author-author/addactivities/" target="_blank">Add and Edit Activities &amp; Sections (Enhanced)</a></li>
+</ul>
 </details>
+
 <details><summary><h4>2. Component</h4></summary>
-* <a href="/teacher-user-guide/author-author/addedit/" target="_blank">Add and Edit Components (Enhanced)</a>
-* <a href="/teacher-user-guide/author-author/adddisplay/" target="_blank">Add Display (New)</a>
-* <a href="/teacher-user-guide/author-author/addmultiple/" target="_blank">Add Multiple Choice Questions</a>
-* <a href="/teacher-user-guide/author-author/addfill/" target="_blank">Add Fill in the Blank Questions</a>
-* <a href="/teacher-user-guide/author-author/addclick/" target="_blank">Add Click and Drop Questions</a>
-* <a href="/teacher-user-guide/author-author/adderror/" target="_blank">Add Error Editing Questions</a>
-* <a href="/teacher-user-guide/author-author/addaudio/" target="_blank">Add Audio Response Questions</a>
-* <a href="/teacher-user-guide/author-author/addmulti/" target="_blank">Add Multi Part Questions</a>
-* <a href="/teacher-user-guide/author-author/uploadquestion/" target="_blank">Upload Question and Test Interoperability (QTI) Files</a>
-* <a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Add Rubrics to Audio and Free Response Questions</a>
+<ul>
+<li><a href="/teacher-user-guide/author-author/addedit/" target="_blank">Add and Edit Components (Enhanced)</a></li>
+<li><a href="/teacher-user-guide/author-author/adddisplay/" target="_blank">Add Display (New)</a></li>
+<li><a href="/teacher-user-guide/author-author/addmultiple/" target="_blank">Add Multiple Choice Questions</a></li>
+<li><a href="/teacher-user-guide/author-author/addfill/" target="_blank">Add Fill in the Blank Questions</a></li>
+<li><a href="/teacher-user-guide/author-author/addclick/" target="_blank">Add Click and Drop Questions</a></li>
+<li><a href="/teacher-user-guide/author-author/adderror/" target="_blank">Add Error Editing Questions</a></li>
+<li><a href="/teacher-user-guide/author-author/addaudio/" target="_blank">Add Audio Response Questions</a></li>
+<li><a href="/teacher-user-guide/author-author/addmulti/" target="_blank">Add Multi Part Questions</a></li>
+<li><a href="/teacher-user-guide/author-author/uploadquestion/" target="_blank">Upload Question and Test Interoperability (QTI) Files</a></li>
+<li><a href="/teacher-user-guide/author-author/abouttemplates/" target="_blank">Add Rubrics to Audio and Free Response Questions</a></li>
+</ul>
 </details>
 
 <details><summary><h4>3. Rich Text</h4></summary>
-* <a href="/teacher-user-guide/author-author/aboutrich/" target="_blank">About Rich Text Editor (Enhanced)</a>
-* <a href="/teacher-user-guide/author-author/formatting/" target="_blank">Formatting &amp; Paragraphing</a>
-* <a href="/teacher-user-guide/author-author/inserttables/" target="_blank">Insert Tables</a>
-* <a href="/teacher-user-guide/author-author/insertexternal/" target="_blank">Insert &amp; Edit External Links</a>
-* <a href="/teacher-user-guide/author-author/insertlinks/" target="_blank">Insert &amp; Edit Links to Sections (New)</a>
-* <a href="/teacher-user-guide/author-author/inserttooltips/" target="_blank">Insert Tooltips (Enhanced)</a>
-* <a href="/teacher-user-guide/author-author/html5/" target="_blank">HTML5 Content Development</a>
-* <a href="/teacher-user-guide/author-author/insertdrawings/" target="_blank">Insert Drawings (Enhanced)</a>
-* <a href="/teacher-user-guide/author-author/insertequations/" target="_blank">Insert Mathematical or Chemical Equations</a>
-* <a href="/teacher-user-guide/author-author/insertemoticons/" target="_blank">Insert Emoticons</a>
-* <a href="/teacher-user-guide/author-author/inserttext/" target="_blank">Insert Chinese or Tamil Text</a>
-* <a href="/teacher-user-guide/author-author/textspeech/" target="_blank">Text to Speech (TTS)</a>
-* <a href="/teacher-user-guide/author-author/speechevaluation/" target="_blank">Speech Evaluation (Enhanced)</a>
-* <a href="/teacher-user-guide/author-author/localisation/" target="_blank">Localisation and eDictionary</a>
+<ul>
+<li><a target="_blank" href="/teacher-user-guide/author-author/aboutrich/">About Rich Text Editor (Enhanced)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author-author/formatting/">Formatting &amp; Paragraphing</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author-author/inserttables/">Insert Tables</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author-author/insertexternal/">Insert &amp; Edit External Links</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author-author/insertlinks/">Insert &amp; Edit Links to Sections (New)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author-author/inserttooltips/">Insert Tooltips (Enhanced)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author-author/html5/">HTML5 Content Development</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author-author/insertdrawings/">Insert Drawings (Enhanced)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author-author/insertequations/">Insert Mathematical or Chemical Equations</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author-author/insertemoticons/">Insert Emoticons</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author-author/inserttext/">Insert Chinese or Tamil Text</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author-author/textspeech/">Text to Speech (TTS)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author-author/speechevaluation/">Speech Evaluation (Enhanced)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author-author/localisation/">Localisation and eDictionary</a></li>
+</ul>
 </details>
 
 <details><summary><h4>4. More about Lessons</h4></summary>
