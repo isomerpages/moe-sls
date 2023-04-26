@@ -9,8 +9,7 @@ third_nav_title: User Guide (Admin)
 #### [1. Organise (Notify)](/teacher-user-guide/discover/index/)
 
 <details>
-  <summary>
- How to manage school-wide Announcements?</summary>
+  <summary><h4>How to manage school-wide Announcements?</h4></summary>
 
-* [Manage School Announcements (Enhanced)](https://www.notion.so/Manage-School-Announcements-Enhanced-9b7a8f210d724fe8b65d13f6ba7cabfe)
+<a target="_blank" href="https://www.notion.so/Manage-School-Announcements-Enhanced-9b7a8f210d724fe8b65d13f6ba7cabfe">Manage School Announcements (Enhanced)</a>
 </details>
