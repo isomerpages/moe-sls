@@ -6,7 +6,7 @@ third_nav_title: User Guide (Admin)
 ---
 ## Organise
 
-#### [1. Organise (Notify)](/teacher-user-guide/discover/index/)
+### [1. Organise (Notify)](/teacher-user-guide/discover/index/)
 
 <details>
   <summary><h4>How to manage school-wide Announcements?</h4></summary>
