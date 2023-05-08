@@ -19,7 +19,7 @@ links:
         url: /admin-user-guide/administer-administer/index/
       - title: Login Troubleshooting UG
         url: /login-troubleshooting/SchoolBasedHelpline/
-  - title: About Abc
-    collection: about-abc
+  - title: About Sls
+    collection: about-sls
   - title: Login to SLS
     url: https://vle.learning.moe.edu.sg/login
