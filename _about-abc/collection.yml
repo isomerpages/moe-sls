@@ -1,5 +1,5 @@
 collections:
-  about-sls:
+  about-abc:
     output: true
     order:
       - Overview of SLS.md
