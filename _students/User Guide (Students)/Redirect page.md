@@ -20,24 +20,24 @@ Looking for a previous user guide page? Use this to find its new location!
       </thead>
       <tbody>
         <tr>
-          <td><a target="_blank" href="URL">Change Password</a></td>
+          <td>Change Password</td>
           <td>http://www.newexample.com/</td>
         </tr>
         <tr>
-          <td><a target="_blank" href="URL">Set Password Reset Email Address</a></td>
-          <td>http://www.newexample.com/about-us/</td>
+          <td><a target="_blank" href="URL">Change Password</a></td>
+           <td><a target="_blank" href="URL">Set Password Reset Email Address</a></td>
         </tr>
         <tr>
+          <td>Update Answers to Security Questions</td>
           <td><a target="_blank" href="URL">Update Answers to Security Questions</a></td>
-          <td>http://www.newexample.com/contact-us/</td>
 </tr>
 				   <tr>
+          <td>Customise an Avatar</td>
           <td><a target="_blank" href="URL">Customise an Avatar</a></td>
-          <td>http://www.newexample.com/contact-us/</td>
 </tr>
 				   <tr>
-          <td><a target="_blank" href="URL">Manage Linked Account (New)</a></td>
-          <td>http://www.newexample.com/contact-us/</td>
+          <td>Manage Linked Account</td>
+          <td><a target="_blank" href="URL">Manage Linked Account</a></td>
 </tr>
 </tbody>
 </table>
