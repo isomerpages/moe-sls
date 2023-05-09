@@ -21,10 +21,10 @@ Looking for a previous user guide page? Use this to find its new location!
       <tbody>
         <tr>
           <td>Change Password</td>
-          <td>http://www.newexample.com/</td>
+          <td><a target="_blank" href="URL">Change Password</a></td>
         </tr>
         <tr>
-          <td><a target="_blank" href="URL">Change Password</a></td>
+          <td>Set Password Reset Email Address</td>
            <td><a target="_blank" href="URL">Set Password Reset Email Address</a></td>
         </tr>
         <tr>
