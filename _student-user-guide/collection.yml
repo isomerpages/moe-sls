@@ -55,11 +55,11 @@ collections:
       - Customise/Change Password.md
       - Customise/Update Answers to Security Questions.md
       - Customise/.keep
-      - Author (Gamify)/Index.md
-      - Author (Gamify)/About Gamification.md
-      - Author (Gamify)/Attempt a Gamified Course.md
-      - Author (Gamify)/Check Progress on Leaderboard.md
-      - Author (Gamify)/.keep
+      - Gamify/Index.md
+      - Gamify/About Gamification.md
+      - Gamify/Attempt a Gamified Course.md
+      - Gamify/Check Progress on Leaderboard.md
+      - Gamify/.keep
       - Enact (Assign)/Index.md
       - Enact (Assign)/About Assignments.md
       - Enact (Assign)/View Assignments.md
