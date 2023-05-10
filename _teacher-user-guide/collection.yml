@@ -19,12 +19,12 @@ collections:
       - Discover/Previously Whitelisted & Non Whitelisted Websites.md
       - Discover/About My Subjects.md
       - Discover/Follow & Unfollow Subjects.md
-      - Organise (Notify)/.keep
-      - Organise (Notify)/Index.md
-      - Organise (Notify)/View and Create Announcements.md
-      - Organise (Notify)/Manage Announcements.md
-      - Organise (Notify)/About Notifications.md
-      - Organise (Notify)/View Notifications.md
+      - Notify/.keep
+      - Notify/Index.md
+      - Notify/View and Create Announcements.md
+      - Notify/Manage Announcements.md
+      - Notify/About Notifications.md
+      - Notify/View Notifications.md
       - Organise (Plan)/.keep
       - Organise (Plan)/Index.md
       - Organise (Plan)/About Planner.md
