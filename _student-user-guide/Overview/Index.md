@@ -12,7 +12,8 @@ Placeholder Image
 
 ## [Organise](/students/user-guide-students/organise/)
 
-### [1. Organise (Discover)](/teacher-user-guide/discover/index/)
+<h3 id="discover"><a href="/teacher-user-guide/discover/index/">1. Organise (Discover)</a></h3>
+
 
 <details><summary><h4>Where to find self-study resources?</h4></summary>
 
