@@ -2,7 +2,6 @@ collections:
   student-user-guide:
     output: true
     order:
-      - Example Title.md
       - Students UG/.keep
       - Students UG/Organise.md
       - Students UG/Author.md
