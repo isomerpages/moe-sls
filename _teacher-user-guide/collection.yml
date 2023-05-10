@@ -54,19 +54,19 @@ collections:
       - Organise/About Starred Resources.md
       - Organise/Star Resources.md
       - Organise/.keep
-      - Organise (Customise)/.keep
-      - Organise (Customise)/Index.md
-      - Organise (Customise)/Manage My Templates.md
-      - Organise (Customise)/Onboard New Students.md
-      - Organise (Customise)/Reset Student Passwords for Classes.md
-      - Organise (Customise)/Generate Two Hour Temporary Password for Students.md
-      - Organise (Customise)/Customise an Avatar.md
-      - Organise (Customise)/Change Display Name.md
-      - Organise (Customise)/Set an Alternate Email Address.md
-      - Organise (Customise)/Set Email Notifications.md
-      - Organise (Customise)/Manage Linked Account.md
-      - Organise (Customise)/Change SLS Password.md
-      - Organise (Customise)/Switch to Student Account.md
+      - Customise/.keep
+      - Customise/Index.md
+      - Customise/Manage My Templates.md
+      - Customise/Onboard New Students.md
+      - Customise/Reset Student Passwords for Classes.md
+      - Customise/Generate Two Hour Temporary Password for Students.md
+      - Customise/Customise an Avatar.md
+      - Customise/Change Display Name.md
+      - Customise/Set an Alternate Email Address.md
+      - Customise/Set Email Notifications.md
+      - Customise/Manage Linked Account.md
+      - Customise/Change SLS Password.md
+      - Customise/Switch to Student Account.md
       - Author (Author)/.keep
       - Author (Author)/Index.md
       - Author (Author)/About Lessons (Enhanced).md
