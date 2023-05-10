@@ -15,10 +15,10 @@ collections:
       - Discover/About App Library.md
       - Discover/Access App Library.md
       - Discover/.keep
-      - Organise (Notify)/Index.md
-      - Organise (Notify)/About Notifications (New).md
-      - Organise (Notify)/View Notifications (New).md
-      - Organise (Notify)/.keep
+      - Notify/Index.md
+      - Notify/About Notifications (New).md
+      - Notify/View Notifications (New).md
+      - Notify/.keep
       - Organise (Plan)/About Planner (New).md
       - Organise (Plan)/.keep
       - Organise (Organise)/Index.md
