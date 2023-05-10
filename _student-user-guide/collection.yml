@@ -2,6 +2,7 @@ collections:
   student-user-guide:
     output: true
     order:
+      - Example Title.md
       - Overview/.keep
       - Overview/Index.md
       - Overview/Organise.md
