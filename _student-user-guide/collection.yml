@@ -109,9 +109,9 @@ collections:
       - Assess (Assess)/About Mathematics Feedback.md
       - Assess (Assess)/Learning Feedback Assistant (New).md
       - Assess (Assess)/.keep
-      - Assess (Track Progress)/Index.md
-      - Assess (Track Progress)/About Learning Progress.md
-      - Assess (Track Progress)/View by Topic.md
-      - Assess (Track Progress)/View by Month.md
-      - Assess (Track Progress)/View by Question.md
-      - Assess (Track Progress)/.keep
+      - Track Progress/Index.md
+      - Track Progress/About Learning Progress.md
+      - Track Progress/View by Topic.md
+      - Track Progress/View by Month.md
+      - Track Progress/View by Question.md
+      - Track Progress/.keep
