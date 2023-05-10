@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Teacher UG/.keep
       - Organise (Discover)/.keep
       - Organise (Discover)/Index.md
       - Organise (Discover)/About the MOE Library.md
