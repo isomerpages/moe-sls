@@ -2,12 +2,12 @@ collections:
   student-user-guide:
     output: true
     order:
-      - Overview/Assess.md
-      - Overview/Enact.md
-      - Overview/Author.md
-      - Overview/Organise.md
-      - Overview/Index.md
       - Overview/.keep
+      - Overview/Index.md
+      - Overview/Organise.md
+      - Overview/Author.md
+      - Overview/Enact.md
+      - Overview/Assess.md
       - Organise (Discover)/Index.md
       - Organise (Discover)/About Self Study Resources (New).md
       - Organise (Discover)/Access Self Study Resources (New).md
