@@ -3,22 +3,22 @@ collections:
     output: true
     order:
       - Teacher UG/.keep
-      - Organise (Discover)/.keep
-      - Organise (Discover)/Index.md
-      - Organise (Discover)/About the MOE Library.md
-      - Organise (Discover)/About the Community Gallery.md
-      - Organise (Discover)/Search for Resources.md
-      - Organise (Discover)/Leave Reviews.md
-      - Organise (Discover)/Make a Copy of a Lesson.md
-      - Organise (Discover)/View Lesson Details.md
-      - Organise (Discover)/View Print Friendly Worksheet.md
-      - Organise (Discover)/Add Exisiting Activities from Resources.md
-      - Organise (Discover)/Add Existing Components Resources.md
-      - Organise (Discover)/View External Resources.md
-      - Organise (Discover)/Embed Whitelisted Websites.md
-      - Organise (Discover)/Previously Whitelisted & Non Whitelisted Websites.md
-      - Organise (Discover)/About My Subjects.md
-      - Organise (Discover)/Follow & Unfollow Subjects.md
+      - Discover/.keep
+      - Discover/Index.md
+      - Discover/About the MOE Library.md
+      - Discover/About the Community Gallery.md
+      - Discover/Search for Resources.md
+      - Discover/Leave Reviews.md
+      - Discover/Make a Copy of a Lesson.md
+      - Discover/View Lesson Details.md
+      - Discover/View Print Friendly Worksheet.md
+      - Discover/Add Exisiting Activities from Resources.md
+      - Discover/Add Existing Components Resources.md
+      - Discover/View External Resources.md
+      - Discover/Embed Whitelisted Websites.md
+      - Discover/Previously Whitelisted & Non Whitelisted Websites.md
+      - Discover/About My Subjects.md
+      - Discover/Follow & Unfollow Subjects.md
       - Organise (Notify)/.keep
       - Organise (Notify)/Index.md
       - Organise (Notify)/View and Create Announcements.md
