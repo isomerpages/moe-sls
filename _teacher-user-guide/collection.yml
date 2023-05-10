@@ -110,15 +110,15 @@ collections:
       - Author/Resources.md
       - Author/Copyright FAQs.md
       - Author/Email Template for Copyright Clearance.md
-      - Author (Gamify)/.keep
-      - Author (Gamify)/Index.md
-      - Author (Gamify)/About Gamification.md
-      - Author (Gamify)/Manage Gamification Settings.md
-      - Author (Gamify)/Create Game Teams.md
-      - Author (Gamify)/Add Conditions for Game Stories and Achievements.md
-      - Author (Gamify)/Award XP, Game Story and Achievements Manually.md
-      - Author (Gamify)/About Leaderboard.md
-      - Author (Gamify)/Display Leaderboard for Students (Improved).md
+      - Gamify/.keep
+      - Gamify/Index.md
+      - Gamify/About Gamification.md
+      - Gamify/Manage Gamification Settings.md
+      - Gamify/Create Game Teams.md
+      - Gamify/Add Conditions for Game Stories and Achievements.md
+      - Gamify/Award XP, Game Story and Achievements Manually.md
+      - Gamify/About Leaderboard.md
+      - Gamify/Display Leaderboard for Students (Improved).md
       - Enact (Assign)/.keep
       - Enact (Assign)/Index.md
       - Enact (Assign)/Create Assignments.md
