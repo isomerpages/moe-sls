@@ -4,11 +4,11 @@ collections:
     order:
       - Straits Times.md
       - Example Title.md
-      - Overview/.keep
-      - Overview/Organise.md
-      - Overview/Author.md
-      - Overview/Enact.md
-      - Overview/Assess.md
+      - Students UG/.keep
+      - Students UG/Organise.md
+      - Students UG/Author.md
+      - Students UG/Enact.md
+      - Students UG/Assess.md
       - Organise (Discover)/Index.md
       - Organise (Discover)/About Self Study Resources (New).md
       - Organise (Discover)/Access Self Study Resources (New).md
