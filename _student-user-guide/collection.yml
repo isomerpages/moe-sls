@@ -2,7 +2,6 @@ collections:
   student-user-guide:
     output: true
     order:
-      - Straits Times.md
       - Example Title.md
       - Students UG/.keep
       - Students UG/Organise.md
