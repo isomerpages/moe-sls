@@ -25,10 +25,10 @@ collections:
       - Notify/Manage Announcements.md
       - Notify/About Notifications.md
       - Notify/View Notifications.md
-      - Organise (Plan)/.keep
-      - Organise (Plan)/Index.md
-      - Organise (Plan)/About Planner.md
-      - Organise (Plan)/Create Class Events.md
+      - Plan/.keep
+      - Plan/Index.md
+      - Plan/About Planner.md
+      - Plan/Create Class Events.md
       - Organise (Organise)/About Class Groups.md
       - Organise (Organise)/Pin Class Groups.md
       - Organise (Organise)/View Past Class Groups.md
