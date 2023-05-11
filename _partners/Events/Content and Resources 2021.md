@@ -72,7 +72,7 @@ third_nav_title: Events
 </tr>
 <tr>
 <td>11</td>
-<td>Stag Match(in partnership with LearnCourseOnline.com)</td>
+<td>Stag Match (in partnership with LearnCourseOnline.com)</td>
 <td>Stag Match Institute hosts a wide range of WSQ Courses, Adult Learning Courses, Children Robotics and Coding programmes. LearnCourseOnline is a cloud LMS with leading e-learning technology and seamless transition to live-learning services in multiple regions.</td>
 </tr>
 <tr>
