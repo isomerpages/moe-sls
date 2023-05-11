@@ -3,8 +3,7 @@ title: Partners
 permalink: /sls/partners/
 description: ""
 ---
-<img alt="Partners Hero" src="/images/3Partners/Partners Hero.png">
-
+<img alt="Partners Hero" src="/images/3Partners/Partners%20Hero.png">
 <p>The SLS team welcomes companies and agencies with expertise to enhance users’ learning experiences through apps and platforms.</p>
 
 <h2>Partnership</h2>
