@@ -4,10 +4,10 @@ permalink: /partners/Events/assessmentanalytics2021/
 description: ""
 third_nav_title: Events
 ---
-Assessment and Analytics
-------------------------
-
----
+<div>
+    <h2>Assessment and Analytics</h2>
+    <hr>
+</div>
 
  Tools that help teachers design and build assessments better, and/or help with the analysis of student performance data.
 
@@ -15,7 +15,7 @@ Assessment and Analytics
 
 |S/N|Company Name|Information|
 |--- |--- |--- |
-|1|AvePoint Singapore Pte Ltd|Conduct secure online exams with confidence using AvePoint's Examena - Craft, Proctor & Analyse.|
+|1|AvePoint Singapore Pte Ltd|Conduct secure online exams with confidence using AvePoint's Examena - Craft, Proctor &amp; Analyse.|
 |2|Blutick|Blutick is an AI powered maths platform which teaches and guides students. AI capabilities make Blutick an adaptive, live learning platform, engaging students and helping them learn while completing tasks, giving immediate intelligent line-by-line feedback.|
 |3|Codomo Pte Ltd|Codomo is on a mission to deliver delightful educational experiences through technology and design.|
 |4|GETMARKED*|Convert any Word or PDF worksheets into an online e-assignment.|
@@ -23,4 +23,4 @@ Assessment and Analytics
 |6|Practicle Pte Ltd|Practicle is a gamified adaptive practice system that personalises learning and makes Math fun.|
 
 
-<font size=2>*shortlisted</font>
+<font size="2">*shortlisted</font>
