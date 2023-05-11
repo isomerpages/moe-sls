@@ -4,16 +4,12 @@ permalink: /partners/Events/slspitchday2022/
 description: ""
 third_nav_title: Events
 ---
-Overview of SLS
-===============
+<h1>Overview of SLS</h1>
 
-<img src="/images/Media/SLS%20Build%20(Category)/banner2022.png" style="width:;"/>
+<img src="/images/Media/SLS%20Build%20(Category)/banner2022.png" style="width:;">
 
-Welcome to SLS Pitch Day
-------------------------
-
----
-
+<h1>Welcome to SLS Pitch Day</h1>
+<hr>
  SLS Pitch Day is a platform for interested participants to propose products and services that would be useful for teaching and learning and have potential for integration with SLS.
 
 It allows an opportunity to connect, discuss and share with MOE divisions on products that may meet their needs.
@@ -24,7 +20,7 @@ It allows an opportunity to connect, discuss and share with MOE divisions on pro
 -------------
 
 ---
-<a href="/images/Media/4Partners/JENI4774.jpg" target="_blank"><img src="/images/Media/4Partners/JENI4774.jpg" alt="SLS Pitch Day 2022;" style="width: 225px; display: inline;"></a><a href="/images/Media/4Partners/JENI4952.jpg" target="_blank"><img src="/images/Media/4Partners/JENI4952.jpg"  alt="Enchanting conversations" style="width: 225px; display: inline;"></a><a href="/images/Media/4Partners/JENI4851.jpg" target="_blank"><img src="/images/Media/4Partners/JENI4851.jpg" alt="Many people talking" style="width: 225px; display: inline;"></a><a href="/images/Media/4Partners/JENI4987.jpg" target="_blank"><img src="/images/Media/4Partners/JENI4987.jpg" style="width: 225px; display: inline;"></a><a href="/images/Media/4Partners/JENI4949.jpg" target="_blank">
+<a href="/images/Media/4Partners/JENI4774.jpg" target="_blank"><img src="/images/Media/4Partners/JENI4774.jpg" alt="SLS Pitch Day 2022;" style="width: 225px; display: inline;"></a><a href="/images/Media/4Partners/JENI4952.jpg" target="_blank"><img src="/images/Media/4Partners/JENI4952.jpg" alt="Enchanting conversations" style="width: 225px; display: inline;"></a><a href="/images/Media/4Partners/JENI4851.jpg" target="_blank"><img src="/images/Media/4Partners/JENI4851.jpg" alt="Many people talking" style="width: 225px; display: inline;"></a><a href="/images/Media/4Partners/JENI4987.jpg" target="_blank"><img src="/images/Media/4Partners/JENI4987.jpg" style="width: 225px; display: inline;"></a><a href="/images/Media/4Partners/JENI4949.jpg" target="_blank">
 <img src="/images/Media/4Partners/JENI4949.jpg" style="width: 225px; display: inline;"></a>
 
 Task
@@ -70,7 +66,7 @@ Participants will submit proposals according to the focus tracks and areas speci
 
  All proposals will be reviewed by representatives from various MOE divisions and the shortlisted teams will present their proposal to a panel of senior management.
 
-The product pitch will be in the form of a live pitch (and/or a demo) to be made within 20 minutes, inclusive of set-up and Q&A.
+The product pitch will be in the form of a live pitch (and/or a demo) to be made within 20 minutes, inclusive of set-up and Q&amp;A.
 
 Selected proposals will be followed up on for further exploration by MOE.
 
@@ -110,8 +106,8 @@ The judges' decision is final. No appeals will be entertained.
 
 |Date|Event|Notes|
 |--- |--- |--- |
-|9 May|Start of Registration|Register here.|
-|27 May|Familiarisation Session (Online)|More details here.|
+|9 May|Start of Registration|Register <a target="\_blank" href="https://go.gov.sg/slspd-register">here</a>.|
+|27 May|Familiarisation Session (Online)|More details <a target="\_blank" href="https://www.go.gov.sg/slsinfopack">here</a>.|
 |9 July|End of Registration|-|
 |20 Jun to 5 Aug|1-1 Consultations|Write to SLS_Partnerships@moe.gov.sg|
 |19 Aug|Submission deadline|Submission link will be sent via email|
