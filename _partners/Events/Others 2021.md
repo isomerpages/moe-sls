@@ -45,3 +45,5 @@ third_nav_title: Events
       </tr>
     </tbody>
   </table>
+	
+<font size="2">*shortlisted</font>
