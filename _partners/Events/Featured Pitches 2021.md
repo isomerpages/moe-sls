@@ -4,27 +4,21 @@ permalink: /partners/Events/featuredpitches2021/
 description: ""
 third_nav_title: Events
 ---
-![](/images/3Partners/featuredpitchsample.png)
-	 
-Featured Pitches
-----------------
-
----
-
- Congratulations to the 4 featured pitches!
-
- These pitches were selected by the evaluation panel as the top pitches to feature for SLS Pitch Day 2021, in no particular rank order:
-
-- CLASS by Class Technologies Inc
-- Dim Sum Warriors by Yumcha Studios Pte Ltd
-- GETMARKED Digitaliser
-- VReaLab by Silversea Media (S) Pte Ltd
- 
-     
- Shortlisted Pitches
--------------------
-
----
+<div>
+	<img alt="" src="/images/3Partners/featuredpitchsample.png">
+</div>
+<h2>Featured Pitches</h2>
+<hr>
+<p>Congratulations to the 4 featured pitches!</p>
+<p>These pitches were selected by the evaluation panel as the top pitches to feature for SLS Pitch Day 2021, in no particular rank order:</p>
+<ul>
+	<li>CLASS by Class Technologies Inc</li>
+	<li>Dim Sum Warriors by Yumcha Studios Pte Ltd</li>
+	<li>GETMARKED Digitaliser</li>
+	<li>VReaLab by Silversea Media (S) Pte Ltd</li>
+</ul>
+<h2>Shortlisted Pitches</h2>
+<hr>
 
 12 companies were shortlisted to present during the live pitch. Information about these companies can be found in the table below:
 
