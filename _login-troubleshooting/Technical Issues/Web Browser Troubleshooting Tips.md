@@ -32,4 +32,4 @@ Try disabling your browser extensions and see if the problem is resolved.
 
 You may refer to this <a href="/files/Login%20Troubleshooting/Clear-Cache.pdf">guide</a> on how to clear your cache.
 
-<a href="/files/Login%20Troubleshooting/Clear-Cache.pdf" target="_blank"><img src="/images/Media/5Troubleshooting/Clear-Cache.png"></a>
+<a href="/files/Login%20Troubleshooting/Clear-Cache.pdf" target="_blank"><img src="/images/4Troubleshooting/Clear-Cache.png"></a>
