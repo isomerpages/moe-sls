@@ -7,7 +7,7 @@ third_nav_title: Events
 <h2>Others</h2>
 <hr>
 <p>These include cross-category products, alternative Learning Management Systems, and other Teaching and Learning solutions that do not fit neatly into the previous categories (e.g. credentialing).</p>
-<p><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/slspd2021-o">Click here</a> to view the pitch proposals submitted by the participants below.</p>
+<p><a target="_blank" href="https://go.gov.sg/slspd2021-o">Click here</a> to view the pitch proposals submitted by the participants below.</p>
 
   <table>
     <thead>
