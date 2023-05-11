@@ -4,125 +4,197 @@ permalink: /partners/Events/slspitchday2021/
 description: ""
 third_nav_title: Events
 ---
-![](/images/Media/SLS%20Build%20(Category)/Dark_SLS.png)
-------------------------
+<img width="100%" src="../../../media/images/category/small_slsmicrositeimage.png">
+           
+<h2 class="section-title">Welcome to SLS Pitch Day</h2>
 
----
+<hr>
+<p>SLS Pitch Day is a platform for interested participants to propose products and services that would be useful for teaching and learning and have potential for integration with SLS. </p>
 
- The inaugural SLS Pitch Day was held on 15 September 2021 to provide a platform for participants to propose products and services that would be useful for teaching and learning and have potential for integration with SLS. Participants came up with pitches in response to a Task Statement and shortlisted pitches were presented live over videoconferencing to an evaluation panel comprised of senior management from MOE.
+<p>It allows an opportunity to connect, discuss and share with MOE divisions on products that may meet their needs.</p>
 
+<p>Shortlisted proposals will be presented by submitting teams to a panel comprising members of MOE's senior management.</p>
+
+
+<h2 class="section-title">Task</h2>
+<hr>
+<p>Describe your proposed product or service and how it would enhance one or more of the following Areas:
+</p><ul>
+<li><p>Curriculum</p></li>
+<li> <p>Pedagogy</p></li>
+<li><p>Assessment</p></li>
+</ul>
+<p></p>
+<p>From your selected Area(s), elaborate based on one or more of the following Themes:
+</p><ul>
+<li>
+<p>Self-directed: by developing pedagogy, tools and structures that help students develop intrinsic motivation and take ownership of their learning.</p></li>
+<li><p>Personalised: by creating learing experiences that customise the pace and path that caters to each child's needs.</p></li>
+<li><p>Connected: by developing collaborative learning experiences, and connect students' learning to the community and the world. </p></li>
+<li>
+                                 <p>Human-centred: by leveraging a data-driven understanding of how affect can help optimise learning for every child. </p>
+                               </li>
+                                  
+                      
+                        <br>
+                      <div class="page-content sug-user-content">
+                    <section class="section">
+                      <h2 class="section-title">Format</h2>
+                      <hr>
+                          <p>
+                            Participants will submit proposals according to the areas and themes specified in the task brief.</p>
+                             <p>
+                            All proposals will be reviewed by representatives from various MOE divisions and the shortlisted teams will present their proposal to a panel of senior managers. </p>
+                          <p>The product pitch will be in the form of a live pitch (and/or a demo) to be made within 20 minutes, inclusive of set-up and Q&amp;A. </p>
+
+                          <p>Selected proposals will be followed up on for further exploration by MOE.</p>
+
+
+                          <p>You can refer to more information <a target="_blank" href="https://www.go.gov.sg/slsinfopack">here.</a></p>
+
+                        </section>
+                      </div>
+
+                        <br>
+                      <div class="page-content sug-user-content">
+                    <section class="section">
+                      <h2 class="section-title">Rules and Regulations</h2>
+                      <hr>
+                          <p>
+                            Participants must submit their proposals using the provided template.</p>
+                             <p>
+                            A guide to the scoring system used will be provided (See <a target="_blank" href="https://www.go.gov.sg/slsinfopack">information pack for more details</a>).</p>
+                          <p>Proposals must be submitted on time. Late submissions will be asked to participate in the next Pitch Day instead.</p>
+
+                          <p>The judges' decision is final. No appeals will be entertained.</p>
+
+                        </section>
+                      </div>
+
+                        <br>
+                      <div class="page-content sug-user-content">
+                    <section class="section">
+                      <h2 class="section-title">After the Pitch</h2>
+                      <hr>
+                          <p>
+                            If your proposal has been selected for further exploration, a team from MOE will contact you. </p>
+                             <p>
+                            Regardless of selection outcome, all proposals will be featured on our Pitch Day Showcase webpage after the SLS Pitch Day.</p>
+
+                        </section>
+                      </div>
+
+                        <br>
+
+
+ <div class="page-content sug-user-content">
+                    <section class="section">
+  <h2 class="section-title">Event Schedule</h2>
+  <hr>
+      <p>
+        SLS Pitch Day Event Schedule
+      </p>
    
- Event Schedule
---------------
-
----
-
-|Month/Date|Event|
-|--- |--- |
-|June - July|Registration|
-|July - August|Consultations with registered participants|
-|August - September|Submission of proposals and shortlisting|
-|15 September|SLS Pitch Day (See Programme below)|
 
 
-  
- Programme
----------
 
----
-
-|Time|Item|
-|--- |--- |
-|0830 - 0915|Welcome Address and Opening Presentation (More details here)|
-|0930 - 1030|Panel Evaluation of Pitches|
-|1030 - 1100|Break|
-|1100 - 1200|Panel Evaluation of Pitches|
-|1200|End|
-
-
-  
- Registered Participants
------------------------
-
----
-
- All participants who had registered for SLS Pitch Day 2021 are featured in the table below. Shortlisted participants are indicated with an asterisk (\*).
-
-For more information, please refer to the respective pages - **Assessment and Analytics**, **Content and Resources**, **Pedagogy and Instruction**, **Others**.
-
-   
-**Assessment and Analytics**
-
-|S/N|Company Name|
-|--- |--- |
-|1|AvePoint Singapore Pte Ltd|
-|2|Blutick|
-|3|Codomo Pte Ltd|
-|4|GETMARKED*|
-|5|Integral Solutions (Asia) Pte Ltd|
-|6|Practicle Pte Ltd|
-
-  
-**Content and Resources**
-
-|S/N|Company Name|
-|--- |--- |
-|1|ACKTEC Technologies*|
-|2|Adam Khoo Learning Technologies Group Pte Ltd|
-|3|Cerebry|
-|4|CommonTown Pte Ltd|
-|5|Cornerstone Enrichment Pte Ltd|
-|6|Digitalbank Pte Ltd|
-|7|Doyobi|
-|8|Flying Cape x NurtureCraft|
-|9|Future Ready Academy*|
-|10|Moneytree Asia Pacific Pte Ltd|
-|11|Ottodot Pte Ltd*|
-|12|Poligon Pte Ltd|
-|13|Singapore Education Academy (Asia Pacific) Pte Ltd*|
-|14|Stag Match (in partnership with LearnCourseOnline.com)|
-|15|The Amdon Group*|
-|16|Yumcha Studios Pte Ltd*|
-
-
-  
-**Pedagogy and Instruction**
-
-|S/N|Company Name|
-|--- |--- |
-|1|Antares Solutions|
-|2|AppiLearn Pte Ltd|
-|3|Blue Orange Pte Ltd|
-|4|ClassDo|
-|5|Class Technologies Inc*|
-|6|CognaLearn|
-|7|Deck Toys Pte Ltd|
-|8|EvidenceB|
-|9|HeyHi Pte Ltd|
-|10|Inknoe Pte Ltd*|
-|11|KiteSense Ptd Ltd|
-|12|MXR International Pte Ltd - SnapLearn|
-|13|Noodle Factory Pte Ltd|
-|14|Sambaash|
-|15|Silversea Media (S) Pte Ltd*|
-|16|Solve My Question 2 Pte Ltd|
-|17|Soqqle|
-|18|Techsbook|
-
-
-  
-**Others**
-
-|S/N|Company Name|
-|--- |--- |
-|1|Accredify Pte Ltd|
-|2|Aware Group|
-|3|Babbobox Pte Ltd|
-|4|Bamboo System Technology Pte Ltd|
-|5|Blue Elephants Solutions Pte Ltd|
-|6|Cialfo|
-|7|Easylearn Pte Ltd|
-|8|Microsoft|
-|9|NEC Asia Pacific Pte Ltd*|
-|10|Sproud|
-|11|Taiger Singapore Pte Ltd*|
+      
+<table class="sug-datatable basic">
+                  <thead>
+    <tr>
+      <th>Date</th>
+      <th>Event</th>
+       <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        19 July
+      </td>
+      <td>
+        Registration Deadline
+      </td>
+       <td>
+        Extended to 23 July 2021
+      </td>
+    </tr>
+    <tr>
+      <td>
+        12 July - 23 July
+      </td>
+      <td>
+        Registration Confirmation
+      </td>
+      <td>
+        Receive Sandbox accounts
+      </td>
+    </tr>
+     <tr>
+      <td>
+        14 July
+      </td>
+      <td>
+        Familiarisation Session
+      </td>
+       <td>
+        More details <a target="_blank" href="https://www.go.gov.sg/slsinfopack">here</a>.
+      </td>
+    </tr>
+     <tr>
+      <td>
+        15 July - 24 Aug
+      </td>
+      <td>
+        1-1 Consultations
+      </td>
+       <td>
+        Write to SLS_Partnerships@moe.gov.sg
+      </td>
+    </tr>
+    <tr>
+      <td>
+        11 August
+      </td>
+      <td>
+       Check-in sessions via zoom
+      </td>
+       <td>
+        Update sent via email
+      </td>
+    </tr>
+    <tr>
+      <td>
+        25 August
+      </td>
+      <td>
+       Pitch Proposal Submission
+      </td>
+       <td>
+        FormSG link will be sent out via email
+      </td>
+    </tr>
+     <tr>
+      <td>
+        15 September
+      </td>
+      <td>
+       Pitch Day
+      </td>
+       <td>
+        Pitch by selected proposals. More details <a target="_blank" href="https://go.gov.sg/featuredpitches">here</a>.
+      </td>
+    </tr>
+    <tr>
+      <td>
+        30 September
+      </td>
+      <td>
+       Results
+      </td>
+       <td>
+        -
+      </td>
+    </tr>
+  </tbody>
+</table></section></div></ul>
