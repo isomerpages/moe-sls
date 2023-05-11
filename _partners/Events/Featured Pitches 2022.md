@@ -30,10 +30,8 @@ third_nav_title: Events
 
   
 
-  Participating Pitches
----------------------
-
----
+<h2> Participating Pitches</h2>
+<hr> 
 
  The following companies also submitted a pitch for SLS Pitch Day, seeking to enhance and add on to the features and resources in SLS:
 
