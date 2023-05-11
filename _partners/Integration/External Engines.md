@@ -4,10 +4,10 @@ permalink: /partners/Integration/externalengines/
 description: ""
 third_nav_title: Integration
 ---
- External Engines
+External Engines
 ================
 
-Beyond the integrated apps, SLS is able to make API calls to external engines that would enhance SLS capabilities. Some examples of such engines which have previously been integrated are [Text-to-Speech](../../teachers/user-guide/vle/teacher/RichText/TTS.html) and [Speech Evaluation](../../teachers/user-guide/vle/teacher/RichText/Speech.html).
+Beyond the integrated apps, SLS is able to make API calls to external engines that would enhance SLS capabilities. Some examples of such engines which have previously been integrated are <a target="_blank" href="/teacher-user-guide/author/texttospeech/">Text-to-Speech</a> and <a target="_blank" href="/teacher-user-guide/author/speechevaluation/">Speech Evaluation</a>.
 
 SLS also builds proprietary integrations with upstream authentication and admin systems such as MOE Identity Management System (MIMS), School Cockpit, Resource Management System, other tools such as Google Suite, and downstream data systems such as the SLS Learning Record Store.
 
@@ -19,5 +19,3 @@ We are interested in working with companies or agencies that can either:
  
     
 If you can offer such capabilities, please contact the [SLS Partnerships Team](https://go.gov.sg/sls-partnerships-contact) for further discussion.
-
-          
