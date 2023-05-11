@@ -4,7 +4,7 @@ permalink: /partners/Events/featuredpitches2022/
 description: ""
 third_nav_title: Events
 ---
-![](/images/Media/SLS%20Build%20(Category)/2022PitchDayFeaturedPitches.webp)
+![](/images/3Partners/2022PitchDayFeaturedPitches.webp)
 
 <h2>Featured Pitches</h2>
 <hr>
