@@ -4,7 +4,7 @@ permalink: /partners/Events/featuredpitches2021/
 description: ""
 third_nav_title: Events
 ---
-![](/images/Media/SLS%20Build%20(Category)/featuredpitchsample.png)
+![](/images/3Partners/featuredpitchsample.png)
 	 
 Featured Pitches
 ----------------
@@ -42,4 +42,3 @@ Featured Pitches
 |10|Taiger Singapore Pte Ltd|Learn Beyond Walls - TAIGER is an AI company with a dream to free the human intellect.|<a href="https://go.gov.sg/taiger" target="_blank"><img src="/images/Assets/PDF32.svg" style="width:50%;"></a>|
 |11|The Amdon Group|The Amdon Group is a global leader in STEM education for children aged 5 to 18 (Grades K-12).|<a href="https://go.gov.sg/amdon" target="_blank"><img src="/images/Assets/PDF32.svg" style="width:50%;"></a>|
 |12|Yumcha Studios Pte Ltd|The Dim Sum Warriors Comic Reader App increases language play, creativity, and reading engagement in Chinese and English through funny bilingual comic stories, super cute dim sum characters, games, and cutting-edge voice evaluation technology.|<a href="https://go.gov.sg/yumcha" target="_blank"><img src="/images/Assets/PDF32.svg" style="width:50%;"></a>|
-            
