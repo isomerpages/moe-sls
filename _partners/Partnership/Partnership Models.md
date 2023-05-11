@@ -20,7 +20,7 @@ SLS offers the following models for companies or agencies to form partnerships w
     2. Companies can further discuss integration opportunities with SLS, particularly if they are already LTI 1.3 compliant and have experience integrating their apps with other Learning Management Systems (LMSs) and have a significant user base amongst Singapore schools.
    
 - **External Engines**
-    1. SLS has built proprietary APIs to leverage external engines that offer enhanced capabilities in text-to-speech and speech evaluation. External engines can be integrated into SLS through the [Application Development Framework (ADF)](../../partners/partnershipintegration/adfspecifications.pdf).
+    1. SLS has built proprietary APIs to leverage external engines that offer enhanced capabilities in text-to-speech and speech evaluation. External engines can be integrated into SLS through the [Application Development Framework (ADF)](/files/Partnerships/adpspecifications21.pdf).
     2. Companies possessing external engines with advanced capabilities can: 
         - Offer the capability for integration with SLS as a standalone service,
         - Offer the capability as a separate service for integration with SLS (if it is currently part of a broader product), or
@@ -31,6 +31,3 @@ Companies or agencies that are interested to partner with SLS can approach:
 
 - The [relevant MOE divisions](https://www.moe.gov.sg/about-us/organisation-structure) to indicate their interest.
 - The [SLS Partnerships Team.](https://go.gov.sg/sls-partnerships-contact)
-
-   
-          
