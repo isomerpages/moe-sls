@@ -18,8 +18,8 @@ It allows an opportunity to connect, discuss and share with MOE divisions on pro
 
 <h2>Event Gallery</h2>
 <hr>
-<a href="/images/3Partners/JENI4774.jpg" target="_blank"><img src="/images/3Partners/JENI4774.jpg" alt="SLS Pitch Day 2022;" style="width: 50%; display: inline;"></a><a href="/images/3Partners/JENI4952.jpg" target="_blank"><img src="/images/3Partners/JENI4952.jpg" alt="Enchanting conversations" style="width: 50%; display: inline;"></a><a href="/images/3Partners/JENI4851.jpg" target="_blank"><img src="/images/3Partners/JENI4851.jpg" alt="Many people talking" style="width: 50%; display: inline;"></a><a href="/images/3Partners/JENI4987.jpg" target="_blank"><img src="/images/3Partners/JENI4987.jpg" style="width: 50%; display: inline;"></a><a href="/images/3Partners/JENI4949.jpg" target="_blank">
-<img src="/images/3Partners/JENI4949.jpg" style="width: 50%; display: inline;"></a>
+<a href="/images/3Partners/JENI4774.jpg" target="_blank"><img src="/images/3Partners/JENI4774.jpg" alt="SLS Pitch Day 2022;" style="width: 25%; display: inline;"></a><a href="/images/3Partners/JENI4952.jpg" target="_blank"><img src="/images/3Partners/JENI4952.jpg" alt="Enchanting conversations" style="width: 25%; display: inline;"></a><a href="/images/3Partners/JENI4851.jpg" target="_blank"><img src="/images/3Partners/JENI4851.jpg" alt="Many people talking" style="width: 25%; display: inline;"></a><a href="/images/3Partners/JENI4987.jpg" target="_blank"><img src="/images/3Partners/JENI4987.jpg" style="width: 25%; display: inline;"></a><a href="/images/3Partners/JENI4949.jpg" target="_blank">
+<img src="/images/3Partners/JENI4949.jpg" style="width: 25%; display: inline;"></a>
 
 <h2>Task</h2>
 <hr>
