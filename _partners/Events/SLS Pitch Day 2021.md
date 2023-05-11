@@ -4,7 +4,7 @@ permalink: /partners/Events/slspitchday2021/
 description: ""
 third_nav_title: Events
 ---
-<img width="100%" src="../../../media/images/category/small_slsmicrositeimage.png">
+<img width="100%" src="/images/3Partners/small_slsmicrositeimage.png">
            
 <h2 class="section-title">Welcome to SLS Pitch Day</h2>
 
