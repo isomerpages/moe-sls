@@ -4,12 +4,11 @@ permalink: /partners/Events/contentresources2021/
 description: ""
 third_nav_title: Events
 ---
-<div>
-    <h2>Content and Resources</h2>
+<h2>Content and Resources</h2>
     <hr>
     <p>Content Resources for all subjects, including both examinable and non-examinable subjects.</p>
     <a target="_blank" href="https://go.gov.sg/slspd2021-cr">Click here</a> to view the pitch proposals submitted by the participants below.
-</div>
+<br>		
 
 <table>
 <thead>
