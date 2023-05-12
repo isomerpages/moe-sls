@@ -6,7 +6,7 @@ third_nav_title: Teacher UG
 ---
 ## Assess
 
-### [1. Assess (Assess)](/teacher-user-guide/discover/index/)
+### [1. Assess](/teacher-user-guide/discover/index/)
 
 <details><summary><h4>How to assess students?</h4></summary>
 	
@@ -41,7 +41,7 @@ third_nav_title: Teacher UG
 </ol>
 </details>
 
-### [2. Assess (Track Progress)](/teacher-user-guide/discover/index/)
+### [2. Track Progress](/teacher-user-guide/discover/index/)
 
 <details><summary><h4>How to monitor student’s Learning Progress?</h4></summary>
 	
