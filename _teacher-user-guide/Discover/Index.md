@@ -5,10 +5,28 @@ description: ""
 third_nav_title: Discover
 ---
 ## Organise (Discover)
+Use SLS to search for and find useful T&amp;L resources for use in your lessons.
+
+![](/images/2Teacher/Flow-Discover.png)
+
+<details><summary><h4>How to add Resources from Library?</h4></summary>
+	
+* <a href="/teacher-user-guide/organise-discover/addexistingactivities/" target="_blank">Add Existing Activities from Resources</a>
+* <a href="/teacher-user-guide/organise-discover/addexisting/" target="_blank">Add Existing Components Resources</a>
+* <a href="#" target="_blank">Add Existing Media Objects from Resources</a>
+
+</details>
+
+<details><summary><h4>How to embed whitelisted websites?</h4></summary>
+<ul>
+  <li><a href="/teacher-user-guide/organise-discover/viewexternal/" target="_blank">View External Resources</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/organise-discover/embedwhitelisted/">Embed Whitelisted Websites</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/whitelistedwebsites/">Previously Whitelisted &amp; Non-Whitelisted Websites</a></li>
+</ul>
+</details>
 
 <details>
- <summary><h4>
-	 Where to search for resources?</h4></summary>
+ <summary><h4>How to install/use Apps?</h4></summary>
 
 <ul>
   <li><a target="_blank" href="/teacher-user-guide/discover/moelibrary">About the MOE Library</a></li>
@@ -21,23 +39,16 @@ third_nav_title: Discover
 </ul>
 </details>
 	
-<details><summary><h4>How to add Resources from Library?</h4></summary>
 	
-* <a href="/teacher-user-guide/organise-discover/addexistingactivities/" target="_blank">Add Existing Activities from Resources</a>
-* <a href="/teacher-user-guide/organise-discover/addexisting/" target="_blank">Add Existing Components Resources</a>
-* <a href="#" target="_blank">Add Existing Media Objects from Resources</a>
-
-</details>
-
-<details><summary><h4>What websites are whitelisted in SLS?</h4></summary>
+<details><summary><h4>How to follow My Subjects?</h4></summary>
+	
 <ul>
-  <li><a href="/teacher-user-guide/organise-discover/viewexternal/" target="_blank">View External Resources</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/organise-discover/embedwhitelisted/">Embed Whitelisted Websites</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/whitelistedwebsites/">Previously Whitelisted &amp; Non-Whitelisted Websites</a></li>
+<li><a href="/teacher-user-guide/discover/aboutsubjects/" target="_blank">About My Subjects</a></li>
+<li><a target="_blank" href="/teacher-user-guide/discover/followsubjects/">Follow &amp; Unfollow Subjects</a></li>
 </ul>
 </details>
 
-<details><summary><h4>What are My Subjects?</h4></summary>
+<details><summary><h4>More about Resources</h4></summary>
 	
 <ul>
 <li><a href="/teacher-user-guide/discover/aboutsubjects/" target="_blank">About My Subjects</a></li>
