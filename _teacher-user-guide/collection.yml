@@ -167,8 +167,6 @@ collections:
       - Collaborate/Add a Discussion & Topic.md
       - Collaborate/Share a Lesson.md
       - Collaborate/Access a Shared Lesson.md
-      - Assess/Mark Assignments as Complete and Incomplete.md
-      - Assess/View Students' Notes.md
       - Assess/.keep
       - Assess/Index.md
       - Assess/(1) Create Quizzes (New).md
@@ -185,6 +183,8 @@ collections:
       - Assess/Edit Quizzes (New).md
       - Assess/Set Assignments as Assessments.md
       - Assess/Add and View Passcodes.md
+      - Assess/View Students' Notes.md
+      - Assess/Mark Assignments as Complete and Incomplete.md
       - Track Progress/.keep
       - Track Progress/Index.md
       - Track Progress/About Learning Progress.md
