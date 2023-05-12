@@ -1,6 +1,6 @@
 ---
 title: Unlock Account
-permalink: /login-troubleshooting/Login-Self-Help-for-Students/UnlockAccount/
+permalink: /login-troubleshooting/login-self-help-for-students/unlockaccount/
 description: ""
 third_nav_title: Login Self Help for Students
 ---
