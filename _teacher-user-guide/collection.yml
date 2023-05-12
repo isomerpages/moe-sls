@@ -183,13 +183,13 @@ collections:
       - Assess (Assess)/Mark Teacher Marked Quizzes.md
       - Assess (Assess)/Release Teacher Marked Quizzes.md
       - Assess (Assess)/Unsubmit Teacher Marked Quizzes.md
-      - Assess (Track Progress)/.keep
-      - Assess (Track Progress)/Index.md
-      - Assess (Track Progress)/About Learning Progress.md
-      - Assess (Track Progress)/View by Topic.md
-      - Assess (Track Progress)/View by Month.md
-      - Assess (Track Progress)/View by Student.md
-      - Assess (Track Progress)/View Excluded Questions.md
+      - Track Progress/.keep
+      - Track Progress/Index.md
+      - Track Progress/About Learning Progress.md
+      - Track Progress/View by Topic.md
+      - Track Progress/View by Month.md
+      - Track Progress/View by Student.md
+      - Track Progress/View Excluded Questions.md
       - Publish/.keep
       - Publish/Index.md
       - Publish/Submit Lessons.md
