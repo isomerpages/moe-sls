@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Teacher UG/Enact.md
       - Teacher UG/Assess.md
       - Teacher UG/Administer.md
       - Teacher UG/Other Useful Information.md
