@@ -1,6 +1,6 @@
 ---
 title: Forgot Username
-permalink: /login-troubleshooting/Login-Self-Help-for-Students/ForgotUsername/
+permalink: /login-troubleshooting/login-self-help-for-students/forgotusername/
 description: ""
 third_nav_title: Login Self Help for Students
 ---
