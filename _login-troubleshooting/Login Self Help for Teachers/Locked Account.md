@@ -1,6 +1,6 @@
 ---
 title: Locked Account
-permalink: /login-troubleshooting/Login-Self-Help-for-Teachers/LockedAccount/
+permalink: /login-troubleshooting/login-self-help-for-teachers/lockedaccount/
 description: ""
 third_nav_title: Login Self Help for Teachers
 ---
