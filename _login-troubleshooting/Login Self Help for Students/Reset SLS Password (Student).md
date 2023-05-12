@@ -1,6 +1,6 @@
 ---
 title: Reset SLS Password (Student)
-permalink: /login-troubleshooting/Login-Self-Help-for-Students/ResetPasswordStudent/
+permalink: /login-troubleshooting/login-self-help-for-students/resetslspassword/
 description: ""
 third_nav_title: Login Self Help for Students
 ---
