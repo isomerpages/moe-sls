@@ -1,6 +1,6 @@
 ---
 title: Log in with MIMS (New)
-permalink: /login-troubleshooting/Login-Self-Help-for-Teachers/LoginMIMSTeacher/
+permalink: /login-troubleshooting/login-self-help-for-teachers/loginmimsteacher/
 description: ""
 third_nav_title: Login Self Help for Teachers
 ---
