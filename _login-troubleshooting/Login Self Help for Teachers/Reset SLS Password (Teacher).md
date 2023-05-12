@@ -1,6 +1,6 @@
 ---
 title: Reset SLS Password (Teacher)
-permalink: /login-troubleshooting/Login-Self-Help-for-Teachers/ResetPasswordTeacher/
+permalink: /login-troubleshooting/login-self-help-for-teachers/resetpasswordteacher/
 description: ""
 third_nav_title: Login Self Help for Teachers
 ---
