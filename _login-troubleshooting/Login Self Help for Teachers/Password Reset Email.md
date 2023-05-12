@@ -1,6 +1,6 @@
 ---
 title: Password Reset Email
-permalink: /login-troubleshooting/Login-Self-Help-for-Teachers/PasswordResetEmail/
+permalink: /login-troubleshooting/login-self-help-for-teachers/passwordresetemail/
 description: ""
 third_nav_title: Login Self Help for Teachers
 ---
