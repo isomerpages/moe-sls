@@ -14,9 +14,9 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 * <a href="/teacher-user-guide/organise-discover/addexistingactivities/" target="_blank">Add Existing Activities from Resources</a>
 * <a href="/teacher-user-guide/organise-discover/addexisting/" target="_blank">Add Existing Components Resources</a>
 * <a href="#" target="_blank">Add Existing Media Objects from Resources</a>
-
 </details>
 
+![](/images/2Teacher/Flow-Discover1.png)
 <details><summary><h4>How to embed whitelisted websites?</h4></summary>
 <ul>
   <li><a href="/teacher-user-guide/organise-discover/viewexternal/" target="_blank">View External Resources</a></li>
