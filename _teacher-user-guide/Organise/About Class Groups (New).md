@@ -9,7 +9,7 @@ third_nav_title: Organise
 <p>There are two types of Class Groups in SLS:</p>
 <ol>
     <li>Class Groups (Class) are created using subject class and teaching group information imported from School Cockpit. Class Groups are assigned a specific colour based on the subject type e.g. green for Sciences, orange for Mathematics.</li>
-	<p>Note: If you are unable to see the Class Groups, please check with your School Cockpit administrator if you have been assigned classes/teaching groups in School Cockpit. It will take 3 to 5 days for the classes/teaching groups in School Cockpit to be reflected in SLS.</p>
+	<p><u>Note</u>: If you are unable to see the Class Groups, please check with your School Cockpit administrator if you have been assigned classes/teaching groups in School Cockpit. It will take 3 to 5 days for the classes/teaching groups in School Cockpit to be reflected in SLS.</p>
 
 <li>Class Groups (Group) are created by Teachers in SLS. Students and Teachers can be added to the Group. To find out more about the types of users that can be added, please see <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/ClassGroupManagement/CreateGroup.html">here</a>.</li>
 
