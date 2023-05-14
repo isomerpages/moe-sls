@@ -54,7 +54,7 @@ third_nav_title: Notify
   <li>Enter the <strong>Title</strong>. This will be displayed in the Announcement listing.</li>
   <li>Enter the <strong>Message</strong> in the Rich Text Editor.</li>
   <li>Select the <strong>Start Date</strong> and <strong>Time</strong> of the Announcement.<br><br>
-    <strong>Note:</strong> The Announcement will only appear on the students' homepage and the Class Group page after the Start Date, and the Announcement will expire in 90 days from the start date.</li>
+    <u>Note</u>: The Announcement will only appear on the students' homepage and the Class Group page after the Start Date, and the Announcement will expire in 90 days from the start date.</li>
   <li>Click <strong>Create</strong>.</li>
   <li>Once the Announcement has started, students will receive a Notification.</li>
 </ol>
