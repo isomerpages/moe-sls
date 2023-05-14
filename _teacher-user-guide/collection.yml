@@ -36,15 +36,16 @@ collections:
       - Plan/Index.md
       - Plan/(1) Access Planner.md
       - Plan/(2) Create Class Events.md
+      - Organise/.keep
       - Organise/Index.md
       - Organise/About Class Groups (New).md
-      - Organise/Pin Class Groups.md
-      - Organise/View Past Class Groups.md
       - Organise/Create Class Groups.md
       - Organise/Add Teachers as Students to a Class Group.md
-      - Organise/Archive Class Groups.md
-      - Organise/About Class Group Resources.md
       - Organise/Manage Class Group Resources.md
+      - Organise/Pin Class Groups.md
+      - Organise/Archive Class Groups.md
+      - Organise/View Past Class Groups.md
+      - Organise/About Class Group Resources.md
       - Organise/About App Library.md
       - Organise/Access App Library.md
       - Organise/About Apps.md
@@ -57,11 +58,10 @@ collections:
       - Organise/Organise My Drive.md
       - Organise/View Lessons Shared with Me.md
       - Organise/Move Resources to Trash.md
-      - Organise/Restore Resources from Trash.md
       - Organise/Delete Resources Permanently.md
       - Organise/About Starred Resources.md
+      - Organise/Restore Resources from Trash.md
       - Organise/Star Resources.md
-      - Organise/.keep
       - Customise/.keep
       - Customise/Index.md
       - Customise/Manage My Templates.md
