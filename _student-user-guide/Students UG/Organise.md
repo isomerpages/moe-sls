@@ -6,7 +6,7 @@ third_nav_title: Students UG
 ---
 ## Organise
 
-### [1. Organise (Discover)](/teacher-user-guide/discover/index/)
+### [1. Discover](/teacher-user-guide/discover/index/)
 Use SLS to discover, search for and find useful Teaching &amp; Learning resources that you can learn from.
 <details><summary><h4>Where to find self-study resources?</h4></summary>
 
@@ -25,7 +25,7 @@ Use SLS to discover, search for and find useful Teaching &amp; Learning resource
 </ul>
 </details>
 
-### [2. Organise (Notify)](../teacher-user-guide/organise/notify/)
+### [2. Notify](../teacher-user-guide/organise/notify/)
 Use SLS to receive notifications to follow up on Teaching &amp; Learning matters.
 
 <a target="_blank" href="https://www.notion.so/About-Notifications-New-2cbb1b3c875e42638a257c0fef32a960">About Notifications (New)</a>
@@ -37,7 +37,7 @@ Use SLS to receive notifications to follow up on Teaching &amp; Learning matters
 </ul>
 </details>
 
-### [3. Organise (Plan)](../teacher-user-guide/organise/plan/)
+### [3. Plan](../teacher-user-guide/organise/plan/)
 Use SLS to plan personal events and be updated on class group events.
 <details><summary><h4>How to use SLS Planner?</h4></summary>
 	<ul>
@@ -50,7 +50,7 @@ Use SLS to plan personal events and be updated on class group events.
 </ul>
 </details>
 
-### [4. Organise (Organise)](../teacher-user-guide/organise/organise/)
+### [4. Organise](../teacher-user-guide/organise/organise/)
 Use SLS to organize your personal and class group resources, assignments, conversations and notifications.
 
 <details><summary><h4>How to access Class Groups?</h4></summary>
