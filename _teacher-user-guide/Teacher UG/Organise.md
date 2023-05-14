@@ -83,42 +83,31 @@ Use SLS to plan personal and class group events.
 </ul>
 </details>
 
-### [4. Organise](../teacher-user-guide/organise/organise/)
+### [4. Organise](../teacher-user-guide/organise/index/)
 Use SLS to to organise your personal and class group resources, assignments and notifications.
 <details>
- <summary><h4>What are Class Groups?</h4></summary>
-
-<ul>
-  <li><a href="https://www.notion.so/About-Class-Groups-New-6b6bd1bdb37549939a21979f3eb6e70e" target="_blank">About Class Groups (New)</a></li>
-  <li><a href="https://www.notion.so/Pin-Class-Groups-Enhanced-66db7f7fae2942fc9b4d435b05ec8e86" target="_blank">Pin Class Groups (Enhanced)</a></li>
-  <li><a href="https://www.notion.so/View-Past-Class-Groups-19305bf1abfc4211b3cecdd2223894bd" target="_blank">View Past Class Groups</a></li>
-</ul>
-</details>
-
-<details>
  <summary><h4>How to create Class Groups in SLS?</h4></summary>
-	
-<ul>
-  <li><a href="https://www.notion.so/Create-Class-Groups-New-5873f8656645455b82c3112e94352f0b" target="_blank">About Class Groups (New)</a></li>
-  <li><a href="https://www.notion.so/Add-Teachers-as-Students-to-a-Class-Group-cbba016aebdb4584bff9b1a5106d1651" target="_blank">(1) Create Class Groups (New)</a></li>
-  <li><a href="https://www.notion.so/Archive-Class-Groups-5251e69ed3974f558b75cabcfa8aa82f" target="_blank">(2) Add Teachers as Students to a Class Group</a></li>
-</ul>
 
+<ul>
+  <li><a href="/teacher-user-guide/organise/about-class-groups/" target="_blank">About Class Groups (New)</a></li>
+  <li><a href="/teacher-user-guide/organise/create-class-groups/" target="_blank">(1) Create Class Groups (New)</a></li>
+  <li><a href="/teacher-user-guide/organise/add-teachers-as-students-to-a-class-group/" target="_blank">(2) Add Teachers as Students to a Class Group</a></li>
+</ul>
 </details>
 
 <details>
  <summary><h4>How to organise Class Group Resources?</h4></summary>
 	
 <ul>
-<li><a href="https://www.notion.so/About-Class-Group-Resources-6338d5bcdbf4445991a615bbc2200d9e" target="_blank">Manage Class Group Resources</a></li>
+<li><a href="/teacher-user-guide/organise/manage-class-group-resources/" target="_blank">Manage Class Group Resources</a></li>
 </ul>
 </details>
 
 <details>
  <summary><h4>How to install/use Apps in Class Groups?</h4></summary>
    <ul>
-      <li><a href="https://www.notion.so/About-App-Library-889bd05c7c7f423fa66e6a2d9a567ac2" target="_blank">Install and Launch Apps</a></li>
-      <li><a href="https://www.notion.so/Access-App-Library-802c2e031017428b9230618fe569abcc" target="_blank">App FAQs</a></li>
+      <li><a href="/teacher-user-guide/organise/install-and-launch-apps/" target="_blank">Install and Launch Apps</a></li>
+      <li><a href="/teacher-user-guide/organise/app-faqs/" target="_blank">App FAQs</a></li>
     </ul>
 </details>
 
@@ -126,9 +115,9 @@ Use SLS to to organise your personal and class group resources, assignments and 
  <summary><h4>More about Class Groups</h4></summary>
 	
 <ul>
-  <li><a target="_blank" href="https://www.notion.so/About-My-Drive-a89d22f00e1a4a028c1c0bc18940598f">Pin Class Groups (Enhanced)</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Search-in-My-Drive-f17a4059d4d241cdaa237cb05311651d">Archive Class Groups</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Create-New-Folders-e37c8a8e862f4d208471aeacb77a5aa5">View Past Class Groups</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/organise/pin-class-groups/">Pin Class Groups (Enhanced)</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/organise/archive-class-groups/">Archive Class Groups</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/organise/view-past-class-groups/">View Past Class Groups</a></li>
 </ul>
 </details>
 
@@ -136,11 +125,11 @@ Use SLS to to organise your personal and class group resources, assignments and 
  <summary><h4>How to organise My Lessons in My Drive?</h4></summary>
 	
 <ul>
-  <li><a target="_blank" href="https://www.notion.so/About-My-Drive-a89d22f00e1a4a028c1c0bc18940598f">(1) Access My Drive</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Search-in-My-Drive-f17a4059d4d241cdaa237cb05311651d">(2) Search in My Drive</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Create-New-Folders-e37c8a8e862f4d208471aeacb77a5aa5">(3a) Create New Folders</a></li>
-	  <li><a target="_blank" href="https://www.notion.so/Search-in-My-Drive-f17a4059d4d241cdaa237cb05311651d">(3b) View Lessons Shared with Me</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Create-New-Folders-e37c8a8e862f4d208471aeacb77a5aa5">(4) Delete Resources</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/organise/access-my-drive/">(1) Access My Drive</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/organise/search-in-my-drive/">(2) Search in My Drive</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/organise/create-new-folders/">(3a) Create New Folders</a></li>
+	  <li><a target="_blank" href="/teacher-user-guide/organise/view-lessons-shared-with-me/">(3b) View Lessons Shared with Me</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/organise/delete-resources/">(4) Delete Resources</a></li>
 </ul>
 </details>
 
@@ -148,16 +137,16 @@ Use SLS to to organise your personal and class group resources, assignments and 
  <summary><h4>More about My Drive</h4></summary>
 	
 <ul>
-  <li><a target="_blank" href="https://www.notion.so/About-My-Drive-a89d22f00e1a4a028c1c0bc18940598f">Copy Lessons within My Drive</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Search-in-My-Drive-f17a4059d4d241cdaa237cb05311651d">Manage Folders</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Create-New-Folders-e37c8a8e862f4d208471aeacb77a5aa5">Restore Resources from Trash</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/organise/copy-lessons-within-my-drive/">Copy Lessons within My Drive</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/organise/manage-folders/">Manage Folders</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/organise/restore-resources-from-trash/">Restore Resources from Trash</a></li>
 </ul>
 </details>
 	
 <details>
  <summary><h4>How to organise Starred Resources?</h4></summary>
 <ul>
-  <li><a target="_blank" href="https://www.notion.so/Star-Resources-87360dc1268d4050a1f7e6bafe643c66">Star Resources</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/organise/star-resources/">Star Resources</a></li>
 </ul>
 </details>
 
