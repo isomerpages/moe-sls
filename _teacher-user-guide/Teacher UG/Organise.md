@@ -6,7 +6,7 @@ third_nav_title: Teacher UG
 ---
 ## Organise
 
-### [1. Discover](../teacher-user-guide/discover/index/)
+### [1. Discover](/teacher-user-guide/discover/index/)
 Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 <details>
  <summary><h4>How to add Resources from Library?</h4></summary>
@@ -52,7 +52,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 </ul>
 </details>	
 
-### [2. Notify](../teacher-user-guide/notify/index/)
+### [2. Notify](/teacher-user-guide/notify/index/)
 Use SLS to notify other teachers and students easily on T&amp;L matters across the system, classes and individual levels.
 <details>
  <summary><h4>How to manage Announcements?</h4></summary>
@@ -72,7 +72,7 @@ Use SLS to notify other teachers and students easily on T&amp;L matters across t
 </ul>
 </details>
 
-### [3. Plan](../teacher-user-guide/plan/index/)
+### [3. Plan](/teacher-user-guide/plan/index/)
 Use SLS to plan personal and class group events.
 <details>
  <summary><h4>How to use SLS Planner?</h4></summary>
@@ -83,7 +83,7 @@ Use SLS to plan personal and class group events.
 </ul>
 </details>
 
-### [4. Organise](../teacher-user-guide/organise/index/)
+### [4. Organise](/teacher-user-guide/organise/index/)
 Use SLS to to organise your personal and class group resources, assignments and notifications.
 <details>
  <summary><h4>How to create Class Groups in SLS?</h4></summary>
@@ -150,7 +150,7 @@ Use SLS to to organise your personal and class group resources, assignments and 
 </ul>
 </details>
 
-### [5. Organise (Customise)](../teacher-user-guide/organise/customise/)
+### [5. Organise (Customise)](/teacher-user-guide/organise/customise/)
 
 <details>
  <summary><h4>How to create my own Lesson Templates?</h4></summary>
