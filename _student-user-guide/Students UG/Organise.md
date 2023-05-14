@@ -6,46 +6,46 @@ third_nav_title: Students UG
 ---
 ## Organise
 
-### [1. Discover](/teacher-user-guide/discover/index/)
+### [1. Discover](../student-user-guide/discover/index/)
 Use SLS to discover, search for and find useful Teaching &amp; Learning resources that you can learn from.
 <details><summary><h4>Where to find self-study resources?</h4></summary>
 
 <ul>
-<li><a target="_blank" href="https://www.notion.so/About-Self-Study-Resources-New-ba3327e653f34034ad34bd25633af58a">About Self-Study Resources (New)</a></li>
-<li><a target="_blank" href="https://www.notion.so/Access-Self-Study-Resources-New-90f3de040d2b4004b466bce49b6b1920">(1) Access Self-Study Resources (New)</a></li>
-	<li><a target="_blank" href="https://www.notion.so/Search-for-Resources-New-4491f3970e9142728ca43510f1572b89">(2) Search for Resources (New)</a></li>
-<li><a target="_blank" href="https://www.notion.so/Attempt-Self-Study-Resources-New-ce320c72330b4c558d9e2ea6259aa099">(3) Attempt Self-Study Resources (New)</a></li>
+<li><a target="_blank" href="/student-user-guide/discover/about-self-study-resources/">About Self-Study Resources (New)</a></li>
+<li><a target="_blank" href="/student-user-guide/discover/access-self-study-resources/">(1) Access Self-Study Resources (New)</a></li>
+	<li><a target="_blank" href="/student-user-guide/discover/search-for-self-study-resources/">(2) Search for Resources (New)</a></li>
+<li><a target="_blank" href="/student-user-guide/discover/attempt-self-study-resources/">(3) Attempt Self-Study Resources (New)</a></li>
 </ul>
 </details>
 	
 <details><summary><h4>How to use App Library?</h4></summary>
 
 <ul>
-  <li><a target="_blank" href="https://www.notion.so/Access-App-Library-50df2797f337499cb373d976ed1e7b25">Access App Library</a></li>
+  <li><a target="_blank" href="/student-user-guide/discover/access-app-library/">Access App Library</a></li>
 </ul>
 </details>
 
 ### [2. Notify](../teacher-user-guide/organise/notify/)
 Use SLS to receive notifications to follow up on Teaching &amp; Learning matters.
 
-<a target="_blank" href="https://www.notion.so/About-Notifications-New-2cbb1b3c875e42638a257c0fef32a960">About Notifications (New)</a>
+<a target="_blank" href="/student-user-guide/notify/about-notifications/">About Notifications (New)</a>
 
 <details><summary><h4>What are Notifications? (New)</h4></summary>
 
 <ul>
-<li><a target="_blank" href="https://www.notion.so/View-Notifications-New-7e5a0c20fb91454cba158aba6be15e6f">View Notifications (New)</a></li>
+<li><a target="_blank" href="/student-user-guide/notify/view-notifications/">View Notifications (New)</a></li>
 </ul>
 </details>
 
-### [3. Plan](../teacher-user-guide/organise/plan/)
+### [3. Plan](../student-user-guide/plan/plan)
 Use SLS to plan personal events and be updated on class group events.
 <details><summary><h4>How to use SLS Planner?</h4></summary>
 	<ul>
   <li>
-<a target="_blank" href="https://www.notion.so/About-Planner-New-24a3ad25ba3f44acb6645d9c91b777d2">(1) Access Planner (New)</a>
+<a target="_blank" href="/student-user-guide/plan/access-planner/">(1) Access Planner (New)</a>
 		</li>
 		  <li>
-<a target="_blank" href="https://www.notion.so/About-Planner-New-24a3ad25ba3f44acb6645d9c91b777d2">(2) Create a New Event (New)</a>
+<a target="_blank" href="/student-user-guide/plan/create-a-new-event/">(2) Create a New Event (New)</a>
 		</li>
 </ul>
 </details>
@@ -56,48 +56,48 @@ Use SLS to organize your personal and class group resources, assignments, conver
 <details><summary><h4>How to access Class Groups?</h4></summary>
 
 <ul>
-	  <li><a target="_blank" href="https://www.notion.so/Pin-Class-Groups-Enhanced-60046a9563b64c429ca5b09452cfbd78">About Class Groups</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Access-Class-Groups-80e7d028a0174ff3be9a96a59fb0c8a3">Access Class Groups</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Access-Past-Class-Groups-10d92c314a0f4b2fb19c9b5711e48e25">Access Past Class Groups</a></li>
+	  <li><a target="_blank" href="/student-user-guide/organise/about-class-groups/">About Class Groups</a></li>
+  <li><a target="_blank" href="/student-user-guide/organise/access-class-groups/">Access Class Groups</a></li>
+  <li><a target="_blank" href="/student-user-guide/organise/access-past-class-groups/">Access Past Class Groups</a></li>
 </ul>	
 </details>
 
 <details><summary><h4>How to organise My Drive?</h4></summary>
 
 <ul>
-  <li><a target="_blank" href="https://www.notion.so/Search-in-My-Drive-615058454d3c4168a8c4c30d78f788ab">(1) Search in My Drive</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Create-New-Folders-4a1e9822f04a42c4b76730cae67ee7ef">(2) Create New Folders</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Organise-My-Drive-b4e38ee1221145d396fd9a3230c39cbc">(3) Delete Resources</a></li>
+  <li><a target="_blank" href="/student-user-guide/organise/search-in-my-drive/">(1) Search in My Drive</a></li>
+  <li><a target="_blank" href="/student-user-guide/organise/create-new-folders/">(2) Create New Folders</a></li>
+  <li><a target="_blank" href="/student-user-guide/organise/delete-resources/">(3) Delete Resources</a></li>
 	</ul>	
 </details>
 	
 <details><summary><h4>More About My Drive</h4></summary>
 <ul>
-  <li><a target="_blank" href="https://www.notion.so/Move-Resources-to-Trash-0e4680d17e96409193095612e1defc25">Manage Folders</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Restore-Resources-from-Trash-6321ee12cd0b4e62af7aa416558c6c51">Restore Resources from Trash</a></li>
+  <li><a target="_blank" href="/student-user-guide/organise/manage-folders/">Manage Folders</a></li>
+  <li><a target="_blank" href="/student-user-guide/organise/restore-resources-from-trash/">Restore Resources from Trash</a></li>
 </ul>	
 </details>
 
 <details><summary><h4>How to star resources?</h4></summary>
 
 <ul>
-<li><a target="_blank" href="https://www.notion.so/Star-Resources-428ae0a7460343dab96ef042e4826d9b">Star Resources</a></li>
+<li><a target="_blank" href="/student-user-guide/organise/star-resources/">Star Resources</a></li>
 </ul>
 </details>
 
 <details><summary><h4>What are My Subjects?</h4></summary>
 	
 <ul>
-<li><a target="_blank" href="https://www.notion.so/About-My-Subjects-18db7a7db85a47069a57b2782d4e2393">Access My Subjects</a></li>
-<li><a target="_blank" href="https://www.notion.so/Follow-Unfollow-Subjects-c4682431eba444c99f40105769cd5827">Follow &amp; Unfollow Subjects</a></li>
+<li><a target="_blank" href="/student-user-guide/organise/access-my-subjects/">Access My Subjects</a></li>
+<li><a target="_blank" href="/student-user-guide/organise/follow-and-unfollow-subjects/">Follow &amp; Unfollow Subjects</a></li>
 </ul>
 </details>
 
 <details><summary><h4>How to organise self-study resources?</h4></summary>
 
 <ul>
-<li><a target="_blank" href="https://www.notion.so/View-Print-Friendly-Worksheet-786df90b43244739957011861d19c28a">View Print-Friendly Worksheet</a></li>
-<li><a target="_blank" href="https://www.notion.so/Copy-to-My-Drive-11b20088b3c341998b8b66e92215ae47">Copy to My Drive</a></li>
+<li><a target="_blank" href="/student-user-guide/organise/view-print-friendly-worksheet/">View Print-Friendly Worksheet</a></li>
+<li><a target="_blank" href="/student-user-guide/organise/copy-to-my-drive/">Copy to My Drive</a></li>
 </ul>
 </details>
 
