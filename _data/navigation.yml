@@ -12,13 +12,13 @@ links:
     url: /userguides
     sublinks:
       - title: Students UG
-        url: /student-user-guide/organise-discover/index/
+        url: /student-user-guide/student-ug/organise/
       - title: Teachers UG
-        url: /teacher-user-guide/discover/index/
+        url: /teacher-user-guide/teacher-ug/organise/
       - title: Admin UG
-        url: /admin-user-guide/administer-administer/index/
+        url: /admin-user-guide/administer/index/
       - title: Login Troubleshooting UG
-        url: /login-troubleshooting/SchoolBasedHelpline/
+        url: /login-troubleshooting/schoolbasedhelpline/
   - title: About Sls
     collection: about-sls
   - title: Login to SLS
