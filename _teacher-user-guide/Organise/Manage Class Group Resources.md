@@ -18,10 +18,9 @@ third_nav_title: Organise
 
 <ol>
   <li>You can access Class Group Resources from the Class Group page.</li>
+<img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e95c00c1-5624-4174-9d32-3ff425ca7aa7/Untitled.png">
   <li>In the specific class group, select the <strong>Resources</strong> tab.</li>
 </ol>
-
-<img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e95c00c1-5624-4174-9d32-3ff425ca7aa7/Untitled.png">
 
 <h2>Add Class Group Resources</h2>
 
@@ -37,7 +36,7 @@ third_nav_title: Organise
 
 <img alt="CGR-3.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d41ea6f3-3c91-4750-92cb-2f11c6ed6507/CGR-3.png">
 
-<p> Note: For MOE Library resources, permission to make a copy has to be enabled in order for the Resource to be added to Class Group Resources.</p>
+<p><u>Note</u>: For MOE Library resources, permission to make a copy has to be enabled in order for the Resource to be added to Class Group Resources.</p>
 
 <h2>Create Categories</h2>
 
@@ -52,9 +51,10 @@ third_nav_title: Organise
 
 <ol>
   <li>On the <strong>Resource</strong> tab in the Class Group, locate the Resource Card for the resource you wish to move. You may also use the search feature to locate the resource.</li>
-  <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Resource Card for the resource you wish to move. Select <strong>Move to Category</strong> to move the resource to another Category, or <strong>Move Resource</strong> to move the resource to another Class Group.</li>
-</ol>
-
+	
 <img alt="CGR-5.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f56f09da-942b-4834-9da0-5a6a273f6411/CGR-5.png">
+	
+<li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Resource Card for the resource you wish to move. Select <strong>Move to Category</strong> to move the resource to another Category, or <strong>Move Resource</strong> to move the resource to another Class Group.</li>
+</ol>
 
 <img alt="CGR-6.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ab75607b-fd14-4d3d-af36-890610d53e9f/CGR-6.png">
