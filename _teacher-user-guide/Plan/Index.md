@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/organise-plan/index/
 description: ""
 third_nav_title: Plan
 ---
-### [3. Plan](../teacher-user-guide/organise-plan/index/)
+## Plan
 Use SLS to plan personal and class group events.
 <details>
  <summary><h4>How to use SLS Planner?</h4></summary>
