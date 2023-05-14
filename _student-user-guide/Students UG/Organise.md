@@ -7,40 +7,47 @@ third_nav_title: Students UG
 ## Organise
 
 ### [1. Organise (Discover)](/teacher-user-guide/discover/index/)
-
+Use SLS to discover, search for and find useful Teaching &amp; Learning resources that you can learn from.
 <details><summary><h4>Where to find self-study resources?</h4></summary>
 
 <ul>
 <li><a target="_blank" href="https://www.notion.so/About-Self-Study-Resources-New-ba3327e653f34034ad34bd25633af58a">About Self-Study Resources (New)</a></li>
-<li><a target="_blank" href="https://www.notion.so/Access-Self-Study-Resources-New-90f3de040d2b4004b466bce49b6b1920">Access Self-Study Resources (New)</a></li>
-<li><a target="_blank" href="https://www.notion.so/Attempt-Self-Study-Resources-New-ce320c72330b4c558d9e2ea6259aa099">Attempt Self-Study Resources (New)</a></li>
-<li><a target="_blank" href="https://www.notion.so/Search-for-Resources-New-4491f3970e9142728ca43510f1572b89">Search for Resources (New)</a></li>
+<li><a target="_blank" href="https://www.notion.so/Access-Self-Study-Resources-New-90f3de040d2b4004b466bce49b6b1920">(1) Access Self-Study Resources (New)</a></li>
+	<li><a target="_blank" href="https://www.notion.so/Search-for-Resources-New-4491f3970e9142728ca43510f1572b89">(2) Search for Resources (New)</a></li>
+<li><a target="_blank" href="https://www.notion.so/Attempt-Self-Study-Resources-New-ce320c72330b4c558d9e2ea6259aa099">(3) Attempt Self-Study Resources (New)</a></li>
 </ul>
 </details>
 	
 <details><summary><h4>How to use App Library?</h4></summary>
 
 <ul>
-  <li><a target="_blank" href="https://www.notion.so/About-App-Library-e1ea09b0abe347429dad490b3f52387e">About App Library</a></li>
   <li><a target="_blank" href="https://www.notion.so/Access-App-Library-50df2797f337499cb373d976ed1e7b25">Access App Library</a></li>
 </ul>
 </details>
 
 ### [2. Organise (Notify)](../teacher-user-guide/organise/notify/)
+Use SLS to receive notifications to follow up on Teaching &amp; Learning matters.
+
+<a target="_blank" href="https://www.notion.so/About-Notifications-New-2cbb1b3c875e42638a257c0fef32a960">About Notifications (New)</a>
 
 <details><summary><h4>What are Notifications? (New)</h4></summary>
 
 <ul>
-<li><a target="_blank" href="https://www.notion.so/About-Notifications-New-2cbb1b3c875e42638a257c0fef32a960">About Notifications (New)</a></li>
 <li><a target="_blank" href="https://www.notion.so/View-Notifications-New-7e5a0c20fb91454cba158aba6be15e6f">View Notifications (New)</a></li>
 </ul>
 </details>
 
 ### [3. Organise (Plan)](../teacher-user-guide/organise/plan/)
-
+Use SLS to plan personal events and be updated on class group events.
 <details><summary><h4>How to use SLS Planner?</h4></summary>
-	
-<a target="_blank" href="https://www.notion.so/About-Planner-New-24a3ad25ba3f44acb6645d9c91b777d2">About Planner (New)</a>
+	<ul>
+  <li>
+<a target="_blank" href="https://www.notion.so/About-Planner-New-24a3ad25ba3f44acb6645d9c91b777d2">(1) Access Planner (New)</a>
+		</li>
+		  <li>
+<a target="_blank" href="https://www.notion.so/About-Planner-New-24a3ad25ba3f44acb6645d9c91b777d2">(2) Create a New Event (New)</a>
+		</li>
+</ul>
 </details>
 
 ### [4. Organise (Organise)](../teacher-user-guide/organise/organise/)
