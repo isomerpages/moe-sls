@@ -51,34 +51,36 @@ Use SLS to plan personal events and be updated on class group events.
 </details>
 
 ### [4. Organise (Organise)](../teacher-user-guide/organise/organise/)
+Use SLS to organize your personal and class group resources, assignments, conversations and notifications.
 
 <details><summary><h4>How to access Class Groups?</h4></summary>
 
 <ul>
+	  <li><a target="_blank" href="https://www.notion.so/Pin-Class-Groups-Enhanced-60046a9563b64c429ca5b09452cfbd78">About Class Groups</a></li>
   <li><a target="_blank" href="https://www.notion.so/Access-Class-Groups-80e7d028a0174ff3be9a96a59fb0c8a3">Access Class Groups</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Pin-Class-Groups-Enhanced-60046a9563b64c429ca5b09452cfbd78">Pin Class Groups (Enhanced)</a></li>
   <li><a target="_blank" href="https://www.notion.so/Access-Past-Class-Groups-10d92c314a0f4b2fb19c9b5711e48e25">Access Past Class Groups</a></li>
 </ul>	
-
 </details>
 
 <details><summary><h4>How to organise My Drive?</h4></summary>
 
 <ul>
-  <li><a target="_blank" href="https://www.notion.so/Search-in-My-Drive-615058454d3c4168a8c4c30d78f788ab">Search in My Drive</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Create-New-Folders-4a1e9822f04a42c4b76730cae67ee7ef">Create New Folders</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Organise-My-Drive-b4e38ee1221145d396fd9a3230c39cbc">Organise My Drive</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Move-Resources-to-Trash-0e4680d17e96409193095612e1defc25">Move Resources to Trash</a></li>
+  <li><a target="_blank" href="https://www.notion.so/Search-in-My-Drive-615058454d3c4168a8c4c30d78f788ab">(1) Search in My Drive</a></li>
+  <li><a target="_blank" href="https://www.notion.so/Create-New-Folders-4a1e9822f04a42c4b76730cae67ee7ef">(2) Create New Folders</a></li>
+  <li><a target="_blank" href="https://www.notion.so/Organise-My-Drive-b4e38ee1221145d396fd9a3230c39cbc">(3) Delete Resources</a></li>
+	</ul>	
+</details>
+	
+<details><summary><h4>More About My Drive</h4></summary>
+<ul>
+  <li><a target="_blank" href="https://www.notion.so/Move-Resources-to-Trash-0e4680d17e96409193095612e1defc25">Manage Folders</a></li>
   <li><a target="_blank" href="https://www.notion.so/Restore-Resources-from-Trash-6321ee12cd0b4e62af7aa416558c6c51">Restore Resources from Trash</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Delete-Resources-Permanently-09ba5c50a406457e82838275350ac296">Delete Resources Permanently</a></li>
 </ul>	
-
 </details>
 
 <details><summary><h4>How to star resources?</h4></summary>
 
 <ul>
-<li><a target="_blank" href="https://www.notion.so/About-Starred-Resources-2ffaa00b740749d691094c6bfe90d3de">About Starred Resources</a></li>
 <li><a target="_blank" href="https://www.notion.so/Star-Resources-428ae0a7460343dab96ef042e4826d9b">Star Resources</a></li>
 </ul>
 </details>
@@ -86,7 +88,7 @@ Use SLS to plan personal events and be updated on class group events.
 <details><summary><h4>What are My Subjects?</h4></summary>
 	
 <ul>
-<li><a target="_blank" href="https://www.notion.so/About-My-Subjects-18db7a7db85a47069a57b2782d4e2393">About My Subjects</a></li>
+<li><a target="_blank" href="https://www.notion.so/About-My-Subjects-18db7a7db85a47069a57b2782d4e2393">Access My Subjects</a></li>
 <li><a target="_blank" href="https://www.notion.so/Follow-Unfollow-Subjects-c4682431eba444c99f40105769cd5827">Follow &amp; Unfollow Subjects</a></li>
 </ul>
 </details>
