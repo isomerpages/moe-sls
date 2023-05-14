@@ -4,7 +4,6 @@ permalink: /teacher-user-guide/discover/about-resources/
 description: ""
 third_nav_title: Discover
 ---
-<div>
   <h1>About Resources</h1>
   <p>SLS consists of many resources with a significant number residing in MOE Library and Community Gallery.</p>
   <ol>
@@ -16,4 +15,3 @@ third_nav_title: Discover
       <p>The Community Gallery is a repository of Lessons designed by teachers for teachers.</p>
     </li>
   </ol>
-</div>
