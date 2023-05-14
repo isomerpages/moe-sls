@@ -4,8 +4,7 @@ permalink: /teacher-user-guide/discover/index/
 description: ""
 third_nav_title: Discover
 ---
-## Organise (Discover)
-### [1. Discover](../teacher-user-guide/discover/index/)
+## Discover
 Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 
 ![](/images/2Teacher/Flow-Discover.png)
@@ -56,5 +55,4 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 <li><a target="_blank" href="/teacher-user-guide/discover/view-print-friendly-worksheet/">View Print-Friendly Worksheet</a></li>
 	<li><a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">Leave Reviews (New)</a></li>
 </ul>
-</details>	
-
+</details>
