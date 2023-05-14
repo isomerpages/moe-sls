@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/organise/index/
 description: ""
 third_nav_title: Organise
 ---
-### [4. Organise](../teacher-user-guide/organise/index/)
+## Organise
 Use SLS to to organise your personal and class group resources, assignments and notifications.
 <details>
  <summary><h4>How to create Class Groups in SLS?</h4></summary>
