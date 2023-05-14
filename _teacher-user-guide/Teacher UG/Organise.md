@@ -6,7 +6,7 @@ third_nav_title: Teacher UG
 ---
 ## Organise
 
-### [1. Discover](/teacher-user-guide/discover/index/)
+### [1. Discover](../teacher-user-guide/discover/index/)
 Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 <details>
  <summary><h4>How to add Resources from Library?</h4></summary>
@@ -31,54 +31,55 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 
 <details><summary><h4>How to install/use Apps?</h4></summary>
 <ul>
-  <li><a href="/teacher-user-guide/organise-discover/viewexternal/" target="_blank">Access App Library</a></li>
+  <li><a href="/teacher-user-guide/discover/access-app-library/" target="_blank">Access App Library</a></li>
 </ul>
 </details>
 
 <details><summary><h4>How to follow My Subjects?</h4></summary>
 	
 <ul>
-<li><a href="/teacher-user-guide/discover/aboutsubjects/" target="_blank">Access My Subjects</a></li>
-<li><a target="_blank" href="/teacher-user-guide/discover/followsubjects/">Follow &amp; Unfollow Subjects</a></li>
+<li><a href="/teacher-user-guide/discover/access-my-subjects/" target="_blank">Access My Subjects</a></li>
+<li><a target="_blank" href="/teacher-user-guide/discover/follow-and-unfollow-subjects/">Follow &amp; Unfollow Subjects</a></li>
 </ul>
 </details>	
 
 <details><summary><h4>More about Resources</h4></summary>
 	
 <ul>
-<li><a href="/teacher-user-guide/discover/aboutsubjects/" target="_blank">Make a Copy of a Lesson</a></li>
-<li><a target="_blank" href="/teacher-user-guide/discover/followsubjects/">View Print-Friendly Worksheet</a></li>
-	<li><a target="_blank" href="/teacher-user-guide/discover/followsubjects/">Leave Reviews (New)</a></li>
+<li><a href="/teacher-user-guide/discover/make-a-copy-of-a-lesson/" target="_blank">Make a Copy of a Lesson</a></li>
+<li><a target="_blank" href="/teacher-user-guide/discover/view-print-friendly-worksheet/">View Print-Friendly Worksheet</a></li>
+	<li><a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">Leave Reviews (New)</a></li>
 </ul>
 </details>	
 
-### [2. Notify](../teacher-user-guide/organise/notify/)
+### [2. Notify](../teacher-user-guide/notify/index/)
 Use SLS to notify other teachers and students easily on T&amp;L matters across the system, classes and individual levels.
 <details>
  <summary><h4>How to manage Announcements?</h4></summary>
 
-<a href="https://www.notion.so/View-and-Create-Announcements-Enhanced-492406689cca4f7f9d22d65813feffb2" target="_blank">(1) View and Create Announcements (Enhanced)</a>
-
-<a href="https://www.notion.so/Manage-Announcements-94d0d03ba76446f38809bf8d78842ecb" target="_blank">(2) Manage Announcements</a>
+<ul>
+	<li><a href="/teacher-user-guide/notify/view-and-create-announcements" target="_blank">(1) View and Create Announcements (Enhanced)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/notify/manage-announcements/">(2) Manage Announcements</a></li>
+	</ul>																																					
 </details>
 
 <details>
  <summary><h4>How to access Notifications?</h4></summary>
 
 <ul>
-    <li><a target="_blank" href="https://www.notion.so/About-Notifications-New-91c398db45fb492d8ed479cb0bc9dcad">About Notifications (New)</a></li>
-    <li><a target="_blank" href="https://www.notion.so/View-Notifications-New-47c8db5ac5a647148b297b770e9fab11">View Notifications (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/notify/about-notifications/">About Notifications (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/notify/view-notifications/">View Notifications (New)</a></li>
 </ul>
 </details>
 
-### [3. Plan](../teacher-user-guide/organise/plan/)
+### [3. Plan](../teacher-user-guide/organise-plan/index/)
 Use SLS to plan personal and class group events.
 <details>
  <summary><h4>How to use SLS Planner?</h4></summary>
 
 <ul>
-    <li><a target="_blank" href="https://www.notion.so/About-Notifications-New-91c398db45fb492d8ed479cb0bc9dcad">(1) Access Planner (New)</a></li>
-    <li><a target="_blank" href="https://www.notion.so/View-Notifications-New-47c8db5ac5a647148b297b770e9fab11">(2) Create Class Events (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/plan/access-planner/">(1) Access Planner (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/plan/create-class-events/">(2) Create Class Events (New)</a></li>
 </ul>
 </details>
 
