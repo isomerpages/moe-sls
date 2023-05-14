@@ -29,7 +29,7 @@ collections:
       - Notify/.keep
       - Notify/Index.md
       - Notify/(1) View and Create Announcements.md
-      - Notify/Manage Announcements.md
+      - Notify/(2) Manage Announcements.md
       - Notify/About Notifications.md
       - Notify/View Notifications.md
       - Plan/.keep
