@@ -12,20 +12,20 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
  <summary><h4>How to add Resources from Library?</h4></summary>
 
 <ul>
-  <li><a target="_blank" href="/teacher-user-guide/discover/moelibrary">About Resources</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/about-resources/">About Resources</a></li>
   <li><a target="_blank" href="/teacher-user-guide/discover/communitygallery/">(1a) Add Existing Activities from Resources</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/organise-discover/searchresources/">(1b) Add Existing Components from Resources</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/organise-discover/leavereviews/">(1c) Add Existing Media Objects from Resources</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/organise-discover/makecopy/">(2) Search for Resources (New)</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/organise-discover/viewlesson/">(3) View Lesson Details</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-activities-from-resources/">(1b) Add Existing Components from Resources</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-components-from-resources/">(1c) Add Existing Media Objects from Resources</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">(2) Search for Resources (New)</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/view-lesson-details/">(3) View Lesson Details</a></li>
 </ul>
 </details>
 	
 <details><summary><h4>How to embed whitelisted websites?</h4></summary>
 	
-* <a href="/teacher-user-guide/organise-discover/addexistingactivities/" target="_blank">(1) View External Resources (New)</a>
-* <a href="/teacher-user-guide/organise-discover/addexisting/" target="_blank">(2) Embed Whitelisted Websites (Enhanced)</a>
-* <a href="#" target="_blank">Previously Whitelisted/Non-Whitelisted Websites</a>
+* <a href="/teacher-user-guide/discover/view-external-resources/" target="_blank">(1) View External Resources (New)</a>
+* <a href="/teacher-user-guide/discover/embed-whitelisted-websites/" target="_blank">(2) Embed Whitelisted Websites (Enhanced)</a>
+* <a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">Previously Whitelisted/Non-Whitelisted Websites</a>
 
 </details>
 
@@ -155,7 +155,6 @@ Use SLS to to organise your personal and class group resources, assignments and 
 	
 <details>
  <summary><h4>How to organise Starred Resources?</h4></summary>
-	
 <ul>
   <li><a target="_blank" href="https://www.notion.so/Star-Resources-87360dc1268d4050a1f7e6bafe643c66">Star Resources</a></li>
 </ul>
