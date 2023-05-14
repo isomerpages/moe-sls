@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/notify/index/
 description: ""
 third_nav_title: Notify
 ---
-### [2. Notify](../teacher-user-guide/notify/index/)
+## Notify
 Use SLS to notify other teachers and students easily on T&amp;L matters across the system, classes and individual levels.
 <details>
  <summary><h4>How to manage Announcements?</h4></summary>
