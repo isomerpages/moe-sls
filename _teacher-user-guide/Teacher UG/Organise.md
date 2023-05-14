@@ -6,58 +6,64 @@ third_nav_title: Teacher UG
 ---
 ## Organise
 
-### [1. Organise (Discover)](/teacher-user-guide/discover/index/)
-
+### [1. Discover](/teacher-user-guide/discover/index/)
+Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 <details>
- <summary><h4>
-	 Where to search for resources?</h4></summary>
+ <summary><h4>How to add Resources from Library?</h4></summary>
 
 <ul>
-  <li><a target="_blank" href="/teacher-user-guide/discover/moelibrary">About the MOE Library</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/communitygallery/">About the Community Gallery</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/organise-discover/searchresources/">Search for Resources</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/organise-discover/leavereviews/">Leave Reviews</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/organise-discover/makecopy/">Make a Copy of a Lesson</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/organise-discover/viewlesson/">View Lesson Details</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/organise-discover/viewprint/">View Print-Friendly Worksheet</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/moelibrary">About Resources</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/communitygallery/">(1a) Add Existing Activities from Resources</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/organise-discover/searchresources/">(1b) Add Existing Components from Resources</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/organise-discover/leavereviews/">(1c) Add Existing Media Objects from Resources</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/organise-discover/makecopy/">(2) Search for Resources (New)</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/organise-discover/viewlesson/">(3) View Lesson Details</a></li>
 </ul>
 </details>
 	
-<details><summary><h4>How to add Resources from Library?</h4></summary>
+<details><summary><h4>How to embed whitelisted websites?</h4></summary>
 	
-* <a href="/teacher-user-guide/organise-discover/addexistingactivities/" target="_blank">Add Existing Activities from Resources</a>
-* <a href="/teacher-user-guide/organise-discover/addexisting/" target="_blank">Add Existing Components Resources</a>
-* <a href="#" target="_blank">Add Existing Media Objects from Resources</a>
+* <a href="/teacher-user-guide/organise-discover/addexistingactivities/" target="_blank">(1) View External Resources (New)</a>
+* <a href="/teacher-user-guide/organise-discover/addexisting/" target="_blank">(2) Embed Whitelisted Websites (Enhanced)</a>
+* <a href="#" target="_blank">Previously Whitelisted/Non-Whitelisted Websites</a>
 
 </details>
 
-<details><summary><h4>What websites are whitelisted in SLS?</h4></summary>
+<details><summary><h4>How to install/use Apps?</h4></summary>
 <ul>
-  <li><a href="/teacher-user-guide/organise-discover/viewexternal/" target="_blank">View External Resources</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/organise-discover/embedwhitelisted/">Embed Whitelisted Websites</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/whitelistedwebsites/">Previously Whitelisted &amp; Non-Whitelisted Websites</a></li>
+  <li><a href="/teacher-user-guide/organise-discover/viewexternal/" target="_blank">Access App Library</a></li>
 </ul>
 </details>
 
-<details><summary><h4>What are My Subjects?</h4></summary>
+<details><summary><h4>How to follow My Subjects?</h4></summary>
 	
 <ul>
-<li><a href="/teacher-user-guide/discover/aboutsubjects/" target="_blank">About My Subjects</a></li>
+<li><a href="/teacher-user-guide/discover/aboutsubjects/" target="_blank">Access My Subjects</a></li>
 <li><a target="_blank" href="/teacher-user-guide/discover/followsubjects/">Follow &amp; Unfollow Subjects</a></li>
 </ul>
 </details>	
 
-### [2. Organise (Notify)](../teacher-user-guide/organise/notify/)
+<details><summary><h4>More about Resources</h4></summary>
+	
+<ul>
+<li><a href="/teacher-user-guide/discover/aboutsubjects/" target="_blank">Make a Copy of a Lesson</a></li>
+<li><a target="_blank" href="/teacher-user-guide/discover/followsubjects/">View Print-Friendly Worksheet</a></li>
+	<li><a target="_blank" href="/teacher-user-guide/discover/followsubjects/">Leave Reviews (New)</a></li>
+</ul>
+</details>	
+
+### [2. Notify](../teacher-user-guide/organise/notify/)
+Use SLS to notify other teachers and students easily on T&amp;L matters across the system, classes and individual levels.
 <details>
- <summary><h4>What are Announcements?</h4></summary>
+ <summary><h4>How to manage Announcements?</h4></summary>
 
-<a href="https://www.notion.so/View-and-Create-Announcements-Enhanced-492406689cca4f7f9d22d65813feffb2" target="_blank">View and Create Announcements (Enhanced)</a>
+<a href="https://www.notion.so/View-and-Create-Announcements-Enhanced-492406689cca4f7f9d22d65813feffb2" target="_blank">(1) View and Create Announcements (Enhanced)</a>
 
-<a href="https://www.notion.so/Manage-Announcements-94d0d03ba76446f38809bf8d78842ecb" target="_blank">Manage Announcements</a>
+<a href="https://www.notion.so/Manage-Announcements-94d0d03ba76446f38809bf8d78842ecb" target="_blank">(2) Manage Announcements</a>
 </details>
 
 <details>
- <summary><h4>What are Notifications?</h4></summary>
+ <summary><h4>How to access Notifications?</h4></summary>
 
 <ul>
     <li><a target="_blank" href="https://www.notion.so/About-Notifications-New-91c398db45fb492d8ed479cb0bc9dcad">About Notifications (New)</a></li>
@@ -65,16 +71,19 @@ third_nav_title: Teacher UG
 </ul>
 </details>
 
-### [3. Organise (Plan)](../teacher-user-guide/organise/plan/)
-
+### [3. Plan](../teacher-user-guide/organise/plan/)
+Use SLS to plan personal and class group events.
 <details>
  <summary><h4>How to use SLS Planner?</h4></summary>
 
-Transform the following text to html from markdown. Include target blank for each one:
+<ul>
+    <li><a target="_blank" href="https://www.notion.so/About-Notifications-New-91c398db45fb492d8ed479cb0bc9dcad">(1) Access Planner (New)</a></li>
+    <li><a target="_blank" href="https://www.notion.so/View-Notifications-New-47c8db5ac5a647148b297b770e9fab11">(2) Create Class Events (New)</a></li>
+</ul>
 </details>
 
-### [4. Organise (Organise)](../teacher-user-guide/organise/organise/)
-
+### [4. Organise](../teacher-user-guide/organise/organise/)
+Use SLS to to organise your personal and class group resources, assignments and notifications.
 <details>
  <summary><h4>What are Class Groups?</h4></summary>
 
@@ -89,9 +98,9 @@ Transform the following text to html from markdown. Include target blank for eac
  <summary><h4>How to create Class Groups in SLS?</h4></summary>
 	
 <ul>
-  <li><a href="https://www.notion.so/Create-Class-Groups-New-5873f8656645455b82c3112e94352f0b" target="_blank">Create Class Groups (New)</a></li>
-  <li><a href="https://www.notion.so/Add-Teachers-as-Students-to-a-Class-Group-cbba016aebdb4584bff9b1a5106d1651" target="_blank">Add Teachers as Students to a Class Group</a></li>
-  <li><a href="https://www.notion.so/Archive-Class-Groups-5251e69ed3974f558b75cabcfa8aa82f" target="_blank">Archive Class Groups</a></li>
+  <li><a href="https://www.notion.so/Create-Class-Groups-New-5873f8656645455b82c3112e94352f0b" target="_blank">About Class Groups (New)</a></li>
+  <li><a href="https://www.notion.so/Add-Teachers-as-Students-to-a-Class-Group-cbba016aebdb4584bff9b1a5106d1651" target="_blank">(1) Create Class Groups (New)</a></li>
+  <li><a href="https://www.notion.so/Archive-Class-Groups-5251e69ed3974f558b75cabcfa8aa82f" target="_blank">(2) Add Teachers as Students to a Class Group</a></li>
 </ul>
 
 </details>
@@ -100,45 +109,47 @@ Transform the following text to html from markdown. Include target blank for eac
  <summary><h4>How to organise Class Group Resources?</h4></summary>
 	
 <ul>
-<li><a href="https://www.notion.so/About-Class-Group-Resources-6338d5bcdbf4445991a615bbc2200d9e" target="_blank">About Class Group Resources</a></li>
-<li><a href="https://www.notion.so/Manage-Class-Group-Resources-91fe5dfdccb74bd88adb5acc5499d62d" target="_blank">Manage Class Group Resources</a></li>
+<li><a href="https://www.notion.so/About-Class-Group-Resources-6338d5bcdbf4445991a615bbc2200d9e" target="_blank">Manage Class Group Resources</a></li>
 </ul>
 </details>
 
 <details>
- <summary><h4>What Apps can be installed in Class Groups?</h4></summary>
-
-<ul>
-  <li>App Library
-    <ul>
-      <li><a href="https://www.notion.so/About-App-Library-889bd05c7c7f423fa66e6a2d9a567ac2" target="_blank">About App Library</a></li>
-      <li><a href="https://www.notion.so/Access-App-Library-802c2e031017428b9230618fe569abcc" target="_blank">Access App Library</a></li>
+ <summary><h4>How to install/use Apps in Class Groups?</h4></summary>
+   <ul>
+      <li><a href="https://www.notion.so/About-App-Library-889bd05c7c7f423fa66e6a2d9a567ac2" target="_blank">Install and Launch Apps</a></li>
+      <li><a href="https://www.notion.so/Access-App-Library-802c2e031017428b9230618fe569abcc" target="_blank">App FAQs</a></li>
     </ul>
-  </li>
-  <li>Apps
-    <ul>
-      <li><a href="https://www.notion.so/About-Apps-36bdb97d0378439db86b884925cf8a5e" target="_blank">About Apps</a></li>
-      <li><a href="https://www.notion.so/Install-and-Launch-Apps-339ef74571f949e58e80d90a14ef683c" target="_blank">Install and Launch Apps</a></li>
-      <li><a href="https://www.notion.so/Access-App-remove-for-R19-13dc3c2ec4684718b3f57ce3affbf638" target="_blank">Access App (remove for R19)</a></li>
-      <li><a href="https://www.notion.so/App-FAQs-2e613f8ffbb74d71b51f2ade0b71d3e2" target="_blank">App FAQs</a></li>
-    </ul>
-  </li>
-</ul>
 </details>
 
 <details>
- <summary><h4>How to manage My Lessons in My Drive?</h4></summary>
+ <summary><h4>More about Class Groups</h4></summary>
 	
 <ul>
-  <li><a target="_blank" href="https://www.notion.so/About-My-Drive-a89d22f00e1a4a028c1c0bc18940598f">About My Drive</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Search-in-My-Drive-f17a4059d4d241cdaa237cb05311651d">Search in My Drive</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Create-New-Folders-e37c8a8e862f4d208471aeacb77a5aa5">Create New Folders</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Copy-Lessons-within-My-Drive-8ea61af013db457f9870392450ecf210">Copy Lessons within My Drive</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Organise-My-Drive-c9f4444a7f364f4a9528887703fec37c">Organise My Drive</a></li>
-  <li><a target="_blank" href="https://www.notion.so/View-Lessons-Shared-with-Me-de587b64dc7041e781e6125ceba540fd">View Lessons Shared with Me</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Move-Resources-to-Trash-33b2da2ba921485d825ddc4e7489b6a2">Move Resources to Trash</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Restore-Resources-from-Trash-6d8b54dd3d8c40d488b7e2e005371893">Restore Resources from Trash</a></li>
-  <li><a target="_blank" href="https://www.notion.so/Delete-Resources-Permanently-2de02a99f3ce4aba8deb25206d039bbc">Delete Resources Permanently</a></li>
+  <li><a target="_blank" href="https://www.notion.so/About-My-Drive-a89d22f00e1a4a028c1c0bc18940598f">Pin Class Groups (Enhanced)</a></li>
+  <li><a target="_blank" href="https://www.notion.so/Search-in-My-Drive-f17a4059d4d241cdaa237cb05311651d">Archive Class Groups</a></li>
+  <li><a target="_blank" href="https://www.notion.so/Create-New-Folders-e37c8a8e862f4d208471aeacb77a5aa5">View Past Class Groups</a></li>
+</ul>
+</details>
+
+<details>
+ <summary><h4>How to organise My Lessons in My Drive?</h4></summary>
+	
+<ul>
+  <li><a target="_blank" href="https://www.notion.so/About-My-Drive-a89d22f00e1a4a028c1c0bc18940598f">(1) Access My Drive</a></li>
+  <li><a target="_blank" href="https://www.notion.so/Search-in-My-Drive-f17a4059d4d241cdaa237cb05311651d">(2) Search in My Drive</a></li>
+  <li><a target="_blank" href="https://www.notion.so/Create-New-Folders-e37c8a8e862f4d208471aeacb77a5aa5">(3a) Create New Folders</a></li>
+	  <li><a target="_blank" href="https://www.notion.so/Search-in-My-Drive-f17a4059d4d241cdaa237cb05311651d">(3b) View Lessons Shared with Me</a></li>
+  <li><a target="_blank" href="https://www.notion.so/Create-New-Folders-e37c8a8e862f4d208471aeacb77a5aa5">(4) Delete Resources</a></li>
+</ul>
+</details>
+
+<details>
+ <summary><h4>More about My Drive</h4></summary>
+	
+<ul>
+  <li><a target="_blank" href="https://www.notion.so/About-My-Drive-a89d22f00e1a4a028c1c0bc18940598f">Copy Lessons within My Drive</a></li>
+  <li><a target="_blank" href="https://www.notion.so/Search-in-My-Drive-f17a4059d4d241cdaa237cb05311651d">Manage Folders</a></li>
+  <li><a target="_blank" href="https://www.notion.so/Create-New-Folders-e37c8a8e862f4d208471aeacb77a5aa5">Restore Resources from Trash</a></li>
 </ul>
 </details>
 	
@@ -146,7 +157,6 @@ Transform the following text to html from markdown. Include target blank for eac
  <summary><h4>How to organise Starred Resources?</h4></summary>
 	
 <ul>
-  <li><a target="_blank" href="https://www.notion.so/About-Starred-Resources-2d0a8f62e4d44f10bf9bb437514c7cd5">About Starred Resources</a></li>
   <li><a target="_blank" href="https://www.notion.so/Star-Resources-87360dc1268d4050a1f7e6bafe643c66">Star Resources</a></li>
 </ul>
 </details>
