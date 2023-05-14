@@ -72,7 +72,7 @@ Use SLS to notify other teachers and students easily on T&amp;L matters across t
 </ul>
 </details>
 
-### [3. Plan](../teacher-user-guide/organise-plan/index/)
+### [3. Plan](../teacher-user-guide/plan/index/)
 Use SLS to plan personal and class group events.
 <details>
  <summary><h4>How to use SLS Planner?</h4></summary>
