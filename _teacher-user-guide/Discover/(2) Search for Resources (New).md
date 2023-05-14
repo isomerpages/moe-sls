@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/discover/search-for-resources/
 description: ""
 third_nav_title: Discover
 ---
-   <h1>2. Search for Resources (New)</h1>
+<h1>2. Search for Resources (New)</h1>
     <h2>Using Search Bar from Homepage</h2>
     <hr>
     <ol>
@@ -56,4 +56,52 @@ third_nav_title: Discover
           <li><strong>Followed Levels</strong> (if any)</li>
           <li><strong>Other Levels</strong></li>
         </ul>
-      </li></ol>
+      </li>  
+  <li>Click <strong>Apply</strong> and select <strong>Apply Filters</strong> to perform your selection.</li>
+</ol>
+<p><u>Note</u>: Refine your search by using Guided Search.</p>
+
+<h2>Add Topic Filters</h2>
+
+<hr>
+
+<ol>
+<li>You may also select <strong>Add Topic Filters</strong> to filter according to Topics or Sub-topics.</li>
+
+<p>Note: You may search for Resources based on Topics or Sub-topics if they have been tagged to a Content Map.</p>
+
+<li>To add topic filters, select one <strong>Subject</strong> and one <strong>Level</strong> from the dropdown list.</li>
+<li>Click <strong>Apply</strong> and choose <strong>Add Topic Filters.</strong></li>
+<li>On the Add Topic Filters subpage, select the relevant <strong>Content Map</strong> dropdown list.</li>
+<li>Select the checkbox to the left of the Topic, Subtopics, or Learning Outcome to narrow down the search results.</li>
+</ol>
+
+<img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ded9159f-b871-4b50-8dc3-c454b55b223e/Untitled.png">
+
+<h2>View Search Results</h2>
+
+<hr>
+
+<ol>
+<li>You can sort the resources by&nbsp;<em>Relevance&nbsp;</em>to your search term(s), <em>Popularity</em> <strong>(New in R19)</strong>, or according to the date of&nbsp;the latest&nbsp;edit. You can also view the search results in Card or List view by clicking <img src="[insert Card.png]"> and <img src="[insert List.svg]"> respectively.</li>
+<li>Click the <strong>Lesson Card</strong> to enter the Lesson in a new tab. On the Lesson Card, you will be able to view the following information:</li>
+<ul>
+<li>Lesson Location</li>
+<li>Resource Title</li>
+<li>Level and Subject (for Lessons only)</li>
+<li>Type of Resource</li>
+<li>Number of Views (for Lessons only)</li>
+<li>Number of Reviews (for Lessons only) <strong>(New in R19)</strong></li>
+</ul>
+
+<p><strong>Note</strong>: Resources that are downloadable can be downloaded from the Resource Card.</p>
+
+<p><img src="[insert lesson card screenshot]"></p>
+
+<li>To view the Lesson Details, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson Card, followed by <strong>View Details</strong>. Click the <strong>Expand</strong> icon <img src="[insert external-link.svg]"> to open the Lesson in a new tab.</li>
+<li>To view the Lesson Reviews, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson Card, followed by <strong>View Reviews</strong>. Click here <a href="hyperlink teacher/discover/LeaveReview.html">hyperlink teacher/discover/LeaveReview.html</a> to learn how to leave a Review.</li>
+<li>To make a copy of the Lesson, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson Card, followed by <strong>Copy To</strong>. Click here <a href="hyperlink Copy Lesson within My Drive page">hyperlink Copy Lesson within My Drive page</a> to learn how to copy a resource to My Drive.</li>
+</ol>
+
+<h2>Video Tutorial (Updated)</h2>
+<hr>
