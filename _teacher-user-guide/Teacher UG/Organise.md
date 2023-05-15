@@ -6,7 +6,9 @@ third_nav_title: Teacher UG
 ---
 ## Organise
 
-### [1. Discover](/teacher-user-guide/discover/index/)
+<h3><a id="Discover" target="_blank" href="/teacher-user-guide/discover/index/">1. Discover</a>
+</h3>
+
 Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 <details>
  <summary><h4>How to add Resources from Library?</h4></summary>
@@ -23,9 +25,12 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 	
 <details><summary><h4>How to embed whitelisted websites?</h4></summary>
 	
-* <a href="/teacher-user-guide/discover/view-external-resources/" target="_blank">(1) View External Resources (New)</a>
-* <a href="/teacher-user-guide/discover/embed-whitelisted-websites/" target="_blank">(2) Embed Whitelisted Websites (Enhanced)</a>
-* <a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">Previously Whitelisted/Non-Whitelisted Websites</a>
+<ul>
+  <li><a href="/teacher-user-guide/discover/view-external-resources/" target="_blank">(1) View External Resources (New)</a></li>
+  <li><a href="/teacher-user-guide/discover/embed-whitelisted-websites/" target="_blank">(2) Embed Whitelisted Websites (Enhanced)</a></li>
+  <li><a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">Previously Whitelisted/Non-Whitelisted Websites</a></li>
+</ul>
+
 
 </details>
 
