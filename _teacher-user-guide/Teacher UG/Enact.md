@@ -6,7 +6,8 @@ third_nav_title: Teacher UG
 ---
 ## Enact
 
-### [1. Enact (Assign)](/teacher-user-guide/discover/index/)
+<h3><a id="assign" target="_blank" href="/teacher-user-guide/enact/assign/">1. Assign</a></h3>
+Use SLS to assign lessons to your students for them to complete within a specific time.
 
 <details><summary><h4> How to create Assignments?</h4></summary>
 
@@ -43,7 +44,8 @@ third_nav_title: Teacher UG
 </ul>
 </details>
 
-### [2. Enact (Enact)](/teacher-user-guide/discover/index/)
+<h3><a id="enact" target="_blank" href="/teacher-user-guide/enact/enact/">2. Enact</a></h3>
+Use to enact assigned SLS lessons as part of my synchronous teaching in-class or over Virtual Classrooms.
 
 <details><summary><h4>How to manage Activity pacing?</h4></summary>
 
@@ -58,7 +60,8 @@ third_nav_title: Teacher UG
 </ul>	
 </details>
 
-### [3. Enact (Differentiate)](/teacher-user-guide/discover/index/)
+<h3><a id="differentiate" target="_blank" href="/teacher-user-guide/enact/differentiate/">3. Differentiate</a></h3>
+Use SLS to differentiate lessons and activities for different groups of students.
 
 <details><summary><h4>How to organise my students within Class Groups?</h4></summary>
 
@@ -78,16 +81,8 @@ third_nav_title: Teacher UG
 </ul>
 </details>
 
-### [4. Enact (Personalise)](/teacher-user-guide/discover/index/)
-
-<details><summary><h4>How to personalise Lessons for students?</h4></summary>
-<ul>
-  <li><a target="_blank" href="https://www.notion.so/Set-Optional-Activities-Quizzes-f4a756d986294893b524808660fba010">Set Optional Activities &amp; Quizzes</a>
-</li>
-</ul>
-</details>
-
-### [5. Enact (Collaborate)](/teacher-user-guide/discover/index/)
+<h3><a id="collaborate" target="_blank" href="/teacher-user-guide/enact/collaborate/">4. Collaborate</a></h3>
+Use SLS to set learning activities to be done collaboratively by students.
 
 <details><summary><h4>How to use the Class Group Forum?</h4></summary>
 
