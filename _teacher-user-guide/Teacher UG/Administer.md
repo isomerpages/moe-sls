@@ -6,7 +6,8 @@ third_nav_title: Teacher UG
 ---
 ## Administer
 
-### [1. Administer (Publish)](/teacher-user-guide/discover/index/)
+<h3><a id="publish" target="_blank" href="/teacher-user-guide/administer/publish/index">1. Publish</a></h3>
+Use SLS to publish resources to make it available and discoverable to teachers and students.
 
 <details><summary><h4>How to submit Lessons to Community Gallery?</h4></summary>
 	
