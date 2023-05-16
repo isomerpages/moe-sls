@@ -6,7 +6,8 @@ third_nav_title: Teacher UG
 ---
 ## Author
 
-### [1. Author (Author)](/teacher-user-guide/discover/index/)
+<h3><a id="author" target="_blank" href="/teacher-user-guide/author/index/">1. Author</a></h3>
+Use SLS to design lesson resources aligned to the e-pedagogical principles.
 
 * <a href="/teacher-user-guide/author-author/aboutlessons/" target="_blank">About Lessons (Enhanced)</a>
 
@@ -77,7 +78,8 @@ third_nav_title: Teacher UG
 </ul>
 </details>
 
-### [2. Author (Gamify)](/teacher-user-guide/discover/index/)
+<h3><a id="gamify" target="_blank" href="/teacher-user-guide/author/gamify/">2. Gamify</a></h3>
+
 
 <details><summary><h4>How to create gamified Lessons?</h4></summary>
 
