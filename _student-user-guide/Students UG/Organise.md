@@ -6,7 +6,7 @@ third_nav_title: Students UG
 ---
 ## Organise
 
-### [1. Discover](../student-user-guide/discover/index/)
+<h3><a target="_blank" href="../student-user-guide/discover/index/">1. Discover</a></h3>
 Use SLS to discover, search for and find useful Teaching &amp; Learning resources that you can learn from.
 <details><summary><h4>Where to find self-study resources?</h4></summary>
 
@@ -25,7 +25,7 @@ Use SLS to discover, search for and find useful Teaching &amp; Learning resource
 </ul>
 </details>
 
-### [2. Notify](../teacher-user-guide/organise/notify/)
+<h3><a target="_blank" href="../student-user-guide/notify/index/">2. Notify</a></h3>
 Use SLS to receive notifications to follow up on Teaching &amp; Learning matters.
 
 <a target="_blank" href="/student-user-guide/notify/about-notifications/">About Notifications (New)</a>
@@ -37,7 +37,8 @@ Use SLS to receive notifications to follow up on Teaching &amp; Learning matters
 </ul>
 </details>
 
-### [3. Plan](../student-user-guide/plan/plan)
+<h3><a target="_blank" href="../student-user-guide/plan/index/">3. Plan</a></h3>
+
 Use SLS to plan personal events and be updated on class group events.
 <details><summary><h4>How to use SLS Planner?</h4></summary>
 	<ul>
@@ -50,7 +51,8 @@ Use SLS to plan personal events and be updated on class group events.
 </ul>
 </details>
 
-### [4. Organise](../student-user-guide/organise/index/)
+<h3><a target="_blank" href="../student-user-guide/organise/index/">4. Organise</a></h3>
+
 Use SLS to organize your personal and class group resources, assignments, conversations and notifications.
 
 <details><summary><h4>How to access Class Groups?</h4></summary>
@@ -101,7 +103,8 @@ Use SLS to organize your personal and class group resources, assignments, conver
 </ul>
 </details>
 
-### [5. Organise (Self Study)](../teacher-user-guide/organise/selfstudy/)
+<h3><a target="_blank" href="../student-user-guide/self-study/index.html">5. Self Study</a></h3>
+Use SLS to plan and organise self-study resources and share good resources with peers.
 
 <details><summary><h4>How to use Adaptive Learning? </h4></summary>
 
