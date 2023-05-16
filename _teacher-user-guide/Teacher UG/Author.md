@@ -79,7 +79,7 @@ Use SLS to design lesson resources aligned to the e-pedagogical principles.
 </details>
 
 <h3><a id="gamify" target="_blank" href="/teacher-user-guide/author/gamify/">2. Gamify</a></h3>
-
+Use SLS to create a game layer in my lesson resource to motivate my students.
 
 <details><summary><h4>How to create gamified Lessons?</h4></summary>
 
