@@ -6,8 +6,8 @@ third_nav_title: Students UG
 ---
 ## Author
 
-### [1. Author (Gamify)](/teacher-user-guide/discover/index/)
-
+<h3><a target="_blank" href="../student-user-guide/gamify/index.html">1. Author (Gamify)</a></h3>
+Use SLS to experience a game-like experience when going through your lesson.
 <details>
   <summary><h4>How to attempt gamified resources?</h4></summary>
 <ul>
