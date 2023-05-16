@@ -6,7 +6,8 @@ third_nav_title: Students UG
 ---
 ## Enact
 
-### [1. Enact (Assign)](/teacher-user-guide/discover/index/)
+<h3><a target="_blank" href="../student-user-guide/assign/index">1. Assign</a></h3>
+Use SLS to easily navigate lessons assigned by my teachers.
 
 <details><summary><h4> How to complete Assignments?</h4></summary>
 <details><summary><h5> How to access my Assignments?</h5></summary>
