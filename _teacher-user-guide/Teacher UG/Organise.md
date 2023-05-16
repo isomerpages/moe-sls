@@ -158,7 +158,8 @@ Use SLS to to organise your personal and class group resources, assignments and 
 </ul>
 </details>
 
-### [5. Organise (Customise)](/teacher-user-guide/organise/customise/)
+<h3><a id="customise" target="_blank" href="/teacher-user-guide/customise/index/">5. Customise</a></h3>
+
 
 <details>
  <summary><h4>How to create my own Lesson Templates?</h4></summary>
