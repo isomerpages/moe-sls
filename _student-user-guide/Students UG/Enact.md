@@ -66,6 +66,7 @@ Use SLS to easily navigate lessons assigned by my teachers.
 
 <h3><a target="_blank" href="../student-user-guide/collaborate/index">2. Collaborate</a></h3>
 Use SLS to easily access collaborative learning activities together at the same time or different times. 
+
 <details><summary><h4> How to share my Assignment with peers?</h4></summary>
 <ul>
   <li><a target="_blank" href="https://www.notion.so/About-Assignment-Sharing-36b51c5efc44478c92b700aa3ae9a784">About Assignment Sharing</a></li>
