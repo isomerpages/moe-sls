@@ -78,7 +78,7 @@ Use SLS to design lesson resources aligned to the e-pedagogical principles.
 </ul>
 </details>
 
-<h3><a id="personalise" target="_blank" href="/teacher-user-guide/enact/personalise/">2. Personalise</a></h3>
+<h3><a id="personalise" target="_blank" href="/teacher-user-guide/personalise/index">2. Personalise</a></h3>
 
 <details><summary><h4>How to personalise Lessons for students?</h4></summary>
 <ul>
@@ -87,7 +87,7 @@ Use SLS to design lesson resources aligned to the e-pedagogical principles.
 </ul>
 </details>
 
-<h3><a id="gamify" target="_blank" href="/teacher-user-guide/author/gamify/">3. Gamify</a></h3>
+<h3><a id="gamify" target="_blank" href="/teacher-user-guide/gamify/index">3. Gamify</a></h3>
 Use SLS to create a game layer in my lesson resource to motivate my students.
 
 <details><summary><h4>How to create gamified Lessons?</h4></summary>
