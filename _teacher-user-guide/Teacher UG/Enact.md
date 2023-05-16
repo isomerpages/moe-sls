@@ -6,7 +6,7 @@ third_nav_title: Teacher UG
 ---
 ## Enact
 
-<h3><a id="assign" target="_blank" href="/teacher-user-guide/assign/index">1. Assign</a></h3>
+<h3><a id="assign" target="_blank" href="../teacher-user-guide/assign/index">1. Assign</a></h3>
 Use SLS to assign lessons to your students for them to complete within a specific time.
 
 <details><summary><h4> How to create Assignments?</h4></summary>
@@ -44,7 +44,7 @@ Use SLS to assign lessons to your students for them to complete within a specifi
 </ul>
 </details>
 
-<h3><a id="enact" target="_blank" href="/teacher-user-guide/enact/index/">2. Enact</a></h3>
+<h3><a id="enact" target="_blank" href="../teacher-user-guide/enact/index/">2. Enact</a></h3>
 Use to enact assigned SLS lessons as part of my synchronous teaching in-class or over Virtual Classrooms.
 
 <details><summary><h4>How to manage Activity pacing?</h4></summary>
@@ -60,7 +60,7 @@ Use to enact assigned SLS lessons as part of my synchronous teaching in-class or
 </ul>	
 </details>
 
-<h3><a id="differentiate" target="_blank" href="/teacher-user-guide/enact/differentiate/">3. Differentiate</a></h3>
+<h3><a id="differentiate" target="_blank" href="../teacher-user-guide/enact/differentiate/">3. Differentiate</a></h3>
 Use SLS to differentiate lessons and activities for different groups of students.
 
 <details><summary><h4>How to organise my students within Class Groups?</h4></summary>
@@ -81,7 +81,7 @@ Use SLS to differentiate lessons and activities for different groups of students
 </ul>
 </details>
 
-<h3><a id="collaborate" target="_blank" href="/teacher-user-guide/enact/collaborate/">4. Collaborate</a></h3>
+<h3><a id="collaborate" target="_blank" href="../teacher-user-guide/enact/collaborate/">4. Collaborate</a></h3>
 Use SLS to set learning activities to be done collaboratively by students.
 
 <details><summary><h4>How to use the Class Group Forum?</h4></summary>
