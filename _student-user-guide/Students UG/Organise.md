@@ -6,7 +6,7 @@ third_nav_title: Students UG
 ---
 ## Organise
 
-<h3><a target="_blank" href="../student-user-guide/discover/index/">1. Discover</a></h3>
+<h3><a id="discover" target="_blank" href="../student-user-guide/discover/index/">1. Discover</a></h3>
 Use SLS to discover, search for and find useful Teaching &amp; Learning resources that you can learn from.
 <details><summary><h4>Where to find self-study resources?</h4></summary>
 
@@ -25,7 +25,7 @@ Use SLS to discover, search for and find useful Teaching &amp; Learning resource
 </ul>
 </details>
 
-<h3><a target="_blank" href="../student-user-guide/notify/index/">2. Notify</a></h3>
+<h3><a id="notify" target="_blank" href="../student-user-guide/notify/index/">2. Notify</a></h3>
 Use SLS to receive notifications to follow up on Teaching &amp; Learning matters.
 
 <a target="_blank" href="/student-user-guide/notify/about-notifications/">About Notifications (New)</a>
@@ -37,7 +37,7 @@ Use SLS to receive notifications to follow up on Teaching &amp; Learning matters
 </ul>
 </details>
 
-<h3><a target="_blank" href="../student-user-guide/plan/index/">3. Plan</a></h3>
+<h3><a id="plan" target="_blank" href="../student-user-guide/plan/index/">3. Plan</a></h3>
 
 Use SLS to plan personal events and be updated on class group events.
 <details><summary><h4>How to use SLS Planner?</h4></summary>
@@ -51,7 +51,7 @@ Use SLS to plan personal events and be updated on class group events.
 </ul>
 </details>
 
-<h3><a target="_blank" href="../student-user-guide/organise/index/">4. Organise</a></h3>
+<h3><a id="organise" target="_blank" href="../student-user-guide/organise/index/">4. Organise</a></h3>
 Use SLS to organize your personal and class group resources, assignments, conversations and notifications.
 
 <details><summary><h4>How to access Class Groups?</h4></summary>
@@ -102,7 +102,7 @@ Use SLS to organize your personal and class group resources, assignments, conver
 </ul>
 </details>
 
-<h3><a target="_blank" href="../student-user-guide/self-study/index">5. Self Study</a></h3>
+<h3><a id="self-study" target="_blank" href="../student-user-guide/self-study/index">5. Self Study</a></h3>
 Use SLS to plan and organise self-study resources and share good resources with peers.
 
 <details><summary><h4>How to use Adaptive Learning? </h4></summary>
@@ -126,7 +126,7 @@ Use SLS to plan and organise self-study resources and share good resources with 
 </ul>
 </details>
 
-<h3><a target="_blank" href="../student-user-guide/customise/index">6. Customise</a></h3>
+<h3><a id="customise" target="_blank" href="../student-user-guide/customise/index">6. Customise</a></h3>
 Use SLS to customize your avatar, UI and user experience based on your needs.
 
 <details><summary><h4>How to manage my SLS account?</h4></summary>
