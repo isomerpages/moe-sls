@@ -6,7 +6,8 @@ third_nav_title: Students UG
 ---
 ## Assess
 
-### [1. Assess (Assess)](/teacher-user-guide/discover/index/)
+<h3><a target="_blank" href="../student-user-guide/assess/index">1. Assess</a></h3>
+Use SLS to complete and submit work, easily access and follow up on teacher marks and feedback.
 
 <details>
   <summary><h4>How to complete Assessments?</h4></summary>
@@ -30,7 +31,8 @@ third_nav_title: Students UG
 </ul>
 </details>	
 
-### [2. Assess (Track Progress)](../teacher-user-guide/organise/notify/)
+<h3><a target="_blank" href="../student-user-guide/track-progress/index">2. Track Progress</a></h3>
+Use SLS to track your own progress within and across lessons and assignments.
 
 <details>
   <summary><h4>How to monitor my Learning Progress?</h4></summary>
