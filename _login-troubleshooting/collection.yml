@@ -2,6 +2,7 @@ collections:
   login-troubleshooting:
     output: true
     order:
+      - Authentication/.keep
       - Login Troubleshooting/.keep
       - Login Troubleshooting/Authentication.md
       - Login Troubleshooting/Get Help.md
