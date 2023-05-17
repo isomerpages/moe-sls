@@ -2,9 +2,20 @@ collections:
   admin-user-guide:
     output: true
     order:
+      - Admin UG/.keep
       - Admin UG/Organise.md
       - Admin UG/Administer.md
-      - Admin UG/.keep
+      - Organise (Notify)/.keep
+      - Organise (Notify)/Manage School Announcements (Enhanced).md
+      - Administer (Publish)/.keep
+      - Administer (Publish)/Index.md
+      - Administer (Publish)/Create MOE Library Resources.md
+      - Administer (Publish)/Manage Lessons.md
+      - Administer (Publish)/Manage Media.md
+      - Administer (Publish)/Generate CCPM Reports (New).md
+      - Administer (Publish)/Manage Owner Groups.md
+      - Administer (Publish)/Manage Content Maps.md
+      - Administer (Administer)/.keep
       - Administer (Administer)/Index.md
       - Administer (Administer)/Activate Teacher Account.md
       - Administer (Administer)/Prepare Student Accounts through School
@@ -21,14 +32,3 @@ collections:
         Cockpit).md
       - Administer (Administer)/Manage Class Groups.md
       - Administer (Administer)/Generate Reports.md
-      - Administer (Administer)/.keep
-      - Administer (Publish)/Index.md
-      - Administer (Publish)/Create MOE Library Resources.md
-      - Administer (Publish)/Manage Lessons.md
-      - Administer (Publish)/Manage Media.md
-      - Administer (Publish)/Generate CCPM Reports (New).md
-      - Administer (Publish)/Manage Owner Groups.md
-      - Administer (Publish)/Manage Content Maps.md
-      - Administer (Publish)/.keep
-      - Organise (Notify)/Manage School Announcements (Enhanced).md
-      - Organise (Notify)/.keep
