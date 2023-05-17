@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Get Help/.keep
+      - Authentication/Forgot Username.md
       - Authentication/Unsuccessful Password Reset Attempts.md
       - Authentication/Unlock Account.md
       - Authentication/.keep
