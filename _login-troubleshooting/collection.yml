@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Get Help/.keep
+      - Authentication/Log in with MIMS (New).md
       - Authentication/Reset SLS Password (Student).md
       - Authentication/Forgot Username.md
       - Authentication/Unsuccessful Password Reset Attempts.md
