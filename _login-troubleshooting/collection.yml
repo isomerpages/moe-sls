@@ -6,6 +6,7 @@ collections:
       - Login Troubleshooting/Authentication.md
       - Login Troubleshooting/Get Help.md
       - Login Troubleshooting/Technical Issues.md
+      - Authentication/Authentication.md
       - Authentication/Log in with MIMS (Teacher).md
       - Authentication/Reset SLS Password (Teacher).md
       - Authentication/Password Reset Email.md
