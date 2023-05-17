@@ -16,10 +16,10 @@ collections:
       - Authentication/Forgot Username.md
       - Authentication/Unsuccessful Password Reset Attempts.md
       - Authentication/Unlock Account.md
-      - Get Help/Get Help.md
-      - Get Help/Contact SLS Helpdesk.md
-      - Get Help/Get Help from your School.md
       - Get Help/.keep
+      - Get Help/Get Help.md
+      - Get Help/Get Help from your School.md
+      - Get Help/Contact SLS Helpdesk.md
       - Technical Issues/.keep
       - Technical Issues/Operating System and Browser Requirements (Updated).md
       - Technical Issues/Web Browser Troubleshooting Tips.md
