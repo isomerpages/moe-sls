@@ -60,7 +60,7 @@ Use to enact assigned SLS lessons as part of my synchronous teaching in-class or
 </ul>	
 </details>
 
-<h3><a id="differentiate" target="_blank" href="../teacher-user-guide/enact/differentiate/">3. Differentiate</a></h3>
+<h3><a id="differentiate" target="_blank" href="../teacher-user-guide/differentiate/index">3. Differentiate</a></h3>
 Use SLS to differentiate lessons and activities for different groups of students.
 
 <details><summary><h4>How to organise my students within Class Groups?</h4></summary>
@@ -81,7 +81,7 @@ Use SLS to differentiate lessons and activities for different groups of students
 </ul>
 </details>
 
-<h3><a id="collaborate" target="_blank" href="../teacher-user-guide/enact/collaborate/">4. Collaborate</a></h3>
+<h3><a id="collaborate" target="_blank" href="../teacher-user-guide/collaborate/index">4. Collaborate</a></h3>
 Use SLS to set learning activities to be done collaboratively by students.
 
 <details><summary><h4>How to use the Class Group Forum?</h4></summary>
