@@ -15,20 +15,18 @@ collections:
       - Publish/Generate CCPM Reports (New).md
       - Publish/Manage Owner Groups.md
       - Publish/Manage Content Maps.md
-      - Administer (Administer)/.keep
-      - Administer (Administer)/Index.md
-      - Administer (Administer)/Activate Teacher Account.md
-      - Administer (Administer)/Prepare Student Accounts through School
-        Cockpit.md
-      - Administer (Administer)/Inform Parents of Student SLS IDs.md
-      - Administer (Administer)/Initiate Student Account Activation.md
-      - Administer (Administer)/Monitor Student Activation.md
-      - Administer (Administer)/Reset Passwords.md
-      - Administer (Administer)/Unlock Account.md
-      - Administer (Administer)/About Manage Users.md
-      - Administer (Administer)/Export Full User List.md
-      - Administer (Administer)/Verification Exercise.md
-      - Administer (Administer)/Manage Subjects (For Schools Not Using School
-        Cockpit).md
-      - Administer (Administer)/Manage Class Groups.md
-      - Administer (Administer)/Generate Reports.md
+      - Administer/.keep
+      - Administer/Index.md
+      - Administer/Activate Teacher Account.md
+      - Administer/Prepare Student Accounts through School Cockpit.md
+      - Administer/Inform Parents of Student SLS IDs.md
+      - Administer/Initiate Student Account Activation.md
+      - Administer/Monitor Student Activation.md
+      - Administer/Reset Passwords.md
+      - Administer/Unlock Account.md
+      - Administer/About Manage Users.md
+      - Administer/Export Full User List.md
+      - Administer/Verification Exercise.md
+      - Administer/Manage Subjects (For Schools Not Using School Cockpit).md
+      - Administer/Manage Class Groups.md
+      - Administer/Generate Reports.md
