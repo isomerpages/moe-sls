@@ -6,7 +6,7 @@ third_nav_title: Students UG
 ---
 ## Enact
 
-<h3><a target="_blank" href="../student-user-guide/assign/index">1. Assign</a></h3>
+<h3><a id="assign" target="_blank" href="../student-user-guide/assign/index">1. Assign</a></h3>
 Use SLS to easily navigate lessons assigned by my teachers.
 
 <details><summary><h4> How to complete Assignments?</h4></summary>
@@ -64,7 +64,7 @@ Use SLS to easily navigate lessons assigned by my teachers.
 </details>	
 </details>
 
-<h3><a target="_blank" href="../student-user-guide/collaborate/index">2. Collaborate</a></h3>
+<h3><a id="collaborate" target="_blank" href="../student-user-guide/collaborate/index">2. Collaborate</a></h3>
 Use SLS to easily access collaborative learning activities together at the same time or different times. 
 
 <details><summary><h4> How to share my Assignment with peers?</h4></summary>
