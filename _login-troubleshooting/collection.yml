@@ -2,22 +2,22 @@ collections:
   login-troubleshooting:
     output: true
     order:
-      - Get Help/.keep
+      - Login Troubleshooting/.keep
+      - Login Troubleshooting/Authentication.md
+      - Login Troubleshooting/Get Help.md
+      - Login Troubleshooting/Technical Issues.md
+      - Authentication/.keep
       - Authentication/Log in with MIMS (New).md
       - Authentication/Reset SLS Password (Student).md
       - Authentication/Forgot Username.md
       - Authentication/Unsuccessful Password Reset Attempts.md
       - Authentication/Unlock Account.md
-      - Authentication/.keep
-      - Login Troubleshooting/.keep
-      - Login Troubleshooting/Authentication.md
-      - Login Troubleshooting/Get Help.md
-      - Login Troubleshooting/Technical Issues.md
-      - School Based Helpline.md
+      - Get Help/.keep
       - Technical Issues/.keep
       - Technical Issues/Operating System and Browser Requirements (Updated).md
       - Technical Issues/Web Browser Troubleshooting Tips.md
       - Technical Issues/Slow Site Loading.md
+      - School Based Helpline.md
       - Login Self Help for Teachers/.keep
       - Login Self Help for Teachers/Log in with MIMS (New).md
       - Login Self Help for Teachers/Reset SLS Password (Teacher).md
