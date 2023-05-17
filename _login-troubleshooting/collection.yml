@@ -7,7 +7,7 @@ collections:
       - Login Troubleshooting/Get Help.md
       - Login Troubleshooting/Technical Issues.md
       - Authentication/.keep
-      - Authentication/Log in with MIMS (New).md
+      - Authentication/Log in with MIMS (Student).md
       - Authentication/Reset SLS Password (Student).md
       - Authentication/Forgot Username.md
       - Authentication/Unsuccessful Password Reset Attempts.md
