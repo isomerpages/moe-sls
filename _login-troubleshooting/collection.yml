@@ -6,6 +6,7 @@ collections:
       - Login Troubleshooting/Authentication.md
       - Login Troubleshooting/Get Help.md
       - Login Troubleshooting/Technical Issues.md
+      - Authentication/Password Reset Email.md
       - Authentication/Locked Account.md
       - Authentication/.keep
       - Authentication/Log in with MIMS (Student).md
