@@ -28,3 +28,26 @@ description: ""
 <li><a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">Unlock Account</a></li>
 </ul>
 </details>
+
+<h3><a id="discover" target="_blank" href="../teacher-user-guide/discover/index/">2. Get Help</a>
+</h3>
+<details>
+ <summary><h4>Where to get help?</h4></summary>
+
+<ul>
+  <li><a target="_blank" href="/teacher-user-guide/discover/about-resources/">Get Help from your School</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/communitygallery/">Contact SLS Helpdesk</a></li>
+</ul>
+</details>
+
+<h3><a id="discover" target="_blank" href="../teacher-user-guide/discover/index/">3. Technical Issues</a>
+</h3>
+<details>
+ <summary><h4>Browser Issues</h4></summary>
+
+<ul>
+  <li><a target="_blank" href="/teacher-user-guide/discover/about-resources/">Operating System and Browser Requirements</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/communitygallery/">Web Browser Troubleshooting Tips</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-activities-from-resources/">Slow Site Loading</a></li>
+</ul>
+</details>
