@@ -4,3 +4,14 @@ permalink: /admin-user-guide/admin-ug/organise/
 description: ""
 third_nav_title: Admin UG
 ---
+<h2>Organise</h2>
+
+<h3><a id="authentication" target="_blank" href="../login-troubleshooting/authentication/index/">1. Notify</a>
+</h3>
+<details>
+ <summary><h4>How to manage school-wide Announcements?</h4></summary>
+
+<ul>
+  <li><a target="_blank" href="../login-troubleshooting/authentication/log-in-with-mims-teacher/">Manage School Announcements (Enhanced)</a></li>
+</ul>
+</details>
