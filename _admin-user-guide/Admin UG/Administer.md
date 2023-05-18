@@ -6,8 +6,7 @@ third_nav_title: Admin UG
 ---
 <h2>Administer</h2>
 
-<h3><a id="authentication" target="_blank" href="../login-troubleshooting/authentication/index/">1. Publish</a>
-</h3>
+<h3><a id="publish" target="_blank" href="../admin-user-guide/publish/index/">1. Publish</a></h3>
 Use SLS to publish resources to make it available and discoverable to teachers and students.
 
 <details>
@@ -29,8 +28,7 @@ Use SLS to publish resources to make it available and discoverable to teachers a
 </ul>
 </details>
 
-<h3><a id="get-help" target="_blank" href="../login-troubleshooting/get-help/index/">2. Administer</a>
-</h3>
+<h3><a id="administer" target="_blank" href="../admin-user-guide/administer/index/">2. Administer</a></h3>
 Use SLS to manage surveys and tests to schools centrally and track broad teacher and student edtech use, T&amp;L processes and outcomes to plan system T&amp;L directions.
 
 <details>
