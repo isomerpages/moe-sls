@@ -47,7 +47,7 @@ description: ""
 
 <ul>
   <li><a target="_blank" href="../login-troubleshooting/technical-issues/operating-system-and-browser-requirements/">Operating System and Browser Requirements</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/communitygallery/">Web Browser Troubleshooting Tips</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-activities-from-resources/">Slow Site Loading</a></li>
+  <li><a target="_blank" href="../login-troubleshooting/technical-issues/web-browser-troubleshooting-tips/">Web Browser Troubleshooting Tips</a></li>
+  <li><a target="_blank" href="../login-troubleshooting/technical-issues/slow-site-loading/">Slow Site Loading</a></li>
 </ul>
 </details>
