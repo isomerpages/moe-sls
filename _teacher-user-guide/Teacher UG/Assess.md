@@ -6,7 +6,7 @@ third_nav_title: Teacher UG
 ---
 ## Assess
 
-<h3><a id="assess" target="_blank" href="../teacher-user-guide/assess/index">1. Assess</a></h3>
+<h3><a id="1assess" target="_blank" href="../teacher-user-guide/assess/index">1. Assess</a></h3>
 Use SLS to set up, mark and give feedback on student work.
 
 <details><summary><h4>How to assess students?</h4></summary>
