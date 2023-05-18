@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Customise
 ---
 <h1>Set Email Notifications (New)</h1>
-
+<hr>
 <p>From R19, you can choose to receive email notifications from SLS. Notifications will be sent to your default email address or alternative email address (if any).</p>
 
 <ol>
