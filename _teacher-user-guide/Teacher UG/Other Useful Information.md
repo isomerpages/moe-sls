@@ -6,7 +6,7 @@ third_nav_title: Teacher UG
 ---
 ## Other Useful Information
 
-<h3><a target="_blank" href="../teacher-user-guide/other-useful-information/index">1. Other Useful Information</a></h3>
+<h3><a id="1other-useful-information" target="_blank" href="/teacher-user-guide/other-useful-information/index">1. Other Useful Information</a></h3>
 
 <details><summary><h4>Are there additional resources for me to self-help?</h4></summary>
 <ul>
