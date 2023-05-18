@@ -11,10 +11,10 @@ description: ""
  <summary><h4>Teacher Login Issues</h4></summary>
 
 <ul>
-  <li><a target="_blank" href="/teacher-user-guide/discover/about-resources/">Log in with MIMS (Teacher)</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/communitygallery/">Reset SLS Password (Teacher)</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-activities-from-resources/">Password Reset Email</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-components-from-resources/">Locked Account</a></li>
+  <li><a target="_blank" href="../login-troubleshooting/authentication/log-in-with-mims-teacher/">Log in with MIMS (Teacher)</a></li>
+  <li><a target="_blank" href="../login-troubleshooting/authentication/reset-sls-password-teacher/">Reset SLS Password (Teacher)</a></li>
+  <li><a target="_blank" href="../login-troubleshooting/authentication/password-reset-email/">Password Reset Email</a></li>
+  <li><a target="_blank" href="../login-troubleshooting/authentication/locked-account/">Locked Account</a></li>
 </ul>
 </details>
 	
