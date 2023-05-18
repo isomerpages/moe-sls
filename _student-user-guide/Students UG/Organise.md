@@ -51,7 +51,7 @@ Use SLS to plan personal events and be updated on class group events.
 </ul>
 </details>
 
-<h3><a id="organise" target="_blank" href="../student-user-guide/organise/index/">4. Organise</a></h3>
+<h3><a id="4organise" target="_blank" href="../student-user-guide/organise/index/">4. Organise</a></h3>
 Use SLS to organize your personal and class group resources, assignments, conversations and notifications.
 
 <details><summary><h4>How to access Class Groups?</h4></summary>
