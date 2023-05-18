@@ -2,11 +2,6 @@ collections:
   teacher-user-guide:
     output: true
     order:
-      - Administer/Administer.md
-      - Administer/Onboard New Students.md
-      - Administer/Reset Student Passwords for Classes.md
-      - Administer/Generate Two Hour Temporary Password for Students.md
-      - Administer/.keep
       - Teacher UG/.keep
       - Teacher UG/Organise.md
       - Teacher UG/Author.md
@@ -117,8 +112,8 @@ collections:
       - Author/Resources.md
       - Author/Copyright FAQs.md
       - Author/Email Template for Copyright Clearance.md
-      - Personalise/Personalise.md
       - Personalise/.keep
+      - Personalise/Personalise.md
       - Personalise/Set Optional Activities & Quizzes.md
       - Gamify/.keep
       - Gamify/Gamify.md
@@ -199,6 +194,11 @@ collections:
       - Publish/Submit Lessons.md
       - Publish/Resubmit Lessons.md
       - Publish/Copyright Guidelines for Submission.md
+      - Administer/.keep
+      - Administer/Administer.md
+      - Administer/Onboard New Students.md
+      - Administer/Reset Student Passwords for Classes.md
+      - Administer/Generate Two Hour Temporary Password for Students.md
       - Other Useful Information/.keep
       - Other Useful Information/Index.md
       - Other Useful Information/Downloadable Resources.md
