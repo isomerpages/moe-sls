@@ -23,9 +23,9 @@ description: ""
 <ul>
   <li><a href="/teacher-user-guide/discover/view-external-resources/" target="_blank">Log in with MIMS (Student)</a></li>
   <li><a href="/teacher-user-guide/discover/embed-whitelisted-websites/" target="_blank">Reset SLS Password (Student)</a></li>
-  <li><a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">Forgot SLS Username</a></li>
-<li><a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">Unsuccessful Password Reset Attempts</a></li>
-<li><a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">Unlock Account</a></li>
+  <li><a href="../login-troubleshooting/authentication/forgot-sls-username/" target="_blank">Forgot SLS Username</a></li>
+<li><a href="../login-troubleshooting/authentication/unsuccessful-password-reset-attempts/" target="_blank">Unsuccessful Password Reset Attempts</a></li>
+<li><a href="../login-troubleshooting/authentication/unlock-account/" target="_blank">Unlock Account</a></li>
 </ul>
 </details>
 
@@ -35,8 +35,8 @@ description: ""
  <summary><h4>Where to get help?</h4></summary>
 
 <ul>
-  <li><a target="_blank" href="/teacher-user-guide/discover/about-resources/">Get Help from your School</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/communitygallery/">Contact SLS Helpdesk</a></li>
+  <li><a target="_blank" href="../login-troubleshooting/get-help/get-help-from-your-school/">Get Help from your School</a></li>
+  <li><a target="_blank" href="../login-troubleshooting/get-help/contact-sls-helpdesk/">Contact SLS Helpdesk</a></li>
 </ul>
 </details>
 
