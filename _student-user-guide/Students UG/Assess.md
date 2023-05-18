@@ -6,7 +6,7 @@ third_nav_title: Students UG
 ---
 ## Assess
 
-<h3><a id="assess" target="_blank" href="../student-user-guide/assess/index">1. Assess</a></h3>
+<h3><a id="1assess" target="_blank" href="../student-user-guide/assess/index">1. Assess</a></h3>
 Use SLS to complete and submit work, easily access and follow up on teacher marks and feedback.
 
 <details>
