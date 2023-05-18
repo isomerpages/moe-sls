@@ -16,9 +16,9 @@ links:
       - title: Teachers UG
         url: /teacher-user-guide/teacher-ug/organise/
       - title: Admin UG
-        url: /admin-user-guide/administer/index/
-      - title: Login Troubleshooting UG
-        url: /login-troubleshooting/schoolbasedhelpline/
+        url: /admin-user-guide/admin-ug/organise/
+      - title: Login Troubleshooting
+        url: /login-troubleshooting/index/
   - title: About Sls
     collection: about-sls
   - title: Login to SLS
