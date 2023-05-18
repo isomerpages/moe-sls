@@ -42,7 +42,7 @@ Use SLS to set up, mark and give feedback on student work.
 </ol>
 </details>
 
-<h3><a id="track-progress" target="_blank" href="/teacher-user-guide/track-progress/index">2. Track Progress</a></h3>
+<h3><a id="track-progress" target="_blank" href="/teacher-user-guide/track-progress/index/">2. Track Progress</a></h3>
 Use SLS to track and compare student progress within and across lessons and assignments.
 
 <details><summary><h4>How to monitor student’s Learning Progress?</h4></summary>
