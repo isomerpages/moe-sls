@@ -18,14 +18,14 @@ third_nav_title: Customise
 
 <ul>
 	<p>Manage Personal Account</p>
-  <li><a target="_blank" href="/teacher-user-guide/discover/about-resources/">Customise an Avatar</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/communitygallery/">Change Display Name</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-activities-from-resources/">Set an Alternate Email Address</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-components-from-resources/">Set Email Notifications (New)</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">Manage Linked Account</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/view-lesson-details/">Change SLS Password</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/customise-an-avatar/">Customise an Avatar</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/change-display-name/">Change Display Name</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/set-an-alternate-email-address/">Set an Alternate Email Address</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/set-email-notifications/">Set Email Notifications (New)</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/manage-linked-account/">Manage Linked Account</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/change-sls-password/">Change SLS Password</a></li>
 	<p>Using Teacher's Student Account</p>
-  <li><a target="_blank" href="/teacher-user-guide/discover/about-resources/">Switch to Student Account</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/switch-to-student-account/">Switch to Student Account</a></li>
 </ul>
 </details>
 <br>
@@ -37,6 +37,6 @@ third_nav_title: Customise
  <summary><h4>How to create/manage my own Lesson Templates?</h4></summary>
 
 <ul>
-  <li><a target="_blank" href="/teacher-user-guide/discover/about-resources/">Manage My Templates</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/manage-my-templates/">Manage My Templates</a></li>
 </ul>
 </details>
