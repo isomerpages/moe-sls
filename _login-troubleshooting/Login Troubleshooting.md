@@ -5,7 +5,7 @@ description: ""
 ---
 <h2>Authentication</h2>
 
-<h3><a id="discover" target="_blank" href="../teacher-user-guide/discover/index/">1. Authentication</a>
+<h3><a id="authentication" target="_blank" href="../login-troubleshooting/authentication/index/">1. Authentication</a>
 </h3>
 <details>
  <summary><h4>Teacher Login Issues</h4></summary>
@@ -29,7 +29,7 @@ description: ""
 </ul>
 </details>
 
-<h3><a id="discover" target="_blank" href="../teacher-user-guide/discover/index/">2. Get Help</a>
+<h3><a id="get-help" target="_blank" href="../login-troubleshooting/get-help/index/">2. Get Help</a>
 </h3>
 <details>
  <summary><h4>Where to get help?</h4></summary>
@@ -40,13 +40,13 @@ description: ""
 </ul>
 </details>
 
-<h3><a id="discover" target="_blank" href="../teacher-user-guide/discover/index/">3. Technical Issues</a>
+<h3><a id="technical-issues" target="_blank" href="../login-troubleshooting/technical-issues/index/">3. Technical Issues</a>
 </h3>
 <details>
  <summary><h4>Browser Issues</h4></summary>
 
 <ul>
-  <li><a target="_blank" href="/teacher-user-guide/discover/about-resources/">Operating System and Browser Requirements</a></li>
+  <li><a target="_blank" href="../login-troubleshooting/technical-issues/operating-system-and-browser-requirements/">Operating System and Browser Requirements</a></li>
   <li><a target="_blank" href="/teacher-user-guide/discover/communitygallery/">Web Browser Troubleshooting Tips</a></li>
   <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-activities-from-resources/">Slow Site Loading</a></li>
 </ul>
