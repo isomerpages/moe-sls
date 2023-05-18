@@ -82,6 +82,7 @@ Use SLS to design lesson resources aligned to the e-pedagogical principles.
 </details>
 
 <h3><a id="personalise" target="_blank" href="/teacher-user-guide/personalise/index">2. Personalise</a></h3>
+Use SLS to provide choice for your students in their lessons and activities.
 
 <details><summary><h4>How to personalise Lessons for students?</h4></summary>
 <ul>
