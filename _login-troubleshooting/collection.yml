@@ -11,7 +11,7 @@ collections:
       - Authentication/.keep
       - Authentication/Log in with MIMS (Student).md
       - Authentication/Reset SLS Password (Student).md
-      - Authentication/Forgot Username.md
+      - Authentication/Forgot SLS Username.md
       - Authentication/Unsuccessful Password Reset Attempts.md
       - Authentication/Unlock Account.md
       - Get Help/.keep
