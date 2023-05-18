@@ -17,12 +17,15 @@ third_nav_title: Customise
  <summary><h4>How to manage my SLS account?</h4></summary>
 
 <ul>
-  <li><a target="_blank" href="/teacher-user-guide/discover/about-resources/">About Resources</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/communitygallery/">(1a) Add Existing Activities from Resources</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-activities-from-resources/">(1b) Add Existing Components from Resources</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-components-from-resources/">(1c) Add Existing Media Objects from Resources</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">(2) Search for Resources (New)</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/view-lesson-details/">(3) View Lesson Details</a></li>
+	<p>Manage Personal Account</p>
+  <li><a target="_blank" href="/teacher-user-guide/discover/about-resources/">Customise an Avatar</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/communitygallery/">Change Display Name</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-activities-from-resources/">Set an Alternate Email Address</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-components-from-resources/">Set Email Notifications (New)</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">Manage Linked Account</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/view-lesson-details/">Change SLS Password</a></li>
+	<p>Using Teacher's Student Account</p>
+  <li><a target="_blank" href="/teacher-user-guide/discover/about-resources/">Switch to Student Account</a></li>
 </ul>
 </details>
 <br>
