@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Discover
 ---
 <h1>1a. Add Existing Activities from Resources</h1>
+<hr>
 
 <h3>From Create New Lesson</h3>
 
