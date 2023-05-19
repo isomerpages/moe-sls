@@ -36,7 +36,8 @@ third_nav_title: Discover
   <li>When adding an image from Library, you may search for Images <a href="teacher/discover/SearchForResources.html">across MOE Library, Community Gallery and My Drive</a>.</li>
   <li>When you add an image from Starred Resources, you are unable to search for Starred Images.</li>
   <li>Select the Image you wish to add to your Lesson/Section Cover by selecting the relevant <strong>Image Card</strong>.</li>
-  <li>Note: Click the <strong>Download</strong> icon [insert icon] should you wish to download the image.</li>
+  <li>Note: Click the <strong>Download</strong> icon 
+		<img style="width:10%; display: inline;" src="/images/Icons/Download.svg"> should you wish to download the image.</li>
   <li>Click the space outside the Component to save your edits.</li>
 </ol>
 
@@ -45,7 +46,7 @@ third_nav_title: Discover
 <hr>
 
 <ol>
-  <li>When editing a Component allowing Rich Text, click the <strong>Add Media</strong> icon <img alt="Paper clip icon" src="PaperClip.svg">.</li>
+  <li>When editing a Component allowing Rich Text, click the <strong>Add Media</strong> icon <img style="width:10%; display: inline;" src="/images/Icons/PaperClip.svg">.</li>
   <li>Click <strong>Add File from Library</strong> or <strong>Add File from Starred Resources</strong> to add an existing Media Object.</li>
   <li>When you add a file from Library, you may search for Media Objects <a href="teacher/discover/SearchForResources.html">across MOE Library, Community Gallery and My Drive</a>. You can also apply Search Filter to narrow down your search.</li>
   <li>When you add files from Starred Resources, you are unable to search for Starred Media Objects.</li>
