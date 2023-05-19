@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/discover/previously-whitelisted-and-non-whitelist
 description: ""
 third_nav_title: Discover
 ---
- <h1 class="page-title">Previously Whitelisted/Non-Whitelisted Websites</h1>
+<h1 class="page-title">Previously Whitelisted/Non-Whitelisted Websites</h1>
  
  <h2 class="section-title">Removed Previously Whitelisted Websites</h2>
  <hr>
@@ -74,7 +74,7 @@ third_nav_title: Discover
 <hr>
                 <p>
                   To insert a non-whitelisted website in SLS, you have to include it as a
-                  <a target="_blank" href="InsertHyperlink.html">hyperlink</a>
+<a target="_blank" href="/teacher-user-guide/author-author/insertexternal/">hyperlink</a>
                   to the website instead of embedding. This will open the site in a new tab.
                 </p>
 <table>
