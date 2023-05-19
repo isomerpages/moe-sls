@@ -4,8 +4,8 @@ permalink: /teacher-user-guide/teacher-ug/assess/
 description: ""
 third_nav_title: Teacher UG
 ---
-## Assess
-
+<h1>Assess</h1>
+<hr>
 <h3><a id="1assess" target="_blank" href="/teacher-user-guide/assess/index">1. Assess</a></h3>
 Use SLS to set up, mark and give feedback on student work.
 
