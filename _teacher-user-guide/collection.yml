@@ -2,11 +2,11 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - (i) Organise.md
       - (ii) Author.md
       - (iii) Enact.md
       - (iv) Assess.md
       - (v) Administer.md
-      - (i) Organise.md
       - Teacher UG/.keep
       - Teacher UG/Organise.md
       - Teacher UG/Author.md
