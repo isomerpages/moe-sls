@@ -32,10 +32,7 @@ Tel: 63620598
 <td>
 Tel: 63651733
 <br>Email:
-<br>
-Others:
-
-
+<br>Others:
 </td>
 </tr>
 <tr>
@@ -233,7 +230,7 @@ Others:
 <tr>
 <td>Assumption Pathway School</td>
 <td>
-Tel: 68793900
+Tel: 62793000
 <br>Email:
 <br>
 Others:
@@ -477,7 +474,7 @@ Others:
 Tel: 67597433
 <br>Email: canberra_ps@moe.edu.sg
 <br>
-Others: E-Learning Day on 24th May 2022 (Tuesday)
+Others:
 
 
 </td>
@@ -1728,10 +1725,10 @@ Others:
 <tr>
 <td>Kuo Chuan Presbyterian Primary School</td>
 <td>
-Tel: 62595396
+Tel: 62308571
 <br>Email: ronnie_kuek_kia_wee@moe.edu.sg
 <br>
-Others:
+Others: WhatsApp 62308571
 
 
 </td>
@@ -2597,7 +2594,7 @@ Others:
 <tr>
 <td>Raffles Girls' Primary School</td>
 <td>
-Tel: 64684377
+Tel: 64699513
 <br>Email: 
 <br>
 Others:
@@ -3095,7 +3092,7 @@ Others:
 Tel: 62419513
 <br>Email: 
 <br>
-Others: <a href="https://form.gov.sg/#!/5e37d58673a1e90011945210">Form SG</a>
+Others:
 
 
 </td>
