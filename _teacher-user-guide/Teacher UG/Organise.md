@@ -86,6 +86,9 @@ Use SLS to notify other teachers and students easily on T&amp;L matters across t
 
 <h3><a id="plan" target="_blank" href="/teacher-user-guide/plan/index/">3. Plan</a></h3>
 Use SLS to plan personal and class group events.
+
+<a target="_blank" href="/images/2Teacher/Flow-Plan.png"><img alt="Flow Plan" src="/images/2Teacher/Flow-Plan.png"></a>
+
 <details>
 	
  <summary><h4>How to use SLS Planner?</h4></summary>
