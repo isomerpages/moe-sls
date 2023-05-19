@@ -9,7 +9,7 @@ School-Based Helpline
 
 The following are details on how you can contact your school to assist in login or e-learning issues during working hours.
 
-You may use the search function to find your school quickly.
+You may use the search function in your browser to find your school quickly.
 
 <table>
 <thead>
