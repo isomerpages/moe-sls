@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/discover/follow-and-unfollow-subjects/
 description: ""
 third_nav_title: Discover
 ---
-<h1>Follow &amp; Unfollow Subjects</h1>
+<h1>Follow &amp; Unfollow Subjects</h1><hr>
 <ol>
     <li>You may follow other subjects of interest beyond the ones assigned to you.</li>
     <li>Open the right menu and click <strong>My Subjects</strong>.</li>
