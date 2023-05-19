@@ -2,10 +2,10 @@ collections:
   admin-user-guide:
     output: true
     order:
-      - (ii) Administer.md
       - (i) Organise.md
-      - Notify/Notify.md
+      - (ii) Administer.md
       - Notify/.keep
+      - Notify/Notify.md
       - Notify/Manage School Announcements (Enhanced).md
       - Publish/.keep
       - Publish/Publish.md
