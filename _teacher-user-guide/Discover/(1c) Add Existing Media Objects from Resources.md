@@ -4,8 +4,6 @@ permalink: /teacher-user-guide/discover/add-existing-media-objects-from-resource
 description: ""
 third_nav_title: Discover
 ---
-
-
 <h1>1c. Add Existing Media Objects from Resources</h1>
 
 <p>Image files can only be added to a Lesson Cover while Media Object can only be added via Rich Text Editor.</p>
@@ -30,8 +28,10 @@ third_nav_title: Discover
 <hr>
 
 <ol>
-  <li>From the Lesson Editor page, click the <strong>Lesson Cover</strong> icon [insert icon] or <strong>Section Cover</strong> icon [insert icon].</li>
-  <li>Click the <strong>Pencil</strong> icon [insert icon] which will appear when you hover over the Lesson/Section Title.</li>
+  <li>From the Lesson Editor page, click the <strong>Lesson Cover</strong> icon 
+			<img style="width:10%; display: inline;" src="/images/Icons/Section.svg">	
+		or <strong>Section Cover</strong> icon <img style="width:10%; display: inline;" src="/images/Icons/Introduction.svg">	.</li>
+  <li>Click the <strong>Pencil</strong> icon <img style="width:10%; display: inline;" src="/images/Icons/Pencil.svg">	 which will appear when you hover over the Lesson/Section Title.</li>
   <li>Click <strong>Add Existing</strong> and select between <strong>Image From Library</strong> and <strong>Image From Starred Resources</strong>.</li>
   <li>When adding an image from Library, you may search for Images <a href="teacher/discover/SearchForResources.html">across MOE Library, Community Gallery and My Drive</a>.</li>
   <li>When you add an image from Starred Resources, you are unable to search for Starred Images.</li>
