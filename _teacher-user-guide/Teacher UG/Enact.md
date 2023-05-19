@@ -4,8 +4,8 @@ permalink: /teacher-user-guide/teacher-ug/enact/
 description: ""
 third_nav_title: Teacher UG
 ---
-## Enact
-
+<h1>Enact</h1>
+<hr>
 <h3><a id="assign" target="_blank" href="/teacher-user-guide/assign/index/">1. Assign</a></h3>
 Use SLS to assign lessons to your students for them to complete within a specific time.
 
