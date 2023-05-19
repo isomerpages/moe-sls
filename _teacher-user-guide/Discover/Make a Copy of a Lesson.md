@@ -12,7 +12,7 @@ third_nav_title: Discover
   <li>Click the <strong>Lesson</strong> Card to open the Lesson in a new tab.</li>
   <li>On the Lesson View page, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and click <strong>Copy to My Drive</strong>.</li>
   
-  <img alt="Screenshot of Overflow menu with Copy to My Drive option" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/412128cb-08de-49e6-aa19-43c1c7f3ae8e/Untitled.png">
+<a target="_blank" href="/images/2Teacher/D-CopytoMyDrive.png"><img alt="CopytoMyDrive" src="/images/2Teacher/D-CopytoMyDrive.png"></a>
   
   <li>You will be prompted to:</li>
   <ul>
