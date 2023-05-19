@@ -7,7 +7,8 @@ third_nav_title: Discover
 <h2>Discover</h2>
 Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 
-![](/images/2Teacher/Flow-Discover.png)
+<a target="_blank" href="/images/2Teacher/Flow-Discover.png"><img alt="Flow Discover" src="/images/2Teacher/Flow-Discover.png"></a>
+
 
 <details>
  <summary><h4>How to add Resources from Library?</h4></summary>
@@ -23,14 +24,16 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 </details>
 	
 	
-
-![](/images/2Teacher/Flow-Discover1.png)
+<a target="_blank" href="/images/2Teacher/Flow-Discover1.png"><img alt="Flow Discover" src="/images/2Teacher/Flow-Discover1.png"></a>
 
 <details><summary><h4>How to embed whitelisted websites?</h4></summary>
 	
-* <a href="/teacher-user-guide/discover/view-external-resources/" target="_blank">(1) View External Resources (New)</a>
-* <a href="/teacher-user-guide/discover/embed-whitelisted-websites/" target="_blank">(2) Embed Whitelisted Websites (Enhanced)</a>
-* <a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">Previously Whitelisted/Non-Whitelisted Websites</a>
+<ul>
+  <li><a href="/teacher-user-guide/discover/view-external-resources/" target="_blank">(1) View External Resources (New)</a></li>
+  <li><a href="/teacher-user-guide/discover/embed-whitelisted-websites/" target="_blank">(2) Embed Whitelisted Websites (Enhanced)</a></li>
+  <li><a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">Previously Whitelisted/Non-Whitelisted Websites</a></li>
+</ul>
+
 
 </details>
 
