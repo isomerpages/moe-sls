@@ -158,52 +158,35 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <h3><a id="customise" target="_blank" href="/teacher-user-guide/customise/index/">5. Customise</a></h3>
 Use SLS to to customise your avatar, UI and user experience based on your needs.
 
-<details>
- <summary><h4>How to create my own Lesson Templates?</h4></summary>
-	
-<ul>
-  <li>
-<a target="_blank" href="https://www.notion.so/Manage-My-Templates-fb6b961fd485443482ad52606ac367ef">Manage My Templates</a>
-</li>
-</ul>
-</details>
+<a target="_blank" href="/images/2Teacher/Flow-Customise.png">
+  <img alt="Flow Customise" src="/images/2Teacher/Flow-Customise.png">
+</a>
 
-<details>
- <summary><h4>How to manage my Student’s account?</h4></summary>
-	
-<ul>
-	<li>Onboarding
-		<ul>
-			<li><a target="_blank" href="https://www.notion.so/Onboard-New-Students-d5dd6a4833064138bac91e7e495228e6">Onboard New Students</a></li>
-		</ul>
-	</li>
-	<li>Password Settings
-		<ul>
-			<li><a target="_blank" href="https://www.notion.so/Reset-Student-Passwords-for-Classes-5f86ca37741e496b80707bf65a1a28c4">Reset Student Passwords for Classes</a></li>
-			<li><a target="_blank" href="https://www.notion.so/Generate-Two-Hour-Temporary-Password-for-Students-c0d01a1bd7af4631ac6723a6925ef1e3">Generate Two-Hour Temporary Password for Students</a></li>
-		</ul>
-	</li>
-</ul>
-</details>
 
 <details>
  <summary><h4>How to manage my SLS account?</h4></summary>
-	
+
 <ul>
-	<li>Manage Personal Account
-		<ul>
-			<li><a target="_blank" href="https://www.notion.so/Customise-an-Avatar-fa4425d4e617479298e3a0c487632f08">Customise an Avatar</a></li>
-			<li><a target="_blank" href="https://www.notion.so/Change-Display-Name-5c86ee876bd24f4d891fa2b95031593b">Change Display Name</a></li>
-			<li><a target="_blank" href="https://www.notion.so/Set-an-Alternate-Email-Address-b4009ba79dc14a4b97d942765e15865d">Set an Alternate Email Address</a></li>
-			<li><a target="_blank" href="https://www.notion.so/Set-Email-Notifications-New-de794619d74e4ce1b0f057187735dbb7">Set Email Notifications (New)</a></li>
-			<li><a target="_blank" href="https://www.notion.so/Manage-Linked-Account-81ffe7eb118741f4b34a36f81b53b0ce">Manage Linked Account</a></li>
-			<li><a target="_blank" href="https://www.notion.so/Change-SLS-Password-9d619bedc8854c308b0293bddfe1d3d2">Change SLS Password</a></li>
-		</ul>
-	</li>
-	<li>Using Teacher's Student Account
-		<ul>
-			<li><a target="_blank" href="https://www.notion.so/Switch-to-Student-Account-d290594606c74a6d81077b70a7baaaa8">Switch to Student Account</a></li>
-		</ul>
-	</li>
+	<p>Manage Personal Account</p>
+  <li><a target="_blank" href="/teacher-user-guide/customise/customise-an-avatar/">Customise an Avatar</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/change-display-name/">Change Display Name</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/set-an-alternate-email-address/">Set an Alternate Email Address</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/set-email-notifications/">Set Email Notifications (New)</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/manage-linked-account/">Manage Linked Account</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/change-sls-password/">Change SLS Password</a></li>
+	<p>Using Teacher's Student Account</p>
+  <li><a target="_blank" href="/teacher-user-guide/customise/switch-to-student-account/">Switch to Student Account</a></li>
+</ul>
+</details>
+<br>
+<a target="_blank" href="/images/2Teacher/Flow-Customise1.png">
+  <img alt="Flow Customise" src="/images/2Teacher/Flow-Customise1.png">
+</a>
+
+<details>
+ <summary><h4>How to create/manage my own Lesson Templates?</h4></summary>
+
+<ul>
+  <li><a target="_blank" href="/teacher-user-guide/customise/manage-my-templates/">Manage My Templates</a></li>
 </ul>
 </details>
