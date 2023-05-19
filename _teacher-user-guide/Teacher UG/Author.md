@@ -4,8 +4,8 @@ permalink: /teacher-user-guide/teacher-ug/author/
 description: ""
 third_nav_title: Teacher UG
 ---
-## Author
-
+<h1>Author</h1>
+<hr>
 <h3><a id="author" target="_blank" href="/teacher-user-guide/author/index/">1. Author</a></h3>
 Use SLS to design lesson resources aligned to the e-pedagogical principles.
 
