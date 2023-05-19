@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/discover/add-existing-components-from-resources/
 description: ""
 third_nav_title: Discover
 ---
-<h2>1b. Add Existing Components from Resources</h2>
+<h1>1b. Add Existing Components from Resources</h1>
 <hr>
 
 <h3>Add Existing Questions from Resources</h3>
