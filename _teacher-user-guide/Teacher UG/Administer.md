@@ -4,8 +4,8 @@ permalink: /teacher-user-guide/teacher-ug/administer/
 description: ""
 third_nav_title: Teacher UG
 ---
-## Administer
-
+<h1>Administer</h1>
+<hr>
 <h3><a id="publish" target="_blank" href="/teacher-user-guide/publish/index/">1. Publish</a></h3>
 Use SLS to publish resources to make it available and discoverable to teachers and students.
 
