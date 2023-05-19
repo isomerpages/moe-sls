@@ -4,8 +4,8 @@ permalink: /student-user-guide/student-ug/organise/
 description: ""
 third_nav_title: Students UG
 ---
-## Organise
-
+<h1>Organise</h1>
+<hr>
 <h3><a id="discover" target="_blank" href="/student-user-guide/discover/index/">1. Discover</a></h3>
 Use SLS to discover, search for and find useful Teaching &amp; Learning resources that you can learn from.
 <details><summary><h4>Where to find self-study resources?</h4></summary>
