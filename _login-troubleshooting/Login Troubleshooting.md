@@ -3,8 +3,8 @@ title: Login Troubleshooting
 permalink: /login-troubleshooting/index/
 description: ""
 ---
-<h2>Authentication</h2>
-
+<h1>Authentication</h1>
+<hr>
 <h3><a id="authentication" target="_blank" href="/login-troubleshooting/authentication/index/">1. Authentication</a>
 </h3>
 <details>
