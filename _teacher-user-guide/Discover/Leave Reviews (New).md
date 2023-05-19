@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Discover
 ---
 <h1>Leave Reviews (New)</h1>
+<hr>
 	<p>From R19, teachers are able to leave Reviews for MOE Library and Community Gallery Lessons.</p>
 	<h3>View Reviews</h3>
 	<hr>
