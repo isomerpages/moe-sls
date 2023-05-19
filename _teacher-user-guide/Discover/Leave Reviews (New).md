@@ -11,13 +11,14 @@ third_nav_title: Discover
 	<ol>
 		<li>From the Search page, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson Card, followed by <strong>View Reviews</strong>.</li>
 		<li>The number of Reviews is also visible from the Lesson Card.</li>
-		<p>[insert D-LessonReview.png]</p>
-		<li>You can also view the Teacher Reviews from the Lesson View page when you open the Lesson in a new tab. To view the Reviews, click the <strong>Teacher Reviews</strong> icon <img alt="Teacher Reviews Icon" src="Reviews.svg"> found at the top of the Lesson header.</li>
+	<a target="_blank" href="/images/2Teacher/D-LessonReview.png"><img alt="LessonReview" src="/images/2Teacher/D-LessonReview.png"></a>
+		<li>You can also view the Teacher Reviews from the Lesson View page when you open the Lesson in a new tab. To view the Reviews, click the <strong>Teacher Reviews</strong> icon 
+			<img style="width:10%; display: inline;" src="/images/Icons/Reviews.svg"> found at the top of the Lesson header.</li>
 	</ol>
 	<h3>Add Reviews</h3>
 	<hr>
 	<ol>
-		<li>From the Search page, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson Card, followed by <strong>View Reviews</strong>.</li>
+		<li>From the Search page, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson Card, followed by <strong>See Reviews</strong>.</li>
 		<li>On the Teacher Reviews subpage, click <strong>Add Review</strong>.</li>
 		<li>Enter your Review and click <strong>Create</strong>.</li>
 	</ol>
