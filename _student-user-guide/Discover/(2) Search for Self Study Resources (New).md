@@ -95,3 +95,9 @@ third_nav_title: Discover
   <li>To view the Lesson Details, click the <strong>View Details</strong> icon found on the top right of the Lesson Card. You will be able to view details such as Lesson Description, list of Activities and Sections (if any), who created the Lesson and when it was lasted edited. To open the Lesson in a new tab, click the <strong>Expand</strong> icon <img style="width:5%; display: inline;" src="/images/Icons/external-link.svg">.</li>
   <li>To enter the Lesson, click the <strong>Lesson Card</strong>.</li>
 </ol>
+
+<h3>Video Tutorial (Updated)</h3>
+<hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Search for Resources (Student)" src="https://www.youtube.com/embed/DHskKikshu8" height="100%" width="100%"></iframe>
+</div>
