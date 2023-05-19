@@ -4,7 +4,7 @@ permalink: /student-user-guide/discover/attempt-self-study-resources/
 description: ""
 third_nav_title: Discover
 ---
-<h1>3. Attempt Self-Study Resources (New)</h1>
+<h1>3. Attempt Self-Study Resources (New)</h1><hr>
 
 <p>You can attempt Self-Study Resources from 3 locations:</p>
 
@@ -43,11 +43,11 @@ third_nav_title: Discover
   <li>To view the Lesson Details, click the <strong>View Details</strong> icon on the Lesson Card. You will be able to view details such as Lesson Description, list of Activities and Sections (if any), who created the Lesson and when it was lasted edited. To open the Lesson in a new tab, click the <strong>Expand</strong> icon.</li>
   <li>To begin attempting the Lesson, click the <strong>Lesson Card</strong>. Within the Lesson, open the right menu to <strong>Reattempt</strong> (once you have started on the Lesson), <strong>Copy to My Drive</strong> (if permissions have been enabled), or <strong>View as Print-Friendly Worksheet</strong> (if permissions have been enabled).</li>
   <ul>
-    <li>Note: Should you Reattempt the Lesson, responses from your previous attempt will be deleted. To keep a copy of your responses, make a copy of the Lesson before reattempting.</li>
+    <li><u>Note</u>: Should you Reattempt the Lesson, responses from your previous attempt will be deleted. To keep a copy of your responses, make a copy of the Lesson before reattempting.</li>
   </ul>
-  <li>To revisit this Lesson, you can access it from your Self-Study List. </li>
+  <li>To revisit this Lesson, you can <a target="_blank" href="/student-user-guide/discover/access-self-study-resources/">access it from your Self-Study List</a>. </li>
   <ul>
-    <li>Note: Your previous responses will be saved.</li>
+    <li><u>Note</u>: Your previous responses will be saved.</li>
   </ul>
 </ol>
 <h2>Attempt Lessons from My Drive</h2>
@@ -57,10 +57,10 @@ third_nav_title: Discover
   <li>To view the Lesson Details, click the <strong>Overflow</strong> (3-dot icon) and select <strong>View Details</strong>. You will be able to view details such as Lesson Description, list of Activities and Sections (if any), who created the Lesson and when it was lasted edited. To open the Lesson in a new tab, click the <strong>Expand</strong> icon.</li>
   <li>Click <strong>Open</strong> under a Lesson Title to start attempting the Lesson in a new tab. Within the Lesson, open the right menu to <strong>Reattempt</strong> (once you have started on the Lesson), or <strong>View as Print-Friendly Worksheet</strong> (if permissions have been enabled).</li>
   <ul>
-    <li>Note: Should you Reattempt the Lesson, responses from your previous attempt will be deleted. To keep a copy of your responses, make a copy of the Lesson before reattempting.</li>
+    <li><u>Note</u>: Should you Reattempt the Lesson, responses from your previous attempt will be deleted. To keep a copy of your responses, make a copy of the Lesson before reattempting.</li>
   </ul>
   <li>To revisit this Lesson, you can access it from your Self-Study List.</li>
   <ul>
-    <li>Note: Your previous responses will be saved.</li>
+    <li><u>Note</u>: Your previous responses will be saved.</li>
   </ul>
-</ol> 
+</ol>
