@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Discover
 ---
 <h1>About Self-Study Resources (New)</h1>
+<hr>
 <p>Self-Study List contains resources for students to access and review at their own pace. There are three ways to access Self-Study List within SLS:</p>
 <ul>
 <li>MOE Library</li>
@@ -15,7 +16,7 @@ third_nav_title: Discover
 <h3>About MOE Library</h3>
 <hr>
 <p>The MOE Library contains resources created and curated by the Ministry of Education (MOE) that complement your learning in school. You have access to all the Lessons and Courses for all levels and subjects.</p>
-<p>Note: Due to certain licensing agreements, you may be unable to load some images, audio files, videos and documents if you are not taking a subject or are accessing the SLS outside Singapore.</p>
+<p><u>Note</u>: Due to certain licensing agreements, you may be unable to load some images, audio files, videos and documents if you are not taking a subject or are accessing the SLS outside Singapore.</p>
 <h3>About Class Group Resources</h3>
 <hr>
 <p>Class Group Resources are Lessons that are uploaded by your teachers to the Class Group. These Lessons are not assignments and do not have a due date.</p>
