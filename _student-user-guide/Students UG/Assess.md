@@ -4,7 +4,8 @@ permalink: /student-user-guide/student-ug/assess/
 description: ""
 third_nav_title: Students UG
 ---
-## Assess
+<h1>Assess</h1>
+<hr>
 
 <h3><a id="1assess" target="_blank" href="/student-user-guide/assess/index/">1. Assess</a></h3>
 Use SLS to complete and submit work, easily access and follow up on teacher marks and feedback.
