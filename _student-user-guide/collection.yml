@@ -2,6 +2,7 @@ collections:
   student-user-guide:
     output: true
     order:
+      - (ii) Author.md
       - (iii) Enact.md
       - (iv) Assess.md
       - Students UG/.keep
