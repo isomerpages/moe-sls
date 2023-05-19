@@ -4,8 +4,10 @@ permalink: /teacher-user-guide/discover/add-existing-components-from-resources/
 description: ""
 third_nav_title: Discover
 ---
-<h3>From Lesson Editor</h3>
+<h2>1b. Add Existing Components from Resources</h2>
+<hr>
 
+<h3>From Lesson Editor</h3>
 <hr>
 
 <ol>
