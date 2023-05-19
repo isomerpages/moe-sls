@@ -6,6 +6,9 @@ third_nav_title: Plan
 ---
 ## Plan
 Use SLS to plan personal and class group events.
+
+<a target="_blank" href="/images/2Teacher/Flow-Plan.png"><img alt="Flow Plan" src="/images/2Teacher/Flow-Plan.png"></a>
+
 <details>
  <summary><h4>How to use SLS Planner?</h4></summary>
 
