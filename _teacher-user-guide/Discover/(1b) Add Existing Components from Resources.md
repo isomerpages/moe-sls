@@ -13,7 +13,7 @@ third_nav_title: Discover
 <ol>
     <li>In the Lesson Editor, there are multiple ways to add an Activity:
         <ul>
-            <li>Click the <strong>Expand Activity List</strong> icon <img src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bed8893d-5862-4f39-abca-c2a794dec7dc/Untitled.png"> to open the Full Activity List. Select <strong>+ New</strong>.<br>
+            <li>Click the <strong>Expand Activity List</strong> icon 	<a target="_blank" href="/images/2Teacher/D-AddExistingComponent.png"><img alt="D-AddExistingComponent" src="/images/2Teacher/D-AddExistingComponent.png"></a>	 to open the Full Activity List. Select <strong>+ New</strong>.<br>
                 <img src="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/2Teacher/LMAddActivity2.png"></li>
             <li>Click the <strong>Expand Activity List</strong> icon to open the Full Activity List. Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found to the right of any Activity/Section/Lesson Cover and click <strong>Add New</strong>.<br>
                 <img src="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/2Teacher/LMAddActivity2.png"></li>
@@ -39,3 +39,6 @@ third_nav_title: Discover
 
 <h3>Video Tutorial (Updated)</h3>
 <hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Search for Resources" src="https://www.youtube.com/embed/IBlWycX4PBE" height="100%" width="100%"></iframe>
+</div>
