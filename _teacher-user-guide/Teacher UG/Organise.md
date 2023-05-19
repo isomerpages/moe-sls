@@ -4,7 +4,8 @@ permalink: /teacher-user-guide/teacher-ug/organise/
 description: ""
 third_nav_title: Teacher UG
 ---
-## Organise
+<h1>Organise</h1>
+<hr>
 
 <h3><a id="discover" target="_blank" href="/teacher-user-guide/discover/index/">1. Discover</a>
 </h3>
