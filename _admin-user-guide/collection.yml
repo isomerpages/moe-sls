@@ -2,6 +2,7 @@ collections:
   admin-user-guide:
     output: true
     order:
+      - Organise.md
       - Admin UG/.keep
       - Admin UG/Administer.md
       - Notify/Notify.md
