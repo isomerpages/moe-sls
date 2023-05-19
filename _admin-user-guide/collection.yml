@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - (ii) Administer.md
-      - Organise.md
+      - (i) Organise.md
       - Notify/Notify.md
       - Notify/.keep
       - Notify/Manage School Announcements (Enhanced).md
