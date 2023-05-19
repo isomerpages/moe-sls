@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - (ii) Author.md
       - (iii) Enact.md
       - (iv) Assess.md
       - (v) Administer.md
