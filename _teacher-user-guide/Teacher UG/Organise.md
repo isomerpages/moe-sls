@@ -63,6 +63,9 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 
 <h3><a id="notify" target="_blank" href="/teacher-user-guide/notify/index/">2. Notify</a></h3>
 Use SLS to notify other teachers and students easily on T&amp;L matters across the system, classes and individual levels.
+
+<a target="_blank" href="/images/2Teacher/Flow-Notify.png"><img alt="Flow Notify" src="/images/2Teacher/Flow-Notify.png"></a>
+
 <details>
  <summary><h4>How to manage Announcements?</h4></summary>
 
