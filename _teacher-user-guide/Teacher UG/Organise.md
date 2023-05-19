@@ -9,6 +9,9 @@ third_nav_title: Teacher UG
 <h3><a id="discover" target="_blank" href="/teacher-user-guide/discover/index/">1. Discover</a>
 </h3>
 Use SLS to search for and find useful T&amp;L resources for use in your lessons.
+
+<a target="_blank" href="/images/2Teacher/Flow-Discover.png"><img alt="Flow Discover" src="/images/2Teacher/Flow-Discover.png"></a>
+
 <details>
  <summary><h4>How to add Resources from Library?</h4></summary>
 
@@ -22,6 +25,8 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 </ul>
 </details>
 	
+<a target="_blank" href="/images/2Teacher/Flow-Discover1.png"><img alt="Flow Discover" src="/images/2Teacher/Flow-Discover1.png"></a>
+
 <details><summary><h4>How to embed whitelisted websites?</h4></summary>
 	
 <ul>
