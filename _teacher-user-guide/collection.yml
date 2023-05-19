@@ -2,7 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
-      - (1) Organise.md
+      - (i) Organise.md
       - Teacher UG/.keep
       - Teacher UG/Organise.md
       - Teacher UG/Author.md
