@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/discover/access-my-subjects/
 description: ""
 third_nav_title: Discover
 ---
-<h1>Access My Subjects</h1>
+<h1>Access My Subjects</h1><hr>
     <p>My Subjects allow you to see your Assigned and Followed subjects to <a href="/teacher-user-guide/assess-track-progress/aboutlearning/">track Learning Progress</a> and search for relevant resources. Teachers and students will be able to search for related Resources (eg. Lessons, Question Types and Media Objects) easily with the pre-selected filters.</p>
     <h2>Accessing My Subjects</h2>
     <ol>
