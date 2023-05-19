@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Discover
 ---
 <h1>About Resources</h1>
+<hr>
   <p>SLS consists of many resources with a significant number residing in MOE Library and Community Gallery.</p>
   <ol>
     <li>
