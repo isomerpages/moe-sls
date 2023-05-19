@@ -4,7 +4,8 @@ permalink: /student-user-guide/student-ug/author/
 description: ""
 third_nav_title: Students UG
 ---
-## Author
+<h1>Author</h1>
+<hr>
 
 <h3><a id="gamify" target="_blank" href="/student-user-guide/gamify/index/">1. Gamify</a></h3>
 Use SLS to experience a game-like experience when going through your lesson.
