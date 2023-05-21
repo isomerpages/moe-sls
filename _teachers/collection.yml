@@ -2,6 +2,7 @@ collections:
   teachers:
     output: true
     order:
+      - SLS Events/Friends of SLS.md
       - SLS Events/Events Calendar.md
       - SLS Events/.keep
       - Teachers.md
