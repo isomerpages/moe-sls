@@ -25,7 +25,10 @@ third_nav_title: Discover
   <br>
   <li>Click the <strong>Lesson Card</strong> or <strong>View Details</strong> icon to view the Lesson Details.</li>
   <br>
-	<a target="_blank" href="/images/2Teacher/D-AddExistingLesson.png"><img alt="D-AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png"></a>
+<a target="_blank" href="/images/2Teacher/D-AddExistingLesson.png">
+  <img style="width: 50%;" alt="D-AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png">
+</a>
+
   <br>
   <li>Select the Activities you wish to add to your new Lesson by selecting the relevant checkboxes.</li>
   <li>To view the existing Lesson in a new tab, click the <strong>Expand</strong> icon 
@@ -65,7 +68,7 @@ third_nav_title: Discover
     </li>
     <li>Click the <strong>Lesson Card</strong> or <strong>View Details</strong> icon to view the Lesson Details.
         <br>
-	<a target="_blank" href="/images/2Teacher/D-AddExistingLesson.png"><img alt="D-AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png"></a>			
+	<a target="_blank" href="/images/2Teacher/D-AddExistingLesson.png"><img style="width: 50%;" alt="D-AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png"></a>			
     </li>
     <li>Select the Activities you wish to add to your new Lesson by selecting the relevant checkboxes.</li>
     <li>To view the existing Lesson in a new tab, click the <strong>Expand</strong> icon.</li>
