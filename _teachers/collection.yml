@@ -2,7 +2,6 @@ collections:
   teachers:
     output: true
     order:
-      - SLS Superhero Quiz.md
       - Teachers.md
       - Feature Highlights/.keep
       - Feature Highlights/Release Videos.md
