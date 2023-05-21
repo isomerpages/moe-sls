@@ -29,7 +29,7 @@ third_nav_title: Discover
   <br>
   <li>Select the Activities you wish to add to your new Lesson by selecting the relevant checkboxes.</li>
   <li>To view the existing Lesson in a new tab, click the <strong>Expand</strong> icon 
-<img style="width:10%; display: inline;" src="/images/Assets/ExternalLink32.svg"></li>
+<img style="width:1rem; display: inline;" src="/images/Assets/ExternalLink32.svg"></li>
   <li>To add your selected Activities, click <strong>Choose</strong>.</li>
   <li>The chosen Activities will inherit the Activity Details from the Lesson in Library or Starred Resources. To view and edit the Activity Notes and Active Learning Process in the <strong>Activity Details</strong> Card, click the <strong>Settings icon</strong> on the <strong>Activity Details</strong> Card. These fields are optional and will not be visible to students.</li>
 </ol>
@@ -41,7 +41,7 @@ third_nav_title: Discover
 <ol>
     <li>In the Lesson Editor, there are multiple ways to add an Activity:
         <ul>
-            <li>Click the <strong>Expand Activity List</strong> icon <img style="width:10%; display: inline;" src="/images/Icons/ActivityListExpand.svg"> to open the Full Activity List. Select <strong>+ New</strong>.
+            <li>Click the <strong>Expand Activity List</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/ActivityListExpand.svg"> to open the Full Activity List. Select <strong>+ New</strong>.
 <br>
                <a target="_blank" href="/images/2Teacher/D-AddNew.png"><img alt="D-AddNew" src="/images/2Teacher/D-AddNew.png"></a>
 </li>
