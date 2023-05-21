@@ -4,48 +4,87 @@ permalink: /teachers/feature-highlights/newposters/
 description: ""
 third_nav_title: Feature Highlights
 ---
-<h1 class="page-title">SgLDC Spotlight Livestreams</h1>
+<h1 class="page-title">(i) Organise</h1>
 
+<h2>1. Discover </h2>
 <table class="sug-datatable basic">
   <thead>
     <tr>
-      <th style="text-align: center; vertical-align: middle;">Links to Livestreams</th>
-      <th style="text-align: center; vertical-align: middle;">FAQs</th>
+      <th style="text-align: center; vertical-align: middle;">Titles</th>
+      <th style="text-align: center; vertical-align: middle;">Downloadable Posters</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td style="text-align: center; vertical-align: middle;">      
-        <a target="_blank" href="https://youtu.be/nGgkZE5CpXQ?list=PLQxzGTcC-xNUWDHiwCmHgBGMSnuKtoEiT"> <img width="50%" src="../../media/images/UpdatedAssets/2Teacher/Spotlight__Aug_2022_.webp"></a>
-        <p>SLS Release 17 Spotlight</p>
+        
+ <p>Updated Login to SLS</p>
       </td>
       <td style="text-align: center; vertical-align: middle;">
+				<a target="_blank" href="https://youtu.be/nGgkZE5CpXQ?list=PLQxzGTcC-xNUWDHiwCmHgBGMSnuKtoEiT"> <img width="50%" src="/images/Media/6Posters/(1%20of%202)%20Student%20MIMS.png"></a>
       </td>
     </tr>
-        <tr>
-          <td style="text-align: center; vertical-align: middle;">
-        <a target="_blank" href="https://youtu.be/KWY6PqIlwCw?list=PLQxzGTcC-xNUWDHiwCmHgBGMSnuKtoEiT"> <img width="50%" src="../../media/images/UpdatedAssets/2Teacher/SLSSpotlightonyou.jpg"></a> <br>
-        <p>SLS - Spotlight On You!</p>
-      </td>
-      <td style="text-align: center; vertical-align: middle;">
-      </td>
-    </tr>
+  </tbody>
+</table>
+<h2>2. Notify </h2>
+<table class="sug-datatable basic">
+  <thead>
     <tr>
-      <td style="text-align: center; vertical-align: middle;">
-        <a target="_blank" href="https://youtu.be/xtB_uT1WhVw?list=PLQxzGTcC-xNUWDHiwCmHgBGMSnuKtoEiT"> <img width="50%" src="../../media/images/UpdatedAssets/2Teacher/SLSSpotlightTQ.jpg"></a>
-        <p>SLS Spotlight: Team Quiz + Google</p>
+      <th style="text-align: center; vertical-align: middle;">Titles</th>
+      <th style="text-align: center; vertical-align: middle;">Downloadable Posters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;">      
+        
+ <p>Updated Login to SLS</p>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-        <a target="_blank" href="../../media/images/UpdatedAssets/2Teacher/FAQ Spotlight.pdf"><img width="30%" src="../../assets/icons/indicative/32px/PDF32.svg"></a>
-     
+				<a target="_blank" href="https://youtu.be/nGgkZE5CpXQ?list=PLQxzGTcC-xNUWDHiwCmHgBGMSnuKtoEiT"> <img width="50%" src="/images/Media/6Posters/(1%20of%202)%20Student%20MIMS.png"></a>
       </td>
     </tr>
+  </tbody>
+</table>
+
+
+<h2>3. Plan </h2>
+<table class="sug-datatable basic">
+  <thead>
     <tr>
-      <td style="text-align: center; vertical-align: middle;">
-        <a target="_blank" href="https://youtu.be/p94xDFNcXWw?list=PLQxzGTcC-xNUWDHiwCmHgBGMSnuKtoEiT"> <img width="50%" src="../../media/images/UpdatedAssets/2Teacher/SLSSpotlightbeyondtheclassroom.jpg"></a>
-        <p>SLS Spotlight: Beyond the Classroom!</p>
+      <th style="text-align: center; vertical-align: middle;">Titles</th>
+      <th style="text-align: center; vertical-align: middle;">Downloadable Posters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;">      
+        
+ <p>Updated Login to SLS</p>
       </td>
       <td style="text-align: center; vertical-align: middle;">
+				<a target="_blank" href="https://youtu.be/nGgkZE5CpXQ?list=PLQxzGTcC-xNUWDHiwCmHgBGMSnuKtoEiT"> <img width="50%" src="/images/Media/6Posters/(1%20of%202)%20Student%20MIMS.png"></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>4. Organise </h2>
+<table class="sug-datatable basic">
+  <thead>
+    <tr>
+      <th style="text-align: center; vertical-align: middle;">Titles</th>
+      <th style="text-align: center; vertical-align: middle;">Downloadable Posters</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: center; vertical-align: middle;">      
+        
+ <p>Updated Login to SLS</p>
+      </td>
+      <td style="text-align: center; vertical-align: middle;">
+				<a target="_blank" href="https://youtu.be/nGgkZE5CpXQ?list=PLQxzGTcC-xNUWDHiwCmHgBGMSnuKtoEiT"> <img width="50%" src="/images/Media/6Posters/(1%20of%202)%20Student%20MIMS.png"></a>
       </td>
     </tr>
   </tbody>
