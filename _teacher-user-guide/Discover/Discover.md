@@ -15,7 +15,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 
 <ul>
   <li><a target="_blank" href="/teacher-user-guide/discover/about-resources/">About Resources</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/communitygallery/">(1a) Add Existing Activities from Resources</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-activities-from-resources/">(1a) Add Existing Activities from Resources</a></li>
   <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-activities-from-resources/">(1b) Add Existing Components from Resources</a></li>
   <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-components-from-resources/">(1c) Add Existing Media Objects from Resources</a></li>
   <li><a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">(2) Search for Resources (New)</a></li>
