@@ -2,11 +2,9 @@ collections:
   teachers:
     output: true
     order:
-      - SLS Superhero Quiz/SLS Superhero Quiz.md
-      - SLS Superhero Quiz/.keep
       - Teachers.md
-      - Feature Highlights/(i) Organise.md
       - Feature Highlights/.keep
+      - Feature Highlights/(i) Organise.md
       - Feature Highlights/Release Videos.md
       - Feature Highlights/R18 Posters.md
       - Feature Highlights/R17 Posters.md
@@ -25,6 +23,8 @@ collections:
       - SLS Professional Development/Teaching and Learning with SLS.md
       - SLS Professional Development/EPedagogy One  Stop Site.md
       - SLS Professional Development/SgLDC Livestreams.md
+      - SLS Superhero Quiz/.keep
+      - SLS Superhero Quiz/SLS Superhero Quiz.md
       - SLS Events/.keep
       - SLS Events/Events Calendar.md
       - SLS Events/Friends of SLS.md
