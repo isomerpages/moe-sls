@@ -26,7 +26,7 @@ third_nav_title: Discover
   <li>Click the <strong>Lesson Card</strong> or <strong>View Details</strong> icon to view the Lesson Details.</li>
   <br>
 <a target="_blank" href="/images/2Teacher/D-AddExistingLesson.png">
-  <img style="width: 50%;" alt="D-AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png">
+  <img style="width: 25%;" alt="D-AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png">
 </a>
 
   <br>
