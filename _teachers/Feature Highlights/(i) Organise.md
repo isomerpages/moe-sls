@@ -63,7 +63,7 @@ third_nav_title: Feature Highlights
  <p>Updated Login to SLS</p>
       </td>
       <td style="text-align: center; vertical-align: middle;">
-				<a target="_blank" href="https://youtu.be/nGgkZE5CpXQ?list=PLQxzGTcC-xNUWDHiwCmHgBGMSnuKtoEiT"> <img width="50%" src="/images/Media/6Posters/(1%20of%202)%20Student%20MIMS.png"></a>
+				<a target="_blank" href="https://youtu.be/nGgkZE5CpXQ?list=PLQxzGTcC-xNUWDHiwCmHgBGMSnuKtoEiT"> <img width="10%" src="/images/Media/6Posters/(1%20of%202)%20Student%20MIMS.png"></a>
       </td>
     </tr>
   </tbody>
