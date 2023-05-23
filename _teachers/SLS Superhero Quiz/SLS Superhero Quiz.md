@@ -65,15 +65,15 @@ third_nav_title: SLS Superhero Quiz
         <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/The%20Explorer.pdf"> <img width="50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Explorer.png"></a> <br>      </td>        
         <td style="text-align: center; vertical-align: middle;">  
           <ul>
-            <li><a target="_blank" href="../../teachers/teachingwithsls/Co-create Lessons in Class Groups.html">Co-create Lessons in Class Groups</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-lessons-in-class-groups/">Co-create Lessons in Class Groups</a>
             </li>
-            <li><a target="_blank" href="../../teachers/teachingwithsls/Facilitating School-wide PD.html">Facilitating School-wide PD</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/facilitating-schoolwide-pd/">Facilitating School-wide PD</a>
             </li>
-            <li><a target="_blank" href="../../teachers/teachingwithsls/Digitise past year papers for practice.html">Digitise past year papers for practice</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">Digitise past year papers for practice</a>
             </li>
-            <li><a target="_blank" href="../../teachers/teachingwithsls/Encourage curiosity through Class Groups.html">Encourage curiosity through Class Groups</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/encourage-curiosity-through-class-groups/">Encourage curiosity through Class Groups</a>
             </li>
-            <li><a target="_blank" href="../../teachers/teachingwithsls/Manage in-class teaching more effectively.html">Manage in-class teaching more effectively</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/manage-in-class-teaching-more-effectively/">Manage in-class teaching more effectively</a>
             </li>
             </ul>
     </td>
