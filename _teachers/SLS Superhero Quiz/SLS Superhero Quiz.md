@@ -105,13 +105,13 @@ third_nav_title: SLS Superhero Quiz
 			</td>   
         <td style="text-align: center; vertical-align: middle;">  
           <ul>
-            <li><a target="_blank" href="../../teachers/teachingwithsls/Differentiate learning lessons and activities.html">Differentiate learning lessons and activities</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/differentiate-learning-lessons-and-activities/">Differentiate learning lessons and activities</a>
             </li>
-            <li><a target="_blank" href="../../teachers/teachingwithsls/Assign past exam questions.html">Assign past exam questions </a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">Assign past exam questions </a>
             </li>
-            <li><a target="_blank" href="../../teachers/teachingwithsls/Conduct e-Assessments in Class.html">Conduct e-Assessments in Class</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/conduct-eassessments-in-class/">Conduct e-Assessments in Class</a>
             </li>
-            <li><a target="_blank" href="../../teachers/teachingwithsls/Track students’ Learning Progress.html">Track students’ Learning Progress</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/track-students-learning-progress/">Track students’ Learning Progress</a>
             </li>
             </ul>
       </td></tr>
