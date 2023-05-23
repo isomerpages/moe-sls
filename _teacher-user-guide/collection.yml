@@ -187,8 +187,8 @@ collections:
       - Publish/.keep
       - Publish/Publish.md
       - Publish/(1) Submit Lessons.md
-      - Publish/Resubmit Lessons.md
       - Publish/(2) Copyright Guidelines for Submission.md
+      - Publish/Resubmit Lessons.md
       - Administer/.keep
       - Administer/Administer.md
       - Administer/Onboard New Students.md
