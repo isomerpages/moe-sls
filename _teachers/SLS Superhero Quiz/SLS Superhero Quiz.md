@@ -146,15 +146,15 @@ third_nav_title: SLS Superhero Quiz
       </td>
       <td style="text-align: center; vertical-align: middle;">  
         <ul>
-          <li><a target="_blank" href="../../teachers/teachingwithsls/Co-create Lessons in Class Groups.html">Co-create Lessons in Class Groups</a>
+          <li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-lessons-in-class-groups/">Co-create Lessons in Class Groups</a>
           </li>
-          <li><a target="_blank" href="../../teachers/teachingwithsls/Motivate students with a game-like experience.html">Motivate students with a game-like experience</a>
+          <li><a target="_blank" href="/teachers/sls-superhero-quiz/motivate-students-with-a-game-like-experience/">Motivate students with a game-like experience</a>
           </li>
-          <li><a target="_blank" href="../../teachers/teachingwithsls/Nurture collaboration in Gamified Lessons.html">Nurture collaboration in Gamified Lessons</a>
+          <li><a target="_blank" href="/teachers/sls-superhero-quiz/nurture-collaboration-in-gamified-lessons/">Nurture collaboration in Gamified Lessons</a>
           </li>
-          <li><a target="_blank" href="../../teachers/teachingwithsls/Assign past exam questions.html">Assign past exam questions</a>
+          <li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">Assign past exam questions</a>
           </li>
-          <li><a target="_blank" href="../../teachers/teachingwithsls/Digitise past year papers for practice.html">Digitise past year papers for practice</a>
+          <li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">Digitise past year papers for practice</a>
           </li>
           </ul>
   </td>
