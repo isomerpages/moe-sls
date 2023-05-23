@@ -729,7 +729,7 @@ third_nav_title: Discover
 <p>“Copyright in the roots.gov.sg portal and all images and contents therein belongs to the National Heritage Board and/or third parties, and may not be copied, reproduced, republished, downloaded, posted, broadcasted, communicated, transmitted, made available to the public, adapted, altered or otherwise for any purpose whatsoever without the prior written permission of the National Heritage Board and/or such third party copyright owners.”</p>
 <p>A sample screen capture is shown below:
 
-<a target="_blank" href="/images/2Teacher/Discover.png"><img alt="Discover" src="/images/2Teacher/Discover.png"></a>
+<a target="_blank" href="/images/2Teacher/roots.png"><img style="width: 50%;" alt="Roots" src="/images/2Teacher/roots.png"></a>
 
 </p>
  <h2 class="section-title">Whitelisted Websites and URLs (Using Embed Code)</h2>
