@@ -189,10 +189,10 @@ collections:
       - Publish/(1) Submit Lessons.md
       - Publish/(2) Copyright Guidelines for Submission.md
       - Publish/Resubmit Lessons.md
-      - Administer/Password Settings.md
       - Administer/.keep
       - Administer/Administer.md
       - Administer/Onboard New Students.md
+      - Administer/Password Settings.md
       - Administer/Reset Student Passwords for Classes.md
       - Administer/Generate Two Hour Temporary Password for Students.md
       - Other Useful Information/.keep
