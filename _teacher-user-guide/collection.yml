@@ -64,7 +64,6 @@ collections:
       - Customise/Change SLS Password.md
       - Customise/Switch to Student Account.md
       - Customise/Manage My Templates.md
-      - Author/Add Lesson Tags.md
       - Author/.keep
       - Author/Author.md
       - Author/Create Lessons (New).md
@@ -106,6 +105,7 @@ collections:
       - Author/Make a Copy of Lessons or Assignments.md
       - Author/Edit Detail cards (New).md
       - Author/Add Question Tags.md
+      - Author/Add Lesson Tags.md
       - Author/About Lessons (Enhanced).md
       - Author/Add and Edit Components (Enhanced).md
       - Author/Move Lessons to Trash.md
