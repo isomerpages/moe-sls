@@ -64,7 +64,6 @@ collections:
       - Customise/Change SLS Password.md
       - Customise/Switch to Student Account.md
       - Customise/Manage My Templates.md
-      - Author/Edit Media Objects.md
       - Author/.keep
       - Author/Author.md
       - Author/Create Lessons (New).md
@@ -107,6 +106,7 @@ collections:
       - Author/Edit Detail cards (New).md
       - Author/Add Question Tags.md
       - Author/Add Lesson Tags.md
+      - Author/Edit Media Objects.md
       - Author/Move Lessons to Trash.md
       - Author/File Size Limits.md
       - Author/Resources.md
