@@ -30,7 +30,7 @@ third_nav_title: SLS Superhero Quiz
             </td>
       <td style="text-align: center; vertical-align: middle;">  
         <ul>		
-        <li><a target="_blank" href="../../teachers/teachingwithsls/Jigsaw Activities for Teamwork.html">Jigsaw Activities for Teamwork</a>
+        <li><a target="_blank" href="/teachers/sls-superhero-quiz/jigsaw-activities-for-teamwork/">Jigsaw Activities for Teamwork</a>
         </li>
         <li><a target="_blank" href="../../teachers/teachingwithsls/Facilitating School-wide PD.html">Facilitating School-wide PD</a>
         </li>
