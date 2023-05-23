@@ -184,13 +184,13 @@ third_nav_title: SLS Superhero Quiz
       </td>
       <td style="text-align: center; vertical-align: middle;">  
         <ul>
-          <li><a target="_blank" href="../../teachers/teachingwithsls/Co-create Lessons in Class Groups.html">Co-create Lessons in Class Groups</a>
+          <li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-lessons-in-class-groups/">Co-create Lessons in Class Groups</a>
           </li>
-          <li><a target="_blank" href="../../teachers/teachingwithsls/Create Professional Learning Circles.html">Create Professional Learning Circles</a>
+          <li><a target="_blank" href="/teachers/sls-superhero-quiz/create-professional-learning-circles/">Create Professional Learning Circles</a>
           </li>
-          <li><a target="_blank" href="../../teachers/teachingwithsls/Digitise past year papers for practice.html">Digitise past year papers for practice</a>
+          <li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">Digitise past year papers for practice</a>
           </li>
-          <li><a target="_blank" href="../../teachers/teachingwithsls/Manage in-class teaching more effectively.html">Manage in-class teaching more effectively</a>
+          <li><a target="_blank" href="/teachers/sls-superhero-quiz/manage-in-class-teaching-more-effectively/">Manage in-class teaching more effectively</a>
           </li>
           </ul>
   </td>
