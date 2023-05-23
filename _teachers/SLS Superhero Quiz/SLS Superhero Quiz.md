@@ -48,11 +48,11 @@ third_nav_title: SLS Superhero Quiz
 	</td>       
         <td style="text-align: center; vertical-align: middle;">  
           <ul>
-            <li><a target="_blank" href="../../teachers/teachingwithsls/Jigsaw Activities for Teamwork.html">Jigsaw Activities for Teamwork</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/jigsaw-activities-for-teamwork/">Jigsaw Activities for Teamwork</a>
             </li>
-            <li><a target="_blank" href="../../teachers/teachingwithsls/Conduct e-Assessments in Class.html">Conduct e-Assessments in Class</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/conduct-eassessments-in-class/">Conduct e-Assessments in Class</a>
             </li>
-            <li><a target="_blank" href="../../teachers/teachingwithsls/Track students’ Learning Progress.html">Track students’ Learning Progress</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/track-students-learning-progress/">Track students’ Learning Progress</a>
             </li>
             </ul>
     </td>
