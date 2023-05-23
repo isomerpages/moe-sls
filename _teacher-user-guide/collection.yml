@@ -84,22 +84,22 @@ collections:
       - Author/Embed YouTube Videos.md
       - Author/Insert Media Objects.md
       - Author/About Rich Text Editor (Enhanced).md
-      - Author/About Lessons (Enhanced).md
-      - Author/About Templates.md
-      - Author/Add and Edit Components (Enhanced).md
       - Author/Formatting & Paragraphing.md
+      - Author/Insert Chinese or Tamil Text.md
+      - Author/Insert Mathematical or Chemical Equations.md
       - Author/Insert Tables.md
+      - Author/Insert Emoticons.md
+      - Author/Insert Drawings (Enhanced).md
       - Author/Insert & Edit External Links.md
       - Author/Insert & Edit Links to Sections (New).md
       - Author/Insert Tooltips (Enhanced).md
       - Author/HTML5 Content Development.md
-      - Author/Insert Drawings (Enhanced).md
-      - Author/Insert Mathematical or Chemical Equations.md
-      - Author/Insert Emoticons.md
-      - Author/Insert Chinese or Tamil Text.md
       - Author/Text to Speech (TTS).md
       - Author/Speech Evaluation (Enhanced).md
       - Author/Localisation and eDictionary.md
+      - Author/About Templates.md
+      - Author/About Lessons (Enhanced).md
+      - Author/Add and Edit Components (Enhanced).md
       - Author/Edit Lessons.md
       - Author/Make a Copy of Lessons & Assignments.md
       - Author/Add Question Tags.md
