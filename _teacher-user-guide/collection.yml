@@ -66,11 +66,11 @@ collections:
       - Customise/Manage My Templates.md
       - Author/.keep
       - Author/Author.md
-      - Author/About Lessons (Enhanced).md
       - Author/Create Lessons (New).md
-      - Author/About Templates.md
       - Author/Add New using Templates.md
       - Author/Add and Edit Activities & Sections (Enhanced).md
+      - Author/About Lessons (Enhanced).md
+      - Author/About Templates.md
       - Author/Add and Edit Components (Enhanced).md
       - Author/Add Display (New).md
       - Author/Add Multiple Choice Questions.md
@@ -97,12 +97,12 @@ collections:
       - Author/Speech Evaluation (Enhanced).md
       - Author/Localisation and eDictionary.md
       - Author/Edit Lessons.md
-      - Author/Move Lessons to Trash.md
       - Author/Make a Copy of Lessons & Assignments.md
       - Author/Add Question Tags.md
       - Author/View and Edit Lesson Plans.md
       - Author/Add Lesson Tags.md
       - Author/Edit Detail cards (New).md
+      - Author/Move Lessons to Trash.md
       - Author/File Size Limits.md
       - Author/Resources.md
       - Author/Copyright FAQs.md
