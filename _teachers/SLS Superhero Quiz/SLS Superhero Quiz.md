@@ -26,10 +26,10 @@ third_nav_title: SLS Superhero Quiz
           <p>The Discussant</p>
         </td>
           <td style="text-align: center; vertical-align: middle;">     
-        <a target="_blank" href="../../media/images/UpdatedAssets/2Teacher/The Discussant.pdf"> <img width="50%" src="../../media/images/UpdatedAssets/2Teacher/The Discussant.png"></a> <br>
+        <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/The%20Discussant.pdf"> <img width="50%" src="/images/2Teacher/Marcomms/R16%20(1_2)%20Students_Learning%20Progress.png"></a> <br>
             </td>
       <td style="text-align: center; vertical-align: middle;">  
-        <ul>
+        <ul>		
         <li><a target="_blank" href="../../teachers/teachingwithsls/Jigsaw Activities for Teamwork.html">Jigsaw Activities for Teamwork</a>
         </li>
         <li><a target="_blank" href="../../teachers/teachingwithsls/Facilitating School-wide PD.html">Facilitating School-wide PD</a>
