@@ -116,8 +116,8 @@ collections:
       - Gamify/(1) Manage Gamification Settings.md
       - Gamify/(2) Game Stories and Achievements.md
       - Gamify/(3) Create Game Teams.md
-      - Gamify/Award XP, Game Story and Achievements Manually.md
       - Gamify/Display Leaderboard for Students (Improved).md
+      - Gamify/Award XP, Game Story and Achievements Manually.md
       - Assign/.keep
       - Assign/Assign.md
       - Assign/Create Assignments.md
