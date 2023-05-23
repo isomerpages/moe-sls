@@ -121,19 +121,19 @@ collections:
       - Assign/.keep
       - Assign/Assign.md
       - Assign/Create Assignments.md
-      - Assign/Highlight and Annotate in Teacher's Copy of Assignment.md
-      - Assign/Schedule Assignments.md
-      - Assign/Add Assignments to Class Group.md
       - Assign/Assign MOE Library Lessons.md
       - Assign/Assign Community Gallery Lessons.md
+      - Assign/Add Assignments to Class Group.md
       - Assign/Manage Assignments.md
-      - Assign/Move Assignments.md
-      - Assign/Pause & Resume Assignments.md
+      - Assign/Schedule Assignments.md
       - Assign/Edit Assignments.md
+      - Assign/Pause & Resume Assignments.md
+      - Assign/Move Assignments.md
       - Assign/Delete Assignments.md
       - Assign/Copy Assignments.md
       - Assign/Allow Students to Copy Assignments.md
       - Assign/Allow Students to Share Assignments.md
+      - Assign/Highlight and Annotate in Teacher's Copy of Assignment.md
       - Enact/.keep
       - Enact/Enact.md
       - Enact/Change Access to Activities.md
