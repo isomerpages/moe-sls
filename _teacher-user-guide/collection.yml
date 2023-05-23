@@ -73,6 +73,7 @@ collections:
       - Author/Add Introduction.md
       - Author/Upload Question and Test Interoperability (QTI) Files.md
       - Author/Add Multiple Choice Questions.md
+      - Author/Add Fill in the Blanks Questions.md
       - Author/Add Click and Drop Questions.md
       - Author/Add Error Editing Questions.md
       - Author/Add Free Response Questions.md
@@ -80,7 +81,6 @@ collections:
       - Author/Add Multi Part Questions.md
       - Author/Add Display (New).md
       - Author/Add Rubrics to Audio and Free Response Questions.md
-      - Author/Add Fill in the Blanks Questions.md
       - Author/About Lessons (Enhanced).md
       - Author/About Templates.md
       - Author/Add and Edit Components (Enhanced).md
