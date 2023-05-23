@@ -32,9 +32,9 @@ third_nav_title: SLS Superhero Quiz
         <ul>		
         <li><a target="_blank" href="/teachers/sls-superhero-quiz/jigsaw-activities-for-teamwork/">Jigsaw Activities for Teamwork</a>
         </li>
-        <li><a target="_blank" href="../../teachers/teachingwithsls/Facilitating School-wide PD.html">Facilitating School-wide PD</a>
+        <li><a target="_blank" href="/teachers/sls-superhero-quiz/facilitating-schoolwide-pd/">Facilitating School-wide PD</a>
         </li>
-        <li><a target="_blank" href="../../teachers/teachingwithsls/Track students’ Learning Progress.html">Track students’ Learning Progress</a>
+        <li><a target="_blank" href="/teachers/sls-superhero-quiz/track-students-learning-progress/">Track students’ Learning Progress</a>
         </li>
         </ul>
         </td>
