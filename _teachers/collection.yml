@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Teachers.md
+      - Feature Highlights/2022 1H.md
       - Feature Highlights/2021 2H.md
       - Feature Highlights/.keep
       - Feature Highlights/(i) Organise.md
