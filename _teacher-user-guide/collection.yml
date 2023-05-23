@@ -64,7 +64,6 @@ collections:
       - Customise/Change SLS Password.md
       - Customise/Switch to Student Account.md
       - Customise/Manage My Templates.md
-      - Author/Manage Lessons.md
       - Author/.keep
       - Author/Author.md
       - Author/Create Lessons (New).md
@@ -99,9 +98,10 @@ collections:
       - Author/Speech Evaluation (Enhanced).md
       - Author/Localisation and eDictionary.md
       - Author/About Templates.md
+      - Author/Manage Lessons.md
+      - Author/Edit Lessons.md
       - Author/About Lessons (Enhanced).md
       - Author/Add and Edit Components (Enhanced).md
-      - Author/Edit Lessons.md
       - Author/Make a Copy of Lessons & Assignments.md
       - Author/Add Question Tags.md
       - Author/View and Edit Lesson Plans.md
