@@ -124,15 +124,15 @@ third_nav_title: SLS Superhero Quiz
 </td>
 			<td style="text-align: center; vertical-align: middle;">  
               <ul>
-                <li><a target="_blank" href="../../teachers/teachingwithsls/Create Professional Learning Circles.html">Create Professional Learning Circles</a>
+                <li><a target="_blank" href="/teachers/sls-superhero-quiz/create-professional-learning-circles/">Create Professional Learning Circles</a>
                 </li>
-                <li><a target="_blank" href="../../teachers/teachingwithsls/Facilitating School-wide PD.html">Facilitating School-wide PD</a>
+                <li><a target="_blank" href="/teachers/sls-superhero-quiz/facilitating-schoolwide-pd/">Facilitating School-wide PD</a>
                 </li>
-                <li><a target="_blank" href="../../teachers/teachingwithsls/Encourage curiosity through Class Groups.html">Encourage curiosity through Class Groups</a>
+                <li><a target="_blank" href="/teachers/sls-superhero-quiz/encourage-curiosity-through-class-groups/">Encourage curiosity through Class Groups</a>
                 </li>
-                <li><a target="_blank" href="../../teachers/teachingwithsls/Empower students to be self-directed learners.html">Empower students to be self-directed learners</a>
+                <li><a target="_blank" href="/teachers/sls-superhero-quiz/empower-students-to-be-self-directed-learners/">Empower students to be self-directed learners</a>
                 </li>
-                <li><a target="_blank" href="../../teachers/teachingwithsls/Integrate external sites and applications.html">Integrate external sites and applications</a>
+                <li><a target="_blank" href="/teachers/sls-superhero-quiz/integrate-external-sites-and-applications/">Integrate external sites and applications</a>
                 </li>
                 </ul>
         </td>
