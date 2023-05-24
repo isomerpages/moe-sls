@@ -8,7 +8,7 @@ third_nav_title: Gamify
 <hr>
 <ol>
 <li>From the homepage, click the <strong>Assignments</strong> tab and <strong>Open</strong> a gamified Lesson. Alternatively, you can <strong>Open</strong> a gamified Lesson from the Assignments page or Class Group page.</li>
-<li>In the Assignment, click the <strong>Gamification</strong> icon to open the Gamification subpage. This allows you to view the overall game details - Title, Description, and Featured Image. </li>
+<li>In the Assignment, click the <strong>Gamification</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Game.svg"> to open the Gamification subpage. This allows you to view the overall game details - Title, Description, and Featured Image. </li>
 <li><p>You can view the Experience Point (XP) Modifiers from the <strong>XP and Level</strong> tab on the Gamification subpage. This gives you information on how bonus XP is being awarded and the number of XP required to level up (move to the next level). </p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c810781a-f2c9-4923-ba7c-b4caa0683a5d/Untitled.png"></p>
 </li>
