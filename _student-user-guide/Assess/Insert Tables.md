@@ -8,7 +8,7 @@ third_nav_title: Assess
 <h2 id="-insert-table-"><strong>Insert Table</strong></h2>
 <hr>
 <ol>
-<li>When editing a Rich Text-enabled component, click the <strong>Table</strong> icon [insert Table.svg].</li>
+<li>When editing a Rich Text-enabled component, click the <strong>Table</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Table.svg">.</li>
 <li>Select the number of columns and rows for the table by dragging the cursor across the grid.</li>
 <li>You may add or remove rows and columns using the floating toolbar when you click on the table.</li>
 </ol>
