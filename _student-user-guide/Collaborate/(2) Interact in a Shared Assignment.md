@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 ---
 <h1 id="-2-interact-in-a-shared-assignment-"><strong>(2) Interact in a Shared Assignment</strong></h1>
 <ol>
-<li>To view a Shared Assignment, click the <strong>User Avatar</strong> icon [insert icon] followed by the name of your peer.</li>
+<li>To view a Shared Assignment, click the <strong>User Avatar</strong> icon followed by the name of your peer.</li>
 <li><p>When you are viewing your peer's assignment, your User Avatar will show the Viewer Avatar icon.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f09713f7-9f12-4d17-8358-771d8c61d88f/Untitled.png"></p>
 </li>
