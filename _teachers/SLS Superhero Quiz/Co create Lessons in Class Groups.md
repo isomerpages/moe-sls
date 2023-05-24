@@ -8,7 +8,7 @@ third_nav_title: SLS Superhero Quiz
 <hr>
 <br>
 <div style="text-align:center;">
-  <a target="_blank" href="../../media/images/UpdatedAssets/2Teacher/Author 1.pdf"> <img width="50%" src="../../media/images/UpdatedAssets/2Teacher/Author 1.png"></a>
+  <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/Author%201.pdf"> <img width="50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Author%201.png"></a>
 </div>
 
 <h2>What it is</h2>
@@ -29,4 +29,3 @@ third_nav_title: SLS Superhero Quiz
   <li>Open the lesson you wish to co-create or co-edit and begin editing.</li>
   <li>If you wish to adapt an existing lesson for your personal use, copy it to your My Drive.</li>
 </ol>
-
