@@ -24,15 +24,14 @@ third_nav_title: SLS Superhero Quiz
     <li>At the Assignment Summary page, edit the Gamification Settings and <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/GameTeams.html">assign students to Game Teams</a>.</li>
   </ol>
 	
-  <a target="_blank" href="../../media/images/UpdatedAssets/2Teacher/Nurture.png"> <img width="50%" src="../../media/images/UpdatedAssets/2Teacher/Nurture.png"></a>
+  <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture.png"> <img width="50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture.png"></a>
 <br>
-<img alt="Tips" src="../../assets/icons/indicative/32px/Bulb32.svg">
+<img alt="Tips" src="images/Assets/Bulb32.svg">
 
 <ul>
       <li>Quicken your workflow! If you have <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/AssignmentFeedback/CreateTeams.html">existing Subgroups in your class, simply apply them as Game Teams</a>.</li>
     </ul>
     <br>
     <div style="text-align:center;">
-      <a target="_blank" href="../../media/images/UpdatedAssets/2Teacher/Nurture2.png"> <img width="50%" src="../../media/images/UpdatedAssets/2Teacher/Nurture2.png"></a>
+      <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture2.png"> <img width="50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture2.png"></a>
     </div>
-  
