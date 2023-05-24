@@ -30,7 +30,7 @@ third_nav_title: Assess
 </ol>
 <p>!<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/AITTClassSubmission2.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/AITTClassSubmission2.png</a></p>
 <ol>
-<li>In each column, you can click the <strong>Filter</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Filter.svg"> [insert Filter.svg] to view the posts that have been bookmarked by your teacher.</li>
+<li>In each column, you can click the <strong>Filter</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Filter24.svg"> to view the posts that have been bookmarked by your teacher.</li>
 </ol>
 <h2 id="-view-comments-"><strong>View Comments</strong></h2>
 <hr>
