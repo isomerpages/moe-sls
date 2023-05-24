@@ -77,6 +77,7 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <details>
  <summary><h4>Ideas for Teaching &amp; Learning</h4></summary>
 <ul>
+	<p>1. Recommended User Flows</p>
   <li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">Assign past exam questions</a></li>
   <li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-lessons-in-class-groups/">Co-create Lessons in Class Groups</a></li>
   <li><a target="_blank" href="/teachers/sls-superhero-quiz/conduct-eassessments-in-class/">Conduct e-Assessments in Class</a></li>
@@ -92,6 +93,7 @@ Use SLS to to organise your personal and class group resources, assignments and 
   <li><a target="_blank" href="/teachers/sls-superhero-quiz/motivate-students-with-a-game-like-experience/">Motivate students with a game-like experience</a></li>
   <li><a target="_blank" href="/teachers/sls-superhero-quiz/nurture-collaboration-in-gamified-lessons/">Nurture collaboration in Gamified Lessons</a></li>
   <li><a target="_blank" href="/teachers/sls-superhero-quiz/track-students-learning-progress/">Track students’ Learning Progress</a></li>
+		<p>2. Useful Resources</p>
 </ul>
 
 
