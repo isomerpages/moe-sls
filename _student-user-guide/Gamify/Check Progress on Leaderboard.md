@@ -4,3 +4,16 @@ permalink: /student-user-guide/gamify/check-progress-on-leaderboard/
 description: ""
 third_nav_title: Gamify
 ---
+<h1 id="check-progress-on-leaderboard">Check Progress on Leaderboard</h1>
+<p>If your teacher has enabled <strong>Team Game</strong>, you will be able to view the <strong>Team Leaderboard</strong>. <strong>Team Game</strong> will allow you to work cooperatively with your peers to collect XP and unlock Game Stories and Achievements.</p>
+<ol>
+<li>From the homepage, click the <strong>Assignments</strong> tab and <strong>Open</strong> a gamified Course. Alternatively, you can <strong>Open</strong> a gamified Course from the Assignments page.</li>
+<li>In the Assignment, click the <strong>Leaderboard</strong> icon [Leaderboard32.png] to open the Leaderboard subpage. This allows you to view the top 50% of students in the class for the Assignment. </li>
+<li><p>From the <strong>Individual</strong> tab, you will be able to view the cumulative XP, current Level and Achievements on the individual student’s Card. Your Card is indicated with a yellow arrow [YellowArrow.svg].</p>
+<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/35c09d64-eb57-41fa-9ae3-e9469d26b705/Untitled.png"></p>
+</li>
+<li><p>If your teacher has enabled Team Game, from the Team tab, you will be able to view the cumulative XP, current Level and Achievements on the individual Team’s Card. Your Team’s Card is indicated with a yellow arrow.</p>
+<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c43155d9-56f6-45ba-9780-8e9f504421e7/Untitled.png"></p>
+<p> Note: You will only be able to view the Leaderboard if your teacher has enabled it.</p>
+</li>
+</ol>
