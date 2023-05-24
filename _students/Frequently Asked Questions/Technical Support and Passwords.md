@@ -22,7 +22,7 @@ Overview of SLS System
     
     The SLS is continually being developed in response to needs of students and teachers. Curriculum-aligned resources and system tools are continually being improved and developed in line with suggestions and feedback from teachers and students to cater to students’ diverse and evolving learning needs.
  
-Technical & Infrastructure Support
+Technical &amp; Infrastructure Support
 --------------------------------------
 
 ---
@@ -70,7 +70,7 @@ Tips on Passwords and Other Security Features
     
     Here is a poster for students on how to troubleshoot login issues.
     
-<a href="/images/Media/5Troubleshooting/Self-help%20tips%20for%20student%20login.png" target="\_blank"><img src="/images/Media/5Troubleshooting/Self-help%20tips%20for%20student%20login.png"></a>
+<a href="/images/4Troubleshooting/Self-help%20tips%20for%20student%20login.png" target="\_blank"><img src="/images/4Troubleshooting/Self-help%20tips%20for%20student%20login.png"></a>
 
 2. **Can students change the security questions?**
     
@@ -83,4 +83,4 @@ Students can call their [School-Based Helpline](/login-troubleshooting/SchoolBas
 ||SLS Helpdesk|
 |--- |--- |
 |Contact Information|Email: helpdesk@sls.ufinity.com<br>Tel: (65) 6702 6513|
-|Operating Hours|Mondays - Fridays: <br>                           4 pm - 9 pm (School Days) <br> 9 am - 9 pm (School Holidays)<br>Saturdays:9:00 am - 3:00 pm)<br>(Closed on Sundays & Public Holidays)|
+|Operating Hours|Mondays - Fridays: <br>                           4 pm - 9 pm (School Days) <br> 9 am - 9 pm (School Holidays)<br>Saturdays:9:00 am - 3:00 pm)<br>(Closed on Sundays &amp; Public Holidays)|
