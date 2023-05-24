@@ -6,7 +6,7 @@ third_nav_title: Assess
 ---
 <h1 id="-2-view-quiz-results">(2) View Quiz Results</h1>
 <ol>
-<li>In an assigned Lesson, navigate to a Quiz by clicking the <strong>Quiz</strong> icon [insert icon] in the Activity List. You can also access Quizzes (insert link to Navigate an Assignment) from the <strong>Lesson</strong> <strong>Plan</strong> [insert icon]</li>
+<li>In an assigned Lesson, navigate to a Quiz by clicking the <strong>Quiz</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Quiz.svg"> in the Activity List. You can also access Quizzes (insert link to Navigate an Assignment) from the <strong>Lesson</strong> <strong>Plan</strong> <img style="width:1rem; display: inline;" src="/images/Icons/courseplan32.svg"></li>
 <li><p>On the Quiz Cover, click <strong>View Results</strong>. This will lead you to the Quiz End page.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f5c31939-045e-48e7-9ad4-235cc18e3a03/Untitled.png"></p>
 <ol>
