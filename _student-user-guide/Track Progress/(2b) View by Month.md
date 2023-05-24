@@ -13,6 +13,6 @@ third_nav_title: Track Progress
 </li>
 <li><p>The bar chart shows the Awarded Marks (in colour) compared to the Total Marks (in grey) for all questions belonging to a particular Content Map.</p>
 </li>
-<li>To view your overall progress (in terms of marks) for a Topic/Subtopic over a certain duration, click the <strong>Filter</strong> icon and choose the <strong>Month Range</strong> and <strong>Topic/Subtopic</strong> from the dropdown list.</li>
+<li>To view your overall progress (in terms of marks) for a Topic/Subtopic over a certain duration, click the <strong>Filter</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Filter24.svg"> and choose the <strong>Month Range</strong> and <strong>Topic/Subtopic</strong> from the dropdown list.</li>
 <li>Click <strong>Apply</strong> to view your selection.</li>
 </ol>
