@@ -4,3 +4,34 @@ permalink: /teacher-user-guide/author/add-rubrics-to-audio-and-free-response-que
 description: ""
 third_nav_title: Author
 ---
+<h1 id="add-rubrics-to-audio-and-free-response-questions">Add Rubrics to Audio- and Free-Response Questions</h1>
+<h2 id="-add-rubrics-"><strong>Add Rubrics</strong></h2>
+<hr>
+<p>Rubrics can be added to Free-Response or Audio-Response Questions to assess students holistically on performance tasks.</p>
+<ol>
+<li>From a Free-Response or Audio-Response Question, click <strong>Add Rubrics</strong>.</li>
+<li>A maximum of 6 bands (columns) and 6 criteria (rows) can be added in a <strong>Rubrics</strong>. Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) to <strong>Add Band</strong>, <strong>Add Criterion</strong>, <strong>Delete Band,</strong> or <strong>Delete Criterion</strong>.</li>
+<li><p>Enter the following fields:</p>
+<ul>
+<li>Title</li>
+<li>Band Descriptor</li>
+<li>Criterion</li>
+<li><p>Mark Range</p>
+<p>  Note: Please see below on how to use the marks of the rubrics for the question.</p>
+</li>
+<li><p>Band Description</p>
+<p>  Note: You may enter descriptions in the form of text, mathematical formulae, chemical formulae, and media.</p>
+</li>
+</ul>
+</li>
+</ol>
+<pre><code>![<span class="hljs-string">AU_AddRubrics1.png</span>](<span class="hljs-link">https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dbc28450-6268-48fc-bf11-2ce9ac081027/AU_AddRubrics1.png</span>)
+</code></pre><ol>
+<li>Click outside the Component to <strong>Save</strong>.</li>
+</ol>
+<h2 id="-use-marks-of-the-rubrics-not-available-for-questions-in-progressive-quiz-and-auto-graded-quiz-"><strong>Use Marks of the Rubrics (Not available for Questions in Progressive Quiz and Auto-Graded Quiz)</strong></h2>
+<hr>
+<ol>
+<li>The rubrics can be used as a reference, but not be bound to the mark ranges for the question. To do so, ensure that the box beside <strong>Show and use rubrics marks</strong> is unchecked.</li>
+<li>Alternatively, the marks of the rubrics can be used for the question. To do so, check the box for <strong>Show and use rubrics marks</strong>. The total marks will be calculated based on the marks allocated by the teacher for each criterion in the rubrics. This will also impact students' quiz scores in a Teacher-Marked Quiz.</li>
+</ol>
