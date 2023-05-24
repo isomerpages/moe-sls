@@ -26,7 +26,7 @@ third_nav_title: SLS Superhero Quiz
       <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/AssignmentFeedback/ChangeAccess.html">Edit the Activity Access so that students can only see materials for their role</a>.
     </li>
     <div style="text-align:center;">
-      <a target="_blank" href="../../media/images/UpdatedAssets/2Teacher/Jigsaw.png"> <img width="50%" src="../../media/images/UpdatedAssets/2Teacher/Jigsaw.png"></a>
+      <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Jigsaw.png"> <img width="50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Jigsaw.png"></a>
     </div>
     <li>In the last Activity, team members will gather to share their learnings from their individual Activity and 
       <a target="_blank" href="https://www.learning.moe.edu.sg/sls/students/user-guide/vle/student/Assignments/AttemptTeam.html">answer questions in a Team Quiz</a>.
@@ -37,7 +37,7 @@ third_nav_title: SLS Superhero Quiz
 <div class="tips info">
   <div class="tips-header">
     <div class="sug-icon">
-      <img alt="Tips" src="../../assets/icons/indicative/32px/Bulb32.svg">
+      <img alt="Tips" src="/images/Assets/Bulb32.svg">
     </div>
     <span class="tips-title">Tip!</span>
   </div>
