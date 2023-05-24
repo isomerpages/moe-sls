@@ -2,13 +2,17 @@
 title: Terms of Use
 permalink: /terms-of-use/
 ---
- <h1>Terms of Use For Singapore Student Learning Space</h1>
- <h2>Preamble</h2>
-    <p>Welcome to the Singapore Student Learning Space (SLS), a centrally-managed Ministry of Education platform to provide quality online Teaching and Learning resources to its users.</p>
-    <p>SLS provides its users with access to quality curriculum-aligned digital resources. It offers a space for students to engage in self-directed learning and collaborative learning.</p>
+<h1>Terms of Use For Singapore Student Learning Space</h1>
+<hr>
+
+<h2>Preamble</h2>
+
+<p>Welcome to the Singapore Student Learning Space (SLS), a centrally-managed Ministry of Education platform to provide quality online Teaching and Learning resources to its users.</p>
+<p>SLS provides its users with access to quality curriculum-aligned digital resources. It offers a space for students to engage in self-directed learning and collaborative learning.</p>
     <p>The SLS website (the “Website”) is provided by the Ministry of Education, Singapore (“MOE”, “we”, “our”, and “us”). All access to the Website is governed by the terms and conditions below (the “Terms”).</p>
     <p>SLS is accessible to designated administrators, teachers (the designated administrators and the teachers shall be collectively referred to as the “Teacher Users”), external content developers engaged by MOE (“External Content Developers”), and the following persons:</p>
-    <ul>
+
+<ul>
 <ol type="1">
 <li>all Students enrolled in any Government School, Government-aided School, Independent School, Specialised Independent School and Specialised School (collectively, “Schools”);</li>
         <li>all Students enrolled in any school for the education of children with special education needs (“SPED Schools”); and</li>
@@ -87,7 +91,7 @@ Where you upload or post content that is not owned by, licensed to or controlled
 <li><p><u>
 	Content Disclaimer:</u> Teacher Users shall use their professional discretion in ascertaining if a shared resource contributed is fit for use as it may not be reviewed. MOE is not liable for the accuracy of the resource content at any given point in time.
   </p></li>
- <li> <p>
+ <li><p>
     To the fullest extent permitted by law, we do not warrant and hereby disclaim any warranty:
   </p></li>
   <ol>
@@ -102,6 +106,15 @@ Where you upload or post content that is not owned by, licensed to or controlled
   </p></li>
 <li><p>
     Where appropriate, we use available technology to protect the security of communications made through the Website. Nevertheless, we do not accept liability for any breaches of security, authenticity, integrity, or confidentiality of any transactions and other communications made through the Website. Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that the Website is or will be free of infection from computer viruses or other unauthorized software, and we accept no liability in connection with any loss you may suffer due to such computer viruses or unauthorized software.
-  </p>
-  <p>Where appropriate, we use available technology to protect the security of communications made through the Website. Nevertheless, we do not accept liability for any breaches of security, authenticity, integrity or confidentiality of any transactions and other communications made through the Website. Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that the Website is or will be free of infection from computer viruses or other unauthorised software, and we accept no liability in connection with any loss you may suffer due to such computer viruses or unauthorised software.</p>
-	<p>You agree and understand that you are responsible for any damage suffered by any person, corporation or entity as the result of any remarks, information, feedback or other content submitted by you or made available by you on the Website. We are not responsible for damage of any kind arising out of or in connection to any remarks, information, feedback or other content submitted by you or made available by you on the Website.</p></li></ol></ul>
+  </p></li>
+ <li><p>Where appropriate, we use available technology to protect the security of communications made through the Website. Nevertheless, we do not accept liability for any breaches of security, authenticity, integrity or confidentiality of any transactions and other communications made through the Website. Internet communications may be susceptible to interference or interception by third parties. Despite our best efforts, we make no warranties that the Website is or will be free of infection from computer viruses or other unauthorised software, and we accept no liability in connection with any loss you may suffer due to such computer viruses or unauthorised software.</p></li>
+<li><p>You agree and understand that you are responsible for any damage suffered by any person, corporation or entity as the result of any remarks, information, feedback or other content submitted by you or made available by you on the Website. We are not responsible for damage of any kind arising out of or in connection to any remarks, information, feedback or other content submitted by you or made available by you on the Website.</p></li>
+
+<h2>Privacy Statement</h2>
+<li><p>You also agree to the terms of the Privacy Statement for this Website as may be amended from time to time. The Privacy Statement will form part of these Terms of Use.</p></li>
+
+<h2>Governing Law</h2>
+<li><p>These Terms and the use of the Website are governed by and construed in accordance with the laws of the Republic of Singapore. You agree that any claim, legal proceeding or litigation relating to or arising in connection with the Website will be brought solely in Singapore, and you consent to the exclusive jurisdiction of the Singapore Courts.</p></li>
+</ol></ul>
+
+Last updated: 7 June 2022.
