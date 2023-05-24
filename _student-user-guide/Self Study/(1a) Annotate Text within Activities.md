@@ -19,7 +19,7 @@ third_nav_title: Self Study
 </li>
 <li><p>Annotation Notes will be visible in the <strong>Annotation Drawer</strong>. By default, the Annotation Drawer will be open. Clicking the <strong>Annotation cards</strong> will direct you to the respective Annotations on the main page.</p>
 </li>
-<li>To control the <strong>Annotation Drawer</strong>, click the <strong>Notepad</strong> icon [insert icon] and choose <strong>Hide Drawer</strong> or <strong>Expand Drawer</strong>.</li>
+<li>To control the <strong>Annotation Drawer</strong>, click the <strong>Notepad</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Note.svg"> and choose <strong>Hide Drawer</strong> or <strong>Expand Drawer</strong>.</li>
 <li><p>If Comment On is selected, you can add comments [hyperlink add comments] to that particular Annotation card. </p>
 <p> Note: If you have shared your assignment with a peer, he/she will be able to leave comments too.</p>
 </li>
@@ -37,7 +37,7 @@ third_nav_title: Self Study
 <hr>
 <p>For Chinese Assignments and Resources with the E-Dictionary enabled, you will be able to highlight text to find its meaning in the E-Dictionary. </p>
 <ol>
-<li>Upon selecting the <strong>E-Dictionary</strong> icon [insert eDict.svg], students can view the meaning of the word (with English translation, if enabled);</li>
+<li>Upon selecting the <strong>E-Dictionary</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/eDict.svg">, students can view the meaning of the word (with English translation, if enabled);</li>
 <li>Listen to its pronunciation;</li>
 <li>Add what they have searched to the right drawer as Notes. This creates an easy point of reference for students to revisit the meaning of the word in future.</li>
 </ol>
