@@ -73,3 +73,26 @@ Use SLS to to organise your personal and class group resources, assignments and 
   <li><a target="_blank" href="/teacher-user-guide/organise/star-resources/">Star Resources</a></li>
 </ul>
 </details>
+
+<details>
+ <summary><h4>Ideas for Teaching &amp; Learning</h4></summary>
+<ul>
+  <li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">Assign past exam questions</a></li>
+  <li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-lessons-in-class-groups/">Co-create Lessons in Class Groups</a></li>
+  <li><a target="_blank" href="/teachers/sls-superhero-quiz/conduct-eassessments-in-class/">Conduct e-Assessments in Class</a></li>
+  <li><a target="_blank" href="/teachers/sls-superhero-quiz/create-professional-learning-circles/">Create Professional Learning Circles</a></li>
+  <li><a target="_blank" href="/teachers/sls-superhero-quiz/differentiate-learning-lessons-and-activities/">Differentiate learning lessons and activities</a></li>
+  <li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">Digitise past year papers for practice</a></li>
+  <li><a target="_blank" href="/teachers/sls-superhero-quiz/empower-students-to-be-self-directed-learners/">Empower students to be self-directed learners</a></li>
+  <li><a target="_blank" href="/teachers/sls-superhero-quiz/encourage-curiosity-through-class-groups/">Encourage curiosity through Class Groups</a></li>
+  <li><a target="_blank" href="/teachers/sls-superhero-quiz/facilitating-schoolwide-pd/">Facilitating School-wide PD</a></li>
+  <li><a target="_blank" href="/teachers/sls-superhero-quiz/integrate-external-sites-and-applications/">Integrate external sites and applications</a></li>
+  <li><a target="_blank" href="/teachers/sls-superhero-quiz/jigsaw-activities-for-teamwork/">Jigsaw Activities for Teamwork</a></li>
+  <li><a target="_blank" href="/teachers/sls-superhero-quiz/manage-in-class-teaching-more-effectively/">Manage in-class teaching more effectively</a></li>
+  <li><a target="_blank" href="/teachers/sls-superhero-quiz/motivate-students-with-a-game-like-experience/">Motivate students with a game-like experience</a></li>
+  <li><a target="_blank" href="/teachers/sls-superhero-quiz/nurture-collaboration-in-gamified-lessons/">Nurture collaboration in Gamified Lessons</a></li>
+  <li><a target="_blank" href="/teachers/sls-superhero-quiz/track-students-learning-progress/">Track students’ Learning Progress</a></li>
+</ul>
+
+
+</details>
