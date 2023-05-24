@@ -17,13 +17,13 @@ third_nav_title: SLS Superhero Quiz
   <ul>
     <li>We can encourage students to be independent and self-directed learners by providing them with a platform where they can have access to ample resources for self-study.</li>
   </ul>
-  
+
   <h2>How to do it</h2>
   <hr>
   <ol>
     <li><i>(New in R19)</i> The Self-Study List helps students take control of their own learning by consolidating their self-study attempts into one list for easy tracking.</li>
     <div style="text-align:center;">
-      <a target="_blank" href="../../media/images/UpdatedAssets/2Teacher/Empower.png"> <img width="50%" src="../../media/images/UpdatedAssets/2Teacher/Empower.png"></a>
+      <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Empower.png"> <img width="50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Empower.png"></a>
     </div>
     <li>You can share resources from the MOE Library, Community Gallery, and My Drive with your students in <a target="_blank" href="https://www.learning.moe.edu.sg/sls/students/user-guide/vle/student/ClassGroups/AboutGroupResources.html">Class Groups, under the Resources tab</a>.</li>
     <li>Students can use the <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/ClassGroupManagement/AboutForum.html">Forum in Class Groups</a> to share resources with each other for self-studying.</li>
