@@ -11,9 +11,9 @@ third_nav_title: Assess
 <h2 id="-navigate-an-assignment-using-lesson-plan-"><strong>Navigate an Assignment using Lesson Plan</strong></h2>
 <hr>
 <ol>
-<li>To navigate an Assignment, click the <strong>Lesson Plan</strong> icon [insert LessonPlan.svg] found in the Activity List. </li>
-<li>The Lesson Plan will indicate the Assignment title, Class Group, Start and Due Date of the Assignment, Assignment Status and Sharing permission (if any). It will also reflect your Assignment completion process. Completed Activities/Sections are indicated with a tick [insert ActivityTick.svg] or [insert SectionCompleted32.svg]</li>
-<li>The yellow navigation arrow [insert YellowArrow.svg] will indicate the current Activity/Section you are on.</li>
+<li>To navigate an Assignment, click the <strong>Lesson Plan</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/LessonPlan.svg">  found in the Activity List. </li>
+<li>The Lesson Plan will indicate the Assignment title, Class Group, Start and Due Date of the Assignment, Assignment Status and Sharing permission (if any). It will also reflect your Assignment completion process. Completed Activities/Sections are indicated with a tick <img style="width:1rem; display: inline;" src="/images/Icons/SectionCompleted32.svg"></li>
+<li>The yellow navigation arrow <img style="width:1rem; display: inline;" src="/images/Icons/YellowArrow.svg"> will indicate the current Activity/Section you are on.</li>
 <li>Within the individual Section Cards, you will see details such as the Section title, Section Start and Due Dates, Section completion status, and the number of Activities/Team Quizzes (if any) the Section contains.<ol>
 <li>To view the Activities within a Section, click <strong>Show Activities ( )</strong>. The number in parenthesis shows the number of activities in a particular Section.</li>
 </ol>
@@ -25,8 +25,8 @@ third_nav_title: Assess
 <hr>
 <p>There are two different views for Activity Lists - Collapsed Activity List which only shows the Section alphabet and Activity number or the Full Activity List which shows the title of the Activities/Sections.</p>
 <ol>
-<li>From the Collapsed Activity List, toggle between Activities/Sections by clicking the respective <strong>Section</strong> icons [insert Section.svg] and <strong>Activity</strong> icons [insert ActivityIcon.svg].</li>
-<li><p>Click the <strong>Activity List</strong> icon [insert ActivityListExpand.svg] to open the full Activity List. Toggle between Activities /Sections by clicking the respective <strong>Activity/Section Titles</strong>.</p>
+<li>From the Collapsed Activity List, toggle between Activities/Sections by clicking the respective <strong>Section</strong> icons <img style="width:1rem; display: inline;" src="/images/Icons/Section.svg"> and <strong>Activity</strong> icons <img style="width:1rem; display: inline;" src="/images/Icons/ActivityIcon.svg">.</li>
+<li><p>Click the <strong>Activity List</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/ActivityListExpand.svg"> to open the full Activity List. Toggle between Activities /Sections by clicking the respective <strong>Activity/Section Titles</strong>.</p>
 <p> Note: To view the Activities within a Section, click the <strong>Section</strong> icon or <strong>Title</strong>.</p>
 </li>
 <li><p>Sections are indicated as alphabets while Activities are indicated as numbers. The first Section will be shown as "A" and the next Section as "B". The first Activity will be shown as "1" and the next Activity as "2".</p>
@@ -41,12 +41,12 @@ third_nav_title: Assess
 <h2 id="section-prerequisites">Section Prerequisites</h2>
 <hr>
 <ol>
-<li>For some Assignments, your teacher may set prerequisites for each section to be unlocked. An assignment with Section Prerequisites will have a Restricted Section Status and a <strong>Lock</strong> icon displayed on the Section Cover page. </li>
+<li>For some Assignments, your teacher may set prerequisites for each section to be unlocked. An assignment with Section Prerequisites will have a Restricted Section Status and a <strong>Lock</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Lock.svg"> displayed on the Section Cover page. </li>
 <li><p>To view the prerequisites for a Section, click <strong>Prerequisites ( )</strong> on the Section Cover page. Click the Section from the Section Prerequisites pop-up to move to the uncompleted Section.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3639e33c-64b3-4d48-a201-38f644d07309/Untitled.png"></p>
 <p> Note: The number in parenthesis shows the number of Section Prerequisites you are required to complete before you can access the restricted section. </p>
 </li>
-<li><p>Section Prerequisites are indicated with a <strong>Lock</strong> icon [insert Lock.svg] in the Lesson Plan and Activity List.</p>
+<li><p>Section Prerequisites are indicated with a <strong>Lock</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Lock.svg"> [insert Lock.svg] in the Lesson Plan and Activity List.</p>
 </li>
 <li>After you have completed a Section Prerequisite, you will see the Section Prerequisite Unlocked in the Section End page. Click <strong>Unlocked Sections ( )</strong> to view the Sections you can now access.</li>
 </ol>
