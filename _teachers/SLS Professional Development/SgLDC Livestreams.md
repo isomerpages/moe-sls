@@ -10,7 +10,7 @@ third_nav_title: SLS Professional Development
 <table class="sug-datatable basic">
   <thead>
     <tr>
-      <th style="text-align: center; vertical-align: middle;">Links to Livestreams</th>
+      <th style="text-align: center; vertical-align: middle;">Links to Past Livestreams</th>
       <th style="text-align: center; vertical-align: middle;">FAQs</th>
     </tr>
   </thead>
