@@ -11,7 +11,7 @@ third_nav_title: Assess
 <p>Note: To use the Recording feature on iOS devices such as iPhones and iPads, make sure your device is updated to iOS/iPadOS 14.3 and your microphone setting in Safari is switched to "allow" mode.</p>
 <ol>
 <li>From R18, your teacher is able to attach a pre-populated Google File to a Free-Response Question. To find out how you can attempt such questions, click here [hyperlink student/Integration/AboutGoogle.html]. </li>
-<li><p>For Audio-Response questions, you would need to allow the browser to access your microphone to start recording. Click the text box followed by the <strong>Recording</strong> icon [insert icon] at the top left to begin attempting the Audio Response question.</p>
+<li><p>For Audio-Response questions, you would need to allow the browser to access your microphone to start recording. Click the text box followed by the <strong>Recording</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Audio24.svg"> at the top left to begin attempting the Audio Response question.</p>
 <p> Note: Each recording can be up to a maximum duration of 10 minutes.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/28fa0907-5993-4439-bfbd-b6713d7861c8/Untitled.png"></p>
 </li>
