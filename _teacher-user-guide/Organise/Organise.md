@@ -95,6 +95,12 @@ Use SLS to to organise your personal and class group resources, assignments and 
   <li><a target="_blank" href="/teachers/sls-superhero-quiz/track-students-learning-progress/">Track students’ Learning Progress</a></li>
 		<p>2. Useful Resources</p>
 </ul>
-
-
+<ul>
+  <li><a target="_blank" href="#">Class Group Poll</a></li>
+  <li><a target="_blank" href="#">Enhanced Lesson Authoring and Navigation</a></li>
+  <li><a target="_blank" href="#">Using SLS for Department Teaching &amp; Learning Review</a></li>
+  <li><a target="_blank" href="#">Eliciting Voices of Students with Diverse Learning Needs</a></li>
+  <li><a target="_blank" href="#">Let's get Phygital with SLS</a></li>
+  <li><a target="_blank" href="#">Teams vs Subgroups</a></li>
+</ul>
 </details>
