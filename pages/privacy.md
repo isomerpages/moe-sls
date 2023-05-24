@@ -15,7 +15,8 @@ permalink: /privacy/
             <li>Where appropriate, we may share necessary data within MOE or other Government agencies (an organ of state, Government ministries or statutory boards) so as to improve the discharge of public functions, and to serve you in the most efficient and effective way, unless such sharing is prohibited by law.</li>
             <li>We may share your personal data with entities that are not Government agencies, who have been authorised to carry out specific Government services. We will NOT share your personal data with such entities without your consent, except where such sharing complies with the law.</li>
             <li>For your convenience, we may also display to you data you previously shared with us, or with other Government agencies. This will speed up your transaction and save you the trouble of repeating previous submissions.</li>
-            <li>For any information received from Google APIs, our use and data transfer to other apps will adhere to Google API Services User Data Policy, including the Limited Use requirements.</li>
+            <li>For any information received from Google APIs, our use and data transfer to other apps will adhere to <a href="https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes">Google API Services User Data Policy</a>
+, including the Limited Use requirements.</li>
         </ol>
     </li>
     <li><u>Protection of Data</u>:<ol style="list-style-type: lower-alpha;">
