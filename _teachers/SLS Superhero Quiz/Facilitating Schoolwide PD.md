@@ -35,7 +35,7 @@ third_nav_title: SLS Superhero Quiz
 <div class="tips info">
   <div class="tips-header">
     <div class="sug-icon">
-      <img alt="Tips" src="../../assets/icons/indicative/32px/Bulb32.svg">
+      <img alt="Tips" src="/images/Assets/Bulb32.svg">
     </div>
     <span class="tips-title">Tip!</span>
   </div>
