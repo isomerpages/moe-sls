@@ -8,8 +8,8 @@ third_nav_title: Gamify
 <p>If your teacher has enabled <strong>Team Game</strong>, you will be able to view the <strong>Team Leaderboard</strong>. <strong>Team Game</strong> will allow you to work cooperatively with your peers to collect XP and unlock Game Stories and Achievements.</p>
 <ol>
 <li>From the homepage, click the <strong>Assignments</strong> tab and <strong>Open</strong> a gamified Course. Alternatively, you can <strong>Open</strong> a gamified Course from the Assignments page.</li>
-<li>In the Assignment, click the <strong>Leaderboard</strong> icon [Leaderboard32.png] to open the Leaderboard subpage. This allows you to view the top 50% of students in the class for the Assignment. </li>
-<li><p>From the <strong>Individual</strong> tab, you will be able to view the cumulative XP, current Level and Achievements on the individual student’s Card. Your Card is indicated with a yellow arrow [YellowArrow.svg].</p>
+<li>In the Assignment, click the <strong>Leaderboard</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Leaderboard32.png"> to open the Leaderboard subpage. This allows you to view the top 50% of students in the class for the Assignment. </li>
+<li><p>From the <strong>Individual</strong> tab, you will be able to view the cumulative XP, current Level and Achievements on the individual student’s Card. Your Card is indicated with a yellow arrow <img style="width:1rem; display: inline;" src="/images/Icons/YellowArrow.svg"> .</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/35c09d64-eb57-41fa-9ae3-e9469d26b705/Untitled.png"></p>
 </li>
 <li><p>If your teacher has enabled Team Game, from the Team tab, you will be able to view the cumulative XP, current Level and Achievements on the individual Team’s Card. Your Team’s Card is indicated with a yellow arrow.</p>
