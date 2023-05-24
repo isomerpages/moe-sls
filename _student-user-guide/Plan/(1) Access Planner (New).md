@@ -10,7 +10,7 @@ third_nav_title: Plan
   <ol>
     <li>There are three ways to access the <strong>Planner:</strong>
       <ol type="i">
-        <li>From the homepage, click the <strong>View Planner</strong> icon <img alt="View Planner Icon" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e446ad54-0783-4580-b8f0-95b460eac502/Untitled.png">.</li>
+        <li>From the homepage, click the <strong>View Planner</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/CalendarOpen.svg"></li>
         <li>Open the left menu and click <strong>Planner</strong>.</li>
         <li>Open your <strong>Class Group</strong> and click the <strong>Planner</strong> tab.</li>
       </ol>
