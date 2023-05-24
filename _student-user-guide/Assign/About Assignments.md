@@ -22,7 +22,7 @@ third_nav_title: Assign
 </li>
 <li><p>Assignment Sharing icon - This icon will appear if your teacher has enabled sharing of the Assignment with your classmates [insert icon].</p>
 </li>
-<li>Gamification icon - Assignment Course Cards with Gamification turned on will be reflected with a Gamification icon [insert icon].</li>
+<li>Gamification icon - Assignment Course Cards with Gamification turned on will be reflected with a Gamification icon <img style="width:1rem; display: inline;" src="/images/Icons/Game.svg">.</li>
 <li>Colour Banne<strong>r</strong> - The colour shown on the Assignment Card is based on the type of subject class assigned. Each type of subject class has a unique colour.</li>
 <li>Label - Assignments that are recently assigned (up to 3 days ago) will be labelled "New". Existing Assignments that have sections added to them will be labelled “New Section”</li>
 <li>View Details icon - This icon [insert icon] shows the Lesson Details subpage, which includes the Sections/Activities and Lesson Description.</li>
