@@ -2,7 +2,8 @@
 title: Privacy Statement
 permalink: /privacy/
 ---
-<p>Privacy Statement</p>
+<h1>Privacy Statement</h1>
+
 <ol>
     <li><u>General</u>:<ol style="list-style-type: lower-alpha;">
             <li>This is a Government of Singapore digital service.</li>
