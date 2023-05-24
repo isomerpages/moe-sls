@@ -4,3 +4,38 @@ permalink: /teacher-user-guide/collaborate/post-and-comment-in-the-forum/
 description: ""
 third_nav_title: Collaborate
 ---
+<h1 id="-3-post-and-comment-in-the-forum">(3) Post and Comment in the Forum</h1>
+<p>Teachers, Observers and Students (should permission be granted) can create Topics [hyperlink add a discussion/topic] in a Class Group Forum. Posts can be created within each Topic.</p>
+<h2 id="-create-a-post-"><strong>Create a Post</strong></h2>
+<hr>
+<ol>
+<li>Enter a topic by selecting a topic card.</li>
+<li>To start a new post, click <strong>Create New Post</strong>. </li>
+<li><p>Posts can contain texts, mathematical and chemical formulae, drawings, file uploads and audio recordings.</p>
+<p> Note: Audio recordings can be downloaded and saved when it is being processed.</p>
+</li>
+<li><p>Select or deselect the checkbox “Commenting is enabled” to allow commenting.</p>
+</li>
+<li>You can add keyword tags to improve the appearance of the post in search results.</li>
+<li>To notify the class group about a new post, select the checkbox “Notify Class Group”.</li>
+<li>Click <strong>Create</strong> to continue.</li>
+</ol>
+<h2 id="edit-or-delete-a-post">Edit or Delete a Post</h2>
+<hr>
+<ol>
+<li>The owner of the post and teachers can edit and/or delete a post.</li>
+<li>To edit a post, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Edit</strong> to edit the message, keyword tags of a post, enable commenting or notification to the class group. Click <strong><em>**</em></strong>Save<strong><em>**</em></strong> to confirm your edits.</li>
+<li>To delete a post, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Delete</strong>. Click <strong><strong>OK</strong></strong> in the confirmation prompt to confirm.</li>
+</ol>
+<h2 id="-comment-on-a-post-"><strong>Comment on a Post</strong></h2>
+<hr>
+<ol>
+<li>Commenting permissions [hyperlink Change Forum Settings] can be toggled on/off on individual posts by teachers or owners of posts. </li>
+<li>Select a topic card, followed by a post that you wish to leave a comment on. [C-TopicCard1.png]</li>
+<li><p>From the View Post subpage, click <strong>Add</strong> to enter comments.</p>
+<p> Note: Comments can contain mathematical or chemical formulae, emoticons, drawings, and attached files.</p>
+</li>
+<li><p>Click <strong>Post</strong> to proceed and <strong>X</strong> to close the subpage.</p>
+</li>
+<li>To edit or delete a comment, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select either <strong>Edit</strong> or <strong>Delete</strong>.</li>
+</ol>
