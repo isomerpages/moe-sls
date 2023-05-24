@@ -34,7 +34,7 @@ third_nav_title: Assign
 </ul>
 </li>
 <li>Click the individual Assignment Card to access the Assignment.</li>
-<li><p>You can choose to view your Assignments in Card view [insert icon] or in List view [insert icon].</p>
+<li><p>You can choose to view your Assignments in Card view <img style="width:1rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1rem; display: inline;" src="/images/Icons/List.svg">.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dac02ae2-5b7d-4c81-a5b6-77202c9fab2a/Untitled.png"></p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82fa1617-94ed-4e70-9c51-494692396fb5/Untitled.png"></p>
 </li>
@@ -62,7 +62,7 @@ third_nav_title: Assign
 <li><strong>Category</strong> - You can choose to view All, Uncategorized or other categories that your teacher has created.</li>
 </ul>
 </li>
-<li><p>You can choose to view your Assignments in Card view [insert icon] or in List view [insert icon]. </p>
+<li><p>You can choose to view your Assignments in Card view <img style="width:1rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1rem; display: inline;" src="/images/Icons/List.svg">. </p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dac02ae2-5b7d-4c81-a5b6-77202c9fab2a/Untitled.png"></p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82fa1617-94ed-4e70-9c51-494692396fb5/Untitled.png"></p>
 </li>
