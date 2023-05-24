@@ -7,19 +7,15 @@ third_nav_title: Feature Highlights
 ### R18 Posters
 
 #### Updated Login to SLS
-<a href="/files/Posters/R18/(1 of 2) Student MIMS.pdf.pdf" target="_blank"><img src="/images/Media/6Posters/(1 of 2) Student MIMS.png" style="width:100%;" alt="Updated Login to SLS"/></a>
+<a href="/files/Marcomms/Feature%20Highlights/R18%20(1%20of%202)%20Student%20MIMS.pdf" target="_blank"><img src="/images/1Student/Marcomms/R18%20(1%20of%202)%20Student%20MIMS.png" style="width:100%;" alt="Updated Login to SLS"></a>
 User Guide: [Log in with MIMS](LoginTroubleshooting/LoginMIMSStudent.html)
 
 #### Learn Together in SLS
-<a href="/files/Posters/R18/(2 of 2) Student Learn Together.pdf" target="_blank"><img src="/images/Media/6Posters/(2 of 2) Student Learn Together.png" style="width:100%;" alt="Learn Together in SLS"/></a>
+<a href="/files/Marcomms/Feature%20Highlights/R18%20(2%20of%202)%20Student%20Learn%20Together.pdf" target="_blank"><img src="/images/1Student/Marcomms/R18%20(2%20of%202)%20Student%20Learn%20Together.png" style="width:100%;" alt="Learn Together in SLS"></a>
 User Guide: [About Google Integration](student/Integration/AboutGoogle.html)
 
-<html>
-<head>
 <style>
 img {
   border-radius: 5%
 }
 </style>
-</head>
-<body>
