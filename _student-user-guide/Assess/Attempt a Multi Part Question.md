@@ -4,3 +4,31 @@ permalink: /student-user-guide/assess/attempt-a-multi-part-question/
 description: ""
 third_nav_title: Assess
 ---
+<h1 id="attempt-a-multi-part-question">Attempt a Multi-Part Question</h1>
+<h2 id="-multi-part-question-"><strong>Multi-Part Question</strong></h2>
+<hr>
+<ol>
+<li>A Multi-Part Question is a question that contains multiple parts. The multiple parts are related and therefore should be attempted as one question.</li>
+<li>Your teacher is able to create two structures of Multi-Part Questions:<ul>
+<li>Numbering 1(a), 1(b), etc.</li>
+<li>Numbering 1a(i), 1a(ii), 1b(i), etc.</li>
+</ul>
+</li>
+<li>A Multi-Part Question may consist of one or more of the following question types:<ul>
+<li><a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/AttemptMCQ.html">Multiple Choice/Response Questions</a></li>
+<li><a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/AttemptFITBQ.html">Fill-in-the-Blanks Questions</a></li>
+<li><a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/AttemptCADQ.html">Click-and-Drop Questions</a></li>
+<li><a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/AttemptEEQ.html">Error-Editing Questions</a></li>
+<li><a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/AttemptFRQ.html">Free-Response Questions</a></li>
+<li><a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/AttemptARQ.html">Audio-Response Questions</a></li>
+</ul>
+</li>
+<li>In an Auto-Graded Quiz and a Teacher-Marked Quiz, you can only submit your response after attempting the last question.</li>
+<li>For Multiple-Choice, Multiple-Response, Fill-in-the-Blanks, Click-and-Drop, and Error-Editing Questions, your answer will automatically be graded by the system. Once you submit your response, you will be able to see the correct answer, along with any explanation that your teacher might have provided under the Feedback tab.</li>
+</ol>
+<p>[insert As-MPQ.png]</p>
+<p>Did You Know?:</p>
+<ul>
+<li>If your teacher has set a recommended time, you will be able to see it below the Question Body.</li>
+<li>If enabled by your teacher, you may be allowed multiple tries to this question. This is not available for Multi-Part Questions containing Free-Response, Audio-Response, or File Submission Questions.</li>
+</ul>
