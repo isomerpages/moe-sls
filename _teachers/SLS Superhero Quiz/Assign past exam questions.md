@@ -7,7 +7,7 @@ third_nav_title: SLS Superhero Quiz
 <h1 class="page-title">Assign past exam questions (#Assign_with_SLS)</h1>
 <hr>
 
-<a target="_blank" href="../../media/images/UpdatedAssets/2Teacher/Assess 01.pdf"> <img width="50%" src="../../media/images/UpdatedAssets/2Teacher/Assess 01.png"></a>
+<a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/Assess%2001.pdf"> <img width="50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assess%2001.png"></a>
 
 <h2>What it is</h2>
 <hr>
@@ -18,7 +18,7 @@ third_nav_title: SLS Superhero Quiz
   <br>
 
   <br>
-  <a target="_blank" href="../../media/images/UpdatedAssets/2Teacher/Assign.png"> <img width="25%" src="../../media/images/UpdatedAssets/2Teacher/Assign.png"></a>
+  <a target="_blank" href="images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign.png"> <img width="25%" src="images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign.png"></a>
   <br>
 </ul>
 
@@ -40,8 +40,8 @@ third_nav_title: SLS Superhero Quiz
   <br>
 
   <br>
-  <a target="_blank" href="../../media/images/UpdatedAssets/2Teacher/Assign2.png"> <img width="50%" src="../../media/images/UpdatedAssets/2Teacher/Assign2.png"></a>
+  <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign2.png"> <img width="50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign2.png"></a>
   <li>You may have students who wish to attempt the exam paper in hard copy form, simply check the “<a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonResources/PrintWorksheet.html">View Print-Friendly Worksheet</a>” checkbox in the assignment Permission Settings so that they can print it.</li>
   <br>
-  <a target="_blank" href="../../media/images/UpdatedAssets/2Teacher/Assign3.png"> <img width="50%" src="../../media/images/UpdatedAssets/2Teacher/Assign3.png"></a>
+  <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign3.png"> <img width="50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign3.png"></a>
 </ul>
