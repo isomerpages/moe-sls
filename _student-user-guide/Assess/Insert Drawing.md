@@ -9,7 +9,7 @@ third_nav_title: Assess
 <hr>
 <p>You can submit a response with a diagram using the drawing tool.</p>
 <ol>
-<li>Select the <strong>Add Drawing/Image</strong> icon [insert Drawing.svg] in the toolbar.</li>
+<li>Select the <strong>Add Drawing/Image</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Drawing.svg"> in the toolbar.</li>
 <li>You may select either <strong>Blank Drawing</strong> or <strong>Upload a Background Image</strong> to draw on.</li>
 </ol>
 <h2 id="-starting-with-blank-drawing-"><strong>Starting with Blank Drawing</strong></h2>
@@ -37,8 +37,8 @@ third_nav_title: Assess
 </li>
 <li><p>Click <strong>Add</strong> if you are done with the drawing. Your drawing will be inserted into the text box.</p>
 </li>
-<li>To edit the drawing, click the <strong>Edit Image</strong> icon [insert EditImage.svg] to open up the drawing tool again.</li>
-<li>To delete the entire drawing, click the <strong>Trash</strong> icon [insert Trash.svg].</li>
+<li>To edit the drawing, click the <strong>Edit Image</strong> icon<img style="width:1rem; display: inline;" src="/images/Icons/EditImage.svg">  to open up the drawing tool again.</li>
+<li>To delete the entire drawing, click the <strong>Trash</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Trash.svg">.</li>
 <li><del>Upon clicking the <strong>Settings</strong> icon you can edit the drawing's:</del><ul>
 <li><del>Title</del></li>
 <li><del>Description</del></li>
