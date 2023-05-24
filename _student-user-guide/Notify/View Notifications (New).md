@@ -49,8 +49,8 @@ third_nav_title: Notify
 
 <h2>Flag a Notification</h2>
 
-<p>1. On the Notification Card, click the <strong>Flag</strong> icon <img alt="" src="Flag24.svg"> to flag a Notification. You can use it to flag important notifications you wish to follow up on.</p>
-<p>2. A Flagged Notification will be indicated with a Red Flag. <img alt="" src="FlagFilled24.svg"></p>
+<p>1. On the Notification Card, click the <strong>Flag</strong> icon <img style="width:1rem; display: inline;" src="/images/Assets/Flag24.png"> to flag a Notification. You can use it to flag important notifications you wish to follow up on.</p>
+<p>2. A Flagged Notification will be indicated with a Red Flag. <img alt="" style="width:1rem; display: inline;" src="/images/Assets/FlagFilled24.png"></p>
 <p>3. To unflag a Notification, click the <strong>Red Flag</strong> icon.</p>
 <p>4. To flag/unflag on multiple Notifications, you can select multiple Notifications by selecting the checkboxes beside the Notification Cards, or selecting the checkbox beside <strong>Select all notifications</strong> if you wish to select the entire page of Notifications.</p>
 <p>5. On the table header, click <strong>Flag</strong>/<strong>Clear Flag</strong>.</p>
