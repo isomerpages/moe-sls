@@ -16,5 +16,5 @@ third_nav_title: Customise
 <li>Resources</li>
 </ul>
 </li>
-<li>Click <strong><em>**</em></strong>Save<strong><em>**</em></strong> to confirm.</li>
+	<li>Click <strong>Save</strong> to confirm.</li>
 </ol>
