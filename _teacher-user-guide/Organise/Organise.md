@@ -96,11 +96,11 @@ Use SLS to to organise your personal and class group resources, assignments and 
 		<p>2. Useful Resources</p>
 </ul>
 <ul>
-  <li><a target="_blank" href="#">Class Group Poll</a></li>
-  <li><a target="_blank" href="#">Enhanced Lesson Authoring and Navigation</a></li>
-  <li><a target="_blank" href="#">Using SLS for Department Teaching &amp; Learning Review</a></li>
-  <li><a target="_blank" href="#">Eliciting Voices of Students with Diverse Learning Needs</a></li>
-  <li><a target="_blank" href="#">Let's get Phygital with SLS</a></li>
-  <li><a target="_blank" href="#">Teams vs Subgroups</a></li>
+  <li><a target="_blank" href="/files/Userguide/Useful%20Resources/R18_ClassGroupPoll.pdf">Class Group Poll</a></li>
+  <li><a target="_blank" href="/files/Userguide/Useful%20Resources/R18_Enhanced_Lesson_Authoring_navigation.pdf">Enhanced Lesson Authoring and Navigation</a></li>
+  <li><a target="_blank" href="/files/Userguide/Useful%20Resources/Using_SLS_for_Dept_review.pdf">Using SLS for Department Teaching &amp; Learning Review</a></li>
+  <li><a target="_blank" href="http://for.edu.sg/EVS">Eliciting Voices of Students with Diverse Learning Needs</a></li>
+  <li><a target="_blank" href="/files/Userguide/Useful%20Resources/Phygital_learning.pdf">Let's get Phygital with SLS</a></li>
+  <li><a target="_blank" href="/files/Userguide/Useful%20Resources/TeamsvsSubgroups.pdf">Teams vs Subgroups</a></li>
 </ul>
 </details>
