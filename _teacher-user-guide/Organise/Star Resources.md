@@ -63,4 +63,4 @@ third_nav_title: Organise
 <li>To unstar a Question or Media Object, click <strong>View Details</strong>. At the Details subpage, click the <strong>Star</strong> icon to unstar the Question or Media Object.</li>
 <li>Alternatively, if you are viewing a Starred Resource, click the <strong>Star</strong> icon again to unstar it.</li>
 </ol>
-<p>Note: The Star icon will no longer be lit yellow when you successfully unstar the resource.</p>
+<p><u>Note</u>: The Star icon will no longer be lit yellow when you successfully unstar the resource.</p>
