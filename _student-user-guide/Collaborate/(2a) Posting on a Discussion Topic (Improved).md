@@ -4,3 +4,24 @@ permalink: /student-user-guide/collaborate/posting-on-a-discussion-topic/
 description: ""
 third_nav_title: Collaborate
 ---
+<h1 id="-2a-posting-on-a-discussion-topic-improved-">(2a) Posting on a Discussion Topic (Improved)</h1>
+<h2 id="creating-a-new-post">Creating a New Post</h2>
+<hr>
+<ol>
+<li><p>Click on a <strong>Topic</strong> under the Forum tab.</p>
+<p> Note: Topics can only be created by teachers. </p>
+<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40de3b87-e429-44fd-96b8-786ee264e36c/Untitled.png"></p>
+</li>
+<li><p>Click <strong><strong><strong><strong><strong><strong><strong>**</strong></strong></strong></strong></strong></strong></strong>Create New Post<strong><strong><strong><strong><strong><strong><strong>**</strong></strong></strong></strong></strong></strong></strong>. On the Create Post subpage, you can fill in the following details: </p>
+<ol>
+<li><strong>Message</strong> - This can be in the form of text, mathematical/chemical equations, emojis, images, drawings, and file attachments.</li>
+<li><p><strong>Keyword Tags</strong> - Add some relevant descriptions to help others find your poll. After typing each tag, press "Enter" on your keyboard.</p>
+<p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40672d7e-0a75-4bd3-a0b2-5e892875757e/Untitled.png"></p>
+<p>Note: The <strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><em>**</em></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong>Commenting is enabled<strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><em>**</em></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong> checkbox is selected by default. Deselect this if you wish to disallow others from commenting.</p>
+</li>
+</ol>
+</li>
+<li><p>Click <strong><strong><strong>**</strong></strong></strong>Create<strong><strong><strong>**</strong></strong></strong> to proceed.</p>
+</li>
+<li>You can turn off commenting by clicking on the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and <strong><strong><strong><strong><strong>**</strong></strong></strong></strong></strong>Comment Off<strong><strong><strong><strong><strong>**</strong></strong></strong></strong></strong>.</li>
+</ol>
