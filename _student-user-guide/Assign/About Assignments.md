@@ -20,12 +20,12 @@ third_nav_title: Assign
 <li><p>Assignment Status <strong>-</strong> This indicates if the assignment is Paused, Complete, Incomplete, Upcoming or Overdue. </p>
 <p> Note: Overdue assignments can still be attempted.</p>
 </li>
-<li><p>Assignment Sharing icon - This icon will appear if your teacher has enabled sharing of the Assignment with your classmates [insert icon].</p>
+<li><p>Assignment Sharing icon - This icon <img style="width:1rem; display: inline;" src="/images/Icons/SharingEnabled.svg"> will appear if your teacher has enabled sharing of the Assignment with your classmates.</p>
 </li>
-<li>Gamification icon - Assignment Course Cards with Gamification turned on will be reflected with a Gamification icon <img style="width:1rem; display: inline;" src="/images/Icons/Game.svg">.</li>
-<li>Colour Banne<strong>r</strong> - The colour shown on the Assignment Card is based on the type of subject class assigned. Each type of subject class has a unique colour.</li>
+<li>Gamification icon - This icon <img style="width:1rem; display: inline;" src="/images/Icons/Game.svg"> will appear if your teacher has enabled Gamification for the Assignment. </li>
+<li>Colour Banner - The colour shown on the Assignment Card is based on the type of subject class assigned. Each type of subject class has a unique colour.</li>
 <li>Label - Assignments that are recently assigned (up to 3 days ago) will be labelled "New". Existing Assignments that have sections added to them will be labelled “New Section”</li>
-<li>View Details icon - This icon [insert icon] shows the Lesson Details subpage, which includes the Sections/Activities and Lesson Description.</li>
+<li>View Details icon - This icon <img style="width:1rem; display: inline;" src="/images/Icons/ViewDetails.svg"> shows the Lesson Details subpage, which includes the Sections/Activities and Lesson Description.</li>
 </ol>
 <p>Did you know?: From R18, teachers are able to set a Passcode to an Assignment. You will be required to enter the Passcode (case-sensitive) in order to access these Assignments.</p>
 <h2 id="language-settings">Language Settings</h2>
