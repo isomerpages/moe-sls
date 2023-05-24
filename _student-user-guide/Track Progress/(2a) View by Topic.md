@@ -12,7 +12,7 @@ third_nav_title: Track Progress
 <li><p>On the Learning Progress page, you may view your overall progress according to topic by clicking the <strong>Topical</strong> tab. Under each topic/subtopic, the Awarded Marks, Total Marks, and Marks (shown in percentage) are displayed.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b954ffc2-b79f-457f-8227-3eb521aae68e/Untitled.png"></p>
 </li>
-<li><p>From the list of Topics, you may view the Subtopics by clicking on the <strong><strong>**</strong></strong>dropdown arrow<strong><strong>**</strong></strong> beside each Topic.</p>
+<li><p>From the list of Topics, you may view the Subtopics by clicking on the <strong>dropdown arrow</strong> beside each Topic.</p>
 </li>
 </ol>
 <p>Note: The breakdown of Awarded Marks, Total Marks, and Marks (shown in percentage) are shown for each subtopic.</p>
@@ -20,7 +20,7 @@ third_nav_title: Track Progress
 <li><p>You may also search for resources related to the particular subject and topic/subtopic by clicking on the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and selecting <strong>Search for Lessons</strong>.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b5ddf222-0ba7-498d-b85f-342db48dc02b/Untitled.png"></p>
 </li>
-<li><p>To view your overall progress (in terms of marks) for a topic/subtopic over a period, click the <strong>Filter</strong> icon [insert Filter.svg] and choose the <strong>Month Range</strong> and <strong>Topic/Subtopic</strong> from the dropdown list. Click <strong>Apply</strong> to perform your selection.</p>
+<li><p>To view your overall progress (in terms of marks) for a topic/subtopic over a period, click the <strong>Filter</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Filter24.svg"> and choose the <strong>Month Range</strong> and <strong>Topic/Subtopic</strong> from the dropdown list. Click <strong>Apply</strong> to perform your selection.</p>
 </li>
 <li>To sort the topics/subtopics in ascending/descending order of marks, click the <strong>Up</strong>/<strong>Down</strong> arrows in the column headers.</li>
 </ol>
