@@ -4,3 +4,62 @@ permalink: /teacher-user-guide/author/about-templates/
 description: ""
 third_nav_title: Author
 ---
+<h1 id="about-templates">About Templates</h1>
+<p>When designing a Lesson or adding new Activity/Section, you can select a templates from:</p>
+<ol>
+<li>My Templates </li>
+<li>SLS Templates</li>
+</ol>
+<p><img alt="Screenshot 2023-03-23 at 4.38.36 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42ede84e-bc0b-45c8-9df9-5c18d7ac7e69/Screenshot_2023-03-23_at_4.38.36_PM.png"></p>
+<h2 id="my-templates">My Templates</h2>
+<hr>
+<ul>
+<li>Templates that you have created will appear here.</li>
+<li>Click here for more on Manage My Templates.</li>
+</ul>
+<h2 id="sls-templates">SLS Templates</h2>
+<hr>
+<ul>
+<li>You can choose from the following SLS Templates:<ul>
+<li>Lesson/Section Templates<ul>
+<li><strong>Active Learning Processes</strong></li>
+<li><strong>Acquisition</strong></li>
+<li><strong>Discussion</strong></li>
+<li><strong>Collaboration</strong></li>
+<li><strong>Inquiry</strong></li>
+<li><strong>Practice</strong></li>
+<li><strong>Production</strong></li>
+<li><strong>Assessment Templates by Subjects</strong></li>
+</ul>
+</li>
+<li>Activity Templates<ul>
+<li><strong>Check-In</strong></li>
+<li><strong>Word Cloud</strong></li>
+<li><strong>Discussion</strong></li>
+<li><strong>Learning by Exploring</strong></li>
+<li><strong>Mindmap</strong></li>
+<li><strong>Book Report</strong></li>
+<li><strong>Infographic)</strong></li>
+<li><strong>Game-based Assessment</strong></li>
+<li><strong>Short Quiz</strong></li>
+<li><strong>Exit Ticket</strong></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>These Templates are aligned to the Active Learning Processes, six Learning Experience types, and an e-Assessment template.</li>
+<li><p>If you select the SLS Lesson/Section Templates, the Learning Experience in the Details Card will be filled for you.</p>
+<p>  Note: Your existing activities will remain unchanged.</p>
+</li>
+<li><p>Depending on the Lesson/Section Template chosen, Activities will be pre-populated and tagged to the following Active Learning Processes (ALP):</p>
+<ul>
+<li><strong>Activate Learning</strong></li>
+<li><strong>Promote Thinking and Discussion</strong></li>
+<li><p><strong>Facilitate Demonstration of Learning</strong></p>
+<p>A fourth ALP, <strong>Monitor and Provide Feedback</strong>, can be added to any Activity at any part of the Lesson.</p>
+</li>
+</ul>
+</li>
+<li><p>You can add Activities to the Lesson or edit the pre-populated Activities.</p>
+</li>
+</ul>
