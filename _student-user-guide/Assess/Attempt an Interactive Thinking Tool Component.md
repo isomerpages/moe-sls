@@ -4,3 +4,50 @@ permalink: /student-user-guide/assess/attempt-an-interactive-thinking-tool-compo
 description: ""
 third_nav_title: Assess
 ---
+<h1 id="attempt-an-interactive-thinking-tool-component">Attempt an Interactive Thinking Tool Component</h1>
+<h2 id="-interactive-thinking-tool-"><strong>Interactive Thinking Tool</strong></h2>
+<hr>
+<ol>
+<li>Your assignment may contain an Interactive Thinking Tool (ITT).</li>
+<li>An Interactive Thinking Tool can consist of one to three columns, with a question or text for each column. The response to each column has to be submitted separately.</li>
+<li>Some columns of the Interactive Thinking Tool contain a part of the answer in the text box (e.g. The writer thinks that…). This is given by your teacher to help you to form your answer.</li>
+<li>You can edit your response by clicking the <strong>Pencil</strong> icon [insert Pencil.svg].</li>
+<li>Apart from text responses, you can include the following:<ul>
+<li>Mathematical or chemical equations [hyperlink Insert Mathematical or Chemical Equations].</li>
+<li>Drawings [hyperlink Insert Drawing].</li>
+<li>Uploaded files [hyperlink Upload File].</li>
+<li>Audio recording (1 audio recording for each ITT response). [hyperlink Attempt an Audio-Recording Question].</li>
+</ul>
+</li>
+</ol>
+<h2 id="-view-class-submissions-"><strong>View Class Submissions</strong></h2>
+<hr>
+<ol>
+<li>After you have submitted your response for an Interactive Thinking Tool, you can view and comment on your peers' responses for that section under <strong>View Class Submissions</strong>.</li>
+<li>You can view responses column by column by clicking on the respective column tabs.</li>
+<li>You can also view responses grouped by student by clicking the <strong>View All</strong> tab.</li>
+<li>If you see an <strong>Eye</strong> icon beside your name in the Interactive Thinking Tool Card, it means that your teacher has hidden the names of all students. You will be able to see only your name in the Interaction Board. [insert image]</li>
+</ol>
+<p>!<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/AITTClassSubmission2.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/AITTClassSubmission2.png</a></p>
+<ol>
+<li>In each column, you can click the <strong>Filter</strong> icon [insert Filter.svg] to view the posts that have been bookmarked by your teacher.</li>
+</ol>
+<h2 id="-view-comments-"><strong>View Comments</strong></h2>
+<hr>
+<p>To view comments on any response, click on the Response Card.</p>
+<p>All the comments will be shown in the order of time posted, with the most recent post at the bottom. The number of comments is shown in parenthesis.</p>
+<h2 id="-comment-on-peers-responses-"><strong>Comment on Peers' Responses</strong></h2>
+<hr>
+<p>To comment on one of your peers' responses,</p>
+<ol>
+<li>Click the Response Card, followed by <strong>Add</strong> on the bottom right.</li>
+<li>Apart from text responses, you can include the following:<ul>
+<li>Mathematical or chemical equations [hyperlink Insert Mathematical or Chemical Equations].</li>
+</ul>
+</li>
+<li><p>After typing in your comment, click <strong>Post</strong>.</p>
+<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/59a9581d-83c5-40b8-b1a4-9c5436771901/Untitled.png"></p>
+</li>
+<li><p>You can edit/delete your response by clicking on <strong>Overflow</strong> (<strong>3 dot</strong> icon).</p>
+</li>
+</ol>
