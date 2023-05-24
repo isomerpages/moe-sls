@@ -55,14 +55,8 @@ collections:
       - Gamify/Attempt a Gamified Lesson.md
       - Gamify/Check Progress on Leaderboard.md
       - Gamify/.keep
-      - Assign/(3) View and Respond to Teacher Comments.md
-      - Assign/(2) View Quiz Results.md
-      - Assign/Assign.md
-      - Assign/About Assessments (New).md
-      - Assign/(1) View Completed Assignments.md
+      - Assign/.keep
       - Assign/(1) Navigate an Assignment.md
-      - Assign/Attempt an Assignment.md
-      - Assign/Complete an Activity & Section.md
       - Assign/Attempt a Multiple Choice Question.md
       - Assign/Attempt a Fill in the Blanks Question.md
       - Assign/Attempt a Click and Drop Question.md
@@ -75,9 +69,7 @@ collections:
       - Assign/Attempt a Question with Rubrics.md
       - Assign/Attempt a Team Quiz & Activity.md
       - Assign/Attempt Google Attached Files.md
-      - Assign/Text to Speech (TTS).md
-      - Assign/Speech Evaluation.md
-      - Assign/EDictionary.md
+      - Assign/Complete an Activity & Section.md
       - Assign/Formatting & Paragraphing.md
       - Assign/Insert Tables.md
       - Assign/Upload File.md
@@ -87,7 +79,15 @@ collections:
       - Assign/Insert & Edit Links.md
       - Assign/Insert Emoticon.md
       - Assign/Insert Tooltip.md
-      - Assign/.keep
+      - Assign/Text to Speech (TTS).md
+      - Assign/Speech Evaluation.md
+      - Assign/EDictionary.md
+      - Assign/(1) View Completed Assignments.md
+      - Assign/(2) View Quiz Results.md
+      - Assign/(3) View and Respond to Teacher Comments.md
+      - Assign/About Assessments (New).md
+      - Assign/Assign.md
+      - Assign/Attempt an Assignment.md
       - Collaborate/.keep
       - Collaborate/Collaborate.md
       - Collaborate/About Assignment Sharing.md
