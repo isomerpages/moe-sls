@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="-3-view-and-respond-to-teacher-comments">(3) View and Respond to Teacher Comments</h1>
-<h2 id="-view-teacher-comments"><strong>View Teacher</strong> Comments</h2>
+<h2>View Teacher Comments</h2>
 <hr>
 <p>Your teacher may leave Comments on your responses to Free-Response, File Submission, and Audio-Response Questions.</p>
 <ol>
