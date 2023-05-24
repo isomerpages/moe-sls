@@ -13,10 +13,10 @@ collections:
       - Discover/(2) Search for Self Study Resources (New).md
       - Discover/(3) Attempt Self Study Resources (New).md
       - Discover/Access App Library.md
+      - Notify/.keep
       - Notify/Notify.md
       - Notify/About Notifications (New).md
       - Notify/View Notifications (New).md
-      - Notify/.keep
       - Plan/.keep
       - Plan/Plan.md
       - Plan/(1) Access Planner (New).md
@@ -36,12 +36,13 @@ collections:
       - Organise/Follow & Unfollow Subjects.md
       - Organise/View Print Friendly Worksheet.md
       - Organise/Copy to My Drive.md
+      - Self Study/.keep
       - Self Study/Self Study.md
       - Self Study/(1a) Annotate Text within Activities.md
       - Self Study/(1b) Add Notes to Images.md
       - Self Study/(2) View Notes.md
       - Self Study/(3) Comment on Notes.md
-      - Self Study/.keep
+      - Customise/.keep
       - Customise/Customise.md
       - Customise/Customise an Avatar.md
       - Customise/Set Password Reset Email Address.md
@@ -49,12 +50,25 @@ collections:
       - Customise/Manage Linked Account.md
       - Customise/Change Password.md
       - Customise/Update Answers to Security Questions.md
-      - Customise/.keep
+      - Gamify/.keep
       - Gamify/Gamify.md
       - Gamify/About Gamification.md
       - Gamify/Attempt a Gamified Lesson.md
       - Gamify/Check Progress on Leaderboard.md
-      - Gamify/.keep
+      - Assign/.keep
+      - Assign/About Assignments.md
+      - Assign/Access Assignments.md
+      - Collaborate/.keep
+      - Collaborate/Collaborate.md
+      - Collaborate/About Assignment Sharing.md
+      - Collaborate/(1a) Request to Share Assignment.md
+      - Collaborate/(1b) Accept a Share Request.md
+      - Collaborate/(2) Interact in a Shared Assignment.md
+      - Collaborate/(1) Access the Forum.md
+      - Collaborate/(2a) Posting on a Discussion Topic (Improved).md
+      - Collaborate/(3a) Comment in the Forum.md
+      - Collaborate/(2b) Create a New Poll.md
+      - Collaborate/(3b) Edit a Poll.md
       - Assess/.keep
       - Assess/(1) Navigate an Assignment.md
       - Assess/Attempt a Multiple Choice Question.md
@@ -86,23 +100,9 @@ collections:
       - Assess/(2) View Quiz Results.md
       - Assess/(3) View and Respond to Teacher Comments.md
       - Assess/About Assessments (New).md
-      - Collaborate/.keep
-      - Collaborate/Collaborate.md
-      - Collaborate/About Assignment Sharing.md
-      - Collaborate/(1a) Request to Share Assignment.md
-      - Collaborate/(1b) Accept a Share Request.md
-      - Collaborate/(2) Interact in a Shared Assignment.md
-      - Collaborate/(1) Access the Forum.md
-      - Collaborate/(2a) Posting on a Discussion Topic (Improved).md
-      - Collaborate/(3a) Comment in the Forum.md
-      - Collaborate/(2b) Create a New Poll.md
-      - Collaborate/(3b) Edit a Poll.md
-      - Assign/About Assignments.md
-      - Assign/Access Assignments.md
-      - Assign/.keep
+      - Track Progress/.keep
       - Track Progress/Track Progress.md
       - Track Progress/(1) Access Learning Progress.md
       - Track Progress/(2a) View by Topic.md
       - Track Progress/(2b) View by Month.md
       - Track Progress/(2c) View by Question.md
-      - Track Progress/.keep
