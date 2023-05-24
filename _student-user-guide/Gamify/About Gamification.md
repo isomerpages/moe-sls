@@ -15,3 +15,4 @@ third_nav_title: Gamify
 <p><strong>Achievements</strong> - Achievements are rewards awarded to you after completing the tasks. This can come in the form of badges and trophies.</p>
 <p>DID YOU KNOW!</p>
 <p>Gamified Courses are indicated with the Gamification icon [insert icon] on Assignment/Assessment Cards.</p>
+insert G-AboutGamification1
