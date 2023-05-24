@@ -11,7 +11,7 @@ third_nav_title: Self Study
 <ol>
 <li>From within a lesson, highlight the text that you want to annotate.</li>
 <li>Select a colour for the highlight. [SS-Annotate.png]</li>
-<li>A textbox will appear. You may choose to highlight the text without adding a Note (Highlight.svg), or add a Note (Annotate.svg) to accompany the highlighted text.</li>
+<li>A textbox will appear. You may choose to highlight the text without adding a Note <img style="width:1rem; display: inline;" src="/images/Assets/Highlight.svg">(Highlight.svg), or add a Note <img style="width:1rem; display: inline;" src="/images/Icons/Annotate.svg"> to accompany the highlighted text.</li>
 <li>You may insert text, mathematical or chemical equations, emoticons, upload a background image or file, or include a drawing in a Note. [SS-Annotate1.png]</li>
 <li>You may also add Keyword Tags to improve the searchability of your Note.</li>
 <li><p>Once you are done, click <strong>Save</strong>.</p>
