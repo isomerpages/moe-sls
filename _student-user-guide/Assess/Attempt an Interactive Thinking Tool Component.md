@@ -11,7 +11,7 @@ third_nav_title: Assess
 <li>Your assignment may contain an Interactive Thinking Tool (ITT).</li>
 <li>An Interactive Thinking Tool can consist of one to three columns, with a question or text for each column. The response to each column has to be submitted separately.</li>
 <li>Some columns of the Interactive Thinking Tool contain a part of the answer in the text box (e.g. The writer thinks that…). This is given by your teacher to help you to form your answer.</li>
-<li>You can edit your response by clicking the <strong>Pencil</strong> icon [insert Pencil.svg].</li>
+<li>You can edit your response by clicking the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg">.</li>
 <li>Apart from text responses, you can include the following:<ul>
 <li>Mathematical or chemical equations [hyperlink Insert Mathematical or Chemical Equations].</li>
 <li>Drawings [hyperlink Insert Drawing].</li>
@@ -30,7 +30,7 @@ third_nav_title: Assess
 </ol>
 <p>!<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/AITTClassSubmission2.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/AITTClassSubmission2.png</a></p>
 <ol>
-<li>In each column, you can click the <strong>Filter</strong> icon [insert Filter.svg] to view the posts that have been bookmarked by your teacher.</li>
+<li>In each column, you can click the <strong>Filter</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Filter.svg"> [insert Filter.svg] to view the posts that have been bookmarked by your teacher.</li>
 </ol>
 <h2 id="-view-comments-"><strong>View Comments</strong></h2>
 <hr>
