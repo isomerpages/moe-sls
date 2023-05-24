@@ -9,7 +9,7 @@ third_nav_title: Collaborate
 <li>Enter an assignment with Assignment Sharing enabled.</li>
 <li><p>To accept a Share Request:</p>
 <ol>
-<li>Click the <strong>User Avatar</strong> [insert icon] on the header followed by <strong>+</strong>. </li>
+<li>Click the <strong>User Avatar</strong>  on the header followed by <strong>+</strong>. </li>
 <li><p>Click the <strong>Overflow</strong> <strong>(3-dot</strong> icon<strong>)</strong> to open the right menu. Click <strong>Share</strong>.</p>
 <p>Note: There will be a red dot beside the "+" to indicate a new share request. </p>
 </li>
