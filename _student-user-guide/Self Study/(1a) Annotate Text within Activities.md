@@ -4,3 +4,40 @@ permalink: /student-user-guide/self-study/annotate-text-within-activities/
 description: ""
 third_nav_title: Self Study
 ---
+<h1 id="-1a-annotate-text-within-activities">(1a) Annotate Text within Activities</h1>
+<h2 id="-add-annotation-to-text-within-an-activity-"><strong>Add Annotation to Text within an Activity</strong></h2>
+<hr>
+<p>When you are working on an assignment or a Self-Study resource, you can add annotations to the text. This feature can be used to make notes specific to a phrase or sentence. For example, you can insert a definition or explanation for a term you just learnt. You can also highlight a text without adding a Note to it.</p>
+<ol>
+<li>From within a lesson, highlight the text that you want to annotate.</li>
+<li>Select a colour for the highlight. [SS-Annotate.png]</li>
+<li>A textbox will appear. You may choose to highlight the text without adding a Note (Highlight.svg), or add a Note (Annotate.svg) to accompany the highlighted text.</li>
+<li>You may insert text, mathematical or chemical equations, emoticons, upload a background image or file, or include a drawing in a Note. [SS-Annotate1.png]</li>
+<li>You may also add Keyword Tags to improve the searchability of your Note.</li>
+<li><p>Once you are done, click <strong>Save</strong>.</p>
+<p> Note: You are allowed to have overlapping highlights.</p>
+</li>
+<li><p>Annotation Notes will be visible in the <strong>Annotation Drawer</strong>. By default, the Annotation Drawer will be open. Clicking the <strong>Annotation cards</strong> will direct you to the respective Annotations on the main page.</p>
+</li>
+<li>To control the <strong>Annotation Drawer</strong>, click the <strong>Notepad</strong> icon [insert icon] and choose <strong>Hide Drawer</strong> or <strong>Expand Drawer</strong>.</li>
+<li><p>If Comment On is selected, you can add comments [hyperlink add comments] to that particular Annotation card. </p>
+<p> Note: If you have shared your assignment with a peer, he/she will be able to leave comments too.</p>
+</li>
+</ol>
+<h2 id="-editing-and-deleting-annotation-"><strong>Editing and Deleting Annotation</strong></h2>
+<hr>
+<p>You may edit each Annotation Notes card from the Annotation Drawer by clicking the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and selecting the following options:</p>
+<ol>
+<li>Edit</li>
+<li>Delete</li>
+<li>Comment On/Off</li>
+</ol>
+<p>You may also click on the <strong>Comments</strong> icon to open the Card Details to view the full text or image in an Annotation Notes card and add a Comment [hyperlink to add comments]. [SS-Annotate2.png]</p>
+<h2 id="-e-dictionary-in-annotation-"><strong>E-Dictionary in Annotation</strong></h2>
+<hr>
+<p>For Chinese Assignments and Resources with the E-Dictionary enabled, you will be able to highlight text to find its meaning in the E-Dictionary. </p>
+<ol>
+<li>Upon selecting the <strong>E-Dictionary</strong> icon [insert eDict.svg], students can view the meaning of the word (with English translation, if enabled);</li>
+<li>Listen to its pronunciation;</li>
+<li>Add what they have searched to the right drawer as Notes. This creates an easy point of reference for students to revisit the meaning of the word in future.</li>
+</ol>
