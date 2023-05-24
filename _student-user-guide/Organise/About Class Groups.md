@@ -4,7 +4,7 @@ permalink: /student-user-guide/organise/about-class-groups/
 description: ""
 third_nav_title: Organise
 ---
-  <h1>About Class Groups (new page)</h1>
+<h1>About Class Groups (new page)</h1>
   <p>There are two types of Class Groups in SLS:</p>
   <ol>
     <li>
@@ -27,7 +27,7 @@ third_nav_title: Organise
     <li>Apps that can be installed</li>
   </ul>
   <p>Note: When you re-enter a Class Group, you will be on the tab that you were last on.</p>
-  <p>From within a Class Group, you are able to pin the Class Group by clicking the <strong>Pin</strong> icon <img alt="Pin icon" src="[insert icon]">.</p>
+  <p>From within a Class Group, you are able to pin the Class Group by clicking the <strong>Pin</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pin24.svg">.</p>
   <p>Pinning a Class Group allows quick access to the Class Group. Below is a list of interactions that take place when a Class Group is pinned:</p>
   <ul>
     <li>Pinned Class Groups will appear first under the Class Groups tab on the homepage.</li>
