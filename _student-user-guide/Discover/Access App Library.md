@@ -9,12 +9,13 @@ third_nav_title: Discover
 <p>The App Library contains a list of whitelisted Apps that can be launched within SLS. You can launch the App within SLS to get redirected to your specific Assignment page created by your teacher or find out more about it by clicking the <strong>View Details</strong> icon <img style="width:5%; display: inline;" src="/images/Icons/ViewDetails.svg">.</p>
 
 <p><u>Note</u>: You are only able to view Apps that you have been permitted to access.</p>
+
 <h2>Access App Library</h2>
-	<hr>
-	<ol>
-		<li>Open the left menu, and click <strong>Resources</strong> followed by <strong>App Library</strong>.</li>
-		<li>The list of Apps that can be launched within SLS will be displayed. You can view the Apps either as Cards <img style="width:5%; display: inline;" src="/images/Icons/Card.png"> or in List <img style="width:5%; display: inline;" src="/images/Icons/List.svg"> view by clicking <strong>View by</strong>.</li>
-		<li>Click the <strong>View Details</strong> icon <img style="width:5%; display: inline;" src="/images/Icons/ViewDetails.svg"> to find out more about a particular App.</li>
+<hr>
+<ol>
+<li>Open the left menu, and click <strong>Resources</strong> followed by <strong>App Library</strong>.</li>
+<li>The list of Apps that can be launched within SLS will be displayed. You can view the Apps either as Cards <img style="width:5%; display: inline;" src="/images/Icons/Card.png"> or in List <img style="width:5%; display: inline;" src="/images/Icons/List.svg"> view by clicking <strong>View by</strong>.</li>
+<li>Click the <strong>View Details</strong> icon <img style="width:5%; display: inline;" src="/images/Icons/ViewDetails.svg"> to find out more about a particular App.</li>
 		<li>To launch an App, click the App Card. You will be redirected to the App on a new tab.</li>
 	</ol>
 	<h2>Star an App</h2>
