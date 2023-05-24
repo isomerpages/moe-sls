@@ -177,7 +177,7 @@ third_nav_title: SLS Superhero Quiz
     </tr>
     <tr>
       <td style="text-align: center; vertical-align: middle;">
-        <p>The Instructor</p>
+        <p>The Engineer</p>
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/The%20Instructor.pdf"> <img width="50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Instructor.png"></a> <br>
