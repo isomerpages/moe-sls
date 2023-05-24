@@ -4,3 +4,40 @@ permalink: /admin-user-guide/administer/manage-subjects-for-schools-not-using-sc
 description: ""
 third_nav_title: Administer
 ---
+<h1 id="manage-subjects-for-schools-not-using-school-cockpit-">Manage Subjects (For Schools Not Using School Cockpit)</h1>
+<p>SLS School Admins are able to view the list of Subjects offered in their schools. For schools that are not using School Cockpit, SLS School Admins can manage their School Based subjects through SLS.</p>
+<h2 id="search-for-subjects">Search for Subjects</h2>
+<hr>
+<ol>
+<li>Open the left menu and select <strong>Administration</strong>, followed by <strong>Manage Subjects</strong>.</li>
+<li>You may search for a subject based on the subject name or code. To refine your search results, you may apply the <strong>Category</strong> filter to filter by MOE Approved, School Based MOE Approved, and School Based subjects.</li>
+<li>Click <strong>Apply</strong> to proceed.</li>
+<li>Click the <strong>Subject Name</strong> in the search results to view the subject details:<ul>
+<li>Subject Name</li>
+<li>Subject Code</li>
+<li>School</li>
+<li>Subject Group</li>
+</ul>
+</li>
+</ol>
+<h2 id="add-a-new-school-based-subject-for-schools-not-using-school-cockpit-">Add a New School Based Subject (For Schools Not Using School Cockpit)</h2>
+<hr>
+<ol>
+<li>On the Manage Subjects page, click <strong>Add New Subject</strong>.</li>
+<li>Enter the Subject Name, Subject Code, and select your School from the dropdown list.</li>
+<li>Click <strong>Create</strong> to proceed.</li>
+<li>Alternatively, you may import multiple subjects at once by clicking <strong>Import Subject</strong>.</li>
+<li><p>Select your School from the dropdown list. Upload the .csv file and click <strong>Upload</strong>. </p>
+<p> Note: You can download the Subject Import Template .csv file by clicking <strong>Download Subject Import Template Here</strong>. </p>
+<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/408e7cb4-1d11-46e5-ae50-fe8a256cf130/Untitled.png"></p>
+</li>
+</ol>
+<h2 id="edit-or-delete-school-based-subjects-for-schools-not-using-school-cockpit-">Edit or Delete School Based Subjects (For Schools Not Using School Cockpit)</h2>
+<hr>
+<p>You can only Edit or Delete School Based Subjects. MOE Approved Subjects cannot be edited or deleted.</p>
+<ol>
+<li>On the Manage Subjects page, click the <strong>Subject Name</strong> of the School Based Subject you wish to manage.</li>
+<li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the View Subject subpage.</li>
+<li>Select <strong>Edit</strong> to edit the Subject Name and Subject Code. Click the <strong>Save</strong> icon to confirm your changes.</li>
+<li>Select <strong>Delete</strong> to remove the Subject. Click <strong>Ok</strong> on the confirmation prompt.</li>
+</ol>
