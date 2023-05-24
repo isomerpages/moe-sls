@@ -82,7 +82,7 @@ third_nav_title: Discover
 <h2>View Search Results</h2>
 
 <ol>
-  <li>You can sort the resources by <strong>Relevance</strong> to your search term(s), <strong>Popularity</strong> <strong>(New in R19)</strong>, or according to the date of the latest edit. You can also view the search results in Card or List view by clicking <img style="width:5%; display: inline;" src="/images/Icons/Card.png"> and <img style="width:5%; display: inline;" src="/images/Icons/List.svg"> respectively.</li>
+  <li>You can sort the resources by <strong>Relevance</strong> to your search term(s), <strong>Popularity</strong> <strong>(New in R19)</strong>, or according to the date of the latest edit. You can also view the search results in Card or List view by clicking <img style="width:1rem; display: inline;" src="/images/Icons/Card.png"> and <img style="width:1rem; display: inline;" src="/images/Icons/List.svg"> respectively.</li>
   <li>Click the <strong>Lesson Card</strong> to enter the Lesson in a new tab. On the Lesson Card, you will be able to view the following information:
     <ul>
       <li>Lesson Location</li>
@@ -92,7 +92,7 @@ third_nav_title: Discover
     </ul>
 <a target="_blank" href="/images/1Student/SS-LessonCard1.png"><img alt="Screenshot of lesson card" src="/images/1Student/SS-LessonCard1.png"></a>
   </li>
-  <li>To view the Lesson Details, click the <strong>View Details</strong> icon found on the top right of the Lesson Card. You will be able to view details such as Lesson Description, list of Activities and Sections (if any), who created the Lesson and when it was lasted edited. To open the Lesson in a new tab, click the <strong>Expand</strong> icon <img style="width:5%; display: inline;" src="/images/Icons/external-link.svg">.</li>
+  <li>To view the Lesson Details, click the <strong>View Details</strong> icon found on the top right of the Lesson Card. You will be able to view details such as Lesson Description, list of Activities and Sections (if any), who created the Lesson and when it was lasted edited. To open the Lesson in a new tab, click the <strong>Expand</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/external-link.svg">.</li>
   <li>To enter the Lesson, click the <strong>Lesson Card</strong>.</li>
 </ol>
 
