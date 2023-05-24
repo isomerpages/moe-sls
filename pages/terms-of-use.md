@@ -9,17 +9,17 @@ permalink: /terms-of-use/
 
 <p>Welcome to the Singapore Student Learning Space (SLS), a centrally-managed Ministry of Education platform to provide quality online Teaching and Learning resources to its users.</p>
 <p>SLS provides its users with access to quality curriculum-aligned digital resources. It offers a space for students to engage in self-directed learning and collaborative learning.</p>
-    <p>The SLS website (the “Website”) is provided by the Ministry of Education, Singapore (“MOE”, “we”, “our”, and “us”). All access to the Website is governed by the terms and conditions below (the “Terms”).</p>
-    <p>SLS is accessible to designated administrators, teachers (the designated administrators and the teachers shall be collectively referred to as the “Teacher Users”), external content developers engaged by MOE (“External Content Developers”), and the following persons:</p>
+<p>The SLS website (the “Website”) is provided by the Ministry of Education, Singapore (“MOE”, “we”, “our”, and “us”). All access to the Website is governed by the terms and conditions below (the “Terms”).</p>
+<p>SLS is accessible to designated administrators, teachers (the designated administrators and the teachers shall be collectively referred to as the “Teacher Users”), external content developers engaged by MOE (“External Content Developers”), and the following persons:</p>
 
 <ul>
 <ol type="1">
 <li>all Students enrolled in any Government School, Government-aided School, Independent School, Specialised Independent School and Specialised School (collectively, “Schools”);</li>
-        <li>all Students enrolled in any school for the education of children with special education needs (“SPED Schools”); and</li>
-        <li>such other students as the MOE may from time to time authorise;</li>
-    </ol></ul>
-    <p>(collectively, “Student Users").</p>
-    <p>In these Terms, the terms “Government School”, “Government-aided School”, “Independent School”, “Specialised Independent School” and “Specialised School” refer to such schools in Singapore that can be found in the School Directory of the Ministry of Education’s School Finder Internet website at <a href="https://www.moe.gov.sg/schoolfinder">https://www.moe.gov.sg/schoolfinder</a>.</p>
+<li>all Students enrolled in any school for the education of children with special education needs (“SPED Schools”); and</li>
+<li>such other students as the MOE may from time to time authorise;</li>
+</ol></ul>
+<p>(collectively, “Student Users").</p>
+<p>In these Terms, the terms “Government School”, “Government-aided School”, “Independent School”, “Specialised Independent School” and “Specialised School” refer to such schools in Singapore that can be found in the School Directory of the Ministry of Education’s School Finder Internet website at <a href="https://www.moe.gov.sg/schoolfinder">https://www.moe.gov.sg/schoolfinder</a>.</p>
     <p>In these Terms, Student Users, Teacher Users and External Content Developers are collectively referred to as “Users”. To avoid doubt, words in these Terms that import the singular shall also include the plural and vice versa where the context requires.</p>
     <p>By proceeding to access the Website, Users (“you”, “your”) are deemed to have agreed to be bound by the Terms. MOE reserves the right to amend these Terms from time to time. Whenever changes are made to the Terms, such changes will be posted on this page, and your use of the Website after such changes have been posted will constitute your unconditional agreement to the modified Terms and all of the changes. If you do not agree to these Terms of Use, please do not use this Website.</p>
     <h2>Access to the Website</h2>
@@ -48,30 +48,16 @@ permalink: /terms-of-use/
 </ol></ul>
 </li>
 	
-  <h2>Hyperlinks</h2>
-<li><p>
-    The Website may include hyperlinks to websites, content, and resources which are not maintained by us. We are not responsible for the contents or reliability of such websites and do not endorse any content or material on such websites. We have no control over and cannot guarantee the accessibility or proper functioning of those websites. Use of the hyperlinks and access to those websites are entirely at your own risk.
-  </p></li>
-<li><p>
-    If you create a link or frame to the Website, you do so at your own risk. We reserve the right to object to or disable any link or frame to or from the Website.
-  </p></li>
-<li><p>
-    We reserve the right to change the URL of the Website.
-  </p></li>
-<li><p>
-    We reserve the right to disable any link to or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent, or unlawful content or content that violates any person’s rights to property, intellectual property, privacy, or publicity.
-  </p></li>
+<h2>Hyperlinks</h2>
+<li><p>The Website may include hyperlinks to websites, content, and resources which are not maintained by us. We are not responsible for the contents or reliability of such websites and do not endorse any content or material on such websites. We have no control over and cannot guarantee the accessibility or proper functioning of those websites. Use of the hyperlinks and access to those websites are entirely at your own risk.</p></li>
+<li><p>If you create a link or frame to the Website, you do so at your own risk. We reserve the right to object to or disable any link or frame to or from the Website.</p></li>
+<li><p>We reserve the right to change the URL of the Website.</p></li>
+<li><p>We reserve the right to disable any link to or frames of any site containing inappropriate, profane, defamatory, infringing, obscene, indecent, or unlawful content or content that violates any person’s rights to property, intellectual property, privacy, or publicity.</p></li>
 
-  <h2>Intellectual Property Rights and Restrictions on Use of Website Content</h2>
-<li><p>
-    Subject to these Terms, and to any specific permissions or restrictions on the Website (e.g., a "print" or "download" button or the disabling of the print screen function), insofar as we own the intellectual property rights (or have the right to sub-license the use of such intellectual property rights) in the content on the Website ("Content"), we hereby grant all Student Users a personal, non-transferable, non-exclusive, non-sub-licensable license to copy, reproduce, communicate, and adapt the Content solely for non-commercial educational purposes.
-  </p></li>
-<li><p>
-    Subject to these Terms, and to any specific permissions or restrictions on the Website (e.g., a "print" or "download" button or the disabling of the print screen function), insofar as we own the intellectual property rights (or have the right to sub-license the use of such intellectual property rights) in the Content, we hereby grant all Teacher Users a personal, non-transferable, non-exclusive, non-sub-licensable license to copy, reproduce, download, post, broadcast, communicate, modify, and adapt the Content solely for non-commercial educational use in all Schools, SPED Schools, or such other educational institutions as MOE may allow.
-  </p></li>
-<li><p>
-    Subject to these Terms, insofar as we own the intellectual property rights (or have the right to sub-license the use of such intellectual property rights) in the Content, we hereby grant to all External Content Developers a personal, non-transferable, non-exclusive, non-sub-licensable license to copy, reproduce, download, post, broadcast, communicate, modify, and adapt the Content for the purpose of creating content for the Website and such other purposes as may be contained in the terms on which they were engaged by MOE or as directed by MOE. In their use of the Content, External Content Developers shall further be subject to any restrictions or permissions contained in the terms on which they were engaged by MOE.
-  </p></li>
+<h2>Intellectual Property Rights and Restrictions on Use of Website Content</h2>
+<li><p>Subject to these Terms, and to any specific permissions or restrictions on the Website (e.g., a "print" or "download" button or the disabling of the print screen function), insofar as we own the intellectual property rights (or have the right to sub-license the use of such intellectual property rights) in the content on the Website ("Content"), we hereby grant all Student Users a personal, non-transferable, non-exclusive, non-sub-licensable license to copy, reproduce, communicate, and adapt the Content solely for non-commercial educational purposes.</p></li>
+<li><p>Subject to these Terms, and to any specific permissions or restrictions on the Website (e.g., a "print" or "download" button or the disabling of the print screen function), insofar as we own the intellectual property rights (or have the right to sub-license the use of such intellectual property rights) in the Content, we hereby grant all Teacher Users a personal, non-transferable, non-exclusive, non-sub-licensable license to copy, reproduce, download, post, broadcast, communicate, modify, and adapt the Content solely for non-commercial educational use in all Schools, SPED Schools, or such other educational institutions as MOE may allow.</p></li>
+<li><p>Subject to these Terms, insofar as we own the intellectual property rights (or have the right to sub-license the use of such intellectual property rights) in the Content, we hereby grant to all External Content Developers a personal, non-transferable, non-exclusive, non-sub-licensable license to copy, reproduce, download, post, broadcast, communicate, modify, and adapt the Content for the purpose of creating content for the Website and such other purposes as may be contained in the terms on which they were engaged by MOE or as directed by MOE. In their use of the Content, External Content Developers shall further be subject to any restrictions or permissions contained in the terms on which they were engaged by MOE.</p></li>
 <li><p>
 Except as otherwise allowed by these Terms, no part of the Website or the Content may be copied, reproduced, republished, downloaded, posted, broadcasted, communicated, transmitted, printed, made available to the public, adapted, altered or otherwise for any purpose whatsoever without our prior written permission. You agree to indemnify and keep MOE indemnified against any liabilities, actions, proceedings, claims, demands, costs, damages and expenses which may be incurred, levied or brought against MOE in relation to any infringement of any third party’s intellectual property rights arising from your use of any part of the Website or the Content, where such use is not within the scope of these Terms and/or without our prior written permission.</p></li>
 <li><p>
