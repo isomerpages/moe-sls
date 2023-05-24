@@ -5,8 +5,7 @@ description: ""
 third_nav_title: SLS Superhero Quiz
 ---
 <h1 class="page-title">Nurture collaboration in Gamified Lessons (#Gamify_with_SLS)</h1>
-
-<div>
+<hr>
   <h2>What it is</h2>
   <hr>
   <p>Game Teams encourage students to have fun in a group setting. In groups, students build on content mastery while practicing teamwork and communication skills.</p>
@@ -36,4 +35,4 @@ third_nav_title: SLS Superhero Quiz
     <div style="text-align:center;">
       <a target="_blank" href="../../media/images/UpdatedAssets/2Teacher/Nurture2.png"> <img width="50%" src="../../media/images/UpdatedAssets/2Teacher/Nurture2.png"></a>
     </div>
-  </div>
+  
