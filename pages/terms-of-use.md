@@ -111,7 +111,8 @@ Where you upload or post content that is not owned by, licensed to or controlled
 <li><p>You agree and understand that you are responsible for any damage suffered by any person, corporation or entity as the result of any remarks, information, feedback or other content submitted by you or made available by you on the Website. We are not responsible for damage of any kind arising out of or in connection to any remarks, information, feedback or other content submitted by you or made available by you on the Website.</p></li>
 
 <h2>Privacy Statement</h2>
-<li><p>You also agree to the terms of the Privacy Statement for this Website as may be amended from time to time. The Privacy Statement will form part of these Terms of Use.</p></li>
+<li><p>You also agree to the terms of the <a href="/privacy/">Privacy Statement</a>
+ for this Website as may be amended from time to time. The Privacy Statement will form part of these Terms of Use.</p></li>
 
 <h2>Governing Law</h2>
 <li><p>These Terms and the use of the Website are governed by and construed in accordance with the laws of the Republic of Singapore. You agree that any claim, legal proceeding or litigation relating to or arising in connection with the Website will be brought solely in Singapore, and you consent to the exclusive jurisdiction of the Singapore Courts.</p></li>
