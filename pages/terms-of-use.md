@@ -20,27 +20,23 @@ permalink: /terms-of-use/
 </ol></ul>
 <p>(collectively, “Student Users").</p>
 <p>In these Terms, the terms “Government School”, “Government-aided School”, “Independent School”, “Specialised Independent School” and “Specialised School” refer to such schools in Singapore that can be found in the School Directory of the Ministry of Education’s School Finder Internet website at <a href="https://www.moe.gov.sg/schoolfinder">https://www.moe.gov.sg/schoolfinder</a>.</p>
-    <p>In these Terms, Student Users, Teacher Users and External Content Developers are collectively referred to as “Users”. To avoid doubt, words in these Terms that import the singular shall also include the plural and vice versa where the context requires.</p>
-    <p>By proceeding to access the Website, Users (“you”, “your”) are deemed to have agreed to be bound by the Terms. MOE reserves the right to amend these Terms from time to time. Whenever changes are made to the Terms, such changes will be posted on this page, and your use of the Website after such changes have been posted will constitute your unconditional agreement to the modified Terms and all of the changes. If you do not agree to these Terms of Use, please do not use this Website.</p>
-    <h2>Access to the Website</h2>
+<p>In these Terms, Student Users, Teacher Users and External Content Developers are collectively referred to as “Users”. To avoid doubt, words in these Terms that import the singular shall also include the plural and vice versa where the context requires.</p>
+<p>By proceeding to access the Website, Users (“you”, “your”) are deemed to have agreed to be bound by the Terms. MOE reserves the right to amend these Terms from time to time. Whenever changes are made to the Terms, such changes will be posted on this page, and your use of the Website after such changes have been posted will constitute your unconditional agreement to the modified Terms and all of the changes. If you do not agree to these Terms of Use, please do not use this Website.</p>
+<h2>Access to the Website</h2>
 <ul>
 <ol type="1">
-	<li>	
-		<p>The accessibility and operation of the Website is reliant on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of the Website at all times.</p></li>
-		<h2>Users' Responsibilities</h2>
-
-
+<li><p>The accessibility and operation of the Website is reliant on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of the Website at all times.</p></li>
+<h2>Users' Responsibilities</h2>
 <li><p>Your password protects your user account. Your user account is intended only for your personal access to SLS. While we will take reasonable measures to protect the security of your account, you bear the responsibility of keeping your password confidential and secure. If your password is compromised, you should take immediate steps to reset your password.</p></li>
 <li><p>You shall not post or upload any content or comments that are obscene, invasive of another's privacy, offensive, seditious or illegal. You shall also ensure that such content or comments do not infringe any patent, trademark, copyright, or other intellectual or proprietary or privacy rights of any person. We are entitled in our absolute discretion to remove any content or comments posted or uploaded by you, including content or comments that are in breach of these Terms, including but not limited to offensive, defamatory, seditious or libellous statements.</p></li>
 <li><p>We reserve the right to log off or disable user accounts that are inactive and/or have breached any part of these Terms.</p></li>
-	
 <li><p>As a User, you agree that you will not:</p>
 <ul>
-	<ol type="a">
-  <li>Use the Website to send advertisements, chain letters or other unsolicited type of messages;</li>
-  <li>Use the Website to make commercial solicitations including tontines and pyramid schemes;</li>
-  <li>Use any device, software or routine to interfere or attempt to interfere with the proper working of the Website;</li>
-  <li>Use any robot, spider, other automatic device, or manual process, to cull data, monitor or copy any part of the Website or any part of the contents of the Website without our prior written permission;</li>
+<ol type="a">
+<li>Use the Website to send advertisements, chain letters or other unsolicited type of messages;</li>
+<li>Use the Website to make commercial solicitations including tontines and pyramid schemes;</li>
+<li>Use any device, software or routine to interfere or attempt to interfere with the proper working of the Website;</li>
+<li>Use any robot, spider, other automatic device, or manual process, to cull data, monitor or copy any part of the Website or any part of the contents of the Website without our prior written permission;</li>
   <li>Upload programs intended to damage or place excessive load on a computer system or network. This includes computer viruses, Trojans and worms;</li>
   <li>Take any action that imposes any unreasonable or disproportionately large load on the servers of MOE or MOE’s contractors;</li>
   <li>Attempt to circumvent data protection schemes or uncover security loopholes; and</li>
