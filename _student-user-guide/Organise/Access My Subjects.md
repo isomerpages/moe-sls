@@ -16,7 +16,7 @@ third_nav_title: Organise
 	<li>The page will contain both your Assigned Subjects and Followed Subjects.<br><br>
 		<img alt="Assigned and Followed Subjects page" src="O-MySubjects1.png"></li>
 	<li>You can access the Learning Progress <a href="#">(hyperlink about LP page)</a> or Search for Resources <a href="#">(hyperlink Search for resources page)</a> directly from the Subject Card.</li>
-	<li>To access the Learning Progress, click the <strong>Learning Progress</strong> icon <img alt="Learning Progress icon" src="insert icon"> found on the top right of each Subject Card.</li>
+	<li>To access the Learning Progress, click the <strong>Learning Progress</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/LearningProgress.svg"> found on the top right of each Subject Card.</li>
 	<li>The Learning Progress icon will be disabled on a Followed Subject Card if you do not have a Class Group tagged to that Subject and Level.</li>
 	<li>To search for resources related to a particular Subject, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and click <strong>Search for Resources</strong>.</li>
 </ol>
