@@ -11,7 +11,7 @@ third_nav_title: Author
 <li>You will be directed to an untitled Introduction page in a new Lesson.</li>
 <li>You can choose to set the Introduction page as Viewable or not by adjusting the Viewable toggle icon. However, once you have added at least two <strong>Activities/Quizzes</strong> or a <strong>Section Cover</strong>, the Introduction page will be automatically viewable.</li>
 <li><p>You can edit the Lesson Title, add a Featured Image and Lesson Description.</p>
-<p> Note: </p>
+	<p><u>Note</u>: </p>
 <ul>
 <li><strong>Featured Image</strong> (optional) - The thumbnail of a Lesson is visible on the cover page. If this Lesson is submitted and featured in the MOE Library or Community Gallery, it will also be visible in the MOE Library or Community Gallery listing.<ul>
 <li>The recommended size is 640px x 454 px (i.e. 3:2 ratio). If the image exceeds the dimensions, it will be cropped or fitted to the dimensions.</li>
