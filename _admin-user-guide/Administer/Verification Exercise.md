@@ -22,13 +22,13 @@ third_nav_title: Administer
 <h2 id="marking-accounts-roles-for-removal">Marking accounts/roles for removal</h2>
 <hr>
 <ol>
-<li>Open the left menu and click <strong><strong><strong><strong>**</strong></strong></strong></strong>Admin<strong><strong><strong><strong>**</strong></strong></strong></strong>i<strong><strong><strong><strong>**</strong></strong></strong></strong>stration<strong><strong><strong><strong>**</strong></strong></strong></strong> followed by <strong>Verify User</strong>.</li>
+<li>Open the left menu and click<strong> Administration</strong> followed by <strong>Verify User</strong>.</li>
 <li>Check your email to retrieve the verification code. Enter it into the prompt and click <strong>Proceed</strong>.</li>
 <li>In the Verify Users page, you may search for a specific user in the verification list by name or SLS ID.</li>
 <li>Select the checkboxes on the left of the names whose account/role you wish to remove. If there are no account/role to remove, you may proceed to completing the verification.</li>
 <li><p>Click <strong>Mark For Removal</strong> in the table header. </p>
 <p> <img alt="mark-for-removal-teacher-student.PNG" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4bc8dc62-de4f-4593-99d7-be5ec62af881/mark-for-removal-teacher-student.png"></p>
-<p> Note: </p>
+	<p><u>Note</u>: </p>
 <ul>
 <li>Role(s) marked for removal will be removed when the verification exercise ends. This will not remove the SLS account.</li>
 <li>For mainstream schools that have access to MIMS, please ensure that the MIMS accounts of staff who have left the school are disabled in order to deactivate their SLS accounts.</li>
@@ -51,7 +51,7 @@ third_nav_title: Administer
 <p> <img alt="complete-verification.PNG" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fde4c7cf-c16f-46dd-ab63-73abc8376263/complete-verification.png"></p>
 </li>
 <li><p>Click <strong>OK</strong> on the confirmation prompt.</p>
-<p> Note: </p>
+	<p><u>Note</u>: </p>
 <ul>
 <li>No further changes can be made after clicking Complete Verification.</li>
 <li>The verification will be considered incomplete and none of the account(s)/role(s) will be removed if you did not click Complete Verification <em>**</em>before the end of the exercise.</li>
