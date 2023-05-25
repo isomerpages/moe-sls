@@ -12,4 +12,4 @@ third_nav_title: Assess
 <li>You can filter across the different categories of emoticons or search using the search bar to find the emoticon that you need.</li>
 <li>Click the emoticon to add it to your text.</li>
 </ol>
-<p>Note: Some emoticons (e.g. flags) may not render on all devices.</p>
+<p><u>Note</u>: Some emoticons (e.g. flags) may not render on all devices.</p>
