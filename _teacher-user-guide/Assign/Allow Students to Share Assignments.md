@@ -15,7 +15,7 @@ third_nav_title: Assign
 </ul>
 </li>
 <li><p>From the Assignments page, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Assignment Card, followed by <strong>Manage</strong>.</p>
-<p> Note: Sharing Permissions cannot be revoked once set. It is recommended that teachers turn Sharing Permissions on only after all students have attempted all questions in the assignment.</p>
+	<p><u>Note</u>: Sharing Permissions cannot be revoked once set. It is recommended that teachers turn Sharing Permissions on only after all students have attempted all questions in the assignment.</p>
 </li>
 <li><p>On the Assignment Settings subpage, select the <strong>Others</strong> tab.</p>
 <ul>
@@ -43,12 +43,13 @@ third_nav_title: Assign
 <li><p>View teacher's Annotation made to a student's copy of the Assignment.</p>
 </li>
 <li><p>View each other's answers and scores to questions, and any Teacher Feedback.</p>
-<p>Note: </p>
+	<p><u>Note</u>: </p>
 </li>
 <li><p>Teachers are able to delete comments.</p>
 </li>
 <li>Students will not be able to complete the Assignment on behalf of the student who shared the Assignment.</li>
 </ul>
 </li>
+	<ol>
 <li>To understand how students are able to share their Assignment/Assessment, refer to <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/RequestShare.html">Request to Share Assignment</a>.</li>
-</ul>
+</ol></ul>
