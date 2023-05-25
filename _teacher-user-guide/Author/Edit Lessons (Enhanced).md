@@ -20,4 +20,4 @@ third_nav_title: Author
 </li>
 <li>Make the necessary changes to your Lesson. Click the <strong>Done</strong> icon [insert icon] found at the top right of the header to save your changes.</li>
 </ol>
-<p>Note: If the Lesson was shared with you as view-only, you will have to make a copy of the Lesson before you can make changes.</p>
+<p><u>Note</u>: If the Lesson was shared with you as view-only, you will have to make a copy of the Lesson before you can make changes.</p>
