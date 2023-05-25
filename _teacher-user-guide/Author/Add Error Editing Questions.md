@@ -37,7 +37,7 @@ third_nav_title: Author
 <li>Click <strong>Add Line</strong> to add subsequent lines for editing. To reorder lines, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) to <strong>Move Up/Move Down/Delete</strong>.</li>
 <li>Click outside the Component to <strong>Save</strong>.</li>
 </ol>
-<h2 id="edit-error-editing-question-details-">Edit <strong>Error-Editing Question Details</strong></h2>
+<h2 id="edit-error-editing-question-details-">Edit Error-Editing Question Details</h2>
 <hr>
 <p>Fill in the optional details of the Fill-in-the-Blanks question:</p>
 <ul>
@@ -46,7 +46,7 @@ third_nav_title: Author
 <li>Overall Feedback (optional) - Enter specific feedback for this question here. Students will be able to view this after their attempt or submission.</li>
 <li>Number of tries - This allows the number of tries. The default is one try.</li>
 <li><p>Marks Per Line - You can set the number of marks per line. The default is one mark per line.</p>
-<p>  Note: Question Body, Hint, Option tex, and Feedback fields support Rich Text-enabled components.</p>
+	<p><u>Note</u>: Question Body, Hint, Option tex, and Feedback fields support Rich Text-enabled components.</p>
 </li>
 <li><p>Click here for editing the Question Component Details Card.</p>
 </li>
