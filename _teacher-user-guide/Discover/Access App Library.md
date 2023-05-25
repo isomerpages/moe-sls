@@ -22,14 +22,14 @@ third_nav_title: Discover
       <li>
         The list of Apps that can be launched within SLS will be displayed. You can
         view the Apps either as Cards 
-				<img style="width:10%; display: inline;" src="/images/Icons/Card.png"> or in
-        List <img style="width:10%; display: inline;" src="/images/Icons/List.svg"> view by clicking
+				<img style="width:1rem; display: inline;" src="/images/Icons/Card.png"> or in
+        List <img style="width:1rem; display: inline;" src="/images/Icons/List.svg"> view by clicking
         <strong>View by</strong>.
       </li>
-      <li>Click the <strong>View Details</strong> icon <img alt="view details icon" src="ViewDetails.svg"> to find out more about a particular App.</li>
+      <li>Click the <strong>View Details</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/ViewDetails.svg"> to find out more about a particular App.</li>
       <li>
         To launch an App, click the App Card. Alternatively, click the <strong>Expand</strong> icon
-        <img style="width:10%; display: inline;" src="/images/Icons/external-link.svg"> from the App Details Card. You
+        <img style="width:1rem; display: inline;" src="/images/Icons/external-link.svg"> from the App Details Card. You
         will be redirected to the App on a new tab.
       </li>
     </ol>
@@ -38,7 +38,7 @@ third_nav_title: Discover
     <ol>
       <li>
         From the Search in App Library page, click the <strong>View Details</strong>
-        icon on the App Card to open the App Details Card.
+        icon <img style="width:1rem; display: inline;" src="/images/Icons/ViewDetails.svg"> on the App Card to open the App Details Card.
       </li>
       <li>Click the <strong>Star</strong> icon to star an App. Starred Apps can be found in <a href="/teacher-user-guide/organise/star-resources/">your Starred Resources </a>.</li>
     </ol>
@@ -55,12 +55,12 @@ third_nav_title: Discover
         <p><u>Note</u>: Click <strong>Guided Search</strong> to search for specific words/phrases.</p>
       </li>
       <li>
-        Click the <strong>View Details</strong> icon to find out more about a particular
+        Click the <strong>View Details</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/ViewDetails.svg"> to find out more about a particular
         App.
       </li>
       <li>
         To launch an App, click the App Card. Alternatively, click the <strong>Expand</strong>
-        icon from the App Details Card. You will be redirected to the App on a new tab.
+        icon <img style="width:1rem; display: inline;" src="/images/Icons/external-link.svg"> from the App Details Card. You will be redirected to the App on a new tab.
 				<p><u>Note</u>: You will need to enable pop-up in order for the App to launch.</p>
       </li>
     </ol>
