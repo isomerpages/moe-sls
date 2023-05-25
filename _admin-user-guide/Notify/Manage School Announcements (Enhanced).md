@@ -17,17 +17,14 @@ third_nav_title: Notify
 <li>All: to make Announcements to all students and teachers</li>
 <li>All Teachers: to make Announcements to all teachers only</li>
 <li>All Students: to make Announcements to all students only</li>
-<li><p>Form Classes (Year): to make Announcements to students in specific form classes</p>
-<p><u>Note<u> </u></u></p><u><u>:
-</u></u></li><u><u>
-<li><p>When making Announcements to all students, you may also add teachers individually by clicking <strong>Add Individual Teachers</strong>.</p>
+<li><p>Form Classes (Year): to make Announcements to students in specific form classes</p></li>
+<p><u>Note</u>:
+</p><li><p>When making Announcements to all students, you may also add teachers individually by clicking <strong>Add Individual Teachers</strong>.</p>
 </li>
 <li>When making Announcements to Form Classes (Year), you may select the Form Class(es) from the dropdown list and add individual teachers.</li>
-</u></u></ul><u><u>
-</u></u></li><u><u>
 <li>Enter the Announcement Title and Message and select the Start Date and Start Time.</li>
 <li>Click <strong>Create</strong> and your Announcement will be made.</li>
-</u></u></ol><u><u>
+</ul></li></ol>
 <h2 id="-edit-school-wide-announcements-"><strong>Edit School-Wide Announcements</strong></h2>
 <hr>
 <ol>
@@ -48,4 +45,4 @@ third_nav_title: Notify
 <li>On the Notifications page, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Announcement Card followed by <strong>Delete</strong>. Alternatively, click the Announcement Card, followed by the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Delete</strong>. [N-DeleteAnnouncement.png]</li>
 <li>You can also delete the Announcement while editing it. To do so, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Edit Announcement subpage, followed by <strong>Delete</strong>.</li>
 <li>In the confirmation prompt, click <strong>OK</strong>.</li>
-</ol></u></u>
+</ol>
