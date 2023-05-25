@@ -19,7 +19,7 @@ third_nav_title: Notify
   <li>On the Notifications page, you can sort your Notifications according to <strong>All</strong>, <strong>Unread</strong> and <strong>Flagged</strong> by clicking the respective tabs.</li>
   <li>From the Notifications page, you can further filter your listing from the <strong>Viewing</strong> and <strong>Type</strong> dropdown list. Alternatively, click <strong>Filter</strong> to open the Filters subpage.</li>
   <li>Under <strong>Viewing</strong>, select from
-    <ol>
+    <ol style="list-style-type: lower-alpha;">
       <li><strong>All</strong></li>
       <li><strong>General</strong></li>
       <li><strong>Pinned Class Groups</strong></li>
@@ -27,7 +27,7 @@ third_nav_title: Notify
     </ol>
   </li>
   <li>Under <strong>Type</strong>, select from:
-    <ol>
+   <ol style="list-style-type: lower-alpha;">
       <li><strong>All</strong></li>
       <li><strong>Announcements</strong> - Class Group and System Announcements</li>
       <li><strong>Others</strong> - Forum, Assignment, Resource</li>
