@@ -28,7 +28,7 @@ third_nav_title: Differentiate
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f395ae3f-3bf3-4918-b090-e5aea9be8ea8/Untitled.png"></p>
 </li>
 <li><p>A confirmation prompt will appear to confirm your action.</p>
-<p> Note: Action cannot be undone.</p>
+	<p><u>Note</u>: Action cannot be undone.</p>
 </li>
 <li><p>Click <strong>OK</strong> to confirm.</p>
 </li>
