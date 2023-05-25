@@ -37,7 +37,7 @@ third_nav_title: Administer
 <p><u>Note</u>: SLS School Admins are not involved in the activation of teacher accounts.</p>
 </li>
 <li><p>Teachers will be able to activate their SLS accounts by clicking on the link found in the activation email. 
-Note: Teachers will only be able to log in with MIMS after they have activated their SLS account through the link provided in the email.</p>
+<u>Note</u>: Teachers will only be able to log in with MIMS after they have activated their SLS account through the link provided in the email.</p>
 </li>
 <li>SLS School Admins can identify teacher accounts that have not been activated through the Manage Users [hyperlink About Manage Users] page. On the Manage Users page, click <strong>Filter</strong> and applying the following filters from the respective dropdown list: <ul>
 <li><strong>Role</strong> - Teacher</li>
