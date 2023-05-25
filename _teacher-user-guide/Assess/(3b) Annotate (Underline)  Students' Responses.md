@@ -14,7 +14,7 @@ third_nav_title: Assess
 <h2 id="-annotations-underline-in-student-s-view-"><strong>Annotations (Underline) in Student's View</strong></h2>
 <hr>
 <ol>
-<li>Enter the Monitor Assignment Page by clicking <strong>Monitor</strong> icon [Monitor.svg] on an Assignment Card.</li>
+<li>Enter the Monitor Assignment Page by clicking <strong>Monitor</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Monitor.svg"> on an Assignment Card.</li>
 <li>Click a student’s name to navigate within the student's Assignment to begin marking. </li>
 <li>Alternatively, click the Question number in the Heatmap to View All Responses. You can also click on a student’s name to navigate to the particular Activity for the entire Class Group, starting with the student you clicked.</li>
 <li><p>Use your cursor to highlight any texts and select the colour. It is also possible to create multiple overlapping underlines.</p>
@@ -29,7 +29,7 @@ third_nav_title: Assess
 <li>You can include Keyword Tags to improve the search results.</li>
 <li>Select the checkbox beside <strong>Notify student(s)</strong> if you wish to notify you students about the Annotation you have made.</li>
 <li>Once you are done, click <strong>Save</strong>.</li>
-<li>Annotation Notes will be visible in the Annotation Drawer. Click the <strong>Notepad</strong> icon [insert Note.svg] to Expand/Hide the drawer.</li>
+<li>Annotation Notes will be visible in the Annotation Drawer. Click the <strong>Notepad</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Note.svg"> to Expand/Hide the drawer.</li>
 <li>Both teachers and students can leave Comments on your Annotations.</li>
 </ol>
 <h2 id="-video-tutorial-can-keep-"><strong>Video Tutorial (can keep)</strong></h2>
