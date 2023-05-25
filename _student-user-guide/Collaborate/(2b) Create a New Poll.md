@@ -15,7 +15,7 @@ third_nav_title: Collaborate
 <li><strong>Question body</strong> - This can be in the form of text, mathematical/chemical equations, emojis, images, drawings, and file attachments.</li>
 <li><strong>Poll Type</strong> - You can choose select from either <strong>Multiple-Choice</strong> or <strong>Slider</strong>. If you have selected a Multiple-Choice Poll, fill up the options. You can create up to 26 options. If you have selected a Slider Poll, you can create up to 7 options.</li>
 <li><p><strong>Keyword Tags</strong> - Use some relevant descriptions to help others find your poll. After typing each tag, press "Enter" on your keyboard.</p>
-<p>Note: If you select the <strong>Hide poll results from voters</strong> checkbox, only you will be able to see the results of your poll.</p>
+	<p><u>Note</u>: If you select the <strong>Hide poll results from voters</strong> checkbox, only you will be able to see the results of your poll.</p>
 </li>
 </ol>
 </li>
