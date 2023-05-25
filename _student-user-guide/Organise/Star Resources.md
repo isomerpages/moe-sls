@@ -5,10 +5,10 @@ description: ""
 third_nav_title: Organise
 ---
 <h1>Star Resources</h1>
-	<p>Starred Resources allow you to star up to 300 resources. You may star Lessons and Apps found in the MOE Library or My Drive that you want to view or review at a later time.</p>
-	<p>Starred Resources can be found in the left menu, under <strong>Resources</strong>.</p>
-	<h2>Starring from Search Results</h2>
-	<hr>
+<p>Starred Resources allow you to star up to 300 resources. You may star Lessons and Apps found in the MOE Library or My Drive that you want to view or review at a later time.</p>
+<p>Starred Resources can be found in the left menu, under <strong>Resources</strong>.</p>
+<h2>Starring from Search Results</h2>
+<hr>
 <p>You can star a Lesson and an App by clicking the <strong>View Details</strong> icon<img style="width:1rem; display: inline;" src="/images/Icons/ViewDetails.svg"> found on the top right of the Resource Card, followed by the <strong>Star</strong> icon found at the top of the subpage.</p>
 <img alt="Starring from Search Results" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c3166b88-e8ea-4600-ba4d-a9f9a0b39220/22aprstarringfromsearch.png">
 
