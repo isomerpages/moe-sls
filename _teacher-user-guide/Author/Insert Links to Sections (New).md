@@ -15,7 +15,7 @@ third_nav_title: Author
 <li>Click <strong>Save</strong> when done.</li>
 <li><p>The linked text will be displayed in blue.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24ee8219-02bf-4bdc-a84d-2dffad586bc4/Untitled.png"></p>
-<p> Note:</p>
+	<p><u>Note</u>:</p>
 <ul>
 <li>The link will be automatically updated if you move the linked Section/Activity to another page.</li>
 <li>The links will not break when the Lesson is Duplicated or Assigned.</li>
