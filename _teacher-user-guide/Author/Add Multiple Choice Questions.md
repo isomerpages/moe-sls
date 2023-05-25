@@ -18,12 +18,12 @@ third_nav_title: Author
 <ul>
 <li>Single-Response: Only one correct answer.</li>
 <li><p>Multi-Response (MRQ): More than one correct answer.</p>
-<p>  Note: Students must choose ALL the correct answers to be awarded marks.</p>
+	<p><u>Note</u>: Students must choose ALL the correct answers to be awarded marks.</p>
 </li>
 <li><p>Slider: Only one correct answer. <strong>(NEW)</strong></p>
 </li>
 <li><p>No correct answer: you can turn on/off this option in the question setting. <strong>(NEW)</strong></p>
-<p>  Note: Students will not be awarded any marks for this question.</p>
+	<p><u>Note</u>: Students will not be awarded any marks for this question.</p>
 <p>  <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b408006a-b5e0-48d4-a84b-8a43bf10b78d/Untitled.png"></p>
 </li>
 </ul>
@@ -49,7 +49,7 @@ third_nav_title: Author
 </li>
 <li>Number of tries - This allows the number of tries to be set. The default is one try.</li>
 <li><p>Marks - You can set marks for the question. The default is one mark.</p>
-<p>  Note: Question Body, Hint, Option tex, and Feedback fields support Rich Text-enabled components.</p>
+	<p><u>Note</u>: Question Body, Hint, Option tex, and Feedback fields support Rich Text-enabled components.</p>
 </li>
 <li><p>Click here for editing the Question Component Details Card.</p>
 </li>
