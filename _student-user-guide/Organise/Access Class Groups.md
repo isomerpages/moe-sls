@@ -15,7 +15,7 @@ third_nav_title: Organise
     <li>To access past Class Groups, click <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/ClassGroups/AccessPastClassGroups.html"><strong>Access Past Class Groups</strong></a>.</li>
 </ol>
 
-<p>Note: You can view your Class Notifications from here. To find out more, click <a href="[hyperlink class group notifications page]">here</a>.</p>
+<p><u>Note</u>: You can view your Class Notifications from here. To find out more, click <a href="[hyperlink class group notifications page]">here</a>.</p>
 
 <h3>Pin Class Groups</h3>
 <hr>
