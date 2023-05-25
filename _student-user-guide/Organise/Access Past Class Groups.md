@@ -20,4 +20,4 @@ third_nav_title: Organise
     <li>Click the <strong>Class Group</strong> <strong>Card</strong> to access it.</li>
     <li>You will be able to access past Assignments, Resources, Forum and Apss in your Past Class Groups.</li>
   </ol>
-  <p><strong>Note:</strong> Past Class Groups cannot be pinned.</p>
+  <p><u>Note</u>: Past Class Groups cannot be pinned.</p>
