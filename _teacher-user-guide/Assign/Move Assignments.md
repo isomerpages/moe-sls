@@ -15,9 +15,10 @@ third_nav_title: Assign
 <li>From within an Assignment - Open the right menu and select <strong>Move</strong>. The Move Assignment subpage will appear.</li>
 </ol>
 <p><img alt="Screenshot 2023-03-17 at 5.13.19 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f3b8d9ef-fa9d-4ba8-9802-644f53f3332b/Screenshot_2023-03-17_at_5.13.19_PM.png"></p>
-<h2 id="move-assignment-subpage-">Move Assignment <strong>Subpage</strong></h2>
+<h2 id="move-assignment-subpage-">Move Assignment Subpage</h2>
 <hr>
 <ol>
 <li>On this subpage, click on a Class Group to move the Assignment to, then click <strong>Move</strong> to confirm<strong>.</strong> </li>
 <li>The Assignment will be moved from the previously assigned Class Group to the newly assigned Class Group.</li>
 </ol>
+insert AS-MoveAssignment2.png
