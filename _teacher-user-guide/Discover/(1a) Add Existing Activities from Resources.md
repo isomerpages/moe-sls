@@ -21,7 +21,7 @@ third_nav_title: Discover
   <br>
   <li>You may search for Lessons <a href="/teacher-user-guide/discover/search-for-resources/">across MOE Library, Community Gallery and My Drive</a>. You can also apply Search Filter to narrow down your search.</li>
   <br>
-  <p>Note: You are unable to search for Starred Resources.</p>
+	<p><u>Note</u>: You are unable to search for Starred Resources.</p>
   <br>
   <li>Click the <strong>Lesson Card</strong> or <strong>View Details</strong> icon to view the Lesson Details.</li>
   <br>
@@ -64,7 +64,7 @@ third_nav_title: Discover
 			
 <a target="_blank" href="/images/2Teacher/D-AddNew5.png"><img alt="D-AddNew5" src="/images/2Teacher/D-AddNew5.png"></a></li>
     <li>You may search for Lessons <a href="teacher/discover/SearchForResources.html">across MOE Library, Community Gallery and My Drive</a>. You can also apply Search Filter to narrow down your search.
-        <br>Note: You are unable to search for Starred Resources.
+			<br><u>Note</u>: You are unable to search for Starred Resources.
     </li>
     <li>Click the <strong>Lesson Card</strong> or <strong>View Details</strong> icon to view the Lesson Details.
         <br>
