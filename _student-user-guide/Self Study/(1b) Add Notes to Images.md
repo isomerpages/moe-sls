@@ -17,7 +17,7 @@ third_nav_title: Self Study
 <li>Annotation Notes will be visible in the <strong>Annotation Drawer</strong>. By default, the Annotation Drawer will be opened. Clicking on the <strong>Annotation cards</strong> will bring you to the respective Annotations on the page.</li>
 <li>To control the <strong>Annotation Drawer</strong>, click the <strong>Notepad</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Note.svg"> and choose <strong>Hide Drawer</strong> or <strong>Expand Drawer</strong>.</li>
 <li><p>If Comment On is selected, you can add comments [hyperlink add comments] to that particular Annotation card. </p>
-<p> Note: If you have shared your Assignment with a peer, he/she will be able to leave comments too.</p>
+	<p> <u>Note</u>: If you have shared your Assignment with a peer, he/she will be able to leave comments too.</p>
 </li>
 </ol>
 <h2 id="-edit-and-delete-note-"><strong>Edit and Delete Note</strong></h2>
