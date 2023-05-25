@@ -39,7 +39,7 @@ third_nav_title: Assess
 <li>Click here to find out about how to Add/Edit Components.</li>
 <li>Click here to find out about editing the Quiz Detail Card.</li>
 </ol>
-<h2 id="edit-delete-and-reorder-pages-in-a-quiz-">Edit, <strong>Delete and Reorder pages in a Quiz</strong></h2>
+<h2 id="edit-delete-and-reorder-pages-in-a-quiz-">Edit, Delete and Reorder pages in a Quiz</h2>
 <hr>
 <ol>
 <li>Click the Quiz or the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg"> to edit.</li>
@@ -52,7 +52,7 @@ third_nav_title: Assess
 <li>Click the Quiz or the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg"> to edit.</li>
 <li>Click the Up/Down Arrows to move your Components Up/Down within a page.</li>
 <li><p>Open the <strong>Overflow</strong> (<strong>3-dot</strong> icon) beside the Component to Move it to the Previous/Next Page or Delete.</p>
-<p> Note: </p>
+	<p> <u>Note</u>: </p>
 <ul>
 <li>When you move a Component to the Next Page, it will appear on the top of that page.</li>
 <li>When you move a Component to the Previous Page, it will appear at the bottom of that page.</li>
