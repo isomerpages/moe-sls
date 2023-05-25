@@ -9,8 +9,8 @@ third_nav_title: Collaborate
 <hr>
 <p>From R19, teachers can create Topics in Class Group Forum to better categorise forum posts. </p>
 <ol>
-<li>From a Class Group, click the <strong><strong>**</strong></strong>Forum<strong><strong>**</strong></strong> tab.</li>
-<li>Click <strong><strong><strong><strong><strong><strong><strong><em>**</em></strong></strong></strong></strong></strong></strong></strong>Create New Topic<strong><strong><strong><strong><strong><strong><strong><em>**</em></strong></strong></strong></strong></strong></strong></strong> and enter the following fields:<ul>
+<li>From a Class Group, click the <strong>Forum</strong> tab.</li>
+<li>Click <strong>Create New Topic</strong> and enter the following fields:<ul>
 <li>Header</li>
 <li>Featured Image (optional)</li>
 <li>Body</li>
@@ -20,9 +20,9 @@ third_nav_title: Collaborate
 <li><p>You may also choose to notify the class group about the Topic, and grant Observers and students the permission to create posts for the Topic by selecting the appropriate checkboxes.</p>
 <p> [insert C-TopicCard.png] </p>
 </li>
-<li><p>Click <strong><strong><em>**</em></strong></strong>Create<strong><strong><em>**</em></strong></strong> to proceed.</p>
+<li><p>Click <strong>Create</strong> to proceed.</p>
 </li>
-<li>To view all the topics, click <strong><strong><strong><strong><strong>**</strong></strong></strong></strong></strong>View All ()<strong><strong><strong><strong><strong>**</strong></strong></strong></strong></strong>. The number in parenthesis shows you the total number of topics you have created for a particular class group.</li>
+<li>To view all the topics, click <strong>View All ()</strong>. The number in parenthesis shows you the total number of topics you have created for a particular class group.</li>
 </ol>
 <h2 id="edit-or-delete-a-topic-from-class-group-forum">Edit or Delete a Topic from Class Group Forum</h2>
 <hr>
