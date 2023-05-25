@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="mark-assignments-as-complete-and-incomplete">Mark Assignments as Complete and Incomplete</h1>
-<p>Important:</p>
+<p><u>Important</u>:</p>
 <ul>
 <li>Assignments marked as "Complete" will appear in your student's Assignment page under the "Complete" tab. Students will no longer be able to attempt these Assignments.</li>
 <li>Assignments marked as “Incomplete” will appear in your student’s Assignment page under the “In Progress” tab. Students will be able to reattempt these Assignments.</li>
@@ -24,7 +24,7 @@ third_nav_title: Assess
 <li><p>You may <strong>Notify student(s)</strong> that their Assignment will be marked as “Incomplete”/”Complete” and include a custom message.</p>
 </li>
 <li><p>Click <strong>OK</strong> to proceed.</p>
-<p> Note:</p>
+	<p> <u>Note</u>:</p>
 <ul>
 <li>You will not be able to undo this action.</li>
 <li>You are not able to mark an individual Activity as Complete.</li>
@@ -43,7 +43,7 @@ third_nav_title: Assess
 <li><p>You may <strong>Notify student(s)</strong> that their Assignment will be marked as “Incomplete” and include a custom message.</p>
 </li>
 <li><p>Click <strong>OK</strong> to proceed.</p>
-<p> Note:</p>
+	<p><u>Note</u>:</p>
 <ul>
 <li>You will not be able to undo this action.</li>
 <li>You are not able to mark an individual Activity as "Complete".</li>
