@@ -14,9 +14,7 @@ third_nav_title: Author
 <hr>
 <ol>
 <li>In the Lesson Editor page, click on the Settings icon [icon image] to access Lesson Details. </li>
-</ol>
 <p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da405df5-8563-492a-9abc-690481db932d/Untitled.png"></p>
-<ol>
 <li>Click the dropdown under <strong>Language Localisation</strong> and <strong>E-Dictionary</strong>, and select the relevant option. </li>
 <li>If there are no further changes, click on the <strong>Save</strong> icon [icon image].</li>
 </ol>
