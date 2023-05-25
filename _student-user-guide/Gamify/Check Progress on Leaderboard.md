@@ -14,6 +14,6 @@ third_nav_title: Gamify
 </li>
 <li><p>If your teacher has enabled Team Game, from the Team tab, you will be able to view the cumulative XP, current Level and Achievements on the individual Team’s Card. Your Team’s Card is indicated with a yellow arrow.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c43155d9-56f6-45ba-9780-8e9f504421e7/Untitled.png"></p>
-<p> Note: You will only be able to view the Leaderboard if your teacher has enabled it.</p>
+	<p> <u>Note</u>: You will only be able to view the Leaderboard if your teacher has enabled it.</p>
 </li>
 </ol>
