@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assign
 ---
 <h1 id="schedule-assignments">Schedule Assignments</h1>
-<h2 id="-schedule-a-new-assignment-for-a-class-group-multiple-class-groups-"><strong>Schedule a New Assignment for a Class Group/Multiple Class Groups</strong></h2>
+<h2 id="-schedule-a-new-assignment-for-a-class-group-multiple-class-groups-">Schedule a New Assignment for a Class Group/Multiple Class Groups</h2>
 <hr>
 <ol>
 <li>From the Assignment Summary page, click the <strong>Pencil</strong> icon [insert icon] on the Card to open the Assignment Settings subpage. </li>
@@ -19,7 +19,7 @@ third_nav_title: Assign
 <li>Click <strong>Save</strong> icon followed by <strong>X</strong> to close the subpage.</li>
 <li>Click <strong>Assign</strong> to assign the Lesson as Assignment.</li>
 </ol>
-<h2 id="edit-schedule-of-an-existing-assignment-">Edit <strong>Schedule of an Existing Assignment</strong></h2>
+<h2 id="edit-schedule-of-an-existing-assignment-">Edit Schedule of an Existing Assignment</h2>
 <hr>
 <ol>
 <li><p>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on an Assignment Card and click <strong>Manage</strong>. Alternatively, enter the Assignment, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) to open the right menu and select <strong>Manage Assignment Settings</strong>.</p>
