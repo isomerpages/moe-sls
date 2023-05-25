@@ -10,14 +10,14 @@ third_nav_title: Customise
 <ol>
 <li>Open the right menu and click <strong>Edit Profile</strong>. </li>
 <li>On the Profile page, select <strong>Security Questions</strong> under Account Settings.</li>
-</ol>
+
 <p><img alt="suatsq.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e7619cd-bba7-4d21-b142-0f263b6d57ea/suatsq.png"></p>
-<ol>
+
 <li><p>Enter your new answers to the security questions in the respective fields.
- Note:
- ◦ You must answer all the questions. 
- ◦ You must not use the same answer for different questions.</p>
-<p> ◦ You should not use answers that can be guessed easily and should not share the answers with others.</p>
+	<br><u>Note</u>: <br>
+ <br>◦ You must answer all the questions. <br>
+ ◦ You must not use the same answer for different questions.<br>
+<br> ◦ You should not use answers that can be guessed easily and should not share the answers with others.<br></p>
 </li>
 <li><p>Click <strong>Save</strong>.</p>
 </li>
