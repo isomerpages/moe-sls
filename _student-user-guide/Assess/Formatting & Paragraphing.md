@@ -9,14 +9,14 @@ third_nav_title: Assess
 <hr>
 <ol>
 <li><p>In the Rich Text Editor, by clicking the respective icons, you are able to:</p>
-<ol>
+<ol style="list-style-type: lower-alpha;">
 <li>Bold <img style="width:1rem; display: inline;" src="/images/Icons/Bold.svg">  </li>
 <li>Italicise <img style="width:1rem; display: inline;" src="/images/Icons/Italise.svg"> </li>
 <li>Change font colour <img style="width:1rem; display: inline;" src="/images/Icons/FontColour.svg"> </li>
 <li>Highlight text <img style="width:1rem; display: inline;" src="/images/Icons/Highlight.svg"></li>
 <li>Create Numbered list <img style="width:1rem; display: inline;" src="/images/Icons/Numbering.svg"></li>
 <li><p>Create Bullet list <img style="width:1rem; display: inline;" src="/images/Icons/Bullet.svg"> </p>
-<p>Note: To underline a text, use the keyboard shortcut (Windows: control + U, MacOS: command + U)</p>
+	<p><u>Note</u>: To underline a text, use the keyboard shortcut (Windows: control + U, MacOS: command + U)</p>
 </li>
 </ol>
 </li>
@@ -31,6 +31,6 @@ third_nav_title: Assess
 <li>To adjust the text alignment, click <img style="width:1rem; display: inline;" src="/images/Icons/TextAlign.svg"> and select an alignment type.</li>
 <li>Click the <strong>dropdown arrow</strong> beside “English” to change the font type.</li>
 <li><p>To change the paragraphing style, click the <strong>dropdown arrow</strong> beside “Paragraph”.</p>
-<p> Note: To ‘adjust’ the font size, you can select a different paragraphing style (i.e. heading style).</p>
+	<p> <u>Note</u>: To ‘adjust’ the font size, you can select a different paragraphing style (i.e. heading style).</p>
 </li>
 </ol>
