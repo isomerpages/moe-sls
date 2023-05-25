@@ -5,6 +5,8 @@ description: ""
 third_nav_title: Administer
 ---
 <h1 id="unlock-account">Unlock Account</h1>
+<hr>
+
 <p> <u>Important</u>: SLS School Admins can help teachers and students to unlock their SLS accounts if their accounts are locked after repeated unsuccessful login attempts. For MIMS accounts that are locked, please seek assistance from the MIMS Admin instead.</p>
 <ol>
 <li>Open the left menu and click <strong>Administration</strong>, followed by <strong>Manage Users</strong>.</li>
