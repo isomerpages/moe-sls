@@ -20,7 +20,78 @@ third_nav_title: Assess
 <li><p>Click <strong>Upload</strong> when done. </p>
 </li>
 <li>In the SLS, Media Objects are grouped into the following categories, each with its respective file size limits:</li>
-<p><a href="https://www.notion.so/c4883bd001684769b3e5302fd73e599e">Untitled</a></p>
+
+  <table><thead>
+<tr><th><strong>Type of File</strong></th>
+<th><strong>File Extensions</strong></th>
+<th><strong>Individual File Size Limit</strong></th>
+<th><strong>Mass File Size Limit</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Documents</strong></td>
+<td>docx/xlsx/pptx/pdf/odt/ods/odp/odg
+	/odf/key/pps/pages/numbers</td>
+                        <td>50 MB</td>
+                        <td>50 MB</td>
+											</tr>
+                      <tr>
+                        <td><strong>Images (Up to 5000 pixels)</strong></td>
+                        <td>jpg/jpeg/gif/png/svg</td>
+                        <td>10 MB</td>
+                        <td>10 MB</td>
+											</tr>
+                      <tr>
+                        <td><strong>Audio files</strong></td>
+                        <td>mp3/ogg/webm/mpa/wav/wma/m4a</td>
+                        <td>50 MB</td>
+                        <td>50 MB</td></tr>
+                      <tr>
+                        <td><strong>Video</strong></td>
+                        <td>mp4/m4v/ogv/avi/mov/mpg/mpeg/wmv</td>
+                        <td>500 MB</td>
+                        <td>500 MB</td>
+											</tr>
+                      <tr>
+                        <td><strong>HTML5 Packages</strong></td>
+                        <td>zip</td>
+                        <td>500 MB</td>
+                        <td>2 GB</td>
+											</tr>
+                      <tr>
+                        <td><strong>ZIP Packages</strong></td>
+                        <td>zip</td>
+                        <td>500 MB</td>
+                        <td>2 GB</td>
+											</tr>
+                      <tr>
+                        <td><strong>Augmented Reality</strong></td>
+                        <td>usdz</td>
+                        <td>500 MB</td>
+                        <td>500 MB</td>
+											</tr>
+                      <tr>
+                        <td><strong>Text </strong></td>
+                        <td>txt</td>
+                        <td>500 MB</td>
+                        <td>500 MB</td>
+                      </tr>
+                      <tr>
+                        <td><strong>Scratch </strong></td>
+                        <td>sb2/sb3</td>
+                        <td>500 MB</td>
+                        <td>500 MB</td>
+                                              </tr>
+                      <tr>
+                        <td><strong>Sketchup <!-- <font color="#FBBC04">NEW</font> --></strong></td>
+                        <td>skp</td>
+                        <td>500 MB</td>
+                        <td>500 MB</td>
+                                              </tr>
+                    </tbody>
+                  </table>	
+	
 <li><p>If the file is valid, it will be uploaded and scanned for viruses.</p>
 	<p> <u>Note</u>:</p>
 <ul>
