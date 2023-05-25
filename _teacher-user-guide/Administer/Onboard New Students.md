@@ -6,7 +6,7 @@ third_nav_title: Administer
 ---
 <h1 id="onboard-new-students">Onboard New Students</h1>
 <p>Whenever new students enter the Singapore school system (e.g. Primary 1 intake, midstream entry), a new student account will be created based on information from School Cockpit. This page describes the steps to take for a teacher to assist new students to access SLS.</p>
-<p>Note: Students previously from another school will already have an SLS account (e.g. Sec 1 students posted from primary schools). There is no need to onboard these students.</p>
+<p><u>Note</u>: Students previously from another school will already have an SLS account (e.g. Sec 1 students posted from primary schools). There is no need to onboard these students.</p>
 <h2 id="-select-new-student-"><strong>Select New Student</strong></h2>
 <hr>
 <ol>
@@ -20,7 +20,7 @@ third_nav_title: Administer
 </li>
 <li>Click <strong>OK</strong></li>
 <li><p>A verification code will be sent to your email address.</p>
-<p> Note: For security reasons, you will need to key in a verification code to verify your identity. The verification code is valid for 10 minutes. If the code has expired, you can request a new one by clicking <strong>Resend Verification Code</strong>.</p>
+	<p><u>Note</u>: For security reasons, you will need to key in a verification code to verify your identity. The verification code is valid for 10 minutes. If the code has expired, you can request a new one by clicking <strong>Resend Verification Code</strong>.</p>
 </li>
 <li><p>Key in the verification code.</p>
 </li>
@@ -31,12 +31,12 @@ third_nav_title: Administer
 <li>the randomly generated password which you will need to inform your student(s) and</li>
 <li>the expiry date and time of this randomly generated password.</li>
 </ul>
-<p>Note: This randomly generated password will last for a year and can only be used once by each student. Upon logging in with this password, students will be asked to set a new password.</p>
+	<p><u>Note</u>: This randomly generated password will last for a year and can only be used once by each student. Upon logging in with this password, students will be asked to set a new password.</p>
 </li>
 <li><p>Distribute the user IDs and the randomly generated password to the students or to the parents of the students to allow them to activate their accounts.</p>
 </li>
 </ol>
 <h2 id="secondary-schools-junior-colleges-and-centralised-institutes">Secondary Schools, Junior Colleges and Centralised Institutes</h2>
 <hr>
-<p>For students whose SLS account status is reflected as “Not Activated”, you will need to perform the steps above to onboard them to SLS first before they are able <del>to be able</del> to log in <del>to SLS</del> via MIMS.<del>,</del> In order to activate their accounts, students will need to enter the randomly generated password at the SLS login page and not the MIMS login page. 
+<p>For students whose SLS account status is reflected as “Not Activated”, you will need to perform the steps above to onboard them to SLS first before they are able  to log in  via MIMS. In order to activate their accounts, students will need to enter the randomly generated password at the SLS login page and not the MIMS login page. 
 </p>
