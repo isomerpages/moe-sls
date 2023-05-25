@@ -13,12 +13,13 @@ third_nav_title: Customise
 
 <p><img alt="suatsq.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e7619cd-bba7-4d21-b142-0f263b6d57ea/suatsq.png"></p>
 
-<li><p>Enter your new answers to the security questions in the respective fields.
-	<br><u>Note</u>: <br>
- <br>◦ You must answer all the questions. <br>
- ◦ You must not use the same answer for different questions.<br>
-<br> ◦ You should not use answers that can be guessed easily and should not share the answers with others.<br></p>
-</li>
+<li>Enter your new answers to the security questions in the respective fields.</li>
+<u>Note</u>:
+<ul>
+    <li>You must answer all the questions.</li>
+    <li>You must not use the same answer for different questions.</li>
+    <li>You should not use answers that can be guessed easily and should not share the answers with others.</li>
+</ul>
 <li><p>Click <strong>Save</strong>.</p>
 </li>
 </ol>
