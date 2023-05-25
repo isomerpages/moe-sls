@@ -10,7 +10,7 @@ third_nav_title: Organise
     <ol>
         <li>
             <p>In My Drive, you will see three tabs:</p>
-            <ol type="a">
+            <ol style="list-style-type: lower-alpha;">
                 <li><strong>My Lessons</strong> - where Lessons created or copied by you are stored and organised.</li>
                 <li><strong>My Templates</strong> - where you can find your personal Lesson Templates.</li>
                 <li><strong>Trash</strong> - where deleted Resources are listed.</li>
