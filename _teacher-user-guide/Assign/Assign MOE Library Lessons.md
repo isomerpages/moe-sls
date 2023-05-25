@@ -11,7 +11,8 @@ third_nav_title: Assign
 <li>You can access <strong>MOE Library</strong> by opening the left menu, under <strong>Resources</strong>.</li>
 <li>Click on the MOE Library <strong>Lesson</strong> <strong>Card</strong> that you would like to view.</li>
 <li>On the Lesson View page, click the <strong>Assign</strong> icon [insert icon] on the header.</li>
-<li>You may wish to rename the Assignment Title and edit the Permission Settings. Under Lesson Permissions:<ol>
+<li>You may wish to rename the Assignment Title and edit the Permission Settings. Under Lesson Permissions:
+<ol style="list-style-type: lower-alpha;">
 <li><strong>Allow teachers to copy/assign/publish and students to copy this Lesson/Course</strong></li>
 <li><strong>Allow teachers and students to view print-friendly worksheet</strong></li>
 <li><strong>Allow students to reattempt Lesson/Course as self-study</strong></li>
@@ -24,6 +25,7 @@ third_nav_title: Assign
 <ul>
 <li><p>Adding a Lesson as a Class Group Resource is only available for certain Resources with permission enabled. Resources that cannot be added will have the option greyed out.</p>
 </li>
+	<ol>
 <li><p>Click on the MOE Library <strong>Lesson</strong> <strong>Card</strong> that you would like to view.</p>
 </li>
 <li><p>Click <strong>Overflow (3 dots</strong> icon) on the header to open the right menu and click <strong>Add to Class Group Resources</strong>.</p>
@@ -32,15 +34,15 @@ third_nav_title: Assign
 <li><p>Select the Class Group(s), followed by <strong>Choose</strong>.</p>
 </li>
 <li><p>You may wish to rename the Resource Title, and edit the Permission Settings:</p>
-<ol>
-<li>Lesson or Course Permissions:<ol>
+<ol style="list-style-type: lower-alpha;">
+<li>Lesson or Course Permissions:<ol style="list-style-type: lower-roman;">
 <li><strong>Allow teachers to copy/assign/publish and students to copy this Lesson</strong></li>
 <li><strong>Allow teachers and students to view print-friendly worksheet</strong></li>
 <li><strong>Allow students to reattempt Lesson as self-study</strong></li>
 </ol>
 </li>
 <li><p>Visibility</p>
-<ol>
+<ol style="list-style-type: lower-roman;">
 <li><strong>Visible to students in Class Group</strong></li>
 <li><strong>Notify Student(s)</strong> - this checkbox will be active if Resource is set to be visible to students in Class Group.</li>
 </ol>
@@ -50,4 +52,4 @@ third_nav_title: Assign
 </li>
 <li><p>Click <strong>Create</strong> to add the Lesson as a Class Group Resource.</p>
 </li>
-</ul>
+</ol></ul>
