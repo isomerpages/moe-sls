@@ -50,7 +50,7 @@ third_nav_title: Publish
 <ol>
 <li>Click <strong>Add New</strong> and select <strong>Content Map</strong> or <strong>ALS Content Map</strong>. [insert screenshot P-ContentMap.png]</li>
 <li>Fill up the necessary fields and upload the CSV file.</li>
-<li>For CAs, click the <strong>Create and Publish</strong> icon (insert Upload24.svg) when done.</li>
+<li>For CAs, click the <strong>Create and Publish</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Upload24.svg"> when done.</li>
 <li>For COs, click to seek approval from CA(s) to publish the content map, after creating the content map.</li>
 </ol>
 <h2 id="edit-a-content-map-for-cas-">Edit a Content Map(For CAs)</h2>
@@ -58,9 +58,9 @@ third_nav_title: Publish
 <p>You can only edit Content Maps that are tagged to your Owner Group.</p>
 <ol>
 <li>Click <strong>Open</strong> under the Title of your Content Map. By default, you will be on the <strong>Details</strong> tab.</li>
-<li>To edit, click the <strong>Pencil</strong> icon (insert Pencil.svg) in the header. You can edit the fields in the <strong>Details</strong>, <strong>Learning Outcomes</strong> and <strong>Assessment</strong> tabs.</li>
-<li>Click the <strong>Done</strong> icon [insert Done.svg] to update the Content Map.</li>
-<li>To publish ALS Content Maps, click the <strong>Publish to ALS</strong> icon (insert Upload24.svg).</li>
+<li>To edit, click the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg"> in the header. You can edit the fields in the <strong>Details</strong>, <strong>Learning Outcomes</strong> and <strong>Assessment</strong> tabs.</li>
+<li>Click the <strong>Done</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Done.svg">  to update the Content Map.</li>
+<li>To publish ALS Content Maps, click the <strong>Publish to ALS</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Upload24.svg">.</li>
 <li>To Delete or Make a Copy of the Content Map, open <strong>Overflow</strong> (3 dots icon) in the header and select the respective buttons.</li>
 </ol>
 <h2 id="edit-a-content-map-for-cos-">Edit a Content Map (For COs)</h2>
