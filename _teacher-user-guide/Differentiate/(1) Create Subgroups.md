@@ -7,7 +7,7 @@ third_nav_title: Differentiate
 <h1 id="-1-create-subgroups">(1) Create Subgroups</h1>
 <h2 id="about-subgroups">About Subgroups</h2>
 <hr>
-<p>Important: Only class group Owners and Co-teachers are able to create Subgroups.</p>
+<p><u>Important</u>: Only class group Owners and Co-teachers are able to create Subgroups.</p>
 <ul>
 <li>Subgroups can be created within any class group.</li>
 <li>The purpose of a Subgroup is to organise your students into smaller groups. By organising your students this way, you are able to achieve the following:<ul>
@@ -41,7 +41,7 @@ third_nav_title: Differentiate
 <li><p>Complete the subgroup creation by clicking <strong>Save</strong>, followed by <strong>X</strong>. The newly-created subgroup will appear in the form of a card on the Class Group page.</p>
 </li>
 </ol>
-<p>Note:</p>
+<p><u>Note</u>:</p>
 <ul>
 <li>Subgroups without students can be created</li>
 <li>Subgroups with the same name as other subgroups can be created</li>
