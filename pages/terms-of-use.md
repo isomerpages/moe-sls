@@ -32,7 +32,7 @@ permalink: /terms-of-use/
 <li><p>We reserve the right to log off or disable user accounts that are inactive and/or have breached any part of these Terms.</p></li>
 <li><p>As a User, you agree that you will not:</p>
 <ul>
-<ol type="a">
+<ol style="list-style-type: lower-alpha;">
 <li>Use the Website to send advertisements, chain letters or other unsolicited type of messages;</li>
 <li>Use the Website to make commercial solicitations including tontines and pyramid schemes;</li>
 <li>Use any device, software or routine to interfere or attempt to interfere with the proper working of the Website;</li>
@@ -63,7 +63,7 @@ Where you upload or post content that is not owned by, licensed to or controlled
 <li><p>
     The Content is provided on an "as-is, where-is" basis without warranties of any kind. We are not liable for any loss or damage:
   </p></li>
-  <ol>
+<ol style="list-style-type: lower-alpha;">
     <li>That you may incur on account of using the Website;</li>
     <li>That you may incur on account of using or visiting any application or service linked to or from the Website or relying on any statement, opinion, representation, or information in the Website;</li>
     <li>That you may incur arising from any inaccuracy or incompleteness in, or errors or omission in the information on the Website;</li>
@@ -76,7 +76,7 @@ Where you upload or post content that is not owned by, licensed to or controlled
  <li><p>
     To the fullest extent permitted by law, we do not warrant and hereby disclaim any warranty:
   </p></li>
-  <ol>
+<ol style="list-style-type: lower-alpha;">
     <li>As to the accuracy, correctness, adequacy, fullness, reliability, timeliness, non-infringement, title, merchantability, or fitness for any particular purpose of the Content;</li>
     <li>That the Content available on the Website or any functions associated therewith will be uninterrupted or error-free, or that defects will be corrected or that this Website is and will be free of all viruses or other malicious destructive or corrupting code, agent, program, or macros of other harmful elements.</li>
   </ol>
