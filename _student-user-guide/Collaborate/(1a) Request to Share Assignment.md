@@ -10,7 +10,7 @@ third_nav_title: Collaborate
 <ul>
 <li>From the Assignment Card, the <strong>Assignment Sharing</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/SharingEnabled.svg"> is shown next to Lesson</li>
 <li><p>In the assignment, open the right menu. The <strong>Share</strong> button will be shown if enabled.</p>
-<p>Note: If the <strong>Share</strong> button is greyed out, it means that your teacher has not enabled Assignment Sharing.</p>
+	<p><u>Note</u>: If the <strong>Share</strong> button is greyed out, it means that your teacher has not enabled Assignment Sharing.</p>
 </li>
 <li><p>In the assignment, click the <strong>User Avatar</strong> icon to open the Assignment Sharing subpage. It should show "Sharing Enabled".</p>
 </li>
@@ -26,7 +26,7 @@ third_nav_title: Collaborate
 </li>
 <li><p>Select the peer that you want to share your assignment with by clicking <strong>Share Request</strong>.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26ade45c-de9a-42dd-af67-41247bc1c4d3/Untitled.png"></p>
-<p> Note: You are not allowed to withdraw the sharing request after it has been sent.</p>
+	<p> <u>Note</u>: You are not allowed to withdraw the sharing request after it has been sent.</p>
 </li>
 <li><p>The status will change from ”Share Request” to ”Pending Request”. This means that you are waiting for your classmate to accept your request.</p>
 </li>
