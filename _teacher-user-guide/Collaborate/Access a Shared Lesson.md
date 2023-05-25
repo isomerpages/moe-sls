@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Collaborate
 ---
 <h1 id="access-a-shared-lesson">Access a Shared Lesson</h1>
-<h2 id="access-a-shared-lesson-">Access <strong>a Shared Lesson</strong></h2>
+<h2 id="access-a-shared-lesson-">Access a Shared Lesson</h2>
 <hr>
 <ol>
 <li>When a Lesson is shared with you, you will receive a notification. The <strong>Notification Alert</strong> icon [insert Notification.png] indicates the number of new notifications.</li>
@@ -18,8 +18,8 @@ third_nav_title: Collaborate
 <li><p>The Lessons shared with you will be listed along with the names of the Owners of the Lessons.</p>
 </li>
 <li>To view the Lesson Details Card, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>View Details</strong>. You will be able to view the activities and sections in the particular lesson.</li>
-<li><p>You may also <strong>Make a Copy</strong> of the resource to My Lessons tab <strong>**in </strong>My Drive**.</p>
-<p> Note: You can only make a copy of the Lesson if the Owner has granted permission for the Lesson to be copied.</p>
+<li><p>You may also <strong>Make a Copy</strong> of the resource to My Lessons tab in <strong> My Drive </strong>.</p>
+	<p><u>Note</u>: You can only make a copy of the Lesson if the Owner has granted permission for the Lesson to be copied.</p>
 </li>
 <li><p>These resources can only be deleted by the Owner, whose name is indicated in the listing.</p>
 </li>
