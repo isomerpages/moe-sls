@@ -5,15 +5,14 @@ description: ""
 third_nav_title: Discover
 ---
 <h1>(2) Search for Resources (New)</h1>
+<h2>Using Search Bar from Homepage</h2>
 <hr>
-    <h2>Using Search Bar from Homepage</h2>
-    <hr>
-    <ol>
-      <li>Click the <strong>Magnifying Glass</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Search.svg">on the header of the homepage to open the Search Bar.</li>
-      <li>Enter your search terms, if any, in the Search Bar.</li>
-      <li>Press <strong>Enter</strong> to return your search results.</li>
-    </ol>
-    <p><u>Note</u>:</p>
+<ol>
+<li>Click the <strong>Magnifying Glass</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Search.svg">on the header of the homepage to open the Search Bar.</li>
+<li>Enter your search terms, if any, in the Search Bar.</li>
+<li>Press <strong>Enter</strong> to return your search results.</li>
+</ol>
+<p><u>Note</u>:</p>
     <ul>
       <li>If you are unsure of what you are searching for, you can leave the Search Bar empty and press <strong>Enter</strong> to return your search results.</li>
       <li>You can also search directly from the various Resource pages (eg. MOE Library, Community Gallery, App Library, External Resources).</li>
