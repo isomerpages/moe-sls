@@ -14,7 +14,7 @@ third_nav_title: Discover
 		<li>The number of Reviews is also visible from the Lesson Card.</li>
 	<a target="_blank" href="/images/2Teacher/D-LessonReview.png"><img alt="LessonReview" src="/images/2Teacher/D-LessonReview.png"></a>
 		<li>You can also view the Teacher Reviews from the Lesson View page when you open the Lesson in a new tab. To view the Reviews, click the <strong>Teacher Reviews</strong> icon 
-			<img style="width:10%; display: inline;" src="/images/Icons/Reviews.svg"> found at the top of the Lesson header.</li>
+			<img style="width:1rem; display: inline;" src="/images/Icons/Reviews.svg"> found at the top of the Lesson header.</li>
 	</ol>
 	<h3>Add Reviews</h3>
 	<hr>
