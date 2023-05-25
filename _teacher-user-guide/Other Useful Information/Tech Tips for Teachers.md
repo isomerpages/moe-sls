@@ -5,7 +5,10 @@ description: ""
 third_nav_title: Other Useful Information
 ---
 <h1 id="tech-tips-for-teachers">Tech Tips for Teachers</h1>
-<h2 id="assess">Assess</h2>
+
+<details>
+<summary><h2 id="assess">Assess</h2>
+</summary>
 <ol>
 <li><strong>I can’t download student marks and responses in Heatmap. When I click on the incoming notification that the download is ready (this can take up to 10 to 15 minutes), nothing happens.</strong></li>
 <li><p><strong>When I click to download a zipped resource, nothing happens.</strong></p>
@@ -36,7 +39,11 @@ third_nav_title: Other Useful Information
 SLS has a range of features that support assessment. One of them is the “Assessment” feature that can be used on SSOE2 ACAD device with ITD lock down mode.</p>
 </li>
 </ol>
+</details>
+<details>
+<summary>
 <h2 id="assign">Assign</h2>
+</summary>
 <ol>
 <li><p><strong>How do I recover a missing Assignment? (New in R19)</strong></p>
 <p> If you are unable to find an Assignment, it may have been deleted accidentally by yourself, or by one of the co-teachers in the Class Group.</p>
@@ -50,8 +57,12 @@ SLS has a range of features that support assessment. One of them is the “Asses
 <p> This would make the monitoring of Assignments easier and allow the system to load more efficiently without having to fetch a large amount of data per Assignment.</p>
 </li>
 </ol>
+	</details>
+<details>
+<summary>
 <h2 id="author">Author</h2>
-<ol>
+</summary>
+	<ol>
 <li><p><strong>How do I copy a Rubric to use in another question?</strong></p>
 <p> You cannot copy a rubric directly but you can add the question with rubrics from Add Existing questions from Library. You might wish to add a unique keyword in the keyword tags of the question (e.g. 01rubric) so that it is easy to search when you Add Questions from Library or Questions from Starred Resources during Lesson design.</p>
 <p> Tip: Star the question with rubrics so that you can easily add it to your Lesson</p>
@@ -81,7 +92,11 @@ SLS has a range of features that support assessment. One of them is the “Asses
 We understand the limitations with the trial account and encourage you to check with your school if there is budget to apply for a paid subscription account.</p>
 </li>
 </ol>
+	</details>
+<details>
+<summary>
 <h2 id="collaborate">Collaborate</h2>
+	</summary>
 <ol>
 <li><p><strong>Can I share the URL to a particular Section (e.g. section B) with other teachers? (New in R19)</strong></p>
 <p> Yes, from R19 you are able to share the URL to a particular Section with other teachers. You can also add links to Sections within your Lesson.</p>
@@ -110,7 +125,11 @@ We discourage the sharing of large number of resources in SLS, or a single resou
 <li><strong>If we want to use the Google Docs feature, do we still need to get the students to manually link their iCON in SLS?</strong>
 Students can link any Gmail account (including personal ones) with SLS. They only need to do it once and can subsequently access Google Apps through SLS.</li>
 </ol>
+		</details>
+<details>
+<summary>
 <h2 id="customise">Customise</h2>
+	</summary>
 <ol>
 <li><p><strong>Must students link their iCON accounts with SLS?</strong></p>
 <p> SLS will work with any Google account. However, we recommend students link their student iCON accounts to ensure seamless learning.</p>
@@ -122,8 +141,12 @@ Students can link any Gmail account (including personal ones) with SLS. They onl
 <p> Only one Google account can be linked at a time.</p>
 </li>
 </ol>
+	</details>
+<details>
+<summary>
 <h2 id="discover">Discover</h2>
-<ol>
+<summary>
+	<ol>
 <li><p><strong>I tried to embed a website using the embed code/URL but SLS does not allow me to.</strong></p>
 <p> If a website has not been whitelisted, you will not be able to embed the site in SLS. An alternative would be to insert a link in the Rich Text Editor by clicking <strong>Insert/edit link</strong> (<strong>Chain</strong> icon). You have the option to decide whether the link will be opened in a new window or the current window. When students click on the link, they will be redirected accordingly.</p>
 <p> For more information, visit <a href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/UsefulResources/Whitelist.html">Whitelisted Websites for Embedding</a>.</p>
@@ -138,10 +161,14 @@ Students can link any Gmail account (including personal ones) with SLS. They onl
 <p> Yes, Kami has been whitelisted for SSOE devices. Should you face any issues installing it on your SSOE device, please approach your school IT administrator or HOD ICT.</p>
 </li>
 </ol>
+		</summary></summary></details>
+<details>
+<summary>
 <h2 id="enact">Enact</h2>
-<ol>
+</summary>
+	<ol>
 <li><p><strong>How do I control student access to Activities/Sections in Assignments?</strong></p>
-<p> Before you assign the Lesson, you may click the <strong>Edit</strong> icon on the Assignment Card (<strong>Pencil</strong> icon on the top right of the Card) and select the <strong>Activity Assignment</strong> tab. If you have assigned the Lesson, enter the Assignment and open the right menu. Select <strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><em>**</em></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong>Manage Assignment Settings<strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><em>**</em></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong> followed by the <strong><strong><strong><strong><strong><strong><strong><strong><strong>**</strong></strong></strong></strong></strong></strong></strong></strong></strong>Activity Assignment<strong><strong><strong><strong><strong><strong><strong><strong><strong>**</strong></strong></strong></strong></strong></strong></strong></strong></strong> tab. Toggle the access on/off to for access rights.</p>
+<p> Before you assign the Lesson, you may click the <strong>Edit</strong> icon on the Assignment Card (<strong>Pencil</strong> icon on the top right of the Card) and select the <strong>Activity Assignment</strong> tab. If you have assigned the Lesson, enter the Assignment and open the right menu. Select <strong>Manage Assignment Settings</strong> followed by the <strong>Activity Assignment</strong> tab. Toggle the access on/off to for access rights.</p>
 <p> You are also able to toggle the access to the Sections and Activities by clicking from the <strong>Lesson Plan</strong>.</p>
 <p> For more information, visit <a href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/AssignmentFeedback/ChangeAccess.html">Change Access to Activities</a>.</p>
 </li>
@@ -149,7 +176,11 @@ Students can link any Gmail account (including personal ones) with SLS. They onl
 <p> ITT and Discussion Cards have been enlarged to allow teachers and students to view more of the body message (especially when there is a Media Object attached). As such, Comments are placed within Cards, reducing the amount of text shown on the screen which helps ensure a pleasant user experience.</p>
 </li>
 </ol>
+	</details>
+<details>
+<summary>
 <h2 id="organise">Organise</h2>
+	</summary>
 <ol>
 <li><p><strong>Will form teachers be given a class with their form classes on SLS? Right now, form teachers who do not teach the whole class have to form their own teaching groups in order to conduct FTGP lessons.</strong></p>
 <p> Schools are advised to create a class in School Cockpit (containing the form class students and teacher) and tag the class to a school-based subject, e.g. CCE. Once tagged to a subject, the form classes will appear in SLS.</p>
@@ -167,8 +198,12 @@ The R19 ability to add students to existing SLS Class Groups will allow you to a
 </li>
 </ol>
 <hr>
+		</details>
+<details>
+<summary>
 <h2 id="other-or-authentication-">Other (or Authentication)</h2>
-<ol>
+</summary>
+	<ol>
 <li><strong>Are locked accounts in SLS the same as expired password?</strong> 
 No, locked accounts are due to the wrong password being used too many times and need to be unlocked by an SLS school admin.
 Expired passwords are those which have been unchanged for more than a year and can be automatically reset by the user.</li>
@@ -240,3 +275,4 @@ No. It will not be synchronised. It will be correct at the point of import.  How
 You can create events in the Class Group. Other teachers in the Class Group will then be able to see the events on their calendar.</p>
 </li>
 </ol>
+</details>
