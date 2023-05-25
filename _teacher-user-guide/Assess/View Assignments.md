@@ -38,6 +38,6 @@ third_nav_title: Assess
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/693f7f68-39a5-4b9c-b649-ae4eb8451e00/Untitled.png"></p>
 </li>
 </ol>
-<p>Note: Students will see all their Assignments (except Assessments) on the Assignments tab on the homepage if they are incomplete/overdue. Overdue assignments remain accessible to students. </p>
+<p><u>Note</u>: Students will see all their Assignments (except Assessments) on the Assignments tab on the homepage if they are incomplete/overdue. Overdue assignments remain accessible to students. </p>
 <p><strong>DID YOU KNOW?</strong></p>
 <p>The Student Attempt URL can be shared with students so that they can access the assignment directly after logging in. You may use any URL shortener or QR code generator to make it easier for students to access the Assignment. You can find the Student Attempt URL by clicking the <strong>Overflow</strong> (<strong>3-dot</strong> icon) when inside an Assignment/Assessment.</p>
