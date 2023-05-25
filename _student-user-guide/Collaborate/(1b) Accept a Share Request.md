@@ -11,14 +11,14 @@ third_nav_title: Collaborate
 <ol>
 <li>Click the <strong>User Avatar</strong>  on the header followed by <strong>+</strong>. </li>
 <li><p>Click the <strong>Overflow</strong> <strong>(3-dot</strong> icon<strong>)</strong> to open the right menu. Click <strong>Share</strong>.</p>
-<p>Note: There will be a red dot beside the "+" to indicate a new share request. </p>
+<p><u>Note</u>: There will be a red dot beside the "+" to indicate a new share request. </p>
 </li>
 </ol>
 </li>
 <li><p>Click <strong>Accept Request</strong>, from the requestor, if you wish to accept the request.</p>
 </li>
 <li><p>Ignore the request if you do not wish to share your assignment with your peer.</p>
-<p> Note:</p>
+	<p> <u>Note</u>:</p>
 <ul>
 <li>You are unable to cancel a share request.</li>
 <li>Once you accept a request, it is <em>permanent</em>.</li>
@@ -26,3 +26,4 @@ third_nav_title: Collaborate
 </li>
 <li>Once accepted, the status will change from <strong>Accept Request</strong> to Shared.</li>
 </ol>
+insert CO-AcceptShare1.png
