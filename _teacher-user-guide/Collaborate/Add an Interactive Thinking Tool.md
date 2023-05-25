@@ -11,18 +11,18 @@ third_nav_title: Collaborate
 <li>In the Lesson Editor page, select an <strong>Activity</strong>, hover your mouse over <strong>Interactive</strong> in the Component Bar, then select <strong>ITT</strong>. </li>
 <li>Select from either <strong>Choose from Templates</strong>, <strong>1-Column</strong>, <strong>2-Column</strong> or <strong>3-Column</strong>. </li>
 </ol>
-<p>Note: Different Interactive Thinking Tool templates are suggested based on the Active Learning Process selected under Activity Details.</p>
+<p><u>Note</u>: Different Interactive Thinking Tool templates are suggested based on the Active Learning Process selected under Activity Details.</p>
 <h2 id="-select-a-format-"><strong>Select a Format</strong></h2>
 <hr>
-<p>You can create your own custom Interactive Thinking Tool (ITT) by selecting from either <strong>1-Column</strong>, <strong>2-Column</strong> or <strong>3-Column</strong>. To use an existing template, select <strong>Choose from Templates</strong>. <em>**</em></p>
+<p>You can create your own custom Interactive Thinking Tool (ITT) by selecting from either <strong>1-Column</strong>, <strong>2-Column</strong> or <strong>3-Column</strong>. To use an existing template, select <strong>Choose from Templates</strong>. </p>
 <ol>
 <li>Add text of up to 250 characters in your Column Header, which only allows plain text. The Column Header field is mandatory.</li>
 <li>You can also edit the Question Body and include a Pre-populated Student Answer. </li>
 <li>After entering the details, click outside the ITT box to save your work.</li>
-<li>A preview of your ITT will be displayed. You may view the individual columns by selecting their respective tabs, or click <strong><strong><strong><em>**</em></strong></strong></strong>View All<strong><strong><strong><em>**</em></strong></strong></strong> to view all the columns.</li>
+<li>A preview of your ITT will be displayed. You may view the individual columns by selecting their respective tabs, or click <strong>View All</strong> to view all the columns.</li>
 <li>To hide the names of students, click the <strong>Settings</strong> icon on the ITT Card. By default, the names of students will be visible. To hide the names of students, select the checkbox “Hide Names”. Click <strong>Save</strong> followed by <strong>X</strong>.</li>
 <li>When students' names are hidden, they will appear as Anonymous on the Interaction Board. Students will only see their own names.</li>
-<li>To edit an ITT, hover your mouse over the ITT and click the component, or the <strong><strong><em>**</em></strong></strong>Pencil<strong><strong><em>**</em></strong></strong> icon.</li>
+<li>To edit an ITT, hover your mouse over the ITT and click the component, or the <strong>Pencil</strong> icon.</li>
 <li><p>To delete your ITT, click the <strong>Delete</strong> icon.</p>
 <p> [insert C-ITTComponent.png]</p>
 </li>
