@@ -14,15 +14,15 @@ third_nav_title: Assess
 <li>Notes created in Team Activities are Team Notes, and are shared amongst the Team.</li>
 <li>On the <strong>Monitor Assignment</strong> page, select the student's name.</li>
 <li>From the Activity List on the left, select the Activity that contains the Notes.</li>
-<li>Notes created by your students will be shown in the Annotations Drawer. Click the <strong>Notepad</strong> icon [insert Note.svg] to Expand/Hide the drawer.</li>
+<li>Notes created by your students will be shown in the Annotations Drawer. Click the <strong>Notepad</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Note.svg"> to Expand/Hide the drawer.</li>
 <li>Notes with highlights are tied to a highlighted text or annotated image within the Activity and clicking the Note Card will anchor you to where the Note was created. Notes without highlights are tied to the Activity. </li>
-<li>The number of comments is indicated beside the Comments icon [Comment.svg].</li>
+<li>The number of comments is indicated beside the Comments icon <img style="width:1rem; display: inline;" src="/images/Icons/Comment.svg">.</li>
 <li>You will be able to see all the Notes made by all the students in the Assignment.</li>
 </ul>
 <h2 id="view-add-comments-on-students-notes-">View/Add <strong>Comments on Students' Notes</strong></h2>
 <hr>
 <ol>
-<li>To view Comments given by students on a student's Note, click <strong>Comments</strong> icon [Comment.svg] to open the Card Details subpage. </li>
+<li>To view Comments given by students on a student's Note, click <strong>Comments</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Comment.svg"> to open the Card Details subpage. </li>
 <li>You can add comments by clicking the <strong>Add</strong> from the Card Details subpage, and add your comments in the text box.</li>
 </ol>
 <p>Note: Comments added on a Team Note will be visible to all students in the team. </p>
