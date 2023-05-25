@@ -80,18 +80,21 @@ third_nav_title: Author
 <p> For ITT and Discussion:</p>
 <ul>
 <li><p>Hide Names: When students' names are hidden, they will appear as Anonymous on the Interaction Board. Students will only see their own names.</p>
-<p>  !<a href="https://www.learning.moe.edu.sg/sls/media/images/UpdatedAssets/2Teacher/LM-ITTNames.png">https://www.learning.moe.edu.sg/sls/media/images/UpdatedAssets/2Teacher/LM-ITTNames.png</a></p>
 </li>
 </ul>
-</li>
-</ol>
-<pre><code>For Poll:
+<a href="https://www.learning.moe.edu.sg/sls/media/images/UpdatedAssets/2Teacher/LM-ITTNames.png">https://www.learning.moe.edu.sg/sls/media/images/UpdatedAssets/2Teacher/LM-ITTNames.png</a>
 
-<span class="hljs-bullet">- </span>Keyword Tags - This will improve the searchability of the poll.
-<span class="hljs-bullet">- </span>Hide Results: When results are hidden, students will only see what they have voted for.
+<ol>
+    <li>For Poll:<ul>
+            <li>Keyword Tags - This will improve the searchability of the poll.</li>
+            <li>Hide Results: When results are hidden, students will only see what they have voted for.</li>
+        </ul>
+    </li>
+</ol>
 
 ![<span class="hljs-string">Screenshot 2023-03-10 at 1.31.23 PM.png</span>](<span class="hljs-link">https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ced2ad0-af39-44fb-a053-6f120bb53a14/Screenshot_2023-03-10_at_1.31.23_PM.png</span>)
-</code></pre><h2 id="edit-quiz-detail-card">Edit Quiz Detail Card</h2>
+
+<h2 id="edit-quiz-detail-card">Edit Quiz Detail Card</h2>
 <hr>
 <ol>
 <li>On the Activity page where you have added a Quiz (Progressive, Auto-Marked or Teacher-Marked), the Quiz Details Card can be expanded/hidden by clicking the <strong>Settings</strong> icon [insert icon].</li>
@@ -101,4 +104,4 @@ third_nav_title: Author
 <li>Active Learning Process - You can change the Active Learning Process. However, your existing activities, if any, will remain unchanged.</li>
 </ul>
 </li>
-</ol>
+</ol></li></ol>
