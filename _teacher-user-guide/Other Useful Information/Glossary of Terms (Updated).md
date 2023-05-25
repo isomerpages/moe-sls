@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/other-useful-information/glossary-of-terms-update
 description: ""
 third_nav_title: Other Useful Information
 ---
+<h1>Glossary of Terms (Updated)</h1>
 <table>
   <thead>
     <tr>
