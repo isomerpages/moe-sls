@@ -14,7 +14,7 @@ third_nav_title: Author
 <li>You will be able to see the equation rendered as an image in the Richtext.</li>
 <li>To edit an equation, double-click the image to open the MathType editor.</li>
 </ol>
-<p>Note: You can copy and paste your mathematical equations in the Rich Text Editor.</p>
+<p><u>Note</u>: You can copy and paste your mathematical equations in the Rich Text Editor.</p>
 <p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/56e68d41-295a-4290-9824-69db20042466/Untitled.png"></p>
 <h2 id="-insert-math-equation-using-latex-commands-"><strong>Insert Math Equation using LaTeX commands</strong></h2>
 <hr>
@@ -31,5 +31,5 @@ third_nav_title: Author
 <li>You will be able to see the equation rendered as an image in the Content Editor.</li>
 <li>To edit an equation, double-click the image to open the ChemType editor.</li>
 </ol>
-<p>Note: You can copy and paste your chemical equations in the Rich Text Editor.</p>
+<p><u>Note</u>: You can copy and paste your chemical equations in the Rich Text Editor.</p>
 insert AU_InsertMathChem2
