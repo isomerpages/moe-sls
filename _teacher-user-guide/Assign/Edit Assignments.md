@@ -8,7 +8,7 @@ third_nav_title: Assign
 <h2 id="-edit-an-assignment-in-progress-"><strong>Edit an Assignment in Progress</strong></h2>
 <hr>
 <p>You can edit an assignment after it is assigned.</p>
-<p>Note: You may not edit a question or a quiz if students have started attempting them. You may, however, choose to delete the entire question or quiz.</p>
+<p><u>Note</u>: You may not edit a question or a quiz if students have started attempting them. You may, however, choose to delete the entire question or quiz.</p>
 <ol>
 <li><p>Click on the Assignment Card to enter the Assignment and click the <strong>Overflow</strong> (3-dots icon) to open the right menu and select <strong>Edit</strong>.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aeb79878-15df-4bd7-86ea-6d2a0a105380/Untitled.png"></p>
