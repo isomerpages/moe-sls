@@ -6,9 +6,9 @@ third_nav_title: Author
 ---
 <h1 id="add-question-tags">Add Question Tags</h1>
 <p>Most components can be tagged to Subject, Level, Content Map, Skill Level, Topics, and Sub-topics so as to improve searchability in Community Gallery, MOE Library, and My Drive.</p>
-<p>Note: Text/Media, ITT, Poll and Discussion cannot be tagged.</p>
+<p><u>Note</u>: Text/Media, ITT, Poll and Discussion cannot be tagged.</p>
 <p>To include a question in Learning Progress, you have to tag a question before selecting the <strong>Include in Learning Progress</strong> checkbox. Tagging a question will allow you to view the Learning Progress of students. Click here [hyperlink] to find out more about Learning Progress.</p>
-<p>Note: Text/Media, ITT, Poll and Discussion cannot be included in Learning Progress.</p>
+<p><u>Note</u>: Text/Media, ITT, Poll and Discussion cannot be included in Learning Progress.</p>
 <h2 id="add-a-question-tag">Add a Question Tag</h2>
 <hr>
 <ol>
@@ -17,7 +17,7 @@ third_nav_title: Author
 <li>To edit the Question Details Card, click the <strong>Settings</strong> icon [icon img]. </li>
 <li><p>To include the Question in the Learning Progress, check the box beside <strong>Include in Learning Progress</strong>. You can also add Keyword Tags and Question Tags. </p>
 <p> <img alt="Screenshot 2023-03-10 at 4.06.03 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d60346d2-cd72-4b6f-acae-c676ed9f0550/Screenshot_2023-03-10_at_4.06.03_PM.png"></p>
-<p> Note: You will need to add a Question Tag in order to include the question in the Learning Progress.</p>
+	<p><u>Note</u>: You will need to add a Question Tag in order to include the question in the Learning Progress.</p>
 </li>
 <li><p>Click the dropdown arrow located on the right of the Question Tag field.</p>
 </li>
@@ -35,7 +35,7 @@ third_nav_title: Author
 </ol>
 <h2 id="-add-more-question-tags-not-advised-"><strong>Add More Question Tags (Not Advised)</strong></h2>
 <hr>
-<p>Note: You are advised not to tag more than one learning objective in each content map.</p>
+<p><u>Note</u>: You are advised not to tag more than one learning objective in each content map.</p>
 <ol>
 <li>To add more Question Tags, click <strong>Add Question Tag</strong>.</li>
 <li>Multiple Question Tags will be displayed in an accordion format.</li>
