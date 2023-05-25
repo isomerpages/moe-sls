@@ -58,7 +58,43 @@ third_nav_title: Gamify
 <hr>
 <p>You can add conditions to Game Stories and Achievements in a gamified Lesson . Game Stories and Achievements will appear after all Conditions have been fulfilled. Game Stories and Achievements with no Conditions will not appear but can be awarded to students manually. </p>
 <p>Conditions that can be added are included in the table below:</p>
-<p><a href="https://www.notion.so/aa7dea5a127544828aaf8ee5790a5255">Untitled</a></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Conditions</th>
+      <th>Game Story/Achievement will appear</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Section Start*</td>
+      <td>after students click Enter on the Section cover page</td>
+    </tr>
+    <tr>
+      <td>Section Completion</td>
+      <td>after students arrive on the Section end page</td>
+    </tr>
+    <tr>
+      <td>Awarded Marks for Quiz</td>
+      <td>after students complete the quiz</td>
+    </tr>
+    <tr>
+      <td>Game Story</td>
+      <td>after another Game Story appears</td>
+    </tr>
+    <tr>
+      <td>Level</td>
+      <td>after students reach the required level</td>
+    </tr>
+    <tr>
+      <td>Achievement</td>
+      <td>after another Achievement appears (applies to Achievements only - Game Story cannot trigger Achievements)</td>
+    </tr>
+  </tbody>
+</table>
+
+
 <p><u>Note</u>: The Section Start Condition cannot be used with other Conditions.</p>
 <ol>
 <li>To add Conditions to Game Stories/Achievements, you need to have an existing Game Story/Achievement. Click here to find out how to create a Game Story/Achievement [hyperlink manage gamification settings].</li>
