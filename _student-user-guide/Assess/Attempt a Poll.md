@@ -13,8 +13,7 @@ third_nav_title: Assess
 </li>
 <li>Your answer to the Poll will not be graded by the system.</li>
 <li><p>You may choose to <strong>View Class Submissions</strong> before moving on to the next Activity.</p>
-<p> Note: You can only <strong>View Class Submissions</strong> after you have voted.</p>
+	<p> <u>Note</u>: You can only <strong>View Class Submissions</strong> after you have voted.</p>
 </li>
 </ol>
 insert As-Poll1.png
-
