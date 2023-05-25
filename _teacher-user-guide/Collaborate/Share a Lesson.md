@@ -15,7 +15,7 @@ third_nav_title: Collaborate
 <p> !<a href="https://www.learning.moe.edu.sg/sls/media/images/UpdatedAssets/2Teacher/LM-SharewithTeachers.png">https://www.learning.moe.edu.sg/sls/media/images/UpdatedAssets/2Teacher/LM-SharewithTeachers.png</a></p>
 </li>
 </ol>
-<p>Note: You can only share a lesson if you are the owner of the lesson, and if permission has been given for the lesson to be shared.</p>
+<p><u>Note</u>: You can only share a lesson if you are the owner of the lesson, and if permission has been given for the lesson to be shared.</p>
 <h2 id="-add-teachers-to-share-"><strong>Add Teachers to Share</strong></h2>
 <hr>
 <ol>
