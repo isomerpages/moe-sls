@@ -18,7 +18,7 @@ third_nav_title: Assign
 <li>Assignment Start Date and Time - Date and time the Assignment was given</li>
 <li>Assignment Due Date and Time - Deadline of the Assignment</li>
 <li><p>Assignment Status <strong>-</strong> This indicates if the assignment is Paused, Complete, Incomplete, Upcoming or Overdue. </p>
-<p> Note: Overdue assignments can still be attempted.</p>
+	<p> <u>Note</u>: Overdue assignments can still be attempted.</p>
 </li>
 <li><p>Assignment Sharing icon - This icon <img style="width:1rem; display: inline;" src="/images/Icons/SharingEnabled.svg"> will appear if your teacher has enabled sharing of the Assignment with your classmates.</p>
 </li>
@@ -27,7 +27,7 @@ third_nav_title: Assign
 <li>Label - Assignments that are recently assigned (up to 3 days ago) will be labelled "New". Existing Assignments that have sections added to them will be labelled “New Section”</li>
 <li>View Details icon - This icon <img style="width:1rem; display: inline;" src="/images/Icons/ViewDetails.svg"> shows the Lesson Details subpage, which includes the Sections/Activities and Lesson Description.</li>
 </ol>
-<p>Did you know?: From R18, teachers are able to set a Passcode to an Assignment. You will be required to enter the Passcode (case-sensitive) in order to access these Assignments.</p>
+<p><u>Did you know?</u>: From R18, teachers are able to set a Passcode to an Assignment. You will be required to enter the Passcode (case-sensitive) in order to access these Assignments.</p>
 <h2 id="language-settings">Language Settings</h2>
 <hr>
 <p>By default, your Assignments are displayed in English. However, your teacher has the option to display your Assignment in Chinese, Malay or Tamil.</p>
@@ -39,7 +39,7 @@ third_nav_title: Assign
 <li>Begin the Assignment by clicking <strong>Enter</strong> on the Assignment Cover.</li>
 <li>You will be brought to the first activity in the Assignment or the cover page of the first Section.</li>
 </ol>
-<p>Note: </p>
+<p><u>Note</u>: </p>
 <ul>
 <li>Within an Assignment, if your teacher has created a Team Quiz [hyperlink student/Assignments/AttemptTeam.html], you may attempt the questions as a team. Otherwise, the questions can be attempted individually.</li>
 <li>Your teacher may also pre-populate Google Files in a Free-Response or Audio-Response Question. Click here [hyperlink student/Integration/AboutGoogle.html] to find out how to attempt such Assignments.</li>
