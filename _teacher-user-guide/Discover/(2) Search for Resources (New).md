@@ -38,26 +38,26 @@ third_nav_title: Discover
           <li><strong>All</strong></li>
           <li><strong>Lessons</strong></li>
           <li><strong>Questions (or Question Types)</strong></li>
-          <li><strong>Media (or Media Types)</strong></li>
-          <li><strong>Apps</strong></li>
-          <li><strong>Websites</strong> <strong>(New in R19)</strong></li>
-        </ul>
-      </li>
-      <li>Under <strong>Subject</strong>, select from:
-        <ul>
-          <li><strong>Assigned Subjects</strong></li>
-          <li><strong>Followed Subjects</strong> (if any)</li>
-          <li><strong>Other Subjects</strong></li>
-        </ul>
-      </li>
-      <li>Under <strong>Levels</strong>, select from:
-        <ul>
-          <li><strong>Assigned Levels</strong></li>
-          <li><strong>Followed Levels</strong> (if any)</li>
-          <li><strong>Other Levels</strong></li>
-        </ul>
-      </li>  
-  <li>Click <strong>Apply</strong> and select <strong>Apply Filters</strong> to perform your selection.</li>
+<li><strong>Media (or Media Types)</strong></li>
+<li><strong>Apps</strong></li>
+<li><strong>Websites</strong> <strong>(New in R19)</strong></li>
+</ul>
+</li>
+<li>Under <strong>Subject</strong>, select from:
+<ul>
+<li><strong>Assigned Subjects</strong></li>
+<li><strong>Followed Subjects</strong> (if any)</li>
+<li><strong>Other Subjects</strong></li>
+</ul>
+</li>
+<li>Under <strong>Levels</strong>, select from:
+<ul>
+<li><strong>Assigned Levels</strong></li>
+<li><strong>Followed Levels</strong> (if any)</li>
+<li><strong>Other Levels</strong></li>
+</ul>
+</li>  
+<li>Click <strong>Apply</strong> and select <strong>Apply Filters</strong> to perform your selection.</li>
 </ol>
 <p><u>Note</u>: Refine your search by using Guided Search.</p>
 
