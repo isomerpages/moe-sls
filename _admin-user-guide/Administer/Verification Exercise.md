@@ -54,7 +54,7 @@ third_nav_title: Administer
 	<p><u>Note</u>: </p>
 <ul>
 <li>No further changes can be made after clicking Complete Verification.</li>
-<li>The verification will be considered incomplete and none of the account(s)/role(s) will be removed if you did not click Complete Verification <em>**</em>before the end of the exercise.</li>
+<li>The verification will be considered incomplete and none of the account(s)/role(s) will be removed if you did not click Complete Verification <em></em>before the end of the exercise.</li>
 </ul>
 </li>
 </ol>
