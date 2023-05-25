@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/discover/view-external-resources/
 description: ""
 third_nav_title: Discover
 ---
-<h1>1. View External Resources (New)</h1>
+<h1>(1) View External Resources (New)</h1>
 <hr>
 
 <h2>View External Resources</h2>
@@ -23,9 +23,9 @@ third_nav_title: Discover
 
 <ol>
     <li>On the Search in External Resources page, enter your search terms, if any, (e.g. Google) in the Search Bar.</li>
-    <li>Note: If you are unsure of what you are searching for, you can leave the Search Bar empty, and press Enter to return your search results.</li>
+	<u>Note</u>: If you are unsure of what you are searching for, you can leave the Search Bar empty, and press Enter to return your search results.
     <li>The default filters have been applied for you.</li>
-    <li>Note: Click <strong>Guided Search</strong> to search for specific words/phrases.</li>
+    <u>Note</u>: Click <strong>Guided Search</strong> to search for specific words/phrases.
     <li>Click the <strong>View Details</strong> icon to find out more about a particular website.</li>
     <li>To launch a website, click the Website Card. Alternatively, click the <strong>Expand</strong> icon from the Website Details Card. You will be redirected to the website on a new tab.</li>
 </ol>
