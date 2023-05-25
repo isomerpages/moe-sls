@@ -5,11 +5,11 @@ description: ""
 third_nav_title: Differentiate
 ---
 <h1 id="set-differentiated-access">Set Differentiated Access</h1>
-<p>Teachers can set differentiated access for Activities within a Lesson. Only students who are given access to an Activity will be able to access it. This access can be managed from the Assignment Settings subpage, which can be accessed from the Assignment Summary (when assigning a new Lesson) or from an Assignment (by clicking <strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><em>**</em></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong>Manage Assignment Settings<strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><em>**</em></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong>). <strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><em>**</em></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>
+<p>Teachers can set differentiated access for Activities within a Lesson. Only students who are given access to an Activity will be able to access it. This access can be managed from the Assignment Settings subpage, which can be accessed from the Assignment Summary (when assigning a new Lesson) or from an Assignment (by clicking <strong>Manage Assignment Settings</strong>). </p>
 <ol>
-<li>From the Assignment Settings subpage, click the <strong><strong><strong><strong><strong><strong><strong><strong><strong>**</strong></strong></strong></strong></strong></strong></strong></strong></strong>Activity Assignment<strong><strong><strong><strong><strong><strong><strong><strong><strong>**</strong></strong></strong></strong></strong></strong></strong></strong></strong> tab.</li>
-<li><p>Click <strong><strong><strong><strong><strong><strong><em>**</em></strong></strong></strong></strong></strong></strong>Show Activities ()<strong><strong><strong><strong><strong><strong><em>**</em></strong></strong></strong></strong></strong></strong> to view the list of Activities within a Section.</p>
-<p> Note: The number of Activities within a Section is indicated as a number in parenthesis. </p>
+<li>From the Assignment Settings subpage, click the <strong>Activity Assignment</strong> tab.</li>
+<li><p>Click <strong>Show Activities ()</strong> to view the list of Activities within a Section.</p>
+	<p><u>Note</u>: The number of Activities within a Section is indicated as a number in parenthesis. </p>
 </li>
 <li><p>To set Differentiated Access for individual Activities, click the dropdown arrow on the Activity Cards. To set Differentiated Access for multiple Activities, select the checkboxes beside the Activity titles, followed by <strong>Set Differentiated Access</strong>.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd5c4a80-bed6-4e9b-94b8-33628dd36aea/Untitled.png"></p>
@@ -17,5 +17,5 @@ third_nav_title: Differentiate
 <li><p>You can choose to view your students by Form Class or by Subgroup. Select the relevant option from the dropdown list.</p>
 </li>
 <li>Select the Form Class or Subgroup you wish to give access to by selecting the checkboxes beside the Form Class or Subgroup. </li>
-<li>Click <strong><em>**</em></strong>Save<strong><em>**</em></strong> followed by <strong>X</strong>.</li>
+<li>Click <strong>Save</strong> followed by <strong>X</strong>.</li>
 </ol>
