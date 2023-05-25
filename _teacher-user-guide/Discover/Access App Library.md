@@ -48,6 +48,5 @@ third_nav_title: Discover
       <li>
         To launch an App, click the App Card. Alternatively, click the <strong>Expand</strong>
         icon <img style="width:1rem; display: inline;" src="/images/Icons/external-link.svg"> from the App Details Card. You will be redirected to the App on a new tab.
-				<p><u>Note</u>: You will need to enable pop-up in order for the App to launch.</p>
-      </li>
-    </ol>
+<p><u>Note</u>: You will need to enable pop-up in order for the App to launch.</p>
+</li></ol>
