@@ -9,7 +9,7 @@ third_nav_title: Discover
     <h2>Using Search Bar from Homepage</h2>
     <hr>
     <ol>
-      <li>Click the <strong>Magnifying Glass</strong> icon <img style="width:10%; display: inline;" src="/images/Icons/Search.svg">on the header of the homepage to open the Search Bar.</li>
+      <li>Click the <strong>Magnifying Glass</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Search.svg">on the header of the homepage to open the Search Bar.</li>
       <li>Enter your search terms, if any, in the Search Bar.</li>
       <li>Press <strong>Enter</strong> to return your search results.</li>
     </ol>
