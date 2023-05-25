@@ -29,4 +29,4 @@ third_nav_title: Customise
 <li>Check your email immediately to obtain the verification code.</li>
 <li>Enter the 6-digit verification code and click <strong>Proceed</strong>.</li>
 </ol>
-<p>Note: The verification code is only valid for 10 minutes.</p>
+<p><u>Note</u>: The verification code is only valid for 10 minutes.</p>
