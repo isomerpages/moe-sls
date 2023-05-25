@@ -16,7 +16,7 @@ third_nav_title: Discover
 		<a target="_blank" href="/images/2Teacher/D-LessonDetails.png"><img alt="LessonDetails" src="/images/2Teacher/D-LessonDetails.png"></a>
 		<li>You will be able to view details as such the Sections and Activities within the Lesson, Location, Created by, Last Edited by, View Count, and Keyword Tags.</li>
 		<li>You can view Teacher Notes by toggling <strong>View Teacher Notes</strong> on/off.</li>
-		<li>To view the Lesson in a new tab, click the <strong>Expand</strong> icon <img style="width:10%; display: inline;" src="/images/Icons/external-link.svg"></li>
+		<li>To view the Lesson in a new tab, click the <strong>Expand</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/external-link.svg"></li>
 	</ol>
 	<h2>View Lesson Details from Starred Resources</h2>
 	<ol>
