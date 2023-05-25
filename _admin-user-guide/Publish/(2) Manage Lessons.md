@@ -72,7 +72,7 @@ third_nav_title: Publish
 <ol>
 <li>Unpublish the Resource by clicking the <strong>Unpublish</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/UnpublishLesson32.svg">.</li>
 <li>Click the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg"> to make the necessary edits.</li>
-<li>Click the <strong>Done</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Done.svg"> to save your changes, followed by the <strong>Approve</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Approve.svg">[icon] to publish the edited Resource to MOE Library.</li>
+<li>Click the <strong>Done</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Done.svg"> to save your changes, followed by the <strong>Approve</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/ApproveLesson32.svg"> to publish the edited Resource to MOE Library.</li>
 </ol>
 <h2 id="edit-a-lesson-for-cos-">Edit a Lesson (For COs)</h2>
 <hr>
