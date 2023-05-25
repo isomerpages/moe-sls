@@ -43,7 +43,7 @@ third_nav_title: Administer
 <li><p>Click <strong>OK</strong> on the confirmation prompt.</p>
 </li>
 </ol>
-<h2 id="completing-the-verification-">Completing <strong>the Verification</strong></h2>
+<h2 id="completing-the-verification-">Completing the Verification</h2>
 <hr>
 <ol>
 <li>You may make changes to the verification any time before you click Complete Verification and before the verification exercise ends.</li>
