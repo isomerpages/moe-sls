@@ -8,7 +8,7 @@ third_nav_title: Assign
 <h2 id="-create-annotations-highlights-"><strong>Create Annotations (Highlights)</strong></h2>
 <hr>
 <p>After you have assigned a Lesson to students, you are able to make annotations (highlights) in your own copy of the Assignment.</p>
-<p>Note: Annotations can only be done in the teacher view. Your students are not able to view these annotations.</p>
+<p><u>Note</u>: Annotations can only be done in the teacher view. Your students are not able to view these annotations.</p>
 <ol>
 <li>In an Assignment, select an <strong>Activity</strong> from the Activity List shown on the left by clicking an <strong>Activity</strong> icon [insert icons - or Quiz.svg]. Alternatively, you can click the <strong>Expand Activity List</strong> icon to view the Activity titles.</li>
 <li>If there are Sections in the Assignment, select the <strong>Section</strong> icon [insert icon] to view the list of Activities within. To select Activities in a different Section, click the respective <strong>Section</strong> icons. Alternatively, click the <strong>Expand Activity List</strong> icon to view the full list of Sections.</li>
