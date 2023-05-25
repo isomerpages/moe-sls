@@ -10,7 +10,7 @@ third_nav_title: Assess
 <p>Only in a Teacher-Marked Quiz will you be able to allocate/edit marks and provide Comments for open-ended questions (i.e. Free-Response, Audio-Response, File Submission questions) to students.</p>
 <ol>
 <li>When a student had completed and submitted a Teacher-Marked Quiz, it will be indicated with the <strong>To Be Marked</strong> tag [insert TobeMarked.png] in the Heatmap.</li>
-<li><p>The <strong>Pen</strong> icon [insert Pen.svg] will also appear in the following places to indicate marking is needed:</p>
+<li><p>The <strong>Pen</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pen.svg">  will also appear in the following places to indicate marking is needed:</p>
 <ul>
 <li>Assignment Card on homepage</li>
 <li>Assignment page</li>
