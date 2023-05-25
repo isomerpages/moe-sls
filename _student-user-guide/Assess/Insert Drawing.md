@@ -39,13 +39,6 @@ third_nav_title: Assess
 </li>
 <li>To edit the drawing, click the <strong>Edit Image</strong> icon<img style="width:1rem; display: inline;" src="/images/Icons/EditImage.svg">  to open up the drawing tool again.</li>
 <li>To delete the entire drawing, click the <strong>Trash</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Trash.svg">.</li>
-<li><del>Upon clicking the <strong>Settings</strong> icon you can edit the drawing's:</del><ul>
-<li><del>Title</del></li>
-<li><del>Description</del></li>
-<li><del>Keyword Tags</del></li>
-</ul>
-</li>
-<li><del>Once done, click <strong>Save</strong>.</del></li>
 </ol>
 <h2 id="-starting-with-background-image-"><strong>Starting with Background Image</strong></h2>
 <hr>
