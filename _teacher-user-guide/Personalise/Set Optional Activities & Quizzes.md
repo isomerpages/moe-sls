@@ -20,6 +20,6 @@ third_nav_title: Personalise
 <li><p>Click the <strong>Expand Activity List</strong> icon [icon img] to open the Full Activity List. Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) of an Activity/Section and select <strong>Set As Optiona</strong>l.</p>
 </li>
 <li><p>Click the <strong>Lesson Plan</strong> icon [icon], click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) of an Activity/Section and select <strong>Set As Optional</strong>.</p>
-<p> Note: Optional Activities/Quizzes are indicated with [insert icon] in the Activity List.</p>
+	<p> <u>Note</u>: Optional Activities/Quizzes are indicated with [insert icon] in the Activity List.</p>
 </li>
 </ol>
