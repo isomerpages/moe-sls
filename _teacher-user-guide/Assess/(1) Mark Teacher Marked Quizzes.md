@@ -39,7 +39,7 @@ third_nav_title: Assess
 </li>
 <li>Enter your Comments in the Rich Text Editor. If you wish to attach a file from your Google Drive, click here [hyperlink teacher/Integration/AboutGoogle.html]. </li>
 <li>Click <strong>Post</strong> to proceed.</li>
-<li><p>Enter the marks for each question and click <strong><em>**</em></strong>Save<strong><em>**</em></strong>.</p>
+<li><p>Enter the marks for each question and click <strong>Save</strong>.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1267508-901e-4ef9-80a9-7ef43a079c66/Untitled.png"></p>
 <p> Note: For Teacher Comments, you can choose to insert mathematical or chemical equations by clicking the respective icons. You can also insert drawings, upload file attachments from your local hard disk or Google Drive, or record an audio recording.</p>
 </li>
