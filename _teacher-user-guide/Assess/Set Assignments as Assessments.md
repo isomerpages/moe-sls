@@ -6,12 +6,12 @@ third_nav_title: Assess
 ---
 <h1 id="set-assignments-as-assessments">Set Assignments as Assessments</h1>
 <ol>
-<li>There are multiple ways to set assignments as Assessments.</li>
+<li>There are multiple ways to set assignments as Assessments.</li><ul>
 <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Assignment card and click <strong>Manage</strong>. Alternatively, click on the Assignment Card to open the Assignment, open the right menu and select <strong>Manage Assignment Settings</strong>.</li>
-<li>On the Assignment Settings subpage, click the <strong>Others</strong> tab.</li>
+	<li>On the Assignment Settings subpage, click the <strong>Others</strong> tab.</li></ul>
 <li>Select the checkbox beside <strong>Set as Assessment</strong>. </li>
 </ol>
-<p>Note: </p>
+<p><u>Note</u>: </p>
 <ul>
 <li><p>Assessment Cards are differentiated with a beige background.</p>
 <p>  <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dbe05dc5-d424-410a-82ab-19d8b83e3e04/Untitled.png"></p>
