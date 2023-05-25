@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assign
 ---
 <h1 id="access-assignments">Access Assignments</h1>
-<p>Important: Only your incomplete Assignments that are due in the next 7 days are shown on the homepage.</p>
+<p><u>Important</u>: Only your incomplete Assignments that are due in the next 7 days are shown on the homepage.</p>
 <h2 id="-assignments-that-are-due-soon-"><strong>Assignments that are Due Soon</strong></h2>
 <hr>
 <ol>
