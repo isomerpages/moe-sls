@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/discover/add-existing-media-objects-from-resource
 description: ""
 third_nav_title: Discover
 ---
-<h1>1c. Add Existing Media Objects from Resources</h1>
+<h1>(1c) Add Existing Media Objects from Resources</h1>
 
 <p>Image files can only be added to a Lesson Cover while Media Object can only be added via Rich Text Editor.</p>
 
