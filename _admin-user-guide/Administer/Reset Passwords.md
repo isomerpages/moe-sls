@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Administer
 ---
 <h1 id="reset-passwords">Reset Passwords</h1>
-<h2 id="reset-mims-passwords-">Reset <strong>MIMS Passwords</strong></h2>
+<h2 id="reset-mims-passwords-">Reset MIMS Passwords</h2>
 <hr>
 <p>Resetting of MIMS password can only be done through the MIMS portal. Students and teachers may approach their school’s MIMS Student Administrator and Local Administrator respectively if they require assistance.</p>
 <h2 id="-reset-teachers-sls-passwords-"><strong>Reset Teachers' SLS Passwords</strong></h2>
