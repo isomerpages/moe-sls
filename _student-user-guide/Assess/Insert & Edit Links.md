@@ -11,7 +11,7 @@ third_nav_title: Assess
 </li>
 <li><p>Key in the URL for the website that you would like the text to link to.</p>
 </li>
-<li>You may also edit the <strong>Text to display</strong> or the <strong>Title</strong>. <ol>
+<li>You may also edit the <strong>Text to display</strong> or the <strong>Title</strong>. <ol style="list-style-type: lower-alpha;">
 <li>Text to display will be the text shown for users to click on. </li>
 <li>Title will be the text shown when the user hovers on the link.</li>
 </ol>
