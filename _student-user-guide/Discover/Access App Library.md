@@ -18,20 +18,19 @@ third_nav_title: Discover
 <li>Click the <strong>View Details</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/ViewDetails.svg"> to find out more about a particular App.</li>
 		<li>To launch an App, click the App Card. You will be redirected to the App on a new tab.</li>
 	</ol>
-	<h2>Star an App</h2>
-	<hr>
-	<ol>
-		<li>From the Search in App Library page, click the <strong>View Details</strong> icon on the App Card to open the App Details Card.</li>
-		<li>Click the <strong>Star</strong> icon to star an App. Starred Apps can be found your Starred Resources [hyperlink page]</li>
-	</ol>
-	<h2>Search the App Library</h2>
-	<hr>
-	<ol>
-		<li>On the Apps Library page, enter your search terms, if any, (e.g. subtraction) in the Search Bar.</li>
-		<p><u>Note</u>: If you are unsure of what you are searching for, you can leave the Search Bar empty, and press Enter to return your search results.</p>
-		<li>The default filters have been applied for you.</li>
-		<p><u>Note</u>: Click <strong>Guided Search</strong> to search for specific words/phrases.</p>
-		<li>Click the <strong>View Details</strong> icon to find out more about a particular App.</li>
-		<li>To launch an App, click the App Card. Alternatively, click the <strong>Expand</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/external-link.svg"> from the App Details Card. You will be redirected to the App on a new tab.</li>
-	<p><u>Note</u>: You will need to enable pop-ups in order for the App to launch.</p>
-	</ol>
+<h2>Star an App</h2>
+<hr>
+<ol>
+<li>From the Search in App Library page, click the <strong>View Details</strong> icon on the App Card to open the App Details Card.</li>
+<li>Click the <strong>Star</strong> icon to star an App. Starred Apps can be found your Starred Resources [hyperlink page]</li>
+</ol>
+<h2>Search the App Library</h2>
+<hr>
+<ol>
+<li>On the Apps Library page, enter your search terms, if any, (e.g. subtraction) in the Search Bar.</li>
+<p><u>Note</u>: If you are unsure of what you are searching for, you can leave the Search Bar empty, and press Enter to return your search results.</p>
+<li>The default filters have been applied for you.</li>
+<p><u>Note</u>: Click <strong>Guided Search</strong> to search for specific words/phrases.</p>
+<li>Click the <strong>View Details</strong> icon to find out more about a particular App.</li>
+<li>To launch an App, click the App Card. Alternatively, click the <strong>Expand</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/external-link.svg"> from the App Details Card. You will be redirected to the App on a new tab.</li>
+<p><u>Note</u>: You will need to enable pop-ups in order for the App to launch.</p></ol>
