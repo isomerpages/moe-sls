@@ -6,7 +6,7 @@ third_nav_title: Assess
 ---
 <h1 id="-3b-annotate-underline-students-responses">(3b) Annotate (Underline)  Students' Responses</h1>
 <p>As a teacher, you are able to make annotations (underline) in the Student's view to provide individualised feedback.</p>
-<p>Note:</p>
+<p><u>Note</u>:</p>
 <ul>
 <li>You can annotate (underline) question texts and images in the Student's view of the Assignment.</li>
 <li>You can also annotate (underline) student's Free-Response Question responses.</li>
