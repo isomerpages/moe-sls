@@ -12,8 +12,9 @@ third_nav_title: Customise
 <li>On the Profile page, select <strong>Set Email Address</strong> under Account Settings.</li>
 
 <p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e57afe4-51f7-4504-a63d-e0ce3d857630/Untitled.png"></p>
-<pre><code>◦ You will need <span class="hljs-built_in">to</span> enter <span class="hljs-keyword">an</span> email address under Alternate Email.
-</code></pre>
+<ul>
+    <li>You will need to enter an email address under Alternate Email.</li>
+</ul>
 <li>Click <strong>Save</strong>.</li>
 </ol>
 <p>Did You Know?</p>
