@@ -6,7 +6,7 @@ third_nav_title: Track Progress
 ---
 <h1 id="-2a-view-by-topic">(2a) View by Topic</h1>
 <p>Topics and subtopics are displayed according to the Content Map selected. There may be more than one Content Map for a particular subject based on the syllabus by SEAB.</p>
-<p>Note: Only questions that are selected by your teacher or the lesson author to be included will be shown in the Learning Progress. </p>
+<p><u>Note</u>: Only questions that are selected by your teacher or the lesson author to be included will be shown in the Learning Progress. </p>
 <ol>
 <li>From the Selection dropdown list, you may select the option to display Learning Progress of <strong>All</strong>, <strong>Self-Study</strong> or <strong>Class Group</strong>.</li>
 <li><p>On the Learning Progress page, you may view your overall progress according to topic by clicking the <strong>Topical</strong> tab. Under each topic/subtopic, the Awarded Marks, Total Marks, and Marks (shown in percentage) are displayed.</p>
@@ -14,9 +14,7 @@ third_nav_title: Track Progress
 </li>
 <li><p>From the list of Topics, you may view the Subtopics by clicking on the <strong>dropdown arrow</strong> beside each Topic.</p>
 </li>
-</ol>
-<p>Note: The breakdown of Awarded Marks, Total Marks, and Marks (shown in percentage) are shown for each subtopic.</p>
-<ol>
+<p><u>Note</u>: The breakdown of Awarded Marks, Total Marks, and Marks (shown in percentage) are shown for each subtopic.</p>
 <li><p>You may also search for resources related to the particular subject and topic/subtopic by clicking on the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and selecting <strong>Search for Lessons</strong>.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b5ddf222-0ba7-498d-b85f-342db48dc02b/Untitled.png"></p>
 </li>
