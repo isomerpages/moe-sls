@@ -15,7 +15,7 @@ third_nav_title: Organise
   <li>Click <strong>Add Student</strong> and select either <strong>Student (School)</strong>, <strong>Student (Group)</strong>, or <strong>Teacher as Student</strong>.</li>
 </ol>
 
-<p><strong>Note:</strong></p>
+<p><u>Note:</u></p>
 <ul>
   <li>If you add a teacher as a <strong>Student (School)</strong> or <strong>Student (Group)</strong>, the teachers will be added as students and can only view Assignments when they switch to their student account. They will not have admin privileges to the Class Group.</li>
   <li>If you add a teacher as a <strong>Teacher as Student</strong>, the teachers will be added as Liaison Teachers and will be able to manage students that are from the same school in the Class Group. They will also be able to view Assignments using their student account. You can change the role of the teacher through the Teacher tab.</li>
