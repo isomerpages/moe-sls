@@ -20,7 +20,7 @@ third_nav_title: Author
 <li>File Submission: Allow file submission checkbox will be checked. If checked, students have the option of uploading a file when they submit their responses. Students can upload up to 10 files. <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/UsefulResources/FileSizeLimits.html">File limits</a> are based on the file type.</li>
 <li>Language Feedback (EL): Learning Feedback Assistance (LFA) is currently undergoing pilot in participating schools.</li>
 <li><p>Mathematics Feedback: The question set using Mathematics Feedback will appear in the Pre-populated Student Answer Field. You can edit the question by clicking the <strong>Pencil</strong> icon or delete by clicking the <strong>Trash</strong> icon. Mathematics Feedback provides feedback (and Marks if checked) to students after they submit their response.</p>
-<p>  Note: File Submission and Suggested Answer Field is disabled when using Mathematics Feedback.</p>
+	<p><u>Note</u>: File Submission and Suggested Answer Field is disabled when using Mathematics Feedback.</p>
 </li>
 </ul>
 </li>
@@ -38,16 +38,16 @@ third_nav_title: Author
 <p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c17e085d-ecdd-4a4d-a71c-30531e8d8be2/Untitled.png"></p>
 <ul>
 <li><p>Pre-populated Student Answer - This allows you to insert an answer stem to scaffold students' responses, or to provide an image for students to work on. When students answer the question, they will be able to directly edit this answer stem or image. Students can edit the images provided by clicking the <strong>Edit Drawing</strong> icon [insert icon] and drawing on it.</p>
-<p>  Note: You can also use Google Response to Pre-populated Student Answer.</p>
+	<p><u>Note</u>: You can also use Google Response to Pre-populated Student Answer.</p>
 </li>
 <li><p>Add Rubrics - This allows students to view the rubrics while they attempt the question.</p>
-<p>  Note: Show and use rubric marks checkbox - If checked, marks will be defined by the Rubrics.</p>
+	<p><u>Note</u>: Show and use rubric marks checkbox - If checked, marks will be defined by the Rubrics.</p>
 </li>
 <li><p>Suggested Answer - The suggested answer to the question. This is shown to students after they have submitted their answers.</p>
 </li>
 <li>Feedback - The explanation to the question's answer(s). This is shown to students after they have submitted their answers.</li>
 <li><p>Marks - You can set the number of marks. The default is one mark.</p>
-<p>  Note: Marks will have to be awarded before students can view the Suggested Answer and Feedback. </p>
+	<p><u>Note</u>: Marks will have to be awarded before students can view the Suggested Answer and Feedback. </p>
 </li>
 <li><p>Click here for editing the Question Component Details Card.</p>
 </li>
