@@ -38,6 +38,6 @@ third_nav_title: Administer
 <ol>
 <li>On the Manage Subjects page, click the <strong>Subject Name</strong> of the School Based Subject you wish to manage.</li>
 <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the View Subject subpage.</li>
-<li>Select <strong>Edit</strong> to edit the Subject Name and Subject Code. Click the <strong>Save</strong> icon to confirm your changes.</li>
+<li>Select <strong>Edit</strong> to edit the Subject Name and Subject Code. Click the <strong>Save</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Save.svg"> to confirm your changes.</li>
 <li>Select <strong>Delete</strong> to remove the Subject. Click <strong>Ok</strong> on the confirmation prompt.</li>
 </ol>
