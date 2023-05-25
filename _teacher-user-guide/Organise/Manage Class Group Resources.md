@@ -33,7 +33,7 @@ third_nav_title: Organise
 <p> <img alt="CGR-4.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4c81ce18-99cc-48e0-801b-a8b30a940b81/CGR-4.png"></p>
 </li>
 </ol>
-<p>Note: For MOE Library resources, permission to make a copy has to be enabled in order for the Resource to be added to Class Group Resources. </p>
+<p><u>Note</u>: For MOE Library resources, permission to make a copy has to be enabled in order for the Resource to be added to Class Group Resources. </p>
 <h2 id="create-categories">Create Categories</h2>
 <ol>
 <li><p>On the <strong>Resource</strong> tab in the Class Group, click <strong>Add Resource</strong> and select <strong><strong><strong>**</strong></strong></strong>Category<strong><strong><strong>**</strong></strong></strong>.</p>
