@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="text-to-speech-tts-">Text-to-Speech (TTS)</h1>
-<p>Note: Text-to-Speech is only available in Chinese, Malay and Tamil.</p>
+<p><u>Note</u>: Text-to-Speech is only available in Chinese, Malay and Tamil.</p>
 <hr>
 <ol>
 <li>If Text-to-Speech has been enabled by your teacher, you will see an audio clip in your Assignment. The text to the audio clip is found below.</li>
