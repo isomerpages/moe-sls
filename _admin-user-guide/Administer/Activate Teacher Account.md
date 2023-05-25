@@ -11,12 +11,9 @@ third_nav_title: Administer
 <li>Teacher Accounts for permanent teachers employed by MOE in government and government-aided schools are automatically created using information from MIMS. There is no action required from schools since these accounts are auto-generated.</li>
 <li><p>The following groups of teachers can make an application for SLS access through the MIMS portal:</p>
 <ol>
-<li><p>Flexi-adjunct teachers</p>
-<ol>
+<li>Flexi-adjunct teachers</li>
 <li>Relief teachers</li>
 <li>Direct-hire teachers in independent or specialised schools</li>
-</ol>
-</li>
 </ol>
 </li>
 <li><p>The SLS account will be ready three days after SLS access is granted via MIMS.</p>
