@@ -42,7 +42,7 @@ third_nav_title: Administer
 <ol>
 <li>On the Manage Class Group page, click <strong>Add New Class</strong>.</li>
 <li>Fill in the following details - Class Code, Subject Name, Level, School, Admin Remarks (Optional).</li>
-<li>Click the <strong>Students ( )</strong> tab <strong>**followed by </strong>Add Student<strong> to add students into the Class Group. You can search for students by their Names, or click the </strong>Filter** icon to filter the students by Form Class and Level.</li>
+<li>Click the <strong>Students ( )</strong> tab followed by <strong> Add Student</strong> to add students into the Class Group. You can search for students by their Names, or click the <strong>Filter </strong> icon to filter the students by Form Class and Level.</li>
 <li>Select the checkboxes next to the students' names and click <strong>Add</strong>.</li>
 <li>Click the <strong>Teachers ( )</strong> tab followed by <strong>Add Teachers as Owner</strong> to add teachers into the Class Group. You can search for teachers by their Names.</li>
 <li>Select the checkboxes next to the teachers' names and click <strong>Add</strong>.</li>
@@ -50,7 +50,7 @@ third_nav_title: Administer
 <li>Click <strong>Create</strong> to proceed.</li>
 <li>Alternatively, you may import multiple classes at once by clicking <strong>Import Class</strong>.</li>
 <li><p>Select your School from the dropdown list and Import Type (Class, Student Allocation, or Teacher Allocation). Upload the .csv file and click <strong>Upload</strong>. </p>
-<p>Note: You can download the different Import Template .csv files by clicking <strong>Download Class/Student Allocation/Teacher Allocation Import Template Here</strong>. </p>
+	<p><u>Note</u>: You can download the different Import Template .csv files by clicking <strong>Download Class/Student Allocation/Teacher Allocation Import Template Here</strong>. </p>
 <p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b415799-c18d-46da-838e-acb34ccc0d85/Untitled.png"></p>
 </li>
 </ol>
