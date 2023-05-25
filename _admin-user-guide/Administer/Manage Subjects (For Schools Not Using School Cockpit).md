@@ -28,7 +28,7 @@ third_nav_title: Administer
 <li>Click <strong>Create</strong> to proceed.</li>
 <li>Alternatively, you may import multiple subjects at once by clicking <strong>Import Subject</strong>.</li>
 <li><p>Select your School from the dropdown list. Upload the .csv file and click <strong>Upload</strong>. </p>
-<p> Note: You can download the Subject Import Template .csv file by clicking <strong>Download Subject Import Template Here</strong>. </p>
+	<p><u>Note</u>: You can download the Subject Import Template .csv file by clicking <strong>Download Subject Import Template Here</strong>. </p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/408e7cb4-1d11-46e5-ae50-fe8a256cf130/Untitled.png"></p>
 </li>
 </ol>
