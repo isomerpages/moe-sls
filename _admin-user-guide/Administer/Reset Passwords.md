@@ -51,4 +51,4 @@ third_nav_title: Administer
 <li>A confirmation prompt will pop up indicating the number of users selected. Click <strong>OK</strong>.</li>
 <li>When password reset is successful, copy the One-Time Password (OTP) and disseminate it to the students. This OTP will last for one year or until it is regenerated again by another School Admin or Teacher.</li>
 </ol>
-<p>Note: The OTP needs to be entered by students on the existing SLS login page and not the MIMS login page.</p>
+<p><u>Note</u>: The OTP needs to be entered by students on the existing SLS login page and not the MIMS login page.</p>
