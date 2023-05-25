@@ -17,7 +17,7 @@ third_nav_title: Collaborate
 </ul>
 </li>
 <li><p>To share an assignment:</p>
-<ol>
+<ol style="list-style-type: lower-alpha;">
 <li>Click the <strong>Overflow</strong> <strong>(3-dot</strong> icon<strong>)</strong> to open the right menu. Click <strong>Share</strong>.</li>
 <li><p>Click the <strong>User Avatar</strong> icon followed by the <strong>Plus</strong> (<strong>+</strong> icon).</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/61166a55-b53b-4f78-b1f5-e90a9667f1c3/Untitled.png"></p>
