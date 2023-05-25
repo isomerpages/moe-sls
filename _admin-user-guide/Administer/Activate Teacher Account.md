@@ -20,7 +20,7 @@ third_nav_title: Administer
 </ol>
 </li>
 <li><p>The SLS account will be ready three days after SLS access is granted via MIMS.</p>
-<p> Note: </p>
+<p> <u>Note</u>: </p>
 <ul>
 <li>Please ensure that a MIMS account has been created for the teacher and is currently active.</li>
 <li>Applications submitted through email will no longer be accepted.</li>
@@ -34,7 +34,7 @@ third_nav_title: Administer
 <hr>
 <ol>
 <li><p>Once a teacher's account is created, an activation email will automatically be sent to his/her email address (usually the iCON email, if available).</p>
-<p> Note: SLS School Admins are not involved in the activation of teacher accounts.</p>
+<p><u>Note</u>: SLS School Admins are not involved in the activation of teacher accounts.</p>
 </li>
 <li><p>Teachers will be able to activate their SLS accounts by clicking on the link found in the activation email. 
 Note: Teachers will only be able to log in with MIMS after they have activated their SLS account through the link provided in the email.</p>
