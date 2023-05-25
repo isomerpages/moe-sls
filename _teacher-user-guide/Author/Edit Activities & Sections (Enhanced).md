@@ -21,7 +21,7 @@ third_nav_title: Author
 <li>Set As Optional - The Activity will be Optional for students to complete.</li>
 <li><p>Delete</p>
 <p>  <img alt="Screenshot 2023-03-10 at 2.24.01 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d584e6b4-344e-4a9e-8fe3-da6dd3564a8b/Screenshot_2023-03-10_at_2.24.01_PM.png"></p>
-<p>  Note: In the Lesson Plan, click the <strong>Pencil</strong> icon [insert icon] to edit the Activity Title and Save icon [icon] to save.</p>
+	<p><u>Note</u>: In the Lesson Plan, click the <strong>Pencil</strong> icon [insert icon] to edit the Activity Title and Save icon [icon] to save.</p>
 </li>
 </ul>
 </li>
@@ -42,4 +42,4 @@ third_nav_title: Author
 <li>Go to Lesson Plan, if you want to Move Section Up/Down or to Rename Section Title by clicking the <strong>Pencil</strong> icon [insert icon] to edit the Section Title and Save icon [icon] to save.</li>
 </ol>
 <p><img alt="Screenshot 2023-03-10 at 2.32.06 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0cfe4fb5-c6d6-4d3a-8533-4bb8e9ca3cdc/Screenshot_2023-03-10_at_2.32.06_PM.png"></p>
-<p>Note: The viewable toggle is only selectable when there is only one section. When there are two or more sections, it cannot be switched off.</p>
+<p><u>Note</u>: The viewable toggle is only selectable when there is only one section. When there are two or more sections, it cannot be switched off.</p>
