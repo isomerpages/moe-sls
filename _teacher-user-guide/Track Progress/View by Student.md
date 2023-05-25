@@ -9,8 +9,8 @@ third_nav_title: Track Progress
 <p>Note: Only questions that are selected to be included will be shown in the Learning Progress. Refer to Tag a Question [hyperlink] for more details.</p>
 <ol>
 <li>On the Learning Progress page, you may view the overall progress of individual students by clicking the <strong>Student</strong> tab. The Awarded Marks, Total Marks and Marks (shown in percentage) are displayed.</li>
-<li>To view the Learning Progress page for individual students, click the <strong>Learning Progress</strong> icon beside the student’s name. </li>
-<li><p>To view the overall progress of individual students for a Topic/Sub-topic over a certain duration, click the <strong>Filter</strong> icon and choose the <strong>Month Range</strong> and <strong>Topic/Sub-topic</strong> from the dropdown list. Click <strong>Apply</strong> to perform your selection.</p>
+<li>To view the Learning Progress page for individual students, click the <strong>Learning Progress</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/LearningProgress.svg"> beside the student’s name. </li>
+<li><p>To view the overall progress of individual students for a Topic/Sub-topic over a certain duration, click the <strong>Filter</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Filter24.svg"> and choose the <strong>Month Range</strong> and <strong>Topic/Sub-topic</strong> from the dropdown list. Click <strong>Apply</strong> to perform your selection.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bc262bcf-6482-45ef-823b-a1bd0b190984/Untitled.png"></p>
 </li>
 <li><p>Click <strong>View Details</strong> under a student's name to view the student's overall progress for each assignment, and the number of times a Sub-topic was attempted. The score of the student is shown on the top right of the subpage.</p>
