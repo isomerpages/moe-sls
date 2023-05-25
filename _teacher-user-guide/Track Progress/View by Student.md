@@ -6,7 +6,7 @@ third_nav_title: Track Progress
 ---
 <h1 id="-2c-view-by-student">(2c) View by Student</h1>
 <p>The overall progress (in terms of marks) by individual students is displayed according to the Content Map selected. There may be more than one Content Map for a particular subject according to the syllabus by SEAB.</p>
-<p>Note: Only questions that are selected to be included will be shown in the Learning Progress. Refer to Tag a Question [hyperlink] for more details.</p>
+<p><u>Note</u>: Only questions that are selected to be included will be shown in the Learning Progress. Refer to Tag a Question [hyperlink] for more details.</p>
 <ol>
 <li>On the Learning Progress page, you may view the overall progress of individual students by clicking the <strong>Student</strong> tab. The Awarded Marks, Total Marks and Marks (shown in percentage) are displayed.</li>
 <li>To view the Learning Progress page for individual students, click the <strong>Learning Progress</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/LearningProgress.svg"> beside the student’s name. </li>
@@ -24,4 +24,4 @@ third_nav_title: Track Progress
 <li><p>To open the Assignment, click the <strong>Expand</strong> icon. <img style="width:1rem; display: inline;" src="/images/Icons/external-link.svg"></p>
 </li>
 </ol>
-<p>Note: To add student(s) into a Subgroup, select the checkboxes beside the name(s) and click <strong>Add to Subgroup</strong> found in the header of the table.</p>
+<p><u>Note</u>: To add student(s) into a Subgroup, select the checkboxes beside the name(s) and click <strong>Add to Subgroup</strong> found in the header of the table.</p>
