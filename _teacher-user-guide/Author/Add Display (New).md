@@ -16,18 +16,18 @@ third_nav_title: Author
 </ul>
 </li>
 </ol>
-<p>Note: You can only add Text/Media, Multiple-Choice Questions, and Free-Response Questions components in multiple columns and accordions.</p>
+<p><u>Note</u>: You can only add Text/Media, Multiple-Choice Questions, and Free-Response Questions components in multiple columns and accordions.</p>
 <h2 id="add-page-break-new-">Add Page-Break (NEW)</h2>
 <hr>
 <ol>
 <li>Page-Break will create a page layout and you can add different Components from the Component Bar on each page.</li>
 <li><p>Open the <strong>Overflow</strong> (<strong>3-dot</strong> icon) beside the Page <strong>Number</strong> to Add Page After/Before, Move Left/Right, or Delete.</p>
-<p> Note: The question numbering will continue from the previous page.</p>
+	<p><u>Note</u>: The question numbering will continue from the previous page.</p>
 </li>
 <li><p>Click the Up/Down Arrows to move your Components Up/Down within a page.</p>
 </li>
 <li><p>Open the <strong>Overflow</strong> (<strong>3-dot</strong> icon) beside the Component to Move it to the Previous/Next Page or Delete.</p>
-<p> Note: </p>
+	<p><u>Note</u>: </p>
 <ul>
 <li>When you move a Component to the Next Page, it will appear on the top of that page.</li>
 <li><p>When you move a Component to the Previous Page, it will appear at the bottom of that page.</p>
