@@ -6,7 +6,7 @@ third_nav_title: Track Progress
 ---
 <h1 id="-2c-view-by-question">(2c) View by Question</h1>
 <p>The overall progress (marks) of your teacher-assigned or self-study assignments are displayed according to the Content Map selected. There may be more than one Content Map for a particular subject based on the syllabus by SEAB.</p>
-<p>Note: Only questions that are selected to be included by your teacher or lesson author will be shown in the Learning Progress. </p>
+<p><u>Note</u>: Only questions that are selected to be included by your teacher or lesson author will be shown in the Learning Progress. </p>
 <ol>
 <li><p>On the Learning Progress page, you may view the overall progress (marks) of individual assignments by clicking the Questions tab.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/880f1d32-88ab-4167-9102-b7f8a655681a/Untitled.png"></p>
