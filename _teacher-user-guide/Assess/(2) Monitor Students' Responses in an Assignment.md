@@ -25,7 +25,7 @@ third_nav_title: Assess
 <li>Toggle on/off to show marks under Setting <img style="width:1rem; display: inline;" src="/images/Icons/Settings2.svg"> : to show/hide marks on the Heatmap.</li>
 <li>Legend [insert Legend.svg]: legend for the colours and icons used in the Heatmap.</li>
 <li><p>Heatmap: table of students and their response data. All questions will be indicated in this table. Click the <strong>Section</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Section.svg"> to navigate to a Section. Within a Section, click the <strong>Activity</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/ActivityIcon.svg">, <img style="width:1rem; display: inline;" src="/images/Icons/ActivityOptional32.svg"> or <img style="width:1rem; display: inline;" src="/images/Icons/Quiz.svg"> to navigate to an Activity. Team Quizzes will be indicated with the <strong>Team</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/TeamSubmission.svg">. Alternatively, click the <strong>Filter</strong> icon  <img style="width:1rem; display: inline;" src="/images/Icons/FilterTo.svg"> beside a Section or Activity icon to filter a Section or an Activity. Within an Activity, click the <strong>Question Number</strong> in the table header to view the aggregated students' responses for that particular question.</p>
-<p>  Note:</p>
+	<p> <u>Note</u>:</p>
 <ul>
 <li>You can filter your view by clicking the <strong>Filter</strong> icon. Select an Activity from the dropdown list, and filter the Assignment based on Assignment Status and Activity Status.</li>
 <li>Clicking the Question Number on the Heatmap will redirect you to the Aggregated Student Responses.</li>
@@ -42,7 +42,7 @@ third_nav_title: Assess
 <li>The number of Comments is indicated beside the Comments icon <img style="width:1rem; display: inline;" src="/images/Icons/Comment.svg">. </li>
 <li>To view comments for any response, click the Response card. </li>
 <li><p>All Comments made by you and your students will be made visible, arranged according to the time stamp, with the most recent post at the bottom. Changes to the state of the comments (e.g. deleted or edited) are also reflected in the Comments.</p>
-<p> Note: Names of students who have left a comment cannot be hidden.</p>
+	<p><u>Note</u>: Names of students who have left a comment cannot be hidden.</p>
 </li>
 <li><p>To comment on a response, click the <strong>Add</strong> on the bottom right of the Response card.</p>
 </li>
