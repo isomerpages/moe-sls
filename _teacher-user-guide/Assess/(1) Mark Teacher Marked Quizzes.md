@@ -41,7 +41,7 @@ third_nav_title: Assess
 <li>Click <strong>Post</strong> to proceed.</li>
 <li><p>Enter the marks for each question and click <strong>Save</strong>.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1267508-901e-4ef9-80a9-7ef43a079c66/Untitled.png"></p>
-<p> Note: For Teacher Comments, you can choose to insert mathematical or chemical equations by clicking the respective icons. You can also insert drawings, upload file attachments from your local hard disk or Google Drive, or record an audio recording.</p>
+	<p> <u>Note</u>: For Teacher Comments, you can choose to insert mathematical or chemical equations by clicking the respective icons. You can also insert drawings, upload file attachments from your local hard disk or Google Drive, or record an audio recording.</p>
 </li>
 <li><p>If you are in an individual student's Assignment, click the <strong>left/right</strong> arrows at the top to navigate to the next student.</p>
 </li>
@@ -59,3 +59,4 @@ third_nav_title: Assess
 <li>Proceed to the Quiz Completion page.</li>
 <li>Click <strong>Submit for Student</strong> and start marking.</li>
 </ol>
+insert As-TeacherMarkedQuiz3.png
