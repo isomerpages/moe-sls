@@ -4,35 +4,35 @@ permalink: /teacher-user-guide/gamify/game-stories-and-achievements/
 description: ""
 third_nav_title: Gamify
 ---
-<h1 id="-2-game-stories-and-achievements-">(2) <strong>Game Stories and Achievements</strong></h1>
+<h1 id="-2-game-stories-and-achievements-">(2) Game Stories and Achievements</h1>
 <h2 id="add-a-game-story-or-achievement">Add a Game Story or Achievement</h2>
 <hr>
 <ol>
 <li><p>In the Gamification subpage, click on the <strong>Game Story</strong> tab:</p>
-<ol>
+<ol style="list-style-type: lower-alpha;">
 <li>You may view Game Stories with or without conditions by clicking on the <strong>dropdown list</strong> besides Condition.</li>
-<li>To create a Game Story, click <strong>Add Game Story</strong>. You will need to enter the following details:<ol>
+<li>To create a Game Story, click <strong>Add Game Story</strong>. You will need to enter the following details:<ol style="list-style-type: lower-roman;">
 <li><strong>Title</strong> - The game story title will be pre-filled for you as “Untitled Game Story”. Change the Title to one that is concise and unique to help you identify the Game Story.</li>
 <li><strong>Description</strong> - The description allows you to describe the story, up to a character limit of 2000 characters.</li>
 <li><strong>Image</strong> - This image will be visible as a prompt for the student when they fulfill the required conditions for the Game Story. If left empty, a default Game Story icon will be populated for you.</li>
 </ol>
 </li>
-<li><p>After creating a Game Story, you may click <strong><strong><strong><strong><strong><strong><em>**</em></strong></strong></strong></strong></strong></strong>Add Conditions<strong><strong><strong><strong><strong><strong><em>**</em></strong></strong></strong></strong></strong></strong> to determine when the Game Story will appear during the lesson . All Game Stories are hidden on default until they are awarded to the students. Please read (Link to Add Conditions for Game Stories and Achievements) for more information on Conditions. </p>
+<li><p>After creating a Game Story, you may click <strong>Add Conditions</strong> to determine when the Game Story will appear during the lesson . All Game Stories are hidden on default until they are awarded to the students. Please read (Link to Add Conditions for Game Stories and Achievements) for more information on Conditions. </p>
 <p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e68be24-a003-4eda-93d2-f4e82568041d/Untitled.png"></p>
 </li>
 </ol>
 </li>
 <li><p>In the <strong>Achievements</strong> tab:</p>
-<ol>
+<ol style="list-style-type: lower-alpha;">
 <li>You may view Achievements with or without conditions by clicking on the <strong>dropdown list</strong> besides Condition.</li>
-<li>To create an Achievement, click <strong>Add Achievement.</strong> You will need to enter the following details:<ol>
+<li>To create an Achievement, click <strong>Add Achievement.</strong> You will need to enter the following details:<ol style="list-style-type: lower-roman;">
 <li><strong>Title</strong> - The achievement title will be pre-filled for you as “Untitled Achievement”. Change the Title to one that is concise and unique to help you identify the Achievement.</li>
 <li><strong>Description</strong> - The description allows you to describe the Achievement and write congratulatory messages, up to a character limit of 2000 characters.</li>
 <li><strong>Icon</strong> - This icon will be visible as a prompt for the student when they achieve the required conditions for this Achievement and as an icon for this Achievement on the Leaderboard. If left empty, a default Achievement icon will be populated for you.</li>
 <li><strong>Hide Achievement</strong> - Click on the checkbox if you want the achievement to be hidden from students until it is awarded to them. When unchecked, the achievement will be shown to students. Students will not own the achievement until they fulfill the conditions.</li>
 </ol>
 </li>
-<li><p>After creating an Achievement, you may click <strong><strong><strong><strong><strong><strong><em>**</em></strong></strong></strong></strong></strong></strong>Add Conditions<strong><strong><strong><strong><strong><strong><em>**</em></strong></strong></strong></strong></strong></strong> to determine when the Achievement will appear during the lesson . Please read (Link to Add Conditions for Game Stories and Achievements) for more information on Conditions. </p>
+<li><p>After creating an Achievement, you may click <strong>Add Conditions</strong> to determine when the Achievement will appear during the lesson . Please read (Link to Add Conditions for Game Stories and Achievements) for more information on Conditions. </p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/067596cc-d28f-49fc-8270-98f876c04789/Untitled.png"></p>
 </li>
 </ol>
@@ -59,7 +59,7 @@ third_nav_title: Gamify
 <p>You can add conditions to Game Stories and Achievements in a gamified Lesson . Game Stories and Achievements will appear after all Conditions have been fulfilled. Game Stories and Achievements with no Conditions will not appear but can be awarded to students manually. </p>
 <p>Conditions that can be added are included in the table below:</p>
 <p><a href="https://www.notion.so/aa7dea5a127544828aaf8ee5790a5255">Untitled</a></p>
-<p>Note: The Section Start Condition cannot be used with other Conditions.</p>
+<p><u>Note</u>: The Section Start Condition cannot be used with other Conditions.</p>
 <ol>
 <li>To add Conditions to Game Stories/Achievements, you need to have an existing Game Story/Achievement. Click here to find out how to create a Game Story/Achievement [hyperlink manage gamification settings].</li>
 <li>The number of Conditions per Game Story/Achievement is indicated in brackets.</li>
@@ -79,7 +79,7 @@ third_nav_title: Gamify
 <li><p>Click <strong>Save</strong> to proceed.</p>
 </li>
 <li><p>The Game Story/Achievement will appear when students click <strong>Enter</strong> on the Section Cover of the Assignment.</p>
-<p>Note: The Section Start Condition cannot be used with other Conditions.</p>
+	<p><u>Note</u>: The Section Start Condition cannot be used with other Conditions.</p>
 </li>
 </ol>
 </li>
@@ -103,7 +103,7 @@ third_nav_title: Gamify
 <li><p>Click <strong>Save</strong> to proceed.</p>
 </li>
 <li><p>The Game Story/Achievement will appear shortly after students complete the quiz.</p>
-<p>Note: For Teacher-Marked Quiz, the Game Story/Achievement will appear after the Quiz is released to students.</p>
+	<p><u>Note</u>: For Teacher-Marked Quiz, the Game Story/Achievement will appear after the Quiz is released to students.</p>
 </li>
 </ol>
 </li>
