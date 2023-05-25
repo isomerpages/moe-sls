@@ -8,7 +8,7 @@ third_nav_title: Author
 <p>In the SLS, media objects are grouped into the following categories, each with its respective file size limits:</p>
 <p><a href="https://www.notion.so/2509ebe174ab4f8c9bea03fb7bcca06f">Untitled</a></p>
 <p>If the file is valid, it will be uploaded and scanned for viruses.</p>
-<p>Note:</p>
+<p><u>Note</u>:</p>
 <ul>
 <li>The virus scan may take a few seconds if the file size is large.</li>
 <li>To view Augmented Reality files, a separate software may be required.</li>
