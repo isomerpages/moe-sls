@@ -27,9 +27,7 @@ third_nav_title: Assess
 <li>You can view responses column by column by clicking on the respective column tabs.</li>
 <li>You can also view responses grouped by student by clicking the <strong>View All</strong> tab.</li>
 <li>If you see an <strong>Eye</strong> icon beside your name in the Interactive Thinking Tool Card, it means that your teacher has hidden the names of all students. You will be able to see only your name in the Interaction Board. [insert image]</li>
-</ol>
 <p>!<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/AITTClassSubmission2.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/AITTClassSubmission2.png</a></p>
-<ol>
 <li>In each column, you can click the <strong>Filter</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Filter24.svg"> to view the posts that have been bookmarked by your teacher.</li>
 </ol>
 <h2 id="-view-comments-"><strong>View Comments</strong></h2>
