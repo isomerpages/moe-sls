@@ -28,7 +28,7 @@ third_nav_title: Organise
   <li>Click <strong>Copy</strong> to proceed.</li>
 </ol>
 
-<p>Note: From R18 onwards, you will be able to view Lessons as Print-Friendly Worksheets <a href="#">(hyperlink print friendly worksheet)</a>.</p>
+<p><u>Note</u>: From R18 onwards, you will be able to view Lessons as Print-Friendly Worksheets <a href="#">(hyperlink print friendly worksheet)</a>.</p>
 
 <h2>Copy from an Assignment</h2>
 
@@ -41,14 +41,14 @@ third_nav_title: Organise
   <li>Click <strong>Copy</strong> to proceed.</li>
 </ol>
 
-<h2>Copy from Class Group Resources</h2>
-
+<h2 id="copy-from-class-group-resources">Copy from Class Group Resources</h2>
 <hr>
-
 <ol>
-  <li>On the homepage, open the left menu and click <strong>Class Groups</strong>. Alternatively, click <strong>Class Groups</strong> under the Class Groups tab.</li>
-  <li>On the Class Groups page, select the Class Group with the Class Group Resources you wish to access.</li>
-  <li>Select the <strong>Resources</strong> tab.</li>
-  <li>Click the <strong>Lesson Card</strong> to open the Lesson in a new tab.</li>
-  <li>Open the right menu and select <strong>Copy to My Drive</strong> (if permission has been granted). [SS-CopyClassGroupResource.png]</li>
-  <li>Select the folder to copy the Lesson to. By default, the <strong>My Lessons</strong> folder is chosen</li></ol>
+<li>On the homepage, open the left menu and click <strong>Class Groups</strong>. Alternatively, click <strong>Class Groups</strong> under the Class Groups tab.</li>
+<li>On the Class Groups page, select the Class Group with the Class Group Resources you wish to access. </li>
+<li>Select the <strong>Resources</strong> tab. </li>
+<li>Click the <strong>Lesson Card</strong> to open the Lesson in a new tab.</li>
+<li>Open the right menu and select <strong>Copy to My Drive</strong> (if permission has been granted). [SS-CopyClassGroupResource.png]</li>
+<li>Select the folder to copy the Lesson to. By default, the <strong>My Lessons</strong> folder is chosen for you. You can also create a <strong>New Folder</strong> within My Lessons folder if necessary.</li>
+<li>Click <strong>Copy</strong> to proceed.</li>
+</ol>
