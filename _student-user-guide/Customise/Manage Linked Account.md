@@ -19,5 +19,5 @@ third_nav_title: Customise
 </li>
 <li><p>If you have successfully linked the iCON 2.0/Google Account to SLS, the linked email address will be shown. [insert Cu-LinkedAccount1.png]</p>
 </li>
-<li>To unlink your iCON 2.0/Google Account, click <strong><strong><em>**</em></strong></strong>Unlink<strong><strong><em>**</em></strong></strong>.</li>
+<li>To unlink your iCON 2.0/Google Account, click <strong>Unlink</strong>.</li>
 </ol>
