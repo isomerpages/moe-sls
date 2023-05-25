@@ -23,7 +23,7 @@ third_nav_title: Author
 <li>Click <strong>Upload</strong> when done.</li>
 <li>The types and file sizes of Media Objects that can be uploaded into SLS can be found here [hyperlink file size limts]</li>
 <li><p>If the file is valid, it will be uploaded and scanned for viruses.</p>
-<p> Note:</p>
+	<p><u>Note</u>:</p>
 <ul>
 <li>The virus scan will take longer if the file size is large.</li>
 <li>To view files with Augmented Reality content, a separate software may be required.</li>
