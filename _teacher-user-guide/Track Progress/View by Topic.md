@@ -23,7 +23,7 @@ third_nav_title: Track Progress
 </ul>
 <p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e323a6f8-2d04-4b66-876f-c5027c423e8b/Untitled.png"></p>
 <ol>
-<li>To view the overall progress (in terms of marks) of students for a Topic/Sub-topic over a certain duration, click the <strong>Filter</strong> icon [insert Filter.svg] and choose the <strong>Month Range</strong> and <strong>Topic/Sub-topic</strong> from the dropdown list. Click <strong>Apply</strong> to perform your selection.</li>
+<li>To view the overall progress (in terms of marks) of students for a Topic/Sub-topic over a certain duration, click the <strong>Filter</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Filter24.svg"> and choose the <strong>Month Range</strong> and <strong>Topic/Sub-topic</strong> from the dropdown list. Click <strong>Apply</strong> to perform your selection.</li>
 <li>To sort the Topics/Sub-topics in ascending/descending order of marks, click the <strong>Up</strong>/<strong>Down</strong> arrows in the column headers </li>
 </ol>
 <h3 id="view-tagged-questions">View Tagged Questions</h3>
@@ -37,7 +37,7 @@ third_nav_title: Track Progress
 <li><p>Click <strong>View Details</strong> to see the tagged question in the Assignment.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bec4c8a1-a004-48bd-a01a-5484fe47a4db/Untitled.png"></p>
 </li>
-<li><p>To open the Assignment, click the <strong>Expand</strong> icon [insert external-link.svg].</p>
+<li><p>To open the Assignment, click the <strong>Expand</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/external-link.svg">.</p>
 </li>
 </ol>
 <h3 id="view-untagged-questions">View Untagged Questions</h3>
@@ -50,7 +50,7 @@ third_nav_title: Track Progress
 </li>
 <li>Click <strong>View Questions</strong> to see the Section &amp; Activity number, Question Type, and the Untagged Questions. </li>
 <li>Click <strong>View Details</strong> to see the untagged question in the Assignment.</li>
-<li>To open the Assignment, click the <strong>Expand</strong> icon. </li>
+<li>To open the Assignment, click the <strong>Expand</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/external-link.svg">. </li>
 </ol>
 <p>Did You Know?</p>
 <p>You can edit an Assignment and tag the question to a Sub-topic for it to be reflected in Learning Progress.</p>
