@@ -141,11 +141,11 @@ Students can link any Gmail account (including personal ones) with SLS. They onl
 <p> Only one Google account can be linked at a time.</p>
 </li>
 </ol>
-	</details>
+</details>
 <details>
 <summary>
 <h2 id="discover">Discover</h2>
-<summary>
+</summary>
 	<ol>
 <li><p><strong>I tried to embed a website using the embed code/URL but SLS does not allow me to.</strong></p>
 <p> If a website has not been whitelisted, you will not be able to embed the site in SLS. An alternative would be to insert a link in the Rich Text Editor by clicking <strong>Insert/edit link</strong> (<strong>Chain</strong> icon). You have the option to decide whether the link will be opened in a new window or the current window. When students click on the link, they will be redirected accordingly.</p>
@@ -161,8 +161,8 @@ Students can link any Gmail account (including personal ones) with SLS. They onl
 <p> Yes, Kami has been whitelisted for SSOE devices. Should you face any issues installing it on your SSOE device, please approach your school IT administrator or HOD ICT.</p>
 </li>
 </ol>
-</summary></summary></details>
-<details>
+</details>
+	<details>
 <summary>
 <h2 id="enact">Enact</h2>
 </summary>
