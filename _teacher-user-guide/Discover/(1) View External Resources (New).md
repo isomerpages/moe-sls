@@ -13,8 +13,8 @@ third_nav_title: Discover
 <ol>
     <li>From the homepage, open the left menu and select <strong>Resources</strong> followed by <strong>External Resources</strong>.</li>
     <li>The list of whitelisted websites can be found on the Search in External Resources page.</li>
-    <li>Click the <strong>View Details</strong> icon <img style="width:10%; display: inline;" src="/images/Icons/ViewDetails.svg">to find out more about a particular website.</li>
-    <li>To launch a website, click the Website Card. Alternatively, click the <strong>Expand</strong> icon <img style="width:10%; display: inline;" src="/images/Icons/external-link.svg"> from the Website Details Card. You will be redirected to the website on a new tab.</li>
+    <li>Click the <strong>View Details</strong> icon <img style="width: 1rem; display: inline;" src="/images/Icons/ViewDetails.svg">to find out more about a particular website.</li>
+    <li>To launch a website, click the Website Card. Alternatively, click the <strong>Expand</strong> icon <img style="width: 1rem; display: inline;" src="/images/Icons/external-link.svg"> from the Website Details Card. You will be redirected to the website on a new tab.</li>
 </ol>
 
 <h2>Search in External Resources</h2>
