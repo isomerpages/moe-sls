@@ -44,5 +44,3 @@ third_nav_title: Organise
 </li>
 </ol>
 <p><u>Note</u>: When you re-enter a Class Group, you will be on the tab that you were last on.</p>
-
-<h1>e-Poster (to KM)</h1>
