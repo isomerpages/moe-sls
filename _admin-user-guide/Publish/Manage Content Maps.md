@@ -67,6 +67,6 @@ third_nav_title: Publish
 <hr>
 <p>CO will have to seek approval from CA to unpublish a Content Map for editing. </p>
 <ol>
-<li>Once the Content Map has been unpublished, click the <strong>Pencil</strong> icon to enter the Lesson Editor.</li>
+<li>Once the Content Map has been unpublished, click the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg"> to enter the Lesson Editor.</li>
 <li>CO can submit the Content Map to CA(s) for approval after the edits are completed.</li>
 </ol>
