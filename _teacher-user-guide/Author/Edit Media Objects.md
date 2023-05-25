@@ -31,4 +31,5 @@ third_nav_title: Author
 </li>
 <li>Once done, click on the <strong>Save</strong> icon<strong>.</strong></li>
 </ol>
-<p>Note: Media Objects from MOE Library/Community Gallery cannot be edited by drawing or from its settings.</p>
+<p><u>Note</u>: Media Objects from MOE Library/Community Gallery cannot be edited by drawing or from its settings.</p>
+insert AU-EditMedia1.png
