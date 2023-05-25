@@ -20,22 +20,22 @@ third_nav_title: Assign
 <hr>
 <ol>
 <li><p>On the homepage, click <strong>Community Gallery</strong>. Alternatively, click the left menu on the header at the homepage and click <strong>Resources</strong>, followed by <strong>Community Gallery</strong>.</p>
-<p> Note: Resources shown in the Community Gallery have been pre-filtered to the Subject and Level that the teacher is tagged to. By default, they are sorted by Relevance by default.</p>
+	<p><u>Note</u>: Resources shown in the Community Gallery have been pre-filtered to the Subject and Level that the teacher is tagged to. By default, they are sorted by Relevance by default.</p>
 </li>
 <li><p>From the Search Results, click on the Community Gallery <strong>Lesson</strong> <strong>Card</strong> that you would like to view.</p>
 </li>
 <li>On the Lesson View page, open the right menu and click <strong>Add to Class Group Resources</strong>. [insert screenshot 2Teacher/LR-AddResource.png]</li>
 <li>Select the Class Group(s), followed by <strong>Choose</strong>.</li>
 <li><p>You may wish to rename the Resource Title, and edit the Permission Settings:</p>
-<ol>
-<li>Lesson or Course Permissions:<ol>
+<ol style="list-style-type: lower-alpha;">
+<li>Lesson or Course Permissions:<ol style="list-style-type: lower-roman;">
 <li><strong>Allow teachers to copy/assign/publish and students to copy this Lesson/Course</strong></li>
 <li><strong>Allow teachers and students to view print-friendly worksheet</strong></li>
 <li><strong>Allow students to reattempt Lesson/Course as self-study</strong></li>
 </ol>
 </li>
 <li><p>Visibility</p>
-<ol>
+<ol style="list-style-type: lower-roman;">
 <li><strong>Visible to students in Class Group</strong></li>
 <li><strong>Notify Student(s)</strong> - this checkbox will be active if Resource is set to be visible to students in Class Group.</li>
 </ol>
