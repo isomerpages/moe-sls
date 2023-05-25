@@ -5,12 +5,11 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="attempt-a-free-response-question">Attempt a Free-Response Question</h1>
-<p><del>Important: Your teacher may create a Team Quiz under a Teacher-Marked Quiz for you to attempt the question collaboratively with your peers. Click here [hyperlink student/Assignments/AttemptTeam.html] to learn more about Team Quizzes.</del></p>
 <h2 id="-free-response-question-"><strong>Free-Response Question</strong></h2>
 <hr>
 <ol>
 <li>From R18, your teacher is able to attach a pre-populated Google File to a Free-Response Question. To find out how you can attempt such questions, click here [hyperlink student/Integration/AboutGoogle.html]. </li>
-<li>For Free-Response Questions, your may include in your response:<ol>
+<li>For Free-Response Questions, your may include in your response:<ol style="list-style-type: lower-alpha;">
 <li>text in English, Malay, Chinese or Tamil [hyperlink Insert Chinese or Tamil Text] </li>
 <li>tables [hyperlink Insert Tables]</li>
 <li>mathematical or chemical equations [hyperlink Insert Mathematical or Chemical Equations]</li>
@@ -22,12 +21,10 @@ third_nav_title: Assess
 </ol>
 </li>
 <li>To enlarge your text box, click the <strong>Expand</strong> icon found on the bottom right of the text box.</li>
-</ol>
 <p>!<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/AFRQ.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/AFRQ.png</a></p>
-<ol>
 <li>Some Free-Response Questions may have part of the answer or drawing in the text box (e.g. Drawing a graph). This is given by your teacher to help you in refining your answer response.</li>
 </ol>
-<p>Did You Know?:</p>
+<p><u>Did You Know?</u>:</p>
 <ul>
 <li>If your teacher has set a recommended time, you will be able to see it below the Question Body.</li>
 </ul>
