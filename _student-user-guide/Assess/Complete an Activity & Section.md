@@ -9,12 +9,12 @@ third_nav_title: Assess
 <li>Upon Activity/Section completion, the Activity/Section icon will be indicated with a tick <img style="width:1rem; display: inline;" src="/images/Icons/ActivityTick.svg"> or <img style="width:1rem; display: inline;" src="/images/Icons/SectionCompleted32.svg"> .</li>
 <li>To complete a Quiz, you must submit the Quiz on the last page.</li>
 <li><p>If an Activity contains questions, you must submit your responses to all the questions to complete the Activity.</p>
-<p> Note: For Activities which only contain text/media, you will have to click <strong>Mark Activity As Complete</strong>. [insert screenshot As-MarkComplete.png]</p>
+	<p> <u>Note</u>: For Activities which only contain text/media, you will have to click <strong>Mark Activity As Complete</strong>. [insert screenshot As-MarkComplete.png]</p>
 </li>
 <li><p>To complete a Lesson, you must complete all the Activities within it.</p>
-<p> Note: If your Lesson contains Sections, you must complete all the Activities within all the Sections.</p>
+	<p> <u>Note</u>: If your Lesson contains Sections, you must complete all the Activities within all the Sections.</p>
 </li>
-<li><p>If you have difficulty accessing an Activity/Section, <del>you may wish to</del> seek assistance from your Teacher.</p>
+<li><p>If you have difficulty accessing an Activity/Section, seek assistance from your Teacher.</p>
 </li>
 </ol>
-<p>Did you know?: Sections with prerequisites will be restricted until you have completed all the Section Prerequisites  [hyperlink student/Assignments/Navigate An Assignment.html].</p>
+<p><u>Did you know?</u>: Sections with prerequisites will be restricted until you have completed all the Section Prerequisites  [hyperlink student/Assignments/Navigate An Assignment.html].</p>
