@@ -17,5 +17,5 @@ third_nav_title: Customise
 <li>Admin (Announcements from all Content Maps, Lessons, Media and Reports)</li>
 </ul>
 </li>
-<li>Click <strong><em>**</em></strong>Save<strong><em>**</em></strong> to confirm.</li>
+<li>Click <strong>Save</strong> to confirm.</li>
 </ol>
