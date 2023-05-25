@@ -42,7 +42,7 @@ third_nav_title: Administer
 <ol>
 <li>On the Manage Class Group page, click <strong>Add New Class</strong>.</li>
 <li>Fill in the following details - Class Code, Subject Name, Level, School, Admin Remarks (Optional).</li>
-<li>Click the <strong>Students ( )</strong> tab followed by <strong> Add Student</strong> to add students into the Class Group. You can search for students by their Names, or click the <strong>Filter </strong> icon to filter the students by Form Class and Level.</li>
+<li>Click the <strong>Students ( )</strong> tab followed by <strong> Add Student</strong> to add students into the Class Group. You can search for students by their Names, or click the <strong>Filter </strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Filter24.svg"> to filter the students by Form Class and Level.</li>
 <li>Select the checkboxes next to the students' names and click <strong>Add</strong>.</li>
 <li>Click the <strong>Teachers ( )</strong> tab followed by <strong>Add Teachers as Owner</strong> to add teachers into the Class Group. You can search for teachers by their Names.</li>
 <li>Select the checkboxes next to the teachers' names and click <strong>Add</strong>.</li>
