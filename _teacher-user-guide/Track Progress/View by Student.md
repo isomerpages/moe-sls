@@ -21,7 +21,7 @@ third_nav_title: Track Progress
 <li><p>Click <strong>View Details</strong> to see the selected question in the Assignment.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3274c49f-b4d9-48d1-99a1-30bd3c88515f/Untitled.png"></p>
 </li>
-<li><p>To open the Assignment, click the <strong>Expand</strong> icon.</p>
+<li><p>To open the Assignment, click the <strong>Expand</strong> icon. <img style="width:1rem; display: inline;" src="/images/Icons/external-link.svg"></p>
 </li>
 </ol>
 <p>Note: To add student(s) into a Subgroup, select the checkboxes beside the name(s) and click <strong>Add to Subgroup</strong> found in the header of the table.</p>
