@@ -9,7 +9,7 @@ third_nav_title: Notify
 	<p>To view your Announcements, click <a href="#">here</a>.</p>
 	<ol>
 		<li>To edit an Announcement, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Announcement Card followed by <strong>Edit</strong>. Alternatively, click the Announcement Card, followed by the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Edit</strong>. <img alt="Edit Announcement" src="N-EditAnnouncement.png"></li>
-		<li>You can only make changes to the Title, Message, Start Date and Start Time. <br><br>Note: You can only make changes to the Start Date and Start Time if the Announcement has not started.</li>
+		<li>You can only make changes to the Title, Message, Start Date and Start Time. <br><br><u>Note</u>: You can only make changes to the Start Date and Start Time if the Announcement has not started.</li>
 		<li>Click <strong>Save</strong> at the top of the subpage to confirm.</li>
 	</ol>
 	<h2>Delete Announcements</h2>
