@@ -28,12 +28,12 @@ third_nav_title: Author
 <ul>
 <li>Recommended Time - You can set the recommended time for the student to complete the question.</li>
 <li><p>Add Rubrics - This allows students to view the rubrics while they attempt the question.</p>
-<p>  Note: Show and use rubric marks checkbox - If checked, marks will be defined by the Rubrics.</p>
+	<p><u>Note</u>: Show and use rubric marks checkbox - If checked, marks will be defined by the Rubrics.</p>
 </li>
 <li><p>Suggested Answer - The suggested answer to the question. This is shown to students after they have submitted their answers.</p>
 </li>
 <li><p>Marks - You can set the number of marks. The default is one mark.</p>
-<p>  Note: Marks will have to be awarded before students can view the Suggested Answer and Feedback. </p>
+	<p><u>Note</u>: Marks will have to be awarded before students can view the Suggested Answer and Feedback. </p>
 </li>
 <li><p>Click here for editing the Question Component Details Card.</p>
 </li>
