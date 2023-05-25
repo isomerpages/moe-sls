@@ -8,7 +8,7 @@ third_nav_title: Administer
 <h2 id="reset-mims-passwords-">Reset MIMS Passwords</h2>
 <hr>
 <p>Resetting of MIMS password can only be done through the MIMS portal. Students and teachers may approach their school’s MIMS Student Administrator and Local Administrator respectively if they require assistance.</p>
-<h2 id="-reset-teachers-sls-passwords-"><strong>Reset Teachers' SLS Passwords</strong></h2>
+<h2 id="-reset-teachers-sls-passwords-">Reset Teachers' SLS Passwords</h2>
 <hr>
 <ol>
 <li>Open the left menu and click <strong>Administration</strong>, followed by <strong>Manage Users</strong>.</li>
@@ -33,7 +33,7 @@ third_nav_title: Administer
 <li>On the confirmation prompt, verify that the correct teachers have been selected.</li>
 <li>Click <strong>Ok</strong>.</li>
 </ol>
-<h2 id="-reset-students-sls-passwords-"><strong>Reset Students' SLS Passwords</strong></h2>
+<h2 id="-reset-students-sls-passwords-">Reset Students' SLS Passwords</h2>
 <hr>
 <p>SLS School Admins can reset the passwords of any student in your school. This is necessary for:</p>
 <ul>
