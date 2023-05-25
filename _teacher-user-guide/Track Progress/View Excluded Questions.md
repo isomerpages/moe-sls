@@ -17,6 +17,6 @@ third_nav_title: Track Progress
 <li><p>To include an Excluded Question in the Learning Progress, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon), followed by <strong>Include in Learning Progress</strong>. Alternatively, select the checkbox beside the Activity number and click <strong>Include in Learning Progress</strong> found at the top of the table header.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c71d69dd-35d7-4597-8996-1f88663612ac/Untitled.png"></p>
 </li>
-<li><p>To open the Assignment, click the <strong>Expand</strong> icon .</p>
+<li><p>To open the Assignment, click the <strong>Expand</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/external-link.svg">.</p>
 </li>
 </ol>
