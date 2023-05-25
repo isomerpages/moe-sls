@@ -12,7 +12,7 @@ third_nav_title: Collaborate
 <li>Enter a topic by selecting a topic card.</li>
 <li>To start a new post, click <strong>Create New Post</strong>. </li>
 <li><p>Posts can contain texts, mathematical and chemical formulae, drawings, file uploads and audio recordings.</p>
-<p> Note: Audio recordings can be downloaded and saved when it is being processed.</p>
+	<p> <u>Note</u>: Audio recordings can be downloaded and saved when it is being processed.</p>
 </li>
 <li><p>Select or deselect the checkbox “Commenting is enabled” to allow commenting.</p>
 </li>
@@ -33,7 +33,7 @@ third_nav_title: Collaborate
 <li>Commenting permissions [hyperlink Change Forum Settings] can be toggled on/off on individual posts by teachers or owners of posts. </li>
 <li>Select a topic card, followed by a post that you wish to leave a comment on. [C-TopicCard1.png]</li>
 <li><p>From the View Post subpage, click <strong>Add</strong> to enter comments.</p>
-<p> Note: Comments can contain mathematical or chemical formulae, emoticons, drawings, and attached files.</p>
+	<p><u>Note</u>: Comments can contain mathematical or chemical formulae, emoticons, drawings, and attached files.</p>
 </li>
 <li><p>Click <strong>Post</strong> to proceed and <strong>X</strong> to close the subpage.</p>
 </li>
