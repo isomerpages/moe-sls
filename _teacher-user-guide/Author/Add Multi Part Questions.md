@@ -33,7 +33,7 @@ Note: Selected questions will be added to the same level. (If you add parts a, b
 <li>Free-Response</li>
 <li>Audio-Response</li>
 <li><p>Multi-Part Question</p>
-<p>  Note: Multi-Part Questions can be added for a maximum of two sub-levels. This will result in questions bearing the following numbering system - Q1 a.i. and 1 a.ii.</p>
+	<p><u>Note</u>: Multi-Part Questions can be added for a maximum of two sub-levels. This will result in questions bearing the following numbering system - Q1 a.i. and 1 a.ii.</p>
 <p>  <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aea1392e-4be4-4535-8635-66f53973aaa0/Untitled.png"></p>
 </li>
 </ul>
@@ -47,7 +47,7 @@ Note: Selected questions will be added to the same level. (If you add parts a, b
 <ul>
 <li>Marks - You may set the marks of each sub-question individually, as documented on individual questions pages.</li>
 <li><p>Number of Tries - You may also set the number of tries allowed at the entire Multi-Part Question.</p>
-<p>  Note: If your Multi-Part Question contains any Free-Response Question or Audio-Response Question, the default is one try.</p>
+	<p><u>Note</u>: If your Multi-Part Question contains any Free-Response Question or Audio-Response Question, the default is one try.</p>
 </li>
 <li><p>Click here for adding questions in a Quiz.</p>
 </li>
