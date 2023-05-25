@@ -6,23 +6,22 @@ third_nav_title: Track Progress
 ---
 <h1 id="-2a-view-by-topic">(2a) View by Topic</h1>
 <p>Topics and Sub-topics are displayed according to the Content Map selected. There may be more than one Content Map for a particular subject according to the syllabus by SEAB.</p>
-<p>Note: Only questions that are selected to be included will be shown in the Learning Progress. Refer to Tag a Question [hyperlink] for more details.</p>
+<p><u>Note</u>: Only questions that are selected to be included will be shown in the Learning Progress. Refer to Tag a Question [hyperlink] for more details.</p>
 <ol>
 <li>On the Learning Progress page, you may view the overall progress of students according to Topics by clicking the <strong>Topical</strong> tab. Under each Topic/Sub-topic, the Awarded Marks, Total Marks, and Marks (shown in percentage) are displayed.</li>
 <li><p>From the list of Topics, you may view the Sub-topics by clicking on the <strong><strong>**</strong></strong>dropdown arrow<strong><strong>**</strong></strong> besides each Topic.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/89bc2fea-a9cc-4a3c-9994-5270a34c9cdc/Untitled.png"></p>
 </li>
-</ol>
-<p>Note: </p>
+
+<p><u>Note</u>: </p>
 <ul>
 <li>The breakdown of Awarded Marks, Total Marks, and Marks (shown in percentage) are shown for each Sub-topic.</li>
 <li><p>The Awarded Marks, Total Marks, and Marks will only be updated after a student has attempted the assignment.</p>
-</li>
+	</li></ul>
 <li><p>You may also search for resources related to the particular Subject and Topic/Sub-topic by clicking the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and selecting <strong>Browse Resources</strong>. Alternatively, select <strong>View Tagged Questions</strong> to view the list of tagged questions in all assignments.</p>
 </li>
-</ul>
+
 <p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e323a6f8-2d04-4b66-876f-c5027c423e8b/Untitled.png"></p>
-<ol>
 <li>To view the overall progress (in terms of marks) of students for a Topic/Sub-topic over a certain duration, click the <strong>Filter</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Filter24.svg"> and choose the <strong>Month Range</strong> and <strong>Topic/Sub-topic</strong> from the dropdown list. Click <strong>Apply</strong> to perform your selection.</li>
 <li>To sort the Topics/Sub-topics in ascending/descending order of marks, click the <strong>Up</strong>/<strong>Down</strong> arrows in the column headers </li>
 </ol>
