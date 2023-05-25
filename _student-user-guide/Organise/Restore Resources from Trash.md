@@ -4,33 +4,11 @@ permalink: /student-user-guide/organise/restore-resources-from-trash/
 description: ""
 third_nav_title: Organise
 ---
-<h1>Manage Folders</h1>
-
-<h2>Move Lessons to a Folder</h2>
-
-<p>You can move an existing Lesson from one folder to another.</p>
-
+<h1 id="restore-resources-from-trash">Restore Resources from Trash</h1>
+<p>Resources found under the <strong>Trash</strong> tab can be restored to their original locations.</p>
 <ol>
-  <li>To move an existing Lesson into a folder, you can click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Move</strong>. You can also select the Lesson using the checkboxes on the left and then click <strong>Move</strong>. You may move two or more Lessons in one go.</li>
-  
-  <img alt="Move Dialogue" src="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/MDMoveDialogue.png">
-  
-  <li>In the Move Lesson subpage, select the folder to move the Lesson to. You can also create a <strong>New Folder</strong> within My Lessons folder from this subpage.</li>
-  
-  <li>Click <strong>Move</strong>.</li>
-</ol>
-
-<h2>Rename a Folder</h2>
-
-<ol>
-  <li>In the listing, locate a folder and click the <strong>Overflow</strong> (<strong>3-dot</strong> icon), followed by <strong>Rename</strong>.</li>
-  <li>In the Rename Folder subpage, enter a new title.</li>
-  <li>Click <strong>Rename</strong> to save the new name.</li>
-</ol>
-
-<h2>Delete a Folder</h2>
-
-<ol>
-  <li>In the listing, locate a folder and click the <strong>Overflow</strong> (<strong>3-dot</strong> icon), followed by <strong>Move to Trash</strong>. Alternatively, you can select multiple folders using the checkboxes on the left and click <strong>Move to Trash</strong> in the table header.</li>
-  <li>If you have deleted a folder by mistake, it can be restored from the <strong>Trash</strong> tab.</li>
+<li>From the homepage, click <strong>My Drive</strong>. Alternatively, open the left menu from the header on the homepage. Click <strong>Resources</strong>, followed by <strong>My Drive</strong>. By default, you will be in the My Lessons tab.</li>
+<li>To restore a resource, click the <strong>Overflow</strong>(<strong>3-dot</strong> icon) and select <strong>Restore</strong>.</li>
+<li>To restore multiple Resources at once, select the checkboxes beside the Resource Title. Click <strong>Restore</strong> through the header.</li>
+<li>Restored Resources will appear under My Lessons tab.</li>
 </ol>
