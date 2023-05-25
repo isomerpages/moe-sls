@@ -13,63 +13,53 @@ third_nav_title: Discover
 <li>Press <strong>Enter</strong> to return your search results.</li>
 </ol>
 <p><u>Note</u>:</p>
-    <ul>
-      <li>If you are unsure of what you are searching for, you can leave the Search Bar empty and press <strong>Enter</strong> to return your search results.</li>
-      <li>You can also search directly from the various Resource pages (eg. MOE Library, Community Gallery, App Library, External Resources).</li>
-    </ul>
-    <h2>Add Search Filters</h2>
-    <hr>
-    <ol>
-      <li>On the Search page, select the <strong>Subject</strong> and <strong>Level</strong> from the dropdown list.</li>
-      <li>Click <strong>Apply</strong> and choose <strong>Apply Filter</strong> to narrow down the search results.</li>
-      <li>To add more search filters, click <strong>Filter</strong>.</li>
-      <li>Under <strong>Location</strong>, select from:
-        <ul>
-          <li><strong>All</strong></li>
-          <li><strong>My Drive</strong> - your own resources and those shared with you</li>
-          <li><strong>Community Gallery</strong> - Lessons/Courses shared by teachers</li>
-          <li><strong>MOE Library</strong> - Resources produced by MOE</li>
-          <li><strong>App Library</strong> - App Resources integrated with SLS</li>
-          <li><strong>External Resources</strong> - Whitelisted websites that can be embedded in SLS. <strong>(New in R19)</strong></li>
-        </ul>
-      </li>
-      <li>Under <strong>Resource</strong> (<strong>Resource Type</strong>), select from:
-        <ul>
-          <li><strong>All</strong></li>
-          <li><strong>Lessons</strong></li>
-          <li><strong>Questions (or Question Types)</strong></li>
-<li><strong>Media (or Media Types)</strong></li>
-<li><strong>Apps</strong></li>
-<li><strong>Websites</strong> <strong>(New in R19)</strong></li>
+<ul>
+<li>If you are unsure of what you are searching for, you can leave the Search Bar empty and press <strong>Enter</strong> to return your search results.</li>
+<li>You can also search directly from the various Resource pages (eg. MOE Library, Community Gallery, App Library, External Resources).</li>
+</ul>
+<h2>Add Search Filters</h2>
+<hr>
+<ol>
+<li>On the Search page, select the <strong>Subject</strong> and <strong>Level</strong> from the dropdown list.</li>
+<li>Click <strong>Apply</strong> and choose <strong>Apply Filter</strong> to narrow down the search results.</li>
+<li>To add more search filters, click <strong>Filter</strong>.</li>
+<li>Under <strong>Location</strong>, select from:
+<ul>
+<li><strong>All</strong></li>
+<li><strong>My Drive</strong> - your own resources and those shared with you</li>
+<li><strong>Community Gallery</strong> - Lessons/Courses shared by teachers</li>
+<li><strong>MOE Library</strong> - Resources produced by MOE</li>
+<li><strong>App Library</strong> - App Resources integrated with SLS</li>
+<li><strong>External Resources</strong> - Whitelisted websites that can be embedded in SLS. <strong>(New in R19)</strong></li>
 </ul>
 </li>
+<li>Under <strong>Resource</strong> (<strong>Resource Type</strong>), select from:
+<ul><li><strong>All</strong></li>
+<li><strong>Lessons</strong></li>
+<li><strong>Questions (or Question Types)</strong></li>
+<li><strong>Media (or Media Types)</strong></li>
+<li><strong>Apps</strong></li>
+<li><strong>Websites</strong> <strong>(New in R19)</strong></li></ul></li>
 <li>Under <strong>Subject</strong>, select from:
 <ul>
 <li><strong>Assigned Subjects</strong></li>
 <li><strong>Followed Subjects</strong> (if any)</li>
 <li><strong>Other Subjects</strong></li>
-</ul>
-</li>
+</ul></li>
 <li>Under <strong>Levels</strong>, select from:
 <ul>
 <li><strong>Assigned Levels</strong></li>
 <li><strong>Followed Levels</strong> (if any)</li>
 <li><strong>Other Levels</strong></li>
-</ul>
-</li>  
-<li>Click <strong>Apply</strong> and select <strong>Apply Filters</strong> to perform your selection.</li>
-</ol>
+</ul></li>  
+<li>Click <strong>Apply</strong> and select <strong>Apply Filters</strong> to perform your selection.</li></ol>
 <p><u>Note</u>: Refine your search by using Guided Search.</p>
 
 <h2>Add Topic Filters</h2>
-
 <hr>
-
 <ol>
 <li>You may also select <strong>Add Topic Filters</strong> to filter according to Topics or Sub-topics.</li>
-
 <p><u>Note</u>: You may search for Resources based on Topics or Sub-topics if they have been tagged to a Content Map.</p>
-
 <li>To add topic filters, select one <strong>Subject</strong> and one <strong>Level</strong> from the dropdown list.</li>
 <li>Click <strong>Apply</strong> and choose <strong>Add Topic Filters.</strong></li>
 <li>On the Add Topic Filters subpage, select the relevant <strong>Content Map</strong> dropdown list.</li>
