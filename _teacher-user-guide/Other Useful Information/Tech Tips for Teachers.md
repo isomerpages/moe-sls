@@ -161,7 +161,7 @@ Students can link any Gmail account (including personal ones) with SLS. They onl
 <p> Yes, Kami has been whitelisted for SSOE devices. Should you face any issues installing it on your SSOE device, please approach your school IT administrator or HOD ICT.</p>
 </li>
 </ol>
-		</summary></summary></details>
+</summary></summary></details>
 <details>
 <summary>
 <h2 id="enact">Enact</h2>
