@@ -32,17 +32,3 @@ third_nav_title: Enact
 </ol>
 <p>!<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/A-ActivityAccess.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/A-ActivityAccess.png</a></p>
 <p><u>Note</u>: You can also toggle on/off the Activities access on the Lesson Plan.</p>
-<h2 id="-set-differentiated-access-using-subgroups-"><strong><del>Set Differentiated Access using Subgroups</del></strong></h2>
-<hr>
-<ol>
-<li>You can set different access to Subgroups that you created. This function allows Activities to be attempted by different groups of students.</li>
-<li><p>You would have to create Subgroups before you can select the Subgroups that can access a particular Activity from the dropdown list.</p>
-<p> Note: When <strong>Set as Team Activity</strong> is toggled on, students will attempt and View Class Submission of Poll and Interactive Thinking Tool components within their subgroups only. Students who are not part of the subgroup will not be able to have access to the Activity.</p>
-</li>
-<li><p>You can select the subgroups that can access a particular Activity in a Section by clicking <strong>Show Activities ( )</strong>, <strong>**followed by the desired activity, and selecting </strong>View by Subgroup** in the dropdown menu. The list of subgroups will be available for you to select.</p>
-<p> !<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/A-Course-ActivityAccess.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/A-Course-ActivityAccess.png</a></p>
-</li>
-<li><p>Once done, click <strong>Save</strong>.</p>
-</li>
-</ol>
-<p>Note: You can manage the access to the Activities and Sections by clicking the <strong>Lesson</strong> <strong>Plan</strong> icon [insert icon].</p>
