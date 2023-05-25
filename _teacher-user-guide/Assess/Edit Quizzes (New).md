@@ -13,7 +13,7 @@ third_nav_title: Assess
 <li><p>You can choose to set the Quiz as Optional by adjusting the <strong>Optional</strong> toggle button, or delete by clicking the <strong>Trash</strong> icon.</p>
 <p> [insert As-EditQuiz.png]</p>
 </li>
-<li><p>To edit the details on the cover page of the Quiz, click the Quiz cover page or the <strong>Pencil</strong> icon [insert Pencil.svg] to edit the following details: </p>
+<li><p>To edit the details on the cover page of the Quiz, click the Quiz cover page or the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg">  to edit the following details: </p>
 <ul>
 <li><strong>Quiz Mode</strong>: The default Quiz Mode is Progressive Quiz. You may choose from the following options:<ul>
 <li><strong>Progressive Quiz</strong> (Students receive feedback automatically after submitting each question)</li>
@@ -42,14 +42,14 @@ third_nav_title: Assess
 <h2 id="edit-delete-and-reorder-pages-in-a-quiz-">Edit, <strong>Delete and Reorder pages in a Quiz</strong></h2>
 <hr>
 <ol>
-<li>Click the Quiz or the <strong>Pencil</strong> icon to edit.</li>
+<li>Click the Quiz or the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg"> to edit.</li>
 <li>Click on the Page you wish to edit, delete, or reorder. You can open the <strong>Overflow</strong> (<strong>3-dot</strong> icon) beside the <strong>Question Number</strong> to Add Page After/Before, Move Left/Right, or Delete.</li>
 </ol>
 <p><img alt="Screenshot 2023-03-10 at 3.40.05 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24b4eeb4-26ed-4e8e-82d3-0a967af29dde/Screenshot_2023-03-10_at_3.40.05_PM.png"></p>
 <h2 id="-edit-delete-or-reorder-a-component-in-a-quiz-"><strong>Edit, Delete or Reorder a Component in a Quiz</strong></h2>
 <hr>
 <ol>
-<li>Click the Quiz or the <strong><strong><em>**</em></strong></strong>Pencil<strong><strong><em>**</em></strong></strong> icon to edit.</li>
+<li>Click the Quiz or the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg"> to edit.</li>
 <li>Click the Up/Down Arrows to move your Components Up/Down within a page.</li>
 <li><p>Open the <strong>Overflow</strong> (<strong>3-dot</strong> icon) beside the Component to Move it to the Previous/Next Page or Delete.</p>
 <p> Note: </p>
