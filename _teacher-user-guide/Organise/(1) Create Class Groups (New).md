@@ -17,7 +17,7 @@ third_nav_title: Organise
         </ul>
     </li>
     <li>You can add teacher users from your school or other schools as Students in your Class Group.
-        <br>Note: Teachers added as a Student to a Group will only be able to access this Class Group using their accounts in <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/AccountManagement/SwitchToStudentView.html">Student View</a>. They will also be given the Liaison Teacher role.</li>
+			<br><u>Note</u>: Teachers added as a Student to a Group will only be able to access this Class Group using their accounts in <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/AccountManagement/SwitchToStudentView.html">Student View</a>. They will also be given the Liaison Teacher role.</li>
     <li>You can add teachers with the following roles:
 			
 <table>
