@@ -23,8 +23,9 @@ third_nav_title: Organise
     <ul>
         <li>you have been added to a Class Group as a Liaison teacher by another teacher.</li>
         <li>you have been added to a Class Group as a student. You will be given a Liaison teacher role.</li>
-    </ul>
-    <p>Click <a href="#">here</a> to find out more about the role.</p>
+			<li>Click <a href="#">here</a> to find out more about the role.<p></p>
+    </li></ul>
+    
 </li>
 
 <li>In all Class Groups, you will be able to access:
@@ -43,3 +44,5 @@ third_nav_title: Organise
 </li>
 </ol>
 <p><u>Note</u>: When you re-enter a Class Group, you will be on the tab that you were last on.</p>
+
+<h1>e-Poster (to KM)</h1>
