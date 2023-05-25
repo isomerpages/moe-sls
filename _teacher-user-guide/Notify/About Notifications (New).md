@@ -25,7 +25,7 @@ third_nav_title: Notify
     </ul>
 </li>
 <li>You will be able to Flag/Unflag a Notification.</li>
-<li>The number of unread Notifications will be indicated on the <strong>Bell</strong> icon <img alt="Bell Icon" src="Bell.svg"> found on the header of the homepage.
+<li>The number of unread Notifications will be indicated on the <strong>Bell</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Bell.svg"> found on the header of the homepage.
 <br><u>Note</u>: The <strong>Bell</strong> icon will only reflect up to 99 unread Notifications.</li>
 <li>Unread Notifications are indicated with a yellow circle on the Notification Cards. <img alt="Notification Card with yellow circle" src="N-New.png"></li>
 
