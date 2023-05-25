@@ -11,7 +11,7 @@ third_nav_title: Collaborate
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fba81b98-1200-4825-909c-ee200597a1f5/Untitled.png"></p>
 </li>
 <li><p>On the <strong>Create Poll</strong> subpage, fill in the following details:</p>
-<ol>
+<ol style="list-style-type: lower-alpha;">
 <li><strong>Question body</strong> - This can be in the form of text, mathematical/chemical equations, emojis, images, drawings, and file attachments.</li>
 <li><strong>Poll Type</strong> - You can choose select from either <strong>Multiple-Choice</strong> or <strong>Slider</strong>. If you have selected a Multiple-Choice Poll, fill up the options. You can create up to 26 options. If you have selected a Slider Poll, you can create up to 7 options.</li>
 <li><p><strong>Keyword Tags</strong> - Use some relevant descriptions to help others find your poll. After typing each tag, press "Enter" on your keyboard.</p>
