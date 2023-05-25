@@ -49,7 +49,7 @@ third_nav_title: Author
 </li>
 <li>These Templates are aligned to the Active Learning Processes, six Learning Experience types, and an e-Assessment template.</li>
 <li><p>If you select the SLS Lesson/Section Templates, the Learning Experience in the Details Card will be filled for you.</p>
-<p>  Note: Your existing activities will remain unchanged.</p>
+	<p><u>Note</u>: Your existing activities will remain unchanged.</p>
 </li>
 <li><p>Depending on the Lesson/Section Template chosen, Activities will be pre-populated and tagged to the following Active Learning Processes (ALP):</p>
 <ul>
