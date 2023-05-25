@@ -72,14 +72,10 @@ third_nav_title: Discover
 								
 <h2 class="section-title">Insert Non-Whitelisted Websites</h2>
 <hr>
-                <p>
-                  To insert a non-whitelisted website in SLS, you have to include it as a
-<a target="_blank" href="/teacher-user-guide/author-author/insertexternal/">hyperlink</a>
-                  to the website instead of embedding. This will open the site in a new tab.
-                </p>
+<p>To insert a non-whitelisted website in SLS, you have to include it as a <a target="_blank" href="/teacher-user-guide/author-author/insertexternal/">hyperlink</a> to the website instead of embedding. This will open the site in a new tab.</p>
 <table>
-	 <thead>
-                    <tr>
+<thead>
+<tr>
                       <th>Name of Website</th>
                       <th>Reason for not whitelisting</th>
                       <th>URL(s)</th>
