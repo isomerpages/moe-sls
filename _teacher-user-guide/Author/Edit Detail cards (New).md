@@ -85,11 +85,11 @@ third_nav_title: Author
 <a href="https://www.learning.moe.edu.sg/sls/media/images/UpdatedAssets/2Teacher/LM-ITTNames.png">https://www.learning.moe.edu.sg/sls/media/images/UpdatedAssets/2Teacher/LM-ITTNames.png</a>
 
 <ol>
-    <li>For Poll:<ul>
+    For Poll:<ul>
             <li>Keyword Tags - This will improve the searchability of the poll.</li>
             <li>Hide Results: When results are hidden, students will only see what they have voted for.</li>
         </ul>
-    </li>
+    
 </ol>
 
 ![<span class="hljs-string">Screenshot 2023-03-10 at 1.31.23 PM.png</span>](<span class="hljs-link">https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ced2ad0-af39-44fb-a053-6f120bb53a14/Screenshot_2023-03-10_at_1.31.23_PM.png</span>)
