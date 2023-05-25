@@ -8,19 +8,17 @@ third_nav_title: Assess
 <h2 id="-click-and-drop-question-"><strong>Click-and-Drop Question</strong></h2>
 <hr>
 <ol>
-<li>Click the <strong>Show Options</strong> dropdown arrow to view the Options for a Click-and-Drop question. To answer the question, click an <strong>Option</strong> followed by clicking the <strong>corresponding blank rectangles</strong> in the question.<ol>
+<li>Click the <strong>Show Options</strong> dropdown arrow to view the Options for a Click-and-Drop question. To answer the question, click an <strong>Option</strong> followed by clicking the <strong>corresponding blank rectangles</strong> in the question.<ol style="list-style-type: lower-alpha;">
 <li>Alternatively, you can also select the <strong>blank rectangles</strong> first and select your answer from the <strong>Options</strong> area.</li>
 </ol>
 </li>
-</ol>
 <p>!<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/cnd2.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/cnd2.png</a></p>
-<ol>
 <li>In some questions, a <strong>Hint</strong> may be provided by your teacher. Click on it to view the hint.</li>
 <li>In a standalone question that is not part of a quiz, you can submit your response by clicking the <strong>Submit</strong> button. You can also choose <strong>Save as Draft</strong> if you would like to revisit this question again after you have visited other pages or logged out. Your response will be saved.</li>
 <li>For Click-and-Drop questions, your answer will automatically be graded by the system. Once you submit your response, you will be able to see the correct answer, along with any feedback that your teacher might have provided.</li>
 <li>In an Auto-Graded Quiz and a Teacher-Marked Quiz, you can only submit your response after attempting the last question.</li>
 </ol>
-<p>Did You Know?:</p>
+<p><u>Did You Know?</u>:</p>
 <ul>
 <li>If your teacher has set a recommended time, you will be able to see it below the Question Body.</li>
 <li>If enabled by your teacher, you may be allowed multiple tries to a question.</li>
