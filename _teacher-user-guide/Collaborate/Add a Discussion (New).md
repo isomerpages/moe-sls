@@ -19,7 +19,7 @@ third_nav_title: Collaborate
 <li>After the details are entered, click on an empty grey space to save your work.</li>
 <li>To hide the names of students, click the <strong>Settings</strong> icon on the Discussion card. By default, the names of students will be visible. To hide the names of students, select the checkbox “Hide Names”. Click <strong>Save</strong> followed by <strong>X</strong>.</li>
 <li>When students' names are hidden, they will appear as Anonymous on the Interaction Board. Students will only see their own names.</li>
-<li>To edit a Discussion, hover your mouse over the Discussion and click the component, or the <strong><strong><em>**</em></strong></strong>Pencil<strong><strong><em>**</em></strong></strong> icon. </li>
+<li>To edit a Discussion, hover your mouse over the Discussion and click the component, or the <strong>Pencil</strong> icon. </li>
 <li>To delete your Discussion, click the <strong>Delete</strong> icon.</li>
 </ol>
 <p>[insert C-PollEdit.png]</p>
