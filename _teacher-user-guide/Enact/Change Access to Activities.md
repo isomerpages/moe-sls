@@ -19,7 +19,7 @@ third_nav_title: Enact
 <li>Click the <strong>Students Assigned</strong> tab. By default, all students will be selected. To de-select the Form Class or student, uncheck the boxes next to their names.</li>
 <li>The default view of the listing shows the Form Classes. You may also view the students by subgroup (if any) from the dropdown <strong>View by Form Class/Subgroup</strong>.</li>
 <li><p>Click the <strong>Save</strong> icon and <strong>X</strong> to confirm. </p>
-<p> Note: Students who appear in more than one assigned subgroup will only be given one assignment with the Class Group name associated with the assignment. A student who is in more than one assigned Class Group will receive multiple copies of the same Assignment as each Assignment is associated with each Class Group.</p>
+	<p><u>Note</u>: Students who appear in more than one assigned subgroup will only be given one assignment with the Class Group name associated with the assignment. A student who is in more than one assigned Class Group will receive multiple copies of the same Assignment as each Assignment is associated with each Class Group.</p>
 </li>
 </ol>
 <p>!<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/AFMStudentsAssignedTab.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/AFMStudentsAssignedTab.png</a></p>
@@ -31,7 +31,7 @@ third_nav_title: Enact
 <li>You can also toggle off selected activities in the Assignment.</li>
 </ol>
 <p>!<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/A-ActivityAccess.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/A-ActivityAccess.png</a></p>
-<p>Note: You can also toggle on/off the Activities access on the Lesson Plan.</p>
+<p><u>Note</u>: You can also toggle on/off the Activities access on the Lesson Plan.</p>
 <h2 id="-set-differentiated-access-using-subgroups-"><strong><del>Set Differentiated Access using Subgroups</del></strong></h2>
 <hr>
 <ol>
