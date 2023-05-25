@@ -9,8 +9,8 @@ third_nav_title: Self Study
 <hr>
 <ol>
 <li>You can access Notes from within a Lesson. Expand the Annotation Drawer by clicking <strong>Notepad</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Note.svg">.</li>
-<li>To leave or view a comment, click the <strong><strong><strong>**</strong></strong></strong>Comment<strong><strong><strong>**</strong></strong></strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Comment.svg"> on a Notes Card. [SS-Notes.png] </li>
-<li><p>If commenting has been turned on, click <strong>**</strong>Add<strong>**</strong> and type your desired text.</p>
+<li>To leave or view a comment, click the <strong>Comment</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Comment.svg"> on a Notes Card. [SS-Notes.png] </li>
+<li><p>If commenting has been turned on, click <strong>Add</strong> and type your desired text.</p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3a4461c6-9dc5-4331-b721-6712cef7fdeb/Untitled.png"></p>
 </li>
 <li><p>You can also choose to insert mathematical <img style="width:1rem; display: inline;" src="/images/Icons/MathType.svg"> or chemical equations <img style="width:1rem; display: inline;" src="/images/Icons/ChemType.svg"> by clicking the relevant symbols.</p>
