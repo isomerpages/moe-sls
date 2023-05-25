@@ -14,7 +14,7 @@ third_nav_title: Discover
     <p>
       Teachers can  <a href="/teacher-user-guide/organise/install-and-launch-apps/">install Apps within their Class Groups or add them to their Lessons</a>.
     </p>
-    <p>Note: Students are only able to view Apps that they have been permitted to access.</p>
+    <p><u>Note</u>: Students are only able to view Apps that they have been permitted to access.</p>
     <h2>Access App Library</h2>
     <hr>
     <ol>
