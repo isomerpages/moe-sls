@@ -14,16 +14,14 @@ third_nav_title: Gamify
 </li>
 <li><p>There are three types of XP Modifiers:</p>
  <ol style="list-style-type: lower-alpha;">
-<li><p>Early submission of Quizzes - You will receive a bonus for the entire Quiz if the Quiz is submitted early. The default bonus set for early submission is 50% and the default number of days to be considered an Early Submission is 1 day before the Section Due Date.</p></li></ol><p></p>
-<p> Calculation of XP awarded: (1 + percentage/100) x Awarded Marks x Marks to XP Conversion</p>
+<li><p>Early submission of Quizzes - You will receive a bonus for the entire Quiz if the Quiz is submitted early. The default bonus set for early submission is 50% and the default number of days to be considered an Early Submission is 1 day before the Section Due Date.</p>
+<p> Calculation of XP awarded: (1 + percentage/100) x Awarded Marks x Marks to XP Conversion</p></li></ol>
 </li><ul>
 <li><p>Late submission of Quizzes - You will receive reduced XP for the entire Quiz if the Quiz is submitted early. The default bonus set for late submission is -50%.</p>
 <p>  Calculation of XP awarded: (1 - percentage/100) x Awarded Marks x Marks to XP Conversion</p>
 </li>
-<li><p>Retries for questions - Standalone questions and questions in Progressive Quiz can be given multiple tries. If you get the questions right on your first try, you will be given the full XP. However, if you get the questions right on subsequent tries, your XP will be reduced.</p> </li></ul>
-<p>  Calculation of XP awarded: (1 - percentage/100)^(number of retries) x Awarded Marks x Marks to XP Conversion</p>
-
-
+<li><p>Retries for questions - Standalone questions and questions in Progressive Quiz can be given multiple tries. If you get the questions right on your first try, you will be given the full XP. However, if you get the questions right on subsequent tries, your XP will be reduced.</p>
+<p>Calculation of XP awarded: (1 - percentage/100)^(number of retries) x Awarded Marks x Marks to XP Conversion</p> </li></ul>
 
 <li><p>Under the <strong>Game Story</strong> tab, you will be able to view the Awarded Game Story. Game Stories with preset Conditions will only appear after all Conditions have been fulfilled. Click <strong>Preview</strong> to read the Game Story. </p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4dfaedce-b3d4-4069-8eac-7e10151d06f7/Untitled.png"></p>
