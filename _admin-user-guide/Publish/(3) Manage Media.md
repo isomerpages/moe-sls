@@ -28,7 +28,7 @@ third_nav_title: Publish
 <li>Permission Details</li>
 <li>Where the Media Object is used in</li>
 <li><p>Status History by clicking <strong>View Status History</strong></p>
-<p>Note: You are unable to make any edits to Media Object from SLS. </p>
+<p><u>Note</u>: You are unable to make any edits to Media Object from SLS. </p>
 </li>
 </ul>
 </li>
@@ -37,7 +37,7 @@ third_nav_title: Publish
 <hr>
 <ol>
 <li>You can search for Media Resources by entering your search terms in the Search Bar. </li>
-<li>Press ”Enter” <em>**</em>to return your search results.</li>
+<li>Press "Enter" <em></em>to return your search results.</li>
 <li>To add more search filters, click <strong>Filter</strong>. </li>
 <li>Under <strong>Resource</strong>, select:<ul>
 <li><strong>Media</strong></li>
