@@ -17,16 +17,15 @@ third_nav_title: Author
 <li>Band Descriptor</li>
 <li>Criterion</li>
 <li><p>Mark Range</p>
-<p>  Note: Please see below on how to use the marks of the rubrics for the question.</p>
+	<p><u>Note</u>: Please see below on how to use the marks of the rubrics for the question.</p>
 </li>
 <li><p>Band Description</p>
-<p>  Note: You may enter descriptions in the form of text, mathematical formulae, chemical formulae, and media.</p>
+	<p><u>Note</u>: You may enter descriptions in the form of text, mathematical formulae, chemical formulae, and media.</p>
 </li>
 </ul>
 </li>
-</ol>
 <pre><code>![<span class="hljs-string">AU_AddRubrics1.png</span>](<span class="hljs-link">https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dbc28450-6268-48fc-bf11-2ce9ac081027/AU_AddRubrics1.png</span>)
-</code></pre><ol>
+</code></pre>
 <li>Click outside the Component to <strong>Save</strong>.</li>
 </ol>
 <h2 id="-use-marks-of-the-rubrics-not-available-for-questions-in-progressive-quiz-and-auto-graded-quiz-"><strong>Use Marks of the Rubrics (Not available for Questions in Progressive Quiz and Auto-Graded Quiz)</strong></h2>
