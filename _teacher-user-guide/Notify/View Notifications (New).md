@@ -30,7 +30,7 @@ third_nav_title: Notify
     <li>You can sort your Notifications according to <strong>All</strong>, <strong>Unread</strong> and <strong>Flagged</strong> by clicking the respective tabs.</li>
     <li>You can further filter your listing from the <strong>Viewing</strong> and <strong>Type</strong> dropdown list. Alternatively, click <strong>Filter</strong> to open the Filters subpage.</li>
     <li>Under <strong>Viewing</strong>, select from
-        <ol>
+        <ol style="list-style-type: lower-alpha;">
             <li>All</li>
             <li>General</li>
             <li>Pinned Class Groups</li>
@@ -39,10 +39,10 @@ third_nav_title: Notify
         </ol>
     </li>
     <li>Under <strong>Type</strong>, select from:
-        <ol>
+        <ol style="list-style-type: lower-alpha;">
             <li>All</li>
             <li>Announcements - Class Group and System Announcements</li>
-            <li>Others - ~~System Announcement, Transcoding, Others, Forum, Assignment, Content Map, Lesson, Media, Reports~~Resource Status, Transcoding, Others, Forum, Assignment, Resource</li>
+            <li>Others - Resource Status, Transcoding, Others, Forum, Assignment, Resource</li>
         </ol>
         <img alt="" src="N-NotificationsFilter.png">
     </li>
@@ -82,7 +82,7 @@ third_nav_title: Notify
   <li>On the table header, click <strong>Flag</strong>/<strong>Clear Flag</strong>.</li>
 </ol>
 
-<p>Note: You are unable to Flag Notifications that are created by you.</p>
+<p><u>Note</u>: You are unable to Flag Notifications that are created by you.</p>
 
 <img alt="Flag notifications screenshot" src="N-FlagNotifications.png">
 
