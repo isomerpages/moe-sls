@@ -13,7 +13,7 @@ third_nav_title: Collaborate
 <li><p>If commenting is turned on, you will be able to comment on any Notes or Annotations Cards in your peer's Assignment and vice versa.</p>
 </li>
 <li><p>As the owner of your Assignment, you are able to turn commenting on or off (by default, commenting is turned off).</p>
-<p> Note:</p>
+	<p> <u>Note</u>:</p>
 <ul>
 <li>Teachers have the authority to turn commenting on or off.</li>
 <li>Teachers are able to delete any comments.</li>
