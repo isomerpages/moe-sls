@@ -12,7 +12,7 @@ third_nav_title: Assess
 <li>Click the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg"> to enter the Lesson Editor page.</li>
 <li>Open the right menu and select <strong>Manage Passcode Settings</strong>.  [insert As-Passcode.png]</li>
 <li><p>In the Passcode Settings subpage, select the checkbox beside <strong>Enable passcode for this Lesson</strong> and enter the Passcode in the text box field.</p>
-<p> Note: </p>
+	<p><u>Note</u>: </p>
 <ul>
 <li>Passcode is case-sensitive.</li>
 <li>Passcode will remain visible to you.</li>
