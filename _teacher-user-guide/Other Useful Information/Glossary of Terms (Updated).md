@@ -7,8 +7,8 @@ third_nav_title: Other Useful Information
 <table>
   <thead>
     <tr>
-      <th>Component</th>
-      <th>Description</th>
+			<th><strong>Component</strong></th>
+      <th><strong>Description</strong></th>
     </tr>
   </thead>
   <tbody>
@@ -204,12 +204,52 @@ third_nav_title: Other Useful Information
         <p>Tooltips can be added to texts to provide additional descriptions, explanations, or thinking prompts.</p>
       </td>
     </tr>
+		<tr>
+      <td>
+        <p>Student Tooltip</p>
+      </td>
+      <td>
+        <p>Student Tooltip can be added to any component and is visible to students when they attempt the lesson. When clicked, students will be able to create a note on the right drawer. This allows teachers to point out areas in the lesson where students are encouraged to create a note.</p>
+      </td>
+    </tr>
     <tr>
       <td>
         <p>Teacher Tooltip</p>
       </td>
       <td>
         <p>Teacher Tooltip can be added to any component and is hidden from students. It allows teachers to explain and note the rationale of their lesson. This can be very useful when lessons are shared with other teachers.</p>
+      </td>
+    </tr>
+		   <tr>
+      <td>
+        <p>Text-to-Speech (Chinese, Malay and Tamil Languages Only)</p>
+      </td>
+      <td>
+        <p>Text-to-Speech can be added to any component. It serves as a scaffold for students by generating an audio clip based on the text provided.</p>
+      </td>
+    </tr>
+		   <tr>
+      <td>
+        <p>E-Dictionary (Chinese Language Only)</p>
+      </td>
+      <td>
+        <p>E-Dictionary allows student to quickly look up the meaning of vocabularies found within Assignments. </p>
+      </td>
+    </tr>
+		   <tr>
+      <td>
+        <p>Speech Evaluation (Chinese Language Only)</p>
+      </td>
+      <td>
+        <p>Speech Evaluation can be added to Audio-Response Question components. This engine allows students to submit their audio recordings and automatically grade students’ submission based on rubrics.</p>
+      </td>
+    </tr>
+		   <tr>
+      <td>
+        <p>Language Localisation (All Languages)</p>
+      </td>
+      <td>
+        <p>Language Localisation will translate English instructional text in SLS to the respective Mother Tongue Languages. This is not applicable to the text that is entered by users.</p>
       </td>
     </tr>
   </tbody>
