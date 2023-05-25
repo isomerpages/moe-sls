@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/notify/manage-announcements/
 description: ""
 third_nav_title: Notify
 ---
-<h1>2. Manage Announcements</h1>
+<h1>(2) Manage Announcements</h1>
 	<h2>Edit Announcements</h2>
 	<p>To view your Announcements, click <a href="#">here</a>.</p>
 	<ol>
