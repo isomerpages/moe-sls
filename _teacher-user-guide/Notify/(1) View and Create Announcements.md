@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/notify/view-and-create-announcements/
 description: ""
 third_nav_title: Notify
 ---
-<h1>1. View and Create Announcements (Enhanced)</h1>
+<h1>(1) View and Create Announcements (Enhanced)</h1>
 
 <h2>View Announcements</h2>
 
