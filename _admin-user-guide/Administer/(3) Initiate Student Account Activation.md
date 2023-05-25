@@ -13,7 +13,7 @@ third_nav_title: Administer
 <li><strong>SLS Account Status</strong> - Not Activated</li>
 <li><strong>Role</strong> - Student</li>
 <li><p><strong>Form Class</strong> - SLS School Admins can generate the OTP according to Form Class. </p>
-<p>Note: It is not advisable to generate OTP for more than 100 students in one click as there might be errors due to processing time.</p>
+<p><u>Note</u>: It is not advisable to generate OTP for more than 100 students in one click as there might be errors due to processing time.</p>
 <p>  <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/47a44f21-83cb-4283-bfb9-cefc7083ba7e/Untitled.png"></p>
 </li>
 </ul>
@@ -25,7 +25,7 @@ third_nav_title: Administer
 <li>A confirmation prompt will pop up indicating the number of users selected. Click <strong>OK.</strong></li>
 <li>Repeat for other form classes.</li>
 <li><p>When password reset is successful, copy the OTP and disseminate it to the students. This OTP will last for one year or until another SLS School Admin or Teacher generates a new OTP.</p>
-<p> Note:</p>
+<p><u>Note</u>:</p>
 <ul>
 <li>The OTP needs to be entered by students on the SLS login page and not the MIMS login page.</li>
 <li>SLS School Admins should coordinate among themselves so that only one OTP is generated for each student during the onboarding process.</li>
