@@ -13,7 +13,7 @@ third_nav_title: Assess
 <li><p>You will be able to Unsubmit the quiz for multiple students from the Heatmap by viewing the Activity with the Teacher-Marked Quiz and selecting the checkbox next to the student's name. [pending screenshot]</p>
 </li>
 </ol>
-<p>Note: </p>
+<p><u>Note</u>: </p>
 <ul>
 <li>When you unsubmit a quiz, feedback and annotations are retained for students to review.</li>
 <li>Students will receive a notification when a Teacher-Marked Quiz has been unsubmitted or released.</li>
