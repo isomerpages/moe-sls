@@ -15,7 +15,7 @@ third_nav_title: Author
 <li><p>You can then add the Components in the Activity page from the Component Bar. </p>
 </li>
 <li><p>After you are done with the Activity, you can click <strong>Add New</strong> and choose to Add New <strong>Activity/Quiz/Section Cover</strong> to continue with your Lesson Authoring.</p>
-<p> Note: </p>
+	<p> <u>Note</u>: </p>
 <ul>
 <li>The Introduction page is hidden by default when the first activity is created. Once you add another <strong>Activity/Quiz/Section Cover</strong>, the Introduction page will be made viewable.</li>
 <li>Lessons, by default have Sections but you can choose to set it as Viewable or not in the Lesson Plan by adjusting the Viewable Toggle icon.</li>
