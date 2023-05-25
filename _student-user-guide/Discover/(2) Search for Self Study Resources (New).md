@@ -70,8 +70,8 @@ third_nav_title: Discover
 
 <ol>
   <li>You may also select <strong>Add Topic Filters</strong> to filter according to Topics or Sub-topics. <br>
-    <br>Note: You may search for Resources based on Topics or Sub-topics if they have been tagged to a Content Map.</li>
-  <li>To add topic filters, select one <strong>Subject</strong> and one <strong>Level</strong> from the dropdown list.</li>
+    <br><u>Note</u>: You may search for Resources based on Topics or Sub-topics if they have been tagged to a Content Map.</li>
+	<li>To add topic filters, select <u>one</u> <strong>Subject</strong> and <u>one</u> <strong>Level</strong> from the dropdown list.</li>
   <li>Click <strong>Apply</strong> and choose <strong>Add Topic Filters.</strong></li>
   <li>On the Add Topic Filters subpage, select the relevant <strong>Content Map</strong> dropdown list.</li>
   <li>Select the checkbox to the left of the Topic, Subtopics, or Learning Outcome to narrow down the search results. 
