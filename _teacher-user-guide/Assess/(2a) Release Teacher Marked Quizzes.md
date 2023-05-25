@@ -15,7 +15,7 @@ third_nav_title: Assess
 <p> !<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/A-ReleaseQuiz.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/A-ReleaseQuiz.png</a></p>
 </li>
 </ol>
-<p>Note:</p>
+<p><u>Note</u>:</p>
 <ul>
 <li>Only students with marks entered for all Free-/Audio-Response questions (if any) can be released.</li>
 <li>Students will receive a notification when a Teacher-Marked Quiz has been unsubmitted or released.</li>
