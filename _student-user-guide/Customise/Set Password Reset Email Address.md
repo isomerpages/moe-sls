@@ -5,15 +5,15 @@ description: ""
 third_nav_title: Customise
 ---
 <h1 id="set-password-reset-email-address">Set Password Reset Email Address</h1>
-<p>Important: You must verify the email address before you can use it to reset your password.</p>
+<p><u>Important</u>: You must verify the email address before you can use it to reset your password.</p>
 <p>You should set a password reset email address in your profile. This will allow you to reset your password through a password reset link.</p>
 <ol>
 <li>Open the right menu and click <strong>Edit Profile</strong>.</li>
 <li>On the Profile page, select <strong>Set Email Address</strong> under Account Settings.</li>
-</ol>
+
 <p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e57afe4-51f7-4504-a63d-e0ce3d857630/Untitled.png"></p>
 <pre><code>◦ You will need <span class="hljs-built_in">to</span> enter <span class="hljs-keyword">an</span> email address under Alternate Email.
-</code></pre><ol>
+</code></pre>
 <li>Click <strong>Save</strong>.</li>
 </ol>
 <p>Did You Know?</p>
