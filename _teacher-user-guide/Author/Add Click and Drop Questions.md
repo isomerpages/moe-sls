@@ -18,7 +18,7 @@ third_nav_title: Author
 <li>You may change the <strong>Option Size</strong> to resize your Options to fit the blanks in the background image. The Options Size will depend on the size of the image or length of the text if you select <strong>Use Original Size</strong>.</li>
 <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) in the Option to <strong>Place, Edit</strong> (text option only), or <strong>Delete</strong>. Alternatively, you can edit a text by clicking the <strong>Pencil</strong> icon.</li>
 <li><p>To place an Option on the Base Image, click <strong>Place</strong>. The Option will follow your cursor. Click on the Base Image to place the option at that particular position.</p>
-<p>  Note: You do not have to place all the options on the Base Image.</p>
+	<p> <u>Note</u>: You do not have to place all the options on the Base Image.</p>
 <p>  <img alt="Screenshot 2023-03-15 at 10.50.39 AM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/57f8d71d-5d85-4ab1-98d8-ea6e645b05a9/Screenshot_2023-03-15_at_10.50.39_AM.png"></p>
 </li>
 <li><p>To edit an Option placed on the Base Image, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) in the Option to <strong>Reposition</strong>, <strong>Remove</strong> or <strong>Edit</strong> (text option only) or <strong>Delete</strong> the selection Option.</p>
@@ -46,7 +46,7 @@ third_nav_title: Author
 </ul>
 </li>
 </ol>
-<h2 id="edit-click-and-drop-question-details-">Edit <strong>Click-and-Drop Question details</strong></h2>
+<h2 id="edit-click-and-drop-question-details-">Edit Click-and-Drop Question details</h2>
 <hr>
 <p>Fill in the optional details of the new Click-and-Drop question:</p>
 <ul>
@@ -55,7 +55,7 @@ third_nav_title: Author
 <li>Feedback - The explanation to the entire question. This is shown to students after they have submitted all their answers to the question.</li>
 <li>Number of tries - This allows the number of tries. The default is one try.</li>
 <li><p>Marks  Per Option - You can set the number of marks per option. The default is one mark per option.</p>
-<p>  Note: Question Body, Hint, Option tex, and Feedback fields support Rich Text-enabled components.</p>
+	<p><u>Note</u>: Question Body, Hint, Option tex, and Feedback fields support Rich Text-enabled components.</p>
 </li>
 <li><p>Click here for editing the Question Component Details Card.</p>
 </li>
