@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/discover/view-lesson-details/
 description: ""
 third_nav_title: Discover
 ---
-<h1>3. View Lesson Details</h1>
+<h1>(3) View Lesson Details</h1>
 <hr>
 	<p>You can access the Details of Lessons found in Starred Resources, Community Gallery and MOE Library.</p>
 	<h2>View Lesson Details from Community Gallery and MOE Library</h2>
