@@ -8,7 +8,7 @@ third_nav_title: Assess
 <ol>
 <li>With the integration of Google’s suite of tools, you can now leverage Google extensions such as Kami or Lumin to mark Google Files within an Assignment and provide group and/or personalised feedback on the Google file and in SLS. </li>
 <li><p>After students submit their Google File, you can choose to mark the file as a PDF or a Google File. </p>
-<ol>
+<ol style="list-style-type: lower-alpha;">
 <li>Mark as PDF: Creates a new PDF copy of the file. You can do on-screen marking using touch devices through Google extensions. </li>
 <li><p>Mark as Google File: Creates a new copy of the file. You can directly edit or comment on the new copy of the file.</p>
 <p><img alt="GI-9.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d4df245-a10c-42f7-bd70-1ff276946427/GI-9.png"></p>
