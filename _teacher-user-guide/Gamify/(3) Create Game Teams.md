@@ -34,7 +34,7 @@ Navigate to Game Teams
     
 9.  In the Assignment Settings subpage, click the **Gamification** tab, followed by **Go to Game Teams**.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d7543eb4-d752-43ef-ab4c-ccc4af59cba9/Untitled.png)
+<img style="width: 50%;" src="/images/2Teacher/G-CreateGameTeams1.png">
     
 10.  You can select either Apply Subgroups As Teams to use existing subgroups or Add Team to create new teams.
     
@@ -54,7 +54,7 @@ Apply Subgroups as Teams
     
 4.  Your selected Subgroups will be shown on the Game Teams subpage.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/311eeba0-cded-4fd3-8e18-e3b66a5e9d99/Untitled.png)
+<img style="width: 50%;" src="/images/2Teacher/G-CreateGameTeams2.png">
     
 5.  You can view or edit the students in the Game Team by clicking **View / Edit**.
     
@@ -78,7 +78,7 @@ Add Team
     
 4.  When you are done, click **Add**.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a04f6acb-9577-42ae-92c9-9b20690a01e7/Untitled.png)
+<img style="width: 50%;" src="/images/2Teacher/G-CreateGameTeams3.png">
     
 5.  Click **Save** to confirm your action and **Back to Game Teams** to return to the Game Teams subpage.
     
@@ -100,7 +100,7 @@ Manage Game Teams
     
 2.  Just above the first Team Card, click **Manage Game Teams**.
     
-    ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fa1e1c9d-d185-45ea-949b-284aa5965a15/Untitled.png)
+<img style="width: 50%;" src="/images/2Teacher/G-CreateGameTeams4.png">
     
 3.  You can make add more Game Teams by select either Apply Subgroups As Teams to use existing subgroups or Add Team to create new teams.
     
