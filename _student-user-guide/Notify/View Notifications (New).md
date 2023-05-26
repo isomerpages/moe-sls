@@ -45,7 +45,7 @@ third_nav_title: Notify
 <h2>Turn On/Off Notifications (New)</h2>
 
 <p>1. From the Notifications page or Notifications tab (accessed from a Class Group), you can turn on <a href="[hyperlink setting up email notifications]">Email Notifications</a> for a particular category of Notifications from Notification Cards.</p>
-<p>2. Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and followed by <strong>Turn On/Off Notifications</strong>. <img alt="" src="N-EmailNotifications.png"></p>
+<p>2. Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and followed by <strong>Turn On/Off Notifications</strong>. <a target="_blank" href="/images/1Student/N-EmailNotifications.png"><img src="/images/1Student/N-EmailNotifications.png"></a></p>
 <p>3. When Notifications is turned on, you will be able to receive them in the email you have indicated in SLS.</p>
 
 <h2>Flag a Notification</h2>
@@ -55,8 +55,7 @@ third_nav_title: Notify
 <p>3. To unflag a Notification, click the <strong>Red Flag</strong> icon.</p>
 <p>4. To flag/unflag on multiple Notifications, you can select multiple Notifications by selecting the checkboxes beside the Notification Cards, or selecting the checkbox beside <strong>Select all notifications</strong> if you wish to select the entire page of Notifications.</p>
 <p>5. On the table header, click <strong>Flag</strong>/<strong>Clear Flag</strong>.</p>
-
-<img alt="" src="N-FlagNotifications.png">
+<a target="_blank" href="/images/1Student/N-FlagNotifications.png"><img src="/images/1Student/N-FlagNotifications.png"></a>
 
 <h2>Mark a Notification as Read</h2>
 
@@ -65,4 +64,4 @@ third_nav_title: Notify
 <p>3. To mark multiple Notifications as read, you can select multiple Notifications by selecting the checkboxes beside the Notification Cards, or selecting the checkbox beside <strong>Select all notifications</strong> if you wish to select the entire page of Notifications.</p>
 <p>4. On the table header, click <strong>Mark as Read.</strong></p>
 
-<img alt="" src="N-Notifications2.png">
+<a target="_blank" href="/images/1Student/N-Notifications2.png"><img src="/images/1Student/N-Notifications2.png"></a>
