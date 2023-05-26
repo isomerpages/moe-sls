@@ -6,7 +6,7 @@ third_nav_title: Assign
 ---
 <h1 id="access-assignments">Access Assignments</h1>
 <p><u>Important</u>: Only your incomplete Assignments that are due in the next 7 days are shown on the homepage.</p>
-<h2 id="-assignments-that-are-due-soon-"><strong>Assignments that are Due Soon</strong></h2>
+<h2 id="-assignments-that-are-due-soon-">Assignments that are Due Soon</h2>
 <hr>
 <ol>
 <li>To access the homepage, open the left menu or click the <strong>Student Learning Space</strong> icon found in the header.</li>
@@ -14,7 +14,7 @@ third_nav_title: Assign
 <p><img src="/images/1Student/AS-AccessAssignment1.png"></p>
 </li>
 </ol>
-<h2 id="-all-assignments-that-are-in-progress-upcoming-or-complete-"><strong>All Assignments that are In Progress, Upcoming or Complete</strong></h2>
+<h2 id="-all-assignments-that-are-in-progress-upcoming-or-complete-">All Assignments that are In Progress, Upcoming or Complete</h2>
 <hr>
 <p>Your Assignments from all Class Groups are shown on the <strong>Assignments</strong> page.</p>
 <ol>
@@ -40,7 +40,7 @@ third_nav_title: Assign
 <p> <img src="/images/1Student/AS-AccessAssignment3.png"></p>
 </li>
 </ol>
-<h2 id="-assignments-for-a-specific-class-group-"><strong>Assignments for a Specific Class Group</strong></h2>
+<h2 id="-assignments-for-a-specific-class-group-">Assignments for a Specific Class Group</h2>
 <hr>
 <p>You can also view Assignments meant for a specific Class Group via its <strong>Class Groups</strong> page.</p>
 <ol>
