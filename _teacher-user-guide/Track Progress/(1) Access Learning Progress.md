@@ -53,7 +53,7 @@ third_nav_title: Track Progress
 <li>Topical - To view the Awarded Marks as part of the Total Marks for selected questions according to their topics and sub-topics of the selected content map.</li>
 <li>Monthly - To view the monthly trend of the Awarded Marks as a part of the Total Marks.</li>
 <li><p>Student - To view the Awarded Marks as part of the Total Marks by individual students.</p>
-<p>  <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/715066fb-8335-4823-ba0b-682a4a80440c/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/TP-LP.png"></p>
 </li>
 </ul>
 </li>
