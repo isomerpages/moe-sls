@@ -6,7 +6,7 @@ third_nav_title: Assess
 ---
 <h1 id="-3a-add-teacher-comments">(3a) Add Teacher Comments</h1>
 <p>You are able to add Comment to the responses of a specific Free-Response, File Submission, and Audio-Response Question for a single Student or multiple Students.</p>
-<h2 id="-add-comment-for-a-single-student-"><strong>Add Comment for a single Student</strong></h2>
+<h2 id="-add-comment-for-a-single-student-">Add Comment for a single Student</h2>
 <hr>
 <p>You can add Comment for a single student from the Student View of the Assignment.</p>
 <ol>
@@ -14,7 +14,7 @@ third_nav_title: Assess
 <li>You can also give Audio comments, or attach a File from Google Drive.</li>
 <li><p>If you wish to notify students of the comment, select the <strong>Notify student(s) about comment</strong> checkbox.</p>
 	<p><u>Note</u>: You can add multiple Teacher Comments to the question. Students can reply to the comments added.</p>
-<p> <img alt="Screenshot 2023-03-22 at 2.31.20 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/96589610-5364-467a-adbc-50acfeabcfdb/Screenshot_2023-03-22_at_2.31.20_PM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/As-TeacherComments.png"></p>
 </li>
 <li><p>Click <strong>Post</strong>.</p>
 </li>
@@ -30,10 +30,10 @@ third_nav_title: Assess
 </li>
 <li><p>To add Comments for multiple students, select the checkboxes beside their names.</p>
 	<p><u>Note</u>: You can also Add Comments for a single student by clicking the Add Comments below the student’s Response.</p>
-<p> [insert As-TeacherComments1.png]</p>
+<p><img style="width: 50%;" src="/images/2Teacher/As-TeacherComments1.png"></p>
 </li>
 <li><p>Click <strong>Add Comments</strong> to enter your Comments. The number of selected students is shown in the Add Comment subpage. If you wish to notify students of the Comment, select the <strong>Notify student(s) about comment</strong> checkbox.</p>
-<p> <img alt="Screenshot 2023-03-22 at 3.21.05 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d892b2ec-4184-46f0-b734-cee968c4d812/Screenshot_2023-03-22_at_3.21.05_PM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/As-TeacherComments2.png"></p>
 	<p><u>Note</u>: You may also click <strong>Award Marks</strong> in the header to enter the marks to be awarded to the selected students. Marks awarded for Free-Response, File Submission and Audio-Response Questions in non-Quiz Activities will not be editable once it has been confirmed. Marks awarded for questions in Teacher-Mark Quiz will be confirmed after the Quiz is released. </p>
 </li>
 <li><p>Click <strong>Send</strong>.</p>
@@ -45,7 +45,7 @@ third_nav_title: Assess
 <li>You can give an Audio comment, or attach a File from Google Drive.</li>
 <li>After a teacher has released/unsubmitted a Teacher-Marked Quiz, a notification will be sent to students.</li>
 </ul>
-<h2 id="-edit-a-teacher-comment-"><strong>Edit a Teacher Comment</strong></h2>
+<h2 id="-edit-a-teacher-comment-">Edit a Teacher Comment</h2>
 <hr>
 <ol>
 <li>To edit a Teacher Comment given to a student, select a student and navigate to an Activity containing the question. </li>
