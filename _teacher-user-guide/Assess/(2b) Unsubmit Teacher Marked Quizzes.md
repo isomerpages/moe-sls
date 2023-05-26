@@ -8,7 +8,7 @@ third_nav_title: Assess
 <ol>
 <li>The <strong>Unsubmit</strong> button serves to return the Quiz to students in its current state. This can be used in situations where students accidentally submit an incomplete Quiz or if students need to improve their answers.</li>
 <li><p>You can do so from a student's Quiz view by clicking the name of a student and navigate to the Quiz Completion page. Click <strong>Unsubmit</strong>.</p>
-<p> !<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/A-UnsubmitQuiz.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/A-UnsubmitQuiz.png</a></p>
+<p><img style="width: 50%;" src="/images/2Teacher/As-TeacherMarkedQuiz5.png"></p>
 </li>
 <li><p>You will be able to Unsubmit the quiz for multiple students from the Heatmap by viewing the Activity with the Teacher-Marked Quiz and selecting the checkbox next to the student's name. [pending screenshot]</p>
 </li>
