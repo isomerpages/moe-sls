@@ -12,7 +12,7 @@ third_nav_title: Gamify
 <li>Select the Lesson you wish to introduce Gamification to. Click the <strong>Pencil</strong> icon [insert icon] to enter Lesson Editor.</li>
 <li>In the Lesson Editor, open the right menu and click <strong>Manage Gamification Settings</strong> to open the Gamification subpage. </li>
 <li><p>Click the toggle on the top-right corner of the subpage to turn on Gamification. </p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d163f4da-d382-42f5-9d63-bc506638d03e/Untitled.png"></p>
+<p> <img style="width: 50%;" src="/images/2Teacher/G-ManageGamification1.png"></p>
 </li>
 <li><p>In the <strong>Details</strong> tab, fill in the following details:</p>
 <ol style="list-style-type: lower-alpha;">
