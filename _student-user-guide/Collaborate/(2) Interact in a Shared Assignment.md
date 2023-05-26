@@ -4,7 +4,7 @@ permalink: /student-user-guide/collaborate/interact-in-a-shared-assignment/
 description: ""
 third_nav_title: Collaborate
 ---
-<h1 id="-2-interact-in-a-shared-assignment-"><strong>(2) Interact in a Shared Assignment</strong></h1>
+<h1 id="-2-interact-in-a-shared-assignment-">(2) Interact in a Shared Assignment</h1>
 <ol>
 <li>To view a Shared Assignment, click the <strong>User Avatar</strong> icon followed by the name of your peer.</li>
 <li><p>When you are viewing your peer's assignment, your User Avatar will show the Viewer Avatar icon.</p>
