@@ -9,7 +9,7 @@ third_nav_title: Assess
 <li>Upon Activity/Section completion, the Activity/Section icon will be indicated with a tick <img style="width:1rem; display: inline;" src="/images/Icons/ActivityTick.svg"> or <img style="width:1rem; display: inline;" src="/images/Icons/SectionCompleted32.svg"> .</li>
 <li>To complete a Quiz, you must submit the Quiz on the last page.</li>
 <li><p>If an Activity contains questions, you must submit your responses to all the questions to complete the Activity.</p>
-	<p> <u>Note</u>: For Activities which only contain text/media, you will have to click <strong>Mark Activity As Complete</strong>. [insert screenshot As-MarkComplete.png]</p>
+	<p> <u>Note</u>: For Activities which only contain text/media, you will have to click <strong>Mark Activity As Complete</strong>. <img src="/images/1Student/As-MarkComplete.png"></p>
 </li>
 <li><p>To complete a Lesson, you must complete all the Activities within it.</p>
 	<p> <u>Note</u>: If your Lesson contains Sections, you must complete all the Activities within all the Sections.</p>
