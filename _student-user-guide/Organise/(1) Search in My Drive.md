@@ -4,7 +4,7 @@ permalink: /student-user-guide/organise/search-in-my-drive/
 description: ""
 third_nav_title: Organise
 ---
-<h1>1. Search in My Drive</h1>
+<h1>(1) Search in My Drive</h1>
 
 <h2><strong>Search in My Lessons</strong></h2>
 
