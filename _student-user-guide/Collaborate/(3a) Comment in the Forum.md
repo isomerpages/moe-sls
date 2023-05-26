@@ -18,4 +18,4 @@ third_nav_title: Collaborate
 <li><p>You may <strong>Edit</strong> or <strong>Delete</strong> your comment by selecting the options in the <strong>Overflow</strong> (<strong>3-dot</strong> icon).</p>
 </li>
 </ol>
-insert CO-CommentForum1.png
+<img src="/images/1Student/CO-CommentForum1.png">
