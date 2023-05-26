@@ -16,7 +16,7 @@ third_nav_title: Gamify
 <p><strong>Achievements</strong> - Achievements are rewards awarded to students after completing the tasks. This can come in the form of badges and trophies.</p>
 <p>Did You Know?</p>
 <p>Gamified Lessons are indicated with the Gamification icon [Game32.svg] on Assignment/Assessment Card.</p>
-<p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/20ee905e-3077-4512-9006-447d2214ef5e/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/G-AboutGamification1.png"></p>
 <h3 id="about-leaderboard">About Leaderboard</h3>
 <hr>
 <p>Gamification Leaderboard is a scoreboard showing the names of students, their individual XP, current Levels and Achievements. It can be accessed from the Monitoring Assignment page, under the Game Experience tab.</p>
@@ -26,10 +26,10 @@ third_nav_title: Gamify
 <ol>
 <li>On the Monitor Assignment page, click the <strong>Game Experience</strong> tab.</li>
 <li><p>Under the <strong>Individual</strong> tab, on the individual student’s Card, click <strong>Overflow</strong> (<strong>3</strong>-<strong>dot</strong> icon), followed by <strong>View Student Game Details</strong>.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/263c2da5-5b7b-4b87-a4c8-b169bcef7d07/Untitled.png"></p>
+<p> <img style="width: 50%;" src="/images/2Teacher/G-AboutGamification2.png"></p>
 </li>
 <li><p>Under the <strong>Team</strong> tab (if Game Team is enabled), click the dropdown arrow to view the individual student’s Card. </p>
-<p> <img alt="AU-AboutGamification3.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aee1e56b-0d5e-4b1d-8efc-1ace33763c18/AU-AboutGamification3.png"></p>
+<p> <img style="width: 50%;" src="/images/2Teacher/G-AboutGamification3.png"></p>
 </li>
 <li><p>You will be able to view your Game details at the top, followed by the student’s XP, current Level and Achievement.</p>
 </li>
