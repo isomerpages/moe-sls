@@ -11,7 +11,7 @@ third_nav_title: Gamify
 <ol style="list-style-type: lower-alpha;">
 <li>From the Assignment Settings subpage, select the <strong>Gamification</strong> tab. </li>
 <li><p>Under Gamification Settings, select the checkbox if you wish to display the Individual and/or Team Leaderboard for students. </p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f9a1f0fa-7962-416a-83a9-8726053bc05d/Untitled.png"></p>
+<p> <img style="width: 50%;" src="/images/2Teacher/G-DisplayLeaderboard1.png"></p>
 </li>
 </ol>
 </li>
@@ -27,10 +27,10 @@ third_nav_title: Gamify
 <li><p>From the Monitor Assignment page, select the <strong>Game Experience</strong> tab, </p>
 <ol style="list-style-type: lower-roman;">
 <li><p>from the <strong>Individual</strong> tab, turn <strong>Display leaderboard for students</strong> to on.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22de43f6-dcd4-4bcc-97d1-bec6b53cc72d/Untitled.png"></p>
+<p> <img style="width: 50%;" src="/images/2Teacher/G-DisplayLeaderboard2.png"></p>
 </li>
 <li><p>from the <strong>Team</strong> tab, turn <strong>Display team leaderboard for students</strong> to on.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c7f6f49-a8c6-4c82-9bf4-37e761f3ec1e/Untitled.png"></p>
+<p> <img style="width: 50%;" src="/images/2Teacher/G-DisplayLeaderboard3.png"></p>
 </li>
 </ol>
 </li>
