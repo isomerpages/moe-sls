@@ -7,7 +7,7 @@ third_nav_title: Author
 <h1 id="add-lesson-tags">Add Lesson Tags</h1>
 <p>Lessons can be tagged to Subject, Level, Topics, and Sub-topics in the MOE Content Map so as to improve searchability in MOE Library, Community Gallery, and My Drive.</p>
 <p>If Lessons are submitted to the Community Gallery, tags will allow teachers to find the Lesson using filters and relevant search terms.</p>
-<h2 id="-add-lesson-tags-"><strong>Add Lesson Tags</strong></h2>
+<h2 id="-add-lesson-tags-">Add Lesson Tags</h2>
 <hr>
 <ol>
 <li>To start, click the <strong>Pencil</strong> icon [insert icon] found at the top right of the header to edit your Lesson.</li>
@@ -21,10 +21,10 @@ third_nav_title: Author
 <li>Select the checkboxes next to the <strong>Topics</strong> or <strong>Sub-topics</strong> that are relevant to this Lesson/Course. You can click the <strong>downward arrow</strong> to expand the topics in order to see the Sub-topics.</li>
 <li>Click the upward arrow on the Lesson Tag field to close the selection.</li>
 <li><p>Click the <strong>Save</strong> icon [icon img] to proceed.</p>
-<p><img alt="Screenshot 2023-03-10 at 10.40.11 AM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/613825b5-c4b4-401b-a163-07d817bca7ce/Screenshot_2023-03-10_at_10.40.11_AM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddLessonTag1.png"></p>
 </li>
 </ol>
-<h2 id="-add-more-lesson-tags-"><strong>Add More Lesson Tags</strong></h2>
+<h2 id="-add-more-lesson-tags-">Add More Lesson Tags</h2>
 <hr>
 <ol>
 <li>To add more Lesson Tags, click <strong>Add Lesson Tag</strong>.</li>
