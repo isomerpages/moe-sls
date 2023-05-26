@@ -46,7 +46,7 @@ third_nav_title: Assign
 <li><strong>Visible to students in Class Group</strong></li>
 <li><strong>Notify Student(s)</strong> - this checkbox will be active if Resource is set to be visible to students in Class Group.</li>
 </ol>
-<p><img style="width: 50%;" src="/images/2Teacher/AS-AssignMOE.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AS-AssignMOE2.png"></p>
 </li>
 </ol>
 </li>
