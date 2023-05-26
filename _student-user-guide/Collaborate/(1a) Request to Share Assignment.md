@@ -20,12 +20,12 @@ third_nav_title: Collaborate
 <ol style="list-style-type: lower-alpha;">
 <li>Click the <strong>Overflow</strong> <strong>(3-dot</strong> icon<strong>)</strong> to open the right menu. Click <strong>Share</strong>.</li>
 <li><p>Click the <strong>User Avatar</strong> icon followed by the <strong>Plus</strong> (<strong>+</strong> icon).</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/61166a55-b53b-4f78-b1f5-e90a9667f1c3/Untitled.png"></p>
+<p> <img src="/images/1Student/CO-RequestShare1.png"></p>
 </li>
 </ol>
 </li>
 <li><p>Select the peer that you want to share your assignment with by clicking <strong>Share Request</strong>.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/26ade45c-de9a-42dd-af67-41247bc1c4d3/Untitled.png"></p>
+<p> <img src="/images/1Student/CO-RequestShare2.png"></p>
 	<p> <u>Note</u>: You are not allowed to withdraw the sharing request after it has been sent.</p>
 </li>
 <li><p>The status will change from ”Share Request” to ”Pending Request”. This means that you are waiting for your classmate to accept your request.</p>
