@@ -31,25 +31,25 @@ third_nav_title: Author
 <ul>
 <li>When you move a Component to the Next Page, it will appear on the top of that page.</li>
 <li><p>When you move a Component to the Previous Page, it will appear at the bottom of that page.</p>
-<p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4ca46a4a-aaea-4135-8b89-ea9a91996292/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddDisplay1.png"></p>
 </li>
 </ul>
 </li>
 <li><p>Click outside of the Component to <strong>Save</strong>.</p>
 </li>
 </ol>
-<h2 id="-add-components-to-multiple-columns-"><strong>Add Components to Multiple Columns</strong></h2>
+<h2 id="-add-components-to-multiple-columns-">Add Components to Multiple Columns</h2>
 <hr>
 <ol>
 <li>In the Multiple Columns view, hover over Text/Media, Question or Last Used to add a Component.</li>
 <li><p>Click here to find out more about the different Components.</p>
-<p> <img alt="Screenshot 2023-03-10 at 5.39.19 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f5dfd34b-f268-46d5-afc6-7f20127a9faf/Screenshot_2023-03-10_at_5.39.19_PM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddDisplay2.png"></p>
 </li>
 <li><p>You can click on the Component to <strong>Edit</strong>, <strong>Move Up/Down</strong> or <strong>Delete</strong> a Multiple Column Component by clicking on respective icons.</p>
 </li>
 <li>Click outside of the Component to <strong>Save</strong>.</li>
 </ol>
-<h2 id="-add-components-to-accordions-"><strong>Add Components to Accordions</strong></h2>
+<h2 id="-add-components-to-accordions-">Add Components to Accordions</h2>
 <hr>
 <ol>
 <li>In the Accordion view, hover over Text/Media, Question or Last Used to add a Component.</li>
@@ -58,4 +58,4 @@ third_nav_title: Author
 <li>You can click on the Component to <strong>Edit</strong>, <strong>Move Up/Down</strong> or <strong>Delete</strong> a Accordion Component by clicking on respective icons.</li>
 <li>You can add multiple Components by selecting from the Component Bar at the bottom.</li>
 <li>Click outside of the Component to <strong>Save</strong>.</li>
-</ol>
+</ol><img style="width: 50%;" src="/images/2Teacher/AU-AddDisplay3.png">
