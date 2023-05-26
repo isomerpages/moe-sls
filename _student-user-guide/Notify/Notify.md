@@ -4,9 +4,11 @@ permalink: /student-user-guide/notify/index/
 description: ""
 third_nav_title: Notify
 ---
-### Notify
-Use SLS to receive notifications to follow up on Teaching &amp; Learning matters.
-
+<h1>Notify</h1>
+<p>Use SLS to receive notifications to follow up on Teaching &amp; Learning matters.</p>
+<br>
+<img style="width: 100%;" src="/images/1Student/Flow-Notify.png">
+<br>
 <a target="_blank" href="/student-user-guide/notify/about-notifications/">About Notifications (New)</a>
 
 <details><summary><h4>What are Notifications? (New)</h4></summary>
