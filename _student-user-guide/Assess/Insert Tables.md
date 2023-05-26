@@ -5,26 +5,26 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="insert-tables">Insert Tables</h1>
-<h2 id="-insert-table-"><strong>Insert Table</strong></h2>
+<h2 id="-insert-table-">Insert Table</h2>
 <hr>
 <ol>
 <li>When editing a Rich Text-enabled component, click the <strong>Table</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Table.svg">.</li>
 <li>Select the number of columns and rows for the table by dragging the cursor across the grid.</li>
 <li>You may add or remove rows and columns using the floating toolbar when you click on the table.</li>
 </ol>
-<h2 id="-edit-table-border-"><strong>Edit Table Border</strong></h2>
+<h2 id="-edit-table-border-">Edit Table Border</h2>
 <hr>
 <ol>
 <li>Select <strong>Table Properties</strong> from the toolbar.</li>
 <li>Define the border width by keying in the terms of pixels, e.g. key in "1" for 1 pixel.</li>
 <li>The default colour of the table border is black. You can also change the border colour by accessing the <strong>Advanced</strong> tab.</li>
 </ol>
-<h2 id="-edit-table-background-colour-"><strong>Edit Table Background Colour</strong></h2>
+<h2 id="-edit-table-background-colour-">Edit Table Background Colour</h2>
 <hr>
 <ol>
 <li>You can change the colour of the table background by accessing the <strong>Advanced</strong> tab in Table Properties.</li>
 </ol>
-<h2 id="-change-border-or-background-colours-"><strong>Change Border or Background Colours</strong></h2>
+<h2 id="-change-border-or-background-colours-">Change Border or Background Colours</h2>
 <hr>
 <ol>
 <li>You may either key in a HTML colour name such as "black", or a HEX code such as "#000000" (for black).</li>
