@@ -15,7 +15,7 @@ third_nav_title: Plan
     <ol style="list-style-type: lower-alpha;">
       <li>From the Home Page, click the <strong>View Planner</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/CalendarOpen.svg">.</li>
       <li>Open the left menu and click <strong>Planner</strong>.</li>
-      <li>Open your <strong>Class Group</strong> and click the <strong>Planner</strong> tab. <img alt="Class Group Planner Tab" src="P-ClassGroupPlanner.png"></li>
+      <li>Open your <strong>Class Group</strong> and click the <strong>Planner</strong> tab.<img style="width: 50%;" src="/images/2Teacher/P-ClassGroupPlanner.png"></li>
     </ol>
   </li>
   <li>From steps A and B above, select the <strong>Class Group</strong> that you wish to view. Click <strong>Apply</strong> to proceed. The total number of Class Groups that appear are indicated in parenthesis.<br><br>
@@ -28,6 +28,5 @@ third_nav_title: Plan
   <li>To know what events are happening at the moment, refer to the Red Line.</li>
 </ol>
 
-<img alt="Planner Calendar" src="P-Calendar.png">
-
+<img style="width: 50%;" src="/images/2Teacher/P-Calendar.png">
 <p><u>Did you know:</u> The <strong>Assignments Due</strong> subpage of the Planner will only appear if there are assignments due today or in the next 3 days.</p>
