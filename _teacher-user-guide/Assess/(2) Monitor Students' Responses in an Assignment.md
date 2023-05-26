@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="-2-monitor-students-responses-in-an-assignment">(2) Monitor Students' Responses in an Assignment</h1>
-<h2 id="-monitor-an-assignment-"><strong>Monitor an Assignment</strong></h2>
+<h2 id="-monitor-an-assignment-">Monitor an Assignment</h2>
 <hr>
 <p>You can monitor your students' Assignment progress on the Monitor Assignment page via three ways:</p>
 <ul>
@@ -15,7 +15,7 @@ third_nav_title: Assess
 </ul>
 <h2 id="monitor-assignment-page">Monitor Assignment page</h2>
 <hr>
-<p><img alt="Screenshot 2023-03-22 at 10.04.21 AM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed97e57e-f0a8-4790-93e8-ef68058bf527/Screenshot_2023-03-22_at_10.04.21_AM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/As-Heatmap.png"></p>
 <p>The following information will be displayed on the Monitor Assignment page:</p>
 <ul>
 <li>Assignment Status: based on the overall Completion Status of students assigned.</li>
