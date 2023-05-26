@@ -8,7 +8,7 @@ third_nav_title: Assess
 <p>From R19, Lessons will have both activities and sections. The term course will no longer be used.</p>
 <p>There are two ways to navigate around an Assignment - from the Lesson Plan or Activity List.</p>
 <p><u>Important</u>: You may not have access to all Sections of the Lesson when it is first assigned to you.</p>
-<h2 id="-navigate-an-assignment-using-lesson-plan-"><strong>Navigate an Assignment using Lesson Plan</strong></h2>
+<h2 id="-navigate-an-assignment-using-lesson-plan-">Navigate an Assignment using Lesson Plan</h2>
 <hr>
 <ol>
 <li>To navigate an Assignment, click the <strong>Lesson Plan</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/courseplan32.svg">  found in the Activity List. </li>
@@ -22,7 +22,7 @@ third_nav_title: Assess
 <li>To access a particular Activity within a Lesson/Section, select the Activity.</li>
 </ol>
 <p><img src="/images/1Student/As-LessonPlan.png"></p>
-<h2 id="-navigate-an-assignment-using-activity-list-"><strong>Navigate an Assignment using Activity List</strong></h2>
+<h2 id="-navigate-an-assignment-using-activity-list-">Navigate an Assignment using Activity List</h2>
 <hr>
 <p>There are two different views for Activity Lists - Collapsed Activity List which only shows the Section alphabet and Activity number or the Full Activity List which shows the title of the Activities/Sections.</p>
 <ol>
