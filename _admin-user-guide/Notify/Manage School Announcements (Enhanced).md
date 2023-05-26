@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Notify
 ---
 <h1 id="manage-school-announcements-enhanced-">Manage School Announcements (Enhanced)</h1>
-<h2 id="-create-school-announcements-enhanced-"><strong>Create School Announcements (Enhanced)</strong></h2>
+<h2 id="-create-school-announcements-enhanced-">Create School Announcements (Enhanced)</h2>
 <hr>
 <ol>
 <li>Login with an SLS School Admin account.</li>
@@ -25,7 +25,7 @@ third_nav_title: Notify
 <li>Enter the Announcement Title and Message and select the Start Date and Start Time.</li>
 <li>Click <strong>Create</strong> and your Announcement will be made.</li>
 </ul></li></ol>
-<h2 id="-edit-school-wide-announcements-"><strong>Edit School-Wide Announcements</strong></h2>
+<h2 id="-edit-school-wide-announcements-">Edit School-Wide Announcements</h2>
 <hr>
 <ol>
 <li>Login with an SLS School Admin account.</li>
@@ -37,7 +37,7 @@ third_nav_title: Notify
 <li><p>Click <strong>Save</strong> at the top of the subpage to confirm.</p>
 </li>
 </ol>
-<h2 id="-delete-school-wide-announcements-"><strong>Delete School-Wide Announcements</strong></h2>
+<h2 id="-delete-school-wide-announcements-">Delete School-Wide Announcements</h2>
 <hr>
 <ol>
 <li>Login with an SLS School Admin account.</li>
