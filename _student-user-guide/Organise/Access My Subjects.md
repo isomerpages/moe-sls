@@ -12,9 +12,9 @@ third_nav_title: Organise
 <hr>
 <ol>
 	<li>Open the right menu and click&nbsp;<strong>My Subjects</strong>. <br><br>
-		<img alt="My Subjects menu" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/db549ffa-90a0-4d05-ac55-f8a2e043a4e0/Untitled.png"></li>
+		<img src="/images/1Student/O-MySubjects.png"></li>
 	<li>The page will contain both your Assigned Subjects and Followed Subjects.<br><br>
-		<img alt="Assigned and Followed Subjects page" src="O-MySubjects1.png"></li>
+		<img src="/images/1Student/O-MySubjects1.png"></li>
 	<li>You can access the Learning Progress <a href="#">(hyperlink about LP page)</a> or Search for Resources <a href="#">(hyperlink Search for resources page)</a> directly from the Subject Card.</li>
 	<li>To access the Learning Progress, click the <strong>Learning Progress</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/LearningProgress.svg"> found on the top right of each Subject Card.</li>
 	<li>The Learning Progress icon will be disabled on a Followed Subject Card if you do not have a Class Group tagged to that Subject and Level.</li>
