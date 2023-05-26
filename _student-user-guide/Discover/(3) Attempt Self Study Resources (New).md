@@ -57,10 +57,7 @@ third_nav_title: Discover
   <li>On the homepage, click <strong>My Drive</strong>. Alternatively, open the left menu from the header on the homepage, and click&nbsp;<strong>Resources</strong>, followed by&nbsp;<strong>My Drive</strong>. By default, you will be on your My Lessons tab.</li>
 <li>To view the Lesson Details, click the <strong>Overflow</strong> (3-dot icon) and select the <strong>View Details</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/ViewDetails.svg"> on the Lesson Card. You will be able to view details such as Lesson Description, list of Activities and Sections (if any), who created the Lesson and when it was lasted edited. To open the Lesson in a new tab, click the <strong>Expand</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/external-link.svg">.</li>
 <li>Click <strong>Open</strong> under a Lesson Title to start attempting the Lesson in a new tab. Within the Lesson, open the right menu to <strong>Reattempt</strong> (once you have started on the Lesson), or <a target="_blank" href="/student-user-guide/organise/view-print-friendly-worksheet/">View as Print-Friendly Worksheet</a> (if permissions have been enabled).</li>
-  <ul>
 <u>Note</u>: Should you Reattempt the Lesson, responses from your previous attempt will be deleted. To keep a copy of your responses, make a copy of the Lesson before reattempting.
-  </ul>
-  <li>To revisit this Lesson, you can access it from your Self-Study List.</li>
-  <ul><u>Note</u>: Your previous responses will be saved.
-  </ul>
+<li>To revisit this Lesson, you can access it from your Self-Study List.</li>
+<u>Note</u>: Your previous responses will be saved.
 </ol>
