@@ -9,10 +9,10 @@ third_nav_title: Author
 <hr>
 <ol>
 <li><p>Ensure your QTI file is exported as QTI 2.1 version.  </p>
-<p> <img alt="Screenshot 2022-10-04 at 10.01.58 AM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e310bca-c6ba-4492-b88f-b3e37d2788a5/Screenshot_2022-10-04_at_10.01.58_AM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddQTI1.png"></p>
 </li>
 <li><p>From the component bar, under <strong>Question</strong>, find <strong>Add From Existing</strong> and select <strong>Questions from file (QTI).</strong> (screenshot)</p>
-<p> <img alt="Screenshot 2023-03-03 at 3.34.29 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a04991b0-f404-4406-ba45-ffe029a6eb91/Screenshot_2023-03-03_at_3.34.29_PM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddQTI2.png"></p>
 </li>
 <li><p>Upload a QTI zip file into the Import Question subpage and click <strong>Upload</strong>. You can also import images into options using QTI.</p>
 <p> <u>Note</u>: A sample file can be found here <a href="http://iwant2study.org/lookangejss/QTI2.1/physicsp1.zip">http://iwant2study.org/lookangejss/QTI2.1/physicsp1.zip</a> </p>
@@ -24,7 +24,7 @@ third_nav_title: Author
 </li>
 <li>Should there be an error message indicating “processing partially unsuccessful”, you may have to manually make some edits to the question. </li>
 </ol>
-[<span class="hljs-string">Screenshot 2022-10-04 at 10.15.25 AM.png</span>](<span class="hljs-link">https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b255ebeb-6fac-4868-9080-422e98cadf8a/Screenshot_2022-10-04_at_10.15.25_AM.png</span>)
+<img style="width: 50%;" src="/images/2Teacher/AU-AddQTI3.png">
 
 <h2 id="considerations-when-creating-a-qti-file">Considerations when creating a QTI File</h2>
 <hr>
