@@ -10,7 +10,7 @@ third_nav_title: Author
 <li>My Templates </li>
 <li>SLS Templates</li>
 </ol>
-<p><img alt="Screenshot 2023-03-23 at 4.38.36 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/42ede84e-bc0b-45c8-9df9-5c18d7ac7e69/Screenshot_2023-03-23_at_4.38.36_PM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AboutTemplates1.png"></p>
 <h2 id="my-templates">My Templates</h2>
 <hr>
 <ul>
