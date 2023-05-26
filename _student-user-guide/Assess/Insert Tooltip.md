@@ -6,7 +6,7 @@ third_nav_title: Assess
 ---
 <h1 id="insert-tooltip">Insert Tooltip</h1>
 <p>Tooltips will display simple text over selected content to provide more information. For example, a tooltip can be used to display the definition of a technical term.</p>
-<h2 id="-insert-tooltip-"><strong>Insert Tooltip</strong></h2>
+<h2 id="-insert-tooltip-">Insert Tooltip</h2>
 <hr>
 <ol>
 <li><p>In the Rich Text Editor, choose the <strong>Tooltip</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Tooltip.svg">. Alternatively, highlight the text and select the <strong>Tooltip</strong> icon.</p>
