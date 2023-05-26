@@ -10,13 +10,11 @@ third_nav_title: Organise
 <h2>Starring from Search Results</h2>
 <hr>
 <p>You can star a Lesson and an App by clicking the <strong>View Details</strong> icon<img style="width:1rem; display: inline;" src="/images/Icons/ViewDetails.svg"> found on the top right of the Resource Card, followed by the <strong>Star</strong> icon found at the top of the subpage.</p>
-<img alt="Starring from Search Results" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c3166b88-e8ea-4600-ba4d-a9f9a0b39220/22aprstarringfromsearch.png">
-
+<img src="/images/1Student/O-ResourceSubpage.png">
 <h2>Starring from My Drive folders</h2>
 <hr>
 <p>To star a Lesson within My Drive, click <strong>Open</strong> under the Lesson title. You can star a Lesson by clicking the <strong>Star</strong> icon beside the Lesson Title in the banner.</p>
-<img alt="Starring from My Drive folders" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b6c2796-387d-4218-96d0-3bba5b5d731f/22aprstarresource.png">
-
+<img src="/images/1Student/O-StarLesson.png">
 <h2>Unstarring a Resource</h2>
 <hr>
 <ol>
