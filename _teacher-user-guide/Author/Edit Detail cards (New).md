@@ -6,7 +6,7 @@ third_nav_title: Author
 ---
 <h1 id="edit-detail-cards-new-">Edit Detail cards (New)</h1>
 <p>Lesson Detail card can be found on every page for easier access.</p>
-<h2 id="-edit-lesson-details-card-"><strong>Edit Lesson Details Card</strong></h2>
+<h2 id="-edit-lesson-details-card-">Edit Lesson Details Card</h2>
 <hr>
 <ol>
 <li>The Lesson Details Card can be expanded/hidden by clicking the <strong>Settings</strong> icon [image] on every page.</li>
@@ -34,7 +34,7 @@ third_nav_title: Author
 </li>
 <li>Click on <strong>Save</strong> icon to proceed.</li>
 </ol>
-<h2 id="-edit-section-details-card-"><strong>Edit Section Details Card</strong></h2>
+<h2 id="-edit-section-details-card-">Edit Section Details Card</h2>
 <hr>
 <ol>
 <li>On the Section Cover page, the Section Details Card can be expanded/hidden by clicking the <strong>Settings</strong> icon [insert icon].</li>
@@ -45,7 +45,7 @@ third_nav_title: Author
 </li>
 <li>Click the <strong>Save</strong> icon to proceed.</li>
 </ol>
-<h2 id="-edit-activity-details-card-"><strong>Edit Activity Details Card</strong></h2>
+<h2 id="-edit-activity-details-card-">Edit Activity Details Card</h2>
 <hr>
 <ol>
 <li>On the Activity page, the Activity Details Card can be expanded/hidden by clicking the <strong>Settings</strong> icon [insert icon].</li>
@@ -56,7 +56,7 @@ third_nav_title: Author
 </li>
 <li>Click the <strong>Save</strong> icon to proceed.</li>
 </ol>
-<h2 id="-edit-question-component-details-card-"><strong>Edit Question Component Details Card</strong></h2>
+<h2 id="-edit-question-component-details-card-">Edit Question Component Details Card</h2>
 <hr>
 <ol>
 <li>On the Activity page where you have added a Question, the Question Component Details Card can be expanded/hidden by clicking the <strong>Settings</strong> icon [insert icon].</li>
@@ -65,7 +65,7 @@ third_nav_title: Author
 <li>Learning Progress - You may choose to include this question in the Learning Progress. Click <a href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LearningProgress/About.html">here</a> to find out more about Learning Progress.</li>
 <li>Keyword Tags - This will improve the searchability of the question. You will have to tag a question if you wish to include it in the Learning Progress.</li>
 <li><p>Question Tags - You may choose to tag individual questions to the relevant topics by clicking <a href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/TagComponent.html">Add Question Tag</a>.</p>
-<p><img alt="Screenshot 2023-03-10 at 11.13.30 AM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e1e994e-d267-4710-a3b3-e4084c159fba/Screenshot_2023-03-10_at_11.13.30_AM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-EditDetailCard1.png"></p>
 </li>
 </ul>
 </li>
@@ -82,7 +82,7 @@ third_nav_title: Author
 <li><p>Hide Names: When students' names are hidden, they will appear as Anonymous on the Interaction Board. Students will only see their own names.</p>
 </li>
 </ul>
-<a href="https://www.learning.moe.edu.sg/sls/media/images/UpdatedAssets/2Teacher/LM-ITTNames.png">https://www.learning.moe.edu.sg/sls/media/images/UpdatedAssets/2Teacher/LM-ITTNames.png</a>
+<img style="width: 50%;" src="/images/2Teacher/AU-EditDetailCard2.png">
 
 <ol>
     For Poll:<ul>
@@ -92,7 +92,7 @@ third_nav_title: Author
     
 </ol>
 
-![<span class="hljs-string">Screenshot 2023-03-10 at 1.31.23 PM.png</span>](<span class="hljs-link">https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7ced2ad0-af39-44fb-a053-6f120bb53a14/Screenshot_2023-03-10_at_1.31.23_PM.png</span>)
+<img style="width: 50%;" src="/images/2Teacher/AU-EditDetailCard3.png">
 
 <h2 id="edit-quiz-detail-card">Edit Quiz Detail Card</h2>
 <hr>
