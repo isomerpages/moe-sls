@@ -8,7 +8,7 @@ third_nav_title: Collaborate
 <ol>
 <li>Students can create a new poll if teachers have switched on the permission setting.</li>
 <li><p>On the Forum tab, click <strong>Create New Poll</strong>.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fba81b98-1200-4825-909c-ee200597a1f5/Untitled.png"></p>
+<p><img src="/images/1Student/CO-CreatePoll1.png"></p>
 </li>
 <li><p>On the <strong>Create Poll</strong> subpage, fill in the following details:</p>
 <ol style="list-style-type: lower-alpha;">
