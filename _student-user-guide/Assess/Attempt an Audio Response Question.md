@@ -13,7 +13,7 @@ third_nav_title: Assess
 <li>From R18, your teacher is able to attach a pre-populated Google File to a Free-Response Question. To find out how you can attempt such questions, click here [hyperlink student/Integration/AboutGoogle.html]. </li>
 <li><p>For Audio-Response questions, you would need to allow the browser to access your microphone to start recording. Click the text box followed by the <strong>Recording</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Audio24.svg"> at the top left to begin attempting the Audio Response question.</p>
 	<p> <u>Note</u>: Each recording can be up to a maximum duration of 10 minutes.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/28fa0907-5993-4439-bfbd-b6713d7861c8/Untitled.png"></p>
+<p><img src="/images/1Student/As-ARQ.png"></p>
 </li>
 <li><p>You can click the <strong>Play</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Play.svg"> to listen to your recording to make sure that it is recorded successfully. Click the <strong>Download</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Download.svg"> to save your recording on your local hard drive. </p>
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/40ace310-6e8e-49e8-b3f6-a058d243dbc8/Untitled.png"></p>
