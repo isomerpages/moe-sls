@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/administer/index/
 description: ""
 third_nav_title: Administer
 ---
-<h2>Administer</h2>
+<h1>Administer</h1>
 <p>Use SLS to manage student usage.</p>
 <img alt="Flow Administer" src="/images/2Teacher/Flow-Administer.png">
 
