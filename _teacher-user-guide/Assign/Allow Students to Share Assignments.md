@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assign
 ---
 <h1 id="allow-students-to-share-assignments">Allow Students to Share Assignments</h1>
-<h2 id="-student-sharing-permissions-"><strong>Student-Sharing Permissions</strong></h2>
+<h2 id="-student-sharing-permissions-">Student-Sharing Permissions</h2>
 <p>Teachers can give Sharing Permissions to allow students to share their Assignments with other students. Students will be able to see other students' responses, Notes, and Teacher Feedback once shared. Once allowed, permission to share cannot be revoked.</p>
 <hr>
 <ol>
@@ -20,13 +20,12 @@ third_nav_title: Assign
 <li><p>On the Assignment Settings subpage, select the <strong>Others</strong> tab.</p>
 <ul>
 <li><p>Sharing Permissions is turned off by default. To allow students to share their Assignments, check the box beside <strong>Allow students to share Assignments</strong> and click the <strong>Save</strong> icon and <strong>Proceed</strong> to confirm.</p>
-<p>  <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/626ce0db-9cef-44a1-a0f3-5ea7dc599576/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AS-AllowShare1.png"></p>
 </li>
 </ul>
 </li>
 <li><p>If sharing access is enabled, the <strong>Assignment Sharing</strong> icon [insert icon] will be seen on the Assignment Card and on the Assignment Cover page.</p>
-<p> 1</p>
-<p> <img alt="Screenshot 2023-03-17 at 6.02.24 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c9a3742-3749-484c-8598-65c7e5bf7a8d/Screenshot_2023-03-17_at_6.02.24_PM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AS-AllowShare2.png"></p>
 </li>
 </ol>
 <h2 id="-student-interaction-in-shared-assignment-"><strong>Student Interaction in Shared Assignment</strong></h2>
@@ -37,7 +36,7 @@ third_nav_title: Assign
 <ul>
 <li>View each other's assignment, including Activities with restricted access where the other student might not otherwise be able to view.</li>
 <li><p>View and comment on each other's Notes and Annotations (highlight).</p>
-<p>  !<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/AFMHighlightedAnnotationandNotes.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/AFMHighlightedAnnotationandNotes.png</a></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AS-AllowShare3.png"></p>
 <p>  Viewing student's highlights and notes.</p>
 </li>
 <li><p>View teacher's Annotation made to a student's copy of the Assignment.</p>
@@ -48,8 +47,5 @@ third_nav_title: Assign
 <li><p>Teachers are able to delete comments.</p>
 </li>
 <li>Students will not be able to complete the Assignment on behalf of the student who shared the Assignment.</li>
-</ul>
-</li>
-	<ol>
 <li>To understand how students are able to share their Assignment/Assessment, refer to <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/RequestShare.html">Request to Share Assignment</a>.</li>
-</ol></ul>
+</ul></li></ul>
