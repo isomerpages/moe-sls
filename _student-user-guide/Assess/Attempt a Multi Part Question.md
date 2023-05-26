@@ -26,7 +26,7 @@ third_nav_title: Assess
 <li>In an Auto-Graded Quiz and a Teacher-Marked Quiz, you can only submit your response after attempting the last question.</li>
 <li>For Multiple-Choice, Multiple-Response, Fill-in-the-Blanks, Click-and-Drop, and Error-Editing Questions, your answer will automatically be graded by the system. Once you submit your response, you will be able to see the correct answer, along with any explanation that your teacher might have provided under the Feedback tab.</li>
 </ol>
-<p>[insert As-MPQ.png]</p>
+<p><img src="/images/1Student/As-MPQ.png"></p>
 <p><u>Did You Know?</u>:</p>
 <ul>
 <li>If your teacher has set a recommended time, you will be able to see it below the Question Body.</li>
