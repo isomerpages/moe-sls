@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 ---
 <h1 id="resources">Resources</h1>
-<h2 id="-useful-resource-sites-"><strong>Useful Resource Sites</strong></h2>
+<h2 id="-useful-resource-sites-">Useful Resource Sites</h2>
 <hr>
 <p>Before using third-party materials obtained from websites, it is important to check whether:</p>
 <ol>
