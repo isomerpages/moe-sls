@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Self Study
 ---
 <h1 id="-1b-add-notes-to-images">(1b) Add Notes to Images</h1>
-<h2 id="-add-notes-to-images-"><strong>Add Notes to Images</strong></h2>
+<h2 id="-add-notes-to-images-">Add Notes to Images</h2>
 <hr>
 <p>When you are working on an assignment or a Self-Study Resource, you can add annotations to images within each Activity for future reference. These notes can be used to consolidate your learning. For example, you can summarise the contents of the image in point form.</p>
 <ol>
@@ -20,7 +20,7 @@ third_nav_title: Self Study
 	<p> <u>Note</u>: If you have shared your Assignment with a peer, he/she will be able to leave comments too.</p>
 </li>
 </ol>
-<h2 id="-edit-and-delete-note-"><strong>Edit and Delete Note</strong></h2>
+<h2 id="-edit-and-delete-note-">Edit and Delete Note</h2>
 <hr>
 <p>You may edit each Annotation card from the Annotation Drawer by clicking the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and selecting the following options:</p>
 <ol>
