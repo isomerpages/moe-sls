@@ -14,6 +14,6 @@ third_nav_title: Assign
 <li>From Starred Resources</li>
 </ol>
 </li>
-<p><img alt="Screenshot 2023-03-17 at 11.07.58 AM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/218fbcba-8211-46fa-8ddf-62be9896914f/Screenshot_2023-03-17_at_11.07.58_AM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AS-AddAssignment1.png"></p>
 <li>You may also add a new Category to your Class Group assignment. This can be used to organise the Assignments for your Class Group.</li>
 </ol>
