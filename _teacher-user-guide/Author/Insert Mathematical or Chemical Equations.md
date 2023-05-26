@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 ---
 <h1 id="insert-mathematical-or-chemical-equations">Insert Mathematical or Chemical Equations</h1>
-<h2 id="-insert-math-equation-using-mathtype-"><strong>Insert Math Equation using MathType</strong></h2>
+<h2 id="-insert-math-equation-using-mathtype-">Insert Math Equation using MathType</h2>
 <hr>
 <ol>
 <li>When editing a Rich Text-enabled component, choose the math equation button [insert icon].</li>
