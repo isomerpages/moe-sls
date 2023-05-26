@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="insert-emoticon">Insert Emoticon</h1>
-<h2 id="-insert-emoticon-using-rich-text-editor-"><strong>Insert Emoticon using Rich Text Editor</strong></h2>
+<h2 id="-insert-emoticon-using-rich-text-editor-">Insert Emoticon using Rich Text Editor</h2>
 <hr>
 <ol>
 <li>When editing a Rich Text-enabled component, choose the <strong>Emoticons</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Emoticons.svg">.</li>
