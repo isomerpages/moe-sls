@@ -8,7 +8,7 @@ third_nav_title: Customise
 <ol>
 <li>Open the right menu and click <strong>Edit Profile</strong>.</li>
 <li><p>On the Profile page, select <strong>Change Password</strong> under Account Settings.</p>
-<p> <img alt="scp1.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f378a53d-3593-4035-903e-1ac1425f01b2/scp1.png"></p>
+<p> <img src="/images/1Student/Cu-ChangePassword.png"></p>
 <ul>
 <li>You will need to enter your current password, followed by the new password twice to confirm that you have entered it correctly.</li>
 <li>Your new password must follow the Password Requirements given.</li>
