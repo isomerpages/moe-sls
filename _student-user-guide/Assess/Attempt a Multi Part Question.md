@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="attempt-a-multi-part-question">Attempt a Multi-Part Question</h1>
-<h2 id="-multi-part-question-"><strong>Multi-Part Question</strong></h2>
+<h2 id="-multi-part-question-">Multi-Part Question</h2>
 <hr>
 <ol>
 <li>A Multi-Part Question is a question that contains multiple parts. The multiple parts are related and therefore should be attempted as one question.</li>
