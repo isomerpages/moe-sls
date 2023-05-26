@@ -11,7 +11,7 @@ third_nav_title: Customise
 <li>Open the right menu and click <strong>Edit Profile</strong>.</li>
 <li>On the Profile page, select <strong>Set Email Address</strong> under Account Settings.</li>
 
-<p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e57afe4-51f7-4504-a63d-e0ce3d857630/Untitled.png"></p>
+<p><img src="/images/1Student/Cu-EmailAddress.png"></p>
 <ul>
     <li>You will need to enter an email address under Alternate Email.</li>
 </ul>
