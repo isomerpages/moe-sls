@@ -18,7 +18,7 @@ third_nav_title: Gamify
 </ol>
 </li>
 <li><p>After creating a Game Story, you may click <strong>Add Conditions</strong> to determine when the Game Story will appear during the lesson . All Game Stories are hidden on default until they are awarded to the students. Please read (Link to Add Conditions for Game Stories and Achievements) for more information on Conditions. </p>
-<p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6e68be24-a003-4eda-93d2-f4e82568041d/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/G-GameStory1.png"></p>
 </li>
 </ol>
 </li>
@@ -33,7 +33,7 @@ third_nav_title: Gamify
 </ol>
 </li>
 <li><p>After creating an Achievement, you may click <strong>Add Conditions</strong> to determine when the Achievement will appear during the lesson . Please read (Link to Add Conditions for Game Stories and Achievements) for more information on Conditions. </p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/067596cc-d28f-49fc-8270-98f876c04789/Untitled.png"></p>
+<p> <img style="width: 50%;" src="/images/2Teacher/G-GameStory2.png"></p>
 </li>
 </ol>
 </li>
@@ -105,12 +105,12 @@ third_nav_title: Gamify
 <li><p>at the start of a section. (as an accordion)</p>
 <ol>
 <li><p>In the Game Story/Achievement Card, click <strong>Add Conditions</strong>. </p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1facb0cd-6de0-4323-8b2d-3e362bbed207/Untitled.png"></p>
+<p> <img style="width: 50%;" src="/images/2Teacher/G-GameStory3.png"></p>
 </li>
 <li><p>In the Add Conditions subpage, click <strong>Add Conditions</strong> and select <strong>Section Start</strong>.</p>
 </li>
 <li><p>From the left dropdown menu, choose a <strong>Section</strong> within your Lesson. </p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fde58708-7930-4eb0-8a12-bac863b6c765/Untitled.png"></p>
+<p> <img style="width: 50%;" src="/images/2Teacher/G-GameStory4.png"></p>
 </li>
 <li><p>Click <strong>Save</strong> to proceed.</p>
 </li>
@@ -134,7 +134,7 @@ third_nav_title: Gamify
 <li>In the Add Conditions subpage, click <strong>Add Conditions</strong> and select <strong>Awarded Marks for Quiz</strong>.</li>
 <li>From the left dropdown menu, choose a <strong>Quiz Activity</strong>.</li>
 <li><p>Enter in the minimum percentage required to trigger the Game Story/Achievement. </p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9e3e0284-8fa0-4fa1-a548-5aae52324de8/Untitled.png"></p>
+<p> <img style="width: 50%;" src="/images/2Teacher/G-GameStory5.png"></p>
 </li>
 <li><p>Click <strong>Save</strong> to proceed.</p>
 </li>
@@ -157,7 +157,7 @@ third_nav_title: Gamify
 <li>In the Game Story/Achievement Card, click <strong>Add Conditions</strong>.</li>
 <li>In the Add Conditions subpage, click <strong>Add Conditions</strong> and select <strong>Level</strong>.</li>
 <li><p>Enter the Level required to trigger the Game Story/Achievement. </p>
-<p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d8e9143-205a-45c4-ab74-ac16815ad74c/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/G-GameStory6.png"></p>
 </li>
 <li><p>Click <strong>Save</strong> to proceed.</p>
 </li>
