@@ -19,4 +19,4 @@ third_nav_title: Assess
 <li>The default Quiz Mode is Progressive Quiz. You can choose to set the Quiz as Optional by adjusting the Optional toggle icon.</li>
 <li>You can change the Quiz Mode, add Description and Instruction to Students by clicking on the Quiz Component.</li>
 </ul>
-insert As-CreateQuiz.png
+<img style="width: 50%;" src="/images/2Teacher/As-CreateQuiz.png">
