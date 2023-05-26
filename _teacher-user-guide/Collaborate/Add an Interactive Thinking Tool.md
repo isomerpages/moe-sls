@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Collaborate
 ---
 <h1 id="add-an-interactive-thinking-tool">Add an Interactive Thinking Tool</h1>
-<h2 id="-create-an-interactive-thinking-tool-"><strong>Create an Interactive Thinking Tool</strong></h2>
+<h2 id="-create-an-interactive-thinking-tool-">Create an Interactive Thinking Tool</h2>
 <hr>
 <ol>
 <li>In the Lesson Editor page, select an <strong>Activity</strong>, hover your mouse over <strong>Interactive</strong> in the Component Bar, then select <strong>ITT</strong>. </li>
@@ -24,10 +24,10 @@ third_nav_title: Collaborate
 <li>When students' names are hidden, they will appear as Anonymous on the Interaction Board. Students will only see their own names.</li>
 <li>To edit an ITT, hover your mouse over the ITT and click the component, or the <strong>Pencil</strong> icon.</li>
 <li><p>To delete your ITT, click the <strong>Delete</strong> icon.</p>
-<p> [insert C-ITTComponent.png]</p>
+<p><img style="width: 50%;" src="/images/2Teacher/C-ITTComponent.png"></p>
 </li>
 </ol>
-<h2 id="-preview-as-student-"><strong>Preview as Student</strong></h2>
+<h2 id="-preview-as-student-">Preview as Student</h2>
 <hr>
 <p>When you Preview as Student or assign an ITT to students, students will be able to submit a response, with the ability to:</p>
 <ol>
