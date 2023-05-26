@@ -10,8 +10,8 @@ third_nav_title: Assign
 <p>Teachers may set Assignments as Assessments to better control assignments. In an Assessment, you cannot access non-examination material (e.g. external links) unless they have been whitelisted for use in the assessment's network. </p>
 <h3 id="about-assignments">About Assignments</h3>
 <hr>
-<p>Each assignment contains the following information, reflected on each Assignment Card: [screenshot replaced]</p>
-<p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/20e5a442-7109-4bb1-8aca-e8113eae3d05/Untitled.png"></p>
+<p>Each assignment contains the following information, reflected on each Assignment Card: </p>
+<p><img src="/images/1Student/AS-AboutAssignment1.png"></p>
 <ol>
 <li>Title - Assignment Title</li>
 <li>Class Group - Class Group to which the Assignment was given</li>
