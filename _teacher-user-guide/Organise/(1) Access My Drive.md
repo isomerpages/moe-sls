@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Organise
 ---
 <div>
-    <h1> Access My Drive</h1>
+    <h1>(1) Access My Drive</h1>
     <p><strong>My Drive</strong> can be accessed from the homepage by opening the left menu.</p>
     <ol>
         <li>
