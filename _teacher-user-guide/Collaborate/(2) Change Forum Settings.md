@@ -14,15 +14,14 @@ third_nav_title: Collaborate
 <li>You can also change the permission settings for an existing topic but clicking the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and selecting <strong>Edit</strong>. Alternatively, click a topic card, followed by clicking the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and selecting <strong>Edit.</strong></li>
 <li>Select or deselect the checkbox “Allow Observers and Students to create Posts”.</li>
 </ol>
-<p>[insert C-TopicPermission.png]</p>
+<p><img style="width: 50%;" src="/images/2Teacher/C-TopicPermission.png"></p>
 <h3 id="poll-settings">Poll Settings</h3>
 <hr>
 <p>Teachers are able to change the permission settings to allow or disallow Observers and students to create a poll.</p>
 <ol>
 <li>Click <strong>Forum Settings</strong>, then select the checkbox “Allow Observers and Students to create Poll”.</li>
-</ol>
-<p>[insert screenshot]</p>
-<ol>
+
+<p><img style="width: 50%;" src="/images/2Teacher/C-Poll1.png"></p>
 <li>Click <strong>Save</strong> to confirm.</li>
 </ol>
 <h3 id="comment-settings">Comment Settings</h3>
