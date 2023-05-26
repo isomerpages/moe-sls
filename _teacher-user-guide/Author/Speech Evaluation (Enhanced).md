@@ -14,13 +14,13 @@ third_nav_title: Author
 <li><p>Then click the <strong>Speech Evaluation</strong> icon [icon] in the Rich Text editor.</p>
 </li>
 <li><p>In the pop-up that appears, add the text for evaluation and click <strong>Save</strong>. </p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0d8802b4-8edb-4315-9873-5a1df1ce762d/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-SpeechEvaluate1.png"></p>
 </li>
 <li><p>The text to be evaluated using the Speech Evaluation tool will appear in a grey box. If you need to edit the text, you need to delete the old text, click the <strong>Speech Evaluation</strong> icon and enter the new text in the pop-up.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d9bd4243-1273-40df-8327-a4c106c9be8e/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-SpeechEvaluate2.png"></p>
 </li>
 <li><p>You may then edit the pre-populated rubrics by customising the bands and mark range. </p>
-<p> <img alt="22aprse3.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/038acea4-fa8d-4477-92f2-7302d136c616/22aprse3.png"></p>
+<p> <img style="width: 50%;" src="/images/2Teacher/AU-SpeechEvaluate3.png"></p>
 </li>
 <li><p>If there are no further changes to the question, click <strong>Save</strong>.</p>
 </li>
