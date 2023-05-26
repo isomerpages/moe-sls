@@ -10,7 +10,6 @@ third_nav_title: Customise
 <img style="width: 100%;" src="/images/1Student/Flow-Customise.png">
 
 <details><summary><h4>How to manage my SLS account?</h4></summary>
-<p>Details:</p>
 <ul>
 <li><a href="#">Customise an Avatar</a></li>
 <li><a href="#">Set Password Reset Email Address</a></li>
