@@ -13,7 +13,7 @@ third_nav_title: Assess
 <ul>
 <li>Drag and drop a file into the box; or</li>
 <li><p>Click the box and select a file through the file manager.</p>
-<p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6fb85e74-deab-4a14-9a15-bb1773fb611a/Untitled.png"></p>
+<p><img src="/images/1Student/As-Upload.png"></p>
 </li>
 </ul>
 </li>
