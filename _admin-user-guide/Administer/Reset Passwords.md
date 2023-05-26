@@ -14,7 +14,7 @@ third_nav_title: Administer
 <li>Open the left menu and click <strong>Administration</strong>, followed by <strong>Manage Users</strong>.</li>
 <li>On the Manage Users page, search for accounts that need to be reset. If searching by name, use search operators such as "+" to refine the search (e.g. Angela+Ang).</li>
 <li><p>To narrow down the search results, click <strong>Filter</strong>. </p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/064752e6-9dc5-4d13-8b25-e1d6f4a3d430/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/5Admin/A-SearchUsers.png"></p>
 </li>
 <li><p>In the <strong>Filter</strong> subpage, select the following filters from the respective dropdown list:</p>
 <ul>
@@ -22,7 +22,7 @@ third_nav_title: Administer
 <li><strong>MIMS Status</strong> - Active, Inactive, Not Applicable</li>
 <li><strong>Form Class</strong> (for students only)</li>
 <li><p><strong>Role</strong> - School Admin, Teacher, Student</p>
-<p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/90753c21-193f-414b-9a2d-ccb68abc09b0/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/5Admin/A-Filter1.png"></p>
 </li>
 </ul>
 </li>
