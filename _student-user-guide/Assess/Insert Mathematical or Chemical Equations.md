@@ -15,7 +15,7 @@ third_nav_title: Assess
 <li>To edit an equation, double-click the image to open the MathType editor.</li>
 </ol>
 <p><u>Note</u>: You are now able to copy and paste your mathematical equations in the Rich Text Editor. </p>
-<p>!<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/RTMathTypePopup.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/RTMathTypePopup.png</a></p>
+<p><img src="/images/1Student/As-MathType.png"></p>
 <h2 id="-insert-mathematical-equation-using-latex-commands-"><strong>Insert Mathematical Equation using LaTeX commands</strong></h2>
 <hr>
 <ol>
@@ -32,4 +32,4 @@ third_nav_title: Assess
 <li>To edit an equation, double-click the image to open the ChemType editor.</li>
 </ol>
 <p><u>Note</u>: You are now able to copy and paste your chemical equations in the Rich Text Editor.</p>
-insert As-MathType.png
+<img src="/images/1Student/As-MathType.png">
