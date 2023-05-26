@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Discover
 ---
 <h1>Discover</h1>
-Use SLS to discover, search for and find useful Teaching &amp; Learning resources that you can learn from.
+<p>Use SLS to discover, search for and find useful Teaching &amp; Learning resources that you can learn from.</p>
 <br>
 <img style="width: 100%;" src="/images/1Student/Flow-Discover.png">
 <br>
