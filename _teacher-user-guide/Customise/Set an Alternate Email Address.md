@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Customise
 ---
 <h1 id="set-an-alternate-email-address">Set an Alternate Email Address</h1>
-<h2 id="-default-email-address-"><strong>Default Email Address</strong></h2>
+<h2 id="-default-email-address-">Default Email Address</h2>
 <hr>
 <p><strong>For Teachers in Schools</strong></p>
 <p>The default email address used in SLS for teachers in schools is your iCON email (ending with @moe.edu.sg).</p>
@@ -13,12 +13,12 @@ third_nav_title: Customise
 <p>If you have neither iCON nor CES email, your default email should be the official email address in your MIMS account.</p>
 <p><strong>For MOE HQ Officers</strong></p>
 <p>The default email address used in SLS for teachers in MOE HQ is your WOG email (ending with @moe.gov.sg).</p>
-<h2 id="-setting-an-alternate-email-address-"><strong>Setting an Alternate Email Address</strong></h2>
+<h2 id="-setting-an-alternate-email-address-">Setting an Alternate Email Address</h2>
 <hr>
 <p>Instead of using the default email address, you may also choose to provide an alternate email address for SLS system notifications.</p>
 <ol>
 <li><p>From the homepage, open the right menu and click <strong>Edit Profile</strong>.</p>
-<p> <img alt="22apreditprofile.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a36c775f-bb52-4da1-ab94-01faca77cf6d/22apreditprofile.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/Cu-EditProfile.png"></p>
 </li>
 <li><p>Under Account Settings, click <strong>Set</strong> <strong>Email Address</strong>.</p>
 </li>
