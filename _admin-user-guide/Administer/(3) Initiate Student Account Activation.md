@@ -14,7 +14,7 @@ third_nav_title: Administer
 <li><strong>Role</strong> - Student</li>
 <li><p><strong>Form Class</strong> - SLS School Admins can generate the OTP according to Form Class. </p>
 <p><u>Note</u>: It is not advisable to generate OTP for more than 100 students in one click as there might be errors due to processing time.</p>
-<p>  <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/47a44f21-83cb-4283-bfb9-cefc7083ba7e/Untitled.png"></p>
+<p> <img style="width: 50%;" src="/images/5Admin/A-ActivateAccount.png"></p>
 </li>
 </ul>
 </li>
