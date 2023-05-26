@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 ---
 <h1 id="add-rubrics-to-audio-and-free-response-questions">Add Rubrics to Audio- and Free-Response Questions</h1>
-<h2 id="-add-rubrics-"><strong>Add Rubrics</strong></h2>
+<h2 id="-add-rubrics-">Add Rubrics</h2>
 <hr>
 <p>Rubrics can be added to Free-Response or Audio-Response Questions to assess students holistically on performance tasks.</p>
 <ol>
@@ -28,7 +28,7 @@ third_nav_title: Author
 
 <li>Click outside the Component to <strong>Save</strong>.</li>
 </ol>
-<h2 id="-use-marks-of-the-rubrics-not-available-for-questions-in-progressive-quiz-and-auto-graded-quiz-"><strong>Use Marks of the Rubrics (Not available for Questions in Progressive Quiz and Auto-Graded Quiz)</strong></h2>
+<h2 id="-use-marks-of-the-rubrics-not-available-for-questions-in-progressive-quiz-and-auto-graded-quiz-">Use Marks of the Rubrics (Not available for Questions in Progressive Quiz and Auto-Graded Quiz)</h2>
 <hr>
 <ol>
 <li>The rubrics can be used as a reference, but not be bound to the mark ranges for the question. To do so, ensure that the box beside <strong>Show and use rubrics marks</strong> is unchecked.</li>
