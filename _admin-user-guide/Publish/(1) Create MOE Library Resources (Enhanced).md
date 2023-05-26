@@ -29,14 +29,14 @@ third_nav_title: Publish
 <li><strong>Keyword Tags</strong></li>
 <li><strong>Lesson Tags</strong></li>
 <li><p>cleared <strong>Media Objects</strong> from RMS</p>
-<p>  <img alt="Screenshot 2023-03-22 at 8.04.25 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e6ce799-a423-4c53-9826-dd738bbc20c6/Screenshot_2023-03-22_at_8.04.25_PM.png"></p>
+<p><img src="/images/5Admin/P-MOELibrary.png"></p>
 </li>
 </ul>
 </li>
 <li><p>To rectify the error, click <strong>Edit</strong> to make the necessary changes.</p>
 </li>
 <li><p>In the Approve Lesson subpage, select the <strong>Owner Group</strong> you wish to publish this resource under. Select the checkbox next to who you want the Lesson to be Visible to. Click <strong>OK</strong> to proceed.</p>
-<p> <img alt="Screenshot 2023-03-22 at 8.06.28 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ec12e58f-1a39-4f9f-bf72-291b04ec71ac/Screenshot_2023-03-22_at_8.06.28_PM.png"></p>
+<p><img src="/images/5Admin/P-MOELibrary1.png"></p>
 </li>
 <li><p>A message will be shown if the resource has been successfully submitted. A notification will be sent to the Content Approver, who will approve your submission.</p>
 </li>
