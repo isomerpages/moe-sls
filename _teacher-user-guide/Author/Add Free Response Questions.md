@@ -5,16 +5,16 @@ description: ""
 third_nav_title: Author
 ---
 <h1 id="add-free-response-questions">Add Free-Response Questions</h1>
-<h2 id="-add-free-response-question-frq-"><strong>Add Free-Response Question (FRQ)</strong></h2>
+<h2 id="-add-free-response-question-frq-">Add Free-Response Question (FRQ)</h2>
 <hr>
 <ol>
 <li><p>In the Lesson Editor page, hover over Question in the Component Bar.</p>
-<p> <img alt="Screenshot 2023-03-15 at 12.35.30 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a220f171-1f5a-46c2-a63b-cccdf083967a/Screenshot_2023-03-15_at_12.35.30_PM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddFRQ1.png"></p>
 </li>
 <li><p>You may insert an existing Question from Library, Starred Resources or QTI file by selecting <strong>Add from Existing</strong>.</p>
 </li>
 <li>Select <strong>Free-Response</strong> to create your own questions.</li>
-<li><p>Below are the types of FRQ options <em>**</em>you can choose from:</p>
+<li><p>Below are the types of FRQ options you can choose from:</p>
 <ul>
 <li>Default.</li>
 <li>File Submission: Allow file submission checkbox will be checked. If checked, students have the option of uploading a file when they submit their responses. Students can upload up to 10 files. <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/UsefulResources/FileSizeLimits.html">File limits</a> are based on the file type.</li>
@@ -28,14 +28,14 @@ third_nav_title: Author
 </li>
 <li>Click outside the Component to <strong>Save</strong>.</li>
 </ol>
-<h2 id="-edit-free-response-question-details-"><strong>Edit Free-Response Question Details</strong></h2>
+<h2 id="-edit-free-response-question-details-">Edit Free-Response Question Details</h2>
 <hr>
 <p>Fill in the optional details of the Free-Response question:</p>
 <ul>
 <li>Recommended Time - You can set the recommended time for the student to complete the</li>
 <li>Response Size <strong>(NEW)</strong> - You can adjust the response size (Short, Medium or Long) using dropdown menu to choose the response size best suited for the question.</li>
 </ul>
-<p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c17e085d-ecdd-4a4d-a71c-30531e8d8be2/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddFRQ2.png"></p>
 <ul>
 <li><p>Pre-populated Student Answer - This allows you to insert an answer stem to scaffold students' responses, or to provide an image for students to work on. When students answer the question, they will be able to directly edit this answer stem or image. Students can edit the images provided by clicking the <strong>Edit Drawing</strong> icon [insert icon] and drawing on it.</p>
 	<p><u>Note</u>: You can also use Google Response to Pre-populated Student Answer.</p>
