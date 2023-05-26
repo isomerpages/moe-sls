@@ -6,7 +6,7 @@ third_nav_title: Publish
 ---
 <h1 id="-1-submit-lessons">(1) Submit Lessons</h1>
 <p>If you have a Lesson that you would like to share with teachers on SLS, you may submit it to the Community Gallery. </p>
-<h2 id="-lesson-submission-checklist-"><strong>Lesson Submission Checklist:</strong></h2>
+<h2 id="-lesson-submission-checklist-">Lesson Submission Checklist:</h2>
 <hr>
 <ul>
 <li>Update the Lesson Description to give other users an overview of what the Lesson is about.</li>
@@ -15,13 +15,13 @@ third_nav_title: Publish
 <li>Ensure your Lesson meets <a href="https://www.notion.so/2-Copyright-Guidelines-for-Submission-232b6d03faa84fdf9ce0ffb5d70dc052">Copyright guidelines</a>.</li>
 </ul>
 <p>Your submission will be featured after it has been approved by one of the Community Gallery Administrators (CG Admins).</p>
-<h2 id="-check-lesson-for-submission-"><strong>Check Lesson for Submission</strong></h2>
+<h2 id="-check-lesson-for-submission-">Check Lesson for Submission</h2>
 <hr>
 <ol>
 <li>Open the Lesson that you wish to submit to the Community Gallery.</li>
 <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the top right of the header, and click <strong>Check for Submission (Community Gallery)</strong>.</li>
 <li><p>You will be prompted to check that the content of the Lesson is in line with the <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/LessonResources/CopyrightGuidelines.html">Community Gallery guidelines</a>. </p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6b424478-a080-4fa2-8f24-21122bf5ee3a/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/P-CG.png"></p>
 </li>
 <li><p>If the <strong>Lesson is Ready for Submission</strong>, check the box to acknowledge that the content complies with SLS Terms of Use and the Copyright Guidelines. </p>
 	<p><u>Note</u>: To make any edits before submission, close the pop-up and click the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg">.</p>
@@ -40,7 +40,7 @@ third_nav_title: Publish
 <hr>
 <ol>
 <li><p>You will receive a notification if your lesson has been returned.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ffe3f101-ffef-4134-be96-b34ceb1ee9a1/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/P-CG1.png"></p>
 </li>
 <li><p>Click the notification to open the copy of the Lesson, which will show a banner asking you to please check feedback.</p>
 </li>
