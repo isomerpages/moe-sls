@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 ---
 <h1 id="insert-emoticons">Insert Emoticons</h1>
-<h2 id="-insert-emoticon-using-rich-text-editor-"><strong>Insert Emoticon using Rich Text Editor</strong></h2>
+<h2 id="-insert-emoticon-using-rich-text-editor-">Insert Emoticon using Rich Text Editor</h2>
 <hr>
 <ol>
 <li>When editing a Rich Text-enabled component, choose the <strong>Emoticons</strong> icon [insert icon].</li>
