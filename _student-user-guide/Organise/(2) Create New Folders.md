@@ -21,7 +21,7 @@ third_nav_title: Organise
 
 <p>If there are too many folder levels, clicking "..." will bring up a dropdown list of all the levels in between.</p>
 
-<p><img alt="Folders in Multiple Levels" src="O-MultipleFolders.png"></p>
+<p><img src="/images/1Student/O-MultipleFolders.png"></p>
 
 <strong>Did You Know?</strong>
 <p>By default, the resources in My Drive are sorted by folders, followed by files, based on the latest modified date.</p>
