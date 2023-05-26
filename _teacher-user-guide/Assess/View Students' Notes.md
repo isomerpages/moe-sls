@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="view-students-notes">View Students' Notes</h1>
-<h2 id="-viewing-students-notes-"><strong>Viewing Students' Notes</strong></h2>
+<h2 id="-viewing-students-notes-">Viewing Students' Notes</h2>
 <hr>
 <p>You can monitor your students’ learning by referring to the Notes that they create within an Assignment you have given.</p>
 <p><u>Important</u>: </p>
@@ -26,10 +26,8 @@ third_nav_title: Assess
 <li>To view Comments given by students on a student's Note, click <strong>Comments</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Comment.svg"> to open the Card Details subpage. </li>
 <li>You can add comments by clicking the <strong>Add</strong> from the Card Details subpage, and add your comments in the text box.</li>
 
-	<p><u>Note</u>: Comments added on a Team Note will be visible to all students in the team. </p>
-<pre><code>!https:<span class="hljs-regexp">//</span>docs.learning.moe.edu.sg<span class="hljs-regexp">/sls-user-guide/</span>vle<span class="hljs-regexp">/media/im</span>ages<span class="hljs-regexp">/UpdatedAssets/</span>Teacher<span class="hljs-regexp">/AFMAddCommenttoNote.png</span>
-</code></pre>
-<li>You can also choose to insert mathematical or chemical equations by clicking the relevant icons.</li>
+<p><u>Note</u>: Comments added on a Team Note will be visible to all students in the team. <img style="width: 50%;" src="/images/2Teacher/As-StudentNote.png">
+</p><li>You can also choose to insert mathematical or chemical equations by clicking the relevant icons.</li>
 <li>Once done, click <strong>Post</strong>.</li>
 <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) to Edit/Delete a Comment.</li>
 </ol>
