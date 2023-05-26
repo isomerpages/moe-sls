@@ -24,10 +24,10 @@ third_nav_title: Publish
 </li>
 <li>To view the Lesson Details, scroll to the extreme right. Click the <strong>Overflow</strong> (3 dots icon) and select <strong>Lesson Details</strong>.</li>
 <li><p>You can download the Marks and Responses from the <strong>Overflow</strong> too.</p>
-<p> <img alt="Screenshot 2023-03-23 at 9.21.50 AM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fee2550d-96ad-4e4e-9831-75ad2209866d/Screenshot_2023-03-23_at_9.21.50_AM.png"></p>
+<p><img src="/images/5Admin/P-ManageLessons.png"></p>
 </li>
 <li><p>To view the Admin Reviews of a Lesson, click <strong>Open</strong> under the Lesson Title and click <strong>Admin Reviews</strong> on the grey banner.</p>
-<p> <img alt="Screenshot 2023-03-23 at 9.23.27 AM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/56b2a244-57d2-4a88-b79a-ea6e2a6d842b/Screenshot_2023-03-23_at_9.23.27_AM.png"></p>
+<p><img src="/images/5Admin/P-ManageLessons1.png"></p>
 </li>
 </ol>
 <h2 id="search-for-a-lesson">Search for a Lesson</h2>
