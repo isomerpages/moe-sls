@@ -6,14 +6,14 @@ third_nav_title: Author
 ---
 <h1 id="view-edit-lesson-plans">View &amp; Edit Lesson Plans</h1>
 <p>The yellow navigation arrow in the Lesson Plan indicates your current view of the Lesson.</p>
-<h2 id="-view-a-lesson-plan-"><strong>View a Lesson Plan</strong></h2>
+<h2 id="-view-a-lesson-plan-">View a Lesson Plan</h2>
 <hr>
 <ol>
 <li>In the Lesson View page, click the <strong>Lesson Plan</strong> icon [insert icon] in the collapsed Activity List. All the Sections/Activities in a Lesson will be shown.</li>
 <li>The yellow navigation arrow in the Lesson Plan indicates your current view of the Lesson.</li>
 <li>To view the list of Activities within a Section, click <strong>Show Activities ( )</strong>. The number indicated in the bracket shows the number of Activities within the Section.</li>
 <li><p>Clicking an <strong>Activity</strong>/<strong>Section</strong> from the Lesson Plan will bring you to the particular Activity/Section.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a9e7313-eee1-4a95-98b3-c5e2b6b40b49/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-EditLessonPlan1.png"></p>
 </li>
 </ol>
 <h2 id="-edit-a-lesson-plan-">Edit a Lesson Plan</h2>
