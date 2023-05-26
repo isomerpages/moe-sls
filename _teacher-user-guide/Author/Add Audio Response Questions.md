@@ -5,16 +5,16 @@ description: ""
 third_nav_title: Author
 ---
 <h1 id="add-audio-response-questions">Add Audio-Response Questions</h1>
-<h2 id="-add-audio-response-question-arq-"><strong>Add Audio-Response Question (ARQ)</strong></h2>
+<h2 id="-add-audio-response-question-arq-">Add Audio-Response Question (ARQ)</h2>
 <hr>
 <ol>
 <li><p>In the Lesson Editor page, hover over Question in the Component Bar.</p>
-<p> <img alt="Screenshot 2023-03-15 at 3.34.51 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/93135a29-46d1-4e8d-aecf-72ea2945af99/Screenshot_2023-03-15_at_3.34.51_PM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU_AddARQ1.png"></p>
 </li>
 <li><p>You may insert an existing Question from Library, Starred Resources or QTI file by selecting <strong>Add from Existing</strong>.</p>
 </li>
 <li>Select <strong>Audio-Response</strong> to create your own questions.</li>
-<li>Below are the types of ARQ options <em>**</em>you can choose from:<ul>
+<li>Below are the types of ARQ options you can choose from:<ul>
 <li>Default: You will evaluate students’ submission and provide Marks and/or Feedback.</li>
 <li>Chinese/Malay/Tamil Language Speech Evaluation: The system will provide Marks and/or Feedback.</li>
 </ul>
@@ -22,7 +22,7 @@ third_nav_title: Author
 <li>In the Question Body field, enter the question.</li>
 <li>Click outside the Component to <strong>Save</strong>.</li>
 </ol>
-<h2 id="-edit-audio-response-question-"><strong>Edit Audio-Response Question</strong></h2>
+<h2 id="-edit-audio-response-question-">Edit Audio-Response Question</h2>
 <hr>
 <p>Fill in the optional details of the Audio-response question:</p>
 <ul>
