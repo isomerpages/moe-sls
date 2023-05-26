@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="attempt-a-fill-in-the-blanks-question">Attempt a Fill-in-the-Blanks Question</h1>
-<h2 id="-fill-in-the-blanks-question-"><strong>Fill-in-the-Blanks Question</strong></h2>
+<h2 id="-fill-in-the-blanks-question-">Fill-in-the-Blanks Question</h2>
 <hr>
 <ol>
 <li><p>To answer a Fill-in-the-Blanks question, key in your answer in the blanks provided.</p>
