@@ -9,12 +9,12 @@ third_nav_title: Author
 <p>From R19,</p>
 <ul>
 <li><p>You are able to <strong>Expand</strong> and <strong>Collapse</strong> the Rich Text Editor field by clicking the respective icons.</p>
-<p>  <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/801d1091-4984-40ad-a925-f6093881b481/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AboutRichText1.png"></p>
 </li>
 <li><p>You can simply click outside of the component to save and click on the component to edit.</p>
 </li>
 <li><p>You can also Add Files from Device, Add Google Files, Embed YouTube Videos, Embed Apps and Embed Websites directly from the component bar.</p>
-<p>  <img alt="Screenshot 2023-03-03 at 1.13.57 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ef176a0-01d9-49b8-9848-2adf92dd312c/Screenshot_2023-03-03_at_1.13.57_PM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AboutRichText3.png"></p>
 </li>
 </ul>
 <p>In the Rich Text Editor, you can</p>
