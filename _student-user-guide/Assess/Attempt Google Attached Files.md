@@ -10,22 +10,23 @@ third_nav_title: Assess
 <h3 id="open-edit-google-attached-files">Open/Edit Google-Attached Files</h3>
 <ol>
 <li><p>If your teacher has attached Google Files to the pre-populated student answer for you to access/attempt, you will be able to access the file by clicking on the <strong>Open in New Tab</strong> or <strong>Edit</strong> button. </p>
-<p> <img alt="GI-1.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6817c118-3037-4f9b-996b-c6bf63c30dd3/GI-1.png"></p>
+<p> <img src="/images/1Student/As-Google.png"></p>
 </li>
 <li><p>When attempting to access the file, a personal copy of the file will be created for you. Your name will be reflected at the front of the file name. </p>
-<p> <img alt="GI-2.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7d1a5599-a8d3-4258-8583-dbbef57747e0/GI-2.png"></p>
+<p>  <img src="/images/1Student/As-Google1.png"></p>
 </li>
 <li><p>After the file is created, you may view the new file in Google and edit it directly. </p>
-<p> <img alt="GI-3.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2f2c87ce-d260-4e9e-ac1c-c4a98855b52b/GI-3.png"></p>
+<p> <img src="/images/1Student/As-Google2.png"></p>
 </li>
 <li><p>After completing the work and returning to SLS, you will see the original file name has your name written in the front. You may then submit the file for marking. </p>
 	<p> <u>Note</u>: once submitted, you will not be able to edit your Google file. </p>
-<p> <img alt="GI-4.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/289a8032-84d7-456f-9e15-72cbfd290d46/GI-4.png"></p>
+<p>  <img src="/images/1Student/As-Google3.png"></p>
 </li>
 </ol>
 <h3 id="open-edit-teacher-comments-">Open/Edit Teacher Comments</h3>
 <ol>
 <li>After your teacher has given feedback on the your work, you can edit a copy of your teacher’s comments under the Teacher Comments tab to do corrections. </li>
-<p><img alt="GI-5.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bb52d8ea-8b01-488f-a929-0a7d59bd3d72/GI-5.png"></p>
+<p> <img src="/images/1Student/As-Google4.png"></p>
 <li>Your corrections will be reflected in an updated Google document under Teacher Comments. A two-way communication can be established between teachers and students during the feedback process.</li>
 </ol>
+ <img src="/images/1Student/As-Google5.png">
