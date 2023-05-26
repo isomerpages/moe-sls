@@ -11,7 +11,7 @@ third_nav_title: Customise
 <li>Open the right menu and click <strong>Edit Profile</strong>. </li>
 <li>On the Profile page, select <strong>Security Questions</strong> under Account Settings.</li>
 
-<p><img alt="suatsq.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2e7619cd-bba7-4d21-b142-0f263b6d57ea/suatsq.png"></p>
+<p><img src="/images/1Student/Cu-SecurityQuestions.png"></p>
 
 <li>Enter your new answers to the security questions in the respective fields.</li>
 <u>Note</u>:
