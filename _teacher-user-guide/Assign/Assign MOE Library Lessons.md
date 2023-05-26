@@ -29,7 +29,7 @@ third_nav_title: Assign
 <li><p>Click on the MOE Library <strong>Lesson</strong> <strong>Card</strong> that you would like to view.</p>
 </li>
 <li><p>Click <strong>Overflow (3 dots</strong> icon) on the header to open the right menu and click <strong>Add to Class Group Resources</strong>.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ba9f8890-3209-4161-83b0-a5ada2140e2e/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AS-AssignMOE1.png"></p>
 </li>
 <li><p>Select the Class Group(s), followed by <strong>Choose</strong>.</p>
 </li>
@@ -46,7 +46,7 @@ third_nav_title: Assign
 <li><strong>Visible to students in Class Group</strong></li>
 <li><strong>Notify Student(s)</strong> - this checkbox will be active if Resource is set to be visible to students in Class Group.</li>
 </ol>
-<p><img alt="Screenshot 2023-03-17 at 4.40.11 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91ed4808-182d-4df3-bfab-e3b983d19f26/Screenshot_2023-03-17_at_4.40.11_PM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AS-AssignMOE.png"></p>
 </li>
 </ol>
 </li>
