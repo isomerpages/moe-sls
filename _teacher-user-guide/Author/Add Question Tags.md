@@ -16,7 +16,7 @@ third_nav_title: Author
 <li>The Component Details Card can be expanded/hidden by clicking the <strong>Settings</strong> icon [insert icon].</li>
 <li>To edit the Question Details Card, click the <strong>Settings</strong> icon [icon img]. </li>
 <li><p>To include the Question in the Learning Progress, check the box beside <strong>Include in Learning Progress</strong>. You can also add Keyword Tags and Question Tags. </p>
-<p> <img alt="Screenshot 2023-03-10 at 4.06.03 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d60346d2-cd72-4b6f-acae-c676ed9f0550/Screenshot_2023-03-10_at_4.06.03_PM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddQuestionTag1.png"></p>
 	<p><u>Note</u>: You will need to add a Question Tag in order to include the question in the Learning Progress.</p>
 </li>
 <li><p>Click the dropdown arrow located on the right of the Question Tag field.</p>
@@ -30,10 +30,10 @@ third_nav_title: Author
 <li>Click the upward arrow on the Question Tag field to close the selection.</li>
 <li>Alternatively, you may click <strong>Copy Tags From Lesson</strong> to add the same tags from Lesson Tags to your Question Tags.</li>
 <li><p>Click the <strong>Save</strong> icon [icon img] to proceed.</p>
-<p><img alt="Screenshot 2023-03-10 at 4.05.42 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e3c53ad5-3d5a-4947-8f9c-83ad317464fd/Screenshot_2023-03-10_at_4.05.42_PM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddQuestionTag2.png"></p>
 </li>
 </ol>
-<h2 id="-add-more-question-tags-not-advised-"><strong>Add More Question Tags (Not Advised)</strong></h2>
+<h2 id="-add-more-question-tags-not-advised-">Add More Question Tags (Not Advised)</h2>
 <hr>
 <p><u>Note</u>: You are advised not to tag more than one learning objective in each content map.</p>
 <ol>
