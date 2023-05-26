@@ -9,7 +9,7 @@ third_nav_title: Organise
 <ol>
     <li>From the homepage, open the left menu and click <strong>Class Groups</strong>, followed by <strong>All Class Groups</strong>. Alternatively, under the Class Groups tab, click <strong>Class Groups</strong>.</li>
     <li>Click <strong>Add New Group</strong> to open Create New Group subpage. Enter the <strong>Name</strong> and <strong>Expiry</strong> <strong>Academic</strong> <strong>Year</strong>, <strong>Description</strong> (optional), <strong>Subject</strong> (optional), and <strong>Level</strong> (optional). Tagging a Subject and Level to a Class Group allows teachers and students to view the <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/AccountManagement/AboutLearningProgress.html">Learning Progress</a> for this Class Group.</li>
-    <p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8f9bbf7c-5df8-4d83-89a3-f8abb3496fa1/Untitled.png"></p>
+    <p><img style="width: 50%;" src="/images/2Teacher/O-NewClassGroups.png"></p>
     <li>You can add students from:
         <ul>
             <li>Your <strong>School</strong></li>
