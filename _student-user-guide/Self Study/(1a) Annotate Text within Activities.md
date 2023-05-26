@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Self Study
 ---
 <h1 id="-1a-annotate-text-within-activities">(1a) Annotate Text within Activities</h1>
-<h2 id="-add-annotation-to-text-within-an-activity-"><strong>Add Annotation to Text within an Activity</strong></h2>
+<h2 id="-add-annotation-to-text-within-an-activity-">Add Annotation to Text within an Activity</h2>
 <hr>
 <p>When you are working on an assignment or a Self-Study resource, you can add annotations to the text. This feature can be used to make notes specific to a phrase or sentence. For example, you can insert a definition or explanation for a term you just learnt. You can also highlight a text without adding a Note to it.</p>
 <ol>
@@ -24,7 +24,7 @@ third_nav_title: Self Study
 	<p> <u>Note</u>: If you have shared your assignment with a peer, he/she will be able to leave comments too.</p>
 </li>
 </ol>
-<h2 id="-editing-and-deleting-annotation-"><strong>Editing and Deleting Annotation</strong></h2>
+<h2 id="-editing-and-deleting-annotation-">Editing and Deleting Annotation</h2>
 <hr>
 <p>You may edit each Annotation Notes card from the Annotation Drawer by clicking the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and selecting the following options:</p>
 <ol>
@@ -33,7 +33,7 @@ third_nav_title: Self Study
 <li>Comment On/Off</li>
 </ol>
 <p>You may also click on the <strong>Comments</strong> icon to open the Card Details to view the full text or image in an Annotation Notes card and add a Comment [hyperlink to add comments]. <img src="/images/1Student/SS-Annotate2.png"></p>
-<h2 id="-e-dictionary-in-annotation-"><strong>E-Dictionary in Annotation</strong></h2>
+<h2 id="-e-dictionary-in-annotation-">E-Dictionary in Annotation</h2>
 <hr>
 <p>For Chinese Assignments and Resources with the E-Dictionary enabled, you will be able to highlight text to find its meaning in the E-Dictionary. </p>
 <ol>
