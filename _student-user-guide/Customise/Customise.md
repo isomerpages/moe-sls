@@ -11,11 +11,11 @@ third_nav_title: Customise
 
 <details><summary><h4>How to manage my SLS account?</h4></summary>
 <ul>
-<li><a href="#">Customise an Avatar</a></li>
-<li><a href="#">Set Password Reset Email Address</a></li>
-<li><a href="#">Set Email Notifications (New)</a></li>
-<li><a href="#">Manage Linked Account</a></li>
-<li><a href="#">Change Password</a></li>
-<li><a href="#">Update Answers to Security Questions</a></li>
+<li><a target="_blank" href="#">Customise an Avatar</a></li>
+<li><a target="_blank" href="#">Set Password Reset Email Address</a></li>
+<li><a target="_blank" href="#">Set Email Notifications (New)</a></li>
+<li><a target="_blank" href="#">Manage Linked Account</a></li>
+<li><a target="_blank" href="#">Change Password</a></li>
+<li><a target="_blank" href="#">Update Answers to Security Questions</a></li>
     </ul>
   </details>
