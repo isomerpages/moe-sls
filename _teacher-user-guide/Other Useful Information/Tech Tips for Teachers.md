@@ -185,8 +185,6 @@ Students can link any Gmail account (including personal ones) with SLS. They onl
 <li><p><strong>Will form teachers be given a class with their form classes on SLS? Right now, form teachers who do not teach the whole class have to form their own teaching groups in order to conduct FTGP lessons.</strong></p>
 <p> Schools are advised to create a class in School Cockpit (containing the form class students and teacher) and tag the class to a school-based subject, e.g. CCE. Once tagged to a subject, the form classes will appear in SLS.</p>
 </li>
-</ol>
-<ol>
 <li><p><strong>Currently only teachers in the same Teaching Group can change password for students. Can SLS allow teachers to change a students’ password even if no TG is set up?</strong>
 We note the request and will be looking to add this capability by Dec 2023.</p>
 </li>
@@ -212,7 +210,7 @@ Students cannot log in to MIMS if their account is locked.  Locking accounts aft
 <li><strong>A flexi-adjunct teacher (FAJT), relief teacher or ICT Manager/Associate is unable to log in to SLS. What steps can be taken to resolve it?</strong></li>
 <li><p><strong>I am on secondment/No-Pay-Leave and am no longer able to log in to SLS. How may I regain access to SLS?</strong></p>
 <p> For Q1 and Q2,</p>
-<ol>
+<ol style="list-style-type: lower-alpha;">
 <li>Ensure that the affected user has an active MIMS account.</li>
 <li>Check that the affected user has applied and been granted with SLS access in MIMS portal (<a href="https://mims.moe.gov.sg/">https://mims.moe.gov.sg/</a>). 
 Note:  SLS access can only be granted to ICT Manager/Associates if they are performing the SLS School Admin role. For assistance in applying for SLS access in MIMS, users may contact their MIMS Local Admin or SSOE 2 Service Desk (<a href="mailto:help@schools.gov.sg">help@schools.gov.sg</a>).</li>
@@ -222,11 +220,11 @@ Note:  SLS access can only be granted to ICT Manager/Associates if they are perf
 </li>
 <li><p><strong>What is the procedure for schools to apply for SLS access for students on Leave of Absence (LOA)? Do schools still need to write in to <a href="mailto:SLS_Ops@moe.gov.sg">SLS_Ops@moe.gov.sg</a>?</strong></p>
 <p> Schools are recommended to assign a student into a form class before placing the student on LOA. After which, schools may follow the procedure below:</p>
-<ol>
+<ol style="list-style-type: lower-alpha;">
 <li>Ensure that the LOA students' MIMS accounts are active, if not, the MIMS Student Admin (SA) should reactivate their accounts.</li>
 <li>If the MIMS SA has difficulties reactivating/locating the LOA students' MIMS accounts, please contact the  SSOE 2 Service Desk (<a href="mailto:help@schools.gov.sg">help@schools.gov.sg</a>) for assistance.</li>
 <li><p>Please continue to send in the LOA application form to  <a href="mailto:SLS_Ops@moe.gov.sg">SLS_Ops@moe.gov.sg</a> so that the students' SLS accounts can be assigned to your school.</p>
-<p>Note: If the MIMS SA has contacted SSOE Service Desk and SSOE Service Desk has provided confirmation that the MIMS account of the student does not exist, please forward the email to SLS Ops for further assistance.</p>
+	<p><u>Note</u>: If the MIMS SA has contacted SSOE Service Desk and SSOE Service Desk has provided confirmation that the MIMS account of the student does not exist, please forward the email to SLS Ops for further assistance.</p>
 </li>
 </ol>
 </li>
@@ -247,7 +245,7 @@ Note:  SLS access can only be granted to ICT Manager/Associates if they are perf
 </li>
 <li><p><strong>I believe I have completed the verification exercise but still received an email stating that I did not. How can I prevent this from happening?</strong></p>
 <p>In December every year, there are two verification exercises ongoing simultaneously:</p>
-<ol>
+<ol style="list-style-type: lower-roman;">
 <li>Verification of teacher/student accounts which has to be completed by school admins</li>
 <li>Verification of SLS school admin roles which has to be completed by school leaders</li>
 </ol>
