@@ -63,8 +63,7 @@ third_nav_title: Discover
 </ol>
 
 <p><u>Note</u>: Refine your search by using Guided Search.</p>
-
-<a target="_blank" href="/images/1Student/SS-FiltersSubpage.png"><img alt="FiltersSubpage" src="/images/1Student/SS-FiltersSubpage.png"></a>
+<img src="/images/1Student/SS-FiltersSubpage.png">
 
 <h2>Add Topic Filters</h2>
 
@@ -75,8 +74,7 @@ third_nav_title: Discover
   <li>Click <strong>Apply</strong> and choose <strong>Add Topic Filters.</strong></li>
   <li>On the Add Topic Filters subpage, select the relevant <strong>Content Map</strong> dropdown list.</li>
   <li>Select the checkbox to the left of the Topic, Subtopics, or Learning Outcome to narrow down the search results. 
-		
-<a target="_blank" href="/images/1Student/SS-TopicFilters.png"><img alt="TopicFilters" src="/images/1Student/SS-TopicFilters.png"></a>
+<img src="/images/1Student/SS-TopicFilters.png">		
 </li></ol>
 
 <h2>View Search Results</h2>
@@ -90,7 +88,7 @@ third_nav_title: Discover
       <li>Level and Subject (for Lessons only)</li>
       <li>Type of Resource</li>
     </ul>
-<a target="_blank" href="/images/1Student/SS-LessonCard1.png"><img alt="Screenshot of lesson card" src="/images/1Student/SS-LessonCard1.png"></a>
+<img src="/images/1Student/SS-LessonCard1.png">
   </li>
   <li>To view the Lesson Details, click the <strong>View Details</strong> icon found on the top right of the Lesson Card. You will be able to view details such as Lesson Description, list of Activities and Sections (if any), who created the Lesson and when it was lasted edited. To open the Lesson in a new tab, click the <strong>Expand</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/external-link.svg">.</li>
   <li>To enter the Lesson, click the <strong>Lesson Card</strong>.</li>
