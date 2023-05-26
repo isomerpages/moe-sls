@@ -51,7 +51,7 @@ third_nav_title: Assign
 </ul>
 <p><img style="width: 50%;" src="/images/2Teacher/AS-ManageAssignment3.png"></p>
 <ul>
-<li><p>Click <strong>Assign</strong>, found <em>**</em>on the top right of the Assignment Summary page to assign the Lesson.</p>
+<li><p>Click <strong>Assign</strong>, found on the top right of the Assignment Summary page to assign the Lesson.</p>
 	<p><u>Note</u>: For Lessons with multiple Sections, it may take some time for the Assignment to appear on your Assignment List.</p>
 </li>
 </ul>
