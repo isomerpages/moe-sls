@@ -4,7 +4,7 @@ permalink: /student-user-guide/customise/index/
 description: ""
 third_nav_title: Customise
 ---
-<h1>Organise (Customise)</h1>
+<h1>Customise</h1>
 <p>Use SLS to customize your avatar, UI and user experience based on your needs.</p>
 
 <img style="width: 100%;" src="/images/1Student/Flow-Customise.png">
