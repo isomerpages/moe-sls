@@ -14,12 +14,12 @@ third_nav_title: Assess
 <p><u>Note</u>: </p>
 <ul>
 <li><p>Assessment Cards are differentiated with a beige background.</p>
-<p>  <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dbe05dc5-d424-410a-82ab-19d8b83e3e04/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/As-Assessment.png"></p>
 </li>
 <li><p>Students will not be able to access embedded links or apps in the Assignment unless they have been whitelisted for use in the Assessment's network.</p>
 </li>
 <li>Students will not be able to view Assessments on their Assignments tab on the homepage or the Assignments list. You will have to provide them with the Student Attempt URL for them to gain access to it by clicking the <strong>Overflow</strong> (<strong>3-dot</strong> icon) when inside an Assignment/Assessment.</li>
 </ul>
-<p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9143a54a-2ab8-40e6-8326-d8bc8570307d/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/As-AssessmentURL.png"></p>
 <p>Did You Know?</p>
 <p>If you do not wish to create an Assessment (which will require the whitelisting of embedded links or apps), you may wish to set a Passcode to an Assignment [hyperlink teacher/LessonManagement/Passcode.html]. Students will require the Passcode before they can attempt the Assignment.</p>
