@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Organise
 ---
 <h1>View Print-Friendly Worksheet</h1>
-	<p>Print-friendly Worksheets allow for resources to be downloaded and printed. Resources from MOE Library, Class Group Resources, and Assignments can be viewed as Print-Friendly worksheets.</p>
+<p>Print-friendly Worksheets allow for resources to be downloaded and printed. Resources from MOE Library, Class Group Resources, and Assignments can be viewed as Print-Friendly worksheets.</p>
 
 <ol>
 	<li>Enter the Lesson View page of a Lesson.</li>
