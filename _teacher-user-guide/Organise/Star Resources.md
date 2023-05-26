@@ -23,16 +23,16 @@ third_nav_title: Organise
 <li>a Lesson by clicking the <strong>Star</strong> icon beside the Lesson Title in the banner</li>
 </ul>
 
-<p><img alt="22aprstarresource.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9b6c2796-387d-4218-96d0-3bba5b5d731f/22aprstarresource.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/O-Star.png"></p>
 
 <ul>
 <li>a Question by clicking the <strong>Star</strong> icon on the Component Cards</li>
 </ul>
 
-<p><img alt="22aprstarresource.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b438d4c1-8640-46a9-8dc5-59227fe4db5d/22aprstarresource.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/O-Star1.png"></p>
 
 <ul>
-<li>Media Objects by clicking the <strong>Star</strong> icon on the Media Object <img alt="O-StarMediaObject.png" src="insert O-StarMediaObject.png"></li>
+<li>Media Objects by clicking the <strong>Star</strong> icon on the Media Object <img style="width: 50%;" src="/images/2Teacher/O-StarMediaObject.png"></li>
 </ul>
 
 <p><u>Note</u>: While Activities cannot be starred, Teachers can add Activities from a starred Lesson. Find out more <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/StarredResources/AddStarResource.html">here</a>.</p>
@@ -45,7 +45,7 @@ third_nav_title: Organise
 
 <p>You can star a Resource (Lesson, Question, or Media Object) by clicking the Resource Card, followed by the <strong>Star</strong> icon found at the top of the subpage.</p>
 
-<p><img alt="22aprstarringfromsearch.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c3166b88-e8ea-4600-ba4d-a9f9a0b39220/22aprstarringfromsearch.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/O-Star2.png"></p>
 
 <h2>Starring from My Drive folders</h2>
 
