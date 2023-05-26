@@ -13,7 +13,7 @@ third_nav_title: Notify
       <li>click the <strong>Bell</strong> icon <img style="width:1rem; display: inline;" alt="Bell icon" src="/images/Icons/Bell.svg"> on the header, followed by <strong>View All Notifications</strong>,</li>
       <li>click <strong>View All Announcements</strong> from the Announcements widget on the homepage,</li>
       <li>open the left menu and click <strong>Announcements</strong>,</li>
-      <li>enter a Class group and select the <strong>Notifications</strong> tab. <a target="_blank" href="/images/2Teacher/N-ClassGroupNotification.png"><img src="/images/2Teacher/N-ClassGroupNotification.png"></a></li>
+      <li>enter a Class group and select the <strong>Notifications</strong> tab. <a target="_blank" href="/images/1Student/N-ClassGroupNotification.png"><img src="/images/1Student/N-ClassGroupNotification.png"></a></li>
     </ul>
   </li>
   <li>On the Notifications page, you can sort your Notifications according to <strong>All</strong>, <strong>Unread</strong> and <strong>Flagged</strong> by clicking the respective tabs.</li>
