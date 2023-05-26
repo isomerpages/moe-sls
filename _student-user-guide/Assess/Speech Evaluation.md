@@ -13,4 +13,4 @@ third_nav_title: Assess
 <li>You can record multiple audio files. However only 1 audio file can be submitted or saved as a draft.</li>
 <li>You may refer to the Rubric when assessing your recording.</li>
 </ol>
-insert AS-SE.png
+<img src="/images/1Student/As-SE.png">
