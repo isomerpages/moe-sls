@@ -26,8 +26,8 @@ third_nav_title: Assess
 <li>After you have submitted your response for an Interactive Thinking Tool, you can view and comment on your peers' responses for that section under <strong>View Class Submissions</strong>.</li>
 <li>You can view responses column by column by clicking on the respective column tabs.</li>
 <li>You can also view responses grouped by student by clicking the <strong>View All</strong> tab.</li>
-<li>If you see an <strong>Eye</strong> icon beside your name in the Interactive Thinking Tool Card, it means that your teacher has hidden the names of all students. You will be able to see only your name in the Interaction Board. [insert image]</li>
-<p>!<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/AITTClassSubmission2.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/AITTClassSubmission2.png</a></p>
+<li>If you see an <strong>Eye</strong> icon beside your name in the Interactive Thinking Tool Card, it means that your teacher has hidden the names of all students. You will be able to see only your name in the Interaction Board. </li>
+<p><img src="/images/1Student/As-ITT.png"></p>
 <li>In each column, you can click the <strong>Filter</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Filter24.svg"> to view the posts that have been bookmarked by your teacher.</li>
 </ol>
 <h2 id="-view-comments-"><strong>View Comments</strong></h2>
@@ -44,7 +44,7 @@ third_nav_title: Assess
 </ul>
 </li>
 <li><p>After typing in your comment, click <strong>Post</strong>.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/59a9581d-83c5-40b8-b1a4-9c5436771901/Untitled.png"></p>
+<p> <img src="/images/1Student/As-ITTComments.png"></p>
 </li>
 <li><p>You can edit/delete your response by clicking on <strong>Overflow</strong> (<strong>3 dot</strong> icon).</p>
 </li>
