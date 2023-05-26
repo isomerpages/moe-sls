@@ -10,4 +10,4 @@ third_nav_title: Assign
 <li>Click on the Assignment Card to enter the Assignment and click the <strong>Overflow</strong> (3-dots icon) to open the right menu and select <strong>Delete</strong>.</li>
 <li>The Assignment will be permanently deleted and students will no longer have access to it. Click <strong>OK</strong> to confirm your action.</li>
 </ol>
-insert AS-DeletedAssignment1.png
+<img style="width: 50%;" src="/images/2Teacher/AS-DeleteAssignment1.png">
