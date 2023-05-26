@@ -51,7 +51,7 @@ third_nav_title: Administer
 <li>Alternatively, you may import multiple classes at once by clicking <strong>Import Class</strong>.</li>
 <li><p>Select your School from the dropdown list and Import Type (Class, Student Allocation, or Teacher Allocation). Upload the .csv file and click <strong>Upload</strong>. </p>
 	<p><u>Note</u>: You can download the different Import Template .csv files by clicking <strong>Download Class/Student Allocation/Teacher Allocation Import Template Here</strong>. </p>
-<p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0b415799-c18d-46da-838e-acb34ccc0d85/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/5Admin/A-ImportClass.png"></p>
 </li>
 </ol>
 <h2 id="edit-a-subject-class-for-schools-not-using-school-cockpit-">Edit a Subject Class (For Schools Not Using School Cockpit)</h2>
