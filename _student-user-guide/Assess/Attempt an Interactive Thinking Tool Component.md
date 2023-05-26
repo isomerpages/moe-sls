@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="attempt-an-interactive-thinking-tool-component">Attempt an Interactive Thinking Tool Component</h1>
-<h2 id="-interactive-thinking-tool-"><strong>Interactive Thinking Tool</strong></h2>
+<h2 id="-interactive-thinking-tool-">Interactive Thinking Tool</h2>
 <hr>
 <ol>
 <li>Your assignment may contain an Interactive Thinking Tool (ITT).</li>
@@ -20,7 +20,7 @@ third_nav_title: Assess
 </ul>
 </li>
 </ol>
-<h2 id="-view-class-submissions-"><strong>View Class Submissions</strong></h2>
+<h2 id="-view-class-submissions-">View Class Submissions</h2>
 <hr>
 <ol>
 <li>After you have submitted your response for an Interactive Thinking Tool, you can view and comment on your peers' responses for that section under <strong>View Class Submissions</strong>.</li>
@@ -30,11 +30,11 @@ third_nav_title: Assess
 <p><img src="/images/1Student/As-ITT.png"></p>
 <li>In each column, you can click the <strong>Filter</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Filter24.svg"> to view the posts that have been bookmarked by your teacher.</li>
 </ol>
-<h2 id="-view-comments-"><strong>View Comments</strong></h2>
+<h2 id="-view-comments-">View Comments</h2>
 <hr>
 <p>To view comments on any response, click on the Response Card.</p>
 <p>All the comments will be shown in the order of time posted, with the most recent post at the bottom. The number of comments is shown in parenthesis.</p>
-<h2 id="-comment-on-peers-responses-"><strong>Comment on Peers' Responses</strong></h2>
+<h2 id="-comment-on-peers-responses-">Comment on Peers' Responses</h2>
 <hr>
 <p>To comment on one of your peers' responses,</p>
 <ol>
