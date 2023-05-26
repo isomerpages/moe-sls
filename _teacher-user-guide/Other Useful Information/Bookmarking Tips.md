@@ -29,20 +29,20 @@ third_nav_title: Other Useful Information
 <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon). It is at the top-right corner of Chrome.</li>
 <li>Tap <strong>Add to Home Screen</strong>.</li>
 <li><p>In the pop-up that appears, edit the title (if needed). This is the text that will appear under your shortcut's icon on the Home Screen.</p>
-<p> <img alt="BM1.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39975f88-7b49-4fb5-9985-2442d6700fae/BM1.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/Teacher-Bookmark.png"></p>
 </li>
 <li><p>Tap <strong>Add</strong>. Touch and hold the icon to place it manually on your Home Screen. Alternatively, tap <strong>Add automatically/Add to home screen</strong>.</p>
-<p> <img alt="BM2.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/351b5ab9-61ca-45bb-a751-7c9429ed449a/BM2.png"></p>
-<h2 id="-add-sls-to-the-home-screen-iphone-ipad-"><strong>Add SLS to the Home Screen (iPhone/iPad)</strong></h2>
+<p><img style="width: 50%;" src="/images/2Teacher/Teacher-Bookmark1.png"></p>
+<h2 id="-add-sls-to-the-home-screen-iphone-ipad-">Add SLS to the Home Screen (iPhone/iPad)</h2>
 <hr>
 <ol>
 <li>Open <strong>Safari</strong> on your iPhone or iPad.</li>
 <li>Enter <a href="https://vle.learning.moe.edu.sg/login">https://vle.learning.moe.edu.sg/login</a> in the address bar.</li>
 <li><p>Tap the <strong>Share</strong> icon. It is at the bottom of the screen.</p>
-<p> <img alt="BM3.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c44a600-99a3-4666-ae7a-6f3d64e63608/BM3.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/Teacher-Bookmark2.png"></p>
 </li>
 <li><p>Tap <strong>Add to Home Screen</strong>.</p>
 </li>
 </ol>
 </li>
-</ol>
+</ol><img style="width: 50%;" src="/images/2Teacher/Teacher-Bookmark3.png">
