@@ -43,4 +43,4 @@ third_nav_title: Administer
 </li>
 <li>Click <strong>Apply</strong> to proceed.</li>
 </ol>
-insert A-Filter.png
+<img src="/images/5Admin/A-Filter.png">
