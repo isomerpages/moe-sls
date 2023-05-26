@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 ---
 <h1 id="create-new-lessons-new-">Create New Lessons (New)</h1>
-<h2 id="-create-new-lesson-from-homepage-new-"><strong>Create New Lesson from homepage (NEW)</strong></h2>
+<h2 id="-create-new-lesson-from-homepage-new-">Create New Lesson from homepage (NEW)</h2>
 <hr>
 <ol>
 <li><p>On the homepage, select <strong>Create New Lesson</strong>. Then select Add New</p>
@@ -23,7 +23,7 @@ third_nav_title: Author
 <li>You can also use one of the Templates under My Templates or SLS Templates. Click here to learn how to Add Templates.</li>
 </ol>
 <p><img src="/images/2Teacher/AU-CreateNewLesson1.png"></p>
-<h2 id="-create-new-lesson-from-my-drive-"><strong>Create New Lesson from My Drive</strong></h2>
+<h2 id="-create-new-lesson-from-my-drive-">Create New Lesson from My Drive</h2>
 <hr>
 <ol>
 <li>Open the left menu on the Home page. Expand the <strong>Resources</strong> dropdown list and select <strong>My Drive</strong>. By default, you will be in the My Lessons.</li>
