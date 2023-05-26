@@ -22,7 +22,7 @@ third_nav_title: Author
 </li>
 <li>You can also use one of the Templates under My Templates or SLS Templates. Click here to learn how to Add Templates.</li>
 </ol>
-<p><img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/343a45e7-59de-4c87-927b-1ae3f0e038a9/Untitled.png"></p>
+<p><img src="/images/2Teacher/AU-CreateNewLesson1.png"></p>
 <h2 id="-create-new-lesson-from-my-drive-"><strong>Create New Lesson from My Drive</strong></h2>
 <hr>
 <ol>
