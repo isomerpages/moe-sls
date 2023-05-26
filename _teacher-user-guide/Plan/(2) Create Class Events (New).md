@@ -27,7 +27,7 @@ third_nav_title: Plan
     </li>
     <li>Click <strong>Create</strong> to proceed.</li>
 </ol>
-<img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a03bfa7-a2e0-42ce-991c-558a40f8719a/Untitled.png">
+<img style="width: 50%;" src="/images/2Teacher/P-NewEvent.png">
 
 <h3>Attaching Items to a New Event</h3>
 
@@ -56,4 +56,4 @@ third_nav_title: Plan
           <li>To filter for existing <strong>Resources</strong> based on category, click on the dropdown bar next to Category.<br><br><u>Note</u>: Only categories that have been created under the Assignments tab in this Class Group will be shown.</li>
  <li>If there are Resources in the Class Group, <strong>Resources cards</strong> will be shown. Click on the relevant card to attach it to the Event. <br><br><u>Note</u>: Only existing Resources for the selected Class Group will appear.</li>
 					
-<img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1a03bfa7-a2e0-42ce-991c-558a40f8719a/Untitled.png"></ol></li></ol></li></ol>
+<img style="width: 50%;" src="/images/2Teacher/P-AttachItems.png"></ol></li></ol></li></ol>
