@@ -11,7 +11,7 @@ third_nav_title: Assign
 <ol>
 <li>To access the homepage, open the left menu or click the <strong>Student Learning Space</strong> icon found in the header.</li>
 <li><p>Up to 12 Assignments that are due in the next 7 days will be shown under the Assignments tab on your homepage.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3faffeee-4799-44c7-8554-ec41dc343071/Untitled.png"></p>
+<p><img src="/images/1Student/AS-AccessAssignment1.png"></p>
 </li>
 </ol>
 <h2 id="-all-assignments-that-are-in-progress-upcoming-or-complete-"><strong>All Assignments that are In Progress, Upcoming or Complete</strong></h2>
@@ -22,7 +22,7 @@ third_nav_title: Assign
 <li>Assignments that are newly assigned (up to 3 days) will be labelled "New".</li>
 <li>Existing Assignments that have a new section added will be labelled “New Section”.</li>
 <li><p>You can search for assignments by entering the Assignment title in the Search Bar. To refine your search, you may apply the following filters from the dropdown list: </p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/60b9674d-dc3f-4a46-813a-9791f6dee67c/Untitled.png"></p>
+<p> <img src="/images/1Student/AS-AccessAssignment2.png"></p>
 <ul>
 <li><strong>Assignment Status</strong> - You can choose to view All, Upcoming, In Progress, or Complete.<ul>
 <li>Upcoming refers to Assignments that have yet to start.</li>
@@ -39,7 +39,7 @@ third_nav_title: Assign
 <p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/82fa1617-94ed-4e70-9c51-494692396fb5/Untitled.png"></p>
 </li>
 <li><p>Assignments in List view are sorted according to the latest Start Date. You may also sort the assignments according to the Assignment Title, and Due Date.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a68ad129-9be3-4a6d-bcd9-2a546bd2eaa7/Untitled.png"></p>
+<p> <img src="/images/1Student/AS-AccessAssignment3.png"></p>
 </li>
 </ol>
 <h2 id="-assignments-for-a-specific-class-group-"><strong>Assignments for a Specific Class Group</strong></h2>
