@@ -22,7 +22,7 @@ third_nav_title: Notify
     <li>You will be able to Flag/Unflag a Notification and select Notifications to Mark As Read.</li>
     <li>The number of unread Notifications will be indicated on the <strong>Bell</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Bell.svg"> found on the header of the homepage.
 			<br><u>Note</u>: The Bell icon will only reflect up to 99 unread Notifications.</li>
-    <li>Unread Notifications are indicated with a yellow circle on the Notification Cards. <a target="_blank" href="/images/2Teacher/N-New.png"><img alt="Discover" src="/images/2Teacher/N-New.png"></a></li>
+    <li>Unread Notifications are indicated with a yellow circle on the Notification Cards. <a target="_blank" href="/images/1Student/N-New.png"><img alt="Discover" src="/images/1Student/N-New.png"></a></li>
 	<u>Note</u>: You can choose to mark Notifications as read.
     <li>Should you wish to receive SLS Notifications through your email, you may do so from <a href="hyperlink set email notifications.">here</a> <strong>(New in R19)</strong>.</li>
   </ol>
