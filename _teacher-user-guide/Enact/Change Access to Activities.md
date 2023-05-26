@@ -22,7 +22,7 @@ third_nav_title: Enact
 	<p><u>Note</u>: Students who appear in more than one assigned subgroup will only be given one assignment with the Class Group name associated with the assignment. A student who is in more than one assigned Class Group will receive multiple copies of the same Assignment as each Assignment is associated with each Class Group.</p>
 </li>
 </ol>
-<p>!<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/AFMStudentsAssignedTab.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/AFMStudentsAssignedTab.png</a></p>
+<p><img style="width: 50%;" src="/images/2Teacher/EN-ChangeAccess1.png"></p>
 <h2 id="controlling-activity-access">Controlling Activity Access</h2>
 <hr>
 <ol>
@@ -30,5 +30,5 @@ third_nav_title: Enact
 <li>In an Assignment, you can switch the Student Access toggle off and students will not be able to access all the activities in the Assignment.</li>
 <li>You can also toggle off selected activities in the Assignment.</li>
 </ol>
-<p>!<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/A-ActivityAccess.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/A-ActivityAccess.png</a></p>
+<p><img style="width: 50%;" src="/images/2Teacher/EN-ChangeAccess2.png"></p>
 <p><u>Note</u>: You can also toggle on/off the Activities access on the Lesson Plan.</p>
