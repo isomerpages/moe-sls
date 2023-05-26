@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="upload-file">Upload File</h1>
-<h2 id="-upload-file-"><strong>Upload File</strong></h2>
+<h2 id="-upload-file-">Upload File</h2>
 <hr>
 <ol>
 <li>Click the <strong>Upload File</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/PaperClip.svg"> to open the <strong>Upload File</strong> subpage.</li>
@@ -101,13 +101,13 @@ third_nav_title: Assess
 </li>
 <li>When the file is successfully uploaded, the Media Object will be added to your response.</li>
 </ol>
-<h2 id="-uploading-media-objects-from-an-ios-device-"><strong>Uploading Media Objects from an iOS Device</strong></h2>
+<h2 id="-uploading-media-objects-from-an-ios-device-">Uploading Media Objects from an iOS Device</h2>
 <hr>
 <ol>
 <li>Uploads via iOS devices are supported.</li>
 <li>However, if you encounter any errors, please ensure that you are uploading files from the <strong>Photo Library, Take Photo or Video, or Browse from Files</strong>.</li>
 </ol>
-<h2 id="-uploading-media-objects-from-an-android-device-"><strong>Uploading Media Objects from an Android Device</strong></h2>
+<h2 id="-uploading-media-objects-from-an-android-device-">Uploading Media Objects from an Android Device</h2>
 <hr>
 <ol>
 <li>Uploads via Android devices are supported.</li>
