@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="insert-mathematical-or-chemical-equations">Insert Mathematical or Chemical Equations</h1>
-<h2 id="-insert-mathematical-equation-using-mathtype-"><strong>Insert Mathematical Equation using MathType</strong></h2>
+<h2 id="-insert-mathematical-equation-using-mathtype-">Insert Mathematical Equation using MathType</h2>
 <hr>
 <ol>
 <li>When editing a Rich Text-enabled component, choose the <strong>Mathematics Equation</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/MathType.svg"> .</li>
@@ -16,13 +16,13 @@ third_nav_title: Assess
 </ol>
 <p><u>Note</u>: You are now able to copy and paste your mathematical equations in the Rich Text Editor. </p>
 <p><img src="/images/1Student/As-MathType.png"></p>
-<h2 id="-insert-mathematical-equation-using-latex-commands-"><strong>Insert Mathematical Equation using LaTeX commands</strong></h2>
+<h2 id="-insert-mathematical-equation-using-latex-commands-">Insert Mathematical Equation using LaTeX commands</h2>
 <hr>
 <ol>
 <li>You can also type LaTeX equations between double dollar signs – $$ – in the Rich Text Editor. For more information on the LaTeX commands supported, click <a href="https://docs.wiris.com/en/mathtype/mathtype_web/latex-support">here</a>.</li>
 <li>The equation will be rendered as an image in the lesson preview.</li>
 </ol>
-<h2 id="-insert-chemical-equation-using-chemtype-"><strong>Insert Chemical Equation using ChemType</strong></h2>
+<h2 id="-insert-chemical-equation-using-chemtype-">Insert Chemical Equation using ChemType</h2>
 <hr>
 <ol>
 <li>When editing a Rich Text-enabled component, choose the <strong>Chemical Equation</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/ChemType.svg">.</li>
