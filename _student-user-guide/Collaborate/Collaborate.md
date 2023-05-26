@@ -7,7 +7,7 @@ third_nav_title: Collaborate
 <h1>Collaborate</h1>
 <p>Use SLS to easily access collaborative learning activities together at the same time or different times. </p>
 
-<a href="#">About Assignment Sharing</a>
+<a target="_blank" href="#">About Assignment Sharing</a>
 
 <img style="width: 100%;" src="/images/1Student/Flow-Collaborate1.png">
 
