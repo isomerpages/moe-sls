@@ -13,7 +13,7 @@ third_nav_title: Organise
 
 <li>Class Groups (Group) are created by Teachers in SLS. Students and Teachers can be added to the Group. To find out more about the types of users that can be added, please see <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/ClassGroupManagement/CreateGroup.html">here</a>.</li>
 
-<img src="O-ClassGroupCards.png">
+<img style="width: 50%;" src="/images/2Teacher/O-ClassGroupCards.png">
 
 <li>The default view of the page is the Current year's Class Groups, you can access the past years Class Groups by clicking the <strong>Past</strong> tab.</li>
 
