@@ -10,7 +10,7 @@ third_nav_title: Assess
 <hr>
 <ol>
 <li>Click the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg"> to enter the Lesson Editor page.</li>
-<li>Open the right menu and select <strong>Manage Passcode Settings</strong>.  [insert As-Passcode.png]</li>
+<li>Open the right menu and select <strong>Manage Passcode Settings</strong>.<img style="width: 50%;" src="/images/2Teacher/As-Passcode.png"></li>
 <li><p>In the Passcode Settings subpage, select the checkbox beside <strong>Enable passcode for this Lesson</strong> and enter the Passcode in the text box field.</p>
 	<p><u>Note</u>: </p>
 <ul>
@@ -28,8 +28,8 @@ third_nav_title: Assess
 <li>Within an Assignment</li>
 </ul>
 </li>
-<li>From the Lesson View, open the right menu and select <strong>View Passcode Settings</strong>. [insert As-Passcode1.png]</li>
+<li>From the Lesson View, open the right menu and select <strong>View Passcode Settings</strong>. <img style="width: 50%;" src="/images/2Teacher/As-Passcode1.png"></li>
 <li>From an Assignment, open the right menu and select <strong>View Passcode Settings</strong>. </li>
-<li>The Passcode Settings subpage will appear, revealing the Passcode. [insert As-Passcode2.png</li>
+<li>The Passcode Settings subpage will appear, revealing the Passcode.<img style="width: 50%;" src="/images/2Teacher/As-Passcode2.png"></li>
 <li>Click <strong>X</strong> to close the subpage.</li>
 </ol>
