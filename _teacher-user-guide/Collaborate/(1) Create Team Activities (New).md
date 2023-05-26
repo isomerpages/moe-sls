@@ -20,7 +20,7 @@ third_nav_title: Collaborate
 	<p> <u>Note</u>: The number of activities within a section is indicated as a number in parenthesis. </p>
 </li>
 <li><p>For the activity you wish to set as a Team Activity, click the dropdown arrow and toggle <strong>Set as Team Activity</strong> on.</p>
-<p> [insert C-TeamActivities.png]</p>
+<p> <img style="width: 50%;" src="/images/2Teacher/C-TeamActivities.png"></p>
 </li>
 <li><p>If you are changing an activity in an assignment to a Team Activity, note that students who previously had access to the activity will no longer have access. You will need to add students to a team to enable access to the activity. </p>
 </li>
