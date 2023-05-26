@@ -25,5 +25,4 @@ third_nav_title: Plan
 
 <li>Click <strong>Create</strong> to proceed.</li>
 </ol>
-
-<p><img alt="P-NewEvent.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75de1b7e-1f60-4ba4-ba62-8d4f556bc05c/P-NewEvent.png"></p>
+<img src="/images/1Student/P-NewEvent.png">
