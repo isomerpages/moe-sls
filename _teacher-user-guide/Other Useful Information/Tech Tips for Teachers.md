@@ -162,11 +162,11 @@ Students can link any Gmail account (including personal ones) with SLS. They onl
 </li>
 </ol>
 </details>
-	<details>
+<details>
 <summary>
 <h2 id="enact">Enact</h2>
 </summary>
-	<ol>
+<ol>
 <li><p><strong>How do I control student access to Activities/Sections in Assignments?</strong></p>
 <p> Before you assign the Lesson, you may click the <strong>Edit</strong> icon on the Assignment Card (<strong>Pencil</strong> icon on the top right of the Card) and select the <strong>Activity Assignment</strong> tab. If you have assigned the Lesson, enter the Assignment and open the right menu. Select <strong>Manage Assignment Settings</strong> followed by the <strong>Activity Assignment</strong> tab. Toggle the access on/off to for access rights.</p>
 <p> You are also able to toggle the access to the Sections and Activities by clicking from the <strong>Lesson Plan</strong>.</p>
@@ -176,7 +176,7 @@ Students can link any Gmail account (including personal ones) with SLS. They onl
 <p> ITT and Discussion Cards have been enlarged to allow teachers and students to view more of the body message (especially when there is a Media Object attached). As such, Comments are placed within Cards, reducing the amount of text shown on the screen which helps ensure a pleasant user experience.</p>
 </li>
 </ol>
-	</details>
+</details>
 <details>
 <summary>
 <h2 id="organise">Organise</h2>
