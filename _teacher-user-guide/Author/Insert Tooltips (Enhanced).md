@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/author/insert-tooltips/
 description: ""
 third_nav_title: Author
 ---
-<h1 id="-insert-tooltips-enhanced-"><strong><strong>Insert Tooltips (Enhanced)</strong></strong></h1>
+<h1 id="-insert-tooltips-enhanced-">Insert Tooltips (Enhanced)</h1>
 <h2 id="insert-tooltips">Insert Tooltips</h2>
 <p>Tooltips will display simple text over selected content to provide more information. For example, a Tooltip can appear to display the definition of a technical term.</p>
 <ol>
@@ -42,9 +42,9 @@ third_nav_title: Author
     </tr>
     <tr>
       <td></td>
-      <td>Add tooltip image</td>
-      <td>Add student tooltip image</td>
-      <td>Add teacher tooltip image</td>
+      <td><img style="width: 50%;" src="/images/2Teacher/AU-AddToolTip2.png"></td>
+      <td><img style="width: 50%;" src="/images/2Teacher/AU-AddToolTip3.png"></td>
+      <td><img style="width: 50%;" src="/images/2Teacher/AU-AddToolTip1.png"></td>
     </tr>
   </tbody>
 </table>
