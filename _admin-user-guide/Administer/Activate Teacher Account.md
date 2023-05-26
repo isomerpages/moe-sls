@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Administer
 ---
 <h1 id="activate-teacher-accounts">Activate Teacher Accounts</h1>
-<h2 id="-setting-up-teacher-accounts-in-mims-"><strong>Setting up Teacher Accounts in MIMS</strong></h2>
+<h2 id="-setting-up-teacher-accounts-in-mims-">Setting up Teacher Accounts in MIMS</h2>
 <hr>
 <ol>
 <li>Teacher Accounts for permanent teachers employed by MOE in government and government-aided schools are automatically created using information from MIMS. There is no action required from schools since these accounts are auto-generated.</li>
@@ -27,7 +27,7 @@ third_nav_title: Administer
 <li>SLS School Admins can see all teacher accounts on the Manage Users [hyperlink About Manage Users] page.</li>
 <li>If a teacher's account cannot be found through the Manage Users page, please contact the <a href="https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/LoginTroubleshooting/ContactSLSHelpdesk.html">SLS Helpdesk</a>.</li>
 </ol>
-<h2 id="-activation-of-teacher-accounts-"><strong>Activation of Teacher Accounts</strong></h2>
+<h2 id="-activation-of-teacher-accounts-">Activation of Teacher Accounts</h2>
 <hr>
 <ol>
 <li><p>Once a teacher's account is created, an activation email will automatically be sent to his/her email address (usually the iCON email, if available).</p>
