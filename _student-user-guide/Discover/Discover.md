@@ -4,8 +4,11 @@ permalink: /student-user-guide/discover/index/
 description: ""
 third_nav_title: Discover
 ---
-## Discover
+<h1>Discover</h1>
 Use SLS to discover, search for and find useful Teaching &amp; Learning resources that you can learn from.
+<br>
+<img style="width: 100%;" src="/images/1Student/Flow-Discover.png">
+<br>
 <details><summary><h4>Where to find self-study resources?</h4></summary>
 
 <ul>
