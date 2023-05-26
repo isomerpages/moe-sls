@@ -11,7 +11,7 @@ third_nav_title: Organise
 <li>Click the <strong>Past</strong> tab. If you have past Class Groups from multiple years, use the dropdown menu to navigate through the years.</li>
 <li>You can filter past Class Groups by Role and year (and school, if you have taught at more than one school).</li>
 <br>
-<img alt="filtering past class groups" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/51289148-2977-43e6-bdc1-b248afe8b519/Untitled.png">
+<img style="width: 50%;" src="/images/2Teacher/O-PastClassGroups.png">
 <br>
 <li>Archived Class Groups will also be found under the Past tab.</li>
 </ol>
