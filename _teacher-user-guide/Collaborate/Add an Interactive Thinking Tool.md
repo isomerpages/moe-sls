@@ -12,7 +12,7 @@ third_nav_title: Collaborate
 <li>Select from either <strong>Choose from Templates</strong>, <strong>1-Column</strong>, <strong>2-Column</strong> or <strong>3-Column</strong>. </li>
 </ol>
 <p><u>Note</u>: Different Interactive Thinking Tool templates are suggested based on the Active Learning Process selected under Activity Details.</p>
-<h2 id="-select-a-format-"><strong>Select a Format</strong></h2>
+<h2 id="-select-a-format-">Select a Format</h2>
 <hr>
 <p>You can create your own custom Interactive Thinking Tool (ITT) by selecting from either <strong>1-Column</strong>, <strong>2-Column</strong> or <strong>3-Column</strong>. To use an existing template, select <strong>Choose from Templates</strong>. </p>
 <ol>
