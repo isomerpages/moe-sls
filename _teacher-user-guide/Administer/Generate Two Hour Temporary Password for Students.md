@@ -8,7 +8,7 @@ third_nav_title: Administer
 <p>Owners and Co-teachers can create a two-hour temporary password for students in their Class Groups. This password grants students temporary access to the SLS if they had forgotten their password or if their accounts had been locked.</p>
 <p>However, when students use a two-hour temporary password to log in, they will not be able to access <strong>My Profile</strong>, and hence cannot change their password, security question answers, or email address.</p>
 <p><u>Note</u>: For a permanent solution, students can follow this guide on <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/AccountManagement/ResetStudentPasswords.html">Student - Reset Password</a> to reset their passwords. If they still encounter difficulties, and you are unable to reset their password for them, you should contact the SLS Helpdesk or your school's SLS Administrator. Only the SLS Helpdesk and SLS school administrator are able to unlock a student's account. The SLS Helpdesk will need to verify a student's identity using the security questions that were set up when his/her account was first activated. </p>
-<h2 id="-access-class-group-"><strong>Access Class Group</strong></h2>
+<h2 id="-access-class-group-">Access Class Group</h2>
 <hr>
 <ol>
 <li>There are multiple ways to access the Class Groups page.<ul>
@@ -17,7 +17,7 @@ third_nav_title: Administer
 </ul>
 </li>
 </ol>
-<h2 id="-generate-temporary-password-"><strong>Generate Temporary Password</strong></h2>
+<h2 id="-generate-temporary-password-">Generate Temporary Password</h2>
 <hr>
 <p><u>Note</u>: Students can either use their own password or the temporary password generated to log in to SLS.</p>
 <ol>
@@ -27,7 +27,7 @@ third_nav_title: Administer
 	<p><u>Note</u>: The two-hour temporary password must follow the password guidelines. It should be at least 8 characters long and contain a combination of numbers and letters.</p>
 </li>
 <li><p>Click <strong>Generate Password</strong>.</p>
-<p> <img alt="22aprtemppw.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/590b9817-efe4-4bdb-b287-2007b0c1f546/22aprtemppw.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/A-2HrPW.png"></p>
 </li>
 <li><p>On the confirmation prompt, verify that the correct class group has been selected.</p>
 </li>
