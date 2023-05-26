@@ -27,7 +27,7 @@ third_nav_title: Self Study
 <li>You can also change the permissions from the Card Details subpage.</li>
 </ol>
 <p><img src="/images/1Student/SS-Notes1.png"></p>
-<h2 id="-edit-comments-on-notes-"><strong>Edit Comments on Notes</strong></h2>
+<h2 id="-edit-comments-on-notes-">Edit Comments on Notes</h2>
 <hr>
 <ol>
 <li>You may edit comments that you have left on your own Annotation Notes or a teacher's Annotation Notes (if commenting permission has been granted).</li>
@@ -37,7 +37,7 @@ third_nav_title: Self Study
 <li><p>To edit a comment you have left in your Teacher’s Annotation Notes, click the <strong>Comment</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Comment.svg">. Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) next to your comment and select <strong>Edit</strong>.<img src="/images/1Student/SS-Notes3.png"></p>
 </li>
 </ol>
-<h2 id="-delete-comments-on-notes-"><strong>Delete Comments on Notes</strong></h2>
+<h2 id="-delete-comments-on-notes-">Delete Comments on Notes</h2>
 <hr>
 <p>You may delete a comment created by you on your Annotation Note card.</p>
 <ol>
