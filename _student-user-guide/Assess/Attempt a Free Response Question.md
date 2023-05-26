@@ -21,7 +21,7 @@ third_nav_title: Assess
 </ol>
 </li>
 <li>To enlarge your text box, click the <strong>Expand</strong> icon found on the bottom right of the text box.</li>
-<p>!<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/AFRQ.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/1Student/AFRQ.png</a></p>
+<p><img src="/images/1Student/As-FRQ.png"></p>
 <li>Some Free-Response Questions may have part of the answer or drawing in the text box (e.g. Drawing a graph). This is given by your teacher to help you in refining your answer response.</li>
 </ol>
 <p><u>Did You Know?</u>:</p>
