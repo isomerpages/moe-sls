@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="attempt-a-free-response-question">Attempt a Free-Response Question</h1>
-<h2 id="-free-response-question-"><strong>Free-Response Question</strong></h2>
+<h2 id="-free-response-question-">Free-Response Question</h2>
 <hr>
 <ol>
 <li>From R18, your teacher is able to attach a pre-populated Google File to a Free-Response Question. To find out how you can attempt such questions, click here [hyperlink student/Integration/AboutGoogle.html]. </li>
@@ -28,10 +28,10 @@ third_nav_title: Assess
 <ul>
 <li>If your teacher has set a recommended time, you will be able to see it below the Question Body.</li>
 </ul>
-<h2 id="-rubrics-in-free-response-questions-"><strong>Rubrics in Free-Response Questions</strong></h2>
+<h2 id="-rubrics-in-free-response-questions-">Rubrics in Free-Response Questions</h2>
 <hr>
 <p>Some Free-Response Questions contain <strong>Rubrics</strong> for reference. Click <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/AttemptRubricsQ.html">here</a> to find out more.</p>
-<h2 id="-submitting-a-free-response-question-"><strong>Submitting a Free-Response Question</strong></h2>
+<h2 id="-submitting-a-free-response-question-">Submitting a Free-Response Question</h2>
 <hr>
 <ol>
 <li>In a standalone question that is not part of a quiz, you can submit your response by clicking the <strong>Submit</strong> button. You can also choose <strong>Save as Draft</strong> if you would like to revisit this question again after you have visited other pages or logged out. Your response will be saved.</li>
