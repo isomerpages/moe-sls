@@ -5,16 +5,16 @@ description: ""
 third_nav_title: Assign
 ---
 <h1 id="edit-assignments">Edit Assignments</h1>
-<h2 id="-edit-an-assignment-in-progress-"><strong>Edit an Assignment in Progress</strong></h2>
+<h2 id="-edit-an-assignment-in-progress-">Edit an Assignment in Progress</h2>
 <hr>
 <p>You can edit an assignment after it is assigned.</p>
 <p><u>Note</u>: You may not edit a question or a quiz if students have started attempting them. You may, however, choose to delete the entire question or quiz.</p>
 <ol>
 <li><p>Click on the Assignment Card to enter the Assignment and click the <strong>Overflow</strong> (3-dots icon) to open the right menu and select <strong>Edit</strong>.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aeb79878-15df-4bd7-86ea-6d2a0a105380/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AS-EditAssignment1.png"></p>
 </li>
 <li><p>The Assignment would be temporarily paused and it would not be accessible to students until the teacher resumes the assignment. Click <strong>OK</strong> to confirm your action.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/06f0b7df-863c-478e-a2ec-b19354e08f02/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AS-EditAssignment2.png"></p>
 </li>
 <li><p>You can proceed to edit the Activities.</p>
 </li>
