@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/organise/create-new-folders/
 description: ""
 third_nav_title: Organise
 ---
-<h1>3a. Create New Folders</h1>
+<h1>(3a) Create New Folders</h1>
 
 <h2>Create a New Folder in My Lessons Tab</h2>
 
@@ -12,7 +12,7 @@ third_nav_title: Organise
   <li>Open the left menu from the header on the homepage. Click <strong>Resources</strong>, followed by <strong>My Drive</strong>. By default, you will be in the My Lessons tab.</li>
   <li>On the listing page, click <strong>Add New</strong>, followed by <strong>New Folder</strong>.
     <br>
-    <img alt="Screenshot of My Drive page with Add New button highlighted" src="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/MD-OwnedByMe.png">
+    <img style="width: 50%;" src="/images/2Teacher/O-NewFolder.png">
   </li>
   <li>In the Add New Folder subpage, enter a Folder Name.</li>
   <li>Click <strong>Add New Folder</strong> once done.</li>
@@ -25,7 +25,7 @@ third_nav_title: Organise
 
 <p>If there are too many folder levels, clicking "..." will bring up a dropdown list of all the levels in between.</p>
 
-<img alt="Screenshot of folder levels dropdown list in My Lessons tab" src="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/MDMultipleFolders.png">
+<img style="width: 50%;" src="/images/2Teacher/O-MultipleFolders.png">
 
 <p><strong>Did You Know?</strong></p>
 
