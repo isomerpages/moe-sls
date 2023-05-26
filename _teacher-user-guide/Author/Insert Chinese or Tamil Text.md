@@ -6,7 +6,7 @@ third_nav_title: Author
 ---
 <h1 id="insert-chinese-or-tamil-text">Insert Chinese or Tamil Text</h1>
 <p>To insert Chinese or Tamil text in SLS, your device will need to allow language input in either language.</p>
-<h2 id="-windows-10-pcs-"><strong>Windows 10 PCs</strong></h2>
+<h2 id="-windows-10-pcs-">Windows 10 PCs</h2>
 <hr>
 <ol>
 <li>In the Search box of your desktop, type "Language Settings".</li>
@@ -20,7 +20,7 @@ third_nav_title: Author
 <li>By default, Microsoft Pinyin Input should be shown as the Chinese (Simplified, China) keyboard, and Tamil99 should be shown for Tamil (India) keyboard.</li>
 <li>To input your desired language, press the Windows key + Space to switch between your keyboards.</li>
 </ol>
-<h2 id="-android-devices-"><strong>Android Devices</strong></h2>
+<h2 id="-android-devices-">Android Devices</h2>
 <hr>
 <ol>
 <li>On your Android phone or tablet, open "Settings".</li>
@@ -32,7 +32,7 @@ third_nav_title: Author
 <li>Tap "Done".</li>
 <li>To input your desired language, tap on the World button on your keyboard, then select the language.</li>
 </ol>
-<h2 id="-mac-"><strong>Mac</strong></h2>
+<h2 id="-mac-">Mac</h2>
 <hr>
 <ol>
 <li>On your Mac, choose Apple menu, then "System Settings".</li>
@@ -41,7 +41,7 @@ third_nav_title: Author
 <li>Click Add.</li>
 <li>To input in the language, click the Input menu in the menu bar, then select the language.</li>
 </ol>
-<h2 id="-ios-ipad-iphone-"><strong>iOS (iPad/ iPhone)</strong></h2>
+<h2 id="-ios-ipad-iphone-">OS (iPad/ iPhone)</h2>
 <hr>
 <ol>
 <li>On your iPad/ iPhone, open "Settings".</li>
