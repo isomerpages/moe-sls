@@ -10,7 +10,7 @@ third_nav_title: Assign
 <ol>
 <li>On the homepage, click <strong>Community Gallery</strong>. Alternatively, click the left menu on the header at the homepage and click <strong>Resources</strong>, followed by <strong>Community Gallery</strong>.</li>
 <li><p>Click the Overflow (3 dots icon) on the Community Gallery <strong>Lesson</strong> <strong>Card</strong> and select <strong>Copy To</strong>. Alternatively, open the Lesson then click <strong>Overflow (3 dots</strong> icon) on the header to open the right menu and <strong>Copy to My Drive</strong>. </p>
-<p> <img alt="Screenshot 2023-03-17 at 4.46.22 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7e67d0d0-a59d-4dce-8097-ec298ddc4073/Screenshot_2023-03-17_at_4.46.22_PM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AS-AssignCommunity1.png"></p>
 </li>
 <li><p>You can rename the Title and Choose a Folder to copy the Lesson to. Then click <strong>Copy</strong>.</p>
 </li>
@@ -39,7 +39,7 @@ third_nav_title: Assign
 <li><strong>Visible to students in Class Group</strong></li>
 <li><strong>Notify Student(s)</strong> - this checkbox will be active if Resource is set to be visible to students in Class Group.</li>
 </ol>
-<p><img alt="Screenshot 2023-03-17 at 4.40.11 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/91ed4808-182d-4df3-bfab-e3b983d19f26/Screenshot_2023-03-17_at_4.40.11_PM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AS-AssignCommunity2.png"></p>
 </li>
 </ol>
 </li>
