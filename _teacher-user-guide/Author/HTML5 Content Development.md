@@ -35,14 +35,14 @@ third_nav_title: Author
 <hr>
 <ol>
 <li><p>Ensure your Media Object folder contains the "index.html" file.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bcb1983a-7ea5-4f6d-85e4-c027d8c81dec/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddHTML1.png"></p>
 </li>
 <li><p>Select all the files within the folder and zip/compress them.</p>
 </li>
 <li>In SLS, select <strong>File from Device</strong> under Text/Media on the Component Bar. Alternatively, click the <strong>Add Media</strong> icon [icon] and <strong>Upload File</strong> in the Rich Text Editor. </li>
 <li><p>Upload the ZIP file by either dragging and dropping it into the box, or clicking the box to select a file through the file manager. A sample file is provided <a target="_blank" href="https://iwant2study.org/lookangejss/00workshop/2019twa/ejss_model_BalancingChemEqns21_ionic.zip">here</a>
 </p></li>
-<img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4aaf16df-1971-4e19-923c-054fca7e8f59/Untitled.png">
+<img style="width: 50%;" src="/images/2Teacher/AU-AddHTML2.png">
 <li>Click <strong>Upload</strong> when done.</li>
 <li><p>If the file is valid, it will be uploaded and scanned for viruses.</p>
 <p><u>Note</u>: The virus scan will take longer if the file size is large.</p>
@@ -50,7 +50,7 @@ third_nav_title: Author
 <li>When the file is successfully uploaded, the Media Object will be added to the Lesson.
 </li>
 </ol>
-<img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4aaf16df-1971-4e19-923c-054fca7e8f59/Untitled.png">
+<img style="width: 50%;" src="/images/2Teacher/AU-AddHTML3.png">
 
 <h2 id="faqs">FAQs</h2>
 <hr>
