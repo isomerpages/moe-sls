@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Collaborate
 ---
 <h1 id="add-a-discussion-new-">Add a Discussion (New)</h1>
-<h2 id="-create-a-discussion-from-lesson-editor-page-"><strong>Create a Discussion from Lesson Editor page</strong></h2>
+<h2 id="-create-a-discussion-from-lesson-editor-page-">Create a Discussion from Lesson Editor page</h2>
 <hr>
 <p>From R19, teachers can create Discussions in Lessons to promote conversations about certain issues.</p>
 <ol>
@@ -22,7 +22,7 @@ third_nav_title: Collaborate
 <li>To edit a Discussion, hover your mouse over the Discussion and click the component, or the <strong>Pencil</strong> icon. </li>
 <li>To delete your Discussion, click the <strong>Delete</strong> icon.</li>
 </ol>
-<p>[insert C-PollEdit.png]</p>
-<h2 id="-preview-as-student-"><strong>Preview as Student</strong></h2>
+<p><img style="width: 50%;" src="/images/2Teacher/C-PollEdit.png"></p>
+<h2 id="-preview-as-student-">Preview as Student</h2>
 <hr>
 <p>When you Preview as Student or assign a Discussion to students, students will be able to create Posts in response to the question.</p>
