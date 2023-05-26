@@ -24,8 +24,8 @@ third_nav_title: Author
 </li>
 </ul>
 </li>
-<pre><code>![<span class="hljs-string">AU_AddRubrics1.png</span>](<span class="hljs-link">https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dbc28450-6268-48fc-bf11-2ce9ac081027/AU_AddRubrics1.png</span>)
-</code></pre>
+<img style="width: 50%;" src="/images/2Teacher/AU-AddRubrics1.png">
+
 <li>Click outside the Component to <strong>Save</strong>.</li>
 </ol>
 <h2 id="-use-marks-of-the-rubrics-not-available-for-questions-in-progressive-quiz-and-auto-graded-quiz-"><strong>Use Marks of the Rubrics (Not available for Questions in Progressive Quiz and Auto-Graded Quiz)</strong></h2>
