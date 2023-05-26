@@ -9,7 +9,7 @@ third_nav_title: Author
 <li>When editing a Rich Text-enabled component, choose the <strong>Drawing</strong> icon [insert icon]. You can choose to start with a <strong>Blank Drawing</strong> or <strong>Upload Background Image</strong>.</li>
 <li>Click here to Edit Drawing.</li>
 </ul>
-<h2 id="-starting-with-blank-drawing-"><strong>Starting with Blank Drawing</strong></h2>
+<h2 id="-starting-with-blank-drawing-">Starting with Blank Drawing</h2>
 <hr>
 <ol>
 <li>If you choose to draw on a blank drawing, you will see a white canvas.<ul>
@@ -30,10 +30,10 @@ third_nav_title: Author
 </ul>
 </li>
 <li><p>Click <strong>Add</strong> if you are done with the drawing. Your drawing will be inserted into the textbox.</p>
-<p> !<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/2Teacher/RTDrawingModal.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/2Teacher/RTDrawingModal.png</a></p>
+<img style="width: 50%;" src="/images/2Teacher/AU-AddDrawing1.png"><p></p>
 </li>
 </ol>
-<h2 id="-starting-with-background-image-"><strong>Starting with Background Image</strong></h2>
+<h2 id="-starting-with-background-image-">Starting with Background Image</h2>
 <hr>
 <ol>
 <li>If you choose to add a background image, you can either drag the file into the box or browse to choose the file from your computer.</li>
