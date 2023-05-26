@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="attempt-an-error-editing-question">Attempt an Error-Editing Question</h1>
-<h2 id="-error-editing-question-"><strong>Error-Editing Question</strong></h2>
+<h2 id="-error-editing-question-">Error-Editing Question</h2>
 <hr>
 <ol>
 <li><p>If your teacher has enabled the Show Identified errors for students option, the word(s) with errors will be shown. You can key in the correct word(s) into the <strong>Answer</strong> box.</p>
