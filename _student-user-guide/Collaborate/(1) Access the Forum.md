@@ -10,4 +10,4 @@ third_nav_title: Collaborate
 <li>The Forum can be accessed from each class group page. </li>
 <li>To access the Forum, click the <strong>Forum</strong> tab.</li>
 </ol>
-insert CO-AccessForum1.png
+<img src="/images/1Student/CO-AccessForum1.png">
