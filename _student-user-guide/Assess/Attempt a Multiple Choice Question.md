@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="attempt-a-multiple-choice-question">Attempt a Multiple-Choice Question</h1>
-<h2 id="-multiple-choice-question-"><strong>Multiple Choice Question</strong></h2>
+<h2 id="-multiple-choice-question-">Multiple Choice Question</h2>
 <hr>
 <ol>
 <li><p>There are two types of buttons:</p>
