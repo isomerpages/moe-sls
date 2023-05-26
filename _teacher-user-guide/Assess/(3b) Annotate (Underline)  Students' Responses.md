@@ -11,17 +11,17 @@ third_nav_title: Assess
 <li>You can annotate (underline) question texts and images in the Student's view of the Assignment.</li>
 <li>You can also annotate (underline) student's Free-Response Question responses.</li>
 </ul>
-<h2 id="-annotations-underline-in-student-s-view-"><strong>Annotations (Underline) in Student's View</strong></h2>
+<h2 id="-annotations-underline-in-student-s-view-">Annotations (Underline) in Student's View</h2>
 <hr>
 <ol>
 <li>Enter the Monitor Assignment Page by clicking <strong>Monitor</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Monitor.svg"> on an Assignment Card.</li>
 <li>Click a student’s name to navigate within the student's Assignment to begin marking. </li>
 <li>Alternatively, click the Question number in the Heatmap to View All Responses. You can also click on a student’s name to navigate to the particular Activity for the entire Class Group, starting with the student you clicked.</li>
 <li><p>Use your cursor to highlight any texts and select the colour. It is also possible to create multiple overlapping underlines.</p>
-<p> !<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/AFMUnderlinewithColours.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/AFMUnderlinewithColours.png</a></p>
+<p><img style="width: 50%;" src="/images/2Teacher/As-Annotation.png"></p>
 </li>
 <li><p>To leave an Annotation on an image, click <strong>Add Note to Image</strong> icon and click anywhere on the image.</p>
-<p> !<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/A-Annotate-Drawing.png">https://docs.learning.moe.edu.sg/sls-user-guide/vle/media/images/UpdatedAssets/Teacher/A-Annotate-Drawing.png</a></p>
+<p><img style="width: 50%;" src="/images/2Teacher/As-Annotation1.png"></p>
 </li>
 <li><p>Key in your Notes in the text box.</p>
 </li>
@@ -32,4 +32,4 @@ third_nav_title: Assess
 <li>Annotation Notes will be visible in the Annotation Drawer. Click the <strong>Notepad</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Note.svg"> to Expand/Hide the drawer.</li>
 <li>Both teachers and students can leave Comments on your Annotations.</li>
 </ol>
-<h2 id="-video-tutorial-can-keep-"><strong>Video Tutorial (can keep)</strong></h2>
+<h2 id="-video-tutorial-can-keep-">Video Tutorial (can keep)</h2>
