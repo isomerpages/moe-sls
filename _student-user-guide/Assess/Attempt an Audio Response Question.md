@@ -6,7 +6,7 @@ third_nav_title: Assess
 ---
 <h1 id="attempt-an-audio-response-question">Attempt an Audio-Response Question</h1>
 
-<h2 id="-audio-response-question-"><strong>Audio-Response Question</strong></h2>
+<h2 id="-audio-response-question-">Audio-Response Question</h2>
 <hr>
 <p><u>Note</u>: To use the Recording feature on iOS devices such as iPhones and iPads, make sure your device is updated to iOS/iPadOS 14.3 and your microphone setting in Safari is switched to "allow" mode.</p>
 <ol>
