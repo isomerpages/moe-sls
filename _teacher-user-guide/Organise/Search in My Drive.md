@@ -4,9 +4,9 @@ permalink: /teacher-user-guide/organise/search-in-my-drive/
 description: ""
 third_nav_title: Organise
 ---
-<h1>2. Search in My Drive</h1>
+<h1>Search in My Drive</h1>
 
-<h2><strong>Search in My Lessons</strong></h2>
+<h2>Search in My Lessons</h2>
 
 <hr>
 
@@ -18,7 +18,7 @@ third_nav_title: Organise
     <li>For Resources under My Lessons tab, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) to <strong>Share</strong>, <strong>Make a Copy</strong>, <strong>Set as Template</strong>, <strong>Move</strong>, <strong>Move to Trash</strong> or <strong>View Details</strong>. You can only share or make a copy of the Resource if the permission settings have been enabled.</li>
 </ol>
 
-<h2><strong>Search in Trash</strong></h2>
+<h2>Search in Trash</h2>
 
 <hr>
 
