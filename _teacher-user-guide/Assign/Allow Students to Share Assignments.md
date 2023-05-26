@@ -28,7 +28,7 @@ third_nav_title: Assign
 <p><img style="width: 50%;" src="/images/2Teacher/AS-AllowShare2.png"></p>
 </li>
 </ol>
-<h2 id="-student-interaction-in-shared-assignment-"><strong>Student Interaction in Shared Assignment</strong></h2>
+<h2 id="-student-interaction-in-shared-assignment-">Student Interaction in Shared Assignment</h2>
 <hr>
 <ul>
 <li>Assignment sharing is mutual between two students. For example, student A requests to share with student B, and student B accepts. Both students A and B can see each other's assignment. Student A can further share his/her assignment with student C by repeating the process to request and accept.</li>
