@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 ---
 <h1 id="add-error-editing-questions">Add Error-Editing Questions</h1>
-<h2 id="-add-error-editing-question-"><strong>Add Error-Editing Question</strong></h2>
+<h2 id="-add-error-editing-question-">Add Error-Editing Question</h2>
 <hr>
 <ol>
 <li>In the Lesson Editor page, hover over Question in the Component Bar.</li>
@@ -17,7 +17,7 @@ third_nav_title: Author
 <li>Hide "No Error" - If this is checked, all the texts will have to contain errors.</li>
 <li>Show identified errors for students - If this is checked, students will not need to identify the errors for the text. If there are no errors, the No Error box will be automatically selected for students.</li>
 <li><p>All answers are case-sensitive - If this is checked, the answer will be case-sensitive, that is, "usa" will not be accepted as a correct answer while "USA" will be accepted.</p>
-<p>  <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4957bfe2-4d0b-4538-b9d0-e51da063e59f/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddErrorEdit1.png"></p>
 </li>
 </ul>
 </li>
@@ -30,7 +30,7 @@ third_nav_title: Author
 <li>The error(s) that has been clicked on will be displayed under Possible Error(s). </li>
 <li>Type the Suggested Answer(s) for the errors. This is shown to students after they have submitted their answers. </li>
 <li><p>If there is no error in the row, check the No Error box. Students will have to mark this row as No Error to answer it correctly.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fb04f44b-361c-4c88-827f-39489527c689/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddErrorEdit2.png"></p>
 </li>
 <li><p>Click the <strong>Pencil</strong> icon to edit the Text For Editing.</p>
 </li>
