@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 ---
 <h1 id="manage-lessons">Manage Lessons</h1>
-<h2 id="-lesson-"><strong>Lesson</strong></h2>
+<h2 id="-lesson-">Lesson</h2>
 <hr>
 <p>A Lesson can contain up to 20 Sections. Each Section can contain up to 20 Activities or Quizzes. </p>
 <p>You can set both lesson and section covers as non-viewable if there is only one activity in the Lesson, and set section covers as non-viewable if there is only one section in the Lesson. </p>
