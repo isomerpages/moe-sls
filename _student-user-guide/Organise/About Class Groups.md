@@ -9,7 +9,7 @@ third_nav_title: Organise
 <ol>
 <li>Class Groups (Class) are created using subject class and teaching group information imported from School Cockpit. Class Groups are assigned a specific colour based on the subject type e.g. green for Sciences, orange for Mathematics.</li>
 <li><p>Class Groups (Group) are created by your teachers in SLS. They may be assigned a specific colour should your teacher tag it based on subject type.</p>
-<p> [insert O-ClassGroupCards.png]</p>
+<p> <img src="/images/1Student/O-ClassGroupCards.png"></p>
 </li>
 <li><p>The default view of the page is the Current year's Class Groups, you can access the past years Class Groups by clicking the <strong>Past</strong> tab.</p>
 </li>
