@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Collaborate
 ---
 <h1 id="-1a-add-a-topic-new-">(1a) Add a Topic (New)</h1>
-<h2 id="-create-a-topic-in-class-group-forum-new-"><strong>Create a Topic in Class Group Forum (New)</strong></h2>
+<h2 id="-create-a-topic-in-class-group-forum-new-">Create a Topic in Class Group Forum (New)</h2>
 <hr>
 <p>From R19, teachers can create Topics in Class Group Forum to better categorise forum posts. </p>
 <ol>
@@ -18,7 +18,7 @@ third_nav_title: Collaborate
 </ul>
 </li>
 <li><p>You may also choose to notify the class group about the Topic, and grant Observers and students the permission to create posts for the Topic by selecting the appropriate checkboxes.</p>
-<p> [insert C-TopicCard.png] </p>
+<p><img style="width: 50%;" src="/images/2Teacher/C-TopicCard.png"></p>
 </li>
 <li><p>Click <strong>Create</strong> to proceed.</p>
 </li>
@@ -28,7 +28,7 @@ third_nav_title: Collaborate
 <hr>
 <ol>
 <li>Only teachers can edit and/or delete a Topic Card. </li>
-<li>To edit a Topic, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Edit</strong> to edit the Header, Feature Image, Body, and Keyword Tags, enable notifications to the class group, or grant Observers and students the permission to create posts. Click <strong><em>**</em></strong>Save<strong><em>**</em></strong> to confirm.</li>
+<li>To edit a Topic, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Edit</strong> to edit the Header, Feature Image, Body, and Keyword Tags, enable notifications to the class group, or grant Observers and students the permission to create posts. Click <strong>Save</strong> to confirm.</li>
 <li>To delete a Topic, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Delete</strong>. Click <strong><strong>OK</strong></strong> in the pop-up message to confirm.</li>
 </ol>
-<p>[insert C-EditDeleteCard.png]</p>
+<p><img style="width: 50%;" src="/images/2Teacher/C-EditDeleteCard.png"></p>
