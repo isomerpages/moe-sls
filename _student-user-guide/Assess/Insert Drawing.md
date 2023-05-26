@@ -5,14 +5,14 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="insert-drawing">Insert Drawing</h1>
-<h2 id="-respond-with-drawing-"><strong>Respond with Drawing</strong></h2>
+<h2 id="-respond-with-drawing-">Respond with Drawing</h2>
 <hr>
 <p>You can submit a response with a diagram using the drawing tool.</p>
 <ol>
 <li>Select the <strong>Add Drawing/Image</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Drawing.svg"> in the toolbar.</li>
 <li>You may select either <strong>Blank Drawing</strong> or <strong>Upload a Background Image</strong> to draw on.</li>
 </ol>
-<h2 id="-starting-with-blank-drawing-"><strong>Starting with Blank Drawing</strong></h2>
+<h2 id="-starting-with-blank-drawing-">Starting with Blank Drawing</h2>
 <hr>
 <ol>
 <li>If you choose to draw on a blank drawing, you will see a white canvas.<ul>
@@ -40,7 +40,7 @@ third_nav_title: Assess
 <li>To edit the drawing, click the <strong>Edit Image</strong> icon<img style="width:1rem; display: inline;" src="/images/Icons/EditImage.svg">  to open up the drawing tool again.</li>
 <li>To delete the entire drawing, click the <strong>Trash</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Trash.svg">.</li>
 </ol>
-<h2 id="-starting-with-background-image-"><strong>Starting with Background Image</strong></h2>
+<h2 id="-starting-with-background-image-">Starting with Background Image</h2>
 <hr>
 <ol>
 <li>If you choose to add a background image, you can either drag the file into the box or browse to choose the file from your computer.</li>
