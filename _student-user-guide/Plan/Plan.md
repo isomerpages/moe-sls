@@ -4,8 +4,11 @@ permalink: /student-user-guide/plan/index/
 description: ""
 third_nav_title: Plan
 ---
-### Plan
-Use SLS to plan personal events and be updated on class group events.
+<h1>Plan</h1>
+<p>Use SLS to plan personal events and be updated on class group events.</p>
+<br>
+<img style="width: 100%;" src="/images/1Student/Flow-Plan.png">
+<br>
 <details><summary><h4>How to use SLS Planner?</h4></summary>
 	<ul>
   <li>
