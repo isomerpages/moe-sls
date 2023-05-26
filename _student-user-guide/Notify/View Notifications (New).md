@@ -32,12 +32,13 @@ third_nav_title: Notify
       <li><strong>Announcements</strong> - Class Group and System Announcements</li>
       <li><strong>Others</strong> - Forum, Assignment, Resource</li>
     </ol>
-    <img alt="Notifications filter" src="N-NotificationsFilter.png">
+		<a target="_blank" href="/images/1Student/N-NotificationsFilter.png"><img src="/images/1Student/N-NotificationsFilter.png"></a>
   </li>
   <li>Click <strong>Apply</strong> to proceed.</li>
   <li>From the Notifications tab within your Class Group, you can only filter your Notifications from the <strong>Type</strong> dropdown list - All, Class Group Announcement, Forum, Assignment and Resource.</li>
   <li>For Notifications that require your action, clicking that <strong>Notification Card</strong> will redirect to you the relevant page.</li>
-  <li>For Notifications that are for information, clicking that <strong>Notification Card</strong> will open the Notification Subpage. Click <strong>X</strong> or <strong>View All Announcements</strong> to return to the Notifications page. <img alt="Notifications example" src="N-Notifications1.png"></li>
+  <li>For Notifications that are for information, clicking that <strong>Notification Card</strong> will open the Notification Subpage. Click <strong>X</strong> or <strong>View All Announcements</strong> to return to the Notifications page. <a target="_blank" href="/images/1Student/N-Notifications1.png"><img src="/images/1Student/N-Notifications1.png"></a>
+</li>
 </ol>
 <p>Did You Know?</p>
 <p>You can view the twelve latest Notifications by clicking the <strong>Bell</strong> icon on the header. You will be able to view, flag, and unflag a Notification from the Notification panel.</p>
