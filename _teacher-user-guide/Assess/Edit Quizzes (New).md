@@ -11,7 +11,7 @@ third_nav_title: Assess
 <li>Once you have added the Quiz, the Quiz title will be pre-filled for you as “Untitled”. </li>
 <li>Click the Quiz Title to rename.</li>
 <li><p>You can choose to set the Quiz as Optional by adjusting the <strong>Optional</strong> toggle button, or delete by clicking the <strong>Trash</strong> icon.</p>
-<p> [insert As-EditQuiz.png]</p>
+<p><img style="width: 50%;" src="/images/2Teacher/As-EditQuiz.png"></p>
 </li>
 <li><p>To edit the details on the cover page of the Quiz, click the Quiz cover page or the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg">  to edit the following details: </p>
 <ul>
@@ -26,7 +26,7 @@ third_nav_title: Assess
 </ul>
 </li>
 <li><p>Click outside of the Component to <strong>Save</strong>.</p>
-<p> <img alt="Screenshot 2023-03-08 at 3.06.44 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/55eff2f0-5586-449c-9eae-3e773ef4e6e5/Screenshot_2023-03-08_at_3.06.44_PM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/As-EditQuiz1.png"></p>
 </li>
 <li><p>To add a new empty page, click <strong>+</strong> on the top menu<strong>.</strong> </p>
 </li>
@@ -45,8 +45,8 @@ third_nav_title: Assess
 <li>Click the Quiz or the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg"> to edit.</li>
 <li>Click on the Page you wish to edit, delete, or reorder. You can open the <strong>Overflow</strong> (<strong>3-dot</strong> icon) beside the <strong>Question Number</strong> to Add Page After/Before, Move Left/Right, or Delete.</li>
 </ol>
-<p><img alt="Screenshot 2023-03-10 at 3.40.05 PM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/24b4eeb4-26ed-4e8e-82d3-0a967af29dde/Screenshot_2023-03-10_at_3.40.05_PM.png"></p>
-<h2 id="-edit-delete-or-reorder-a-component-in-a-quiz-"><strong>Edit, Delete or Reorder a Component in a Quiz</strong></h2>
+<p><img style="width: 50%;" src="/images/2Teacher/As-EditQuiz2.png"></p>
+<h2 id="-edit-delete-or-reorder-a-component-in-a-quiz-">Edit, Delete or Reorder a Component in a Quiz</h2>
 <hr>
 <ol>
 <li>Click the Quiz or the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg"> to edit.</li>
@@ -59,4 +59,4 @@ third_nav_title: Assess
 </ul>
 </li>
 </ol>
-insert As-EditQuiz3.png
+<img style="width: 50%;" src="/images/2Teacher/As-EditQuiz3.png">
