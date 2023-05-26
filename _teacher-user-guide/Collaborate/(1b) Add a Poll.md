@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Collaborate
 ---
 <h1 id="-1b-add-a-poll">(1b) Add a Poll</h1>
-<h2 id="-create-a-poll-in-class-group-forum-"><strong>Create a Poll in Class Group Forum</strong></h2>
+<h2 id="-create-a-poll-in-class-group-forum-">Create a Poll in Class Group Forum</h2>
 <hr>
 <ol>
 <li>From a class group, click the <strong>Forum</strong> tab.</li>
@@ -14,7 +14,7 @@ third_nav_title: Collaborate
 <li>If you have selected a Multiple-Choice Poll, complete the Rich-Text-enabled option. You can add up to 26 options. </li>
 <li>If you have selected a Slider Poll, you may create up to 7 plain text options.</li>
 <li><p>You may also choose to notify the class group about the Poll, and hide Poll results from voters.</p>
-<p> <img alt="CGF-2.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b61baee8-5321-4051-b47c-ecd77b15010b/CGF-2.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/C-Poll.png"></p>
 </li>
 <li><p>Click <strong>Create</strong> to proceed.</p>
 </li>
