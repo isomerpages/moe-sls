@@ -37,10 +37,7 @@ third_nav_title: Assess
 	<p><u>Note</u>: You may also click <strong>Award Marks</strong> in the header to enter the marks to be awarded to the selected students. Marks awarded for Free-Response, File Submission and Audio-Response Questions in non-Quiz Activities will not be editable once it has been confirmed. Marks awarded for questions in Teacher-Mark Quiz will be confirmed after the Quiz is released. </p>
 </li>
 <li><p>Click <strong>Send</strong>.</p>
-</li>
-</ol></ul>
-	<p><u>Note</u>:</p>
-<ul>
+</li></ol></ul><p><u>Note</u>:</p><ul>
 <li>You can add multiple Teacher Comments to a question. Students can reply to the Comments added.</li>
 <li>You can give an Audio comment, or attach a File from Google Drive.</li>
 <li>After a teacher has released/unsubmitted a Teacher-Marked Quiz, a notification will be sent to students.</li>
