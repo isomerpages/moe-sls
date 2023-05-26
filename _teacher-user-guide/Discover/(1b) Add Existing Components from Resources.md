@@ -27,7 +27,7 @@ third_nav_title: Discover
 
 <a target="_blank" href="/images/2Teacher/D-AddExistingComponent.png"><img alt="AddExistingComponent" src="/images/2Teacher/D-AddExistingComponent.png"></a>
 
-<h2><strong>Add Existing Questions from Library and Starred Resources</strong></h2>
+<h2>Add Existing Questions from Library and Starred Resources</h2>
 
 <hr>
 
@@ -57,7 +57,7 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
   </li>
 </ol>
 
-<h2><strong>Add Existing Questions from File (QTI)</strong></h2>
+<h2>Add Existing Questions from File (QTI)</h2>
 
 <hr>
 
@@ -75,7 +75,7 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
 
 <p><u>Note</u>: For questions uploaded from a QTI-compatible file, you will not be able to filter or choose questions.</p>
 
-<h2><strong>Add Media Files from Library</strong></h2>
+<h2>Add Media Files from Library</h2>
 
 <hr>
 
