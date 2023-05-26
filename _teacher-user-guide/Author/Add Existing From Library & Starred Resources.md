@@ -28,7 +28,7 @@ third_nav_title: Author
 </li>
 <li>Click <strong>Apply Filters</strong> or <strong>Reset.</strong></li>
 <li><p>By default, the Search Results are sorted according to Relevance. You can choose to sort the results by recency by selecting Latest from the Sort By dropdown list.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/52a92ece-3ea8-4b58-b6bd-e0d880d4d9aa/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddExisting1.png"></p>
 </li>
 <li><p>Click on the Lesson Card to view its details. You will see the following on the card:</p>
 <ul>
@@ -55,7 +55,7 @@ third_nav_title: Author
 </li>
 <li>To clear the selected list of Activities/Sections, click <strong>Clear</strong>.</li>
 <li><p>Click <strong>Choose</strong> to add the Activities/Sections into your Lesson.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7b951f25-fe15-445c-8bb8-b9860e3d75ec/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddExisting2.png"></p>
 </li>
 <li><p>The chosen Activities will inherit the Activity Details from the Lesson in Library/Starred Resources. To view and edit the Activity Notes and Active Learning Process in the <strong>Activity Details</strong> Card, click the <strong>Settings</strong> icon on the <strong>Activity Details</strong> Card. These fields are optional and will not be visible to students.</p>
 </li>
