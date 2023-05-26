@@ -48,7 +48,7 @@ third_nav_title: Publish
 <h2 id="add-a-new-content-map">Add a New Content Map</h2>
 <hr>
 <ol>
-<li>Click <strong>Add New</strong> and select <strong>Content Map</strong> or <strong>ALS Content Map</strong>. [insert screenshot P-ContentMap.png]</li>
+<li>Click <strong>Add New</strong> and select <strong>Content Map</strong> or <strong>ALS Content Map</strong>.<img src="/images/5Admin/P-ContentMap.png"></li>
 <li>Fill up the necessary fields and upload the CSV file.</li>
 <li>For CAs, click the <strong>Create and Publish</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Upload24.svg"> when done.</li>
 <li>For COs, click to seek approval from CA(s) to publish the content map, after creating the content map.</li>
