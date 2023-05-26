@@ -12,4 +12,4 @@ third_nav_title: Self Study
 <li>Notes: These are found within an Activity of an Assignment, or Self-Study Resource. They can be created by both your teacher and yourself. These Notes are not anchored to anywhere in the Assignment or Resource.</li>
 </ol>
 <p>You can access Notes from within a Lesson. Expand the Annotation Drawer by clicking the <strong>Notepad</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Note.svg"> to find your Annotation cards. The cards will indicate the name of the person who posted it, the number of comments (if Commenting has been turned on), and a preview of the text in the notes.</p>
-<p>[insert SS-ViewNotes.png]</p>
+<p><img src="/images/1Student/SS-ViewNotes.png"></p>
