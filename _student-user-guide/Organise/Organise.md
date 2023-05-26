@@ -7,7 +7,7 @@ third_nav_title: Organise
 <h1>Organise</h1>
 <p>Use SLS to organize your personal and class group resources, assignments, conversations and notifications.</p>
 <br>
-<img style="width: 100%;" src="/images/1Student/Flow-Organise.png">
+<img style="width: 100%;" src="/images/1Student/Flow-Organise1.png">
 <br>
 <details><summary><h4>How to access Class Groups?</h4></summary>
 
@@ -17,7 +17,7 @@ third_nav_title: Organise
   <li><a target="_blank" href="/student-user-guide/organise/access-past-class-groups/">Access Past Class Groups</a></li>
 </ul>	
 </details>
-
+<img style="width: 100%;" src="/images/1Student/Flow-Organise2.png">
 <details><summary><h4>How to organise My Drive?</h4></summary>
 
 <ul>
