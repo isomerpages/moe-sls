@@ -11,7 +11,7 @@ third_nav_title: Author
 <li>You can add upload a new Media Object or add an existing one from Library/Starred Resources.</li>
 <li>Click here to Edit Media Objects.</li>
 </ul>
-<h2 id="-upload-a-new-media-object-"><strong>Upload a New Media Object</strong></h2>
+<h2 id="-upload-a-new-media-object-">Upload a New Media Object</h2>
 <hr>
 <ol>
 <li>When editing the Rich Text-enabled component, select <strong>Add Media</strong> and choose <strong>Upload File</strong> option. </li>
@@ -31,13 +31,13 @@ third_nav_title: Author
 </li>
 <li>When the file is successfully uploaded, the Media Object will be added to the Lesson.</li>
 </ol>
-<h2 id="-uploading-media-objects-from-an-ios-device-"><strong>Uploading Media Objects from an iOS Device</strong></h2>
+<h2 id="-uploading-media-objects-from-an-ios-device-">Uploading Media Objects from an iOS Device</h2>
 <hr>
 <ol>
 <li>Uploads via iOS devices are supported.</li>
 <li>However, if you encounter any errors, please ensure that you are uploading files from the <strong>Photo Library, Take Photo or Video, or Browse from Files</strong>.</li>
 </ol>
-<h2 id="-uploading-media-objects-from-an-android-device-"><strong>Uploading Media Objects from an Android Device</strong></h2>
+<h2 id="-uploading-media-objects-from-an-android-device-">Uploading Media Objects from an Android Device</h2>
 <hr>
 <ol>
 <li>Uploads via Android devices are supported.</li>
@@ -46,20 +46,20 @@ third_nav_title: Author
 </ul>
 </li>
 </ol>
-<h2 id="-add-a-media-object-from-the-library-"><strong>Add a Media Object from the Library</strong></h2>
+<h2 id="-add-a-media-object-from-the-library-">Add a Media Object from the Library</h2>
 <hr>
 <ol>
 <li>Click <strong>Add Media</strong> icon [icon] and choose <strong>Add from Library</strong>.</li>
 <li>Search and Filter the Media Object that you want to add from the global search bar.</li>
 <li>Click <strong>View Details</strong> in the Media Object card to see its details such as Title, Description, File Size and where it is Used in.</li>
 <li><p>Click <strong>Choose</strong> to insert the Media Object into the Lesson.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/20534679-3ddf-4fc4-81e6-d5ce451e6dc3/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddMedia1.png"></p>
 </li>
 </ol>
-<h2 id="-add-a-media-object-from-starred-resources-"><strong>Add a Media Object from Starred Resources</strong></h2>
+<h2 id="-add-a-media-object-from-starred-resources-">Add a Media Object from Starred Resources</h2>
 <hr>
 <ol>
 <li>Click the <strong>Add Media</strong> icon and choose <strong>Add File from Starred Resources</strong>.</li>
 <li>Click <strong>View Details</strong> in the Media Object card to see its details such as Title, Description, File Size and where it is Used in.</li>
 <li>Click <strong>Choose</strong> to insert the Media Object into the Lesson.</li>
-</ol>
+</ol><img style="width: 50%;" src="/images/2Teacher/AU-AddMedia2.png">
