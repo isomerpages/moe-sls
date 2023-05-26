@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 ---
 <h1 id="attempt-a-click-and-drop-question">Attempt a Click-and-Drop Question</h1>
-<h2 id="-click-and-drop-question-"><strong>Click-and-Drop Question</strong></h2>
+<h2 id="-click-and-drop-question-">Click-and-Drop Question</h2>
 <hr>
 <ol>
 <li>Click the <strong>Show Options</strong> dropdown arrow to view the Options for a Click-and-Drop question. To answer the question, click an <strong>Option</strong> followed by clicking the <strong>corresponding blank rectangles</strong> in the question.<ol style="list-style-type: lower-alpha;">
