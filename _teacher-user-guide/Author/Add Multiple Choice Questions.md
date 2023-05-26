@@ -9,7 +9,7 @@ third_nav_title: Author
 <hr>
 <ol>
 <li><p>In the Lesson Editor page, hover over Question in the Component Bar.</p>
-<p> <img alt="Screenshot 2023-03-14 at 11.04.06 AM.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/053d046f-e918-432d-929b-b47ab99afa90/Screenshot_2023-03-14_at_11.04.06_AM.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddMCQ1.png"></p>
 </li>
 <li><p>You may insert an existing Question from Library, Starred Resources or QTI file by selecting <strong>Add from Existing</strong>.</p>
 </li>
@@ -24,7 +24,7 @@ third_nav_title: Author
 </li>
 <li><p>No correct answer: you can turn on/off this option in the question setting. <strong>(NEW)</strong></p>
 	<p><u>Note</u>: Students will not be awarded any marks for this question.</p>
-<p>  <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b408006a-b5e0-48d4-a84b-8a43bf10b78d/Untitled.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddMCQ2.png"></p>
 </li>
 </ul>
 </li>
@@ -35,7 +35,7 @@ third_nav_title: Author
 <li>You can add more options by clicking the <strong>Add Options</strong> button.</li>
 <li>Click outside the Component to <strong>Save</strong>.</li>
 </ol>
-<h2 id="-edit-multiple-choice-question-details-"><strong>Edit Multiple-Choice Question details</strong></h2>
+<h2 id="-edit-multiple-choice-question-details-">Edit Multiple-Choice Question details</h2>
 <hr>
 <p>Fill in the optional details of the Multiple-Choice Question:</p>
 <ul>
