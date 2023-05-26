@@ -21,14 +21,14 @@ third_nav_title: Author
 <li>Answer - Enter an Acceptable Answer here. Each blank can have multiple Acceptable Answers. Press <strong>Enter</strong> within the field to add a new Acceptable Answer.</li>
 <li><p>Case-sensitive checkbox - If this is checked, the answer will be case-sensitive, that is, "usa" will not be accepted as a correct answer while "USA" will be accepted.</p>
 	<p><u>Note</u>: Answer blanks can only be text.</p>
-<p><img alt="AU_FITB2.png" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/adb2f4f6-8dea-4f2a-8664-3c9d2bba4220/AU_FITB2.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddFITB1.png"></p>
 </li>
 </ul>
 </li>
 <li><p>Click outside the Component to <strong>Save</strong>.</p>
 </li>
 </ol>
-<h2 id="-edit-fill-in-the-blanks-question-details-"><strong>Edit Fill-in-the-Blanks Question details</strong></h2>
+<h2 id="-edit-fill-in-the-blanks-question-details-">Edit Fill-in-the-Blanks Question details</h2>
 <hr>
 <p>Fill in the optional details of the Fill-in-the-Blanks question:</p>
 <ul>
