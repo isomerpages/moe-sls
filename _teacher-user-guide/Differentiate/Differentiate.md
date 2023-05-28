@@ -11,9 +11,9 @@ third_nav_title: Differentiate
 <details>
  <summary><h4>How to organise my students within Class Groups?</h4></summary>
 <ul>
-    <li><a target="_blank" href="#">(1) Create Subgroups</a></li>
-    <li><a target="_blank" href="#">(2) View Subgroups</a></li>
-    <li><a target="_blank" href="#">(3) Edit &amp; Delete a Subgroup</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/differentiate/create-subgroups/">(1) Create Subgroups</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/differentiate/view-subgroups/">(2) View Subgroups</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/differentiate/edit-and-delete-a-subgroup/">(3) Edit &amp; Delete a Subgroup</a></li>
   </ul>
 </details>
 
@@ -23,7 +23,7 @@ third_nav_title: Differentiate
 <details>
  <summary><h4>How to provide differentiated access to students?</h4></summary>
 <ul>
-    <li><a target="_blank" href="#">Add Section Prerequisites</a></li>
-    <li><a target="_blank" href="#">Set Differentiated Access</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/differentiate/add-section-prerequisites/">Add Section Prerequisites</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/differentiate/set-differentiated-access/">Set Differentiated Access</a></li>
   </ul>
 </details>
