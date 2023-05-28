@@ -4,12 +4,11 @@ permalink: /login-troubleshooting/get-help/get-help-from-your-school/
 description: ""
 third_nav_title: Get Help
 ---
-School-Based Helpline
-==================
+<h1>School-Based Helpline</h1>
 
-The following are details on how you can contact your school to assist in login or e-learning issues during working hours.
+<p>The following are details on how you can contact your school to assist in login or e-learning issues during working hours.</p>
 
-You may use the search function in your browser to find your school quickly.
+<p>You may use the search function in your browser to find your school quickly.</p>
 
 <table>
 <thead>
