@@ -49,31 +49,31 @@ third_nav_title: Author
 <li><a target="_blank" href="/teacher-user-guide/author-author/html5/">HTML5 Content Development</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author-author/textspeech/">Text to Speech (TTS)</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author-author/speechevaluation/">Speech Evaluation (Enhanced)</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author-author/localisation/">Localisation and eDictionary</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/localisation-and-edictionary/">Localisation and eDictionary</a></li>
 </ul>
 </details>
 
 <details><summary><h4>More about Lessons</h4></summary>
 <ul>
-<li><a href="/teacher-user-guide/author-author/editlessons/" target="_blank">About Templates</a></li>
-<li><a href="/teacher-user-guide/author-author/editlessons/" target="_blank">Manage Lessons</a></li>
-<li><a href="/teacher-user-guide/author-author/editlessons/" target="_blank">Edit Lessons (Enhanced)</a></li>
-<li><a href="/teacher-user-guide/author-author/editlessons/" target="_blank">Edit Activities &amp; Sections (Enhanced)</a></li>	
-<li><a href="/teacher-user-guide/author-author/viewedit/" target="_blank">View and Edit Lesson Plans</a></li>
-<li><a href="/teacher-user-guide/author-author/makecopy/" target="_blank">Make a Copy of Lessons &amp; Assignments</a></li>
-<li><a href="/teacher-user-guide/author-author/editdetails/" target="_blank">Edit Detail cards (New)</a></li>
-<li><a href="/teacher-user-guide/author-author/addquestion/" target="_blank">Add Question Tags</a></li>
-<li><a href="/teacher-user-guide/author-author/addlesson/" target="_blank">Add Lesson Tags</a></li>
-<li><a href="/teacher-user-guide/author-author/addlesson/" target="_blank">Edit Media Objects</a></li>
-<li><a href="/teacher-user-guide/author-author/movelessons/" target="_blank">Move Lessons to Trash</a></li>
-<li><a href="/teacher-user-guide/author-author/filesize/" target="_blank">File Size Limits</a></li>
+<li><a href="/teacher-user-guide/author/about-templates/" target="_blank">About Templates</a></li>
+<li><a href="/teacher-user-guide/author/manage-lessons/" target="_blank">Manage Lessons</a></li>
+<li><a href="/teacher-user-guide/author/edit-lessons/" target="_blank">Edit Lessons (Enhanced)</a></li>
+<li><a href="/teacher-user-guide/author/edit-activities-and-sections/" target="_blank">Edit Activities &amp; Sections (Enhanced)</a></li>	
+<li><a href="/teacher-user-guide/author/view-and-edit-lesson-plans/" target="_blank">View and Edit Lesson Plans</a></li>
+<li><a href="/teacher-user-guide/author/make-a-copy-of-lessons-or-assignments/" target="_blank">Make a Copy of Lessons &amp; Assignments</a></li>
+<li><a href="/teacher-user-guide/author/edit-detail-cards/" target="_blank">Edit Detail cards (New)</a></li>
+<li><a href="/teacher-user-guide/author/add-question-tags/" target="_blank">Add Question Tags</a></li>
+<li><a href="/teacher-user-guide/author/add-lesson-tags/" target="_blank">Add Lesson Tags</a></li>
+<li><a href="/teacher-user-guide/author/edit-media-objects/" target="_blank">Edit Media Objects</a></li>
+<li><a href="/teacher-user-guide/author/move-lessons-to-trash/" target="_blank">Move Lessons to Trash</a></li>
+<li><a href="/teacher-user-guide/author/file-size-limits/" target="_blank">File Size Limits</a></li>
 </ul>
 </details>
 
 <details><summary><h4>What are the copyright guidelines for resources?</h4></summary>
 <ul>
-  <li><a href="/teacher-user-guide/author-author/resources/" target="_blank">Resources</a></li>
-  <li><a href="/teacher-user-guide/author-author/copyrightfaqs/" target="_blank">Copyright FAQs</a></li>
-  <li><a href="/teacher-user-guide/author-author/emailtemplate/" target="_blank">Email Template for Copyright Clearance</a></li>
+  <li><a href="/teacher-user-guide/author/resources/" target="_blank">Resources</a></li>
+  <li><a href="/teacher-user-guide/author/copyright-faqs/" target="_blank">Copyright FAQs</a></li>
+  <li><a href="/teacher-user-guide/author/email-template-for-copyright-clearance/" target="_blank">Email Template for Copyright Clearance</a></li>
 </ul>
 </details>
