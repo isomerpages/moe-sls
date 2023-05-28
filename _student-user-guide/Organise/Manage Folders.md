@@ -7,7 +7,7 @@ third_nav_title: Organise
 <h1>Manage Folders</h1>
 
 <h2>Move Lessons to a Folder</h2>
-
+<hr>
 <p>You can move an existing Lesson from one folder to another.</p>
 
 <ol>
@@ -21,7 +21,7 @@ third_nav_title: Organise
 </ol>
 
 <h2>Rename a Folder</h2>
-
+<hr>
 <ol>
   <li>In the listing, locate a folder and click the <strong>Overflow</strong> (<strong>3-dot</strong> icon), followed by <strong>Rename</strong>.</li>
   <li>In the Rename Folder subpage, enter a new title.</li>
@@ -29,7 +29,7 @@ third_nav_title: Organise
 </ol>
 
 <h2>Delete a Folder</h2>
-
+<hr>
 <ol>
   <li>In the listing, locate a folder and click the <strong>Overflow</strong> (<strong>3-dot</strong> icon), followed by <strong>Move to Trash</strong>. Alternatively, you can select multiple folders using the checkboxes on the left and click <strong>Move to Trash</strong> in the table header.</li>
   <li>If you have deleted a folder by mistake, it can be restored from the <strong>Trash</strong> tab.</li>
