@@ -9,8 +9,8 @@ third_nav_title: Organise
 <p>Starred Resources can be found in the left menu, under <strong>Resources</strong>.</p>
 <h2>Starring from Search Results</h2>
 <hr>
-<p>You can star a Lesson and an App by clicking the <strong>View Details</strong> icon<img style="width:1rem; display: inline;" src="/images/Icons/ViewDetails.svg"> found on the top right of the Resource Card, followed by the <strong>Star</strong> icon found at the top of the subpage.</p>
-<img src="/images/1Student/O-ResourceSubpage.png">
+<p>You can star a Lesson and an App by clicking the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> found on the top right of the Resource Card, followed by the <strong>Star</strong> icon found at the top of the subpage.</p>
+<img style="width: 50%;" src="/images/1Student/O-ResourceSubpage.png">
 <h2>Starring from My Drive folders</h2>
 <hr>
 <p>To star a Lesson within My Drive, click <strong>Open</strong> under the Lesson title. You can star a Lesson by clicking the <strong>Star</strong> icon beside the Lesson Title in the banner.</p>
