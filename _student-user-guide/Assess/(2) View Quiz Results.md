@@ -13,7 +13,7 @@ third_nav_title: Assess
 <li>You will also see the feedback provided after the attempt and feedback for individual options if your teacher has provided them. </li>
 <li>Your Quiz score will be calculated based on these 5 question types.</li>
 <li><p>For Free-Response Questions, File Submission Questions, and Audio-Response Questions, you will be able to see the suggested answer (if any), feedback (if any), and Teacher's Feedback (if any) after submission. You will not be awarded any marks for these question types in Progressive and Auto-Graded Quizzes. </p></li></ol>
-<p><u>Did You Know?</u>:</p>
+<p><u>Did You Know</u>:</p>
 <li>You will only be able to view the Quiz score upon submission for Progressive Quizzes and Auto-graded Quizzes.
 </li>
 <li>For Teacher-Marked Quizzes, you will receive a Notification once your teacher has returned the Quiz to you. You will then be able to view any feedback and Quiz Score.<img src="/images/1Student/As-TeacherMarkedQuiz.png"></li>
