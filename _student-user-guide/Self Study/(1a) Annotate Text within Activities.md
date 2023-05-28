@@ -12,7 +12,7 @@ third_nav_title: Self Study
 <li>From within a lesson, highlight the text that you want to annotate.</li>
 <li>Select a colour for the highlight. <img src="/images/1Student/SS-Annotate.png"></li>
 <li>A textbox will appear. You may choose to highlight the text without adding a Note <img style="width:1rem; display: inline;" src="/images/Icons/Highlight.svg"> , or add a Note <img style="width:1rem; display: inline;" src="/images/Icons/Annotate.svg"> to accompany the highlighted text.</li>
-<li>You may insert text, mathematical or chemical equations, emoticons, upload a background image or file, or include a drawing in a Note. <img src="/images/1Student/SS-Annotate1.png"></li>
+<li>You may insert text, mathematical or chemical equations, emoticons, upload a background image or file, or include a drawing in a Note. <img style="width: 50%;" src="/images/1Student/SS-Annotate1.png"></li>
 <li>You may also add Keyword Tags to improve the searchability of your Note.</li>
 <li><p>Once you are done, click <strong>Save</strong>.</p>
 <p> <u>Note</u>: You are allowed to have overlapping highlights.</p>
@@ -37,7 +37,7 @@ third_nav_title: Self Study
 <hr>
 <p>For Chinese Assignments and Resources with the E-Dictionary enabled, you will be able to highlight text to find its meaning in the E-Dictionary. </p>
 <ol>
-<li>Upon selecting the <strong>E-Dictionary</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/eDict.svg">, students can view the meaning of the word (with English translation, if enabled);</li>
+<li>Upon selecting the <strong>E-Dictionary</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/eDict.svg">, students can view the meaning of the word (with English translation, if enabled);</li>
 <li>Listen to its pronunciation;</li>
 <li>Add what they have searched to the right drawer as Notes. This creates an easy point of reference for students to revisit the meaning of the word in future.</li>
-</ol><img src="/images/1Student/SS-eDict.png">
+</ol><img style="width: 50%;" src="/images/1Student/SS-eDict.png">
