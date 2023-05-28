@@ -37,7 +37,7 @@ third_nav_title: Notify
 <li>For Notifications that are for information, clicking that <strong>Notification Card</strong> will open the Notification Subpage. Click <strong>X</strong> or <strong>View All Announcements</strong> to return to the Notifications page. <img src="/images/1Student/N-Notifications1.png">
 </li>
 </ol>
-<p>Did You Know?</p>
+<p><u>Did You Know</u>:</p>
 <p>You can view the twelve latest Notifications by clicking the <strong>Bell</strong> icon on the header. You will be able to view, flag, and unflag a Notification from the Notification panel.</p>
 <h2>Turn On/Off Notifications (New)</h2>
 <hr>
