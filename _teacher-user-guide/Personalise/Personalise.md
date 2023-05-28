@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/personalise/index/
 description: ""
 third_nav_title: Personalise
 ---
-<h1>Gamify</h1>
+<h1>Personalise</h1>
 <p>Use SLS to provide choice for your students in their lessons and activities.</p>
 <img src="/images/2Teacher/Flow-Personalise.png">
 
