@@ -12,9 +12,9 @@ third_nav_title: Assess
 <li>Open the Assignment and navigate to the Free-Response, File Submission, or Audio-Response Question.</li>
 <li>Select the <strong>Teacher Comments</strong> tab to view the comments given by your teacher. To view the comments left by your teacher for a Google-attached File, click here [hyperlink student/Integration/AboutGoogle.html]</li>
 </ol>
-<p><img src="/images/1Student/As-TeacherComments.png"></p>
+<p><img style="width: 50%;" src="/images/1Student/As-TeacherComments.png"></p>
 <p><u>Note</u>: If enabled by your teacher, you will receive a notification that feedback has been given on your Assignment.</p>
-<p><img src="/images/1Student/As-TeacherComments1.png"></p>
+<p><img style="width: 50%;" src="/images/1Student/As-TeacherComments1.png"></p>
 <h2 id="respond-to-teacher-comments">Respond to Teacher Comments</h2>
 <hr>
 <ol>
