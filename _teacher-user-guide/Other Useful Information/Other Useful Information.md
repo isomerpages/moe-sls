@@ -9,7 +9,7 @@ third_nav_title: Other Useful Information
 
 <details><summary><h4>Are there additional resources for me to self-help?</h4></summary>
 <ul>
-  <li><a target="_blank" href="https://www.notion.so/Downloadable-Resources-to-be-updated-directly-on-HTML-812f725dc5b74cd9b51077968a2cef6f">Downloadable Resources</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/other-useful-information/downloadable-resources/">Downloadable Resources</a></li>
   <li><a target="_blank" href="https://www.notion.so/Glossary-of-Terms-Updated-a16e2e5fd1e44252927d7f7c7e9b10c7">Glossary of Terms (Updated)</a></li>
 </ul>
 </details>
