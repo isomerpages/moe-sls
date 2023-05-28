@@ -9,7 +9,7 @@ third_nav_title: Self Study
 <hr>
 <ol>
 <li>You can access Notes from within a Lesson. Expand the Annotation Drawer by clicking <strong>Notepad</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Note.svg">.</li>
-<li>To leave or view a comment, click the <strong>Comment</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Comment.svg"> on a Notes Card. <img src="/images/1Student/SS-Notes.png"></li>
+<li>To leave or view a comment, click the <strong>Comment</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Comment.svg"> on a Notes Card. <img style="width: 50%;" src="/images/1Student/SS-Notes.png"></li>
 <li><p>If commenting has been turned on, click <strong>Add</strong> and type your desired text.</p>
 <p> <img src="/images/1Student/SS-Notes6.png"></p>
 </li>
@@ -32,7 +32,7 @@ third_nav_title: Self Study
 <ol>
 <li>You may edit comments that you have left on your own Annotation Notes or a teacher's Annotation Notes (if commenting permission has been granted).</li>
 <li><p>On the Note card, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Edit</strong>. </p>
-<p> <img src="/images/1Student/SS-Notes2.png"></p>
+<p> <img style="width: 50%;" src="/images/1Student/SS-Notes2.png"></p>
 </li>
 <li><p>To edit a comment you have left in your Teacher’s Annotation Notes, click the <strong>Comment</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Comment.svg">. Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) next to your comment and select <strong>Edit</strong>.<img src="/images/1Student/SS-Notes3.png"></p>
 </li>
@@ -42,7 +42,7 @@ third_nav_title: Self Study
 <p>You may delete a comment created by you on your Annotation Note card.</p>
 <ol>
 <li><p>On the Note card, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Delete</strong>. </p>
-<p> <img src="/images/1Student/SS-Notes4.png"></p>
+<p> <img style="width: 50%;" src="/images/1Student/SS-Notes4.png"></p>
 </li>
 <li><p>To delete a comment created by you in your teacher’s Annotation Notes, click the <strong>Comment</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Comment.svg">. Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) next to your Comment and select <strong>Delete</strong>. <img src="/images/1Student/SS-Notes5.png"></p>
 </li>
