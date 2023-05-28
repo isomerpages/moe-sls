@@ -11,11 +11,11 @@ third_nav_title: Collaborate
 <details>
  <summary><h4>How to use the Class Group Forum?</h4></summary>
 <ul>
-    <li><a target="_blank" href="#">About the Forum</a></li>
-    <li><a target="_blank" href="#">(1a) Add a Topic (New)</a></li>
-    <li><a target="_blank" href="#">(1b) Add a Poll</a></li>
-    <li><a target="_blank" href="#">(2) Change Forum Settings</a></li>
-    <li><a target="_blank" href="#">(3) Post and Comment in the Forum</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/about-the-forum/">About the Forum</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-topic/">(1a) Add a Topic (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-poll/">(1b) Add a Poll</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/change-forum-settings/">(2) Change Forum Settings</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/post-and-comment-in-the-forum/">(3) Post and Comment in the Forum</a></li>
   </ul>
 </details>
 
@@ -24,8 +24,8 @@ third_nav_title: Collaborate
 <details>
  <summary><h4>How to create Team Activities?</h4></summary>
  <ul>
-    <li><a target="_blank" href="#">(1) Create Team Activities (New)</a></li>
-    <li><a target="_blank" href="#">(2) Create Teams</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/create-team-activities/">(1) Create Team Activities (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/create-teams/">(2) Create Teams</a></li>
   </ul>
 </details>
 <br>
@@ -33,10 +33,10 @@ third_nav_title: Collaborate
 <details>
  <summary><h4>How can students collaborate in SLS?</h4></summary>
 <ul>
-    <li><a target="_blank" href="#">Add an Interactive Thinking Tool</a></li>
-    <li><a target="_blank" href="#">Add a Poll</a></li>
-    <li><a target="_blank" href="#">Add a Discussion (New)</a></li>
-    <li><a target="_blank" href="#">Attach Google Files</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-an-interactive-thinking-tool/">Add an Interactive Thinking Tool</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-poll2">Add a Poll</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-discussion/">Add a Discussion (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/attach-google-files/">Attach Google Files</a></li>
   </ul>
 </details>
 <br>
@@ -44,7 +44,7 @@ third_nav_title: Collaborate
 <details>
  <summary><h4>How can teachers collaborate in SLS?</h4></summary>
 <ul>
-    <li><a target="_blank" href="#">Share a Lesson</a></li>
-    <li><a target="_blank" href="#">Access a Shared Lesson</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/share-a-lesson/">Share a Lesson</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/access-a-shared-lesson/">Access a Shared Lesson</a></li>
   </ul>
 </details>
