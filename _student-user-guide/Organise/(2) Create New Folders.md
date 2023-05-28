@@ -23,5 +23,5 @@ third_nav_title: Organise
 
 <p><img src="/images/1Student/O-MultipleFolders.png"></p>
 
-<strong>Did You Know?</strong>
+<u>Did You Know</u>:
 <p>By default, the resources in My Drive are sorted by folders, followed by files, based on the latest modified date.</p>
