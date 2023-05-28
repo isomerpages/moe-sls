@@ -9,19 +9,19 @@ third_nav_title: Author
 <br>
 <img style="width: 100%;" src="/images/2Teacher/Flow-Author.png">
 <details><summary><h4>1. How to create Lessons?</h4></summary>
-<a href="/teacher-user-guide/author-author/createlessons/" target="_blank">Create Lessons (New)</a>
+<a href="/teacher-user-guide/author/create-new-lessons/" target="_blank">Create Lessons (New)</a>
 
 <p>1. Activities and Templates</p>	
 <ul>
-<li><a href="/teacher-user-guide/author-author/addtemplates/" target="_blank">Add New using Templates</a></li>
-<li><a href="/teacher-user-guide/author-author/addactivities/" target="_blank">Add New Activities &amp; Sections (Enhanced)</a></li>
-<li><a href="/teacher-user-guide/author-author/addactivities/" target="_blank">Add Existing From Library &amp; Starred Resources</a></li>
-<li><a href="/teacher-user-guide/author-author/addactivities/" target="_blank">Add Introduction</a></li>
+<li><a href="/teacher-user-guide/author/add-new-using-templates/" target="_blank">Add New using Templates</a></li>
+<li><a href="/teacher-user-guide/author/add-new-activities-and-sections/" target="_blank">Add New Activities &amp; Sections (Enhanced)</a></li>
+<li><a href="/teacher-user-guide/author/add-existing-from-library-and-starred-resources/" target="_blank">Add Existing From Library &amp; Starred Resources</a></li>
+<li><a href="/teacher-user-guide/author/add-introduction/" target="_blank">Add Introduction</a></li>
 </ul>
 
 <p>2. Add Components</p>	
 <ul>
-<li><a href="/teacher-user-guide/author-author/addedit/" target="_blank">Add Components (Enhanced)</a></li>
+<li><a href="/teacher-user-guide/author/add-components/" target="_blank">Add Components (Enhanced)</a></li>
 <li><a href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/" target="_blank">Upload Question and Test Interoperability (QTI) Files</a></li>
 <li><a href="/teacher-user-guide/author/add-multiple-choice-questions/" target="_blank">Add Multiple-Choice Questions</a></li>
 <li><a href="/teacher-user-guide/author/add-fill-in-the-blanks-questions/" target="_blank">Add Fill-in-the-Blank Questions</a></li>
