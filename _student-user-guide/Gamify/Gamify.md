@@ -11,7 +11,7 @@ third_nav_title: Gamify
 
 <details><summary><h4>How to attempt gamified resources?</h4></summary>
 <ul>
-<li><a target="_blank" href="#">Attempt a Gamified Lesson</a></li>
+<li><a target="_blank" href="/student-user-guide/gamify/attempt-a-gamified-lesson/">Attempt a Gamified Lesson</a></li>
     </ul>
   </details>
 	
@@ -19,6 +19,6 @@ third_nav_title: Gamify
 
 <details><summary><h4>Where to find game Leaderboard?</h4></summary>
 <ul>
-<li><a target="_blank" href="#">Check Progress on Leaderboard</a></li>
+<li><a target="_blank" href="/student-user-guide/gamify/check-progress-on-leaderboard/">Check Progress on Leaderboard</a></li>
     </ul>
   </details>
