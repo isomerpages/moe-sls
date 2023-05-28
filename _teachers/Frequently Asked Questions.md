@@ -47,7 +47,7 @@ description: ""
 <tr><td>ChromeOS 110 and later</td><td>Google Chrome 110 and later</td></tr></tbody></table>
 <p>If you are having trouble even though your browser meets the above requirements, you can find self-help steps on the <a target="_blank" href="../user-guide/vle/logintroubleshooting/index.html">SLS Troubleshooting page</a>.</p>
 <li><strong>Who can users contact for technical support?</strong>
-<p>For assistance on login and browser issues, users are advised to refer to the <a target="_blank" href="../user-guide/vle/logintroubleshooting/index.html">SLS Troubleshooting page</a>.</p>
+<p>For assistance on login and browser issues, users are advised to refer to the <a target="_blank" href="/login-troubleshooting/authentication/index/">SLS Troubleshooting page</a>.</p>
 </li>
 <li><p><strong>Will students need additional hardware / internet subscription to access the SLS?</strong></p>
 <p> SLS is web based and can be accessed using most computing devices that are connected to the internet, without requiring any additional hardware.</p>
@@ -57,7 +57,7 @@ description: ""
 <ol>
 <li><p><strong>What can students do if they forget their passwords?</strong></p>
 <p> For Students:</p>
-<p> Students can go to the <a target="_blank" href="../user-guide/vle/logintroubleshooting/index.html">SLS Troubleshooting page</a> on “Login Issues” for self-help tips</p>
+<p> Students can go to the <a target="_blank" href="/login-troubleshooting/authentication/index/">SLS Troubleshooting page</a> on “Login Issues” for self-help tips</p>
 <p> There are steps on this page to guide students on what to do if they have forgotten their username, password, or if their account has been locked.</p>
 <p> Here is a poster for students on how to troubleshoot login issues.</p>
 </li>
@@ -69,7 +69,7 @@ description: ""
 <p> The security questions provided are fixed but students can log in to change their answers to the security questions.</p>
 </li>
 <li><p><strong>What can students do if their accounts are locked ?</strong><br><br>
-Students can call their <a target="_blank" href="../user-guide/vle/logintroubleshooting/LoginTroubleshooting/SchoolBasedHelpline.html">School-Based Helpline</a> or the SLS Helpdesk (see below) to unlock their SLS accounts.</p>
+Students can call their <a target="_blank" href="/login-troubleshooting/get-help/get-help-from-your-school/">School-Based Helpline</a> or the SLS Helpdesk (see below) to unlock their SLS accounts.</p>
 </li>
 </ol>
 <table><tbody><tr>
