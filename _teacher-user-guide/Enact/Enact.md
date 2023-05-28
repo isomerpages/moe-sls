@@ -11,6 +11,6 @@ third_nav_title: Enact
 <details>
  <summary><h4>How to manage Activity pacing?</h4></summary>
 <ul>
-<li><a target="_blank" href="#">Change Access to Activities</a></li>
+<li><a target="_blank" href="/teacher-user-guide/enact/change-access-to-activities/">Change Access to Activities</a></li>
 </ul>
 </details>
