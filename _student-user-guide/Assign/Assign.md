@@ -9,9 +9,9 @@ third_nav_title: Assign
 
 <img style="width: 100%;" src="/images/1Student/Flow-Assign.png">
 
-<a target="_blank" href="#">About Assignments</a>
+<a target="_blank" href="/student-user-guide/assign/about-assignments/">About Assignments</a>
 
 <details><summary><h4>How to view Assignments?</h4></summary>
 <ul>
-<li><a target="_blank" href="#">Access Assignments</a></li></ul>
+<li><a target="_blank" href="/student-user-guide/assign/access-assignments/">Access Assignments</a></li></ul>
   </details>
