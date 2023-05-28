@@ -26,7 +26,7 @@ third_nav_title: Organise
 </li>
 </ul>
 </li>
-<li><p>From within a Class Group, you are able to pin the Class Group by clicking the <strong>Pin</strong> icon [insert icon]. </p>
+<li><p>From within a Class Group, you are able to pin the Class Group by clicking the <strong>Pin</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pin24.svg">. </p>
 </li>
 <li>Pinning a Class Group allows quick access to the Class Group. Below is a list of interactions that take place when a Class Group is pinned:<ul>
 <li>Pinned Class Groups will appear first under the Class Groups tab on the homepage.</li>
