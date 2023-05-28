@@ -10,7 +10,7 @@ third_nav_title: Collaborate
 <p> <u>Note</u>: You may only edit polls that were created by you.</p>
 </li>
 <li><p>Click <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Edit</strong>.</p>
-<p><img src="/images/1Student/CO-EditPoll1.png"></p>
+<p><img style="width: 50%;" src="/images/1Student/CO-EditPoll1.png"></p>
 </li>
 <li><p>Click <strong>Save</strong> to save your changes or <strong>X</strong> to discard your changes.</p>
 </li>
