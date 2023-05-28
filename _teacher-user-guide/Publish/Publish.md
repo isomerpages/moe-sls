@@ -4,18 +4,15 @@ permalink: /teacher-user-guide/publish/index/
 description: ""
 third_nav_title: Publish
 ---
-<h1>Track Progress</h1>
-<p>Use SLS to track and compare student progress within and across lessons and assignments.</p>
+<h1>Publish</h1>
+<p>Use SLS to publish resources to make it available and discoverable to teachers and students.</p>
 
-<img src="/images/2Teacher/Flow-TrackProgress.png">
+<img src="/images/2Teacher/Flow-Publish.png">
 
 <details>
- <summary><h4>How to monitor student’s Learning Progress?</h4></summary>
+ <summary><h4>How to submit Lessons to Community Gallery?</h4></summary>
 <ul>
-    <li><a target="_blank" href="#">(1) Access Learning Progress</a></li>
-    <li><a target="_blank" href="#">(2a) View by Topic</a></li>
-    <li><a target="_blank" href="#">(2b) View by Month</a></li>
-    <li><a target="_blank" href="#">(2c) View by Student</a></li>
-    <li><a target="_blank" href="#">View Excluded Questions</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/publish/submit-lessons/">(1) Submit Lessons</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/publish/copyright-guidelines-for-submission/">(2) Copyright Guidelines for Submission</a></li>
   </ul>
 </details>
