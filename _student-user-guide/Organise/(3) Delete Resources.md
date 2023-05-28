@@ -15,7 +15,7 @@ third_nav_title: Organise
   <li>Alternatively, you can click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and click <strong>Move to Trash</strong> to delete the resource individually.</li>
   <li>To delete multiple Resources, select the checkbox on the left and click <strong>Move to Trash</strong>.</li>
 <img src="/images/1Student/O-MoveToTrash.png">
-  <li>To restore a Resource that was deleted by accident, click <strong>Restore</strong> from the Trash tab [hyperlink page].</li>
+  <li>To restore a Resource that was deleted by accident, click <strong>Restore</strong> from the Trash tab.</li>
 </ol>
 
 <h2>Delete Resources Permanently</h2>
