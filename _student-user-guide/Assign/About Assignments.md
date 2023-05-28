@@ -46,4 +46,4 @@ third_nav_title: Assign
 </ul>
 <h3 id="optional-activities">Optional Activities</h3>
 <hr>
-<p>Some Activities may be indicated as “Optional” within an Assignment. Optional Activities can be identified through the [insert optional activity icon] icon in the Activity List. You do not need to complete them to gain a “Complete” status for the Assignment.</p>
+<p>Some Activities may be indicated as “Optional” within an Assignment. Optional Activities can be identified through the <img style="width:1rem; display: inline;" src="/images/Icons/ActivityOptional32.svg"> icon in the Activity List. You do not need to complete them to gain a “Complete” status for the Assignment.</p>
