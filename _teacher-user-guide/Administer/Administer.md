@@ -12,9 +12,9 @@ third_nav_title: Administer
  <summary><h4>How to manage student accounts?</h4></summary>
 <ul>
 	<p>Onboarding</p>
-  <li><a target="_blank" href="/teacher-user-guide/discover/about-resources/">Onboard New Students</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/administer/onboard-new-students/">Onboard New Students</a></li>
 	<p>Password Settings</p>
-  <li><a target="_blank" href="/teacher-user-guide/discover/communitygallery/">Reset Student Passwords for Classes</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-activities-from-resources/">Generate Two-Hour Temporary Password for Students</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/administer/reset-student-passwords-for-classes/">Reset Student Passwords for Classes</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/administer/generate-two-hour-temporary-password-for-students/">Generate Two-Hour Temporary Password for Students</a></li>
 </ul>
 </details>
