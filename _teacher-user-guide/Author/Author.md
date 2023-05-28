@@ -4,9 +4,9 @@ permalink: /teacher-user-guide/author/index/
 description: ""
 third_nav_title: Author
 ---
-## Author (Author)
+<h1>Author</h1>
+Use SLS to design lesson resources aligned to the e-pedagogical principles.
 
-* <a href="/teacher-user-guide/author-author/aboutlessons/" target="_blank">About Lessons (Enhanced)</a>
 
 ### How to create Lessons?
 * <a href="/teacher-user-guide/author-author/createlessons/" target="_blank">Create Lessons (New)</a>
