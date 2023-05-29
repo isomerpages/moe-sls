@@ -11,28 +11,26 @@ Looking for new ways to support your students’ learning? SLS features can enha
 
 <h2 id="feature-highlights">Feature Highlights</h2>
 <hr>
-<p><a href="/teachers/Feature-Highlights/r18posters/">2023 1H</a>
-<br><a href="/teachers/Feature-Highlights/r17posters/">2022 2H</a>
-<br><a href="/teachers/Feature-Highlights/r16posters/">2022 1H</a></p>
+<p><a href="/teachers/feature-highlights/2023-1h/">2023 1H</a>
+<br><a href="/teachers/feature-highlights/2022-2h/">2022 2H</a>
+<br><a href="/teachers/feature-highlights/2022-1h/">2022 1H</a>
+<br><a href="/teachers/feature-highlights/2021-2h/">2021 2H</a></p>
+
 <h2 id="build-the-sls-card-game">Build - The SLS Card Game</h2>
 <hr>
-<a href="/teachers/Build-The-SLS-Card-Game/Index/">Build - The SLS Card Game</a>
-<h2 id="user-guide">User Guide</h2>
-<hr>
-<p><a href="/teachers/user-guide-teachers/index/">User Guide (Teachers)</a>
-<br><a href="/teachers/user-guide-admin/index/">User Guide (Admin)</a>
-<br><a href="/login-troubleshooting/Login-Self-Help-for-Teachers/LoginMIMSTeacher/">User Guide (Login Troubleshooting)</a></p>
+<a href="/teachers/build-the-sls-card-game/index/">Build - The SLS Card Game</a>
 <h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
 <hr>
-<p><a href="/teachers/teacherfaqs/">SLS Access</a></p>
+<p><a href="/teachers/frequently-asked-questions/">SLS Access</a></p>
 <h2 id="sls-professional-development">SLS Professional Development</h2>
 <hr>
-<p><a href="/teachers/SLS-Professional-Development/tandlwithsls/">Teaching and Learning with SLS</a>
-<br><a href="/teachers/SLS-Professional-Development/epedonestop/">EPedagogy One Stop Site</a> (requires OPAL Login)</p>
+<p><a href="/teachers/sls-professional-development/teaching-and-learning-with-sls/">Teaching and Learning with SLS</a>
+<br><a href="/teachers/sls-professional-development/epedagogy-one-stop-site/">EPedagogy One Stop Site</a> (requires OPAL Login)
+<br><a href="/teachers/sls-professional-development/sgldc-livestreams/">SgLDC Livestreams</a></p>
 <h2 id="sls-professional-development">SLS Superhero Quiz</h2>
 <hr>
-<p><a href="/teachers/SLS-Professional-Development/tandlwithsls/">SLS Superhero Quiz</a>
+<p><a href="/teachers/sls-superhero-quiz/index/">SLS Superhero Quiz</a>
 </p><h2 id="sls-professional-development">SLS Events</h2>
 <hr>
-<p><a href="/teachers/SLS-Professional-Development/tandlwithsls/">Events Calendar</a>
-<br><a href="/teachers/SLS-Professional-Development/epedonestop/">Friends of SLS</a></p>
+<p><a href="/teachers/sls-events/events-calendar/">Events Calendar</a>
+<br><a href="/teachers/sls-events/friends-of-sls/">Friends of SLS</a></p>
