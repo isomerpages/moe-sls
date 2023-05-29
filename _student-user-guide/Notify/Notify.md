@@ -7,7 +7,7 @@ third_nav_title: Notify
 <h1>Notify</h1>
 <p>Use SLS to receive notifications to follow up on Teaching &amp; Learning matters.</p>
 <br>
-<img style="width: 100%;" src="/images/1Student/Flow-Notify.png">
+<img style="width: 50%;" src="/images/1Student/Flow-Notify.png">
 <br>
 <a target="_blank" href="/student-user-guide/notify/about-notifications/">About Notifications (New)</a>
 
