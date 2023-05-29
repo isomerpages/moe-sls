@@ -20,7 +20,7 @@ third_nav_title: Assess
 <li>In a standalone question that is not part of a quiz, you can submit your response by clicking the <strong>Submit</strong> button. You can also choose <strong>Save as Draft</strong> if you would like to revisit this question again after you have visited other pages or logged out. Your response will be saved.</li>
 <li>In an Auto-Graded Quiz and a Teacher-Marked Quiz, you can only submit your response after attempting the last question.</li>
 </ol>
-<p><u>Did You Know?</u>:</p>
+<p><u>Did You Know</u>:</p>
 <ul>
 <li>If your teacher has set a recommended time, you will be able to see it below the Question Body.</li>
 <li>If enabled by your teacher, you may be allowed multiple tries to this question.</li>
