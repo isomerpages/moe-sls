@@ -49,6 +49,6 @@ Note: Selected questions will be added to the same level. (If you add parts a, b
 <li><p>Number of Tries - You may also set the number of tries allowed at the entire Multi-Part Question.</p>
 	<p><u>Note</u>: If your Multi-Part Question contains any Free-Response Question or Audio-Response Question, the default is one try.</p>
 </li>
-<li><p>Click here for adding questions in a Quiz.</p>
+<li><p>Click <a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">here</a> for adding questions in a Quiz.</p>
 </li>
 </ul>
