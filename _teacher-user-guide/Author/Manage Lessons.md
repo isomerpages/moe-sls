@@ -12,19 +12,19 @@ third_nav_title: Author
 <p>You can add custom prerequisites to individual Sections.</p>
 <p>A Lesson can be assigned to students as an Assignment.</p>
 <p>The Lesson Plan will provide an overview of the entire lesson, which includes the number of Sections and Activities.</p>
-<p>You can gamify your Lessons by introducing game-based elements. These game-based elements include Experience Points (XP) and Levels, Game Stories, and Achievements. Click here to find out more.</p>
+<p>You can gamify your Lessons by introducing game-based elements. These game-based elements include Experience Points (XP) and Levels, Game Stories, and Achievements. Click <a target="_blank" href="/teacher-user-guide/gamify/about-gamification-and-leaderboard/">here</a> to find out more.</p>
 <h2 id="lesson-view-page">Lesson View page</h2>
 <hr>
 <p>From the right menu of the Lesson View page, you can </p>
 <ol>
-<li>View Gamification Settings [hyperlink teacher/LessonManagement/ManageGamification.html]</li>
-<li>Preview as Student [hyperlink teacher/LessonManagement/CreateLesson.html]</li>
-<li>Copy to My Drive [hyperlink teacher/LessonManagement/CopyLesson.html]</li>
-<li>Set as Template [hyperlink teacher/MyDrive/MyTemplates.html]</li>
-<li>Share with Teachers [hyperlink teacher/LessonManagement/ShareLesson.html]</li>
-<li>Add to Class Group Resources [hyperlink UG page teacher/ClassGroupManagement/AboutGroupResources.html]</li>
-<li>Check for Submission (MOE Library) - for CRDOs only [hyperlink admin/CRDO/MOELibrary.html]</li>
-<li>Check for Submission (Community Gallery) [hyperlink/LessonResources/SubmitLessons.html]</li>
-<li>View as Print-friendly Worksheet [hyperlink teacher/LessonResources/PrintWorksheet.html]</li>
-<li>Move to Trash [hyperlink teacher/LessonManagement/MoveToTrash.html]</li>
+<li><a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">View Gamification Settings</a></li>
+<li><a target="_blank" href="URL">Preview as Student</a> [hyperlink teacher/LessonManagement/CreateLesson.html]</li>
+<li><a target="_blank" href="URL">Copy to My Drive</a> [hyperlink teacher/LessonManagement/CopyLesson.html]</li>
+	<li><a target="_blank" href="/teacher-user-guide/customise/manage-my-templates/">Set as Template</a></li>
+<li><a target="_blank" href="/teacher-user-guide/collaborate/share-a-lesson/">Share with Teachers</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/manage-class-group-resources/">Add to Class Group Resources</a></li>
+<li><a target="_blank" href="/teacher-user-guide/assign/assign-moe-library-lessons/">Check for Submission (MOE Library) - for CRDOs only</a></li>
+<li><a target="_blank" href="/teacher-user-guide/assign/assign-community-gallery-lessons/">Check for Submission (Community Gallery)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/discover/view-print-friendly-worksheet/">View as Print-friendly Worksheet</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/move-lessons-to-trash/">Move to Trash</a></li>
 </ol>
