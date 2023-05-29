@@ -8,7 +8,7 @@ third_nav_title: Differentiate
 <h2 id="-edit-a-subgroup-">Edit a Subgroup</h2>
 <hr>
 <ol>
-<li>On the Subgroup List page, click on the <strong>Subgroup</strong> <strong>Card</strong> that you wish to edit.</li>
+<li>On the Subgroup List page, click on the <strong>Subgroup</strong> card that you wish to edit.</li>
 <li><p>You may edit the following:</p>
 <ul>
 <li>the Subgroup Name</li>
@@ -23,7 +23,7 @@ third_nav_title: Differentiate
 <h2 id="-delete-a-subgroup-">Delete a Subgroup</h2>
 <hr>
 <ol>
-<li>To delete a Subgroup. Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon).</li>
+<li>To delete a Subgroup, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon).</li>
 <li><p>Click <strong>Delete</strong>.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/DI-EditSubgroups2.png"></p>
 </li>
