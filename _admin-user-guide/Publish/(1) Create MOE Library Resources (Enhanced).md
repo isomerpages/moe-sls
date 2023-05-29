@@ -8,7 +8,7 @@ third_nav_title: Publish
 <p>You can refer to the following User Guide pages to find out how you can: </p>
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/author/create-new-lessons/">create a Lesson</a></li>
-<li><a target="_blank" href="/teacher-user-guide/customise/manage-my-templates/">use a Lesson or Section&nbsp;Template</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-new-using-templates/">use a Lesson or Section&nbsp;Template</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/add-lesson-tags/">tag a Lesson </a></li>
 <li><a target="_blank" href="/teacher-user-guide/gamify/about-gamification-and-leaderboard/">gamify a Lesson</a> </li>
 <li><a target="_blank" href="/teacher-user-guide/author/add-new-activities-and-sections">add Activities to a Lesson</a></li>
