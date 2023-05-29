@@ -41,7 +41,7 @@ third_nav_title: Notify
 <p>You can view the twelve latest Notifications by clicking the <strong>Bell</strong> icon on the header. You will be able to view, flag, and unflag a Notification from the Notification panel.</p>
 <h2>Turn On/Off Notifications (New)</h2>
 <hr>
-<ol><li>From the Notifications page or Notifications tab (accessed from a Class Group), you can turn on <a href="[hyperlink setting up email notifications]">Email Notifications</a> for a particular category of Notifications from Notification Cards.</li>
+<ol><li>From the Notifications page or Notifications tab (accessed from a Class Group), you can turn on <a target="_blank" href="/student-user-guide/customise/set-email-notifications/">Email Notifications</a> for a particular category of Notifications from Notification Cards.</li>
 <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and followed by <strong>Turn On/Off Notifications</strong>. <img src="/images/1Student/N-EmailNotifications.png"></li>
 <li>When Notifications are turned on, you will be able to receive them in the email you have indicated in SLS.</li>
 </ol>
