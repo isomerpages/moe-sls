@@ -24,17 +24,17 @@ third_nav_title: Assign
 <li><p><strong>Schedule</strong> - change Assignment Start and Due Date/Time. You can choose to send students a notification when the Assignment has started by selecting the checkbox beside <strong>Notify students assigned when assignment starts</strong>.</p>
 	<p><u>Note</u>: You can change the Start and Due Dates of individual Sections within a Lesson if the Assignment has not started.</p>
 </li>
-<li><p><strong>Activity Assignment</strong> - change the accessibility to Activities and manage Teams [hyperlink teacher/AssignmentFeedback/CreateTeams.html]. Students will not be able to access the activity if the Student Access toggle is switched off.</p>
+<li><p><strong>Activity Assignment</strong> - change the accessibility to Activities and <a target="_blank" href="/teacher-user-guide/collaborate/create-teams/">manage Teams</a>. Students will not be able to access the activity if the Student Access toggle is switched off.</p>
 </li>
-<li><p><strong>Gamification Settings (Only for Lessons with Gamification toggled on)</strong> - Allow students to view individual or team leaderboards in a gamified Lesson by selecting the checkbox beside the respective options. You can also edit <strong>Game Teams</strong> [hyperlink teacher/LessonManagement/GameTeams.html].</p>
+<li><p><strong>Gamification Settings (Only for Lessons with Gamification toggled on)</strong> - Allow students to view individual or team leaderboards in a gamified Lesson by selecting the checkbox beside the respective options. You can also edit <strong><a target="_blank" href="/teacher-user-guide/gamify/create-game-teams/">Game Teams</a></strong></p>
 	<p><u>Note</u>: Students below the 50th percentile will be hidden on the Student Leaderboard.</p>
 </li>
 <li><p><strong>Others</strong>:</p>
 <ul>
-<li><p>Assessment Settings - Turn the Assignment into an Assessment by selecting the checkbox beside <strong>Set as Assessment</strong>.</p>
+<li><p>Assessment Settings - Turn the Assignment into an Assessment by selecting the checkbox beside <strong><a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">Set as Assessment</a></strong>.</p>
 <p><img style="width: 80%;" src="/images/2Teacher/AS-ManageAssignment1.png"></p>
 </li>
-<li><p>Sharing Permissions - Grant permission to students to share their Lesson by selecting the checkbox beside <strong>Allow students to share Assignments</strong>.</p>
+<li><p>Sharing Permissions - Grant permission to students to share their Lesson by selecting the checkbox beside <strong><a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">Allow students to share Assignments</a></strong>.</p>
 </li>
 </ul>
 </li>
