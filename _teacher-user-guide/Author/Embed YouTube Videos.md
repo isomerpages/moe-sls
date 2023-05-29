@@ -18,7 +18,7 @@ third_nav_title: Author
 <li>Play the video in the <strong>Preview</strong> section. When the video reaches the desired start time, click on <strong>Capture Start</strong>. The text box will be updated with the current position of the video along the timeline. You can do the same with <strong>Capture End</strong> to set an end time.</li>
 </ul>
 </li>
-<li><p>Click on the <strong>Save</strong> icon [icon image].</p>
+<li><p>Click on the <strong>Save</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg">.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/AU-EmbedYT1.png"></p>
 	<p><u>Note</u>: The YouTube video will start and end as set. However, students will still be able to use the video seek bar to move before or after the set timing.</p>
 </li>
