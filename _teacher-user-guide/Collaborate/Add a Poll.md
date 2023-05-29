@@ -19,9 +19,9 @@ third_nav_title: Collaborate
 <li>To edit a Poll, hover your mouse over the Poll and click the component, or the <strong>Pencil</strong> icon </li>
 <li>To delete your Poll, click the <strong>Delete</strong> icon.</li>
 </ol>
-<p><img style="width: 50%;" src="/images/2Teacher/C-PollEdit.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/C-PollEdit.png"></p>
 <p><u>Note</u>: You can change your Poll Type from within the Poll component by selecting the appropriate <strong>Poll Type</strong> under the dropdown list.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/C-PollComponent.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/C-PollComponent.png"></p>
 <h2 id="-preview-as-student-">Preview as Student</h2>
 <hr>
 <p>When you Preview as Student or assign a Poll to students, students will be able to submit their votes by selecting a radio button or multiple checkboxes (if multiple answers are allowed).</p>
