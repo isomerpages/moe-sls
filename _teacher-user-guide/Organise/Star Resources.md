@@ -35,7 +35,7 @@ third_nav_title: Organise
 <li>Media Objects by clicking the <strong>Star</strong> icon on the Media Object <img style="width: 50%;" src="/images/2Teacher/O-StarMediaObject.png"></li>
 </ul>
 
-<p><u>Note</u>: While Activities cannot be starred, Teachers can add Activities from a starred Lesson. Find out more <a target="_blank" href="/teacher-user-guide/organise/star-resources/">here</a>.</p>
+<p><u>Note</u>: While Activities cannot be starred, Teachers can add Activities from a starred Lesson. Find out more <a target="_blank" href="/teacher-user-guide/author/add-existing-from-library-and-starred-resources/">here</a>.</p>
 </li>
 </ol>
 
