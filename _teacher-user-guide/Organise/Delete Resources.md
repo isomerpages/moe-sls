@@ -15,7 +15,7 @@ third_nav_title: Organise
 <li>In the listing, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) followed by <strong>Move to Trash</strong>.</li>
 <li>To move multiple Resources to trash at once, select the checkboxes beside the Resource Title. Click <strong>Move to Trash</strong> through the header.</li>
 <li>You may also click <strong>Move to Trash</strong> after opening up a Lesson. From the Lesson View page, open the right menu and select <strong>Move to Trash</strong>.</li>
-<li>To restore a Resource that was deleted by accident, click <strong>Restore</strong> from the Trash tab <a href="hyperlink">page</a>.</li>
+<li>To restore a Resource that was deleted by accident, click <a target="_blank" href="/teacher-user-guide/organise/restore-resources-from-trash/">Restore from the Trash tab</a>.</li>
 </ol>
 
 <h2>Delete Resources Permanently</h2>
