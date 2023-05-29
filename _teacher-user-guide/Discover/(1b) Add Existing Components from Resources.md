@@ -97,7 +97,7 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
 <ol>
   <li>
     <p>When editing a Component allowing Rich Text, click the&nbsp;<strong>Add Media</strong>&nbsp;icon&nbsp;
-	<img style="width:1rem; display: inline;" src="/images/Icons/PaperClip.svg">.	
+	<img style="width:1.5rem; display: inline;" src="/images/Icons/PaperClip.svg">.	
   </p></li>
   <li>
     <p>Click&nbsp;<strong>Add File from Library</strong>&nbsp;or&nbsp;<strong>Add File from Starred Resources</strong>&nbsp;to add an existing media file or&nbsp;<strong>Upload File</strong>&nbsp;to upload a file from your device.</p>
