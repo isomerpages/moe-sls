@@ -8,7 +8,7 @@ collections:
       - Authentication/Password Reset Email.md
       - Authentication/Locked Account.md
       - Authentication/.keep
-      - Authentication/Log in with MIMS (Student).md
+      - Authentication/Log in with MIMS (New).md
       - Authentication/Reset SLS Password (Student).md
       - Authentication/Forgot SLS Username.md
       - Authentication/Unsuccessful Password Reset Attempts.md
