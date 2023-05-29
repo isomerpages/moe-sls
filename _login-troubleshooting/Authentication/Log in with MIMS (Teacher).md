@@ -27,4 +27,7 @@ third_nav_title: Authentication
 <p>If it is the first time you are logging in to SLS, please click on the link in the email that has been sent to you to activate your SLS account. You will be able to log in with MIMS only after you have activated your SLS account.</p>
 
 <h3 id="video-tutorial-updated-">Video Tutorial (Updated)</h3>
-<p><a href="https://youtu.be/Yhc_Jbos7w4">https://youtu.be/Yhc_Jbos7w4</a></p>
+<hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Navigation Authentication" src="https://www.youtube.com/embed/Yhc_Jbos7w4" height="100%" width="100%"></iframe>
+</div>
