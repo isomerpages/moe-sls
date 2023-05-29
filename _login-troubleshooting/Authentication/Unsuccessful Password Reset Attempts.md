@@ -29,6 +29,6 @@ third_nav_title: Authentication
 <p>If you still encounter problems resetting your password:</p>
 <ol>
 <li>Contact your subject teacher for help.</li>
-<li>Alternatively, please contact your <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/logintroubleshooting/LoginTroubleshooting/SchoolBasedHelpline.html">School-Based Helpline</a> for help.</li>
+<li>Alternatively, please contact your <a target="_blank" href="/login-troubleshooting/get-help/get-help-from-your-school/">School-Based Helpline</a> for help.</li>
 <li>Contact the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a> or call 6702 6513.</li>
 </ol>
