@@ -4,28 +4,17 @@ permalink: /teachers/build-the-sls-card-game/background/
 description: ""
 third_nav_title: "Build: the SLS Card Game"
 ---
-![](/images/Media/SLS%20Build%20(Category)/banner2.png)
-# Background
-
-Introduction
-------------
-
----
-
- Elevate your SLS experience through a card game! **Build** guides players through the SLS lesson creation process in a fun and competitive way, and elicits conversations on e-Pedagogy. Teachers will learn about the various components in SLS and how to put them together to develop meaningful and engaging learning experiences.
-
-Game Modes
-----------
-
----
-
-**Build** offers 3 game modes:
-
-![](/images/Media/SLS%20Build%20(Category)/3%20game%20modes.png)
-
- For more details, please refer to the rules for the respective game modes below
- 
- ## Rules
-[General Rules](/teachers/Build-The-SLS-Card-Game/generalrules/)
-<br>[Quick Build Mode](/teachers/Build-The-SLS-Card-Game/quickbuild/)
-<br>[Shared Build Mode](/teachers/Build-The-SLS-Card-Game/sharedbuild/)
+<img src="/images/SLS%20Build/banner2.png">
+<h1 id="background">Background</h1>
+<h2 id="introduction">Introduction</h2>
+<hr>
+<p> Elevate your SLS experience through a card game! <strong>Build</strong> guides players through the SLS lesson creation process in a fun and competitive way, and elicits conversations on e-Pedagogy. Teachers will learn about the various components in SLS and how to put them together to develop meaningful and engaging learning experiences.</p>
+<h2 id="game-modes">Game Modes</h2>
+<hr>
+<p><strong>Build</strong> offers 3 game modes:</p>
+<p><img alt="" src="/images/SLS%20Build/3%20game%20modes.png"></p>
+<p> For more details, please refer to the rules for the respective game modes below</p>
+<h2 id="rules">Rules</h2>
+<p><a target="_blank" href="/teachers/build-the-sls-card-game/general-rules/">General Rules</a>
+<br><a target="_blank" href="/teachers/build-the-sls-card-game/quick-build-mode/">Quick Build Mode</a>
+<br><a target="_blank" href="/teachers/build-the-sls-card-game/shared-build-mode/">Shared Build Mode</a></p>
