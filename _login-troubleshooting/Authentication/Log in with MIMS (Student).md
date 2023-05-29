@@ -31,4 +31,7 @@ third_nav_title: Authentication
 <li>Click Login.</li>
 </ol>
 <h3 id="video-tutorial-updated-">Video Tutorial (Updated)</h3>
-<p><a href="https://youtu.be/Yhc_Jbos7w4">https://youtu.be/Yhc_Jbos7w4</a></p>
+<hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Navigation Authentication" src="https://www.youtube.com/embed/Yhc_Jbos7w4" height="100%" width="100%"></iframe>
+</div>
