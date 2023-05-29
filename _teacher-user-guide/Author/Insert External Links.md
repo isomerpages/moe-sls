@@ -24,4 +24,4 @@ third_nav_title: Author
 </ol>
 <h2 id="edit-remove-link-enhanced-">Edit/Remove Link (Enhanced)</h2>
 <hr>
-<p>You can edit or remove a link by clicking on the linked text in blue and choosing either the <strong>Pencil</strong> icon [insert icon] or the <strong>Remove</strong> <strong>Hyperlink</strong> icon [insert icon].</p>
+<p>You can edit or remove a link by clicking on the linked text in blue and choosing either the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> or the <strong>Remove</strong> <strong>Hyperlink</strong> icon [insert icon].</p>
