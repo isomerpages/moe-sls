@@ -17,7 +17,7 @@ third_nav_title: Plan
     </li>
 <img src="/images/1Student/P-ClassGroupPlanner.png">
 	
-<li>From steps A and B above, select the <strong>Class Group</strong> that you wish to view. Click <strong>Apply</strong> to proceed. The total number of Class Groups that appear are indicated in parenthesis.<br><br><u>Note:</u> To make certain class groups appear as default, you can pin them in the Class Groups page. You may refer to <a href="https://www.notion.so/60046a9563b64c429ca5b09452cfbd78">Pin Class Groups</a> for how to do so.</li>
+<li>From steps A and B above, select the <strong>Class Group</strong> that you wish to view. Click <strong>Apply</strong> to proceed. The total number of Class Groups that appear are indicated in parenthesis.<br><br><u>Note:</u> To make certain class groups appear as default, you can pin them in the Class Groups page. You may refer to <a target="_blank" href="/student-user-guide/organise/access-class-groups/">Pin Class Groups</a> for how to do so.</li>
     <li>The calendar may be viewed by Day, Week or Month. Click the relevant tab for your preferred view.</li>
     <li>To view other dates, click on the <strong>Left</strong> or <strong>Right arrows</strong> to see the past or future respectively.</li>
     <li>To return to the current date, click <strong>Today</strong>.</li>
