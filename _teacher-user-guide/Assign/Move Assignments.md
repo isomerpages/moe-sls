@@ -10,7 +10,7 @@ third_nav_title: Assign
 <p>You can Move an Assignment from one Class Group to another. This is useful for teachers who have assigned year-end Assignments for Class Groups they will be teaching the following year. Teachers and Students will no longer need to access past year assignments from the Past tab in the Class Groups page.</p>
 <p>There are 3 ways to move an Assignment:</p>
 <ol>
-<li>From homepage under the <strong>Assignments</strong> tab - Click on the Assignment Card. Open the right menu and select <strong>Move</strong>. The Move Assignment subpage will appear.</li>
+<li>From homepage under the <strong>Assignments</strong> tab - Click the Assignment card. Open the right menu and select <strong>Move</strong>. The Move Assignment subpage will appear.</li>
 <li>From <strong>Assignments</strong> in the left menu - Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Assignment Card and click <strong>Move Assignment.</strong> The Move Assignment subpage will appear.</li>
 <li>From within an Assignment - Open the right menu and select <strong>Move</strong>. The Move Assignment subpage will appear.</li>
 </ol>
