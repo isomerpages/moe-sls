@@ -16,7 +16,7 @@ third_nav_title: Assess
 <p><img src="/images/1Student/As-ARQ.png"></p>
 </li>
 <li><p>You can click the <strong>Play</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Play.svg"> to listen to your recording to make sure that it is recorded successfully. Click the <strong>Download</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Download.svg"> to save your recording on your local hard drive. </p>
-<p> <u>Note</u>: Audio recordings can also be downloaded when it is still being processed. [image updated]</p>
+<p> <u>Note</u>: Audio recordings can also be downloaded when it is still being processed.</p>
 </li>
 <li><p>You are allowed to attach only 1 recording at one time. You can delete the recording and redo a new recording before you submit it.</p>
 </li>
@@ -25,7 +25,7 @@ third_nav_title: Assess
 <li>Once you submit your response, you will be able to see the correct answer if your teacher has provided it.</li>
 <li>In an Auto-Graded Quiz and a Teacher-Marked Quiz, you can only submit your response after attempting the last question.</li>
 </ol>
-<p><u>Did You Know?</u>:</p>
+<p><u>Did You Know</u>:</p>
 <ul>
 <li>If your teacher has set a recommended time, you will be able to see it below the Question Body.</li>
 <li>If enabled by your teacher, you may be allowed multiple tries to this question.</li>
