@@ -53,7 +53,7 @@ third_nav_title: Assess
 </ol>
 <h2 id="-submit-a-teacher-marked-quiz-for-student-">Submit a Teacher-Marked Quiz for Student</h2>
 <hr>
-<p>When a student does not submit a Quiz, you can submit the Quiz on behalf of the student. This is useful in cases where students perform a task outside of SLS and you are using SLS to monitor and provide feedback. This can also be coupled with the <a href="https://www.notion.so/Add-Rubrics-to-Audio-and-Free-Response-Questions-f17e2994c5cc40d098e6653948fea491">Rubrics feature</a>.</p>
+<p>When a student does not submit a Quiz, you can submit the Quiz on behalf of the student. This is useful in cases where students perform a task outside of SLS and you are using SLS to monitor and provide feedback. This can also be coupled with the <a href="/teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/">Rubrics feature</a>.</p>
 <ol>
 <li>On the <strong>Monitor Assignment</strong> page, click on the name of the student to open the quiz.</li>
 <li>Proceed to the Quiz Completion page.</li>
