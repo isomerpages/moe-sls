@@ -23,7 +23,7 @@ third_nav_title: Assess
     <li><a target="_blank" href="/student-user-guide/assess/attempt-a-question-with-rubrics/">Attempt a Question with Rubrics</a></li>
     <li><a target="_blank" href="/student-user-guide/assess/attempt-a-team-quiz-and-activity/">Attempt a Team Quiz &amp; Activity</a></li>
     <li><a target="_blank" href="/student-user-guide/assign/attempt-google-attached-files/">Attempt Google-Attached Files</a></li>
-    <li><a target="_blank" href="/assess/complete-an-activity-and-section/">Complete an Activity &amp; Section</a></li>
+    <li><a target="_blank" href="/student-user-guide/assess/complete-an-activity-and-section/">Complete an Activity &amp; Section</a></li>
 	 <p>3. Use Rich Text</p>
    <li><a target="_blank" href="/student-user-guide/assess/formatting-and-paragraphing/">Formatting &amp; Paragraphing</a></li>
     <li><a target="_blank" href="/student-user-guide/assess/insert-tables/">Insert Tables</a></li>
