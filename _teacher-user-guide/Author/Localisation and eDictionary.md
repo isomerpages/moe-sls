@@ -13,8 +13,8 @@ third_nav_title: Author
 <h2 id="enable-mtl-localisation-and-e-dictionary">Enable MTL Localisation and E-Dictionary</h2>
 <hr>
 <ol>
-<li>In the Lesson Editor page, click on the Settings icon [icon image] to access Lesson Details. </li>
+<li>In the Lesson Editor page, click on the Settings icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> to access Lesson Details. </li>
 <p><img style="width: 50%;" src="/images/2Teacher/AU-Localisation1.png"></p>
 <li>Click the dropdown under <strong>Language Localisation</strong> and <strong>E-Dictionary</strong>, and select the relevant option. </li>
-<li>If there are no further changes, click on the <strong>Save</strong> icon [icon image].</li>
+<li>If there are no further changes, click on the <strong>Save</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg">.</li>
 </ol><img style="width: 50%;" src="/images/2Teacher/AU-Localisation2.png">
