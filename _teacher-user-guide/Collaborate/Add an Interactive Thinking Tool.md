@@ -20,11 +20,11 @@ third_nav_title: Collaborate
 <li>You can also edit the Question Body and include a Pre-populated Student Answer. </li>
 <li>After entering the details, click outside the ITT box to save your work.</li>
 <li>A preview of your ITT will be displayed. You may view the individual columns by selecting their respective tabs, or click <strong>View All</strong> to view all the columns.</li>
-<li>To hide the names of students, click the <strong>Settings</strong> icon on the ITT Card. By default, the names of students will be visible. To hide the names of students, select the checkbox “Hide Names”. Click <strong>Save</strong> followed by <strong>X</strong>.</li>
+<li>To hide the names of students, click the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings2.svg"> on the ITT Card. By default, the names of students will be visible. To hide the names of students, select the checkbox “Hide Names”. Click <strong>Save</strong> followed by <strong>X</strong>.</li>
 <li>When students' names are hidden, they will appear as Anonymous on the Interaction Board. Students will only see their own names.</li>
 <li>To edit an ITT, hover your mouse over the ITT and click the component, or the <strong>Pencil</strong> icon.</li>
 <li><p>To delete your ITT, click the <strong>Delete</strong> icon.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/C-ITTComponent.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/C-ITTComponent.png"></p>
 </li>
 </ol>
 <h2 id="-preview-as-student-">Preview as Student</h2>
