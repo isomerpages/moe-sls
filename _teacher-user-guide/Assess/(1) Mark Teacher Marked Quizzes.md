@@ -22,7 +22,7 @@ third_nav_title: Assess
 <li><p>Click a student’s name to navigate within the student's Assignment to begin marking. </p>
 </li>
 <li>Alternatively, click the Question number in the Heatmap to View All Responses. You can also click on a student’s name to navigate to the particular Activity for the entire Class Group, starting with the student you clicked.</li>
-<li>You can give individual or multiple students feedback on the following questions:<ul>
+<li>You can give <a target="_blank" href="URL">individual or multiple students feedback</a> on the following questions:<ul>
 <li>Free-Response Question</li>
 <li>Audio-Response Question</li>
 <li>File Submission Question</li>
@@ -37,7 +37,7 @@ third_nav_title: Assess
 </li>
 <li><p>Under the <strong>Teacher Comments</strong> tab, click <strong>Add</strong>.</p>
 </li>
-<li>Enter your Comments in the Rich Text Editor. If you wish to attach a file from your Google Drive, click here [hyperlink teacher/Integration/AboutGoogle.html]. </li>
+<li>Enter your Comments in the Rich Text Editor. If you wish to attach a file from your Google Drive, click <a target="_blank" href="/teacher-user-guide/collaborate/attach-google-files/">here</a>. </li>
 <li>Click <strong>Post</strong> to proceed.</li>
 <li><p>Enter the marks for each question and click <strong>Save</strong>.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/As-TeacherMarkedQuiz2.png"></p>
@@ -45,10 +45,10 @@ third_nav_title: Assess
 </li>
 <li><p>If you are in an individual student's Assignment, click the <strong>left/right</strong> arrows at the top to navigate to the next student.</p>
 </li>
-<li><p>Additionally, you can annotate (underline) your student's responses to give specific Comments. </p>
+<li><p>Additionally, you can <a target="_blank" href="/teacher-user-guide/assess/annotate-underline-students-responses/">annotate</a> (underline) your student's responses to give specific Comments. </p>
 <p><img style="width: 50%;" src="/images/2Teacher/As-Annotation.png"></p>
 </li>
-<li><p>Once you are done marking, you can Release the results to Students.</p>
+<li><p>Once you are done marking, you can <a target="_blank" href="/teacher-user-guide/assess/release-teacher-marked-quizzes/">Release</a> the results to Students.</p>
 </li>
 </ol>
 <h2 id="-submit-a-teacher-marked-quiz-for-student-">Submit a Teacher-Marked Quiz for Student</h2>
