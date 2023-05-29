@@ -49,7 +49,7 @@ third_nav_title: Author
 <li><p>Marks - You can set the number of marks. The default is one mark.</p>
 	<p><u>Note</u>: Marks will have to be awarded before students can view the Suggested Answer and Feedback. </p>
 </li>
-<li><p>Click here for editing the Question Component Details Card.</p>
+<li><p>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> for editing the Question Component Details Card.</p>
 </li>
 <li>Click here for adding questions in a Quiz.</li>
 </ul>
