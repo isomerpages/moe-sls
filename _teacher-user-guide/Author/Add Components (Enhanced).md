@@ -9,7 +9,7 @@ third_nav_title: Author
 <hr>
 <ol>
 <li>Hover over Text/Media on the Component Bar to expand the list. </li>
-<li>Click <strong>Text</strong> to open Rich Text Editor. Click here to learn more about Rich Text Editor.</li>
+<li>Click <strong>Text</strong> to open Rich Text Editor. Click <a target="_blank" href="/teacher-user-guide/author/about-rich-text-editor/">here</a> to learn more about Rich Text Editor.</li>
 <li><p>You can also directly attach File From Device, Add/Embed Google File, Add YouTube Video, Add App or Website from the dropdown menu. </p>
 <p> <img style="width: 50%;" src="/images/2Teacher/AU-AddComponent1.png"></p>
 </li>
@@ -21,13 +21,13 @@ third_nav_title: Author
 <li>Click <strong>Add From Existing</strong> to add questions from your Library or Starred Resources. You can do a global search for Questions found in your Library and filter the results by Subject and Level. Click <strong>Filter</strong> for a more refined search or <a href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonResources/SearchForResources.html">here</a> to find out more about Search for Resources.</li>
 <li><p>You can add the following types of Questions:</p>
 <ul>
-<li>Multiple-Choice</li>
-<li>Fill-in-the-Blanks</li>
-<li>Click-and-Drop</li>
-<li>Error-Editing</li>
-<li>Free-Response</li>
-<li>Audio-Response</li>
-<li><p>Multi-part Question</p>
+<li><a target="_blank" href="/teacher-user-guide/author/add-multiple-choice-questions/">Multiple-Choice</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-fill-in-the-blanks-questions/">Fill-in-the-Blanks</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-click-and-drop-questions/">Click-and-Drop</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-error-editing-questions/">Error-Editing</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-free-response-questions/">Free-Response</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-audio-response-questions/">Audio-Response</a></li>
+<li><p><a target="_blank" href="/teacher-user-guide/author/add-multi-part-questions/">Multi-part Question</a></p>
 <p><img style="width: 50%;" src="/images/2Teacher/AU-AddComponent2.png"></p>
 </li>
 </ul>
@@ -38,14 +38,14 @@ third_nav_title: Author
 <ol>
 <li>Hover over Interactive on the Component Bar to expand the list.</li>
 <li>You can add the following types of Interactive Components:<ul>
-<li>Interactive Thinking Tool (ITT)</li>
-<li>Poll</li>
-<li>Discussion</li>
+<li><a target="_blank" href="/teacher-user-guide/collaborate/add-an-interactive-thinking-tool/">Interactive Thinking Tool (ITT)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-poll2">Poll</a></li>
+<li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-discussion/">Discussion</a></li>
 </ul>
 </li>
 </ol>
 <p><img style="width: 50%;" src="/images/2Teacher/AU-AddComponent3.png"></p>
-<h2 id="-add-display-"><strong>Add Display</strong></h2>
+<h2 id="-add-display-">Add Display</h2>
 <hr>
 <p>You can add multiple Columns and Accordions display to contain different Components in an Activity.</p>
 <ol>
@@ -59,7 +59,7 @@ third_nav_title: Author
 </li>
 </ol>
 <p><img style="width: 50%;" src="/images/2Teacher/AU-AddComponent4.png"></p>
-<p>Note: You can only add Text/Media, Multiple-Choice Questions, and Free-Response Questions components in multiple columns and accordions.</p>
+<p><u>Note</u>: You can only add Text/Media, Multiple-Choice Questions, and Free-Response Questions components in multiple columns and accordions.</p>
 <p>DID YOU KNOW?</p>
 <ul>
 <li>Three of the Last Used Components will be featured at the back of the Component Bar for easy access.</li>
