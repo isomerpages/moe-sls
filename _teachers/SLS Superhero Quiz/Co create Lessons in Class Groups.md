@@ -8,7 +8,7 @@ third_nav_title: SLS Superhero Quiz
 <hr>
 <br>
 <div style="text-align:center;">
-  <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/Author%201.pdf"> <img width="50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Author%201.png"></a>
+  <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/Author%201.pdf"> <img style="width:50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Author%201.png"></a>
 </div>
 
 <h2>What it is</h2>
