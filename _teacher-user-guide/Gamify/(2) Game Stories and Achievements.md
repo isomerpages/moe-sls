@@ -178,6 +178,6 @@ third_nav_title: Gamify
 </li>
 </ul>
 </li>
-<li>To edit Conditions, click the <strong>Pencil</strong> icon [insert icon] beside Conditions ( ). Click <strong>Save</strong> to confirm the changes.</li>
-<li>To delete a Condition, click the <strong>Pencil</strong> icon beside Conditions ( ), followed by the <strong>Delete</strong> icon. Click <strong>Save</strong> to confirm the changes.</li>
+<li>To edit Conditions, click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> beside Conditions ( ). Click <strong>Save</strong> to confirm the changes.</li>
+<li>To delete a Condition, click the <strong>Pencil</strong> icon beside Conditions ( ), followed by the <strong>Delete</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">. Click <strong>Save</strong> to confirm the changes.</li>
 </ol>
