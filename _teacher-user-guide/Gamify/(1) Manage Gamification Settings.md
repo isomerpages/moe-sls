@@ -9,10 +9,10 @@ third_nav_title: Gamify
 <hr>
 <ol>
 <li>Open the left menu and click <strong>Resources</strong> followed by <strong>My Drive</strong>.</li>
-<li>Select the Lesson you wish to introduce Gamification to. Click the <strong>Pencil</strong> icon [insert icon] to enter Lesson Editor.</li>
-<li>In the Lesson Editor, open the right menu and click <strong>Manage Gamification Settings</strong> to open the Gamification subpage. </li>
+<li>Select the Lesson you wish to introduce Gamification to. Click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> to enter Lesson Editor page.</li>
+<li>In the Lesson Editor page, open the right menu and click <strong>Manage Gamification Settings</strong> to open the Gamification subpage. </li>
 <li><p>Click the toggle on the top-right corner of the subpage to turn on Gamification. </p>
-<p> <img style="width: 50%;" src="/images/2Teacher/G-ManageGamification1.png"></p>
+<p> <img style="width: 80%;" src="/images/2Teacher/G-ManageGamification1.png"></p>
 </li>
 <li><p>In the <strong>Details</strong> tab, fill in the following details:</p>
 <ol style="list-style-type: lower-alpha;">
@@ -25,7 +25,7 @@ third_nav_title: Gamify
 <li>Please ensure all images used follow Copyright Guidelines and are credited in your lesson. You may refer to our Copyright FAQs for more information. (Link to Copyright FAQs)<p></p>
 </li>
 <li>You can edit the Game Experience from the Monitoring Assignment page. Click the <strong>Game Experience</strong> tab, followed by <strong>Edit Game Experience</strong>.</li>
-<li>You can also edit the Game Experience after assigning the lesson. From within an Assignment, open the right menu and select Edit. Click on the <strong>Manage Gamification Settings</strong> icon [insert Manage Gamification Settings icon] to access the Gamification subpage.</li>
+<li>You can also edit the Game Experience after assigning the lesson. From within an Assignment, open the right menu and select Edit. Click on the <strong>Manage Gamification Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/GameEdit.svg"> to access the Gamification subpage.</li>
 
 <h2 id="modify-xp-and-level">Modify XP and Level</h2>
 <hr>
