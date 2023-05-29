@@ -14,12 +14,12 @@ third_nav_title: Personalise
 <p>These Activities/Quizzes do not need to be completed for the Assignment to be Marked As Complete.</p>
 <p>There are various ways to Set an Optional Activity/Quiz:</p>
 <ol>
-<li><p>Click on the Activity/Quiz Title and adjust the Optional Toggle [icon].</p>
-<p><img style="width: 50%;" src="/images/2Teacher/PE-SetOptional1.png"></p>
+<li><p>Click on the Activity/Quiz Title and adjust the Optional Toggle.</p>
+<p><img style="width: 80%;" src="/images/2Teacher/PE-SetOptional1.png"></p>
 </li>
-<li><p>Click the <strong>Expand Activity List</strong> icon [icon img] to open the Full Activity List. Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) of an Activity/Section and select <strong>Set As Optiona</strong>l.</p>
+<li><p>Click the <strong>Expand Activity List</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/LessonPlan.svg"> to open the Full Activity List. Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) of an Activity/Section and select <strong>Set As Optiona</strong>l.</p>
 </li>
-<li><p>Click the <strong>Lesson Plan</strong> icon [icon], click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) of an Activity/Section and select <strong>Set As Optional</strong>.</p>
-	<p> <u>Note</u>: Optional Activities/Quizzes are indicated with [insert icon] in the Activity List.</p>
+<li><p>Click the <strong>Lesson Plan</strong> icon, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) of an Activity/Section and select <strong>Set As Optional</strong>.</p>
+	<p> <u>Note</u>: Optional Activities/Quizzes are indicated with <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityOptional32.svg"> in the Activity List.</p>
 </li>
 </ol>
