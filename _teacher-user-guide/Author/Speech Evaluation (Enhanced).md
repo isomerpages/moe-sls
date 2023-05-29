@@ -11,7 +11,7 @@ third_nav_title: Author
 <li><p>You can enable auto-marking in an <strong>Audio-Response Question</strong> by selecting the Audio-Response under Question dropdown in the Component Bar. </p>
 	<p> <u>Note</u>: The Speech Evaluation feature is only available for Audio-Response Question types. </p>
 </li>
-<li><p>Then click the <strong>Speech Evaluation</strong> icon [icon] in the Rich Text editor.</p>
+<li><p>Then click the <strong>Speech Evaluation</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/SE.svg"> in the Rich Text editor.</p>
 </li>
 <li><p>In the pop-up that appears, add the text for evaluation and click <strong>Save</strong>. </p>
 <p><img style="width: 50%;" src="/images/2Teacher/AU-SpeechEvaluate1.png"></p>
