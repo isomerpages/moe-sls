@@ -12,7 +12,7 @@ third_nav_title: Author
 <ol>
 <li>After clicking Add New, you will see available Templates on the Add New subpage. </li>
 <li>Click <strong>View All</strong> to see all available Templates.</li>
-<li><p>Click the <strong>View Details</strong> icon [icon] to view the Resource Detail Card. </p>
+<li><p>Click the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> to view the Resource Detail Card. </p>
 <p><img style="width: 80%;" src="/images/2Teacher/AU-AddNewTemplate1.png"></p>
 </li>
 <li><p>You will see the following on the card:</p>
@@ -23,7 +23,7 @@ third_nav_title: Author
 </li>
 <li><p>All Activities/Sections in the Lesson - Click <strong>Show Activities</strong> to see all Activities in a Section. The number of Activities in a Section is shown in parenthesis ( ).</p>
 </li>
-<li><p>View in new tab - Click the <strong>Expand</strong> icon [icon] to view a Lesson/Activity/Section in a new tab.</p>
+<li><p>View in new tab - Click the <strong>Expand</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/external-link.svg"> to view a Lesson/Activity/Section in a new tab.</p>
 	<p>  <u>Note</u>: This will not create a new Lesson in your Drive and you will be unable to edit the Lesson/Activity/Section.</p>
 </li>
 <li><p>Other Information - Created by, Last Edited by and Keyword Tags</p>
@@ -46,6 +46,6 @@ third_nav_title: Author
 	<p> <u>Note</u>: If you want to choose the entire Lesson, you can also click on the Lesson card on the Add New subpage.</p>
 <p><img style="width: 80%;" src="/images/2Teacher/AU-AddNewTemplate3.png"></p>
 </li>
-<li><p>The chosen Activity Template has been tagged to an Active Learning Process. To view and edit the Activity Notes and Active Learning Process in the Activity Details Card, click the <strong>Settings</strong> icon [icon] on the Activity Details Card. These fields are optional and will not be visible to students.</p>
+<li><p>The chosen Activity Template has been tagged to an Active Learning Process. To view and edit the Activity Notes and Active Learning Process in the Activity Details Card, click the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the Activity Details Card. These fields are optional and will not be visible to students.</p>
 </li>
 </ol>
