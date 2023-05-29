@@ -31,17 +31,9 @@ third_nav_title: SLS Superhero Quiz
     <li>Teachers can <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/ClassGroupManagement/PostComment.html">extend their learning further by creating posts in the Class Group Forum</a> to generate discussions.</li>
   </ol>
 </div>
+<p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Tip!
+</p>
+<ul>
+<li>Create differentiated access to sections within the lesson, such as by department, by <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/ClassGroupManagement/AboutSubgroups.html">assigning Subgroups</a>.</li>              
+</ul>
 
-<div class="tips info">
-  <div class="tips-header">
-    <div class="sug-icon">
-      <img alt="Tips" src="/images/Assets/Bulb32.svg">
-    </div>
-    <span class="tips-title">Tip!</span>
-  </div>
-  <div class="tips-content">
-    <ul>
-      <li>Create differentiated access to sections within the lesson, such as by department, by <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/ClassGroupManagement/AboutSubgroups.html">assigning Subgroups</a>.</li>              
-    </ul>
-  </div>
-</div>
