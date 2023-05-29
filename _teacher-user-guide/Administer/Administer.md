@@ -6,7 +6,7 @@ third_nav_title: Administer
 ---
 <h1>Administer</h1>
 <p>Use SLS to manage student usage.</p>
-<img src="/images/2Teacher/Flow-Administer.png">
+<img style="width: 50%;" src="/images/2Teacher/Flow-Administer.png">
 
 <details>
  <summary><h4>How to manage student accounts?</h4></summary>
