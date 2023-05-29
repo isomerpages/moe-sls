@@ -36,7 +36,7 @@ third_nav_title: Track Progress
 <li>Student - To view the Awarded Marks as part of the Total Marks by individual students.</li>
 </ul>
 </li>
-<li>Click the <strong>Filter</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Filter24.svg"> to filter the overall progress of students (in terms of marks) according to the Month Range and Topic/Sub-topic. Click <strong>Apply</strong> to confirm your selection.</li>
+<li>Click the <strong>Filter</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg"> to filter the overall progress of students (in terms of marks) according to the Month Range and Topic/Sub-topic. Click <strong>Apply</strong> to confirm your selection.</li>
 </ol>
 </li>
 <li><p>Under the <strong>Self-Study</strong> tab, </p>
