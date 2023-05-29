@@ -12,17 +12,17 @@ third_nav_title: Assign
 <li>Once selected, a paused untitled Assignment will be created in the Class Group.</li>
 <li>You will be directed to the Lesson Editor page of the Assignment. </li>
 </ol>
-<img style="width: 50%;" src="/images/2Teacher/AS-QuickAssign1.png">
+<img style="width: 80%;" src="/images/2Teacher/AS-QuickAssign1.png">
 <h2 id="quick-assign-from-planner-event">Quick Assign from Planner Event</h2>
 <hr>
 <ol>
 <li>Create a <strong>New Event</strong> in the Planner for a Class Group.</li>
 <li>The new Event will appear in the Planner tab.</li>
 <li><p>Click the <strong>+</strong> button to Quick Assign an <strong>Activity</strong> or <strong>Quiz</strong>. </p>
-<img style="width: 50%;" src="/images/2Teacher/AS-QuickAssign2.png"><p></p>
+<img style="width: 80%;" src="/images/2Teacher/AS-QuickAssign2.png"><p></p>
 </li>
 <li><p>Alternatively, you can click on the Event to open the Event Details. Then click <strong>Quick Assign</strong> and select <strong>Activity</strong> or <strong>Quiz</strong>. </p>
-<p><img style="width: 50%;" src="/images/2Teacher/AS-QuickAssign3.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/AS-QuickAssign3.png"></p>
 </li>
 <li><p>Once selected, a paused untitled Assignment will be created in the Class Group and attached to the Event. </p>
 </li>
