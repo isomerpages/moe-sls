@@ -60,4 +60,4 @@ third_nav_title: Track Progress
 </ol>
 </li>
 </ol>
-<p><u>Note</u>: You can also search for subject resources from MOE Library, Community Gallery, and My Drive. Refer to <a href="https://www.notion.so/2-Search-for-Resources-New-5228d86aec954a85a3ee5700ff8e13f8">Search for Resources</a> [hyperlink] to find out how to search for resources.</p>
+<p><u>Note</u>: You can also search for subject resources from MOE Library, Community Gallery, and My Drive. Refer to <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">Search for Resources</a> to find out how to search for resources.</p>
