@@ -6,7 +6,7 @@ third_nav_title: Assign
 ---
 <h1>Assign</h1>
 <p>Use SLS to assign lessons to your students for them to complete within a specific time.</p>
-<img src="/images/2Teacher/Flow-Assign.png">
+<img style="width: 50%;" src="/images/2Teacher/Flow-Assign.png">
 
 <details>
  <summary><h4>How to create Assignments?</h4></summary>
