@@ -38,6 +38,5 @@ third_nav_title: Publish
 <li><p>In the Approve Lesson subpage, select the <strong>Owner Group</strong> you wish to publish this resource under. Select the checkbox next to who you want the Lesson to be Visible to. Click <strong>OK</strong> to proceed.</p>
 <img style="width: 50%;" src="/images/5Admin/P-MOELibrary1.png">
 </li>
-<li><p>A message will be shown if the resource has been successfully submitted. A notification will be sent to the Content Approver, who will approve your submission.</p>
-</li>
+<li>A message will be shown if the resource has been successfully submitted. A notification will be sent to the Content Approver, who will approve your submission.</li>
 </ol>
