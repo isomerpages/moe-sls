@@ -14,7 +14,7 @@ third_nav_title: Assign
 </li>
 <li><p>You can rename the Title and Choose a Folder to copy the Lesson to. Then click <strong>Copy</strong>.</p>
 </li>
-<li>A copy of the Community Gallery Lesson will appear in <strong>My Drive</strong>. From there, you can Assign to your Class Groups. </li>
+<li>A copy of the Community Gallery Lesson will appear in <strong>My Drive</strong>. From there, you can <a target="_blank" href="/teacher-user-guide/assign/add-assignments-to-class-group/">Assign to your Class Groups</a>. </li>
 </ol>
 <h2 id="add-community-gallery-lesson-as-class-group-resource">Add Community Gallery Lesson as Class Group Resource</h2>
 <hr>
@@ -43,6 +43,6 @@ third_nav_title: Assign
 </li>
 </ol>
 </li>
-<li><p>Click <strong>Create</strong> to add the Lesson as a Class Group Resource..</p>
+<li><p>Click <strong>Create</strong> to add the Lesson as a Class Group Resource.</p>
 </li>
 </ol>
