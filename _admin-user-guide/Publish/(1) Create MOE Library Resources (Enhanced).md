@@ -7,15 +7,15 @@ third_nav_title: Publish
 <h1 id="-1-create-moe-library-resources-enhanced-">(1) Create MOE Library Resources (Enhanced)</h1>
 <p>You can refer to the following User Guide pages to find out how you can: </p>
 <ul>
-<li>create a Lesson [hyperlink teacher/LessonManagement/CreateLesson.html].</li>
-<li>use a Lesson or Section Template [hyperlink teacher/LessonManagemet/LessonTemplates.html]</li>
-<li>tag a Lesson [hyperlink teacher/LessonManagement/TagLesson.html]</li>
-<li>gamify a Lesson [hyperlink teacher/LessonManagement/AboutGamification.html]</li>
-<li>add Activities to a Lesson [hyperlink teacher/LessonManagement/AddNewActivity.html]</li>
-<li>add existing Activities from Library and Starred Resources [hyperlink teacher/LessonManagement/AddActivity.html]</li>
-<li>add Components to an Activity [hyperlink teacher/LessonManagement/AddComponent.html]</li>
-<li>upload HTML5 interactives [hyperlink teacher/RichText/HTML5.html]</li>
-<li>embed whitelisted websites [hyperlink teacher/RichText/EmbedWhitelisted.html]</li>
+<li><a target="_blank" href="/teacher-user-guide/author/create-new-lessons/">create a Lesson</a></li>
+<li><a target="_blank" href="/teacher-user-guide/customise/manage-my-templates/">use a Lesson or Section&nbsp;Template</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-lesson-tags/">tag a Lesson </a></li>
+<li><a target="_blank" href="/teacher-user-guide/gamify/about-gamification-and-leaderboard/">gamify a Lesson</a> </li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-new-activities-and-sections">add Activities to a Lesson</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-existing-from-library-and-starred-resources/">add existing Activities from Library and Starred Resources</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-components/">add Components to an Activity</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/html5-content-development/">upload HTML5 interactives</a></li>
+<li><a target="_blank" href="/teacher-user-guide/discover/embed-whitelisted-websites/">embed whitelisted websites</a></li>
 </ul>
 <h2 id="submit-a-lesson-for-approval">Submit a Lesson for Approval</h2>
 <hr>
