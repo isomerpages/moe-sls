@@ -13,15 +13,19 @@ third_nav_title: Assess
 	<li>
 		<p>You can do so from a student's Quiz view by clicking the name of a student and navigate to the Quiz Completion page. Click <strong>Release</strong>.
 		</p>
-		<p><img style="width: 50%;" src="/images/2Teacher/As-TeacherMarkedQuiz4.png">
+		<p><img style="width: 80%;" src="/images/2Teacher/As-TeacherMarkedQuiz4.png">
 		</p>
 	</li>
 	<li>
-		<p>You will be able to Release the quiz for multiple students from the Assignment Monitoring page by filtering to the specific Activity with the Teacher-Marked Quiz.
+		<p>Alternatively, you may also release the quiz to multiple students from the Assignment Monitoring page by filtering to the specific Activity with the Teacher-Marked Quiz. You may do so by clicking the&nbsp;<strong>Filter</strong>&nbsp;icon <img style="width:1.5rem; display: inline;" src="/images/Icons/FilterTo.svg"> or from the Filter subpage.
+		</p>
+		<p><img style="width: 80%;" src="/images/2Teacher/As-TeacherMarkedQuiz7.png">
 		</p>
 	</li>
 	<li>
-		<p>Select the checkbox next to the student's name and click&nbsp;<strong>Release</strong>&nbsp;in the table header.
+		<p>Select the checkboxes next to the students’ name and click&nbsp;<strong>Release</strong>&nbsp;in the table header.
+		</p>
+		<p><img style="width: 80%;" src="/images/2Teacher/As-TeacherMarkedQuiz6.png">
 		</p>
 	</li>
 </ol>
