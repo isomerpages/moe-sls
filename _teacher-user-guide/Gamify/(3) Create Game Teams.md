@@ -12,12 +12,12 @@ third_nav_title: Gamify
 <ol>
 <li>From <strong>My Drive</strong>, go to the Lesson Editor, open the right menu and select <strong>Manage Gamification Settings.</strong></li>
 <li>In the Gamification subpage, turn on Gamification by toggling the <strong>On/Off</strong> button.</li>
-<li>Click <strong>X</strong> to close the subpage and the <strong>Done</strong> icon [insert icon] to save the Lesson .</li>
-<li>Click the <strong>Assign</strong> icon [insert icon] to assign the Lesson .</li>
+<li>Click <strong>X</strong> to close the subpage and the <strong>Done</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Done.svg"> to save the Lesson.</li>
+<li>Click the <strong>Assign</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Assign.svg"> to assign the Lesson .</li>
 <li>Select the Class Group to assign the Lesson , followed by <strong>Assign</strong>.</li>
 <li>In the Assignment Title subpage, edit the <strong>Assignment Title</strong> (if necessary), and adjust the <strong>Permission Settings</strong>. You may also pause the Assignment after assigning, if necessary.</li>
 <li>Click <strong>Next</strong> to proceed.</li>
-<li>On the Assignment Card, click the <strong>Pencil</strong> icon [insert icon] to edit the Assignment Settings.</li>
+<li>On the Assignment card, click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> to edit the Assignment Settings.</li>
 <li><p>In the Assignment Settings subpage, click the <strong>Gamification</strong> tab, followed by <strong>Go to Game Teams</strong>. </p>
 <p><img style="width: 50%;" src="/images/2Teacher/G-CreateGameTeams1.png"></p>
 </li>
@@ -36,7 +36,7 @@ third_nav_title: Gamify
 </li>
 <li><p>You can view or edit the students in the Game Team by clicking <strong>View / Edit</strong>.</p>
 </li>
-<li>To delete a Team, click <strong>Overflow</strong> <strong>(3-dot</strong> icon<strong>)</strong>, followed by <strong>Delete</strong>. Click <strong>Ok</strong> to confirm.</li>
+<li>To delete a Team, click <strong>Overflow</strong> <strong>(3-dot</strong> icon<strong>)</strong>, followed by <strong>Delete</strong>. Click <strong>OK</strong> to confirm.</li>
 <li>Click <strong>Back to Assignment Settings</strong> to return to the Assignment subpage.</li>
 <li>Click <strong>Save</strong>, followed by <strong>X</strong> to return to the Assignment Summary page.</li>
 </ol>
@@ -52,7 +52,7 @@ third_nav_title: Gamify
 <li><p>Click <strong>Save</strong> to confirm your action and <strong>Back to Game Teams</strong> to return to the Game Teams subpage.</p>
 </li>
 <li>You can view or edit the Team by clicking <strong>View / Edit</strong>.</li>
-<li>To delete a Team, click <strong>Overflow</strong> <strong>(3-dot</strong> icon<strong>)</strong>, followed by <strong>Delete</strong>. Click <strong>Ok</strong> to confirm.</li>
+<li>To delete a Team, click <strong>Overflow</strong> <strong>(3-dot</strong> icon<strong>)</strong>, followed by <strong>Delete</strong>. Click <strong>OK</strong> to confirm.</li>
 <li>Click <strong>Back to Assignment Settings</strong> to return to the Assignment subpage.</li>
 <li>Click <strong>Save</strong>, followed by <strong>X</strong> to return to the Assignment Summary page.</li>
 </ol>
@@ -66,6 +66,6 @@ third_nav_title: Gamify
 <li><p>You can make add more Game Teams by select either Apply Subgroups As Teams to use existing subgroups or Add Team to create new teams.</p>
 </li>
 <li>You can also view or edit the current Game Teams by clicking <strong>View / Edit</strong>.</li>
-<li>To delete a Team, click <strong>Overflow</strong> <strong>(3-dot</strong> icon<strong>)</strong>, followed by <strong>Delete</strong>. Click <strong>Ok</strong> to confirm.</li>
+<li>To delete a Team, click <strong>Overflow</strong> <strong>(3-dot</strong> icon<strong>)</strong>, followed by <strong>Delete</strong>. Click <strong>OK</strong> to confirm.</li>
 <li>Click <strong>X</strong> to close the subpage and return to the Monitor Assignment page.</li>
 </ol>
