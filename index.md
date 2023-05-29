@@ -11,10 +11,6 @@ notification: ""
 sections:
   - hero:
       background: /images/LandingPage.png
-      key_highlights:
-        - title: The SLS Info-Site is moving to isomer!
-          description: ""
-          url: https://staging.d19lt3odqxq3m6.amplifyapp.com/teachers/Feature-Highlights/R18posters/
   - resources:
       title: Latest News
       button: find out more
