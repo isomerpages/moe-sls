@@ -24,7 +24,7 @@ third_nav_title: Assign
 </li>
 <li><p>From the Search Results, click on the Community Gallery <strong>Lesson</strong> <strong>Card</strong> that you would like to view.</p>
 </li>
-<li>On the Lesson View page, open the right menu and click <strong>Add to Class Group Resources</strong>. [insert screenshot 2Teacher/LR-AddResource.png]</li>
+<li>On the Lesson View page, open the right menu and click <strong>Add to Class Group Resources</strong>.</li>
 <li>Select the Class Group(s), followed by <strong>Choose</strong>.</li>
 <li><p>You may wish to rename the Resource Title, and edit the Permission Settings:</p>
 <ol style="list-style-type: lower-alpha;">
@@ -39,7 +39,7 @@ third_nav_title: Assign
 <li><strong>Visible to students in Class Group</strong></li>
 <li><strong>Notify Student(s)</strong> - this checkbox will be active if Resource is set to be visible to students in Class Group.</li>
 </ol>
-<p><img style="width: 50%;" src="/images/2Teacher/AS-AssignCommunity2.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/AS-AssignCommunity2.png"></p>
 </li>
 </ol>
 </li>
