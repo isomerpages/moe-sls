@@ -13,7 +13,7 @@ third_nav_title: Author
 </li>
 <li><p>You may insert an existing Question from Library, Starred Resources or QTI file by selecting <strong>Add from Existing</strong>.</p>
 <ul>
-<li>You can click on the Question card to select the question or the <strong>Magnify</strong> icon [icon] to view the details of the Question.</li>
+<li>You can click on the Question card to select the question or the <strong>Magnify</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> to view the details of the Question.</li>
 <li>In the details subpage, you can tick the box beside the question parts to select certain parts of the Multi-Part Question to add.</li>
 <li><p>Click <strong>Choose</strong> to add the questions to your Lesson.
 Note: Selected questions will be added to the same level. (If you add parts a, bi and cii of the same multi-part question, the three questions will be added at the same level e.g. 1, 2, 3 or a, b, c</p>
