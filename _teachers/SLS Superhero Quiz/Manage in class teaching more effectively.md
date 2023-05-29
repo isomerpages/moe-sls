@@ -24,7 +24,7 @@ third_nav_title: SLS Superhero Quiz
   <ol>
     <li>
       <ul>Activity Teams
-        <ol>
+<ol style="list-style-type: lower-roman;">
           <li>Teachers can choose to allow students to submit assignments as one team.</li>
           <li>When marking assignments in teams, feedback will also be given to the team automatically, making it more convenient than assigning it to multiple students.</li>
         </ol>
@@ -32,7 +32,7 @@ third_nav_title: SLS Superhero Quiz
     </li>
     <li>
       <ul>Award XP, Game Story, and Achievements Manually
-        <ol>
+<ol style="list-style-type: lower-roman;">
           <li>Encourage students to behave positively in class by awarding them XP or creating Game Stories/Achievements for them.</li>
           <li>Weave physical activities into your gamified lessons and capture their progress on SLS.</li>
         </ol>
@@ -40,7 +40,7 @@ third_nav_title: SLS Superhero Quiz
     </li>
     <li>
       <ul>Forum/Poll
-        <ol>
+<ol style="list-style-type: lower-roman;">
           <li>Teachers can create topics for students to respond to in the Forum tab within their Class Group.</li>
           <li>Teachers can also create a Poll as an activity within a lesson for students to show how they feel about a certain discussion.</li>
         </ol>
@@ -56,4 +56,3 @@ third_nav_title: SLS Superhero Quiz
     <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/ClassGroupManagement/AboutForum.html">About the Forum</a></li>
     <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/AddPoll.html">Add a Poll</a></li>
   </ul>
-
