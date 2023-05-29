@@ -13,7 +13,7 @@ third_nav_title: Plan
 <ol>
   <li>There are three ways to access the <strong>Planner:</strong>
     <ol style="list-style-type: lower-alpha;">
-      <li>From the Home Page, click the <strong>View Planner</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/CalendarOpen.svg">.</li>
+      <li>From the Home Page, click the <strong>View Planner</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/CalendarOpen.svg">.</li>
       <li>Open the left menu and click <strong>Planner</strong>.</li>
       <li>Open your <strong>Class Group</strong> and click the <strong>Planner</strong> tab.<img style="width: 50%;" src="/images/2Teacher/P-ClassGroupPlanner.png"></li>
     </ol>
