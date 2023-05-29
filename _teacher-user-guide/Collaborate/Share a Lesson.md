@@ -21,13 +21,13 @@ third_nav_title: Collaborate
 <ol>
 <li>In the Share with Teachers subpage, click <strong>Add</strong> to select the teachers you wish the share the lesson with.</li>
 <li><p>Search for the teachers by name or email. You can apply the school filter to narrow the search by school.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/C-ShareLesson1.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/C-ShareLesson1.png"></p>
 </li>
 <li><p>Select the teachers by selecting the checkboxes next to their names. You may select more than one teacher across multiple pages.</p>
 </li>
 <li>After you have selected the teachers, click <strong>Add</strong>.</li>
 <li><p>Select the permissions for the collaborating teachers (<strong>Can View</strong> or <strong>Can Edit</strong>).</p>
-<p><img style="width: 50%;" src="/images/2Teacher/C-ShareLesson2.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/C-ShareLesson2.png"></p>
 </li>
 <li><p>Click <strong>Save</strong> and <strong>X</strong> to close the subpage.</p>
 </li>
