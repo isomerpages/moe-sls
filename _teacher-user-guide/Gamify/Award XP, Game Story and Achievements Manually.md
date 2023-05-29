@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/gamify/award-xp-game-story-and-achievements-manua
 description: ""
 third_nav_title: Gamify
 ---
-<h1 id="-award-xp-game-story-achievements-manually-"><strong>Award XP, Game Story &amp; Achievements Manually</strong></h1>
+<h1 id="-award-xp-game-story-achievements-manually-">Award XP, Game Story &amp; Achievements Manually</h1>
 <ol>
 <li>Select a gamified <strong>Assignment Card</strong> and click <strong>Monitor</strong> to enter the Monitor Assignment page on the Assignment page. Alternatively, from the Assignments tab in the homepage, click <strong>Monitor</strong> on a gamified Assignment/Assessment Card.</li>
 <li>On the Monitor Assignment page, click the <strong>Game Experience</strong> tab. </li>
