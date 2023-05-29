@@ -17,7 +17,7 @@ third_nav_title: Gamify
 <li><strong>Image</strong> - This image will be visible as a prompt for the student when they fulfill the required conditions for the Game Story. If left empty, a default Game Story icon will be populated for you.</li>
 </ol>
 </li>
-<li><p>After creating a Game Story, you may click <strong>Add Conditions</strong> to determine when the Game Story will appear during the lesson . All Game Stories are hidden on default until they are awarded to the students. Please read (Link to Add Conditions for Game Stories and Achievements) for more information on Conditions. </p>
+<li><p>After creating a Game Story, you may click <strong>Add Conditions</strong> to determine when the Game Story will appear during the lesson . All Game Stories are hidden on default until they are awarded to the students. Please read <a target="_blank" href="URL">here</a> for more information on Conditions. </p>
 <p><img style="width: 50%;" src="/images/2Teacher/G-GameStory1.png"></p>
 </li>
 </ol>
@@ -32,7 +32,7 @@ third_nav_title: Gamify
 <li><strong>Hide Achievement</strong> - Click on the checkbox if you want the achievement to be hidden from students until it is awarded to them. When unchecked, the achievement will be shown to students. Students will not own the achievement until they fulfill the conditions.</li>
 </ol>
 </li>
-<li><p>After creating an Achievement, you may click <strong>Add Conditions</strong> to determine when the Achievement will appear during the lesson . Please read (Link to Add Conditions for Game Stories and Achievements) for more information on Conditions. </p>
+<li><p>After creating an Achievement, you may click <strong>Add Conditions</strong> to determine when the Achievement will appear during the lesson . Please read <a target="_blank" href="URL">here</a> for more information on Conditions. </p>
 <p> <img style="width: 50%;" src="/images/2Teacher/G-GameStory2.png"></p>
 </li>
 </ol>
@@ -97,7 +97,7 @@ third_nav_title: Gamify
 
 <p><u>Note</u>: The Section Start Condition cannot be used with other Conditions.</p>
 <ol>
-<li>To add Conditions to Game Stories/Achievements, you need to have an existing Game Story/Achievement. Click here to find out how to create a Game Story/Achievement [hyperlink manage gamification settings].</li>
+<li>To add Conditions to Game Stories/Achievements, you need to have an existing Game Story/Achievement. Click <a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">here</a> to find out how to create a Game Story/Achievement .</li>
 <li>The number of Conditions per Game Story/Achievement is indicated in brackets.</li>
 <li><p>You can find out how to add to Game Stories/Achievements for the scenarios below:</p>
 <p> I want Game Story/Achievement to appear:</p>
@@ -173,7 +173,7 @@ third_nav_title: Gamify
 </ol>
 </li>
 <li>only when I manually award the Game Story/Achievement to students.<ol>
-<li>Do not set any Conditions to the Game Story/Achievement. Click here to find out how to award XP, Game Story and Achievements manually. [hyperlink Award XP, Game Story and Achievements Manually]</li>
+<li>Do not set any Conditions to the Game Story/Achievement. Click <a target="_blank" href="/teacher-user-guide/gamify/award-xp-game-story-and-achievements-manually/">here</a> to find out how to award XP, Game Story and Achievements manually. </li>
 </ol>
 </li>
 </ul>
