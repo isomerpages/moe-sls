@@ -23,3 +23,6 @@ third_nav_title: Organise
 
 <h2>Video Tutorial</h2>
 <hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Search for Resources" src="https://www.youtube.com/embed/IBlWycX4PBE?list=PLnbjz8Z6zbOSnCiVWuC4hO44i2Qe3YnQR" height="100%" width="100%"></iframe>
+</div>
