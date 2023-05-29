@@ -9,8 +9,8 @@ third_nav_title: Assign
 <hr>
 <ol>
 <li>You can access <strong>MOE Library</strong> by opening the left menu, under <strong>Resources</strong>.</li>
-<li>Click on the MOE Library <strong>Lesson</strong> <strong>Card</strong> that you would like to view.</li>
-<li>On the Lesson View page, click the <strong>Assign</strong> icon [insert icon] on the header.</li>
+<li>Click the MOE Library <strong>Lesson</strong> <strong>card</strong> that you would like to view.</li>
+<li>On the Lesson View page, click the <strong>Assign</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Assign.svg"> on the header.</li>
 <li>You may wish to rename the Assignment Title and edit the Permission Settings. Under Lesson Permissions:
 <ol style="list-style-type: lower-alpha;">
 <li><strong>Allow teachers to copy/assign/publish and students to copy this Lesson/Course</strong></li>
@@ -26,7 +26,7 @@ third_nav_title: Assign
 <li><p>Adding a Lesson as a Class Group Resource is only available for certain Resources with permission enabled. Resources that cannot be added will have the option greyed out.</p>
 </li>
 	<ol>
-<li><p>Click on the MOE Library <strong>Lesson</strong> <strong>Card</strong> that you would like to view.</p>
+<li><p>Click the MOE Library <strong>Lesson</strong> <strong>card</strong> that you would like to view.</p>
 </li>
 <li><p>Click <strong>Overflow (3 dots</strong> icon) on the header to open the right menu and click <strong>Add to Class Group Resources</strong>.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/AS-AssignMOE1.png"></p>
