@@ -9,7 +9,7 @@ third_nav_title: Assess
 <h2 id="add-a-passcode">Add a Passcode</h2>
 <hr>
 <ol>
-<li>Click the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg"> to enter the Lesson Editor page.</li>
+<li>Click the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> to enter the Lesson Editor page.</li>
 <li>Open the right menu and select <strong>Manage Passcode Settings</strong>.<img style="width: 50%;" src="/images/2Teacher/As-Passcode.png"></li>
 <li><p>In the Passcode Settings subpage, select the checkbox beside <strong>Enable passcode for this Lesson</strong> and enter the Passcode in the text box field.</p>
 	<p><u>Note</u>: </p>
