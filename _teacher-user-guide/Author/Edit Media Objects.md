@@ -20,16 +20,16 @@ third_nav_title: Author
 <hr>
 <p>Media Objects that have been uploaded from File will be editable. You may <strong>Draw</strong> (if the Media Object is an image), <strong>Delete</strong>, or edit its details by using the toolbar below the Media Object.</p>
 <ol>
-<li>Upon clicking on the <strong>Settings</strong> icon [insert icon] you can edit the drawing's:<ul>
+<li>Upon clicking on the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> you can edit the drawing's:<ul>
 <li>Title</li>
 <li>Description</li>
-<li>Star it as a Resource [Icon] <strong>(NEW)</strong></li>
-<li>Download drawing [icon] <strong>(NEW)</strong></li>
+<li>Star it as a Resource <img style="width:1.5rem; display: inline;" src="/images/Icons/Star.svg"> <strong>(NEW)</strong></li>
+<li>Download drawing <img style="width:1.5rem; display: inline;" src="/images/Icons/Download.svg"> <strong>(NEW)</strong></li>
 <li>Set Permission for Students to download</li>
 <li>Keyword Tags</li>
 </ul>
 </li>
-<li>Once done, click on the <strong>Save</strong> icon<strong>.</strong></li>
+<li>Once done, click on the <strong>Save</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"><strong>.</strong></li>
 </ol>
 <p><u>Note</u>: Media Objects from MOE Library/Community Gallery cannot be edited by drawing or from its settings.</p>
 <img style="width: 50%;" src="/images/2Teacher/AU-EditMedia1.png">
