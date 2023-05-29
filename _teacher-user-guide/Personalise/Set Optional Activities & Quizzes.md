@@ -9,7 +9,7 @@ third_nav_title: Personalise
 <ul>
 <li>scaffolds/challenges students’ learning.</li>
 <li>gives students choices between different learning approaches.</li>
-<li>allows students to exercise agency, e.g. using Gamification.</li>
+<li>allows students to exercise agency, e.g. using <a target="_blank" href="/teacher-user-guide/gamify/about-gamification-and-leaderboard/">Gamification</a>.</li>
 </ul>
 <p>These Activities/Quizzes do not need to be completed for the Assignment to be Marked As Complete.</p>
 <p>There are various ways to Set an Optional Activity/Quiz:</p>
