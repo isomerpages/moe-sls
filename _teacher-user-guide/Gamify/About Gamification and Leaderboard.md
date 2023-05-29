@@ -20,7 +20,7 @@ third_nav_title: Gamify
 <h3 id="about-leaderboard">About Leaderboard</h3>
 <hr>
 <p>Gamification Leaderboard is a scoreboard showing the names of students, their individual XP, current Levels and Achievements. It can be accessed from the Monitoring Assignment page, under the Game Experience tab.</p>
-<p>Starting from R18, Gamification has been enhanced to enable Team Leaderboard. Click here [hyperlink teacher/LessonManagement/GameTeams.html] to learn more about Game Teams.</p>
+<p>Starting from R18, Gamification has been enhanced to enable Team Leaderboard. Click <a target="_blank" href="/teacher-user-guide/gamify/create-game-teams/">here</a> to learn more about Game Teams.</p>
 <h2 id="view-student-game-details">View Student Game Details</h2>
 <hr>
 <ol>
@@ -33,7 +33,7 @@ third_nav_title: Gamify
 </li>
 <li><p>You will be able to view your Game details at the top, followed by the student’s XP, current Level and Achievement.</p>
 </li>
-<li>Under the <strong>XP and Level</strong> tab, you will be able to view the Experience Point (XP) Modifiers, which were determined when designing the game. Click here to find out how you can edit them [hyperlink Manage Gamification Settings]</li>
+<li>Under the <strong>XP and Level</strong> tab, you will be able to view the Experience Point (XP) Modifiers, which were determined when designing the game. Click <a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">here</a> to find out how you can edit them.</li>
 <li>Under the <strong>Game Story</strong> tab, you will be able to view the Awarded Game Story. Click <strong>Preview</strong> to read the Game Story.</li>
 <li>Under the <strong>Achievement</strong> tab, you will be able to view both the <strong>Awarded</strong> and <strong>Not Awarded</strong> Achievements in the respective tabs. Click <strong>Preview</strong> to read the Achievement.</li>
 <li>Under the <strong>Team Members</strong> tab (only if Game Team is enabled), you will be able to see all the students present in the same Game Team as the selected student. </li>
