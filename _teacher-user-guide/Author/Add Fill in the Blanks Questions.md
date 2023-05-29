@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 ---
 <h1 id="add-fill-in-the-blanks-questions">Add Fill-in-the-Blanks Questions</h1>
-<h2 id="-add-fill-in-the-blanks-question-"><strong>Add Fill-in-the-Blanks Question</strong></h2>
+<h2 id="-add-fill-in-the-blanks-question-">Add Fill-in-the-Blanks Question</h2>
 <hr>
 <ol>
 <li>In the Lesson Editor page, hover over Question in the Component Bar.</li>
@@ -40,7 +40,7 @@ third_nav_title: Author
 <li><p>Marks Per Blank - You can set the number of marks per blank. The default is one mark per blank.</p>
 	<p><u>Note</u>: Question Body, Hint, Option tex, and Feedback fields support Rich Text-enabled components.</p>
 </li>
-<li><p>Click here for editing the Question Component Details Card.</p>
+<li><p>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> for editing the Question Component Details Card.</p>
 </li>
-<li>Click here for adding questions in a Quiz.</li>
+<li>Click <a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">here</a> for adding questions in a Quiz.</li>
 </ul>
