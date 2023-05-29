@@ -25,6 +25,6 @@ third_nav_title: Assign
 <li>To allow students to reattempt the Assignment for self-study, select the checkbox beside <strong>Allow students to reattempt as self-study Lesson.</strong></li>
 <li><p>Click <strong>Save</strong> to confirm your selection and <strong>X</strong> to close the subpage.</p>
 <p><img style="width: 80%;" src="/images/2Teacher/AS-AllowCopy1.png"></p>
-	<p><u>Note</u>: If Copy Permissions is enabled, students will be able to access "Copy to My Drive" on the right panel of the Assignment. Students will be able to access the copied Assignment from their <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/MyDrive/AccessMyDrive.html">My Drive</a>.</p>
+	<p><u>Note</u>: If Copy Permissions is enabled, students will be able to access "Copy to My Drive" on the right panel of the Assignment. Students will be able to access the copied Assignment from their <a href="/teacher-user-guide/organise/access-my-drive/">My Drive</a>.</p>
 </li>
 </ol>
