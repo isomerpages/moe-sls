@@ -34,7 +34,7 @@ third_nav_title: Differentiate
 <li>School (useful for class groups that contain students from more than one school)</li>
 </ul>
 </li>
-<li>You can hide students from all subgroups by clicking the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings2.svg"> and selecting the checkbox beside <strong>Hide students from all subgroups</strong>. </li>
+<li>You can hide students from all subgroups by clicking the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> and selecting the checkbox beside <strong>Hide students from all subgroups</strong>. </li>
 <li><p>Check the students to be added to the class group and click <strong>Add</strong>.</p>
 <p><img style="width: 80%;" src="/images/2Teacher/DI-CreateSubgroups2.png"></p>
 </li>
