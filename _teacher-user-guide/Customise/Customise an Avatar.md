@@ -10,12 +10,12 @@ third_nav_title: Customise
 <ol>
   <li>Open the right menu and click <strong>Edit Profile</strong>.</li>
   <li>On the Profile page, click <strong>Customise Avatar</strong> under Profile. 
-<img style="width: 50%;" src="/images/2Teacher/Cu-Avatar.png"></li>
+<img style="width: 80%;" src="/images/2Teacher/Cu-Avatar.png"></li>
 	
   <li>You can either select 1 from the 24 preset avatars, or build your own.</li>
   <li>To build your own Avatar, click <strong>Build My Own</strong>. To return to the preset Avatars, click <strong>Choose Presets</strong>.</li>
   <li>You can select the base colour of your Avatar by clicking the colour palette 
-<img style="width: 50%;" src="/images/2Teacher/Cu-AvatarPalette.png"></li>
+<img style="width: 80%;" src="/images/2Teacher/Cu-AvatarPalette.png"></li>
 	
   <li>Select an Expression, Headgear, Eyewear, Costume, and Object from the respective tabs. Click the <strong>Left</strong> and <strong>Right</strong> arrows at the bottom to view the available options for each tab.</li>
   <li>Click <strong>Save</strong> to proceed.</li>
