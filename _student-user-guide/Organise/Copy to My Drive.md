@@ -20,7 +20,7 @@ third_nav_title: Organise
 
 <ol>
   <li>On the homepage, click <strong>MOE Library</strong>. Alternatively, open the left menu from the header on the homepage, and click <strong>Resources</strong>, followed by <strong>MOE Library</strong>.</li>
-  <li>Use the Search bar to search for a Lesson <a href="#">(hyperlink search for resources)</a>. You may use the Filter to narrow down your search results.</li>
+  <li>Use the Search bar to <a target="_blank" href="/student-user-guide/discover/search-for-self-study-resources/">search for a Lesson</a>. You may use the Filter to narrow down your search results.</li>
   <li>Click the <strong>Lesson Card</strong> to open the Lesson.</li>
   <li>Open the right menu and click <strong>Copy to My Drive</strong> (if permission has been granted).</li>
   <img src="/images/1Student/SS-CopyMOELibrary.png">
@@ -28,12 +28,9 @@ third_nav_title: Organise
   <li>Click <strong>Copy</strong> to proceed.</li>
 </ol>
 
-<p><u>Note</u>: From R18 onwards, you will be able to view Lessons as Print-Friendly Worksheets <a href="#">(hyperlink print friendly worksheet)</a>.</p>
-
+<p><u>Note</u>: From R18 onwards, you will be able to view Lessons as <a target="_blank" href="/organise/view-print-friendly-worksheet/">Print-Friendly Worksheets</a>.</p>
 <h2>Copy from an Assignment</h2>
-
 <hr>
-
 <ol>
   <li>In the Assignment, open the right menu and select <strong>Copy to My Drive</strong> (if permission has been granted).</li>
  <img src="/images/1Student/SS-CopyAssignment.png">
