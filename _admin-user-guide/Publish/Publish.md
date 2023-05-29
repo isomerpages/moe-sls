@@ -4,7 +4,7 @@ permalink: /admin-user-guide/publish/index/
 description: ""
 third_nav_title: Publish
 ---
-<h1><a id="publish" target="_blank" href="/admin-user-guide/publish/index/">1. Publish</a></h1>
+<h1>Publish</h1>
 Use SLS to publish resources to make it available and discoverable to teachers and students.
 
 <details>
