@@ -11,7 +11,7 @@ third_nav_title: Collaborate
 <ol>
 <li>From the Assignment Settings subpage, select <strong>Activity Assignment</strong>. Ensure that <strong>Set as Team Activity</strong> has been toggled on [hyperlink Create Team Activities] </li>
 <li><p>To create teams for individual activities, click <strong>Add Team</strong> under each activity, followed by <strong>Apply Subgroups as Team</strong>. To create teams for multiple activities, select the checkboxes beside the activity title, followed by <strong>Apply Subgroups as Teams</strong>.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/C-TeamSubgroup.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/C-TeamSubgroup.png"></p>
 </li>
 <li><p>Select the subgroup you wish to add by selecting the checkbox beside each subgroup. To view the list of students within a subgroup, click the <strong>dropdown arrow</strong>.</p>
 </li>
@@ -20,7 +20,7 @@ third_nav_title: Collaborate
 <li>You can view or edit the team by clicking <strong>View / Edit</strong>.</li>
 <li>Click <strong>Back to Assignment Settings</strong> to return to the Assignment subpage.</li>
 <li><p>To delete a team, click the <strong>Overflow</strong> <strong>(3-dot</strong> icon<strong>)</strong>, followed by <strong>Delete</strong>. Click <strong>OK</strong> to confirm.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/C-TeamSubgroup2.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/C-TeamSubgroup2.png"></p>
 </li>
 <li><p>Click <strong>Save</strong>, followed by <strong>X</strong>.</p>
 </li>
@@ -30,7 +30,7 @@ third_nav_title: Collaborate
 <ol>
 <li>From the Assignment Settings subpage, select <strong>Activity Assignment</strong>. Ensure that <strong>Set as Team Activity</strong> has been toggled on [hyperlink Create Team Activities]. </li>
 <li><p>To create teams for individual Activities, click <strong>Add Team</strong> under each Activity, followed by <strong>Create New Team</strong>. To create teams across multiple activities, select the checkboxes beside the activity title, followed by <strong>Add Team</strong>.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/C-AddTeam.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/C-AddTeam.png"></p>
 </li>
 <li><p>In the Create New Team subpage, enter a team name. You may add students to the team by clicking <strong>Add Students</strong>.</p>
 </li>
@@ -45,9 +45,9 @@ third_nav_title: Collaborate
 <h2 id="view-teams-in-assignments">View Teams in Assignments</h2>
 <hr>
 <ol>
-<li>In an Assignment, a Team Activity will be indicated beside the activity title, and with the Team icon [insert Team.svg] from the expanded activity list.</li>
+<li>In an Assignment, a Team Activity will be indicated beside the activity title, and with the Team icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Team.svg"> from the expanded activity list.</li>
 <li>To view the teams and the students within the teams, enter any student’s assignment and select the team activity.</li>
 <li><p>Click the <strong>Team</strong> icon. The number beside the icon indicates the number of teams.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/C-ViewTeam.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/C-ViewTeam.png"></p>
 </li>
 </ol>
