@@ -16,7 +16,7 @@ third_nav_title: Customise
   <li>Open the left menu from the header on the homepage. Click <strong>Resources</strong>, followed by <strong>My Drive</strong>. By default, you will be in the My Lessons tab.</li>
   <li>Select <strong>My Templates</strong> to view your saved Lesson Templates.</li>
   <li>To add a new template, click <strong>Add New Template</strong>.</li>
-  <li>Design a Lesson <a href="#create-a-lesson">as per usual</a>. Lesson Templates will be indicated with a grey banner on the Lesson Editor and Lesson View page. <img style="width: 80%;" src="/images/2Teacher/Cu-LessonTemplate.png"></li>
+  <li><a target="_blank" href="/teacher-user-guide/author/create-new-lessons/">Design a Lesson</a> as per usual. Lesson Templates will be indicated with a grey banner on the Lesson Editor and Lesson View page. <img style="width: 80%;" src="/images/2Teacher/Cu-LessonTemplate.png"></li>
 </ol>
 
 <p><u>Note</u>: Instead of creating a new Template from scratch, you can also set an existing Lesson as a Template by selecting <strong>Set as Template</strong> from the right menu.<img style="width: 80%;" src="/images/2Teacher/Cu-SetTemplate.png"></p>
