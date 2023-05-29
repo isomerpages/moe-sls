@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Collaborate
 ---
 <h1 id="-3-post-and-comment-in-the-forum">(3) Post and Comment in the Forum</h1>
-<p>Teachers, Observers and Students (should permission be granted) can create Topics [hyperlink add a discussion/topic] in a Class Group Forum. Posts can be created within each Topic.</p>
+<p>Teachers, Observers and Students (should permission be granted) can create <a target="_blank" href="/teacher-user-guide/collaborate/add-a-topic/">Topics</a> in a Class Group Forum. Posts can be created within each Topic.</p>
 <h2 id="-create-a-post-">Create a Post</h2>
 <hr>
 <ol>
@@ -30,7 +30,7 @@ third_nav_title: Collaborate
 <h2 id="-comment-on-a-post-">Comment on a Post</h2>
 <hr>
 <ol>
-<li>Commenting permissions [hyperlink Change Forum Settings] can be toggled on/off on individual posts by teachers or owners of posts. </li>
+<li><a target="_blank" href="/teacher-user-guide/collaborate/change-forum-settings/">Commenting permissions</a> can be toggled on/off on individual posts by teachers or owners of posts. </li>
 <li>Select a topic card, followed by a post that you wish to leave a comment on.<img style="width: 80%;" src="/images/2Teacher/C-TopicCard1.png"></li>
 <li><p>From the View Post subpage, click <strong>Add</strong> to enter comments.</p>
 	<p><u>Note</u>: Comments can contain mathematical or chemical formulae, emoticons, drawings, and attached files.</p>
