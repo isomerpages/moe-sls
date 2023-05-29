@@ -8,7 +8,7 @@ third_nav_title: Author
 <h2 id="-insert-table-">Insert Table</h2>
 <hr>
 <ol>
-<li>When editing a Rich Text-enabled component, choose the <strong>Table</strong> icon [insert icon].</li>
+<li>When editing a Rich Text-enabled component, choose the <strong>Table</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Table.svg">.</li>
 <li>Select the number of columns and rows for the table by dragging the cursor across the grid.</li>
 <li>You may add or remove rows and columns using the floating toolbar when you click on the table.</li>
 </ol>
