@@ -8,12 +8,12 @@ third_nav_title: Collaborate
 <h2 id="access-a-shared-lesson-">Access a Shared Lesson</h2>
 <hr>
 <ol>
-<li>When a Lesson is shared with you, you will receive a notification. The <strong>Notification Alert</strong> icon [insert Notification.png] indicates the number of new notifications.</li>
+<li>When a Lesson is shared with you, you will receive a notification. The <strong>Notification Alert</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Notification.png"> indicates the number of new notifications.</li>
 <li>Clicking the <strong>Notification Alert</strong> displays the details of the notification.</li>
 <li>The shared Lesson is automatically added to My Drive, under <strong>Shared with Me</strong>.</li>
 <li>To view the shared Lesson, open the left menu. Expand the <strong>Resources</strong> dropdown list and select <strong>My Drive</strong>.</li>
 <li><p>In My Drive, click <strong>Shared with Me</strong>.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/C-SharedWithMe.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/C-SharedWithMe.png"></p>
 </li>
 <li><p>The Lessons shared with you will be listed along with the names of the Owners of the Lessons.</p>
 </li>
@@ -31,4 +31,4 @@ third_nav_title: Collaborate
 <li>Open the Lesson and open the right menu.</li>
 <li>Select <strong>Share with Teachers</strong> and click <strong>Delete</strong> to remove yourself from the shared Lesson. Click <strong>Save</strong> to confirm.</li>
 </ol>
-<img style="width: 50%;" src="/images/2Teacher/C-SharedWithMe1.png">
+<img style="width: 80%;" src="/images/2Teacher/C-SharedWithMe1.png">
