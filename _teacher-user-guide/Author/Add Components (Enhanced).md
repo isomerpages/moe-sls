@@ -11,7 +11,7 @@ third_nav_title: Author
 <li>Hover over Text/Media on the Component Bar to expand the list. </li>
 <li>Click <strong>Text</strong> to open Rich Text Editor. Click here to learn more about Rich Text Editor.</li>
 <li><p>You can also directly attach File From Device, Add/Embed Google File, Add YouTube Video, Add App or Website from the dropdown menu. </p>
-<p> <img style="width: 50%;" src="/images/2Teacher/AU_AddComponent1.png"></p>
+<p> <img style="width: 50%;" src="/images/2Teacher/AU-AddComponent1.png"></p>
 </li>
 </ol>
 <h2 id="add-a-question-component">Add a Question Component</h2>
@@ -28,7 +28,7 @@ third_nav_title: Author
 <li>Free-Response</li>
 <li>Audio-Response</li>
 <li><p>Multi-part Question</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AU_AddComponent2.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddComponent2.png"></p>
 </li>
 </ul>
 </li>
@@ -44,7 +44,7 @@ third_nav_title: Author
 </ul>
 </li>
 </ol>
-<p><img style="width: 50%;" src="/images/2Teacher/AU_AddComponent3.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddComponent3.png"></p>
 <h2 id="-add-display-"><strong>Add Display</strong></h2>
 <hr>
 <p>You can add multiple Columns and Accordions display to contain different Components in an Activity.</p>
@@ -58,12 +58,10 @@ third_nav_title: Author
 </ul>
 </li>
 </ol>
-<p><img style="width: 50%;" src="/images/2Teacher/AU_AddComponent4.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddComponent4.png"></p>
 <p>Note: You can only add Text/Media, Multiple-Choice Questions, and Free-Response Questions components in multiple columns and accordions.</p>
 <p>DID YOU KNOW?</p>
 <ul>
 <li>Three of the Last Used Components will be featured at the back of the Component Bar for easy access.</li>
-<img style="width: 50%;" src="/images/2Teacher/AU_AddComponent5.png">
+<img style="width: 50%;" src="/images/2Teacher/AU-AddComponent5.png">
 </ul>
-
-
