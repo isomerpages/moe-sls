@@ -4,50 +4,45 @@ permalink: /teachers/build-the-sls-card-game/general-rules/
 description: ""
 third_nav_title: "Build: the SLS Card Game"
 ---
-![](/images/Media/SLS%20Build%20(Category)/General%20rules%20-%20cards%202.png)
-
-General Rules
------
-
----
-
-1. **Objective Cards**
-    
-     These cards describe scenarios. Achieve the objective by fulfilling the two Key Applications of Technology shown.
-2. **Learning Experience Type Cards**
-    
-    These cards specify the Learning Experience that you intend to provide for your students through each lesson. These cards do not have in-game effects but help to guide conversations during post-game facilitation.
-3. **Activity Cards**
-    
-    These cards consist of Activity and Quiz cards. Activities can contain all components while Quizzes can only contain question components.
-    
-    *Note: Rules tagged to the Competitive Mode Icon only applies in the Competitive Mode.*
-4. **Build Cards (Components and Elements)**
-    
-     Build cards consist of three types of cards - **Component (navy)**, **Element (blue)**, **Special (gray)**. Special cards will only be used in Competitive Mode.
-    
-    The component and element cards mirror the Components and Elements found in SLS.
-    
-    These cards can be stacked to form **combinations** - one Component card and up to three unique Element cards. Descriptions on the cards will show the compatibility of the cards.
-    
-    **How to play Build Cards?**
-    
-    **Dos**
-    
-    
-    - Do ensure element cards stacked on the component card are compatible.
-    - Do stack up to three unique element cards on the component card to form a combination.
-    - Do fulfil requirements on the component cards.
-     
-    **Don'ts**
-    
-    
-    - Don't stack component cards above element cards.
-    - Don't play element cards without component cards
-    - Don't stack component cards on top of one another.
-    - Don't stack identical element cards on the same component cards
-    
-    **Exception**
-    
-    
-    - The Subgroup Access element card should be played on an Activity or Quiz card instead.
+<img src="/images/SLS%20Build/General%20rules%20-%20cards%202.png">
+<h2>General Rules</h2>
+<hr>
+<ol>
+  <li>
+    <strong>Objective Cards</strong>
+    <p>These cards describe scenarios. Achieve the objective by fulfilling the two Key Applications of Technology shown.</p>
+  </li>
+  <li>
+    <strong>Learning Experience Type Cards</strong>
+    <p>These cards specify the Learning Experience that you intend to provide for your students through each lesson. These cards do not have in-game effects but help to guide conversations during post-game facilitation.</p>
+  </li>
+  <li>
+    <strong>Activity Cards</strong>
+    <p>These cards consist of Activity and Quiz cards. Activities can contain all components while Quizzes can only contain question components.</p>
+    <p><em>Note: Rules tagged to the Competitive Mode Icon only applies in the Competitive Mode.</em></p>
+  </li>
+  <li>
+    <strong>Build Cards (Components and Elements)</strong>
+    <p>Build cards consist of three types of cards - <strong>Component (navy)</strong>, <strong>Element (blue)</strong>, <strong>Special (gray)</strong>. Special cards will only be used in Competitive Mode.</p>
+    <p>The component and element cards mirror the Components and Elements found in SLS.</p>
+    <p>These cards can be stacked to form <strong>combinations</strong> - one Component card and up to three unique Element cards. Descriptions on the cards will show the compatibility of the cards.</p>
+    <h3>How to play Build Cards?</h3>
+    <h4>Dos</h4>
+    <ul>
+      <li>Do ensure element cards stacked on the component card are compatible.</li>
+      <li>Do stack up to three unique element cards on the component card to form a combination.</li>
+      <li>Do fulfil requirements on the component cards.</li>
+    </ul>
+    <h4>Don'ts</h4>
+    <ul>
+      <li>Don't stack component cards above element cards.</li>
+      <li>Don't play element cards without component cards.</li>
+      <li>Don't stack component cards on top of one another.</li>
+      <li>Don't stack identical element cards on the same component cards.</li>
+    </ul>
+    <h4>Exception</h4>
+    <ul>
+      <li>The Subgroup Access element card should be played on an Activity or Quiz card instead.</li>
+    </ul>
+  </li>
+</ol>
