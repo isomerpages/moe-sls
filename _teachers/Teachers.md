@@ -3,38 +3,24 @@ title: Teachers
 permalink: /sls/teachers/
 description: ""
 ---
-![](/images/Media/Quick%20Links/Teachers%20Hero.png)
-
-Looking for new ways to support your students’ learning? SLS features can enhance your teaching to engage your students better!
-
+<img style="width: 100%;" src="images/Media/Quick%20Links/Teachers%20Hero.png">
+<p>
+Looking for new ways to support your students’ learning? SLS features can enhance your teaching to engage your students better!</p>
 <hr> 
 
 
-## Feature Highlights  
-#### Videos
-[Release 17 - SLS Game On!](/teachers/Feature-Highlights/releasevideos/)
-<br>[Release 16 - Learning Progress](/teachers/Feature-Highlights/releasevideos/)
-<br>[Release 15 - Editing Assignments](/teachers/Feature-Highlights/releasevideos/)
-<br>[Release 14 - A Mobile-Responsive SLS](/teachers/Feature-Highlights/releasevideos/)
-<br>[Release 14 - The Refreshed SLS User Interface](/teachers/Feature-Highlights/releasevideos/)
-
-#### Posters
-[Release 18 (1 Dec 2022)](/teachers/Feature-Highlights/r18posters/)
-<br>[Release 17 (7 Jun 2022)](/teachers/Feature-Highlights/r17posters/)
-<br>[Release 16 (8 Dec 2021)](/teachers/Feature-Highlights/r16posters/)
-
-
-## Build - The SLS Card Game
-[Game Rules and Support](/teachers/Build-The-SLS-Card-Game/Index/)
-  
-## User Guide
-[User Guide (Teachers)](/teachers/user-guide-teachers/index/)
-<br>[User Guide (Admin)](/teachers/user-guide-admin/index/)
-<br>[User Guide (Login Troubleshooting)](/login-troubleshooting/Login-Self-Help-for-Teachers/LoginMIMSTeacher/)
-
-## Frequently Asked Questions
-[SLS Access](/teachers/teacherfaqs/)
-
-## SLS Professional Development
-[Teaching and Learning with SLS](/teachers/SLS-Professional-Development/tandlwithsls/)
-<br>[EPedagogy One Stop Site](/teachers/SLS-Professional-Development/epedonestop/) (requires OPAL Login)
+<h2 id="feature-highlights">Feature Highlights</h2>
+<p><a href="/teachers/Feature-Highlights/r18posters/">2023 1H</a>
+<br><a href="/teachers/Feature-Highlights/r17posters/">2022 2H</a>
+<br><a href="/teachers/Feature-Highlights/r16posters/">2022 1H</a></p>
+<h2 id="build-the-sls-card-game">Build - The SLS Card Game</h2>
+<p><a href="/teachers/Build-The-SLS-Card-Game/Index/">Game Rules and Support</a></p>
+<h2 id="user-guide">User Guide</h2>
+<p><a href="/teachers/user-guide-teachers/index/">User Guide (Teachers)</a>
+<br><a href="/teachers/user-guide-admin/index/">User Guide (Admin)</a>
+<br><a href="/login-troubleshooting/Login-Self-Help-for-Teachers/LoginMIMSTeacher/">User Guide (Login Troubleshooting)</a></p>
+<h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
+<p><a href="/teachers/teacherfaqs/">SLS Access</a></p>
+<h2 id="sls-professional-development">SLS Professional Development</h2>
+<p><a href="/teachers/SLS-Professional-Development/tandlwithsls/">Teaching and Learning with SLS</a>
+<br><a href="/teachers/SLS-Professional-Development/epedonestop/">EPedagogy One Stop Site</a> (requires OPAL Login)</p>
