@@ -22,4 +22,4 @@ third_nav_title: Assess
 </ul>
 <p><img style="width: 50%;" src="/images/2Teacher/As-AssessmentURL.png"></p>
 <p>Did You Know?</p>
-<p>If you do not wish to create an Assessment (which will require the whitelisting of embedded links or apps), you may wish to set a Passcode to an Assignment [hyperlink teacher/LessonManagement/Passcode.html]. Students will require the Passcode before they can attempt the Assignment.</p>
+<p>If you do not wish to create an Assessment (which will require the whitelisting of embedded links or apps), you may wish to <a target="_blank" href="/teacher-user-guide/assess/add-and-view-passcodes/">set a Passcode to an Assignment</a>. Students will require the Passcode before they can attempt the Assignment.</p>
