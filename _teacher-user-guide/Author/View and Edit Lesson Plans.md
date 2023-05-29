@@ -32,4 +32,4 @@ third_nav_title: Author
 </ol>
 <h2 id="section-prerequisites">Section Prerequisites</h2>
 <hr>
-<p>You can add Section Prerequisite to a Lesson. Sections indicated with Prerequisites will be locked until students complete the required section.</p>
+<p>You can add <a target="_blank" href="/teacher-user-guide/differentiate/add-section-prerequisites/">Section Prerequisite</a> to a Lesson. Sections indicated with Prerequisites will be locked until students complete the required section.</p>
