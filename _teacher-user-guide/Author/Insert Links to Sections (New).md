@@ -8,7 +8,7 @@ third_nav_title: Author
 <h2 id="-add-link-to-section-activity-new-">Add Link to Section/Activity (New)</h2>
 <hr>
 <ol>
-<li>Click the <strong>dropdown arrow</strong> beside Hyperlink icon [insert icon] and select <strong>Add Link to Section/Activity</strong>.</li>
+<li>Click the <strong>dropdown arrow</strong> beside Hyperlink icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Chain.png"> and select <strong>Add Link to Section/Activity</strong>.</li>
 <li>Select the Section/Activity you would like the text to link to. </li>
 <li>You may choose to add the <strong>Text to display</strong>.</li>
 <li>The default target is <strong>Current window</strong> which means that the linked website will open in the current tab. You may also select <strong>New window</strong> which will open the linked website in a new browser tab.</li>
@@ -24,4 +24,4 @@ third_nav_title: Author
 </ol>
 <h2 id="edit-remove-link-enhanced-">Edit/Remove Link (Enhanced)</h2>
 <hr>
-<p>You can edit or remove a link by clicking on the linked text in blue and choosing either the <strong>Pencil</strong> icon [insert icon] or the <strong>Remove</strong> <strong>Hyperlink</strong> icon [insert icon].</p>
+<p>You can edit or remove a link by clicking on the linked text in blue and choosing either the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> or the <strong>Remove</strong> <strong>Hyperlink</strong> icon [insert icon].</p>
