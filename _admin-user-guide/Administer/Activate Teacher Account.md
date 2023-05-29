@@ -23,9 +23,9 @@ third_nav_title: Administer
 <li>Applications submitted through email will no longer be accepted.</li>
 </ul>
 </li>
-<li>For teachers who are direct hires of SPED schools, submit the account application through email instead. Please contact the <a href="https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/LoginTroubleshooting/ContactSLSHelpdesk.html">SLS Helpdesk</a> if you do not have the required forms.</li>
+<li>For teachers who are direct hires of SPED schools, submit the account application through email instead. Please contact the <a target="_blank" href="/login-troubleshooting/get-help/contact-sls-helpdesk/">SLS Helpdesk</a> if you do not have the required forms.</li>
 <li>SLS School Admins can see all teacher accounts on the <a target="_blank" href="/admin-user-guide/administer/about-manage-users/">Manage Users</a> page.</li>
-<li>If a teacher's account cannot be found through the Manage Users page, please contact the <a href="https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/LoginTroubleshooting/ContactSLSHelpdesk.html">SLS Helpdesk</a>.</li>
+<li>If a teacher's account cannot be found through the Manage Users page, please contact the <a target="_blank" href="/login-troubleshooting/get-help/contact-sls-helpdesk/">SLS Helpdesk</a>.</li>
 </ol>
 <h2 id="-activation-of-teacher-accounts-">Activation of Teacher Accounts</h2>
 <hr>
