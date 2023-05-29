@@ -52,4 +52,4 @@ third_nav_title: Author
 </ol>
 <h2 id="-save-new-lesson-">Save New Lesson</h2>
 <hr>
-<p>Click the <strong>Done</strong> icon [insert icon] found at the top right of the page to save your new Lesson.</p>
+<p>Click the <strong>Done</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Done.svg"> found at the top right of the page to save your new Lesson.</p>
