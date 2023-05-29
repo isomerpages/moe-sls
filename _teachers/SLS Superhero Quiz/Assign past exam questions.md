@@ -15,11 +15,8 @@ third_nav_title: SLS Superhero Quiz
 
 <ul>
   <li>Digitised exam papers have a gray lesson card:</li>
-  <br>
-
-  <br>
-  <a target="_blank" href="images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign.png"> <img width="25%" src="images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign.png"></a>
-  <br>
+<img style="width: 25%;" src="images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign.png">
+<br>
 </ul>
 
 <h2>Why do it</h2>
@@ -38,10 +35,6 @@ third_nav_title: SLS Superhero Quiz
 <ul>
   <li>You can enable reattempts of the course for further practice by <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/AssignmentFeedback/CopyAssignment.html">allowing students to copy the lesson to their Drive</a>:</li>
   <br>
-
-  <br>
-  <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign2.png"> <img width="50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign2.png"></a>
-  <li>You may have students who wish to attempt the exam paper in hard copy form, simply check the “<a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonResources/PrintWorksheet.html">View Print-Friendly Worksheet</a>” checkbox in the assignment Permission Settings so that they can print it.</li>
-  <br>
-  <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign3.png"> <img width="50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign3.png"></a>
+<img style="width: 50%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign2.png">
+  <li>You may have students who wish to attempt the exam paper in hard copy form, simply check the “<a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonResources/PrintWorksheet.html">View Print-Friendly Worksheet</a>” checkbox in the assignment Permission Settings so that they can print it.</li><img style="width: 50%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign3.png">
 </ul>
