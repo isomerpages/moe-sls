@@ -22,8 +22,8 @@ third_nav_title: Organise
 </ul>
 
 <ol start="5">
-  <li>When you add a teacher as Student (School), you can search for the teacher's name from the Search Bar. Alternatively, click the <strong>Filter</strong> icon to narrow down the search results by Form Class and Level. Click <strong>Apply</strong> to proceed.</li>
-  <li>When you add a teacher as Student (Group), select a <strong>Group</strong> from the dropdown list. You can then search for the teacher's name from the Search Bar. Alternatively, click the <strong>Filter</strong> icon to narrow down the search results by School. Click <strong>Apply</strong> to proceed.</li>
+  <li>When you add a teacher as Student (School), you can search for the teacher's name from the Search Bar. Alternatively, click the <strong>Filter</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg">to narrow down the search results by Form Class and Level. Click <strong>Apply</strong> to proceed.</li>
+  <li>When you add a teacher as Student (Group), select a <strong>Group</strong> from the dropdown list. You can then search for the teacher's name from the Search Bar. Alternatively, click the <strong>Filter</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg">to narrow down the search results by School. Click <strong>Apply</strong> to proceed.</li>
   <li>When you add a Teacher as Student, you can search for the teacher's name from the Search Bar. Alternatively, you can filter the teacher by school from the dropdown list.</li>
 </ol>
 
