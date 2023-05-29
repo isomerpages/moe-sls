@@ -24,8 +24,7 @@ third_nav_title: Discover
 </ul>
 
 <p>In the Lesson Editor page, select an Activity and hover your mouse over <strong>Questions</strong> in the Component Bar, followed by <strong>Add From Existing</strong>. Select either <strong>Question from Library</strong>, <strong>Question from Starred Resources</strong>, or <strong>Question from file (QTI)</strong></p>
-
-<a target="_blank" href="/images/2Teacher/D-AddExistingComponent.png"><img alt="AddExistingComponent" src="/images/2Teacher/D-AddExistingComponent.png"></a>
+<img alt="AddExistingComponent" src="/images/2Teacher/D-AddExistingComponent.png">
 
 <h2>Add Existing Questions from Library and Starred Resources</h2>
 
@@ -42,9 +41,7 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
   </li>
   <li>
     <p>Click the <strong>View Details</strong> icon to view the Question Details.</p>
-		
-<a target="_blank" href="/images/2Teacher/D-AddExistingLesson.png"><img alt="AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png"></a>
-		
+		<img alt="AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png">
   </li>
   <li>
     <p>Select the Questions you wish to add to your Activity by selecting the relevant <strong>Question Cards</strong>.</p>
