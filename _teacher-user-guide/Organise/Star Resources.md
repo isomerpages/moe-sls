@@ -8,7 +8,7 @@ third_nav_title: Organise
 
 <p>Starred Resources allow both teachers and students to star up to 300 resources. Teachers can star Lessons, Questions, Media Objects and Apps. You may star resources found in the MOE Library, Community Gallery, or My Drive that you want to view or review at a later time.</p>
 
-<p>When creating Lessons, you can also <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/StarredResources/AddStarResource.html">add existing resources that you have starred</a> to Lessons.</p>
+<p>When creating Lessons, you can also <a target="_blank" href="/teacher-user-guide/author/add-existing-from-library-and-starred-resources/">add existing resources that you have starred</a> to Lessons.</p>
 
 <p>Starred Resources can be found in the left menu, under <strong>Resources</strong>.</p>
 
@@ -35,7 +35,7 @@ third_nav_title: Organise
 <li>Media Objects by clicking the <strong>Star</strong> icon on the Media Object <img style="width: 50%;" src="/images/2Teacher/O-StarMediaObject.png"></li>
 </ul>
 
-<p><u>Note</u>: While Activities cannot be starred, Teachers can add Activities from a starred Lesson. Find out more <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/StarredResources/AddStarResource.html">here</a>.</p>
+<p><u>Note</u>: While Activities cannot be starred, Teachers can add Activities from a starred Lesson. Find out more <a target="_blank" href="/teacher-user-guide/organise/star-resources/">here</a>.</p>
 </li>
 </ol>
 
