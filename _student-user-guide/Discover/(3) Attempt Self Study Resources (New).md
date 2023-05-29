@@ -31,7 +31,7 @@ third_nav_title: Discover
 	
 <p>Note: Should you Reattempt the Lesson, responses from your previous attempt will be deleted. To keep a copy of your responses, make a copy of the Lesson before reattempting.</p>
     
-<li>To revisit this Lesson, you can access it from your Self-Study List <a href="hyperlink access self-study list">hyperlink access self-study list</a>. Your previous responses will be saved.</li>
+<li>To revisit this Lesson, you can access it from your Self-Study List <a target="_blank" href="/student-user-guide/discover/access-self-study-resources/"> access self-study list</a>. Your previous responses will be saved.</li>
 </ol>
 
 <h2>Attempt Class Group Resources</h2>
