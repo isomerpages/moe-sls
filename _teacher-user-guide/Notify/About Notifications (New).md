@@ -31,5 +31,5 @@ third_nav_title: Notify
 
 <p><u>Note</u>: You can choose to mark Notifications as read.</p>
 
-<li>Should you wish to receive SLS Notifications through your email, you may do so from here <a href="set email notifications.">hyperlink set email notifications.</a> <strong>(New in R19)</strong></li>
+<li>Should you wish to receive SLS Notifications through your email, you may do so from <a target="_blank" href="/teacher-user-guide/customise/set-email-notifications/">here</a>. <strong>(New in R19)</strong></li>
 </ol>
