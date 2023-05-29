@@ -24,7 +24,7 @@ third_nav_title: Administer
 </ul>
 </li>
 <li>For teachers who are direct hires of SPED schools, submit the account application through email instead. Please contact the <a href="https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/LoginTroubleshooting/ContactSLSHelpdesk.html">SLS Helpdesk</a> if you do not have the required forms.</li>
-<li>SLS School Admins can see all teacher accounts on the Manage Users [hyperlink About Manage Users] page.</li>
+<li>SLS School Admins can see all teacher accounts on the <a target="_blank" href="/admin-user-guide/administer/about-manage-users/">Manage Users</a> page.</li>
 <li>If a teacher's account cannot be found through the Manage Users page, please contact the <a href="https://www.learning.moe.edu.sg/sls/user-guide/vle/logintroubleshooting/LoginTroubleshooting/ContactSLSHelpdesk.html">SLS Helpdesk</a>.</li>
 </ol>
 <h2 id="-activation-of-teacher-accounts-">Activation of Teacher Accounts</h2>
@@ -36,7 +36,7 @@ third_nav_title: Administer
 <li><p>Teachers will be able to activate their SLS accounts by clicking on the link found in the activation email. </p><p>
 	</p><p><u>Note</u>: Teachers will only be able to log in with MIMS after they have activated their SLS account through the link provided in the email.</p>
 </li>
-<li>SLS School Admins can identify teacher accounts that have not been activated through the Manage Users [hyperlink About Manage Users] page. On the Manage Users page, click <strong>Filter</strong> and applying the following filters from the respective dropdown list: <ul>
+<li>SLS School Admins can identify teacher accounts that have not been activated through the <a target="_blank" href="/admin-user-guide/administer/about-manage-users/">Manage Users</a> page. On the Manage Users page, click <strong>Filter</strong> and applying the following filters from the respective dropdown list: <ul>
 <li><strong>Role</strong> - Teacher</li>
 <li><strong>SLS Account Status</strong> - Not Activated, Not Activated (Locked)</li>
 </ul>
