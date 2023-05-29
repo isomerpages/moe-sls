@@ -27,7 +27,7 @@ third_nav_title: Notify
 
 <ul>
   <li>Class Group Announcements</li>
-  <li><a href="/teacher-user-guide/notify/view-and-create-announcements/">School Announcements</a>(for SLS Admins only)</li>
+  <li><a href="/teacher-user-guide/notify/manage-announcements/">School Announcements</a>(for SLS Admins only)</li>
 </ul>
 
 <ol>
