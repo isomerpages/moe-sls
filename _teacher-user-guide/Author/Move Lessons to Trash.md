@@ -10,5 +10,5 @@ third_nav_title: Author
 <ol>
 <li>Open the right menu and click <strong>Move to Trash</strong>.</li>
 <li>You will get redirected to the <strong>Trash</strong> tab under My Drive.</li>
-<li>You can permanently delete a resource [hyperlink teacher/MyDrive/DeleteResourcesPermanently.html] or restore it to My Lessons tab [hyperlink teacher/MyDrive/RestoreResourcesFromTrash.html].</li>
+<li>You can permanently <a target="_blank" href="/teacher-user-guide/organise/delete-resources/">delete a resource</a> or <a target="_blank" href="/teacher-user-guide/organise/restore-resources-from-trash/">restore it to My Lessons tab</a> .</li>
 </ol>
