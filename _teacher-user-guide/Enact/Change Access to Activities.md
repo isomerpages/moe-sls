@@ -9,7 +9,7 @@ third_nav_title: Enact
 <ol>
 <li>Managing Students Assigned</li>
 <li>Controlling Activity Access</li>
-<li>Setting Prerequisite Sections</li>
+<li><a target="_blank" href="/teacher-user-guide/differentiate/add-section-prerequisites/">Setting Prerequisite Sections</a></li>
 </ol>
 <h2 id="managing-students-assigned">Managing Students Assigned</h2>
 <hr>
@@ -26,7 +26,7 @@ third_nav_title: Enact
 <h2 id="controlling-activity-access">Controlling Activity Access</h2>
 <hr>
 <ol>
-<li>On the Assignment Settings subpage, select the <strong>Activity Assignment</strong> tab to control access to the activity for the different Teams. This function allows activities to be attempted by different groups of students. Click here to find out more about Teams.</li>
+<li>On the Assignment Settings subpage, select the <strong>Activity Assignment</strong> tab to control access to the activity for the different Teams. This function allows activities to be attempted by different groups of students. Click <a target="_blank" href="/teacher-user-guide/collaborate/create-teams/">here</a> to find out more about Teams.</li>
 <li>In an Assignment, you can switch the Student Access toggle off and students will not be able to access all the activities in the Assignment.</li>
 <li>You can also toggle off selected activities in the Assignment.</li>
 </ol>
