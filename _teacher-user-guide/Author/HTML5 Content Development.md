@@ -39,7 +39,7 @@ third_nav_title: Author
 </li>
 <li><p>Select all the files within the folder and zip/compress them.</p>
 </li>
-<li>In SLS, select <strong>File from Device</strong> under Text/Media on the Component Bar. Alternatively, click the <strong>Add Media</strong> icon [icon] and <strong>Upload File</strong> in the Rich Text Editor. </li>
+<li>In SLS, select <strong>File from Device</strong> under Text/Media on the Component Bar. Alternatively, click the <strong>Add Media</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/PaperClip.svg"> and <strong>Upload File</strong> in the Rich Text Editor. </li>
 <li><p>Upload the ZIP file by either dragging and dropping it into the box, or clicking the box to select a file through the file manager. A sample file is provided <a target="_blank" href="https://iwant2study.org/lookangejss/00workshop/2019twa/ejss_model_BalancingChemEqns21_ionic.zip">here</a>
 </p></li>
 <img style="width: 50%;" src="/images/2Teacher/AU-AddHTML2.png">
