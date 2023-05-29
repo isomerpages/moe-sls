@@ -6,7 +6,7 @@ third_nav_title: Track Progress
 ---
 <h1 id="-2a-view-by-topic">(2a) View by Topic</h1>
 <p>Topics and Sub-topics are displayed according to the Content Map selected. There may be more than one Content Map for a particular subject according to the syllabus by SEAB.</p>
-<p><u>Note</u>: Only questions that are selected to be included will be shown in the Learning Progress. Refer to Tag a Question [hyperlink] for more details.</p>
+<p><u>Note</u>: Only questions that are selected to be included will be shown in the Learning Progress. Refer to <a target="_blank" href="/teacher-user-guide/author/add-question-tags/">Tag a Question</a> for more details.</p>
 <ol>
 <li>On the Learning Progress page, you may view the overall progress of students according to Topics by clicking the <strong>Topical</strong> tab. Under each Topic/Sub-topic, the Awarded Marks, Total Marks, and Marks (shown in percentage) are displayed.</li>
 <li><p>From the list of Topics, you may view the Sub-topics by clicking on the <strong>dropdown arrow</strong> besides each Topic.</p>
