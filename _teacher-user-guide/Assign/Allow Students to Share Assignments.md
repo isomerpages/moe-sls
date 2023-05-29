@@ -10,8 +10,8 @@ third_nav_title: Assign
 <hr>
 <ol>
 <li>Sharing Permissions can be turned on while:<ul>
-<li>Creating a new Assignment</li>
-<li>Managing an Assignment</li>
+<li><a target="_blank" href="/teacher-user-guide/assign/create-assignments/">Creating a new Assignment</a></li>
+<li><a target="_blank" href="/teacher-user-guide/assign/manage-assignments/">Managing an Assignment</a></li>
 </ul>
 </li>
 <li><p>From the Assignments page, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Assignment card, followed by <strong>Manage</strong>.</p>
@@ -47,5 +47,5 @@ third_nav_title: Assign
 <li><p>Teachers are able to delete comments.</p>
 </li>
 <li>Students will not be able to complete the Assignment on behalf of the student who shared the Assignment.</li>
-<li>To understand how students are able to share their Assignment/Assessment, refer to <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/RequestShare.html">Request to Share Assignment</a>.</li>
+<li>To understand how students are able to share their Assignment/Assessment, refer to <a href="/teacher-user-guide/assign/allow-students-to-share-assignments/">Request to Share Assignment</a>.</li>
 </ul></li></ul>
