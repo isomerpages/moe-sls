@@ -3,31 +3,24 @@ title: Students
 permalink: /sls/students/
 description: ""
 ---
-![Students](/images/Students%20Hero.png)
-
-Take charge of your learning! Explore new features as well as our growing library of resources.
-
-## Feature Highlights  
-#### Videos
-[Release 17 - SLS Game On!](/students/Feature-Highlights/releasevideos/)
-<br>[Release 14 - A Mobile-Responsive SLS!](/students/Feature-Highlights/releasevideos/)
-
-#### Posters
-[Release 18 (1 Dec 2022)](/students/Feature-Highlights/R18posters/)
-<br>[Release 17 (1 Dec 2022)](/students/Feature-Highlights/r17posters/)
-<br>[Release 16 (1 Dec 2022)](/students/Feature-Highlights/r16posters/)
-
-## Student-Initiated Learning
-[For Secondary Level](/students/studentinitiatedlearning/)
-<br>[For JC/MI Level](/students/studentinitiatedlearning/)
-  
-## User Guide
-[User Guide (Students)](/students/User-Guide-2/Authentication/) 
-<br>[User Guide Login Troubleshooting](/login-troubleshooting/Login-Self-Help-for-Students/LoginMIMSStudent/)
-<br>[Account Management (Pri)](/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(Pri).pdf)
+<p><img alt="Students" src="/images/Students%20Hero.png"></p>
+<p>Take charge of your learning! Explore new features as well as our growing library of resources.</p>
+<hr>
+<h2 id="feature-highlights">Feature Highlights</h2>
+<hr>
+<h4 id="posters">Posters</h4>
+<p><a href="/students/feature-highlights/2022-2h/">2022 2H</a>
+<br><a href="/students/feature-highlights/2022-1h/">2022 1H</a>
+<br><a href="/students/feature-highlights/2021-2h/">2021 2H</a></p>
+<h2 id="student-initiated-learning">Student-Initiated Learning</h2>
+<hr>
+<p><a href="/students/student-initiated-learning/">For Secondary Level</a>
+<br><a href="/students/student-initiated-learning/">For JC/MI Level</a></p>
+<h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
+<hr>
+<p><a href="/students/frequently-asked-questions/young-overseas-singaporeans/">Young Overseas Singaporeans</a>
+<br><a href="/students/frequently-asked-questions/technical-support-and-passwords/">Technical Support and Passwords</a>
+<br><a href="/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(Pri">Account Management (Pri).pdf</a>
 <br>
-[Account Management (Sec/JCCI)](/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(SecJCCI).pdf)
-
-## Frequently Asked Questions
-[Young Overseas Singaporeans](/students/Frequently-Asked-Questions/YoungOverseas/)
-<br>[Technical Support and Passwords](/students/Frequently-Asked-Questions/TechnicalSupport/)
+<a href="/files/Login%20Troubleshooting/SLS%20Account%20Management%20-%20Guide%20for%20Students%20(SecJCCI">Account Management (Sec/JCCI).pdf</a></p>
+<p></p>
