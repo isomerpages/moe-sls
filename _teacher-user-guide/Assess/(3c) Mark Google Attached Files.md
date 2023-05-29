@@ -11,7 +11,7 @@ third_nav_title: Assess
 <ol style="list-style-type: lower-alpha;">
 <li>Mark as PDF: Creates a new PDF copy of the file. You can do on-screen marking using touch devices through Google extensions. </li>
 <li><p>Mark as Google File: Creates a new copy of the file. You can directly edit or comment on the new copy of the file.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/As-GoogleComment.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/ As-GoogleComment.png"></p>
 </li>
 </ol>
 </li>
