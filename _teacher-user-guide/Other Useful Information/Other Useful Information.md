@@ -14,7 +14,7 @@ third_nav_title: Other Useful Information
 </ul>
 </details>
 
-<details><summary><h4>Are they any other useful SLS tips?</h4></summary>
+<details><summary><h4>Are there any other useful SLS tips?</h4></summary>
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/other-useful-information/bookmarking-tips/">Bookmarking Tips</a></li>
 <li><a target="_blank" href="/teacher-user-guide/other-useful-information/tech-tips-for-teachers/">Tech Tips for Teachers</a></li>
