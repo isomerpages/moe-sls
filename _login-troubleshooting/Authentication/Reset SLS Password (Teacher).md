@@ -4,55 +4,24 @@ permalink: /login-troubleshooting/authentication/reset-sls-password-teacher/
 description: ""
 third_nav_title: Authentication
 ---
-<h1 id="reset-sls-password-student-">Reset SLS Password (Student)</h1>
-<p>If you have forgotten your SLS password, you can reset it by having a password reset email sent to your email address, or by answering a series of security questions.</p>
-<h2 id="-reset-password-with-a-password-reset-link-">Reset Password with a Password Reset Link</h2>
-<hr>
-<p><u>Note</u>: You can only do this if you have previously set a verified password reset email address.</p>
+<h1 id="reset-sls-password-teacher-">Reset SLS Password (Teacher)</h1>
 <ol>
 <li>From the main login page, click <strong>Login With SLS</strong>. </li>
 <li>Click <strong>Forgot Password</strong>.</li>
 <li>Enter your SLS Username.</li>
-<li>Click <strong>Submit</strong>.</li>
-<li>Select <strong>Receiving a password reset link in my email</strong>.</li>
 <li>Click <strong>Submit</strong>.</li>
 <li>An email with the password reset link will be sent to your email address.</li>
 <li>Click the reset password link in the email.<ul>
-<li>The link will be valid for 10 minutes.</li>
+<li>The link is valid for 10 minutes.</li>
 <li>If the link has expired, you can request another by repeating the steps above.</li>
 </ul>
 </li>
-<li><p>On the Reset Password page, enter a new password.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9c1c17c9-b03c-4cfb-af48-962d83d49dd5/Untitled.png"></p>
-</li>
-<ul><li><p>You will need to enter the new password twice to confirm that you have entered it correctly.</p>
-</li></ul>
-<li>Click <strong>Submit</strong>.</li>
+<li>On the <strong>Reset Password</strong> page, enter a new password.<img style="width: 50%;" src="/images/4Troubleshooting/LT-ResetPassword.png">
+<ul><li>You will need to enter the new password twice to confirm that you have entered it correctly.</li></ul>
+</li><li>Click <strong>Submit</strong>.</li>
+<li>If your password reset is successful, you will be brought to the login page.</li>
+<li>Click here if you did not receive your password reset email [hyperlink troubleshooting - <strong><strong>Password Reset Email]</strong></strong></li>
 </ol>
-<h2 id="d-id-not-receive-password-reset-email-">Did Not Receive Password Reset Email</h2>
+<h2 id="-unlock-account-">Unlock Account</h2>
 <hr>
-<p>When you use the Forgot Password feature to reset your password, an email with a password reset link will be sent to you. If you cannot find the email in your inbox, it may be in the spam/junk folder.</p>
-<p><u>Note</u>: If the link has expired, go to the login page and select <strong>Forgot Password</strong> to request another link.</p>
-<p>It is also possible that you have not entered and verified your email address. If that's the case, you may either use the security questions or approach a teacher to reset your password. Remember to key in an email address after that for future password reset.</p>
-<p>If the problem persists, please contact the school's SLS Administrator.</p>
-<h2 id="-reset-password-by-answering-security-questions-">Reset Password by Answering Security Questions</h2>
-<hr>
-<ol>
-<li>From the main login page, click <strong>Login With SLS</strong>. </li>
-<li>Click <strong>Forgot Password</strong>.</li>
-<li>Enter your SLS Username.</li>
-<li>Click <strong>Submit</strong>.</li>
-<li><p>Select the radio button for <strong>Answering my security questions</strong> and click <strong>Submit</strong>.</p>
-	<p><u>Note</u>: You will be prompted only if you have set a verified alternate email. Otherwise, you will be brought directly to the Security Questions page.</p>
-</li>
-<li><p>On the Security Questions page, enter the answers to the security questions.</p>
-<p> <img alt="Untitled" src="https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7bca599-c7c3-4520-91d0-214efa83786a/Untitled.png"></p>
-	<p><u>Note</u>: You must answer all questions correctly before you can reset your password.</p>
-</li>
-<li><p>Click <strong>Submit</strong>.</p>
-</li>
-</ol>
-<h2 id="-get-temporary-access-to-sls-">Get Temporary Access to SLS</h2>
-<hr>
-<p>If you need to log in to the SLS during class and have forgotten your password, your teacher can generate a 2-Hour Temporary Password (2HTP). The 2HTP only allows you to access the Assignments and MOE Library. It does not allow you to reset your password or change other details in your Profile.</p>
-<p>This is only a temporary solution. If you have forgotten your password, you should try to reset it by following the steps above.</p>
+<p>For security reasons, your account will be locked if you try to log in with an incorrect password too many times. Please approach your school's SLS administrator for help with unlocking your account.</p>
