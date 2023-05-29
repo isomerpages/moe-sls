@@ -62,7 +62,7 @@ third_nav_title: SLS Events
                 </td>
                 <!--2nd column-->
                 <td>
-                <p>SLS Avatar release</p>
+                <p>SLS Superhero Avatar release</p>
                 </td>
                 </tr>          
           <tr>
