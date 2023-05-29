@@ -31,7 +31,7 @@ third_nav_title: SLS Superhero Quiz
   <li>In the <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonResources/SearchCommunityGallery.html">Community Gallery</a>, search for digitised exam papers (as lessons) using keywords (“Examinations” or “Assessment”), subject and level filters.</li>
   <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonResources/MakeLessonCopy.html">Copy to My Drive</a> and assign it to your students for practice or edit it to cater to your students’ learning needs.</li>
 </ol>
-
+![](/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign.png)
 <ul>
   <li>You can enable reattempts of the course for further practice by <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/AssignmentFeedback/CopyAssignment.html">allowing students to copy the lesson to their Drive</a>:</li>
   <br>
