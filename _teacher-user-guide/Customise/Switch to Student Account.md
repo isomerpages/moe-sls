@@ -15,7 +15,7 @@ third_nav_title: Customise
   <li>Open the right menu and click <strong>Switch to Student Account</strong>.</li>
 	<img style="width: 50%;" src="/images/2Teacher/Cu-TeacherStudent.png">
   
-  <li>You can add your teacher-student account into a Class Group to attempt Assignments as a student. To find out more on how you can add a teacher-student account into a Class Group, click <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/ClassGroupManagement/AddTeachersAsStudents.html">here</a>.</li>
+  <li>You can add your teacher-student account into a Class Group to attempt Assignments as a student. To find out more on how you can add a teacher-student account into a Class Group, click <a target="_blank" href="/teacher-user-guide/organise/add-teachers-as-students-to-a-class-group/">here</a>.</li>
 </ol>
 
 <h2>Switch to Teacher Mode</h2>
