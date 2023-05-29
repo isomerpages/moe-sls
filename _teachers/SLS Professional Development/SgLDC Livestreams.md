@@ -17,7 +17,7 @@ third_nav_title: SLS Professional Development
   <tbody>
     <tr>
       <td>      
-        <a target="_blank" href="https://youtu.be/nGgkZE5CpXQ?list=PLQxzGTcC-xNUWDHiwCmHgBGMSnuKtoEiT"><img width="50%" src="./images/2Teacher/Spotlight__Aug_2022_.png"></a>
+        <a target="_blank" href="https://youtu.be/nGgkZE5CpXQ?list=PLQxzGTcC-xNUWDHiwCmHgBGMSnuKtoEiT"><img width="50%" src="/images/2Teacher/Spotlight__Aug_2022_.png"></a>
         <p>SLS Release 17 Spotlight</p>
       </td>
       <td></td>
@@ -31,7 +31,7 @@ third_nav_title: SLS Professional Development
     </tr>
     <tr>
       <td>
-        <a target="_blank" href="https://youtu.be/xtB_uT1WhVw?list=PLQxzGTcC-xNUWDHiwCmHgBGMSnuKtoEiT"><img width="50%" src="/images/2Teacher/SLSSpotlightTQ.jpg"></a>
+        <a target="_blank" href="https://youtu.be/xtB_uT1WhVw?list=PLQxzGTcC-xNUWDHiwCmHgBGMSnuKtoEiT"><img width="50%" src="/images/2Teacher/r18 spotlight.png"></a>
         <p>SLS Spotlight: Team Quiz + Google</p>
       </td>
       <td>
@@ -45,5 +45,4 @@ third_nav_title: SLS Professional Development
       </td>
       <td></td>
     </tr>
-  </tbody>
-</table>
+  </tbody></table>
