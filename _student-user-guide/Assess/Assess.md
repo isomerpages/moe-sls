@@ -35,8 +35,8 @@ third_nav_title: Assess
     <li><a target="_blank" href="/student-user-guide/assess/insert-emoticon/">Insert Emoticon</a></li>
     <li><a target="_blank" href="/student-user-guide/assess/insert-tooltip/">Insert Tooltip</a></li>
     <li><a target="_blank" href="/student-user-guide/assess/text-to-speech-tts/">Text-to-Speech (TTS)</a></li>
-    <li><a target="_blank" href="/student-user-guide/assess/text-to-speech-tts/">Speech Evaluation</a></li>
-    <li><a target="_blank" href="student-user-guide/assess/edictionary/">E-Dictionary</a></li>
+    <li><a target="_blank" href="/student-user-guide/assess/speech-evaluation/">Speech Evaluation</a></li>
+    <li><a target="_blank" href="/student-user-guide/assess/edictionary/">E-Dictionary</a></li>
   </ul>
   </details>
 
