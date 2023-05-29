@@ -12,9 +12,9 @@ third_nav_title: Author
 <h2 id="add-a-question-tag">Add a Question Tag</h2>
 <hr>
 <ol>
-<li>To start, click the <strong>Pencil</strong> icon [insert icon] found at the top right of the header to edit your Lesson.</li>
-<li>The Component Details Card can be expanded/hidden by clicking the <strong>Settings</strong> icon [insert icon].</li>
-<li>To edit the Question Details Card, click the <strong>Settings</strong> icon [icon img]. </li>
+<li>To start, click the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> found at the top right of the header to edit your Lesson.</li>
+<li>The Component Details Card can be expanded/hidden by clicking the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg">.</li>
+<li>To edit the Question Details Card, click the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg">. </li>
 <li><p>To include the Question in the Learning Progress, check the box beside <strong>Include in Learning Progress</strong>. You can also add Keyword Tags and Question Tags. </p>
 <p><img style="width: 50%;" src="/images/2Teacher/AU-AddQuestionTag1.png"></p>
 	<p><u>Note</u>: You will need to add a Question Tag in order to include the question in the Learning Progress.</p>
@@ -29,7 +29,7 @@ third_nav_title: Author
 <li>Click the downward arrow to expand the Topics in order to see the Sub-topics. Select the checkboxes next to the <strong>Sub-topics</strong> that are relevant to this question. </li>
 <li>Click the upward arrow on the Question Tag field to close the selection.</li>
 <li>Alternatively, you may click <strong>Copy Tags From Lesson</strong> to add the same tags from Lesson Tags to your Question Tags.</li>
-<li><p>Click the <strong>Save</strong> icon [icon img] to proceed.</p>
+<li><p>Click the <strong>Save</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/AU-AddQuestionTag2.png"></p>
 </li>
 </ol>
@@ -39,6 +39,6 @@ third_nav_title: Author
 <ol>
 <li>To add more Question Tags, click <strong>Add Question Tag</strong>.</li>
 <li>Multiple Question Tags will be displayed in an accordion format.</li>
-<li>To expand or collapse the tag details for viewing, click the <strong>Question Tag Title</strong> or the upward/downward arrow. To remove the tag, click the <strong>Trash</strong> icon.</li>
-<li>Click the <strong>Save</strong> icon to exit.</li>
+<li>To expand or collapse the tag details for viewing, click the <strong>Question Tag Title</strong> or the upward/downward arrow. To remove the tag, click the <strong>Trash</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">.</li>
+<li>Click the <strong>Save</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg">to exit.</li>
 </ol>
