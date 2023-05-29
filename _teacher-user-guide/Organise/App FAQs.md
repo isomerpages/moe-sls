@@ -22,6 +22,6 @@ third_nav_title: Organise
   <li>
     <strong>Who do I contact if I encounter any issues?</strong>
     <p>If you encounter issues within the App (after it has launched in a new tab), please email the App Helpdesk.</p>
-    <p>If you encounter issues in SLS (before it launched in a new tab), please email SLS&nbsp;<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/logintroubleshooting/LoginTroubleshooting/ContactSLSHelpdesk.html">Helpdesk</a>.</p>
+    <p>If you encounter issues in SLS (before it launched in a new tab), please email SLS&nbsp;<a href="/teacher-user-guide/track-progress/access-learning-progress/">Helpdesk</a>.</p>
   </li>
 </ol>
