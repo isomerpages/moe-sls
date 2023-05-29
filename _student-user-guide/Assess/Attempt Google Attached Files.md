@@ -8,6 +8,7 @@ third_nav_title: Assess
 
 <p>SLS is now able to connect with the Google Suite of Tools. Students are encouraged to <a href="https://www.notion.so/Manage-Linked-Account-3ba03c957a774c26bee2af7113a05c1a">link their iCON 2.0 or Google accounts with SLS</a>.</p>
 <h3 id="open-edit-google-attached-files">Open/Edit Google-Attached Files</h3>
+<hr>
 <ol>
 <li><p>If your teacher has attached Google Files to the pre-populated student answer for you to access/attempt, you will be able to access the file by clicking on the <strong>Open in New Tab</strong> or <strong>Edit</strong> button. </p>
 <p> <img src="/images/1Student/As-Google.png"></p>
@@ -24,6 +25,7 @@ third_nav_title: Assess
 </li>
 </ol>
 <h3 id="open-edit-teacher-comments-">Open/Edit Teacher Comments</h3>
+<hr>
 <ol>
 <li>After your teacher has given feedback on the your work, you can edit a copy of your teacher’s comments under the Teacher Comments tab to do corrections. </li>
 <p> <img src="/images/1Student/As-Google4.png"></p>
