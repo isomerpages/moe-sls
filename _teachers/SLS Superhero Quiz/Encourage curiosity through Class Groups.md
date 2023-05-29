@@ -6,7 +6,7 @@ third_nav_title: SLS Superhero Quiz
 ---
 <h1 class="page-title">Encourage curiosity through Class Groups (#Discover_with_SLS)</h1>
 <hr>
-
+<a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/Assess%2001.pdf"><img style="width:50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Discover%2001.png"></a>
   <h2>What it is</h2>
   <hr>
   <p>Extend learning in Class Groups and empower students to share their perspectives by facilitating discussions in the Forum.</p>
@@ -27,4 +27,3 @@ third_nav_title: SLS Superhero Quiz
     <li>Extend your students' learning by inviting them to post questions and ideas on the <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/ClassGroupManagement/AboutForum.html">Class Group Forum</a>. You can even provide guidance by starting a Forum post or poll.</li>
     <li>To enrich the discussion, encourage your students to comment on other Forum posts.</li>
   </ol>
-
