@@ -14,17 +14,17 @@ third_nav_title: Assign
 <li>Managing an Assignment</li>
 </ul>
 </li>
-<li><p>From the Assignments page, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Assignment Card, followed by <strong>Manage</strong>.</p>
+<li><p>From the Assignments page, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Assignment card, followed by <strong>Manage</strong>.</p>
 	<p><u>Note</u>: Sharing Permissions cannot be revoked once set. It is recommended that teachers turn Sharing Permissions on only after all students have attempted all questions in the assignment.</p>
 </li>
 <li><p>On the Assignment Settings subpage, select the <strong>Others</strong> tab.</p>
 <ul>
-<li><p>Sharing Permissions is turned off by default. To allow students to share their Assignments, check the box beside <strong>Allow students to share Assignments</strong> and click the <strong>Save</strong> icon and <strong>Proceed</strong> to confirm.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AS-AllowShare1.png"></p>
+<li><p>Sharing Permissions is turned off by default. To allow students to share their Assignments, check the box beside <strong>Allow students to share Assignments</strong>. Click  <strong>Save</strong> and <strong>Proceed</strong> to confirm.</p>
+<p><img style="width: 80%;" src="/images/2Teacher/AS-AllowShare1.png"></p>
 </li>
 </ul>
 </li>
-<li><p>If sharing access is enabled, the <strong>Assignment Sharing</strong> icon [insert icon] will be seen on the Assignment Card and on the Assignment Cover page.</p>
+<li><p>If sharing access is enabled, the <strong>Assignment Sharing</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/SharingEnabled.svg"> will be seen on the Assignment card and on the Assignment Cover page.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/AS-AllowShare2.png"></p>
 </li>
 </ol>
