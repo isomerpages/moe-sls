@@ -20,7 +20,7 @@ third_nav_title: Authentication
 <ul><li>You will need to enter the new password twice to confirm that you have entered it correctly.</li></ul>
 </li><li>Click <strong>Submit</strong>.</li>
 <li>If your password reset is successful, you will be brought to the login page.</li>
-<li>Click here if you did not receive your password reset email [hyperlink troubleshooting - <strong><strong>Password Reset Email]</strong></strong></li>
+<li>Click <a target="_blank" href="/login-troubleshooting/authentication/password-reset-email/">here</a> if you did not receive your password reset email</li>
 </ol>
 <h2 id="-unlock-account-">Unlock Account</h2>
 <hr>
