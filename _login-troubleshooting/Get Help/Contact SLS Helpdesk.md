@@ -10,7 +10,7 @@ third_nav_title: Get Help
 <hr>
 <h2 id="having-problems-logging-in-">Having Problems Logging In?</h2>
 <hr>
-<p>For common login issues, you may refer to the <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/logintroubleshooting/index.html">Login Troubleshooting Tips.</a></p>
+<p>For common login issues, you may refer to the <a target="_blank" href="/login-troubleshooting/authentication/index/">Login Troubleshooting Tips.</a></p>
 <h2 id="need-further-assistance-">Need Further Assistance?</h2>
 <hr>
 <p>The SLS Helpdesk is happy to answer your queries on SLS through the contact details listed below.</p>
