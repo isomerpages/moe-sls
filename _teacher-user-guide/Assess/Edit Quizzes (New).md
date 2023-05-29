@@ -36,8 +36,8 @@ third_nav_title: Assess
 <li>Display (Page Break, 2-columns, 3-columns, Accordion)</li>
 </ul>
 </li>
-<li>Click here to find out about how to Add/Edit Components.</li>
-<li>Click here to find out about editing the Quiz Detail Card.</li>
+<li>Click <a target="_blank" href="URL">here</a> to find out about how to Add/Edit Components.</li>
+<li>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> to find out about editing the Quiz Detail Card.</li>
 </ol>
 <h2 id="edit-delete-and-reorder-pages-in-a-quiz-">Edit, Delete and Reorder pages in a Quiz</h2>
 <hr>
