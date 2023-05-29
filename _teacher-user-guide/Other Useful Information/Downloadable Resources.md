@@ -9,10 +9,10 @@ third_nav_title: Other Useful Information
 <h2 id="-downloadable-resources-">Downloadable Resources</h2>
 <hr>
 <table class="sug-datatable basic">
-  <thead>
-    <tr>
-      <th>Topics</th>
-      <th>Downloadable Resources</th>
+<thead>
+<tr>
+<th style="text-align: center; vertical-align: middle;">Topics</th>
+<th style="text-align: center; vertical-align: middle;">Downloadable Resources</th>
     </tr>
   </thead>
   <tbody>
