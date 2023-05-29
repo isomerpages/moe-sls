@@ -15,7 +15,7 @@ third_nav_title: Author
 <p><img style="width: 50%;" src="/images/2Teacher/AU-AddQTI2.png"></p>
 </li>
 <li><p>Upload a QTI zip file into the Import Question subpage and click <strong>Upload</strong>. You can also import images into options using QTI.</p>
-<p> <u>Note</u>: A sample file can be found here <a href="http://iwant2study.org/lookangejss/QTI2.1/physicsp1.zip">http://iwant2study.org/lookangejss/QTI2.1/physicsp1.zip</a> </p>
+<p> <u>Note</u>: A sample file can be found <a target="_blank" href="http://iwant2study.org/lookangejss/QTI2.1/physicsp1.zip">here</a></p>
 </li>
 <li><p>If the file is valid, it will be uploaded and scanned for viruses.</p>
 <p><u>Note</u>: The virus scan will take longer if the file size is large.</p>
@@ -44,7 +44,7 @@ third_nav_title: Author
 <p><u>Note</u>:</p>
 <ol>
 <li>Identifying the correct answers to Multiple-Choice Questions with single or multiple responses can be done within SLS after the questions have been uploaded.</li>
-<li>You may add Hints, Teacher Feedback and Question Tags (hyperlink <a href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/TagComponent.html">https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/TagComponent.html</a>) to questions within SLS. Tagged questions will be reflected in the Learning Progress (hyperlink <a href="https://www.preprd.sls.ufinity.com/sls/teachers/user-guide/vle/teacher/LearningProgress/About.html">teachers/user-guide/vle/teacher/LearningProgress/About.html</a>) when they have been attempted by students.</li>
+<li>You may add Hints, <a target="_blank" href="/teacher-user-guide/assess/add-teacher-comments/">Teacher Feedback</a> and <a target="_blank" href="/teacher-user-guide/author/add-question-tags/">Question Tags</a> to questions within SLS. Tagged questions will be reflected in the <a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">Learning Progress</a> when they have been attempted by students.</li>
 </ol>
 <h2 id="faqs">FAQs</h2>
 <hr>
@@ -56,6 +56,6 @@ third_nav_title: Author
 <p> You can check out <a target="_blank" href="https://digitaliser.getmarked.ai/blog/complete-guide-to-qti/">https://digitaliser.getmarked.ai/blog/complete-guide-to-qti/</a></p>
 </li>
 <li><p><strong>I tried downloading the zip file on my Safari browser but the file was unzipped automatically.</strong></p>
-<p> Go to your Safari Preference and uncheck “Open “safe” files after downloading”. This should allow you to download the zip file without it being automatically unzipped.</p>
+<p> Go to your Safari Preference and uncheck 'Open “safe” files after downloading'. This should allow you to download the zip file without it being automatically unzipped.</p>
 </li>
 </ol>
