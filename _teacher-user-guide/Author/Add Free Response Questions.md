@@ -17,7 +17,7 @@ third_nav_title: Author
 <li><p>Below are the types of FRQ options you can choose from:</p>
 <ul>
 <li>Default.</li>
-<li>File Submission: Allow file submission checkbox will be checked. If checked, students have the option of uploading a file when they submit their responses. Students can upload up to 10 files. <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/UsefulResources/FileSizeLimits.html">File limits</a> are based on the file type.</li>
+<li>File Submission: Allow file submission checkbox will be checked. If checked, students have the option of uploading a file when they submit their responses. Students can upload up to 10 files. <a target="_blank" href="/teacher-user-guide/author/file-size-limits/">File limits</a> are based on the file type.</li>
 <li>Language Feedback (EL): Learning Feedback Assistance (LFA) is currently undergoing pilot in participating schools.</li>
 <li><p>Mathematics Feedback: The question set using Mathematics Feedback will appear in the Pre-populated Student Answer Field. You can edit the question by clicking the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">or delete by clicking the <strong>Trash</strong> icon<img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">. Mathematics Feedback provides feedback (and Marks if checked) to students after they submit their response.</p>
 	<p><u>Note</u>: File Submission and Suggested Answer Field is disabled when using Mathematics Feedback.</p>
@@ -51,5 +51,5 @@ third_nav_title: Author
 </li>
 <li><p>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> for editing the Question Component Details Card.</p>
 </li>
-<li>Click here for adding questions in a Quiz.</li>
+<li>Click <a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">here</a> for adding questions in a Quiz.</li>
 </ul>
