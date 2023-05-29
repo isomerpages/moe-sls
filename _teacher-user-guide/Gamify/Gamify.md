@@ -19,7 +19,7 @@ third_nav_title: Gamify
   </ul>
 </details>
 
-<img src="/images/2Teacher/Flow-Gamify2.png">
+<img style="width: 50%;" src="/images/2Teacher/Flow-Gamify2.png">
 
 <details>
  <summary><h4>Where to find game Leaderboard?</h4></summary>
