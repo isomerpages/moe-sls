@@ -43,4 +43,4 @@ third_nav_title: Technical Issues
 </tr>
 </tbody>
 </table>
-<p> If you are having trouble even though your browser meets the above requirements, refer to the <a target="_blank" href="/login-troubleshooting/Technical-Issues/WebBrowserTroubleshooting/">Web Browser Troubleshooting Tips.</a></p>
+<p> If you are having trouble even though your browser meets the above requirements, refer to the <a target="_blank" href="/login-troubleshooting/technical-issues/web-browser-troubleshooting-tips/">Web Browser Troubleshooting Tips.</a></p>
