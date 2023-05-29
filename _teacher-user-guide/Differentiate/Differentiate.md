@@ -18,7 +18,7 @@ third_nav_title: Differentiate
 </details>
 
 <br>
-<img src="/images/2Teacher/Flow-Differentiate2.png">
+<img style="width: 50%;" src="/images/2Teacher/Flow-Differentiate2.png">
 
 <details>
  <summary><h4>How to provide differentiated access to students?</h4></summary>
