@@ -4,15 +4,16 @@ permalink: /teachers/build-the-sls-card-game/index/
 description: ""
 third_nav_title: "Build: the SLS Card Game"
 ---
-## Information
-[Background](/teachers/Build-The-SLS-Card-Game/Background/)
-
-## Rules
-[General Rules](/teachers/Build-The-SLS-Card-Game/generalrules/)
-<br>[Quick Build Mode](/teachers/Build-The-SLS-Card-Game/quickbuild/)
-<br>[Shared Build Mode](/teachers/Build-The-SLS-Card-Game/sharedbuild/)
-
-## Gameplay Support
-[Print to Play](/teachers/Build-The-SLS-Card-Game/printplay/)
-<br>[Facilitation Resources](/teachers/Build-The-SLS-Card-Game/facilitation/)
-<br>[Instruction Booklet](/teachers/Build-The-SLS-Card-Game/instruction/)
+<h2 id="information">Information</h2>
+<hr>
+<p><a href="/teachers/build-the-sls-card-game/background/">Background</a></p>
+<h2 id="rules">Rules</h2>
+<hr>
+<p><a href="/teachers/build-the-sls-card-game/general-rules/">General Rules</a>
+<br><a href="/teachers/build-the-sls-card-game/quick-build-mode/">Quick Build Mode</a>
+<br><a href="/teachers/build-the-sls-card-game/shared-build-mode/">Shared Build Mode</a></p>
+<h2 id="gameplay-support">Gameplay Support</h2>
+<hr>
+<p><a href="/teachers/build-the-sls-card-game/print-to-play/">Print to Play</a>
+<br><a href="/teachers/build-the-sls-card-game/facilitation-resources/">Facilitation Resources</a>
+<br><a href="/teachers/build-the-sls-card-game/instruction-booklet/">Instruction Booklet</a></p>
