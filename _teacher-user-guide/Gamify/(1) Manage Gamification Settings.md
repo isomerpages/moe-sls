@@ -22,7 +22,7 @@ third_nav_title: Gamify
 	<p><u>Note</u>: </p>
 
 
-<li>Please ensure all images used follow Copyright Guidelines and are credited in your lesson. You may refer to our Copyright FAQs for more information. (Link to Copyright FAQs)<p></p>
+<li>Please ensure all images used follow Copyright Guidelines and are credited in your lesson. You may refer to our <a target="_blank" href="/teacher-user-guide/author/copyright-faqs/">Copyright FAQs</a> for more information. <p></p>
 </li>
 <li>You can edit the Game Experience from the Monitoring Assignment page. Click the <strong>Game Experience</strong> tab, followed by <strong>Edit Game Experience</strong>.</li>
 <li>You can also edit the Game Experience after assigning the lesson. From within an Assignment, open the right menu and select Edit. Click on the <strong>Manage Gamification Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/GameEdit.svg"> to access the Gamification subpage.</li>
