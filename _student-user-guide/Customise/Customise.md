@@ -7,7 +7,7 @@ third_nav_title: Customise
 <h1>Customise</h1>
 <p>Use SLS to customize your avatar, UI and user experience based on your needs.</p>
 
-<img style="width: 100%;" src="/images/1Student/Flow-Customise.png">
+<img style="width: 50%;" src="/images/1Student/Flow-Customise.png">
 
 <details><summary><h4>How to manage my SLS account?</h4></summary>
 <ul>
