@@ -7,7 +7,7 @@ third_nav_title: SLS Superhero Quiz
 <h1 class="page-title">Assign past exam questions (#Assign_with_SLS)</h1>
 <hr>
 
-<a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/Assess%2001.pdf"> <img width="50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assess%2001.png"></a>
+<a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/Assess%2001.pdf"><img width="50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assess%2001.png"></a>
 
 <h2>What it is</h2>
 <hr>
@@ -15,7 +15,7 @@ third_nav_title: SLS Superhero Quiz
 
 <ul>
   <li>Digitised exam papers have a gray lesson card:</li>
-<img style="width: 25%;" src="images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign.png">
+<img style="width: 25%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign.png">
 <br>
 </ul>
 
