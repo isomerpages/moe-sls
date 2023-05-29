@@ -16,4 +16,4 @@ third_nav_title: Assess
 	<p> <u>Note</u>: You can only <strong>View Class Submissions</strong> after you have voted.</p>
 </li>
 </ol>
-<img src="/images/1Student/As-Poll1.png">
+<img style="width: 50%;" src="/images/1Student/As-Poll1.png">
