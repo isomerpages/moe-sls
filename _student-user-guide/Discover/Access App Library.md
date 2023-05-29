@@ -22,7 +22,7 @@ third_nav_title: Discover
 <hr>
 <ol>
 <li>From the Search in App Library page, click the <strong>View Details</strong> icon on the App Card to open the App Details Card.</li>
-<li>Click the <strong>Star</strong> icon to star an App. Starred Apps can be found your Starred Resources [hyperlink page]</li>
+<li>Click the <strong>Star</strong> icon to star an App. Starred Apps can be found in your <a target="_blank" href="/student-user-guide/organise/star-resources/">Starred Resources</a></li>	
 </ol>
 <h2>Search the App Library</h2>
 <hr>
