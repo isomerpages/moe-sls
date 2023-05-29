@@ -22,7 +22,7 @@ third_nav_title: Collaborate
 <li>To edit a Discussion, hover your mouse over the Discussion and click the component, or the <strong>Pencil</strong> icon. </li>
 <li>To delete your Discussion, click the <strong>Delete</strong> icon.</li>
 </ol>
-<p><img style="width: 50%;" src="/images/2Teacher/C-PollEdit.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/C-PollEdit.png"></p>
 <h2 id="-preview-as-student-">Preview as Student</h2>
 <hr>
 <p>When you Preview as Student or assign a Discussion to students, students will be able to create Posts in response to the question.</p>
