@@ -21,7 +21,7 @@ third_nav_title: Track Progress
 </li>
 
 <p><img style="width: 50%;" src="/images/2Teacher/TP-LP2.png"></p>
-<li>To view the overall progress (in terms of marks) of students for a Topic/Sub-topic over a certain duration, click the <strong>Filter</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Filter24.svg"> and choose the <strong>Month Range</strong> and <strong>Topic/Sub-topic</strong> from the dropdown list. Click <strong>Apply</strong> to perform your selection.</li>
+<li>To view the overall progress (in terms of marks) of students for a Topic/Sub-topic over a certain duration, click the <strong>Filter</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg"> and choose the <strong>Month Range</strong> and <strong>Topic/Sub-topic</strong> from the dropdown list. Click <strong>Apply</strong> to perform your selection.</li>
 <li>To sort the Topics/Sub-topics in ascending/descending order of marks, click the <strong>Up</strong>/<strong>Down</strong> arrows in the column headers </li>
 </ol>
 <h3 id="view-tagged-questions">View Tagged Questions</h3>
