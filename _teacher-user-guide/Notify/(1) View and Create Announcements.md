@@ -17,7 +17,7 @@ third_nav_title: Notify
   <li>click <strong>Announcements</strong> from the left menu.</li>
 </ul>
 
-<p>You can view Class Group Announcements from your Class Groups, under the <strong>Notifications</strong> tab. <a href="View Notifications">View Notifications</a></p>
+<p>You can view Class Group Announcements from your Class Groups, under the <a href="/teacher-user-guide/notify/view-notifications/">Notifications</a> tab. </p>
 
 <h2>Create Announcements</h2>
 
@@ -27,7 +27,7 @@ third_nav_title: Notify
 
 <ul>
   <li>Class Group Announcements</li>
-  <li>School Announcements (for SLS Admins only) <a href="Manage School-Wide Announcements">Manage School-Wide Announcements</a></li>
+  <li><a href="/teacher-user-guide/notify/view-and-create-announcements/">School Announcements</a>(for SLS Admins only)</li>
 </ul>
 
 <ol>
