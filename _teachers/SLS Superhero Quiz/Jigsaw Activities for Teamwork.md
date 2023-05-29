@@ -36,7 +36,5 @@ third_nav_title: SLS Superhero Quiz
 
 <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Tip!
 </p><li>Try including various questions in the Team Quiz to foster collaboration in diverse ways!</li>
-      <li>In addition to multiple-choice questions, try inserting a free-response and audio-response question.</li>
-      <li>Watch in detail <a target="_blank" href="https://www.youtube.com/watch?v=xtB_uT1WhVw">how to assign a Team Quiz</a> on the ETDtogo Youtube channel.</li>
-    
-  
+<li>In addition to multiple-choice questions, try inserting a free-response and audio-response question.</li>
+<li>Watch in detail <a target="_blank" href="https://www.youtube.com/watch?v=xtB_uT1WhVw">how to assign a Team Quiz</a> on the ETDtogo Youtube channel.</li>
