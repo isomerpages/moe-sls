@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 ---
 <h1 id="add-multiple-choice-questions">Add Multiple-Choice Questions</h1>
-<h2 id="-add-multiple-choice-question-mcq-"><strong>Add Multiple-Choice Question (MCQ)</strong></h2>
+<h2 id="-add-multiple-choice-question-mcq-">Add Multiple-Choice Question (MCQ)</h2>
 <hr>
 <ol>
 <li><p>In the Lesson Editor page, hover over Question in the Component Bar.</p>
@@ -51,7 +51,7 @@ third_nav_title: Author
 <li><p>Marks - You can set marks for the question. The default is one mark.</p>
 	<p><u>Note</u>: Question Body, Hint, Option tex, and Feedback fields support Rich Text-enabled components.</p>
 </li>
-<li><p>Click here for editing the Question Component Details Card.</p>
+<li><p>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> for editing the Question Component Details Card.</p>
 </li>
-<li>Click here for adding questions in a Quiz.</li>
+<li>Click <a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">here</a> for adding questions in a Quiz.</li>
 </ul>
