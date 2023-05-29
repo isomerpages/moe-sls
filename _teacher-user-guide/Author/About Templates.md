@@ -7,7 +7,7 @@ third_nav_title: Author
 <h1 id="about-templates">About Templates</h1>
 <p>When designing a Lesson or adding new Activity/Section, you can select a templates from:</p>
 <ol>
-<li>My Templates </li>
+<li><a target="_blank" href="/teacher-user-guide/customise/manage-my-templates/">My Templates</a></li>
 <li>SLS Templates</li>
 </ol>
 <p><img style="width: 50%;" src="/images/2Teacher/AU-AboutTemplates1.png"></p>
@@ -15,7 +15,7 @@ third_nav_title: Author
 <hr>
 <ul>
 <li>Templates that you have created will appear here.</li>
-<li>Click here for more on Manage My Templates.</li>
+<li>Click <a target="_blank" href="/teacher-user-guide/customise/manage-my-templates/">here</a> for more on Manage My Templates.</li>
 </ul>
 <h2 id="sls-templates">SLS Templates</h2>
 <hr>
