@@ -31,7 +31,7 @@ third_nav_title: Collaborate
 <hr>
 <ol>
 <li>Commenting permissions [hyperlink Change Forum Settings] can be toggled on/off on individual posts by teachers or owners of posts. </li>
-<li>Select a topic card, followed by a post that you wish to leave a comment on.<img style="width: 50%;" src="/images/2Teacher/C-TopicCard1.png"></li>
+<li>Select a topic card, followed by a post that you wish to leave a comment on.<img style="width: 80%;" src="/images/2Teacher/C-TopicCard1.png"></li>
 <li><p>From the View Post subpage, click <strong>Add</strong> to enter comments.</p>
 	<p><u>Note</u>: Comments can contain mathematical or chemical formulae, emoticons, drawings, and attached files.</p>
 </li>
