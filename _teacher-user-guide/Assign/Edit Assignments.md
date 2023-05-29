@@ -8,7 +8,7 @@ third_nav_title: Assign
 <h2 id="-edit-an-assignment-in-progress-">Edit an Assignment in Progress</h2>
 <hr>
 <p>You can edit an assignment after it is assigned.</p>
-<p><u>Note</u>: You may not edit a question or a quiz if students have started attempting them. You may, however, choose to delete the entire question or quiz.</p>
+<p><u>Note</u>: You may not edit a question or a quiz if students have started attempting them. You may, however, choose to <a target="_blank" href="/teacher-user-guide/assign/delete-assignments/">delete</a> the entire question or quiz.</p>
 <ol>
 <li><p>Click the Assignment card to enter the Assignment and click the <strong>Overflow</strong> (3-dots icon) to open the right menu and select <strong>Edit</strong>.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/AS-EditAssignment1.png"></p>
@@ -16,7 +16,7 @@ third_nav_title: Assign
 <li><p>The Assignment would be temporarily paused and it would not be accessible to students until the teacher resumes the assignment. Click <strong>OK</strong> to confirm your action.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/AS-EditAssignment2.png"></p>
 </li>
-<li><p>You can proceed to edit the Activities.</p>
+<li><p>You can proceed to <a target="_blank" href="/teacher-user-guide/author/edit-activities-and-sections/">edit the Activities</a>.</p>
 </li>
 <li>When you have completed the edits, click the <strong>Update and Reassign</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Done.svg"> at the top right of the page.</li>
 <li>Click <strong>OK</strong>.</li>
