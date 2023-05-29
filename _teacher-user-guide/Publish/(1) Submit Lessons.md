@@ -24,7 +24,7 @@ third_nav_title: Publish
 <p><img style="width: 50%;" src="/images/2Teacher/P-CG.png"></p>
 </li>
 <li><p>If the <strong>Lesson is Ready for Submission</strong>, check the box to acknowledge that the content complies with SLS Terms of Use and the Copyright Guidelines. </p>
-	<p><u>Note</u>: To make any edits before submission, close the pop-up and click the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg">.</p>
+	<p><u>Note</u>: To make any edits before submission, close the pop-up and click the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">.</p>
 </li>
 <li><p>On the same subpage, you may wish to rename the Lesson Title, and edit the Permission Settings by selecting the checkboxes beside:</p>
 <ol style="list-style-type: lower-alpha;">
