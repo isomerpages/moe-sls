@@ -19,7 +19,7 @@ third_nav_title: Discover
 <a target="_blank" href="/images/2Teacher/D-AddNew.png"><img alt="D-AddNew" src="/images/2Teacher/D-AddNew.png"></a>
 	
   <br>
-  <li>You may search for Lessons <a href="/teacher-user-guide/discover/search-for-resources/">across MOE Library, Community Gallery and My Drive</a>. You can also apply Search Filter to narrow down your search.</li>
+  <li>You may search for Lessons <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">across MOE Library, Community Gallery and My Drive</a>. You can also apply Search Filter to narrow down your search.</li>
   <br>
 	<p><u>Note</u>: You are unable to search for Starred Resources.</p>
   <br>
@@ -68,7 +68,7 @@ third_nav_title: Discover
     </li>
     <li>Click the <strong>Lesson Card</strong> or <strong>View Details</strong> icon to view the Lesson Details.
         <br>
-	<a target="_blank" href="/images/2Teacher/D-AddExistingLesson.png"><img style="width: 50%;" alt="D-AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png"></a>			
+<img style="width: 50%;" alt="D-AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png">		
     </li>
     <li>Select the Activities you wish to add to your new Lesson by selecting the relevant checkboxes.</li>
     <li>To view the existing Lesson in a new tab, click the <strong>Expand</strong> icon.</li>
