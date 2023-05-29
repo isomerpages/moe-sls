@@ -10,10 +10,10 @@ third_nav_title: Assess
 <ol>
 <li>Once you have added the Quiz, the Quiz title will be pre-filled for you as “Untitled”. </li>
 <li>Click the Quiz Title to rename.</li>
-<li><p>You can choose to set the Quiz as Optional by adjusting the <strong>Optional</strong> toggle button, or delete by clicking the <strong>Trash</strong> icon.</p>
+<li><p>You can choose to set the Quiz as Optional by adjusting the <strong>Optional</strong> toggle button, or delete by clicking the <strong>Trash</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/As-EditQuiz.png"></p>
 </li>
-<li><p>To edit the details on the cover page of the Quiz, click the Quiz cover page or the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg">  to edit the following details: </p>
+<li><p>To edit the details on the cover page of the Quiz, click the Quiz cover page or the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">  to edit the following details: </p>
 <ul>
 <li><strong>Quiz Mode</strong>: The default Quiz Mode is Progressive Quiz. You may choose from the following options:<ul>
 <li><strong>Progressive Quiz</strong> (Students receive feedback automatically after submitting each question)</li>
@@ -42,14 +42,14 @@ third_nav_title: Assess
 <h2 id="edit-delete-and-reorder-pages-in-a-quiz-">Edit, Delete and Reorder pages in a Quiz</h2>
 <hr>
 <ol>
-<li>Click the Quiz or the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg"> to edit.</li>
+<li>Click the Quiz or the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> to edit.</li>
 <li>Click on the Page you wish to edit, delete, or reorder. You can open the <strong>Overflow</strong> (<strong>3-dot</strong> icon) beside the <strong>Question Number</strong> to Add Page After/Before, Move Left/Right, or Delete.</li>
 </ol>
 <p><img style="width: 50%;" src="/images/2Teacher/As-EditQuiz2.png"></p>
 <h2 id="-edit-delete-or-reorder-a-component-in-a-quiz-">Edit, Delete or Reorder a Component in a Quiz</h2>
 <hr>
 <ol>
-<li>Click the Quiz or the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg"> to edit.</li>
+<li>Click the Quiz or the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> to edit.</li>
 <li>Click the Up/Down Arrows to move your Components Up/Down within a page.</li>
 <li><p>Open the <strong>Overflow</strong> (<strong>3-dot</strong> icon) beside the Component to Move it to the Previous/Next Page or Delete.</p>
 	<p> <u>Note</u>: </p>
