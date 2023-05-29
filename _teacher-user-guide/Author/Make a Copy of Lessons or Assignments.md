@@ -10,13 +10,13 @@ third_nav_title: Author
 <p>You can make a copy of Lessons in SLS from the following places on SLS.</p>
 <ol>
 <li>Lessons from My Drive, which include:<ul>
-<li>Lessons that you created [hyperlink teacher/MyDrive/CopyLesson.html]</li>
-<li>Lessons that were shared with you [hyperlink teacher/MyDrive/SharedWithMe.html] (if permission has been given)</li>
+<li><a target="_blank" href="/teacher-user-guide/discover/make-a-copy-of-a-lesson/">Lessons that you created</a></li>
+<li><a target="_blank" href="/teacher-user-guide/collaborate/access-a-shared-lesson/">Lessons that were shared with you</a> (if permission has been given)</li>
 <li>Lessons that were previously copied</li>
 </ul>
 </li>
-<li>Lessons from the MOE Library [hyperlink teacher/LessonResources/MakeLessonCopy.html] (if permission has been given)</li>
-<li>Lessons from the Community Gallery [hyperlink teacher/LessonResources/MakeLessonCopy.html]</li>
+<li><a target="_blank" href="/teacher-user-guide/discover/make-a-copy-of-a-lesson/">Lessons from the MOE Library</a> (if permission has been given)</li>
+<li><a target="_blank" href="/teacher-user-guide/discover/make-a-copy-of-a-lesson/">Lessons from the Community Gallery</a></li>
 <li>Lessons that are assigned as Assignments (if permission has been given)</li>
 </ol>
 <h2 id="make-a-copy-of-an-assignment-">Make a Copy of an Assignment</h2>
