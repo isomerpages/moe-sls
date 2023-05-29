@@ -49,7 +49,7 @@ third_nav_title: Author
 <h2 id="-add-a-media-object-from-the-library-">Add a Media Object from the Library</h2>
 <hr>
 <ol>
-<li>Click <strong>Add Media</strong> icon [icon] and choose <strong>Add from Library</strong>.</li>
+<li>Click <strong>Add Media</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/PaperClip.svg"> and choose <strong>Add from Library</strong>.</li>
 <li>Search and Filter the Media Object that you want to add from the global search bar.</li>
 <li>Click <strong>View Details</strong> in the Media Object card to see its details such as Title, Description, File Size and where it is Used in.</li>
 <li><p>Click <strong>Choose</strong> to insert the Media Object into the Lesson.</p>
