@@ -19,7 +19,7 @@ third_nav_title: Discover
 <a target="_blank" href="/images/2Teacher/D-AddNew.png"><img alt="D-AddNew" src="/images/2Teacher/D-AddNew.png"></a>
 	
   <br>
-  <li>You may search for Lessons <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">across MOE Library, Community Gallery and My Drive</a>. You can also apply Search Filter to narrow down your search.</li>
+  <li>You may search for Lessons <a href="/teacher-user-guide/discover/search-for-resources/">across MOE Library, Community Gallery and My Drive</a>. You can also apply Search Filter to narrow down your search.</li>
   <br>
 	<p><u>Note</u>: You are unable to search for Starred Resources.</p>
   <br>
@@ -63,7 +63,7 @@ third_nav_title: Discover
     <li>From the Add New subpage, click <strong>Add Existing</strong> and select between <strong>From Library</strong> and <strong>From Starred Resources</strong>.  
 			
 <a target="_blank" href="/images/2Teacher/D-AddNew5.png"><img alt="D-AddNew5" src="/images/2Teacher/D-AddNew5.png"></a></li>
-    <li>You may search for Lessons <a href="teacher/discover/SearchForResources.html">across MOE Library, Community Gallery and My Drive</a>. You can also apply Search Filter to narrow down your search.
+    <li>You may search for Lessons <a href="/teacher-user-guide/discover/search-for-resources/">across MOE Library, Community Gallery and My Drive</a>. You can also apply Search Filter to narrow down your search.
 			<br><u>Note</u>: You are unable to search for Starred Resources.
     </li>
     <li>Click the <strong>Lesson Card</strong> or <strong>View Details</strong> icon to view the Lesson Details.
