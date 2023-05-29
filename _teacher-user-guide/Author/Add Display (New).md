@@ -42,7 +42,7 @@ third_nav_title: Author
 <hr>
 <ol>
 <li>In the Multiple Columns view, hover over Text/Media, Question or Last Used to add a Component.</li>
-<li><p>Click here to find out more about the different Components.</p>
+<li><p>Click <a target="_blank" href="/teacher-user-guide/author/add-components/">here</a> to find out more about the different Components.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/AU-AddDisplay2.png"></p>
 </li>
 <li><p>You can click on the Component to <strong>Edit</strong>, <strong>Move Up/Down</strong> or <strong>Delete</strong> a Multiple Column Component by clicking on respective icons.</p>
@@ -53,7 +53,7 @@ third_nav_title: Author
 <hr>
 <ol>
 <li>In the Accordion view, hover over Text/Media, Question or Last Used to add a Component.</li>
-<li>Click here to find out more about the different Components.</li>
+<li>Click <a target="_blank" href="/teacher-user-guide/author/add-components/">here</a> to find out more about the different Components.</li>
 <li>Click on <strong>Accordion</strong> which is the default title to rename. Click on the <strong>Up/Down arrow</strong> to hide or unhide the Accordion.</li>
 <li>You can click on the Component to <strong>Edit</strong>, <strong>Move Up/Down</strong> or <strong>Delete</strong> a Accordion Component by clicking on respective icons.</li>
 <li>You can add multiple Components by selecting from the Component Bar at the bottom.</li>
