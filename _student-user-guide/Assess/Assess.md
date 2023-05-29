@@ -9,7 +9,7 @@ third_nav_title: Assess
 
 <details><summary><h4>How to complete my Assignments?</h4></summary>
  <ul>
-    <li><a target="_blank" href="#">(1) Navigate an Assignment</a></li>
+    <li><a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">(1) Navigate an Assignment</a></li>
 	 <p>2. Attempt different Question types</p>
     <li><a target="_blank" href="/student-user-guide/assess/attempt-a-multiple-choice-question/">Attempt a Multiple-Choice Question</a></li>
     <li><a target="_blank" href="/student-user-guide/assess/attempt-a-fill-in-the-blanks-question/">Attempt a Fill-in-the-Blanks Question</a></li>
