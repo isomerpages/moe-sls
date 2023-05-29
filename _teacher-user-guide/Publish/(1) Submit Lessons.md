@@ -10,9 +10,9 @@ third_nav_title: Publish
 <hr>
 <ul>
 <li>Update the Lesson Description to give other users an overview of what the Lesson is about.</li>
-<li>Tag your Lesson with the appropriate Lesson Tag. You may refer to <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/LessonManagement/TagLesson.html">Tag a Lesson</a> for more information.</li>
+<li>Tag your Lesson with the appropriate Lesson Tag. You may refer to <a target="_blank" href="/teacher-user-guide/author/add-lesson-tags/">Tag a Lesson</a> for more information.</li>
 <li>Ensure collaborative features (eg. Padlet, Mentimeter, Nearpod, etc.) and documents (e.g. Google Docs, Google Slides, etc.) have read-only rights because embedded content can be viewed by all.</li>
-<li>Ensure your Lesson meets <a href="https://www.notion.so/2-Copyright-Guidelines-for-Submission-232b6d03faa84fdf9ce0ffb5d70dc052">Copyright guidelines</a>.</li>
+<li>Ensure your Lesson meets <a target="_blank" href="/teacher-user-guide/publish/copyright-guidelines-for-submission/">Copyright guidelines</a>.</li>
 </ul>
 <p>Your submission will be featured after it has been approved by one of the Community Gallery Administrators (CG Admins).</p>
 <h2 id="-check-lesson-for-submission-">Check Lesson for Submission</h2>
@@ -20,7 +20,7 @@ third_nav_title: Publish
 <ol>
 <li>Open the Lesson that you wish to submit to the Community Gallery.</li>
 <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the top right of the header, and click <strong>Check for Submission (Community Gallery)</strong>.</li>
-<li><p>You will be prompted to check that the content of the Lesson is in line with the <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/LessonResources/CopyrightGuidelines.html">Community Gallery guidelines</a>. </p>
+<li><p>You will be prompted to check that the content of the Lesson is in line with the <a target="_blank" href="/teacher-user-guide/publish/copyright-guidelines-for-submission/">Community Gallery guidelines</a>. </p>
 <p><img style="width: 50%;" src="/images/2Teacher/P-CG.png"></p>
 </li>
 <li><p>If the <strong>Lesson is Ready for Submission</strong>, check the box to acknowledge that the content complies with SLS Terms of Use and the Copyright Guidelines. </p>
