@@ -23,8 +23,8 @@ third_nav_title: Author
 <li>Upon clicking on the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> you can edit the drawing's:<ul>
 <li>Title</li>
 <li>Description</li>
-<li>Star it as a Resource <img style="width:1.5rem; display: inline;" src="/images/Icons/Star.svg"> <strong>(NEW)</strong></li>
-<li>Download drawing <img style="width:1.5rem; display: inline;" src="/images/Icons/Download.svg"> <strong>(NEW)</strong></li>
+<li>Star it as a Resource <img style="width:1.5rem; display: inline;" src="/images/Icons/AddStar.svg"> <strong>(NEW)</strong></li>
+<li>Download drawing [insert icon] <strong>(NEW)</strong></li>
 <li>Set Permission for Students to download</li>
 <li>Keyword Tags</li>
 </ul>
