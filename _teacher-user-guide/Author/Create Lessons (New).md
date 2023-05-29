@@ -10,14 +10,14 @@ third_nav_title: Author
 <ol>
 <li><p>On the homepage, select <strong>Create New Lesson</strong>. Then select Add New</p>
 <ul>
-<li><strong>Activity</strong></li>
-<li><strong>Quiz</strong></li>
-<li><p><strong>Introduction</strong></p>
+<li><a target="_blank" href="/teacher-user-guide/author/add-new-activities-and-sections/">Activity</a></li>
+<li><a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">Quiz</a></li>
+<li><p><a target="_blank" href="/teacher-user-guide/author/add-introduction/">Introduction</a></p>
 <p>Or Add Existing</p>
 </li>
-<li><p><strong>From Library</strong></p>
+<li><p><a target="_blank" href="/teacher-user-guide/author/add-existing-from-library-and-starred-resources/">From Library</a></p>
 </li>
-<li><strong>From Starred Resources</strong></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-existing-from-library-and-starred-resources/">From Starred Resources</a></li>
 </ul>
 </li>
 <li>You can also use one of the <a target="_blank" href="/teacher-user-guide/author/about-templates/">Templates</a> under My Templates or SLS Templates. Click <a target="_blank" href="/teacher-user-guide/author/add-new-using-templates/">here</a> to learn how to Add Templates.</li>
