@@ -19,18 +19,18 @@ third_nav_title: Author
 </ul>
 <p>In the Rich Text Editor, you can</p>
 <ol>
-<li>Undo and Redo </li>
-<li>Format and Paragraph text </li>
-<li>Insert Mathematical/Chemical Equations </li>
-<li>Insert Tables</li>
-<li>Insert Emoticons</li>
-<li>Insert Media Objects</li>
-<li>Insert/Embed Files from Google </li>
-<li>Insert Drawings/Images</li>
-<li>Embed YouTube videos</li>
-<li>Embed App/Website</li>
-<li>Insert Hyperlinks</li>
-<li>Insert Links to Sections</li>
-<li>Insert Tooltips</li>
-<li>Generate Text-to-Speech Files</li>
+<li>Undo and Redo</li>
+<li><a target="_blank" href="/teacher-user-guide/author/formatting-and-paragraphing/">Format and Paragraph text</a> </li>
+<li><a target="_blank" href="/teacher-user-guide/author/insert-mathematical-or-chemical-equations/">Insert Mathematical/Chemical Equations</a> </li>
+<li><a target="_blank" href="/teacher-user-guide/author/insert-tables/">Insert Tables</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/insert-emoticons/">Insert Emoticons</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/insert-media-objects/">Insert Media Objects</a></li>
+<li><a target="_blank" href="/teacher-user-guide/collaborate/attach-google-files/">Insert/Embed Files from Google</a> </li>
+<li><a target="_blank" href="/teacher-user-guide/author/insert-drawings/">Insert Drawings/Images</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/embed-youtube-videos/">Embed YouTube videos</a></li>
+<li><a target="_blank" href="URL">Embed App/Website</a></li>
+<li><a target="_blank" href="URL">Insert Hyperlinks</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/insert-links-to-sections/">Insert Links to Sections</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/insert-tooltips/">Insert Tooltips</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/text-to-speech-tts/">Generate Text-to-Speech Files</a></li>
 </ol>
