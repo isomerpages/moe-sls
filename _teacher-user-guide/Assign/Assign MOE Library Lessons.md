@@ -18,7 +18,7 @@ third_nav_title: Assign
 <li><strong>Allow students to reattempt Lesson/Course as self-study</strong></li>
 </ol>
 </li>
-<li>Click <strong>Next</strong> to continue. This will lead you to the Assignment Summary page where you can review the draft assignments and their settings before clicking <strong>Assign</strong> to confirm.</li>
+<li>Click <strong>Next</strong> to continue. This will lead you to the <a target="_blank" href="URL">Assignment Summary</a> page where you can review the draft assignments and their settings before clicking <strong>Assign</strong> to confirm.</li>
 </ol>
 <h2 id="add-moe-lesson-as-class-group-resource">Add MOE Lesson as Class Group Resource</h2>
 <hr>
