@@ -29,7 +29,7 @@ third_nav_title: Collaborate
   </ul>
 </details>
 <br>
-<img src="/images/2Teacher/Flow-Collaborate3.png">
+<img style="width: 50%;" src="/images/2Teacher/Flow-Collaborate3.png">
 <details>
  <summary><h4>How can students collaborate in SLS?</h4></summary>
 <ul>
@@ -40,7 +40,7 @@ third_nav_title: Collaborate
   </ul>
 </details>
 <br>
-<img src="/images/2Teacher/Flow-Collaborate4.png">
+<img style="width: 50%;" src="/images/2Teacher/Flow-Collaborate4.png">
 <details>
  <summary><h4>How can teachers collaborate in SLS?</h4></summary>
 <ul>
