@@ -15,7 +15,7 @@ third_nav_title: Author
 </ol>
 <h2 id="-deleting-a-media-object-">Deleting a Media Object</h2>
 <hr>
-<p>You can delete a Media Object by clicking the <strong>Delete</strong> icon [insert icon] on the toolbar.</p>
+<p>You can delete a Media Object by clicking the <strong>Delete</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg"> on the toolbar.</p>
 <h2 id="-editing-a-media-object-">Editing a Media Object</h2>
 <hr>
 <p>Media Objects that have been uploaded from File will be editable. You may <strong>Draw</strong> (if the Media Object is an image), <strong>Delete</strong>, or edit its details by using the toolbar below the Media Object.</p>
