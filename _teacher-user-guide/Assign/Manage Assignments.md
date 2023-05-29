@@ -44,7 +44,7 @@ third_nav_title: Assign
 </li>
 <li><p>Click <strong>Save</strong> to save your changes and <strong>X</strong> to close the subpage.</p>
 </li>
-<li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) to Split, Rename or Delete the Assignment. <strong>()</strong><ul>
+<li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) to Split, Rename or Delete the Assignment. <strong>(New in R19)</strong><ul>
 <li><strong>Split</strong> - Students will be split by Subgroup or Form Class. To optimise the assignment monitoring experience and reduce loading time, there is a maximum of 100 assigned students for each assignment.</li>
 </ul>
 </li>
