@@ -14,10 +14,10 @@ third_nav_title: Collaborate
 <li>If you have selected Single-selection or Multi-selection, fill in the Rich-Text-enabled options. You can add up to 26 options. </li>
 <li>If you have selected Slider, you may create up to 7 plain text options.</li>
 <li>After the details are entered, click on an empty grey space to save your work.</li>
-<li>To hide the results of the Poll, click the <strong>Settings</strong> icon on the Poll card. By default, the results will be visible. To hide the results, select the checkbox “Hide results”. Click <strong>Save</strong> followed by <strong>X</strong>.</li>
+<li>To hide the results of the Poll, click the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the Poll card. By default, the results will be visible. To hide the results, select the checkbox “Hide results”. Click <strong>Save</strong> followed by <strong>X</strong>.</li>
 <li>When the results are hidden, only the number of total number of responses for each option will be shown on the Interaction Board. Students will be able to see their responses, indicated with a tick beside the bar graph.</li>
-<li>To edit a Poll, hover your mouse over the Poll and click the component, or the <strong>Pencil</strong> icon </li>
-<li>To delete your Poll, click the <strong>Delete</strong> icon.</li>
+<li>To edit a Poll, hover your mouse over the Poll and click the component, or the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">.</li>
+<li>To delete your Poll, click the <strong>Delete</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">.</li>
 </ol>
 <p><img style="width: 80%;" src="/images/2Teacher/C-PollEdit.png"></p>
 <p><u>Note</u>: You can change your Poll Type from within the Poll component by selecting the appropriate <strong>Poll Type</strong> under the dropdown list.</p>
