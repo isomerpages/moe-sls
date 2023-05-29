@@ -9,7 +9,7 @@ third_nav_title: Author
 <hr>
 <ol>
 <li>When entering your response in a component that is Rich Text-enabled, select the text that will be linked.</li>
-<li>Click the <strong>dropdown arrow</strong> beside Hyperlink icon [insert icon] and select <strong>Add External Link</strong>. </li>
+<li>Click the <strong>dropdown arrow</strong> beside Hyperlink icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Chain.png"> and select <strong>Add External Link</strong>. </li>
 <li>Key in the URL for the website that you would like the text to link to.</li>
 <li>You may also edit the <strong>Text to display</strong> or the <strong>Title</strong>.<ol style="list-style-type: lower-alpha;">
 <li>Text to display will be the text shown for users to click on. </li>
