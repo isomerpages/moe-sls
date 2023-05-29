@@ -13,7 +13,7 @@ third_nav_title: Assign
 <ol>
 <li>You can access <strong>My Drive</strong> by opening the left menu, under <strong>Resources</strong>.</li>
 <li>Click <strong>Open</strong> under the Lesson Title.</li>
-<li>On the Lesson View page, click the <strong>Assign</strong> icon [insert icon] found on the top right of the header.</li>
+<li>On the Lesson View page, click the <strong>Assign</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Assign.svg"> found on the top right of the header.</li>
 <li><p>On the Assign Lesson subpage, you will see all the Class Groups that are assigned to you. Class Groups that you have created can be found here too. Select the Class Groups you would like to assign the Assignment to, then click <strong>Assign</strong>.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/AS-CreateAssignment1.png"></p>
 </li>
@@ -21,7 +21,7 @@ third_nav_title: Assign
 </li>
 <li>On the Assignment Title subpage, you may edit the <strong>Assignment Title</strong> and <strong>Permission Settings</strong> [hyperlink <em></em>teacher/LessonManagement/CreateLesson.html].</li>
 <li><p>You may also Pause the Assignment upon assigning by checking the relevant checkbox. </p>
-<p><img style="width: 50%;" src="/images/2Teacher/AS-CreateAssignment2.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/AS-CreateAssignment2.png"></p>
 </li>
 <li><p>You may also adjust the Permission Settings. These permission settings will not affect your current Lesson in your My Drive, but subsequent copies of this Assignment.</p>
 </li>
