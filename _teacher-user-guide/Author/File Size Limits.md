@@ -37,7 +37,7 @@ third_nav_title: Author
     </tr>
     <tr>
       <td>Video</td>
-      <td>mp4/m4v/ogv/avi/mov/mpg/mpeg/wmv</td>
+      <td>mp4/m4v/ogv/avi/mov/mpg/mpeg/wmv/webm</td>
       <td>500 MB</td>
       <td>500 MB</td>
     </tr>
