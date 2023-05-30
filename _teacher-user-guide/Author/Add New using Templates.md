@@ -49,3 +49,7 @@ third_nav_title: Author
 <li><p>The chosen Activity Template has been tagged to an Active Learning Process. To view and edit the Activity Notes and Active Learning Process in the Activity Details Card, click the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the Activity Details Card. These fields are optional and will not be visible to students.</p>
 </li>
 </ol>
+<h2>Video Tutorial</h2>
+<hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Add New using Templates" src="https://www.youtube.com/embed/E_LKZUqKad4" height="100%" width="100%"></iframe></div>
