@@ -71,3 +71,8 @@ third_nav_title: Assess
 <li>After typing in the comment, click <strong>Post</strong>.</li>
 </ol>
 <p>Note: Each student can submit more than one post in a Discussion and teachers can create new posts as well.</p>
+<h2>Video Tutorial</h2>
+<hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Monitor an Assignment" src="https://www.youtube.com/embed/ot-Jv61XYgU" height="100%" width="100%"></iframe>
+</div>
