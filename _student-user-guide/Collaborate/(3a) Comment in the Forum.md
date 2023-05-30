@@ -10,7 +10,7 @@ third_nav_title: Collaborate
 <p><u>Important</u>: If comments have been disabled, you will not be able to open the post card. The <strong>Comments ( )</strong> button will be hidden.</p>
 <ol>
 <li>Click on a <strong>Post Card</strong> to open the <strong>View Post</strong> subpage.</li>
-<li>Click the <strong>Add</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Add.png"> at the bottom right of the View Post card. Type your comments and click <strong>Post</strong> to publish them.</li>
+<li>Click the <strong>Add</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Add.png"> at the bottom right of the View Post card. Type your comments and click <strong>Post</strong> to publish them.</li>
 <li>If commenting has been enabled, you may add comments in the form of text, mathematical/chemical equations, emojis, images, drawings, and file attachments.</li>
 <li><p>The number of comments for a particular post is indicated in parenthesis. </p>
 	<p> <u>Note</u>: Teachers are able to delete comments on any post. </p>
