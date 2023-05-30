@@ -20,3 +20,7 @@ third_nav_title: Assess
 <li>You can change the Quiz Mode, add Description and Instruction to Students by clicking on the Quiz Component.</li>
 </ul>
 <img style="width: 50%;" src="/images/2Teacher/As-CreateQuiz.png">
+<h2>Video Tutorial</h2>
+<hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Add Quiz to a Lesson" src="https://www.youtube.com/embed/xU3UjLAevp4" height="100%" width="100%"></iframe></div>
