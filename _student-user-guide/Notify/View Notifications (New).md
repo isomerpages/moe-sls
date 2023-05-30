@@ -9,7 +9,7 @@ third_nav_title: Notify
 <hr>
 <ol>
 <li>There are 4 ways to access your Notifications:
-<ul><li>click the <strong>Bell</strong> icon <img style="width:1rem; display: inline;" alt="Bell icon" src="/images/Icons/Bell.svg"> on the header, followed by <strong>View All Notifications</strong>,</li>
+<ul><li>click the <strong>Bell</strong> icon <img style="width:1.5rem; display: inline;" alt="Bell icon" src="/images/Icons/Bell.svg"> on the header, followed by <strong>View All Notifications</strong>,</li>
 <li>click <strong>View All Announcements</strong> from the Announcements widget on the homepage,</li>
 <li>open the left menu and click <strong>Announcements</strong>,</li>
 <li>enter a Class group and select the <strong>Notifications</strong> tab. <img src="/images/1Student/N-ClassGroupNotification.png"></li></ul>
@@ -48,9 +48,9 @@ third_nav_title: Notify
 <h2>Flag a Notification</h2>
 <hr>
 <ol>
-<li>On the Notification Card, click the <strong>Flag</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Flag24.svg"> to flag a Notification. You can use it to flag important notifications you wish to follow up on.</li>
-<li>A Flagged Notification will be indicated with a Red Flag. <img alt="" style="width:1rem; display: inline;" src="/images/Icons/FlagFilled24.svg"></li>
-<li>To unflag a Notification, click the <strong>Red Flag</strong> icon.</li>
+<li>On the Notification Card, click the <strong>Flag</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Flag24.svg"> to flag a Notification. You can use it to flag important notifications you wish to follow up on.</li>
+<li>A Flagged Notification will be indicated with a Red Flag <img alt="" style="width:1.5rem; display: inline;" src="/images/Icons/FlagFilled24.svg">.</li>
+<li>To unflag a Notification, click the <strong>Red Flag</strong> icon <img alt="" style="width:1.5rem; display: inline;" src="/images/Icons/FlagFilled24.svg">.</li>
 <li>To flag/unflag on multiple Notifications, you can select multiple Notifications by selecting the checkboxes beside the Notification Cards, or selecting the checkbox beside <strong>Select all notifications</strong> if you wish to select the entire page of Notifications.</li>
 <li>On the table header, click <strong>Flag</strong>/<strong>Clear Flag</strong>.</li></ol>
 <img src="/images/1Student/N-FlagNotifications.png">
