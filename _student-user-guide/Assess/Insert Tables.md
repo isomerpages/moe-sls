@@ -29,7 +29,7 @@ third_nav_title: Assess
 <ol>
 <li>You may either key in a HTML colour name such as "black", or a HEX code such as "#000000" (for black).</li>
 <li>The default colour of the table border is black. You can also change the border colour by accessing the <strong>Advanced</strong> tab.</li>
-<li>Refer to <a href="https://htmlcolorcodes.com/color-names/">this website</a> for more HTML colour names or HEX codes that you can use.</li>
+<li>Refer to <a target="_blank" href="https://htmlcolorcodes.com/color-names/">this website</a> for more HTML colour names or HEX codes that you can use.</li>
 <li><p>You may wish to choose the SLS colours&nbsp;for a more consistent look:</p>
 <p> <strong>Primary Brand Colours</strong></p>
 <p> #2B63D9 (blue)</p>
