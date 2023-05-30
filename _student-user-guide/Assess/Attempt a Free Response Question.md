@@ -8,16 +8,16 @@ third_nav_title: Assess
 <h2 id="-free-response-question-">Free-Response Question</h2>
 <hr>
 <ol>
-<li>From R18, your teacher is able to attach a pre-populated Google File to a Free-Response Question. To find out how you can attempt such questions, click here [hyperlink student/Integration/AboutGoogle.html]. </li>
+<li>From R18, your teacher is able to attach a pre-populated Google File to a Free-Response Question. To find out how you can attempt such questions, click <a target="_blank" href="/student-user-guide/assign/attempt-google-attached-files/">here</a>. </li>
 <li>For Free-Response Questions, your may include in your response:<ol style="list-style-type: lower-alpha;">
-<li>text in English, Malay, Chinese or Tamil [hyperlink Insert Chinese or Tamil Text] </li>
-<li>tables [hyperlink Insert Tables]</li>
-<li>mathematical or chemical equations [hyperlink Insert Mathematical or Chemical Equations]</li>
-<li>emoticons [hyperlink Insert Emoticons]</li>
-<li>drawings [hyperlink Insert Drawings]</li>
-<li>files [hyperlink Upload File]</li>
-<li>links [hyperlink Insert/Edit Links]</li>
-<li>tooltips [hyperlink Insert Tooltip]</li>
+<li>text in English, Malay, <a target="_blank" href="/student-user-guide/assess/insert-chinese-or-tamil-text/">Chinese or Tamil</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/insert-tables/">tables</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/insert-mathematical-or-chemical-equations/">mathematical or chemical equations</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/insert-emoticon/">emoticons</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/insert-drawing/">drawings</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/upload-file/">files</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/insert-and-edit-links/">links</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/insert-tooltip/">tooltips</a></li>
 </ol>
 </li>
 <li>To enlarge your text box, click the <strong>Expand</strong> icon found on the bottom right of the text box.</li>
