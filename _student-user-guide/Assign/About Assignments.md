@@ -20,14 +20,14 @@ third_nav_title: Assign
 <li><p>Assignment Status <strong>-</strong> This indicates if the assignment is Paused, Complete, Incomplete, Upcoming or Overdue. </p>
 	<p> <u>Note</u>: Overdue assignments can still be attempted.</p>
 </li>
-<li><p>Assignment Sharing icon - This icon <img style="width:1rem; display: inline;" src="/images/Icons/SharingEnabled.svg"> will appear if your teacher has enabled sharing of the Assignment with your classmates.</p>
+<li><p>Assignment Sharing icon - This icon <img style="width:1.5rem; display: inline;" src="/images/Icons/SharingEnabled.svg"> will appear if your teacher has enabled sharing of the Assignment with your classmates.</p>
 </li>
-<li>Gamification icon - This icon <img style="width:1rem; display: inline;" src="/images/Icons/Game.svg"> will appear if your teacher has enabled Gamification for the Assignment. </li>
+<li>Gamification icon - This icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Game.svg"> will appear if your teacher has enabled Gamification for the Assignment. </li>
 <li>Colour Banner - The colour shown on the Assignment Card is based on the type of subject class assigned. Each type of subject class has a unique colour.</li>
 <li>Label - Assignments that are recently assigned (up to 3 days ago) will be labelled "New". Existing Assignments that have sections added to them will be labelled “New Section”</li>
-<li>View Details icon - This icon <img style="width:1rem; display: inline;" src="/images/Icons/ViewDetails.svg"> shows the Lesson Details subpage, which includes the Sections/Activities and Lesson Description.</li>
+<li>View Details icon - This icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> shows the Lesson Details subpage, which includes the Sections/Activities and Lesson Description.</li>
 </ol>
-<p><u>Did you know?</u>: From R18, teachers are able to set a Passcode to an Assignment. You will be required to enter the Passcode (case-sensitive) in order to access these Assignments.</p>
+<p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did you know?</u>: From R18, teachers are able to set a Passcode to an Assignment. You will be required to enter the Passcode (case-sensitive) in order to access these Assignments.</p>
 <h2 id="language-settings">Language Settings</h2>
 <hr>
 <p>By default, your Assignments are displayed in English. However, your teacher has the option to display your Assignment in Chinese, Malay or Tamil.</p>
@@ -46,4 +46,4 @@ third_nav_title: Assign
 </ul>
 <h3 id="optional-activities">Optional Activities</h3>
 <hr>
-<p>Some Activities may be indicated as “Optional” within an Assignment. Optional Activities can be identified through the <img style="width:1rem; display: inline;" src="/images/Icons/ActivityOptional32.svg"> icon in the Activity List. You do not need to complete them to gain a “Complete” status for the Assignment.</p>
+<p>Some Activities may be indicated as “Optional” within an Assignment. Optional Activities can be identified through the <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityOptional32.svg"> icon in the Activity List. You do not need to complete them to gain a “Complete” status for the Assignment.</p>
