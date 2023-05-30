@@ -31,3 +31,9 @@ third_nav_title: Author
 <li>Select <strong>New Lesson</strong> from the menu.</li>
 	<p><img style="width: 80%;" src="/images/2Teacher/AU-CreateNewLesson2.png"></p>
 </ol>
+
+<h2>Video Tutorial</h2>
+<hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Create a Lesson" src="https://www.youtube.com/embed/ZVc9cmS_KrY" height="100%" width="100%"></iframe>
+</div>
