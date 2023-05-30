@@ -31,7 +31,7 @@ third_nav_title: Track Progress
 <li>Questions - To view the awarded marks as part of the total marks by assignments of selected questions.</li>
 </ul>
 </li>
-<li>Click the <strong>Filter</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Filter24.svg"> to filter your overall progress (in terms of marks) according to the month range and topic/subtopic. Click <strong>Apply</strong> to confirm your selection.</li>
+<li>Click the <strong>Filter</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg"> to filter your overall progress (in terms of marks) according to the month range and topic/subtopic. Click <strong>Apply</strong> to confirm your selection.</li>
 </ol>
 <p><img src="/images/1Student/TP-LP.png"></p>
 <p><u>Note</u>: You can also search for subject resources from MOE Library and My Drive. Refer to <a target="_blank" href="/student-user-guide/discover/search-for-self-study-resources/">Search for Self-Study Resources</a> to find out how to search for resources.</p>
