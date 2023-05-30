@@ -20,7 +20,7 @@ third_nav_title: Self Study
 <li><p>Annotation Notes will be visible in the <strong>Annotation Drawer</strong>. By default, the Annotation Drawer will be open. Clicking the <strong>Annotation cards</strong> will direct you to the respective Annotations on the main page.</p>
 </li>
 <li>To control the <strong>Annotation Drawer</strong>, click the <strong>Notepad</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Note.svg"> and choose <strong>Hide Drawer</strong> or <strong>Expand Drawer</strong>.</li>
-<li><p>If Comment On is selected, you can add comments [hyperlink add comments] to that particular Annotation card. </p>
+<li><p>If Comment On is selected, you can <a target="_blank" href="/student-user-guide/self-study/comment-on-notes/">add comments</a> to that particular Annotation card. </p>
 	<p> <u>Note</u>: If you have shared your assignment with a peer, he/she will be able to leave comments too.</p>
 </li>
 </ol>
@@ -32,7 +32,7 @@ third_nav_title: Self Study
 <li>Delete</li>
 <li>Comment On/Off</li>
 </ol>
-<p>You may also click on the <strong>Comments</strong> icon to open the Card Details to view the full text or image in an Annotation Notes card and add a Comment [hyperlink to add comments]. <img src="/images/1Student/SS-Annotate2.png"></p>
+<p>You may also click on the <strong>Comments</strong> icon to open the Card Details to view the full text or image in an Annotation Notes card and <a target="_blank" href="/student-user-guide/self-study/comment-on-notes/">add a Comment</a>. <img src="/images/1Student/SS-Annotate2.png"></p>
 <h2 id="-e-dictionary-in-annotation-">E-Dictionary in Annotation</h2>
 <hr>
 <p>For Chinese Assignments and Resources with the E-Dictionary enabled, you will be able to highlight text to find its meaning in the E-Dictionary. </p>
