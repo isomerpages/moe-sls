@@ -15,11 +15,11 @@ third_nav_title: Organise
 </li>
 <li><p>In all Class Groups, you will be able to access:</p>
 <ul>
-<li>Class Learning Progress [hyperlink About Learning Progress] (If the Class Group is tagged to a Subject and Level)</li>
+<li><a target="_blank" href="/student-user-guide/track-progress/access-learning-progress/">Class Learning Progress</a> (If the Class Group is tagged to a Subject and Level)</li>
 <li>Notifications</li>
 <li>Planner <strong>(New in R19)</strong></li>
 <li>Assignments assigned to the Class Group</li>
-<li>Class Group Resources [hyperlink about manage class group resources]</li>
+<li><a target="_blank" href="URL">Class Group Resources</a> [hyperlink about manage class group resources]</li>
 <li>Forum</li>
 <li><p>Apps that can be installed</p>
 <p><u>Note</u>: When you re-enter a Class Group, you will be on the tab that you were last on.</p>
