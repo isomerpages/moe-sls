@@ -16,7 +16,7 @@ third_nav_title: Self Study
 <li>Once you are done, click <strong>Save</strong>.</li>
 <li>Annotation Notes will be visible in the <strong>Annotation Drawer</strong>. By default, the Annotation Drawer will be opened. Clicking on the <strong>Annotation cards</strong> will bring you to the respective Annotations on the page.</li>
 <li>To control the <strong>Annotation Drawer</strong>, click the <strong>Notepad</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Note.svg"> and choose <strong>Hide Drawer</strong> or <strong>Expand Drawer</strong>.</li>
-<li><p>If Comment On is selected, you can add comments [hyperlink add comments] to that particular Annotation card. </p>
+<li><p>If Comment On is selected, you can <a target="_blank" href="/student-user-guide/self-study/comment-on-notes/">add comments</a> to that particular Annotation card. </p>
 	<p> <u>Note</u>: If you have shared your Assignment with a peer, he/she will be able to leave comments too.</p>
 </li>
 </ol>
@@ -28,4 +28,4 @@ third_nav_title: Self Study
 <li>Delete</li>
 <li>Comment On/Off</li>
 </ol>
-<p>You may also click the <strong>Comments</strong> icon to open the Card Details to view the full text or image in an Annotation Notes Card and add a comment [hyperlink to add comments]. <img src="/images/1Student/SS-AnnotateImage1.png"></p>
+<p>You may also click the <strong>Comments</strong> icon to open the Card Details to view the full text or image in an Annotation Notes Card and <a target="_blank" href="/student-user-guide/self-study/comment-on-notes/">add a comment</a>. <img src="/images/1Student/SS-AnnotateImage1.png"></p>
