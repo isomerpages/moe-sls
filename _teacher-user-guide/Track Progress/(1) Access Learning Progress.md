@@ -61,3 +61,9 @@ third_nav_title: Track Progress
 </li>
 </ol>
 <p><u>Note</u>: You can also search for subject resources from MOE Library, Community Gallery, and My Drive. Refer to <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">Search for Resources</a> to find out how to search for resources.</p>
+
+<h2>Video Tutorial</h2>
+<hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Introduce Learning Progress" src="https://www.youtube.com/embed/828zJ4XOygQ" height="100%" width="100%"></iframe>
+</div>
