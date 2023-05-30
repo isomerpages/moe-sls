@@ -15,12 +15,12 @@ third_nav_title: Assess
 </ul>
 </li>
 <li>A Multi-Part Question may consist of one or more of the following question types:<ul>
-<li><a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/AttemptMCQ.html">Multiple Choice/Response Questions</a></li>
-<li><a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/AttemptFITBQ.html">Fill-in-the-Blanks Questions</a></li>
-<li><a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/AttemptCADQ.html">Click-and-Drop Questions</a></li>
-<li><a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/AttemptEEQ.html">Error-Editing Questions</a></li>
-<li><a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/AttemptFRQ.html">Free-Response Questions</a></li>
-<li><a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/AttemptARQ.html">Audio-Response Questions</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/attempt-a-multiple-choice-question/">Multiple Choice/Response Questions</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/attempt-a-fill-in-the-blanks-question/">Fill-in-the-Blanks Questions</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/attempt-a-click-and-drop-question/">Click-and-Drop Questions</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/attempt-an-error-editing-question/">Error-Editing Questions</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/attempt-a-free-response-question/">Free-Response Questions</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/attempt-an-audio-response-question/">Audio-Response Questions</a></li>
 </ul>
 </li>
 <li>In an Auto-Graded Quiz and a Teacher-Marked Quiz, you can only submit your response after attempting the last question.</li>
