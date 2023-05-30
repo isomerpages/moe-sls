@@ -41,8 +41,8 @@ third_nav_title: Assign
 </ol>
 <p><u>Note</u>: </p>
 <ul>
-<li>Within an Assignment, if your teacher has created a Team Quiz [hyperlink student/Assignments/AttemptTeam.html], you may attempt the questions as a team. Otherwise, the questions can be attempted individually.</li>
-<li>Your teacher may also pre-populate Google Files in a Free-Response or Audio-Response Question. Click here [hyperlink student/Integration/AboutGoogle.html] to find out how to attempt such Assignments.</li>
+<li>Within an Assignment, if your teacher has created a <a target="_blank" href="/student-user-guide/assess/attempt-a-team-quiz-and-activity/">Team Quiz</a>, you may attempt the questions as a team. Otherwise, the questions can be attempted individually.</li>
+<li>Your teacher may also pre-populate Google Files in a Free-Response or Audio-Response Question. Click <a target="_blank" href="/student-user-guide/assign/attempt-google-attached-files/">here</a> to find out how to attempt such Assignments.</li>
 </ul>
 <h3 id="optional-activities">Optional Activities</h3>
 <hr>
