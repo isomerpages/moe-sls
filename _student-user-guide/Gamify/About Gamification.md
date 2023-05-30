@@ -13,6 +13,6 @@ third_nav_title: Gamify
 <p><strong>Levels</strong> - Levels are dependent on the XP collected. When you collect enough XP, you can level up (progress to the next level).</p>
 <p><strong>Game Stories</strong> - You can read about the scenario your teacher has designed for you as you progress in the Course</p>
 <p><strong>Achievements</strong> - Achievements are rewards awarded to you after completing the tasks. This can come in the form of badges and trophies.</p>
-<u>Did You Know</u>:
+<img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did You Know</u>:
 <p>Gamified Courses are indicated with the Gamification icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Game.svg"> on Assignment/Assessment Cards.</p>
  <img style="width: 50%;" src="/images/1Student/G-AboutGamification1.png">
