@@ -46,3 +46,8 @@ third_nav_title: Assign
 </ul>
 <p><img style="width: 50%;" src="/images/2Teacher/AS-HighlightAnnotate5.png"></p>
 <p>You can also see the number of Comments beside the Comments icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Comment.svg"> and click the <strong>Comments</strong> icon to <a target="_blank" href="/teacher-user-guide/assess/add-teacher-comments/">view the Annotation and add/view Comments</a>.</p>
+<h2>Video Tutorial</h2>
+<hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Highlight &amp; Annotate on Text:Images" src="https://www.youtube.com/embed/SDhwf-ymqcc" height="100%" width="100%"></iframe>
+</div>
