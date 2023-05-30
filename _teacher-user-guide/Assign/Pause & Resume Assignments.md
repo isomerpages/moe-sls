@@ -21,3 +21,8 @@ third_nav_title: Assign
 <li><p>Click <strong>OK</strong> to proceed or <strong>Cancel</strong> to return to the paused Assignment.</p>
 </li>
 </ol>
+<h2>Video Tutorial</h2>
+<hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Pause:Resume an Assignment" src="https://www.youtube.com/embed/2OrwJgg-K6Q" height="100%" width="100%"></iframe>
+</div>
