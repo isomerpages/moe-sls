@@ -26,4 +26,4 @@ third_nav_title: Collaborate
 </li>
 <li>Once accepted, the status will change from <strong>Accept Request</strong> to Shared.</li>
 </ol>
-<img src="/images/1Student/CO-AcceptShare1.png"> 
+<img src="/images/1Student/CO-AcceptShare1.png">
