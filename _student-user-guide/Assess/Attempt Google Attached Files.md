@@ -6,7 +6,7 @@ third_nav_title: Assess
 ---
 <h1 id="attempt-google-attached-files">Attempt Google-Attached Files</h1>
 
-<p>SLS is now able to connect with the Google Suite of Tools. Students are encouraged to <a href="https://www.notion.so/Manage-Linked-Account-3ba03c957a774c26bee2af7113a05c1a">link their iCON 2.0 or Google accounts with SLS</a>.</p>
+<p>SLS is now able to connect with the Google Suite of Tools. Students are encouraged to <a target="_blank" href="/student-user-guide/customise/manage-linked-account/">link their iCON 2.0 or Google accounts with SLS</a>.</p>
 <h3 id="open-edit-google-attached-files">Open/Edit Google-Attached Files</h3>
 <hr>
 <ol>
