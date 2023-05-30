@@ -30,7 +30,7 @@ third_nav_title: Assess
 </ul>
 <h2 id="-rubrics-in-free-response-questions-">Rubrics in Free-Response Questions</h2>
 <hr>
-<p>Some Free-Response Questions contain <strong>Rubrics</strong> for reference. Click <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/AttemptRubricsQ.html">here</a> to find out more.</p>
+<p>Some Free-Response Questions contain <strong>Rubrics</strong> for reference. Click <a target="_blank" href="/student-user-guide/assess/attempt-a-question-with-rubrics/">here</a> to find out more.</p>
 <h2 id="-submitting-a-free-response-question-">Submitting a Free-Response Question</h2>
 <hr>
 <ol>
