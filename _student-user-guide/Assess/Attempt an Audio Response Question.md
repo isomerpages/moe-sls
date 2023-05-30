@@ -10,7 +10,7 @@ third_nav_title: Assess
 <hr>
 <p><u>Note</u>: To use the Recording feature on iOS devices such as iPhones and iPads, make sure your device is updated to iOS/iPadOS 14.3 and your microphone setting in Safari is switched to "allow" mode.</p>
 <ol>
-<li>From R18, your teacher is able to attach a pre-populated Google File to a Free-Response Question. To find out how you can attempt such questions, click here [hyperlink student/Integration/AboutGoogle.html]. </li>
+<li>From R18, your teacher is able to attach a pre-populated Google File to a Free-Response Question. To find out how you can attempt such questions, click <a target="_blank" href="/student-user-guide/assign/attempt-google-attached-files/">here</a>. </li>
 <li><p>For Audio-Response questions, you would need to allow the browser to access your microphone to start recording. Click the text box followed by the <strong>Recording</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Audio24.svg"> at the top left to begin attempting the Audio Response question.</p>
 	<p> <u>Note</u>: Each recording can be up to a maximum duration of 10 minutes.</p>
 <p><img src="/images/1Student/As-ARQ.png"></p>
@@ -20,7 +20,7 @@ third_nav_title: Assess
 </li>
 <li><p>You are allowed to attach only 1 recording at one time. You can delete the recording and redo a new recording before you submit it.</p>
 </li>
-<li>Alternatively, for devices that do not support the Recording feature, you can upload an audio or video file instead. Click here to find out how you can upload audio or video files. [hyperlink Upload File]</li>
+<li>Alternatively, for devices that do not support the Recording feature, you can upload an audio or video file instead. Click here to find out how you can <a target="_blank" href="/student-user-guide/assess/upload-file/">upload audio or video files</a>.</li>
 <li>In a standalone question that is not part of a quiz, you can submit your response by clicking the <strong>Submit</strong> button. You can also choose <strong>Save as Draft</strong> if you would like to revisit this question again after you have visited other pages or logged out. Your response will be saved.</li>
 <li>Once you submit your response, you will be able to see the correct answer if your teacher has provided it.</li>
 <li>In an Auto-Graded Quiz and a Teacher-Marked Quiz, you can only submit your response after attempting the last question.</li>
@@ -30,6 +30,6 @@ third_nav_title: Assess
 <li>If your teacher has set a recommended time, you will be able to see it below the Question Body.</li>
 <li>If enabled by your teacher, you may be allowed multiple tries to this question.</li>
 </ul>
-<h2 id="-rubrics-in-audio-response-questions-"><strong>Rubrics in Audio-Response Questions</strong></h2>
+<h2 id="-rubrics-in-audio-response-questions-">Rubrics in Audio-Response Questions</h2>
 <hr>
-<p>Some <strong>Audio-Response Questions</strong> contain <strong>Rubrics</strong> for reference. Click <a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/student/Assignments/AttemptRubricsQ.html">here</a> to find out more.</p>
+<p>Some <strong>Audio-Response Questions</strong> contain <strong>Rubrics</strong> for reference. Click <a target="_blank" href="/student-user-guide/assess/attempt-a-question-with-rubrics/">here</a> to find out more.</p>
