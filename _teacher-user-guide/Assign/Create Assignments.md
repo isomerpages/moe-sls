@@ -30,3 +30,8 @@ third_nav_title: Assign
 	<p><u>Note</u>: For Lessons with multiple Sections, it may take some time for the Assignment to appear on your Assignment List.</p>
 </li>
 </ol>
+<h2>Video Tutorial</h2>
+<hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Assign a Lesson" src="https://www.youtube.com/embed/lPoWf8y15qk" height="100%" width="100%"></iframe>
+</div>
