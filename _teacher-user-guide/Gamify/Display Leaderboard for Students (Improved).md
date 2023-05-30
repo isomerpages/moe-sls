@@ -37,7 +37,7 @@ third_nav_title: Gamify
 </ol>
 </li>
 </ol>
-<p><u>Did You Know?</u>: When Leaderboard is turned on, the names of the top 50% of students, based on XP, will be shown on the Leaderboard for students.</p>
+<p><u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg">  Did You Know</u>: When Leaderboard is turned on, the names of the top 50% of students, based on XP, will be shown on the Leaderboard for students.</p>
 
 <h2>Video Tutorial</h2>
 <hr>
