@@ -6,7 +6,7 @@ third_nav_title: Assess
 ---
 <h1 id="insert-edit-links">Insert &amp; Edit Links</h1>
 <ol>
-<li><p>In the Rich Text Editor, choose the <strong>Hyperlink</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Link.svg"> . Alternatively, highlight the text and select the <strong>Hyperlink</strong> icon.</p>
+<li><p>In the Rich Text Editor, choose the <strong>Hyperlink</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Link.svg">. Alternatively, highlight the text and select the <strong>Hyperlink</strong> icon.</p>
 <img style="width: 50%" src="/images/1Student/As-Hyperlink.png">
 </li>
 <li><p>Key in the URL for the website that you would like the text to link to.</p>
