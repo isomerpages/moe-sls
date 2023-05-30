@@ -34,7 +34,7 @@ third_nav_title: Assign
 </ul>
 </li>
 <li>Click the individual Assignment Card to access the Assignment.</li>
-<li><p>You can choose to view your Assignments in Card view <img style="width:1rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1rem; display: inline;" src="/images/Icons/List.svg">.</p>
+<li><p>You can choose to view your Assignments in Card view <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">.</p>
 </li>
 <li><p>Assignments in List view are sorted according to the latest Start Date. You may also sort the assignments according to the Assignment Title, and Due Date.</p>
 <p> <img src="/images/1Student/AS-AccessAssignment3.png"></p>
@@ -60,7 +60,7 @@ third_nav_title: Assign
 <li><strong>Category</strong> - You can choose to view All, Uncategorized or other categories that your teacher has created.</li>
 </ul>
 </li>
-<li><p>You can choose to view your Assignments in Card view <img style="width:1rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1rem; display: inline;" src="/images/Icons/List.svg">. </p>
+<li><p>You can choose to view your Assignments in Card view <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">. </p>
 
 </li>
 <li><p>Assignments in List view are sorted according to the latest Start Date. You may also sort the Assignments according to the Assignment Title, and Due Date.</p>
