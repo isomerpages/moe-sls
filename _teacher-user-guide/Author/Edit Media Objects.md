@@ -24,7 +24,7 @@ third_nav_title: Author
 <li>Title</li>
 <li>Description</li>
 <li>Star it as a Resource <img style="width:1.5rem; display: inline;" src="/images/Icons/AddStar.svg"> <strong>(NEW)</strong></li>
-<li>Download drawing [insert icon] <strong>(NEW)</strong></li>
+<li>Download drawing <img style="width:1.5rem; display: inline;" src="/images/Icons/Download.svg"> <strong>(NEW)</strong></li>
 <li>Set Permission for Students to download</li>
 <li>Keyword Tags</li>
 </ul>
