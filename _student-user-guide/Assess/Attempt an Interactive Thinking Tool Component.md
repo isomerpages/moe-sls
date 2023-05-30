@@ -13,10 +13,10 @@ third_nav_title: Assess
 <li>Some columns of the Interactive Thinking Tool contain a part of the answer in the text box (e.g. The writer thinks that…). This is given by your teacher to help you to form your answer.</li>
 <li>You can edit your response by clicking the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg">.</li>
 <li>Apart from text responses, you can include the following:<ul>
-<li>Mathematical or chemical equations [hyperlink Insert Mathematical or Chemical Equations].</li>
-<li>Drawings [hyperlink Insert Drawing].</li>
-<li>Uploaded files [hyperlink Upload File].</li>
-<li>Audio recording (1 audio recording for each ITT response). [hyperlink Attempt an Audio-Recording Question].</li>
+<li><a target="_blank" href="/student-user-guide/assess/insert-mathematical-or-chemical-equations/">Mathematical or chemical equations</a>.</li>
+<li><a target="_blank" href="/student-user-guide/assess/insert-drawing/">Drawings</a>.</li>
+<li><a target="_blank" href="/student-user-guide/assess/upload-file/">Uploaded files</a>.</li>
+<li><a target="_blank" href="/student-user-guide/assess/attempt-an-audio-response-question/">Audio recording</a> (1 audio recording for each ITT response).</li>
 </ul>
 </li>
 </ol>
@@ -40,7 +40,7 @@ third_nav_title: Assess
 <ol>
 <li>Click the Response Card, followed by <strong>Add</strong> on the bottom right.</li>
 <li>Apart from text responses, you can include the following:<ul>
-<li>Mathematical or chemical equations [hyperlink Insert Mathematical or Chemical Equations].</li>
+<li><a target="_blank" href="/student-user-guide/assess/insert-mathematical-or-chemical-equations/">Mathematical or chemical equations</a>.</li>
 </ul>
 </li>
 <li><p>After typing in your comment, click <strong>Post</strong>.</p>
