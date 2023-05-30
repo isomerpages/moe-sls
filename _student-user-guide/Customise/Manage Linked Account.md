@@ -14,7 +14,7 @@ third_nav_title: Customise
 <li><p>Click <strong>Link Account</strong>.</p>
 </li>
 <li>In the window that pops up, enter the email and password of the account you wish to connect to the SLS account. </li>
-<li><p>Select the checkboxes that allow <a href="http://ufinity.com">ufinity.com</a> to access Google Drive files. Select <strong>Continue</strong>. </p>
+<li><p>Select the checkboxes that allow <a target="_blank" href="http://ufinity.com">ufinity.com</a> to access Google Drive files. Select <strong>Continue</strong>. </p>
 <p><img style="width: 50%;" src="/images/1Student/Cu-LinkedAccount2.png"></p>
 </li>
 <li><p>If you have successfully linked the iCON 2.0/Google Account to SLS, the linked email address will be shown. <img src="/images/1Student/Cu-LinkedAccount1.png"></p>
