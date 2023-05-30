@@ -24,7 +24,7 @@ third_nav_title: Assess
 <p><img src="/images/1Student/As-FRQ.png"></p>
 <li>Some Free-Response Questions may have part of the answer or drawing in the text box (e.g. Drawing a graph). This is given by your teacher to help you in refining your answer response.</li>
 </ol>
-<p><u>Did You Know</u>:</p>
+<p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"><u>Did You Know</u>:</p>
 <ul>
 <li>If your teacher has set a recommended time, you will be able to see it below the Question Body.</li>
 </ul>
