@@ -8,7 +8,7 @@ third_nav_title: Assess
 <h2 id="-upload-file-">Upload File</h2>
 <hr>
 <ol>
-<li>Click the <strong>Upload File</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/PaperClip.svg"> to open the <strong>Upload File</strong> subpage.</li>
+<li>Click the <strong>Upload File</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/PaperClip.svg"> to open the <strong>Upload File</strong> subpage.</li>
 <li><p>To upload a file,</p>
 <ul>
 <li>Drag and drop a file into the box; or</li>
