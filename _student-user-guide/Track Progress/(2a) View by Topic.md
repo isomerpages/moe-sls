@@ -18,7 +18,7 @@ third_nav_title: Track Progress
 <li><p>You may also search for resources related to the particular subject and topic/subtopic by clicking on the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and selecting <strong>Search for Lessons</strong>.</p>
 <p><img src="/images/1Student/TP-LP2.png"></p>
 </li>
-<li><p>To view your overall progress (in terms of marks) for a topic/subtopic over a period, click the <strong>Filter</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Filter24.svg"> and choose the <strong>Month Range</strong> and <strong>Topic/Subtopic</strong> from the dropdown list. Click <strong>Apply</strong> to perform your selection.</p>
+<li><p>To view your overall progress (in terms of marks) for a topic/subtopic over a period, click the <strong>Filter</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg"> and choose the <strong>Month Range</strong> and <strong>Topic/Subtopic</strong> from the dropdown list. Click <strong>Apply</strong> to perform your selection.</p>
 </li>
 <li>To sort the topics/subtopics in ascending/descending order of marks, click the <strong>Up</strong>/<strong>Down</strong> arrows in the column headers.</li>
 </ol>
