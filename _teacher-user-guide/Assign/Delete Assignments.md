@@ -11,3 +11,9 @@ third_nav_title: Assign
 <li>The Assignment will be permanently deleted and students will no longer have access to it. Click <strong>OK</strong> to confirm your action.</li>
 </ol>
 <img style="width: 50%;" src="/images/2Teacher/AS-DeleteAssignment1.png">
+
+<h2>Video Tutorial</h2>
+<hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Delete an Assignment" src="https://www.youtube.com/embed/6qUs8EVmDcc" height="100%" width="100%"></iframe>
+</div>
