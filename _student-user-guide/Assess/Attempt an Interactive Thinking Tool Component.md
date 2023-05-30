@@ -11,7 +11,7 @@ third_nav_title: Assess
 <li>Your assignment may contain an Interactive Thinking Tool (ITT).</li>
 <li>An Interactive Thinking Tool can consist of one to three columns, with a question or text for each column. The response to each column has to be submitted separately.</li>
 <li>Some columns of the Interactive Thinking Tool contain a part of the answer in the text box (e.g. The writer thinks that…). This is given by your teacher to help you to form your answer.</li>
-<li>You can edit your response by clicking the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg">.</li>
+<li>You can edit your response by clicking the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg">.</li>
 <li>Apart from text responses, you can include the following:<ul>
 <li><a target="_blank" href="/student-user-guide/assess/insert-mathematical-or-chemical-equations/">Mathematical or chemical equations</a>.</li>
 <li><a target="_blank" href="/student-user-guide/assess/insert-drawing/">Drawings</a>.</li>
@@ -28,7 +28,7 @@ third_nav_title: Assess
 <li>You can also view responses grouped by student by clicking the <strong>View All</strong> tab.</li>
 <li>If you see an <strong>Eye</strong> icon beside your name in the Interactive Thinking Tool Card, it means that your teacher has hidden the names of all students. You will be able to see only your name in the Interaction Board. </li>
 <p><img src="/images/1Student/As-ITT.png"></p>
-<li>In each column, you can click the <strong>Filter</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Filter24.svg"> to view the posts that have been bookmarked by your teacher.</li>
+<li>In each column, you can click the <strong>Filter</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg"> to view the posts that have been bookmarked by your teacher.</li>
 </ol>
 <h2 id="-view-comments-">View Comments</h2>
 <hr>
