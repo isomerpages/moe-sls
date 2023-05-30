@@ -35,3 +35,8 @@ third_nav_title: Track Progress
 </ol>
 <p><img src="/images/1Student/TP-LP.png"></p>
 <p><u>Note</u>: You can also search for subject resources from MOE Library and My Drive. Refer to <a target="_blank" href="/student-user-guide/discover/search-for-self-study-resources/">Search for Self-Study Resources</a> to find out how to search for resources.</p>
+<h2>Video Tutorial</h2>
+<hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Introduce Learning Progress (Student)" src="https://www.youtube.com/embed/V84eUpTn8jc" height="100%" width="100%"></iframe>
+</div>
