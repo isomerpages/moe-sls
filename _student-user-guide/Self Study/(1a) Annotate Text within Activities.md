@@ -11,7 +11,7 @@ third_nav_title: Self Study
 <ol>
 <li>From within a lesson, highlight the text that you want to annotate.</li>
 <li>Select a colour for the highlight. <img src="/images/1Student/SS-Annotate.png"></li>
-<li>A textbox will appear. You may choose to highlight the text without adding a Note <img style="width:1rem; display: inline;" src="/images/Icons/Highlight.svg"> , or add a Note <img style="width:1rem; display: inline;" src="/images/Icons/Annotate.svg"> to accompany the highlighted text.</li>
+<li>A textbox will appear. You may choose to highlight the text without adding a Note <img style="width:1.5rem; display: inline;" src="/images/Icons/Highlight.svg"> , or add a Note <img style="width:1.5rem; display: inline;" src="/images/Icons/Annotate.svg"> to accompany the highlighted text.</li>
 <li>You may insert text, mathematical or chemical equations, emoticons, upload a background image or file, or include a drawing in a Note. <img style="width: 50%;" src="/images/1Student/SS-Annotate1.png"></li>
 <li>You may also add Keyword Tags to improve the searchability of your Note.</li>
 <li><p>Once you are done, click <strong>Save</strong>.</p>
@@ -19,7 +19,7 @@ third_nav_title: Self Study
 </li>
 <li><p>Annotation Notes will be visible in the <strong>Annotation Drawer</strong>. By default, the Annotation Drawer will be open. Clicking the <strong>Annotation cards</strong> will direct you to the respective Annotations on the main page.</p>
 </li>
-<li>To control the <strong>Annotation Drawer</strong>, click the <strong>Notepad</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Note.svg"> and choose <strong>Hide Drawer</strong> or <strong>Expand Drawer</strong>.</li>
+<li>To control the <strong>Annotation Drawer</strong>, click the <strong>Notepad</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Note.svg"> and choose <strong>Hide Drawer</strong> or <strong>Expand Drawer</strong>.</li>
 <li><p>If Comment On is selected, you can <a target="_blank" href="/student-user-guide/self-study/comment-on-notes/">add comments</a> to that particular Annotation card. </p>
 	<p> <u>Note</u>: If you have shared your assignment with a peer, he/she will be able to leave comments too.</p>
 </li>
