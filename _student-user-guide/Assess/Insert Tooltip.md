@@ -9,7 +9,7 @@ third_nav_title: Assess
 <h2 id="-insert-tooltip-">Insert Tooltip</h2>
 <hr>
 <ol>
-<li><p>In the Rich Text Editor, choose the <strong>Tooltip</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Tooltip.svg">. Alternatively, highlight the text and select the <strong>Tooltip</strong> icon.</p>
+<li><p>In the Rich Text Editor, choose the <strong>Tooltip</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Tooltip.svg">. Alternatively, highlight the text and select the <strong>Tooltip</strong> icon.</p>
 <p><img src="/images/1Student/As-Tooltip.png"></p>
 </li>
 <li><p>In the Insert/Edit Tooltip subpage, key in or edit the Display Text, followed by the relevant notes for the tooltip.</p>
