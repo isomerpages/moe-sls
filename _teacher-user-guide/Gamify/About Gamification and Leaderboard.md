@@ -39,4 +39,3 @@ third_nav_title: Gamify
 <li>Under the <strong>Team Members</strong> tab (only if Game Team is enabled), you will be able to see all the students present in the same Game Team as the selected student. </li>
 <li>Click <strong>X</strong> to close the subpage and return to the Monitor Assignment page.</li>
 </ol>
-<h2 id="video-tutorial-preview-gamification-and-enable-leaderboard-need-to-be-updated-">Video Tutorial - Preview Gamification and Enable Leaderboard (Need to be updated)</h2>
