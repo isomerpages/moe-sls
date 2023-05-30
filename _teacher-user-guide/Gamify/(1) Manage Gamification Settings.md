@@ -56,3 +56,8 @@ third_nav_title: Gamify
 </li>
 </ol>
 <u>Note</u>: The Level Summary will be changed in real-time as changes are made in the two class input fields.
+<h2>Video Tutorial</h2>
+<hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Add Gamification" src="https://www.youtube.com/embed/uCQ1Uaq1TUw" height="100%" width="100%"></iframe>
+</div>
