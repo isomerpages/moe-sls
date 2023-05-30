@@ -28,6 +28,6 @@ third_nav_title: Collaborate
 <p> <img src="/images/1Student/CO-RequestShare2.png"></p>
 	<p> <u>Note</u>: You are not allowed to withdraw the sharing request after it has been sent.</p>
 </li>
-<li><p>The status will change from ”Share Request” to ”Pending Request”. This means that you are waiting for your classmate to accept your request.</p>
+<li><p>The status will change from "Share Request" to "Pending Request". This means that you are waiting for your classmate to accept your request.</p>
 </li>
 </ol>
