@@ -36,8 +36,8 @@ third_nav_title: SLS Superhero Quiz
           <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify.png"> <img style="width: 50%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify.png"></a>
         </div>
 
-<li>In the course, <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/ManageGamification.html">enable gamification</a>.</li>
-    <li>You can save time by using the pre-defined XP and Level settings or <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/ManageGamification.html">edit them based on your preference</a>. This setting will allow you to view your students' learning progress and provide feedback to them in the lesson.</li>
+<li>In the course, <a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">enable gamification</a>.</li>
+    <li>You can save time by using the pre-defined XP and Level settings or <a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">edit them based on your preference</a>. This setting will allow you to view your students' learning progress and provide feedback to them in the lesson.</li>
     <div style="text-align:center;">
       <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify2.png"> <img style="width: 50%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify2.png"></a>
     </div>
@@ -49,8 +49,8 @@ third_nav_title: SLS Superhero Quiz
     <div style="text-align:center;">
       <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify4.png"> <img style="width: 50%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify4.png"></a>
     </div>
-    <li>Ensure that students follow through the lesson attentively by <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/CoursePlan.html">adding Prerequisites</a>. For example, students must complete Section A to progress to Section B.</li>
-    <li>Complete the game experience by <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/ManageGamification.html">adding Achievements</a>. For example, they could receive small Achievements while progressing through each Game Story and earn a final Achievement at the end of the lesson.</li>
+    <li>Ensure that students follow through the lesson attentively by <a target="_blank" href="/teacher-user-guide/differentiate/add-section-prerequisites/">adding Prerequisites</a>. For example, students must complete Section A to progress to Section B.</li>
+    <li>Complete the game experience by <a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">adding Achievements</a>. For example, they could receive small Achievements while progressing through each Game Story and earn a final Achievement at the end of the lesson.</li>
     <div style="text-align:center;">
       <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify5.png"> <img style="width: 50%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify5.png"></a>
     </div>
@@ -60,7 +60,6 @@ third_nav_title: SLS Superhero Quiz
     </div>
   </ol>
 <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Tip!
-</p>    <ul>
-      <li>Ensure that your gamified lesson is running as intended by previewing the course as a student.</li>
-      <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/AddConditions.html">Need more inspiration</a> on how to create a smooth gamified lesson?</li>
-    </ul>
+</p>
+<ul><li>Ensure that your gamified lesson is running as intended by previewing the course as a student.</li>
+<li><a target="_blank" href="/teacher-user-guide/gamify/game-stories-and-achievements/">Need more inspiration</a> on how to create a smooth gamified lesson?</li></ul>
