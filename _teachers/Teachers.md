@@ -3,7 +3,7 @@ title: Teachers
 permalink: /sls/teachers/
 description: ""
 ---
-<img style="width: 100%;" src="images/Media/Quick%20Links/Teachers%20Hero.png">
+<img alt="Teachers Hero" src="/images/2Teacher/Teachers%20Hero.png">
 <p>
 Looking for new ways to support your students’ learning? SLS features can enhance your teaching to engage your students better!</p>
 <hr> 
