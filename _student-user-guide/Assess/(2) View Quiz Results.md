@@ -16,4 +16,4 @@ third_nav_title: Assess
 <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did You Know</u>:</p>
 <li>You will only be able to view the Quiz score upon submission for Progressive Quizzes and Auto-graded Quizzes.
 </li>
-<li>For Teacher-Marked Quizzes, you will receive a Notification once your teacher has returned the Quiz to you. You will then be able to view any feedback and Quiz Score.<img src="/images/1Student/As-TeacherMarkedQuiz.png"></li>
+<li>For Teacher-Marked Quizzes, you will receive a Notification once your teacher has returned the Quiz to you. You will then be able to view any feedback and Quiz Score.<img style="width: 50%;" src="/images/1Student/As-TeacherMarkedQuiz.png"></li>
