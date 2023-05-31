@@ -5,13 +5,10 @@ description: ""
 third_nav_title: SLS Superhero Quiz
 ---
 <h1 class="page-title">Track students’ Learning Progress (#Track_Progress_With_SLS)</h1>
+<h2>What it is</h2>
 <hr>
-
-  <h2>What it is</h2>
-  <hr>
-  <p>Learning Progress shows the overall progress (in terms of marks) of students in a Class Group based on their attempted assignments. You can select questions you wish to monitor and view them from the Learning Progress page.</p>
-  
-  <h2>Why do it</h2>
+<p>Learning Progress shows the overall progress (in terms of marks) of students in a Class Group based on their attempted assignments. You can select questions you wish to monitor and view them from the Learning Progress page.</p>
+<h2>Why do it</h2>
   <hr>
   <ul>
     <li>You can discuss learning outcomes that your students have done poorly in and identify students who need more remediation.</li>
@@ -24,12 +21,11 @@ third_nav_title: SLS Superhero Quiz
   <hr>
   <ol>
     <li>From your Class Groups page, select a Class Group from your Subjects.</li>
-    <li>Click <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LearningProgress/About.html">View Learning Progress</a> found on the top right of the page.</li>
+    <li>Click <a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">View Learning Progress</a> found on the top right of the page.</li>
     <li>The donut chart shows the Awarded Marks out of the Total Marks.</li>
     <li>The overall progress of students can be viewed in either
-      <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LearningProgress/ViewbyTopic.html">Topical</a>,
-      <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LearningProgress/ViewbyMonth.html">Monthly</a> or
-      <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LearningProgress/ViewbyStudent.html">Student</a> view.
+      <a target="_blank" href="/teacher-user-guide/track-progress/view-by-topic/">Topical</a>,
+      <a target="_blank" href="/teacher-user-guide/track-progress/view-by-month/">Monthly</a> or
+      <a target="_blank" href="/teacher-user-guide/track-progress/view-by-student/">Student</a> view.
     </li>
   </ol>
-
