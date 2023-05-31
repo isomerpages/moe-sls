@@ -33,44 +33,27 @@ third_nav_title: SLS Superhero Quiz
   </ul>
   
   <h2>How to do it</h2>
-  <hr>
-  <ol>
-    <li>
-      <ul>
-        <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/ClassGroupManagement/AboutSubgroups.html">Subgroups</a>
-          <ol>
+  <hr><ol>
+    <li><a target="_blank" href="/teacher-user-guide/differentiate/create-subgroups/">Subgroups</a>
+        <ol style="list-style-type: lower-roman;">
             <li>Teachers can purposefully group students to differentiate instructions.</li>
             <li>By assigning subgroups, you can decide which activities each subgroup should attempt.</li>
-          </ol>
-        </li>
-      </ul>
+        </ol>
     </li>
-    <li>
-      <ul>
-        <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/AssignmentFeedback/ChangeAccess.html">Conditional section access</a>
-          <ol>
+    <li><a target="_blank" href="/teacher-user-guide/differentiate/add-section-prerequisites/">Conditional section access</a>
+        <ol style="list-style-type: lower-roman;">
             <li>Allow students to pace themselves by enabling conditional section access.</li>
             <li>This way, sections that you select will be locked until students complete the required section.</li>
-          </ol>
-        </li>
-      </ul>
+        </ol>
     </li>
-    <li>
-      <ul>
-        <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/AddNewActivity.html">Optional Activities</a>
-          <ol>
+    <li><a target="_blank" href="/teacher-user-guide/personalise/set-optional-activities-and-quizzes/">Optional Activities</a>
+        <ol style="list-style-type: lower-roman;">
             <li>Depending on your students’ readiness, you could create optional activities to scaffold or enrich your students’ learning.</li>
-          </ol>
-        </li>
-      </ul>
+        </ol>
     </li>
-    <li>
-      <ul>
-        <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/AboutLessons.html">Progressive quiz</a>
-          <ol>
+    <li><a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">Progressive quiz</a>
+        <ol style="list-style-type: lower-roman;">
             <li>In your lesson, create a progressive quiz so that students receive marks and feedback after each question within.</li>
-          </ol>
-        </li>
-      </ul>
+        </ol>
     </li>
-  </ol>
+</ol>
