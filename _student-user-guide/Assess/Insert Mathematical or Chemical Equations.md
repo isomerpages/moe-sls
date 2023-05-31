@@ -26,7 +26,7 @@ third_nav_title: Assess
 <hr>
 <ol>
 <li>When editing a Rich Text-enabled component, choose the <strong>Chemical Equation</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ChemType.svg">.</li>
-<li>Use the toolbars found within the ChemType editor to create or edit the chemical equation. For more information on the toolbars, click <a target="_blank" href="https://docs.wiris.com/en/mathtype/mathtype_web/chemistrye"> here</a>.</li>
+<li>Use the toolbars found within the ChemType editor to create or edit the chemical equation. For more information on the toolbars, click <a target="_blank" href="https://docs.wiris.com/mathtype/en/mathtype-integrations/mathtype-web-interface-features/chemistry.html"> here</a>.</li>
 <li>Click <strong>Insert</strong> in the ChemType editor when done.</li>
 <li>You will be able to see the equation rendered as an image in your response. </li>
 <li>To edit an equation, double-click the image to open the ChemType editor.</li>
