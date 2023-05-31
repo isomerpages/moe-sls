@@ -28,13 +28,13 @@ third_nav_title: SLS Superhero Quiz
 <h2>How to do it</h2>
 <hr>
 <ol>
-  <li>In the <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonResources/SearchCommunityGallery.html">Community Gallery</a>, search for digitised exam papers (as lessons) using keywords (“Examinations” or “Assessment”), subject and level filters.</li>
-  <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonResources/MakeLessonCopy.html">Copy to My Drive</a> and assign it to your students for practice or edit it to cater to your students’ learning needs.</li>
+  <li>In the <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">Community Gallery</a>, search for digitised exam papers (as lessons) using keywords (“Examinations” or “Assessment”), subject and level filters.</li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/make-a-copy-of-a-lesson/">Copy to My Drive</a> and assign it to your students for practice or edit it to cater to your students’ learning needs.</li>
 </ol>
 
 <ul>
-  <li>You can enable reattempts of the course for further practice by <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/AssignmentFeedback/CopyAssignment.html">allowing students to copy the lesson to their Drive</a>:</li>
+  <li>You can enable reattempts of the course for further practice by <a target="_blank" href="/teacher-user-guide/assign/allow-students-to-copy-assignments/">allowing students to copy the lesson to their Drive</a>:</li>
   <br>
 <img style="width: 50%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign2.png">
-  <li>You may have students who wish to attempt the exam paper in hard copy form, simply check the “<a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonResources/PrintWorksheet.html">View Print-Friendly Worksheet</a>” checkbox in the assignment Permission Settings so that they can print it.</li><img style="width: 50%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign3.png">
+  <li>You may have students who wish to attempt the exam paper in hard copy form, simply check the “<a target="_blank" href="/teacher-user-guide/discover/view-print-friendly-worksheet/">View Print-Friendly Worksheet</a>” checkbox in the assignment Permission Settings so that they can print it.</li><img style="width: 50%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign3.png">
 </ul>
