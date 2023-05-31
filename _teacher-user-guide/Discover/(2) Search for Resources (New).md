@@ -66,7 +66,7 @@ third_nav_title: Discover
 <li>Select the checkbox to the left of the Topic, Subtopics, or Learning Outcome to narrow down the search results.</li>
 </ol>
 
-<a target="_blank" href="/images/2Teacher/D-AddTopicFilters.png"><img alt="AddTopicFilters" src="/images/2Teacher/D-AddTopicFilters.png"></a>
+<a target="_blank" href="/images/2Teacher/D-AddTopicFilters.png"><img style="width: 50%;" alt="AddTopicFilters" src="/images/2Teacher/D-AddTopicFilters.png"></a>
 
 <h2>View Search Results</h2>
 
@@ -87,7 +87,7 @@ third_nav_title: Discover
 
 <p><strong>Note</strong>: Resources that are downloadable can be downloaded from the Resource Card.</p>
 
-<a target="_blank" href="/images/2Teacher/D-LessonCard.png"><img alt="LessonCard" src="/images/2Teacher/D-LessonCard.png"></a>
+<img style="width: 25%;" alt="LessonCard" src="/images/2Teacher/D-LessonCard.png">
 
 <li>To view the Lesson Details, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson Card, followed by <strong>View Details</strong>. Click the <strong>Expand</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/external-link.svg">to open the Lesson in a new tab.</li>
 <li>To view the Lesson Reviews, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson Card, followed by <strong>View Reviews</strong>. Click <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">here</a> to learn how to leave a Review.</li>
