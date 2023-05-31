@@ -19,7 +19,7 @@ third_nav_title: Organise
 <li>Notifications</li>
 <li>Planner <strong>(New in R19)</strong></li>
 <li>Assignments assigned to the Class Group</li>
-<li><a target="_blank" href="/student-user-guide/discover/access-self-study-resources/">Class Group Resources</a></li>
+<li>Class Group Resources</li>
 <li>Forum</li>
 <li><p>Apps that can be installed</p>
 <p><u>Note</u>: When you re-enter a Class Group, you will be on the tab that you were last on.</p>
