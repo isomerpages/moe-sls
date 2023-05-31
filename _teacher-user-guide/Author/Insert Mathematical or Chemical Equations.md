@@ -15,7 +15,7 @@ third_nav_title: Author
 <li>To edit an equation, double-click the image to open the MathType editor.</li>
 </ol>
 <p><u>Note</u>: You can copy and paste your mathematical equations in the Rich Text Editor.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-InsertMathChem1.png">
+<p><img style="width: 80%;" src="/images/2Teacher/AU-InsertMathChem1.png">
 </p><h2 id="-insert-math-equation-using-latex-commands-">Insert Math Equation using LaTeX commands</h2>
 <hr>
 <ol>
@@ -32,4 +32,4 @@ third_nav_title: Author
 <li>To edit an equation, double-click the image to open the ChemType editor.</li>
 </ol>
 <p><u>Note</u>: You can copy and paste your chemical equations in the Rich Text Editor.</p>
-<img style="width: 50%;" src="/images/2Teacher/AU-InsertMathChem2.png">
+<img style="width: 80%;" src="/images/2Teacher/AU-InsertMathChem2.png">
