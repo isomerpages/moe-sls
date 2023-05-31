@@ -13,5 +13,5 @@ third_nav_title: Assess
 </ul>
 <h2 id="-access-assignments-from-past-class-groups-">Access Assignments from Past Class Groups</h2>
 <hr>
-<p>You can also view Assignments for Past <strong><a target="_blank" href="/student-user-guide/organise/access-class-groups/">Class Groups</a></strong> (insert hyperlink to Access Class Groups) under the <strong>Past</strong> tab.</p>
+<p>You can also view Assignments for  <strong><a target="_blank" href="/student-user-guide/organise/access-past-class-groups/">Past Class Groups</a></strong> under the <strong>Past</strong> tab.</p>
 <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did you know</u>: If you have past Class Groups from multiple years, you can use the dropdown list to navigate through the years</p>
