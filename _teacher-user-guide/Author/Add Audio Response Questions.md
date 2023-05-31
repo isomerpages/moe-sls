@@ -9,7 +9,7 @@ third_nav_title: Author
 <hr>
 <ol>
 <li><p>In the Lesson Editor page, hover over Question in the Component Bar.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-AddARQ1.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/AU-AddARQ1.png"></p>
 </li>
 <li><p>You may insert an existing Question from Library, Starred Resources or QTI file by selecting <strong>Add from Existing</strong>.</p>
 </li>
@@ -35,7 +35,7 @@ third_nav_title: Author
 <li><p>Marks - You can set the number of marks. The default is one mark.</p>
 	<p><u>Note</u>: Marks will have to be awarded before students can view the Suggested Answer and Feedback. </p>
 </li>
-<li><p>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> for editing the Question Component Details Card.</p>
+<li><p>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> for editing the Question Component Details card.</p>
 </li>
 <li>Click <a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">here</a> for adding questions in a Quiz.</li>
 </ul>
