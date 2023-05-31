@@ -19,7 +19,7 @@ third_nav_title: Author
 </ul>
 </li>
 <li><p>Click on the <strong>Save</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg">.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-EmbedYT1.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/AU-EmbedYT1.png"></p>
 	<p><u>Note</u>: The YouTube video will start and end as set. However, students will still be able to use the video seek bar to move before or after the set timing.</p>
 </li>
 </ol>
