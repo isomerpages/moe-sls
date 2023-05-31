@@ -5,7 +5,6 @@ description: ""
 third_nav_title: SLS Superhero Quiz
 ---
 <h1 class="page-title">Differentiate learning lessons and activities (#Differentiate_with_SLS)</h1>
-<hr>
   <h2>What it is</h2>
   <hr>
   <p>Teachers can make use of features on SLS to enable greater differentiation of learning to place, including:</p>
@@ -80,4 +79,3 @@ third_nav_title: SLS Superhero Quiz
       </ul>
     </li>
   </ol>
-
