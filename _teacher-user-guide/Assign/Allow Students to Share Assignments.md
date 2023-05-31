@@ -47,5 +47,5 @@ third_nav_title: Assign
 <li><p>Teachers are able to delete comments.</p>
 </li>
 <li>Students will not be able to complete the Assignment on behalf of the student who shared the Assignment.</li>
-<li>To understand how students are able to share their Assignment/Assessment, refer to <a href="URL">Request to Share Assignment</a>.</li>
+<li>To understand how students are able to share their Assignment/Assessment, refer to <a target="_blank" href="URL">Request to Share Assignment</a>.</li>
 </ul></li></ul>
