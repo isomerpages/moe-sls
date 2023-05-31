@@ -44,7 +44,7 @@ third_nav_title: Assign
 <li>Delete</li>
 <li>Comment On/Off</li>
 </ul>
-<p><img style="width: 50%;" src="/images/2Teacher/AS-HighlightAnnotate5.png"></p>
+<p><img style="width: 30%;" src="/images/2Teacher/AS-HighlightAnnotate5.png"></p>
 <p>You can also see the number of Comments beside the Comments icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Comment.svg"> and click the <strong>Comments</strong> icon to <a target="_blank" href="/teacher-user-guide/assess/add-teacher-comments/">view the Annotation and add/view Comments</a>.</p>
 <h2>Video Tutorial</h2>
 <hr>
