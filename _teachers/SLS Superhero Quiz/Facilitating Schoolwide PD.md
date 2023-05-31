@@ -5,9 +5,6 @@ description: ""
 third_nav_title: SLS Superhero Quiz
 ---
 <h1 class="page-title">Facilitating School-wide PD (#Organise_with_SLS)</h1>
-<hr>
-
-<div>
   <h2>What it is</h2>
   <hr>
   <p>Teachers and the Professional Development (PD) committee can help to make school-wide PD sessions seamless and easily accessible through Class Groups in SLS.</p>
@@ -25,15 +22,14 @@ third_nav_title: SLS Superhero Quiz
   <hr>
   <ol>
     <li>Create a lesson or series of lessons for PD and organize them in a folder in My Drive.</li>
-    <li>From <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/ClassGroupManagement/CreateGroup.html">your school PD Class Group, assign these lesson(s)</a>, with pre-defined Start and End dates, according to the PD schedule in school.</li>
+    <li>From <a target="_blank" href="/teacher-user-guide/organise/create-class-groups/">your school PD Class Group, assign these lesson(s)</a>, with pre-defined Start and End dates, according to the PD schedule in school.</li>
     <li>Teachers (as Students) will be notified via SLS Announcements to complete the assignments.</li>
     <li>Using the Lesson Heatmap, PD facilitators can bring up responses for further discussion.</li>
-    <li>Teachers can <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/ClassGroupManagement/PostComment.html">extend their learning further by creating posts in the Class Group Forum</a> to generate discussions.</li>
+    <li>Teachers can <a target="_blank" href="/teacher-user-guide/collaborate/about-the-forum/">extend their learning further by creating posts in the Class Group Forum</a> to generate discussions.</li>
   </ol>
-</div>
+
 <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Tip!
 </p>
 <ul>
-<li>Create differentiated access to sections within the lesson, such as by department, by <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/ClassGroupManagement/AboutSubgroups.html">assigning Subgroups</a>.</li>              
+<li>Create differentiated access to sections within the lesson, such as by department, by <a target="_blank" href="/teacher-user-guide/differentiate/create-subgroups/">assigning Subgroups</a>.</li>              
 </ul>
-
