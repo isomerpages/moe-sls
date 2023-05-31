@@ -36,7 +36,7 @@ third_nav_title: Assign
 <ul>
 <li>View each other's assignment, including Activities with restricted access where the other student might not otherwise be able to view.</li>
 <li><p>View and comment on each other's Notes and Annotations (highlight).</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AS-AllowShare3.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/AS-AllowShare3.png"></p>
 <p>  Viewing student's highlights and notes.</p>
 </li>
 <li><p>View teacher's Annotation made to a student's copy of the Assignment.</p>
