@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Plan
 ---
 <h1>2. Create a New Event (New)</h1>
-<p><strong>Creating a New Event</strong></p>
+<h2>Creating a New Event</h2>
 <hr>
 <ol>
 <li>There are two ways to create a <strong>New Event</strong>:</li>
