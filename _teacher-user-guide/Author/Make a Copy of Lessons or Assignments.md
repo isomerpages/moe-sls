@@ -23,7 +23,7 @@ third_nav_title: Author
 <hr>
 <p>Start by selecting the Assignment you want to make a copy <strong>of</strong> from your Assignment List or Assignments tab on the homepage.</p>
 <ol>
-<li>Click on the Lesson Card. </li>
+<li>Click on the Lesson card. </li>
 <li><p>Open the right menu and click <strong>Copy to My Drive</strong>. If permission has been disabled, you will not be able to copy the Assignment.</p>
 	<p><u>Note</u>: </p>
 <ul>
