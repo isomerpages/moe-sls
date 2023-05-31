@@ -5,11 +5,8 @@ description: ""
 third_nav_title: Discover
 ---
 <h1>(1) View External Resources (New)</h1>
-<hr>
-
 <h2>View External Resources</h2>
 <hr>
-
 <ol>
     <li>From the homepage, open the left menu and select <strong>Resources</strong> followed by <strong>External Resources</strong>.</li>
     <li>The list of whitelisted websites can be found on the Search in External Resources page.</li>
