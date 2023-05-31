@@ -34,7 +34,7 @@ third_nav_title: Assess
 <li>You may search for Assignments on the Assignments page by entering the title in the Search Bar. You may apply the <strong>Assignment Status</strong> and <strong>Class Group</strong> filters. Click <strong>Apply</strong> to perform your selection. </li>
 <li>For a more refined search, click <strong>Filter</strong> to filter the Assignments by Assignment Status, Class Group, and Marking Status (for Assignments with Teacher-Marked Quizzes only). Click <strong>Apply</strong> to perform your selection.</li>
 <li>You can choose to view your Assignments in Card view [insert Card.png] or in List view [insert List.svg].</li>
-<li><p>Assignments in the List view are sorted according to the latest Start Date. You may also sort the Assignments according to the Assignment Title, and Due Date. Assessments in List View will be indicated by an orange tag beside the Title. [insert image with Assessments]</p>
+<li><p>Assignments in the List view are sorted according to the latest Start Date. You may also sort the Assignments according to the Assignment Title, and Due Date. Assessments in List View will be indicated by an orange tag beside the Title.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/As-AssignmentView.png"></p>
 </li>
 </ol>
