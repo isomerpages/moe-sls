@@ -20,9 +20,3 @@ third_nav_title: Organise
 	<li>The Learning Progress icon will be disabled on a Followed Subject Card if you do not have a Class Group tagged to that Subject and Level.</li>
 	<li>To search for resources related to a particular Subject, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and click <strong>Search for Resources</strong>.</li>
 </ol>
-
-<h2>Video Tutorial</h2>
-<hr>
-<div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Search for Resources" src="https://www.youtube.com/embed/IBlWycX4PBE?list=PLnbjz8Z6zbOSnCiVWuC4hO44i2Qe3YnQR" height="100%" width="100%"></iframe>
-</div>
