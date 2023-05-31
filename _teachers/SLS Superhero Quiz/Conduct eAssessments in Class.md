@@ -19,13 +19,12 @@ third_nav_title: SLS Superhero Quiz
 <hr>
 <ol>
   <li>Create a lesson with your assessment questions.</li>
-  <li>You can also <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/RichText/QTI.html">upload a digitised exam paper or use an existing digitised exam paper</a>
-    <a target="_blank" href="http://linktoqti/">(more on this)</a>.</li>
-  <li>After the e-assessment is vetted, <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/AssignmentFeedback/SetAsAssessment.html">set the Assignment as an Assessment</a>.</li>
+  <li>You can also <a target="_blank" href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/">upload a digitised exam paper or use an existing digitised exam paper</a>.</li>
+<li>After the e-assessment is vetted, <a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">set the Assignment as an Assessment</a>.</li>
 </ol>
 
 <h2>Related articles</h2>
 <hr>
 <ul>
-  <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/teachingwithsls/Digitise%20past%20year%20papers%20for%20practice.html">Digitise past year papers for practice (#Author_with_SLS)</a></li>
+  <li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">Digitise past year papers for practice (#Author_with_SLS)</a></li>
 </ul>
