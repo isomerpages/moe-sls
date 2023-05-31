@@ -24,7 +24,7 @@ third_nav_title: Author
 </li>
 </ul>
 </li>
-<img style="width: 50%;" src="/images/2Teacher/AU-AddRubrics1.png">
+<img style="width: 80%;" src="/images/2Teacher/AU-AddRubrics1.png">
 
 <li>Click outside the Component to <strong>Save</strong>.</li>
 </ol>
