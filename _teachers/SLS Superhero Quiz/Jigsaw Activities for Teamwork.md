@@ -5,8 +5,6 @@ description: ""
 third_nav_title: SLS Superhero Quiz
 ---
 <h1 class="page-title">Jigsaw Activities for Teamwork (#Collaborate_With_SLS)</h1>
-<hr>
-
   <h2>What it is</h2>
   <hr>
   <p>You can encourage collaboration and group work by assigning a Team Quiz for students to answer as a team.</p>
