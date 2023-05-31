@@ -28,7 +28,7 @@ third_nav_title: Collaborate
 <h2 id="add-new-teams">Add New Teams</h2>
 <hr>
 <ol>
-<li>From the Assignment Settings subpage, select <strong>Activity Assignment</strong>. Ensure that <strong><a target="_blank" href="/teacher-user-guide/collaborate/create-team-activities/">Set as Team Activity</a></strong> has been toggled on [hyperlink Create Team Activities]. </li>
+<li>From the Assignment Settings subpage, select <strong>Activity Assignment</strong>. Ensure that <strong><a target="_blank" href="/teacher-user-guide/collaborate/create-team-activities/">Set as Team Activity</a></strong> has been toggled on. </li>
 <li><p>To create teams for individual Activities, click <strong>Add Team</strong> under each Activity, followed by <strong>Create New Team</strong>. To create teams across multiple activities, select the checkboxes beside the activity title, followed by <strong>Add Team</strong>.</p>
 <p><img style="width: 80%;" src="/images/2Teacher/C-AddTeam.png"></p>
 </li>
