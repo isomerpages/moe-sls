@@ -15,21 +15,16 @@ third_nav_title: SLS Superhero Quiz
   </ul>
   <br>
   <p>Features that support differentiation include:</p>
-  <ul>
-    <li>
-      <ul>
-        <li>Subgroups
-          <ul>
+<ul>
+    <li>Subgroups<ul>
             <li>Assignment by subgroups</li>
             <li>Activity Access</li>
-          </ul>
-        </li>
-      </ul>
+        </ul>
     </li>
     <li>Conditional Section Access</li>
     <li>Optional Activities</li>
     <li>Progressive Quiz</li>
-  </ul>
+</ul>
   
   <h2>Why do it</h2>
   <hr>
