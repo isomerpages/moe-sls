@@ -23,4 +23,4 @@ third_nav_title: Assess
 <li>Click <strong>Add</strong> to bring out the text box. Type your response, insert a drawing, attach a file, add file from Google or upload an audio recording, then click <strong>Post</strong>.</li>
 <li>Click <strong>Overflow</strong> (<strong>3-dot</strong> icon) to <strong>Edit</strong> or <strong>Delete</strong> your comment.</li>
 </ol>
-<img src="/images/1Student/As-TeacherComments2.png">
+<img style="width: 50%;" src="/images/1Student/As-TeacherComments2.png">
