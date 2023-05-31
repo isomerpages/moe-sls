@@ -9,7 +9,7 @@ third_nav_title: Author
 <hr>
 <ol>
 <li><p>In the Lesson Editor page, hover over Question in the Component Bar.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-AddFRQ1.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/AU-AddFRQ1.png"></p>
 </li>
 <li><p>You may insert an existing Question from Library, Starred Resources or QTI file by selecting <strong>Add from Existing</strong>.</p>
 </li>
@@ -35,7 +35,7 @@ third_nav_title: Author
 <li>Recommended Time - You can set the recommended time for the student to complete the</li>
 <li>Response Size <strong>(NEW)</strong> - You can adjust the response size (Short, Medium or Long) using dropdown menu to choose the response size best suited for the question.</li>
 </ul>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-AddFRQ2.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/AU-AddFRQ2.png"></p>
 <ul>
 <li><p>Pre-populated Student Answer - This allows you to insert an answer stem to scaffold students' responses, or to provide an image for students to work on. When students answer the question, they will be able to directly edit this answer stem or image. Students can edit the images provided by clicking the <strong>Edit Drawing</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/EditDrawing.svg"> and drawing on it.</p>
 	<p><u>Note</u>: You can also use Google Response to Pre-populated Student Answer.</p>
