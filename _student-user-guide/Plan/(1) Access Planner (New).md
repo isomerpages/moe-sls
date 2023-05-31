@@ -6,7 +6,7 @@ third_nav_title: Plan
 ---
 <h1>1. Access Planner (New)</h1>
   <p>Planner allows you to manage your personal learning schedule and timetable. You can create events and view Assignments which are due soon.</p>
-  <h3>Navigating to the Page</h3>
+  <h2>Navigating to the Page</h2>
   <ol>
     <li>There are three ways to access the <strong>Planner:</strong>
       <ol style="list-style-type: lower-alpha;">
