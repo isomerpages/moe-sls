@@ -18,6 +18,6 @@ third_nav_title: Organise
     <li>To access these past Class Groups, open the left menu and click <strong>Class Groups</strong>. Alternatively, in the Class Groups tab from the homepage, click <strong>Class Groups</strong>.</li>
     <li>Click the <strong>Past</strong> tab. If you have past Class Groups from multiple years, use the dropdown menu to navigate through the years.</li>
     <li>Click the <strong>Class Group</strong> <strong>Card</strong> to access it.</li>
-    <li>You will be able to access past Assignments, Resources, Forum and Apss in your Past Class Groups.</li>
+    <li>You will be able to access past Assignments, Resources, Forum and Apps in your Past Class Groups.</li>
   </ol>
   <p><u>Note</u>: Past Class Groups cannot be pinned.</p>
