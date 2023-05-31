@@ -16,5 +16,5 @@ third_nav_title: Customise
 <li>To return to the preset Avatars, click <strong>Choose Presets</strong>.</li>
 <li>Click <strong>Save</strong> to proceed.</li>
 </ol>
-<u>Did You Know</u>:
+<u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
 <p>The 24 preset Avatars were winning entries from the SLS Avatar Competition held from 4 October to 26 November 2021. Congratulations to all the winners!</p>
