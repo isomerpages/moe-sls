@@ -9,7 +9,7 @@ third_nav_title: Self Study
 <hr>
 <p>When you are working on an assignment or a Self-Study Resource, you can add annotations to images within each Activity for future reference. These notes can be used to consolidate your learning. For example, you can summarise the contents of the image in point form.</p>
 <ol>
-<li>From within a Lesson, locate an image within an Activity. Click the <strong>Add note to image</strong> icon and click anywhere on the image. <img src="/images/1Student/SS-AnnotateImage.png"></li>
+<li>From within a Lesson, locate an image within an Activity. Click the <strong>Add note to image</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/AnnotateImage24.svg"> icon and click anywhere on the image. <img src="/images/1Student/SS-AnnotateImage.png"></li>
 <li>Select from one of the three Annotation symbols and enter your note in the text box. Should you wish to not leave a note, click <strong>Cancel</strong>.</li>
 <li>You may insert text, mathematical or chemical equations, emoticons, upload a background image or file, or include a drawing in a note.<img style="width: 50%;" src="/images/1Student/SS-Annotate1.png"></li>
 <li>You can also add Keyword Tags to improve the searchability of your notes.</li>
