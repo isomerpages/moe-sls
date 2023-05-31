@@ -43,7 +43,7 @@ third_nav_title: Author
 <ol>
 <li>In the Multiple Columns view, hover over Text/Media, Question or Last Used to add a Component.</li>
 <li><p>Click <a target="_blank" href="/teacher-user-guide/author/add-components/">here</a> to find out more about the different Components.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-AddDisplay2.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/AU-AddDisplay2.png"></p>
 </li>
 <li><p>You can click on the Component to <strong>Edit</strong>, <strong>Move Up/Down</strong> or <strong>Delete</strong> a Multiple Column Component by clicking on respective icons.</p>
 </li>
