@@ -5,12 +5,8 @@ description: ""
 third_nav_title: Discover
 ---
 <h1>(1a) Add Existing Activities from Resources</h1>
-<hr>
-
 <h3>From Create New Lesson</h3>
-
 <hr>
-
 <ol>
   <li>From the homepage, click <strong>Create New Lesson</strong>. Alternatively, from My Drive page, click <strong>Add New</strong> followed by <strong>New Lesson</strong>.</li>
   <li>In the Add New subpage, click <strong>Add Existing</strong> and select between <strong>From Library</strong> and <strong>From Starred Resources</strong>.</li>
@@ -20,9 +16,7 @@ third_nav_title: Discover
 	
   <br>
   <li>You may search for Lessons <a href="/teacher-user-guide/discover/search-for-resources/">across MOE Library, Community Gallery and My Drive</a>. You can also apply Search Filter to narrow down your search.</li>
-  <br>
 	<p><u>Note</u>: You are unable to search for Starred Resources.</p>
-  <br>
   <li>Click the <strong>Lesson Card</strong> or <strong>View Details</strong> icon to view the Lesson Details.</li>
   <br>
   <img style="width: 25%;" alt="D-AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png">
@@ -35,9 +29,7 @@ third_nav_title: Discover
 </ol>
 
 <h3>From Lesson Editor</h3>
-
 <hr>
-
 <ol>
     <li>In the Lesson Editor, there are multiple ways to add an Activity:
         <ul>
@@ -59,7 +51,7 @@ third_nav_title: Discover
     </li>
     <li>Click the <strong>Lesson Card</strong> or <strong>View Details</strong> icon to view the Lesson Details.
         <br>
-<img style="width: 50%;" alt="D-AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png">		
+<img style="width: 25%;" alt="D-AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png">		
     </li>
     <li>Select the Activities you wish to add to your new Lesson by selecting the relevant checkboxes.</li>
     <li>To view the existing Lesson in a new tab, click the <strong>Expand</strong> icon.</li>
