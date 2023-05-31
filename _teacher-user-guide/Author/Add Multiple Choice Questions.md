@@ -9,7 +9,7 @@ third_nav_title: Author
 <hr>
 <ol>
 <li><p>In the Lesson Editor page, hover over Question in the Component Bar.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-AddMCQ1.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/AU-AddMCQ1.png"></p>
 </li>
 <li><p>You may insert an existing Question from Library, Starred Resources or QTI file by selecting <strong>Add from Existing</strong>.</p>
 </li>
@@ -24,7 +24,7 @@ third_nav_title: Author
 </li>
 <li><p>No correct answer: you can turn on/off this option in the question setting. <strong>(NEW)</strong></p>
 	<p><u>Note</u>: Students will not be awarded any marks for this question.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-AddMCQ2.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/AU-AddMCQ2.png"></p>
 </li>
 </ul>
 </li>
