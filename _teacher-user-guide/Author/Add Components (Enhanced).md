@@ -18,7 +18,7 @@ third_nav_title: Author
 <hr>
 <ol>
 <li>Hover over Question on the Component Bar to expand the list. </li>
-<li>Click <strong>Add From Existing</strong> to add questions from your Library or Starred Resources. You can do a global search for Questions found in your Library and filter the results by Subject and Level. Click <strong>Filter</strong> for a more refined search or <a href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonResources/SearchForResources.html">here</a> to find out more about Search for Resources.</li>
+<li>Click <strong>Add From Existing</strong> to add questions from your Library or Starred Resources. You can do a global search for Questions found in your Library and filter the results by Subject and Level. Click <strong>Filter</strong> for a more refined search or <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">here</a> to find out more about Search for Resources.</li>
 <li><p>You can add the following types of Questions:</p>
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/author/add-multiple-choice-questions/">Multiple-Choice</a></li>
