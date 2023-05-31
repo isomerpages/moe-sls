@@ -19,7 +19,7 @@ third_nav_title: Track Progress
 <p><img src="/images/1Student/TP-LP5.png"></p>
 </li>
 <li><p>To see the selected question in the Assignment, click <strong>View Details</strong> </p>
-<p><img src="/images/1Student/TP-LP6.png"></p>
+<p><img style="width: 50%;" src="/images/1Student/TP-LP6.png"></p>
 </li>
 <li><p>To open the Assignment, click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg">. </p>
 </li>
