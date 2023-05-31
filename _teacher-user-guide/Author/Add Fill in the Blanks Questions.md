@@ -40,7 +40,7 @@ third_nav_title: Author
 <li><p>Marks Per Blank - You can set the number of marks per blank. The default is one mark per blank.</p>
 	<p><u>Note</u>: Question Body, Hint, Option tex, and Feedback fields support Rich Text-enabled components.</p>
 </li>
-<li><p>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> for editing the Question Component Details Card.</p>
+<li><p>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> for editing the Question Component Details card.</p>
 </li>
 <li>Click <a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">here</a> for adding questions in a Quiz.</li>
 </ul>
