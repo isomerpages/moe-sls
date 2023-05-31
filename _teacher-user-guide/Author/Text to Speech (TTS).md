@@ -10,10 +10,10 @@ third_nav_title: Author
 <ol>
 <li>In the Rich Text editor, click the Text-to-Speech (TTS) icon <img style="width:1.5rem; display: inline;" src="/images/Icons/TTS.svg">.</li>
 <li><p>In the pop-up that appears, add the text and click <strong>Generate Audio</strong> to generate the TTS audio file.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-TextToSpeech1.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/AU-TextToSpeech1.png"></p>
 </li>
 <li><p>You can preview the audio clip or edit the text and generate the audio clip again. </p>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-TextToSpeech2.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/AU-TextToSpeech2.png"></p>
 </li>
 <li><p>If there are no further changes to the audio clip, click <strong>Save</strong>.</p>
 </li>
