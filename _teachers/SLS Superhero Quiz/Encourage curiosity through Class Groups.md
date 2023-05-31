@@ -5,7 +5,6 @@ description: ""
 third_nav_title: SLS Superhero Quiz
 ---
 <h1 class="page-title">Encourage curiosity through Class Groups (#Discover_with_SLS)</h1>
-<hr>
 <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/Assess%2001.pdf"><img style="width:50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Discover%2001.png"></a>
   <h2>What it is</h2>
   <hr>
