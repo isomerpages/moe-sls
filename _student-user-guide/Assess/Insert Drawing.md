@@ -31,7 +31,7 @@ third_nav_title: Assess
 <li>the most recent stroke, click <strong>Undo</strong>.</li>
 <li>To erase or move any part of your drawing or text, click the <strong>Cursor</strong> icon and select the lines that you have drawn and click <strong>Delete</strong>.</li>
 <li><p>the entire drawing, click <strong>Clear All</strong> located at the top.</p>
-<p><img src="/images/1Student/As-Drawing.png"></p>
+<p><img style="width: 50%;" src="/images/1Student/As-Drawing.png"></p>
 </li>
 </ul>
 </li>
