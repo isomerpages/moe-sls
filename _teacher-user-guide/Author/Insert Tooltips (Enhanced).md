@@ -42,7 +42,7 @@ third_nav_title: Author
     </tr>
     <tr>
       <td></td>
-      <td><img style="width: 50%;" src="/images/2Teacher/AU-AddToolTip1.png"></td>
+      <td><img style="width: 60%;" src="/images/2Teacher/AU-AddToolTip1.png"></td>
       <td><img style="width: 80%;" src="/images/2Teacher/AU-AddToolTip3.png"></td>
       <td><img style="width: 100%;" src="/images/2Teacher/AU-AddToolTip2.png"></td>
     </tr>
