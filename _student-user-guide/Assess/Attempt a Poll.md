@@ -7,7 +7,7 @@ third_nav_title: Assess
 <h1 id="attempt-a-poll">Attempt a Poll</h1>
 <ol>
 <li><p>You may choose just one response if you see circle buttons and one or more responses if there are checkboxes.</p>
-<p><img src="/images/1Student/As-Poll.png"></p>
+<p><img style="width: 50%;" src="/images/1Student/As-Poll.png"></p>
 </li>
 <li><p>To submit your response, click <strong>Vote</strong>.</p>
 </li>
