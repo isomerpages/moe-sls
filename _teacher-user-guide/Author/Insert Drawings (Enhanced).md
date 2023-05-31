@@ -30,7 +30,7 @@ third_nav_title: Author
 </ul>
 </li>
 <li><p>Click <strong>Add</strong> if you are done with the drawing. Your drawing will be inserted into the textbox.</p>
-<img style="width: 50%;" src="/images/2Teacher/AU-AddDrawing1.png"><p></p>
+<img style="width: 80%;" src="/images/2Teacher/AU-AddDrawing1.png"><p></p>
 </li>
 </ol>
 <h2 id="-starting-with-background-image-">Starting with Background Image</h2>
