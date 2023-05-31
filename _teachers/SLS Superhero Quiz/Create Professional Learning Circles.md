@@ -23,9 +23,9 @@ third_nav_title: SLS Superhero Quiz
 <h2>How to do it</h2>
 <hr>
 <ol>
-  <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/ClassGroupManagement/CreateGroup.html">Add a new Class Group</a> on the Class Groups page.</li>
-  <li>Add Teachers into your Class Group and assign them with the necessary roles (Owner, Co-Teachers, Liaison Teachers, Observers, or <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/ClassGroupManagement/AddTeachersAsStudents.html">Students</a>).</li>
+  <li><a target="_blank" href="/teacher-user-guide/organise/create-class-groups/">Add a new Class Group</a> on the Class Groups page.</li>
+  <li>Add Teachers into your Class Group and assign them with the necessary roles (Owner, Co-Teachers, Liaison Teachers, Observers, or <a target="_blank" href="/teacher-user-guide/organise/add-teachers-as-students-to-a-class-group/">Students</a>).</li>
   <li>Navigate using the tabs to add various resources.</li>
-  <li>Teachers in the Class Group can then access the resource and <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/StarredResources/StarResource.html">star the resources</a> or activities they wish to save.</li>
-  <li>To further organise your resources, you can <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/ClassGroupManagement/ManageGroupResources.html">create Categories in the Resources tab</a>).</li>
+  <li>Teachers in the Class Group can then access the resource and <a target="_blank" href="/teacher-user-guide/organise/star-resources/">star the resources</a> or activities they wish to save.</li>
+  <li>To further organise your resources, you can <a target="_blank" href="/teacher-user-guide/organise/manage-class-group-resources/">create Categories in the Resources tab</a>).</li>
 </ol>
