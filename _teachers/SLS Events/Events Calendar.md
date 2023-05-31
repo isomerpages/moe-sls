@@ -72,7 +72,7 @@ third_nav_title: SLS Events
             </td>
             <!--2nd column-->
             <td>
-            <p>SLS Superhero Quiz</p>
+           <a target="_blank" href="/teachers/sls-superhero-quiz/index/">SLS Superhero Quiz</a>
             </td>
             </tr>
           <tr>
