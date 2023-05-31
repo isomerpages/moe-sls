@@ -5,8 +5,6 @@ description: ""
 third_nav_title: SLS Superhero Quiz
 ---
 <h1 class="page-title">Manage in-class teaching more effectively (#Enact_With_SLS)</h1>
-<hr>
-
   <h2>What it is</h2>
   <hr>
   <p>You can use SLS to support in-class teaching by enabling students to work together on the same assignment or rewarding their good behavior.</p>
@@ -51,8 +49,8 @@ third_nav_title: SLS Superhero Quiz
   <h2>Get started</h2>
   <hr>
   <ul>
-    <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/AssignmentFeedback/CreateTeams.html">Create Teams</a></li>
-    <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/AwardXP.html">Award XP, Game Story, and Achievements Manually</a></li>
-    <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/ClassGroupManagement/AboutForum.html">About the Forum</a></li>
-    <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/LessonManagement/AddPoll.html">Add a Poll</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/gamify/award-xp-game-story-and-achievements-manually/">Create Teams</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/gamify/award-xp-game-story-and-achievements-manually/">Award XP, Game Story, and Achievements Manually</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/about-the-forum/">About the Forum</a></li>
+    <li><a target="_blank" href="/collaborate/add-a-poll2/">Add a Poll</a></li>
   </ul>
