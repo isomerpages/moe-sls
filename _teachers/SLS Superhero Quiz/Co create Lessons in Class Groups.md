@@ -24,7 +24,7 @@ third_nav_title: SLS Superhero Quiz
 <h2>How to do it</h2>
 <hr>
 <ol>
-  <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/ClassGroupManagement/CreateGroup.html">In a teachers-only Class Group</a>, add Teachers into your Class Group and assign them with Teacher roles, Student roles or both.</li>
+  <li><a target="_blank" href="/teacher-user-guide/organise/create-class-groups/">In a teachers-only Class Group</a>, add Teachers into your Class Group and assign them with Teacher roles, Student roles or both.</li>
   <li>Navigate to the ‘Resources’ tab and create a new Resource, or work on an existing Resource.</li>
   <li>Open the lesson you wish to co-create or co-edit and begin editing.</li>
   <li>If you wish to adapt an existing lesson for your personal use, copy it to your My Drive.</li>
