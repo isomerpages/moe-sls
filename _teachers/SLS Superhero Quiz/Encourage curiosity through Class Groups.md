@@ -22,8 +22,8 @@ third_nav_title: SLS Superhero Quiz
   <h2>How to do it</h2>
   <hr>
   <ol>
-    <li>In your <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/ClassGroupManagement/AboutGroupResources.html">Class Group</a>, add supplementary resources from the MOE Library, Community Gallery, or My Drive.</li>
+    <li>In your <a target="_blank" href="/teacher-user-guide/organise/manage-class-group-resources/">Class Group</a>, add supplementary resources from the MOE Library, Community Gallery, or My Drive.</li>
     <li>For clarity, consider organizing these resources into Categories so that students can access them easily.</li>
-    <li>Extend your students' learning by inviting them to post questions and ideas on the <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/ClassGroupManagement/AboutForum.html">Class Group Forum</a>. You can even provide guidance by starting a Forum post or poll.</li>
+    <li>Extend your students' learning by inviting them to post questions and ideas on the <a target="_blank" href="/teacher-user-guide/collaborate/about-the-forum/">Class Group Forum</a>. You can even provide guidance by starting a Forum post or poll.</li>
     <li>To enrich the discussion, encourage your students to comment on other Forum posts.</li>
   </ol>
