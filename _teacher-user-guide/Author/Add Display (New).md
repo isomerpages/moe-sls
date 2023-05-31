@@ -31,7 +31,7 @@ third_nav_title: Author
 <ul>
 <li>When you move a Component to the Next Page, it will appear on the top of that page.</li>
 <li><p>When you move a Component to the Previous Page, it will appear at the bottom of that page.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-AddDisplay1.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/AU-AddDisplay1.png"></p>
 </li>
 </ul>
 </li>
@@ -58,4 +58,4 @@ third_nav_title: Author
 <li>You can click on the Component to <strong>Edit</strong>, <strong>Move Up/Down</strong> or <strong>Delete</strong> a Accordion Component by clicking on respective icons.</li>
 <li>You can add multiple Components by selecting from the Component Bar at the bottom.</li>
 <li>Click outside of the Component to <strong>Save</strong>.</li>
-</ol><img style="width: 50%;" src="/images/2Teacher/AU-AddDisplay3.png">
+</ol><img style="width: 80%;" src="/images/2Teacher/AU-AddDisplay3.png">
