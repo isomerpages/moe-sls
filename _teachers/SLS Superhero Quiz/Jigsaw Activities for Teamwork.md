@@ -21,13 +21,13 @@ third_nav_title: SLS Superhero Quiz
   <ol>
     <li>Create an engaging Team Quiz by applying strategies that encourage team spirit. In this example, we will apply the Jigsaw Technique.</li>
     <li>Create Activities in a lesson with preselected reading materials for each member of the team. For example, all team members A to read materials in Activity A and so forth. 
-      <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/AssignmentFeedback/ChangeAccess.html">Edit the Activity Access so that students can only see materials for their role</a>.
+      <a target="_blank" href="/teacher-user-guide/enact/change-access-to-activities/">Edit the Activity Access so that students can only see materials for their role</a>.
     </li>
     <div style="text-align:center;">
       <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Jigsaw.png"> <img width="50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Jigsaw.png"></a>
     </div>
     <li>In the last Activity, team members will gather to share their learnings from their individual Activity and 
-      <a target="_blank" href="https://www.learning.moe.edu.sg/sls/students/user-guide/vle/student/Assignments/AttemptTeam.html">answer questions in a Team Quiz</a>.
+      <a target="_blank" href="/student-user-guide/assess/attempt-a-team-quiz-and-activity/">answer questions in a Team Quiz</a>.
     </li>
   </ol>
 
