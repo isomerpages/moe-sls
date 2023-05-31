@@ -5,12 +5,10 @@ description: ""
 third_nav_title: SLS Superhero Quiz
 ---
 <h1 class="page-title">Empower students to be self-directed learners (#Self_Study_With_SLS)</h1>
-<hr>
-
 <div>
-  <h2>What it is</h2>
-  <hr>
-  <p>There are different tools that you can use to guide students in their self-study.</p>
+<h2>What it is</h2>
+<hr>
+<p>There are different tools that you can use to guide students in their self-study.</p>
   
   <h2>Why do it</h2>
   <hr>
