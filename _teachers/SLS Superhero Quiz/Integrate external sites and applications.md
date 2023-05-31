@@ -21,9 +21,8 @@ third_nav_title: SLS Superhero Quiz
   <h2>How to do it</h2>
   <hr>
   <ol>
-    <li>Open the left menu, and click <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/Apps/AccessAppLibrary.html">Resources followed by App Library</a>.</li>
+    <li>Open the left menu, and click <a target="_blank" href="/teacher-user-guide/discover/access-app-library/">Resources followed by App Library</a>.</li>
     <li>The list of Apps that can be launched within SLS will be displayed.</li>
-    <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/Apps/InstallApp.html">Click View Details to find out more about a particular App</a>.</li>
-    <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/Apps/AccessApp.html">To launch an App, click Launch</a>. You will be redirected to the App on a new tab.</li>
+    <li>Click<a target="_blank" href="/teacher-user-guide/organise/install-and-launch-apps/"> View Details</a> to find out more about a particular App.</li>
+    <li><a target="_blank" href="/teacher-user-guide/organise/install-and-launch-apps/&quot;">To launch an App, click Launch</a>. You will be redirected to the App on a new tab.</li>
   </ol>
-
