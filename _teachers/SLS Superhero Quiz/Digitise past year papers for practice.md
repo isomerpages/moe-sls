@@ -5,8 +5,6 @@ description: ""
 third_nav_title: SLS Superhero Quiz
 ---
 <h1 class="page-title">Digitise past year papers for practice (#Author_with_SLS)</h1>
-<hr>
-
   <h2>What it is</h2>
   <hr>
   <p>You can digitise your school’s past year exam questions from within SLS for your students’ revision.</p>
@@ -25,8 +23,7 @@ third_nav_title: SLS Superhero Quiz
   <ol>
     <li>Upload your past year paper (in Word or PDF format) to a QTI converter tool.</li>
     <li>Download the converted file as a QTI 2.1 format.</li>
-    <li><a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/RichText/QTI.html">Navigate to the lesson editor to upload the QTI 2.1 file</a>.</li>
+    <li><a target="_blank" href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/">Navigate to the lesson editor to upload the QTI 2.1 file</a>.</li>
     <li>Your questions will be automatically populated in the lesson.</li>
-    <li>When assigning or managing the lesson, <a target="_blank" href="https://www.learning.moe.edu.sg/sls/teachers/user-guide/vle/teacher/AssignmentFeedback/CopyAssignment.html">allow students to copy the Assignment</a> to their My Drive folder to enable self-study.</li>
+    <li>When assigning or managing the lesson, <a target="_blank" href="/teacher-user-guide/assign/allow-students-to-copy-assignments/">allow students to copy the Assignment</a> to their My Drive folder to enable self-study.</li>
   </ol>
-
