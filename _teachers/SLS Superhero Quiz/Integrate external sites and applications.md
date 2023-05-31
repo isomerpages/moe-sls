@@ -5,8 +5,6 @@ description: ""
 third_nav_title: SLS Superhero Quiz
 ---
 <h1 class="page-title">Integrate external sites and applications (#Extend_With_SLS)</h1>
-<hr>
-
   <h2>What it is</h2>
   <hr>
   <p>Search for and extend SLS core capabilities using whitelisted sites and integrated applications. You can install various Apps in SLS for use by teachers and students within the Class Groups. </p>
