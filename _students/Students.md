@@ -3,7 +3,7 @@ title: Students
 permalink: /sls/students/
 description: ""
 ---
-<p><img alt="Students" src="/images/Students%20Hero.png"></p>
+<img alt="Students" src="/images/1Student/Students%20Hero.png">
 <p>Take charge of your learning! Explore new features as well as our growing library of resources.</p>
 <hr>
 <h2 id="feature-highlights">Feature Highlights</h2>
