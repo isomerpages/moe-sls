@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Discover
 ---
 <h1>(1b) Add Existing Components from Resources</h1>
-<hr>
 
 <h3>Add Existing Questions from Resources</h3>
 
@@ -24,7 +23,7 @@ third_nav_title: Discover
 </ul>
 
 <p>In the Lesson Editor page, select an Activity and hover your mouse over <strong>Questions</strong> in the Component Bar, followed by <strong>Add From Existing</strong>. Select either <strong>Question from Library</strong>, <strong>Question from Starred Resources</strong>, or <strong>Question from file (QTI)</strong></p>
-<img alt="AddExistingComponent" src="/images/2Teacher/D-AddExistingComponent.png">
+<img src="/images/2Teacher/D-AddExistingComponent.png">
 
 <h2>Add Existing Questions from Library and Starred Resources</h2>
 
@@ -41,7 +40,7 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
   </li>
   <li>
     <p>Click the <strong>View Details</strong> icon to view the Question Details.</p>
-		<img alt="AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png">
+		<img style="width: 25%;" src="/images/2Teacher/D-AddExistingLesson.png">
   </li>
   <li>
     <p>Select the Questions you wish to add to your Activity by selecting the relevant <strong>Question Cards</strong>.</p>
@@ -53,17 +52,14 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
     <p>The chosen Question will inherit the Question Details from the Question in Library or Starred Resources. To edit the Question details, click the <strong>Settings</strong> icon in the Question Card.</p>
   </li>
 </ol>
-
 <h2>Add Existing Questions from File (QTI)</h2>
-
 <hr>
-
 <ol>
   <li>
     <p>In the Lesson Editor, select an Activity and hover your mouse over <strong>Questions</strong> in the Component Bar, followed by <strong>Question from file (QTI)</strong>.</p>
   </li>
   <li>
-    <p>Upload a compatible QTI-file <a href="rich text insert QTI file">hyperlink rich text insert QTI file</a> and click <strong>Upload</strong></p>
+    <p>Upload a compatible <a href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/">QTI file</a> and click <strong>Upload</strong></p>
   </li>
   <li>
     <p>Once the upload is complete, the questions will be displayed in the Activity.</p>
