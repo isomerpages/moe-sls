@@ -11,4 +11,4 @@ third_nav_title: Assess
 <li>In a Free-Response or Audio-Response Question, click the <strong>Marks Range</strong> to expand the rubrics.</li>
 <li>You will then be able to see the assessment criteria and attainment levels. These can be used to guide you in answering the questions.</li>
 </ol>
-<img src="/images/1Student/As-Rubrics.png">
+<img style="width: 50%;" src="/images/1Student/As-Rubrics.png">
