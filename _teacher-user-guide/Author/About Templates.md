@@ -10,7 +10,7 @@ third_nav_title: Author
 <li><a target="_blank" href="/teacher-user-guide/customise/manage-my-templates/">My Templates</a></li>
 <li>SLS Templates</li>
 </ol>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-AboutTemplates1.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/AU-AboutTemplates1.png"></p>
 <h2 id="my-templates">My Templates</h2>
 <hr>
 <ul>
@@ -48,7 +48,7 @@ third_nav_title: Author
 </ul>
 </li>
 <li>These Templates are aligned to the Active Learning Processes, six Learning Experience types, and an e-Assessment template.</li>
-<li><p>If you select the SLS Lesson/Section Templates, the Learning Experience in the Details Card will be filled for you.</p>
+<li><p>If you select the SLS Lesson/Section Templates, the Learning Experience in the Details card will be filled for you.</p>
 	<p><u>Note</u>: Your existing activities will remain unchanged.</p>
 </li>
 <li><p>Depending on the Lesson/Section Template chosen, Activities will be pre-populated and tagged to the following Active Learning Processes (ALP):</p>
