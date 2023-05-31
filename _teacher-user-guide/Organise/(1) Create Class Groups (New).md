@@ -83,7 +83,7 @@ third_nav_title: Organise
 <li>To add students from other schools, <strong>Group Owners</strong> will need to add teachers (minimally as <strong>Liaison Teachers</strong>) from the same school as the intended students and have these teachers add their students.</li>
 <li>To add Students from other schools to your own Class Groups, Group Owner can switch students to different Class Groups owned. The system will add the Liaison Teacher into the changed Class Group if a student that is not from your own school is added.</li>
 </ul>
-<h2><strong>Edit a Class Group Details</strong></h2>
+<h2>Edit a Class Group Details</h2>
 <hr>
 <ol>
 <li>On the Class Group page, select the relevant <strong>Class Group Card</strong>.</li>
