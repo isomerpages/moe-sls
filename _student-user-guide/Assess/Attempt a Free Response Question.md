@@ -20,7 +20,7 @@ third_nav_title: Assess
 <li><a target="_blank" href="/student-user-guide/assess/insert-tooltip/">tooltips</a></li>
 </ol>
 </li>
-<li>To enlarge your text box, click the <strong>Expand</strong> icon found on the bottom right of the text box.</li>
+<li>To enlarge your text box, click the <strong>Expand</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/expand.png"> found on the bottom right of the text box.</li>
 <p><img src="/images/1Student/As-FRQ.png"></p>
 <li>Some Free-Response Questions may have part of the answer or drawing in the text box (e.g. Drawing a graph). This is given by your teacher to help you in refining your answer response.</li>
 </ol>
