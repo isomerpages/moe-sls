@@ -48,7 +48,7 @@ third_nav_title: Organise
     </tr>
     <tr>
       <td>Co-teacher</td>
-      <td>[merge with above]</td>
+      <td>[same as above/Owner]</td>
       <td>Added by a teacher who is the Owner of a Class Group</td>
     </tr>
     <tr>
