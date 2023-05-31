@@ -5,7 +5,6 @@ description: ""
 third_nav_title: SLS Superhero Quiz
 ---
 <h1 class="page-title">Conduct e-Assessments in Class (#Assess_with_SLS)</h1>
-<hr>
 
 <h2>What it is</h2>
 <hr>
