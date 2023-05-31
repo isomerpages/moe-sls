@@ -8,17 +8,16 @@ third_nav_title: Discover
 <ol>
     <li>You may follow other subjects of interest beyond the ones assigned to you.</li>
     <li>Open the right menu and click <strong>My Subjects</strong>.</li>
-	
-<a target="_blank" href="/images/2Teacher/D-FollowSubjects.png"><img alt="FollowSubjects" src="/images/2Teacher/D-FollowSubjects.png"></a>
+	<img style="width: 50%;" alt="FollowSubjects" src="/images/2Teacher/D-FollowSubjects.png">
 
 <li>Select <strong>Follow More Subjects</strong>.</li>
 
-<a target="_blank" href="/images/2Teacher/D-FollowSubjects1.png"><img alt="FollowSubjects1" src="/images/2Teacher/D-FollowSubjects1.png"></a>
+<img alt="FollowSubjects1" src="/images/2Teacher/D-FollowSubjects1.png">
 
 <li>Use the dropdown to indicate the Subject(s) and Level(s) you would like to follow. Click <strong>Apply</strong>.</li>
 <li>Click <strong>Follow</strong> to follow the subjects of interest.</li>
 
-<a target="_blank" href="/images/2Teacher/D-FollowSubjects2.png"><img alt="FollowSubjects2" src="/images/2Teacher/D-FollowSubjects2.png"></a>
+<img alt="FollowSubjects2" src="/images/2Teacher/D-FollowSubjects2.png">
 
 <li>To Unfollow a Subject, on the Followed Subject Card, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Unfollow Subject</strong>.</li>
 	</ol>
