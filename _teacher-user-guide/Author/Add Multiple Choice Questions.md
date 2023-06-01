@@ -9,7 +9,7 @@ third_nav_title: Author
 <hr>
 <ol>
 <li><p>In the Lesson Editor page, hover over Question in the Component Bar.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AddMCQ1.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddMCQ1.png"></p>
 </li>
 <li><p>You may insert an existing Question from Library, Starred Resources or QTI file by selecting <strong>Add from Existing</strong>.</p>
 </li>
@@ -24,7 +24,7 @@ third_nav_title: Author
 </li>
 <li><p>No correct answer: you can turn on/off this option in the question setting. <strong>(NEW)</strong></p>
 	<p><u>Note</u>: Students will not be awarded any marks for this question.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AddMCQ2.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddMCQ2.png"></p>
 </li>
 </ul>
 </li>
@@ -49,7 +49,7 @@ third_nav_title: Author
 </li>
 <li>Number of tries - This allows the number of tries to be set. The default is one try.</li>
 <li><p>Marks - You can set marks for the question. The default is one mark.</p>
-	<p><u>Note</u>: Question Body, Hint, Option tex, and Feedback fields support Rich Text-enabled components.</p>
+	<p><u>Note</u>: Question Body, Hint, Option text, and Feedback fields support Rich Text-enabled components.</p>
 </li>
 <li><p>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> for editing the Question Component Details card.</p>
 </li>
