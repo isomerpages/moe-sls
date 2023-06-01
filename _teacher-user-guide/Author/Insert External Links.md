@@ -19,7 +19,7 @@ third_nav_title: Author
 <li>The default target is <strong>Current window</strong> which means that the linked website will open in the current tab. You may also select <strong>New window</strong> which will open the linked website in a new browser tab.</li>
 <li>Click <strong>Save</strong> when done.</li>
 <li><p>The linked text will be displayed in blue.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AddExtLink1.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddExtLink1.png"></p>
 </li>
 </ol>
 <h2 id="edit-remove-link-enhanced-">Edit/Remove Link (Enhanced)</h2>
