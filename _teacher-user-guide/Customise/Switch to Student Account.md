@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Customise
 ---
 <h1>Switch to Student Account</h1>
-<hr>
-
 <h2>Switch to Student Account</h2>
 <hr>
 
