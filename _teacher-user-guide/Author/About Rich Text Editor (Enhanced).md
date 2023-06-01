@@ -14,7 +14,7 @@ third_nav_title: Author
 <li><p>You can simply click outside of the component to save and click on the component to edit.</p>
 </li>
 <li><p>You can also Add Files from Device, Add Google Files, Embed YouTube Videos, Embed Apps and Embed Websites directly from the component bar.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AboutRichText3.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AboutRichText3.png"></p>
 </li>
 </ul>
 <p>In the Rich Text Editor, you can</p>
@@ -28,8 +28,8 @@ third_nav_title: Author
 <li><a target="_blank" href="/teacher-user-guide/collaborate/attach-google-files/">Insert/Embed Files from Google</a> </li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-drawings/">Insert Drawings/Images</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/embed-youtube-videos/">Embed YouTube videos</a></li>
-<li><a target="_blank" href="URL">Embed App/Website</a></li>
-<li><a target="_blank" href="URL">Insert Hyperlinks</a></li>
+<li><a target="_blank" href="/discover/embed-whitelisted-websites/">Embed App/Website</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/insert-external-links/">Insert Hyperlinks</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-links-to-sections/">Insert Links to Sections</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-tooltips/">Insert Tooltips</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/text-to-speech-tts/">Generate Text-to-Speech Files</a></li>
