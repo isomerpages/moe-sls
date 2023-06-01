@@ -22,7 +22,7 @@ third_nav_title: Differentiate
 <ol>
 <li>From the Class Group page, select a <strong>Class Group</strong>.</li>
 <li><p>Click <strong>New Subgroup</strong> under the <strong>Admin</strong> tab.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/DI-CreateSubgroups1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/DI-CreateSubgroups1.png"></p>
 </li>
 <li><p>Enter the Subgroup Name.</p>
 </li>
@@ -36,7 +36,7 @@ third_nav_title: Differentiate
 </li>
 <li>You can hide students from all subgroups by clicking the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> and selecting the checkbox beside <strong>Hide students from all subgroups</strong>. </li>
 <li><p>Check the students to be added to the class group and click <strong>Add</strong>.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/DI-CreateSubgroups2.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/DI-CreateSubgroups2.png"></p>
 </li>
 <li><p>Complete the subgroup creation by clicking <strong>Save</strong>, followed by <strong>X</strong>. The newly-created subgroup will appear in the form of a card on the Class Group page.</p>
 </li>
