@@ -11,9 +11,9 @@ third_nav_title: Organise
 <ol>
   <li>Open the left menu from the header on the homepage. Click <strong>Resources</strong>, followed by <strong>My Drive</strong>. By default, you will be in the My Lessons tab.</li>
   <li>On the listing page, click <strong>Add New</strong>, followed by <strong>New Folder</strong>.
-    <br>
-    <img style="width: 50%;" src="/images/2Teacher/O-NewFolder.png">
-  </li>
+</li><br>
+<img style="width: 100%;" src="/images/2Teacher/O-NewFolder.png">
+<br>
   <li>In the Add New Folder subpage, enter a Folder Name.</li>
   <li>Click <strong>Add New Folder</strong> once done.</li>
   <li>You can create sub-folders in folders by following the above steps.</li>
@@ -25,8 +25,7 @@ third_nav_title: Organise
 
 <p>If there are too many folder levels, clicking "..." will bring up a dropdown list of all the levels in between.</p>
 
-<img style="width: 50%;" src="/images/2Teacher/O-MultipleFolders.png">
+<img style="width: 100%;" src="/images/2Teacher/O-MultipleFolders.png">
 
-<p><strong>Did You Know?</strong></p>
-
+<u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
 <p>By default, the resources in My Drive are sorted by folders, followed by files, based on the latest modified date.</p>
