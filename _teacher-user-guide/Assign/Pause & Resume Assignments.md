@@ -9,7 +9,7 @@ third_nav_title: Assign
 <ol>
 <li><p>Click the Assignment card to enter the Assignment and click the <strong>Pause Assignment</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pause.svg">. A blue banner will indicate whether an Assignment is paused.</p>
 	<p><u>Note</u>: Students will not be able to attempt a paused Assignment, and will view that the assignment is paused on the Assignment Card or the Assignment Cover. If they are in the process of attempting an assignment when the assignment is paused, they will receive a prompt.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AS-PauseResume1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AS-PauseResume1.png"></p>
 </li>
 <li><p>When you wish to resume, click the <strong>Resume Assignment</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Done.svg">.</p>
 </li>
