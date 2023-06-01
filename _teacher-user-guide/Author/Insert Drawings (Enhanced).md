@@ -5,10 +5,7 @@ description: ""
 third_nav_title: Author
 ---
 <h1 id="insert-drawings-enhanced-">Insert Drawings (Enhanced)</h1>
-<ul>
-<li>When editing a Rich Text-enabled component, choose the <strong>Drawing</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Drawing.svg">. You can choose to start with a <strong>Blank Drawing</strong> or <strong>Upload Background Image</strong>.</li>
-<li>Click <a target="_blank" href="URL">here</a> to Edit Drawing.</li>
-</ul>
+<p>When editing a Rich Text-enabled component, choose the <strong>Drawing</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Drawing.svg">. You can choose to start with a <strong>Blank Drawing</strong> or <strong>Upload Background Image</strong>.</p>
 <h2 id="-starting-with-blank-drawing-">Starting with Blank Drawing</h2>
 <hr>
 <ol>
