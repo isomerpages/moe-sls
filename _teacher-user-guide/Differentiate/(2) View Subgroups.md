@@ -8,6 +8,6 @@ third_nav_title: Differentiate
 <ol>
 <li>From the Class Group page, select a <strong>Class Group</strong>, followed by the <strong>Admin</strong> Tab.</li>
 <li>Under the Subgroup List, you can view the list of subgroups that have been created.</li>
-<p><img style="width: 80%;" src="/images/2Teacher/DI-ViewSubgroups1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/DI-ViewSubgroups1.png"></p>
 <li>Click the individual <strong>Subgroup</strong> card to view the details of each subgroup.</li>
 </ol>
