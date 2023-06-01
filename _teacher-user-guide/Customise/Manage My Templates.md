@@ -5,24 +5,22 @@ description: ""
 third_nav_title: Customise
 ---
 <h1>Manage My Templates</h1>
-
 <p>You can now save Lesson Templates for quick Lesson authoring.</p>
-
 <h2>Adding a New Template</h2>
 <hr>
-
 <ol>
   <li>Open the left menu from the header on the homepage. Click <strong>Resources</strong>, followed by <strong>My Drive</strong>. By default, you will be in the My Lessons tab.</li>
   <li>Select <strong>My Templates</strong> to view your saved Lesson Templates.</li>
   <li>To add a new template, click <strong>Add New Template</strong>.</li>
-  <li><a target="_blank" href="/teacher-user-guide/author/create-new-lessons/">Design a Lesson</a> as per usual. Lesson Templates will be indicated with a grey banner on the Lesson Editor and Lesson View page. <img style="width: 80%;" src="/images/2Teacher/Cu-LessonTemplate.png"></li>
+  <li><a target="_blank" href="/teacher-user-guide/author/create-new-lessons/">Design a Lesson</a> as per usual. Lesson Templates will be indicated with a grey banner on the Lesson Editor and Lesson View page.</li>
 </ol>
+<br><img style="width: 80%;" src="/images/2Teacher/Cu-LessonTemplate.png">
 
-<p><u>Note</u>: Instead of creating a new Template from scratch, you can also set an existing Lesson as a Template by selecting <strong>Set as Template</strong> from the right menu.<img style="width: 80%;" src="/images/2Teacher/Cu-SetTemplate.png"></p>
+<p><u>Note</u>: Instead of creating a new Template from scratch, you can also set an existing Lesson as a Template by selecting <strong>Set as Template</strong> from the right menu.</p>
+<br><img style="width: 80%;" src="/images/2Teacher/Cu-SetTemplate.png">
 
 <h2>Editing a Template</h2>
 <hr>
-
 <ol>
   <li>To edit a Template, enter My Drive and select <strong>My Templates</strong> tab.</li>
   <li>Click <strong>Open</strong> under the Template Title. You will be brought to the Lesson Editor page.</li>
