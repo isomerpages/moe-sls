@@ -8,7 +8,7 @@ third_nav_title: Author
 <p>Use SLS to design lesson resources aligned to the e-pedagogical principles.</p>
 <br>
 <img style="width: 100%;" src="/images/2Teacher/Flow-Author.png">
-<details><summary><h4>1. How to create Lessons?</h4></summary>
+<details><summary><h4>How to create Lessons?</h4></summary>
 <ul>
 <li><a href="/teacher-user-guide/author/create-new-lessons/" target="_blank">Create Lessons (New)</a></li></ul>
 
