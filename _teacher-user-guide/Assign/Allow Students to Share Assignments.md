@@ -20,7 +20,7 @@ third_nav_title: Assign
 <li><p>On the Assignment Settings subpage, select the <strong>Others</strong> tab.</p>
 <ul>
 <li><p>Sharing Permissions is turned off by default. To allow students to share their Assignments, check the box beside <strong>Allow students to share Assignments</strong>. Click  <strong>Save</strong> and <strong>Proceed</strong> to confirm.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AS-AllowShare1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AS-AllowShare1.png"></p>
 </li>
 </ul>
 </li>
@@ -36,7 +36,7 @@ third_nav_title: Assign
 <ul>
 <li>View each other's assignment, including Activities with restricted access where the other student might not otherwise be able to view.</li>
 <li><p>View and comment on each other's Notes and Annotations (highlight).</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AS-AllowShare3.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AS-AllowShare3.png"></p>
 <p>  Viewing student's highlights and notes.</p>
 </li>
 <li><p>View teacher's Annotation made to a student's copy of the Assignment.</p>
@@ -47,5 +47,5 @@ third_nav_title: Assign
 <li><p>Teachers are able to delete comments.</p>
 </li>
 <li>Students will not be able to complete the Assignment on behalf of the student who shared the Assignment.</li>
-<li>To understand how students are able to share their Assignment/Assessment, refer to <a target="_blank" href="URL">Request to Share Assignment</a>.</li>
+<li>To understand how students are able to share their Assignment/Assessment, refer to <a target="_blank" href="/student-user-guide/collaborate/request-to-share-assignment/">Request to Share Assignment</a>.</li>
 </ul></li></ul>
