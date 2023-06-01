@@ -5,10 +5,7 @@ description: ""
 third_nav_title: Customise
 ---
 <h1>Manage Linked Account</h1>
-<hr>
-
 <p>Users are able to associate their iCON 2.0 or Google accounts with SLS.</p>
-
 <ol>
   <li>Open the right menu and click <strong>Edit Profile</strong>.</li>
   <li>On the Profile page, click <strong>Manage Linked Account</strong> under Profile.</li>
