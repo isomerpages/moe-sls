@@ -14,7 +14,7 @@ third_nav_title: Organise
   <li>Open the left menu and click <strong>Class Groups</strong>. Alternatively, from the homepage, click <strong>Class Groups</strong> under the Class Group tab. Select the Class Group you wish to install the App in.</li>
   <li>Click the <strong>Apps</strong> tab to view the list of available apps.
     <br>
-    <img style="width: 50%;" src="/images/2Teacher/O-Apps.png">
+    <img style="width: 100%;" src="/images/2Teacher/O-Apps.png">
   </li>
   <li>Click the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> to find out more about a particular App.</li>
   <li>To install an App, click the App Card, followed by <strong>OK</strong>.</li>
