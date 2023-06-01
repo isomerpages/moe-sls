@@ -18,7 +18,7 @@ third_nav_title: Customise
 <p>Instead of using the default email address, you may also choose to provide an alternate email address for SLS system notifications.</p>
 <ol>
 <li><p>From the homepage, open the right menu and click <strong>Edit Profile</strong>.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/Cu-EditProfile.png"></p>
+<p><img style="width: 35%;" src="/images/2Teacher/Cu-EditProfile.png"></p>
 </li>
 <li><p>Under Account Settings, click <strong>Set</strong> <strong>Email Address</strong>.</p>
 </li>
