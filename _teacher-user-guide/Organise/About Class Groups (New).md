@@ -33,10 +33,10 @@ third_nav_title: Organise
         <li><a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">Class Learning Progress </a>(If the Class Group is tagged to a Subject and Level)</li>
         <li>Notifications</li>
         <li>Planner <strong>(New in R19)</strong></li>
-        <li>Add Assignment <a href="/teacher-user-guide/assign/create-assignments/">Add Assignment </a> and <a href="/teacher-user-guide/assign/quick-assign-activities-and-quizzes/">Quick Create </a> <strong>(New in R19)</strong></li>
+        <li>Add Assignment <a target="_blank" href="/teacher-user-guide/assign/create-assignments/">Add Assignment </a> and <a target="_blank" href="/teacher-user-guide/assign/quick-assign-activities-and-quizzes/">Quick Create </a> <strong>(New in R19)</strong></li>
         <li>Assignments assigned to the Class Group</li>
         <li><a target="_blank" href="/teacher-user-guide/assign/move-assignments/">Move an existing Assignment from one Class Group to another </a></li>
-        <li><a href="/teacher-user-guide/organise/manage-class-group-resources/">Class Group Resources </a></li>
+        <li><a target="_blank" href="/teacher-user-guide/organise/manage-class-group-resources/">Class Group Resources </a></li>
         <li>Forum that students in the Class Group can access</li>
         <li>Apps that can be installed</li>
         <li>Admin features that can be managed</li>
