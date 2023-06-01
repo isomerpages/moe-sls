@@ -20,7 +20,7 @@ third_nav_title: Customise
   <li>Select an Expression, Headgear, Eyewear, Costume, and Object from the respective tabs. Click the <strong>Left</strong> and <strong>Right</strong> arrows at the bottom to view the available options for each tab.</li>
   <li>Click <strong>Save</strong> to proceed.</li>
 </ol>
-<p>Did You Know?</p>
+<u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
 <p>The 24 preset Avatars were winning entries from the SLS Avatar Competition held from 4 October to 26 November 2021. Congratulations to all the winners!</p>
 <h3>Video Tutorial (Updated)</h3>
 <div class="bp-youtube">
