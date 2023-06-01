@@ -13,7 +13,7 @@ third_nav_title: Differentiate
 <ul>
 <li>the Subgroup Name</li>
 <li><p>add or remove students</p>
-<p><img style="width: 50%;" src="/images/2Teacher/DI-EditSubgroups1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/DI-EditSubgroups1.png"></p>
 </li>
 </ul>
 </li>
@@ -25,7 +25,7 @@ third_nav_title: Differentiate
 <ol>
 <li>To delete a Subgroup, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon).</li>
 <li><p>Click <strong>Delete</strong>.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/DI-EditSubgroups2.png"></p>
+<p><img style="width: 25%;" src="/images/2Teacher/DI-EditSubgroups2.png"></p>
 </li>
 <li><p>A confirmation prompt will appear to confirm your action.</p>
 	<p><u>Note</u>: Action cannot be undone.</p>
