@@ -9,7 +9,7 @@ third_nav_title: Author
 <hr>
 <ol>
 <li><p>In the Lesson Editor page, hover over Question in the Component Bar.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AddFRQ1.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddFRQ1.png"></p>
 </li>
 <li><p>You may insert an existing Question from Library, Starred Resources or QTI file by selecting <strong>Add from Existing</strong>.</p>
 </li>
