@@ -23,16 +23,16 @@ third_nav_title: Organise
 <li>a Lesson by clicking the <strong>Star</strong> icon beside the Lesson Title in the banner</li>
 </ul>
 
-<p><img style="width: 50%;" src="/images/2Teacher/O-Star.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/O-Star.png"></p>
 
 <ul>
 <li>a Question by clicking the <strong>Star</strong> icon on the Component Cards</li>
 </ul>
 
-<p><img style="width: 50%;" src="/images/2Teacher/O-Star1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/O-Star1.png"></p>
 
 <ul>
-<li>Media Objects by clicking the <strong>Star</strong> icon on the Media Object <img style="width: 50%;" src="/images/2Teacher/O-StarMediaObject.png"></li>
+<li>Media Objects by clicking the <strong>Star</strong> icon on the Media Object <img style="width: 100%;" src="/images/2Teacher/O-StarMediaObject.png"></li>
 </ul>
 
 <p><u>Note</u>: While Activities cannot be starred, Teachers can add Activities from a starred Lesson. Find out more <a target="_blank" href="/teacher-user-guide/author/add-existing-from-library-and-starred-resources/">here</a>.</p>
@@ -62,5 +62,4 @@ third_nav_title: Organise
 <p><u>Note</u>: To unstar multiple resources, select the checkbox next to the title of the resource before clicking <strong>Unstar</strong>.</p>
 <li>To unstar a Question or Media Object, click <strong>View Details</strong>. At the Details subpage, click the <strong>Star</strong> icon to unstar the Question or Media Object.</li>
 <li>Alternatively, if you are viewing a Starred Resource, click the <strong>Star</strong> icon again to unstar it.</li>
-</ol>
-<p><u>Note</u>: The Star icon will no longer be lit yellow when you successfully unstar the resource.</p>
+<p><u>Note</u>: The Star icon will no longer be lit yellow when you successfully unstar the resource.</p></ol>
