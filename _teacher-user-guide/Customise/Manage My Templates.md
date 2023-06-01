@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Customise
 ---
 <h1>Manage My Templates</h1>
-<hr>
 
 <p>You can now save Lesson Templates for quick Lesson authoring.</p>
 
