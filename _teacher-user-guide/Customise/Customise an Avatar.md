@@ -5,7 +5,6 @@ description: ""
 third_nav_title: Customise
 ---
 <h1>Customise an Avatar</h1>
-<hr>
 <p>A graphical representation of a user, also known as an Avatar, is used to represent you.</p>
 <ol>
   <li>Open the right menu and click <strong>Edit Profile</strong>.</li>
