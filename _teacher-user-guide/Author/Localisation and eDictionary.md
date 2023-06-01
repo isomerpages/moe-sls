@@ -8,7 +8,7 @@ third_nav_title: Author
 <p>To create a more immersive MTL experience for your Lessons, you can Enable MTL Localisation and E-Dictionary.</p>
 <ul>
 <li>When Language Localisation is changed, the instructions on SLS will be in the language you have selected.</li>
-<li>When the E-Dictionary feature is enabled, students will have an enhanced annotation feature. They may view the meaning of a selected word or phrase, and add their search results to the right drawer as Notes. Refer <a target="_blank" href="https://www.notion.so/E-Dictionary-ead941fade3f4dbc8f8443e4d7b706db">here</a> for more information.</li>
+<li>When the E-Dictionary feature is enabled, students will have an enhanced annotation feature. They may view the meaning of a selected word or phrase, and add their search results to the right drawer as Notes. Refer <a target="_blank" href="/student-user-guide/assess/edictionary/">here</a> for more information.</li>
 </ul>
 <h2 id="enable-mtl-localisation-and-e-dictionary">Enable MTL Localisation and E-Dictionary</h2>
 <hr>
