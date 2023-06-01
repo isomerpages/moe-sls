@@ -46,7 +46,7 @@ third_nav_title: Author
 <li>Overall Feedback (optional) - Enter specific feedback for this question here. Students will be able to view this after their attempt or submission.</li>
 <li>Number of tries - This allows the number of tries. The default is one try.</li>
 <li><p>Marks Per Line - You can set the number of marks per line. The default is one mark per line.</p>
-	<p><u>Note</u>: Question Body, Hint, Option tex, and Feedback fields support Rich Text-enabled components.</p>
+	<p><u>Note</u>: Question Body, Hint, Option text, and Feedback fields support Rich Text-enabled components.</p>
 </li>
 <li><p>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> for editing the Question Component Details card.</p>
 </li>
