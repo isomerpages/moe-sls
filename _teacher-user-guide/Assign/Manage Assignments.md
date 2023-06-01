@@ -34,7 +34,7 @@ third_nav_title: Assign
 <li><p>Assessment Settings - Turn the Assignment into an Assessment by selecting the checkbox beside <strong><a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">Set as Assessment</a></strong>.</p>
 <p><img style="width: 80%;" src="/images/2Teacher/AS-ManageAssignment1.png"></p>
 </li>
-<li><p>Sharing Permissions - Grant permission to students to share their Lesson by selecting the checkbox beside <strong><a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">Allow students to share Assignments</a></strong>.</p>
+<li><p>Sharing Permissions - Grant permission to students to share their Lesson by selecting the checkbox beside <strong><a target="_blank" href="/teacher-user-guide/assign/allow-students-to-share-assignments/">Allow students to share Assignments</a></strong>.</p>
 </li>
 </ul>
 </li>
