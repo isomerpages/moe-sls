@@ -14,7 +14,7 @@ third_nav_title: Author
 <li>The default target is <strong>Current window</strong> which means that the linked website will open in the current tab. You may also select <strong>New window</strong> which will open the linked website in a new browser tab.</li>
 <li>Click <strong>Save</strong> when done.</li>
 <li><p>The linked text will be displayed in blue.</p>
-<p> <img style="width: 80%;" src="/images/2Teacher/AU-AddLink1.png"></p>
+<p> <img style="width: 50%;" src="/images/2Teacher/AU-AddLink1.png"></p>
 	<p><u>Note</u>:</p>
 <ul>
 <li>The link will be automatically updated if you move the linked Section/Activity to another page.</li>
