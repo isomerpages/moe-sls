@@ -9,7 +9,7 @@ third_nav_title: Organise
 <p><strong>Resources</strong> (Lessons and Folders) found under My Lessons tab can be deleted if you no longer need them.</p>
 
 <h2>Move Resources to Trash</h2>
-
+<hr>
 <ol>
 <li>Open the left menu from the header on the homepage. Click <strong>Resources</strong>, followed by <strong>My Drive</strong>. By default, you will be in the My Lessons tab.</li>
 <li>In the listing, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) followed by <strong>Move to Trash</strong>.</li>
@@ -19,7 +19,7 @@ third_nav_title: Organise
 </ol>
 
 <h2>Delete Resources Permanently</h2>
-
+<hr>
 <p>You can choose to permanently delete Resources from the <strong>Trash</strong> tab.</p>
 
 <ol>
