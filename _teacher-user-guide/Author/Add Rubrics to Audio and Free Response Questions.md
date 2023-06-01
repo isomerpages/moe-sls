@@ -17,8 +17,8 @@ third_nav_title: Author
 <li>Band Descriptor</li>
 <li>Criterion</li>
 <li><p>Mark Range</p>
-	<p><u>Note</u>: Please see below on how to use the marks of the rubrics for the question.</p>
-</li>
+	<p><u>Note</u>: Please see below on how to use the marks of the rubrics for the question.</p></li>
+<br>
 <li><p>Band Description</p>
 	<p><u>Note</u>: You may enter descriptions in the form of text, mathematical formulae, chemical formulae, and media.</p>
 </li>
