@@ -65,7 +65,7 @@ third_nav_title: Author
 <li>Learning Progress - You may choose to include this question in the Learning Progress. Click <a href="/teacher-user-guide/track-progress/access-learning-progress/">here</a> to find out more about Learning Progress.</li>
 <li>Keyword Tags - This will improve the searchability of the question. You will have to tag a question if you wish to include it in the Learning Progress.</li>
 <li><p>Question Tags - You may choose to tag individual questions to the relevant topics by clicking <a href="/teacher-user-guide/author/add-question-tags/">Add Question Tag</a>.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-EditDetailCard1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-EditDetailCard1.png"></p>
 </li>
 </ul>
 </li>
@@ -82,7 +82,7 @@ third_nav_title: Author
 <li><p>Hide Names: When students' names are hidden, they will appear as Anonymous on the Interaction Board. Students will only see their own names.</p>
 </li>
 </ul>
-<img style="width: 50%;" src="/images/2Teacher/AU-EditDetailCard2.png">
+<img style="width: 100%;" src="/images/2Teacher/AU-EditDetailCard2.png">
 
 <ol>
     For Poll:<ul>
@@ -92,7 +92,7 @@ third_nav_title: Author
     
 </ol>
 
-<img style="width: 50%;" src="/images/2Teacher/AU-EditDetailCard3.png">
+<img style="width: 100%;" src="/images/2Teacher/AU-EditDetailCard3.png">
 
 <h2 id="edit-quiz-detail-card">Edit Quiz Detail card</h2>
 <hr>
