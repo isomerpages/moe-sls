@@ -12,7 +12,7 @@ third_nav_title: Author
 <p><img style="width: 80%;" src="/images/2Teacher/AU-AddQTI1.png"></p>
 </li>
 <li><p>From the component bar, under <strong>Question</strong>, find <strong>Add From Existing</strong> and select <strong>Questions from file (QTI).</strong> (screenshot)</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AddQTI2.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddQTI2.png"></p>
 </li>
 <li><p>Upload a QTI zip file into the Import Question subpage and click <strong>Upload</strong>. You can also import images into options using QTI.</p>
 <p> <u>Note</u>: A sample file can be found <a target="_blank" href="http://iwant2study.org/lookangejss/QTI2.1/physicsp1.zip">here</a></p>
@@ -44,7 +44,7 @@ third_nav_title: Author
 <p><u>Note</u>:</p>
 <ol>
 <li>Identifying the correct answers to Multiple-Choice Questions with single or multiple responses can be done within SLS after the questions have been uploaded.</li>
-<li>You may add Hints, <a target="_blank" href="/teacher-user-guide/assess/add-teacher-comments/">Teacher Feedback</a> and <a target="_blank" href="/teacher-user-guide/author/add-question-tags/">Question Tags</a> to questions within SLS. Tagged questions will be reflected in the <a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">Learning Progress</a> when they have been attempted by students.</li>
+<li>You may add Hints, <a target="_blank" href="/teacher-user-guide/assess/add-teacher-comments/">Teacher Comments</a> and <a target="_blank" href="/teacher-user-guide/author/add-question-tags/">Question Tags</a> to questions within SLS. Tagged questions will be reflected in the <a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">Learning Progress</a> when they have been attempted by students.</li>
 </ol>
 <h2 id="faqs">FAQs</h2>
 <hr>
