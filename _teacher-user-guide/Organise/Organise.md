@@ -102,5 +102,6 @@ Use SLS to to organise your personal and class group resources, assignments and 
   <li><a target="_blank" href="http://for.edu.sg/EVS">Eliciting Voices of Students with Diverse Learning Needs</a></li>
   <li><a target="_blank" href="/files/Userguide/Useful%20Resources/Phygital_learning.pdf">Let's get Phygital with SLS</a></li>
   <li><a target="_blank" href="/files/Userguide/Useful%20Resources/TeamsvsSubgroups.pdf">Teams vs Subgroups</a></li>
+	<li><a target="_blank" href="/files/Marcomms/Feature Highlights/using sls for dept review.pdf">Using SLS for Dept review</a></li>
 </ul>
 </details>
