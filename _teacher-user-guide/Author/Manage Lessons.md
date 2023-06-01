@@ -18,13 +18,14 @@ third_nav_title: Author
 <p>From the right menu of the Lesson View page, you can </p>
 <ol>
 <li><a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">View Gamification Settings</a></li>
-<li><a target="_blank" href="URL">Preview as Student</a> [hyperlink teacher/LessonManagement/CreateLesson.html]</li>
-<li><a target="_blank" href="URL">Copy to My Drive</a> [hyperlink teacher/LessonManagement/CopyLesson.html]</li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-new-activities-and-sections/">Preview as Student</a>
+</li>
+<li><a target="_blank" href="/teacher-user-guide/author/make-a-copy-of-lessons-or-assignments/">Copy to My Drive</a></li>
 	<li><a target="_blank" href="/teacher-user-guide/customise/manage-my-templates/">Set as Template</a></li>
 <li><a target="_blank" href="/teacher-user-guide/collaborate/share-a-lesson/">Share with Teachers</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/manage-class-group-resources/">Add to Class Group Resources</a></li>
-<li><a target="_blank" href="/teacher-user-guide/assign/assign-moe-library-lessons/">Check for Submission (MOE Library) - for CRDOs only</a></li>
-<li><a target="_blank" href="/teacher-user-guide/assign/assign-community-gallery-lessons/">Check for Submission (Community Gallery)</a></li>
+<li><a target="_blank" href="/admin-user-guide/publish/create-moe-library-resources/">Check for Submission (MOE Library) - for CRDOs only</a></li>
+<li><a target="_blank" href="/teacher-user-guide/publish/submit-lessons/">Check for Submission (Community Gallery)</a></li>
 <li><a target="_blank" href="/teacher-user-guide/discover/view-print-friendly-worksheet/">View as Print-friendly Worksheet</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/move-lessons-to-trash/">Move to Trash</a></li>
 </ol>
