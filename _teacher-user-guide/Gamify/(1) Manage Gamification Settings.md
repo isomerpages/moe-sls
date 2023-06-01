@@ -19,9 +19,8 @@ third_nav_title: Gamify
 <li><strong>Title</strong> - The game title will be pre-filled for you as “Untitled Game”. Change the Title to one that is concise and student-friendly.</li>
 <li><strong>Description</strong> - This description is visible to students in the Game Detail subpage when the Lesson is assigned. You can include details such as game instructions and story synopsis.</li>
 <li><p><strong>Featured Images</strong> - These images will appear as the background images for Game Story and Achievement Prompts respectively. The Featured Image for Game Story will also appear as an icon for the Game on the Gamification subpage in View Mode.</p></li></ol></li></ol>
-	<p><u>Note</u>: </p>
 
-
+<p><u>Note</u>: </p>
 <li>Please ensure all images used follow Copyright Guidelines and are credited in your lesson. You may refer to our <a target="_blank" href="/teacher-user-guide/author/copyright-faqs/">Copyright FAQs</a> for more information. <p></p>
 </li>
 <li>You can edit the Game Experience from the Monitoring Assignment page. Click the <strong>Game Experience</strong> tab, followed by <strong>Edit Game Experience</strong>.</li>
