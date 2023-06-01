@@ -5,8 +5,6 @@ description: ""
 third_nav_title: Customise
 ---
 <h1>Change SLS Password</h1>
-<hr>
-
 <ol>
   <li>Open the right menu and click <strong>Edit Profile</strong>.</li>
   <li>On the Edit Profile page, select <strong>Change Password</strong> under Account Settings.</li>
