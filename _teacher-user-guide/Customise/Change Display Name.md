@@ -14,7 +14,7 @@ third_nav_title: Customise
 
 <ol>
   <li>Open the right menu and click <strong>Edit Profile</strong>.</li>
-<img style="width: 50%;" src="/images/2Teacher/Cu-EditProfile.png"> 
+<img style="width: 35%;" src="/images/2Teacher/Cu-EditProfile.png"> 
  <li>On the Edit Profile page, under the Profile section, enter the name you would like your students to see under <strong>Preferred Name</strong>, found below the Avatar.</li>
   <li>Click <strong>Save</strong>.</li>
 </ol>
