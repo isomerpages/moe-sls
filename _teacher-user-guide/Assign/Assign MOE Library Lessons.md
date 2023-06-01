@@ -18,7 +18,7 @@ third_nav_title: Assign
 <li><strong>Allow students to reattempt Lesson/Course as self-study</strong></li>
 </ol>
 </li>
-<li>Click <strong>Next</strong> to continue. This will lead you to the <a target="_blank" href="URL">Assignment Summary</a> page where you can review the draft assignments and their settings before clicking <strong>Assign</strong> to confirm.</li>
+<li>Click <strong>Next</strong> to continue. This will lead you to the <a target="_blank" href="/teacher-user-guide/assign/manage-assignments/">Assignment Summary</a> page where you can review the draft assignments and their settings before clicking <strong>Assign</strong> to confirm.</li>
 </ol>
 <h2 id="add-moe-lesson-as-class-group-resource">Add MOE Lesson as Class Group Resource</h2>
 <hr>
@@ -29,7 +29,7 @@ third_nav_title: Assign
 <li><p>Click the MOE Library <strong>Lesson</strong> <strong>card</strong> that you would like to view.</p>
 </li>
 <li><p>Click <strong>Overflow (3 dots</strong> icon) on the header to open the right menu and click <strong>Add to Class Group Resources</strong>.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AS-AssignMOE1.png"></p>
+<p><img style="width: 25%;" src="/images/2Teacher/AS-AssignMOE1.png"></p>
 </li>
 <li><p>Select the Class Group(s), followed by <strong>Choose</strong>.</p>
 </li>
@@ -46,7 +46,7 @@ third_nav_title: Assign
 <li><strong>Visible to students in Class Group</strong></li>
 <li><strong>Notify Student(s)</strong> - this checkbox will be active if Resource is set to be visible to students in Class Group.</li>
 </ol>
-<p><img style="width: 50%;" src="/images/2Teacher/AS-AssignMOE2.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AS-AssignMOE2.png"></p>
 </li>
 </ol>
 </li>
