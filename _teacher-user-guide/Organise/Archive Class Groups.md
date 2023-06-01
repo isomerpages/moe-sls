@@ -10,7 +10,7 @@ third_nav_title: Organise
 
 <ol>
   <li>To archive a Class Group, enter the Class Group by clicking the <strong>Class Group Card</strong>.</li>
-  <li>Under the <strong>Admin</strong> tab, click <strong>Archive Group</strong>.</li><img style="width: 50%;" src="/images/2Teacher/O-ArchiveClassGroup.png">
+  <li>Under the <strong>Admin</strong> tab, click <strong>Archive Group</strong>.</li><img style="width: 100%;" src="/images/2Teacher/O-ArchiveClassGroup.png">
   <li>An archival action cannot be undone. Once a Class Group is archived, it will appear under the Past tab which will still be accessible to both teachers and students. Assignments and other records associated with this Class Group will also be accessible.</li>
   <li>For an archived Class Group,
     <ul>
