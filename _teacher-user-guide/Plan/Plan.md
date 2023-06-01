@@ -4,10 +4,10 @@ permalink: /teacher-user-guide/plan/index/
 description: ""
 third_nav_title: Plan
 ---
-## Plan
+<h2>Plan</h2>
 Use SLS to plan personal and class group events.
 
-<a target="_blank" href="/images/2Teacher/Flow-Plan.png"><img alt="Flow Plan" src="/images/2Teacher/Flow-Plan.png"></a>
+<img alt="Flow Plan" src="/images/2Teacher/Flow-Plan.png">
 
 <details>
  <summary><h4>How to use SLS Planner?</h4></summary>
