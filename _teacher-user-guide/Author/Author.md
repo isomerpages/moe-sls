@@ -9,7 +9,8 @@ third_nav_title: Author
 <br>
 <img style="width: 100%;" src="/images/2Teacher/Flow-Author.png">
 <details><summary><h4>1. How to create Lessons?</h4></summary>
-<a href="/teacher-user-guide/author/create-new-lessons/" target="_blank">Create Lessons (New)</a>
+<ul>
+<li><a href="/teacher-user-guide/author/create-new-lessons/" target="_blank">Create Lessons (New)</a></li></ul>
 
 <p>1. Activities and Templates</p>	
 <ul>
