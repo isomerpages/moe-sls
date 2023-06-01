@@ -12,7 +12,7 @@ third_nav_title: Differentiate
 	<p><u>Note</u>: The number of Activities within a Section is indicated as a number in parenthesis. </p>
 </li>
 <li><p>To set Differentiated Access for individual Activities, click the dropdown arrow on the Activity Cards. To set Differentiated Access for multiple Activities, select the checkboxes beside the Activity titles, followed by <strong>Set Differentiated Access</strong>.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/DI-SetDifferentiated1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/DI-SetDifferentiated1.png"></p>
 </li>
 <li><p>You can choose to view your students by Form Class or by Subgroup. Select the relevant option from the dropdown list.</p>
 </li>
