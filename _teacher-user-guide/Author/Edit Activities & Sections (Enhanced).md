@@ -20,7 +20,7 @@ third_nav_title: Author
 <li>Move Up/Down</li>
 <li>Set As Optional - The Activity will be Optional for students to complete.</li>
 <li><p>Delete</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-EditActivitySection1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-EditActivitySection1.png"></p>
 	<p><u>Note</u>: In the Lesson Plan, click the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> to edit the Activity Title and Save icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to save.</p>
 </li>
 </ul>
@@ -41,5 +41,5 @@ third_nav_title: Author
 </li>
 <li>Go to Lesson Plan, if you want to Move Section Up/Down or to Rename Section Title by clicking the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> to edit the Section Title and Save icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to save.</li>
 </ol>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-EditActivitySection1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-EditActivitySection1.png"></p>
 <p><u>Note</u>: The viewable toggle is only selectable when there is only one section. When there are two or more sections, it cannot be switched off.</p>
