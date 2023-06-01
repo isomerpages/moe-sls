@@ -27,7 +27,7 @@ third_nav_title: Organise
   <li>When you add a Teacher as Student, you can search for the teacher's name from the Search Bar. Alternatively, you can filter the teacher by school from the dropdown list.</li>
 </ol>
 
-<p><img style="width: 50%;" src="/images/2Teacher/O-AddTeacher.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/O-AddTeacher.png"></p>
 
 <ol start="8">
   <li>Select the checkboxes next to the names of the teachers you wish to add to the Class Group, followed by <strong>Add</strong>.</li>
