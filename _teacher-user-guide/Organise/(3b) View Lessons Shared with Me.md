@@ -22,7 +22,7 @@ third_nav_title: Organise
 </ol>
 
 <h2>Deleting a Shared Lesson</h2>
-
+<hr>
 <ol>
   <li>To delete a shared Lesson, in the Shared with Me page, open the Lesson.</li>
   <li>Open the right menu and select <strong>Share with Teachers</strong>.</li>
