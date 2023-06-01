@@ -7,7 +7,7 @@ third_nav_title: Discover
 <h2>Discover</h2>
 Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 
-<a target="_blank" href="/images/2Teacher/Flow-Discover.png"><img alt="Flow Discover" src="/images/2Teacher/Flow-Discover.png"></a>
+<img alt="Flow Discover" src="/images/2Teacher/Flow-Discover.png">
 
 
 <details>
@@ -24,7 +24,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 </details>
 	
 	
-<a target="_blank" href="/images/2Teacher/Flow-Discover1.png"><img alt="Flow Discover" src="/images/2Teacher/Flow-Discover1.png"></a>
+<img alt="Flow Discover" src="/images/2Teacher/Flow-Discover1.png">
 
 <details><summary><h4>How to embed whitelisted websites?</h4></summary>
 	
