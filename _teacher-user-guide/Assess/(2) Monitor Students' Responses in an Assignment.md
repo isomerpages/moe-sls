@@ -15,7 +15,7 @@ third_nav_title: Assess
 </ul>
 <h2 id="monitor-assignment-page">Monitor Assignment page</h2>
 <hr>
-<p><img style="width: 50%;" src="/images/2Teacher/As-Heatmap.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/As-Heatmap.png"></p>
 <p>The following information will be displayed on the Monitor Assignment page:</p>
 <ul>
 <li>Assignment Status: based on the overall Completion Status of students assigned.</li>
