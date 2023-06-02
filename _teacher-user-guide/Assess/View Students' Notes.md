@@ -26,8 +26,9 @@ third_nav_title: Assess
 <li>To view Comments given by students on a student's Note, click <strong>Comments</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Comment.svg"> to open the Card Details subpage. </li>
 <li>You can add comments by clicking the <strong>Add</strong> from the Card Details subpage, and add your comments in the text box.</li>
 
-<p><u>Note</u>: Comments added on a Team Note will be visible to all students in the team. <img style="width: 100%;" src="/images/2Teacher/As-StudentNote.png">
-</p><li>You can also choose to insert mathematical or chemical equations by clicking the relevant icons.</li>
+<p><u>Note</u>: Comments added on a Team Note will be visible to all students in the team.</p>
+<img style="width: 100%;" src="/images/2Teacher/As-StudentNote.png">
+<li>You can also choose to insert mathematical or chemical equations by clicking the relevant icons.</li>
 <li>Once done, click <strong>Post</strong>.</li>
 <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) to Edit/Delete a Comment.</li>
 </ol>
