@@ -7,8 +7,8 @@ third_nav_title: Administer
 <h1 id="reset-student-passwords-for-classes">Reset Student Passwords for Classes</h1>
 <p>Owners and Co-teachers can reset the passwords of students in their Class Groups created in School Cockpit. This is necessary for:</p>
 <ol>
-<li>students who have forgotten their SLS passwords and are unable to reset them on their own</li>
-<li>onboarding a new student.</li>
+<li>Students who have forgotten their SLS passwords and are unable to reset them on their own</li>
+<li>Onboarding a new student.</li>
 </ol>
 <p><u>Note</u>: You cannot reset the passwords of students in your Class Groups created in SLS, but you can generate a two-hour temporary password to give them temporary access to the SLS.</p>
 <h2 id="access-reset-password">Access Reset Password</h2>
