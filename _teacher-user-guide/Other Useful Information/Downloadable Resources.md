@@ -18,55 +18,55 @@ third_nav_title: Other Useful Information
   <tbody>
     <tr>
       <td><a target="_blank" href="../../../vle/teacher/LessonManagement/AboutLessons.html">About Lessons and Courses</a></td>
-      <td><a download="" href="/files/Userguide/Useful%20Resources/Lesson-Navigation-ePoster.pdf"><img style="width: 50%;" src="/images/2Teacher/Useful%20Resources/Lesson-Navigation-ePoster.png"></a><br>Navigate SLS Homepage and SLS Assignment e-Poster (PDF)</td>
+      <td><a download="" href="/files/Userguide/Useful%20Resources/Lesson-Navigation-ePoster.pdf"><img style="width: 50%;" src="/images/2Teacher/Useful%20Resources/Lesson-Navigation-ePoster.png"></a></td>
     </tr>
     <tr>
       <td><a target="_blank" href="../../../vle/teacher/LessonManagement/AboutLessons.html">About Lessons and Courses</a></td>
-      <td><a download="" href="/files/Userguide/Useful%20Resources/LessonStructure.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/LessonStructure.png"></a><br>Lesson Structure (PDF)</td>
+      <td><a download="" href="/files/Userguide/Useful%20Resources/LessonStructure.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/LessonStructure.png"></a></td>
     </tr>
     <tr>
       <td><a target="_blank" href="../../../vle/teacher/AssignmentFeedback/CreateAssignment.html">Assignment and Feedback Management</a></td>
-      <td><a download="" href="/files/Userguide/Useful%20Resources/MonitoringAssignmentsInfographic.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/MonitoringAssignmentsInfographic.png"></a><br>Monitoring Assignments (PDF)</td>
+      <td><a download="" href="/files/Userguide/Useful%20Resources/MonitoringAssignmentsInfographic.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/MonitoringAssignmentsInfographic.png"></a></td>
     </tr>
     <tr>
       <td><a target="_blank" href="../../../../../students/user-guide/vle/student/Assignments/AttemptARQ.html">Attempt an Audio-Response Question</a></td>
-      <td><a download="" href="/files/Userguide/Useful%20Resources/AudioVideoFile-Submission.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/AudioVideoFile-Submission.png"></a><br>Audio and Video File Submission (PDF)</td>
+      <td><a download="" href="/files/Userguide/Useful%20Resources/AudioVideoFile-Submission.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/AudioVideoFile-Submission.png"></a></td>
     </tr>
     <tr>
       <td><a target="_blank" href="../../../vle/teacher/LessonResources/CopyrightGuidelines.html">Copyright Guidelines for Submission</a></td>
-      <td><a download="" href="/files/Userguide/Useful%20Resources/CopyrightGuidelineGraphic.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/CopyrightGuidelineGraphic.png"></a><br>Copyright Guidelines (PDF)</td>
+      <td><a download="" href="/files/Userguide/Useful%20Resources/CopyrightGuidelineGraphic.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/CopyrightGuidelineGraphic.png"></a></td>
     </tr>
     <tr>
       <td><a target="_blank" href="../../../vle/teacher/LessonManagement/CreateLesson.html">Create a Lesson</a></td>
-      <td><a download="" href="/files/Userguide/Useful%20Resources/LessonCreation.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/LessonCreation.png"></a><br>Lesson Creation (PDF)</td>
+      <td><a download="" href="/files/Userguide/Useful%20Resources/LessonCreation.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/LessonCreation.png"></a></td>
     </tr>
     <tr>
       <td><a target="_blank" href="../../../vle/teacher/AssignmentFeedback/MonitorResponses.html">Monitor Students' Responses in an Assignment (Lesson)</a><br><br><a target="_blank" href="../../../vle/teacher/AssignmentFeedback/MonitorCourse.html">Monitor Students' Responses in an Assignment (Course)</a></td>
-      <td><a download="" href="/files/Userguide/Useful%20Resources/Enable-Pop-ups-Guide.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/Enable-Pop-ups-Guide.png"></a><br>Enable Pop-up Guide (PDF)</td>
+      <td><a download="" href="/files/Userguide/Useful%20Resources/Enable-Pop-ups-Guide.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/Enable-Pop-ups-Guide.png"></a></td>
     </tr>
     <tr>
       <td><a target="_blank" href="../../../vle/teacher/AssignmentFeedback/MonitorCourse.html">Monitor Students' Responses in an Assignment (Course)</a></td>
-      <td><a download="" href="/files/Userguide/Useful%20Resources/Navigate-Course-Primer.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/Navigate-Course-Primer.png"></a><br>Navigate an Assignment (Course) (PDF)</td>
+      <td><a download="" href="/files/Userguide/Useful%20Resources/Navigate-Course-Primer.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/Navigate-Course-Primer.png"></a></td>
     </tr>
     <tr>
       <td><a target="_blank" href="../../../vle/teacher/LessonManagement/EditLesson.html">Edit a Lesson/Course</a></td>
-      <td><a download="" href="/files/Userguide/Useful%20Resources/Navigate-Course-Primer.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/Navigate-Course-Primer.png"></a><br>Navigate Course Editor (PDF)</td>
+      <td><a download="" href="/files/Userguide/Useful%20Resources/Navigate-Course-Primer.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/Navigate-Course-Primer.png"></a></td>
     </tr>
     <tr>
       <td><a target="_blank" href="../../../vle/teacher/LessonResources/SearchForResources.html">Search For Resources (Improved)</a></td>
-      <td><a download="" href="/files/Userguide/Useful%20Resources/Search-For-Resources-with-Topic-Filters.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/TopicFilters.png"></a><br>Search For Resources with Topic Filters (PDF)</td>
+      <td><a download="" href="/files/Userguide/Useful%20Resources/Search-For-Resources-with-Topic-Filters.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/TopicFilters.png"></a></td>
     </tr>
     <tr>
       <td><a target="_blank" href="../../../vle/teacher/LearningProgress/About.html">About Learning Progress</a></td>
-      <td><a download="" href="/files/Userguide/Useful%20Resources/Intro-Learning-Progress.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/IntroLearningProgress.png"></a><br>Introduce Learning Progress (PDF)</td>
+      <td><a download="" href="/files/Userguide/Useful%20Resources/Intro-Learning-Progress.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/IntroLearningProgress.png"></a></td>
     </tr>
     <tr>
       <td><a target="_blank" href="../../../vle/teacher/LearningProgress/About.html">About Learning Progress</a></td>
-      <td><a download="" href="/files/Userguide/Useful%20Resources/Monitor-Learning-Progress.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/MonitorLearningProgress.png"></a><br>Monitor Learning Progress (PDF)</td>
+      <td><a download="" href="/files/Userguide/Useful%20Resources/Monitor-Learning-Progress.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/MonitorLearningProgress.png"></a></td>
     </tr>
     <tr>
       <td><a target="_blank" href="../../../../../user-guide/vle/logintroubleshooting/LoginTroubleshooting/SlowSiteLoading.html">Slow Site Loading</a><br><br><a target="_blank" href="../../../../../user-guide/vle/logintroubleshooting/LoginTroubleshooting/WebBrowserTroubleshooting.html">Web Browser Troubleshooting Tips</a></td>
-      <td><a download="" href="/files/Login%20Troubleshooting/Clear-Cache.pdf"><img style="width: 50%" src="/images/4Troubleshooting/Clear-Cache.png"></a><br>Clear Cache (PDF)</td>
+      <td><a download="" href="/files/Login%20Troubleshooting/Clear-Cache.pdf"><img style="width: 50%" src="/images/4Troubleshooting/Clear-Cache.png"></a></td>
     </tr>
     <tr>
       <td><p>Guide to School-Based e-Assessment (e-SBAs) in SLS</p></td>
@@ -74,5 +74,13 @@ third_nav_title: Other Useful Information
     </tr>
     <tr>
       <td><p>Eliciting Voices of Students with Diverse Learning Needs – A Resource Guide</p></td>
-      <td><a download="" href="http://for.edu.sg/EVS"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/cotf.png"></a><br>Eliciting Voices of Students with Diverse Learning Needs – A Resource Guide (PDF)</td></tr></tbody>
+      <td><a download="" href="http://for.edu.sg/EVS"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/cotf.png"></a></td></tr>
+<tr><td>
+Using SLS for Dept review      </td>
+<td>
+<a target="_blank" href="/files/Marcomms/Feature Highlights/using sls for dept review.pdf">
+          <img style="width: 50%;" src="/images/2Teacher/Marcomms/Feature Highlights/using sls for dept review.png">
+        </a>
+      </td>
+	</tr></tbody>
 </table>
