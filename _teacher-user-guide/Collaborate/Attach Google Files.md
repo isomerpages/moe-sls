@@ -14,4 +14,3 @@ third_nav_title: Collaborate
 <li>When files are added from Google, the file will be shown in the text body as a media bar.</li>
 <li>When files are added to Pre-populated Student Answer in a Free-Response Question, a personal copy of the file, which students can access and edit, will be made for the students after the lesson is assigned in SLS.</li>
 </ol>
-<p><u>Note</u>: Click the thumbnail below to download the e-Poster for Team Quiz + Google.</p>
