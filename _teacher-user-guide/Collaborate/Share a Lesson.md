@@ -12,7 +12,7 @@ third_nav_title: Collaborate
 <li>Open the left menu. Expand the <strong>Resources</strong> dropdown list and select <strong>My Drive</strong>. By default, you will be in the My Lessons tab.</li>
 <li>In the listing, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the resource you wish to share and click <strong>Share</strong>.</li>
 <li><p>You may also share a lesson from the View Lesson page. Open the right menu and select <strong>Share with Teachers</strong>.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/C-ShareLesson.png"></p>
+<p><img style="width: 25%;" src="/images/2Teacher/C-ShareLesson.png"></p>
 </li>
 </ol>
 <p><u>Note</u>: You can only share a lesson if you are the owner of the lesson, and if permission has been given for the lesson to be shared.</p>
