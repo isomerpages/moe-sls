@@ -4,11 +4,9 @@ permalink: /teacher-user-guide/other-useful-information/downloadable-resources/
 description: ""
 third_nav_title: Other Useful Information
 ---
-<h1 id="downloadable-resources-to-be-updated-directly-on-html-">Downloadable Resources (to be updated directly on HTML)</h1>
+<h1 id="downloadable-resources-to-be-updated-directly-on-html-">Downloadable Resources</h1>
 
-<h2 id="-downloadable-resources-">Downloadable Resources</h2>
-<hr>
-<table class="sug-datatable basic">
+<table>
 <thead>
 <tr>
 <th style="text-align: center; vertical-align: middle;">Topics</th>
@@ -17,16 +15,20 @@ third_nav_title: Other Useful Information
   </thead>
   <tbody>
     <tr>
-      <td><a target="_blank" href="../../../vle/teacher/LessonManagement/AboutLessons.html">About Lessons and Courses</a></td>
-      <td><a download="" href="/files/Userguide/Useful%20Resources/Lesson-Navigation-ePoster.pdf"><img style="width: 50%;" src="/images/2Teacher/Useful%20Resources/Lesson-Navigation-ePoster.png"></a></td>
+      <td><a target="_blank" href="/teacher-user-guide/author/manage-lessons/">About Lessons</a></td>
+      <td><a download="" href="/files/Userguide/Downloadable%20Resources/Lesson-Navigation-ePoster.pdf"><img style="width: 50%;" src="/images/2Teacher/Downloadable%20Resources/Lesson-Navigation-ePoster.png"></a></td>
     </tr>
     <tr>
-      <td><a target="_blank" href="../../../vle/teacher/LessonManagement/AboutLessons.html">About Lessons and Courses</a></td>
-      <td><a download="" href="/files/Userguide/Useful%20Resources/LessonStructure.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/LessonStructure.png"></a></td>
+      <td><a target="_blank" href="/teacher-user-guide/author/add-components/">Add Components</a>
+<br><br>
+<a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">Create Quizzes</a></td>
+      <td><a download="" href="/files/Userguide/Downloadable%20Resources/LessonStructure.pdf"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/LessonStructure.png"></a></td>
     </tr>
     <tr>
-      <td><a target="_blank" href="../../../vle/teacher/AssignmentFeedback/CreateAssignment.html">Assignment and Feedback Management</a></td>
-      <td><a download="" href="/files/Userguide/Useful%20Resources/MonitoringAssignmentsInfographic.pdf"><img style="width: 50%" src="/images/2Teacher/Useful%20Resources/MonitoringAssignmentsInfographic.png"></a></td>
+      <td><a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/">Monitor Students' Responses in an Assignment</a>
+			<br><br>
+			<a target="_blank" href="/teacher-user-guide/assess/annotate-underline-students-responses/">Annotate (Underline)  Students' Responses</a></td>
+      <td><a download="" href="/files/Userguide/Downloadable%20Resources/MonitoringAssignmentsInfographic.pdf"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/MonitoringAssignmentsInfographic.png"></a></td>
     </tr>
     <tr>
       <td><a target="_blank" href="../../../../../students/user-guide/vle/student/Assignments/AttemptARQ.html">Attempt an Audio-Response Question</a></td>
