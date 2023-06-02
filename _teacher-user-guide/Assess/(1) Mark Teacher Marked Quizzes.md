@@ -22,7 +22,7 @@ third_nav_title: Assess
 <li><p>Click a student’s name to navigate within the student's Assignment to begin marking. </p>
 </li>
 <li>Alternatively, click the Question number in the Heatmap to View All Responses. You can also click on a student’s name to navigate to the particular Activity for the entire Class Group, starting with the student you clicked.</li>
-<li>You can give <a target="_blank" href="URL">individual or multiple students feedback</a> on the following questions:<ul>
+<li>You can give <a target="_blank" href="/teacher-user-guide/assess/add-teacher-comments/">comments to individual or multiple students </a> on the following questions:<ul>
 <li>Free-Response Question</li>
 <li>Audio-Response Question</li>
 <li>File Submission Question</li>
