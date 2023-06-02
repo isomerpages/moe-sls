@@ -15,7 +15,7 @@ third_nav_title: Assess
 <li>Assignment Card on homepage</li>
 <li>Assignment page</li>
 <li><p>Monitor Assignment page</p>
-<p><img style="width: 50%;" src="/images/2Teacher/As-TeacherMarkedQuiz.png"></p>
+<p><img style="width: 25%;" src="/images/2Teacher/As-TeacherMarkedQuiz.png"></p>
 </li>
 </ul>
 </li>
