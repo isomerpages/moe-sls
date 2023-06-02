@@ -70,7 +70,7 @@ third_nav_title: Assess
 <li>To comment on a response, click <strong>Add</strong> on the bottom right of the Response card.</li>
 <li>After typing in the comment, click <strong>Post</strong>.</li>
 </ol>
-<p>Note: Each student can submit more than one post in a Discussion and teachers can create new posts as well.</p>
+<p><u>Note</u>: Each student can submit more than one post in a Discussion and teachers can create new posts as well.</p>
 <h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
