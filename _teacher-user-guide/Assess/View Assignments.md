@@ -10,7 +10,7 @@ third_nav_title: Assess
 <ul>
 <li>Assignments that have been recently assigned (up to 3 days) will have a New label on the Assignment Card.</li>
 </ul>
-<p><img style="width: 50%;" src="/images/2Teacher/As-TeacherMarkedQuiz.png"></p>
+<p><img style="width: 25%;" src="/images/2Teacher/As-TeacherMarkedQuiz.png"></p>
 <ul>
 <li>The progress bar in the Assignment Cards shows the completion status of students in the Class Group.<ul>
 <li>Yellow portion represents the proportion of students who have not started the assignment.</li>
@@ -20,7 +20,7 @@ third_nav_title: Assess
 </li>
 <li>Lessons with Sections will show the next available Section or Section where the action is pending.</li>
 <li><p>When an Assignment is set as an Assessment, the card will be reflected in beige.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/As-Assessment.png"></p>
+<p><img style="width: 25%;" src="/images/2Teacher/As-Assessment.png"></p>
 </li>
 </ul>
 <h2 id="-view-all-assignments-">View All Assignments</h2>
