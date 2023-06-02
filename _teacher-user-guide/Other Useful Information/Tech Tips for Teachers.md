@@ -187,18 +187,18 @@ Students can link any Gmail account (including personal ones) with SLS. They onl
 <li><p><strong>Will form teachers be given a class with their form classes on SLS? Right now, form teachers who do not teach the whole class have to form their own teaching groups in order to conduct FTGP lessons.</strong></p>
 <p> Schools are advised to create a class in School Cockpit (containing the form class students and teacher) and tag the class to a school-based subject, e.g. CCE. Once tagged to a subject, the form classes will appear in SLS.</p>
 </li>
-<li><p><strong>Currently only teachers in the same Teaching Group can change password for students. Can SLS allow teachers to change a students’ password even if no TG is set up?</strong>
-We note the request and will be looking to add this capability by Dec 2023.</p>
+<li><p><strong>Currently only teachers in the same Teaching Group can change password for students. Can SLS allow teachers to change a students’ password even if no TG is set up?</strong></p>
+<p>We note the request and will be looking to add this capability by Dec 2023.</p>
 </li>
-<li><p><strong>How will edits in School Cockpit (SC) and in SLS Class Groups affect each other?</strong>
-Information will sync only one way from SC to SLS. Updates in SC will appear in SLS. However, edits in SLS Class Groups will not appear in SC.</p>
+<li><p><strong>How will edits in School Cockpit (SC) and in SLS Class Groups affect each other?</strong></p>
+<p>Information will sync only one way from SC to SLS. Updates in SC will appear in SLS. However, edits in SLS Class Groups will not appear in SC.</p>
 </li>
-<li><p><strong>Can SC team + SLS look into a trigger button for school users to trigger a sync so that all the teaching groups involved can be updated. It takes very long for the sync to happen and manual pulling of new student names is very slow.</strong>
-The R19 ability to add students to existing SLS Class Groups will allow you to add new students to a class immediately while waiting for the sync with School Cockpit.  After the sync occurs, the student will automatically be treated like other students in the Class Group.</p>
+<li><p><strong>Can SC team + SLS look into a trigger button for school users to trigger a sync so that all the teaching groups involved can be updated. It takes very long for the sync to happen and manual pulling of new student names is very slow.</strong></p>
+<p>The R19 ability to add students to existing SLS Class Groups will allow you to add new students to a class immediately while waiting for the sync with School Cockpit.  After the sync occurs, the student will automatically be treated like other students in the Class Group.</p>
 </li>
 </ol>
 <hr>
-		</details>
+</details>
 <details>
 <summary>
 <h2 id="other-or-authentication-">Other (or Authentication)</h2>
@@ -265,14 +265,15 @@ Note:  SLS access can only be granted to ICT Manager/Associates if they are perf
 <p>SgLDC is a community meant for teachers to share, learn and design technology-enabled learning experiences for future-ready learners. While some teachers do post their experiences with SLS, often than not, other teachers in the community are quick to provide solutions.</p>
 <p>Should a user wishes to report a bug, do send an email to helpdesk@sls.ufinity.com or click the “Help us improve” widget.</p>
 </li>
-</ol>
-<h2 id="plan">Plan</h2>
+</ol></details>
+<details><summary>
+	<h2 id="plan">Plan</h2></summary>
 <ol>
-<li><p><strong>Does the timetable in SLS reflects synchronously if we update the google / outlook calendar?</strong>
-No. It will not be synchronised. It will be correct at the point of import.  However, we encourage teachers to use the SLS Planner directly to plan T&amp;L related activities after the initial upload, as the Planner can be used to set new events just like a Google/Outlook calendar.</p>
+<li><p><strong>Does the timetable in SLS reflects synchronously if we update the google / outlook calendar?</strong></p>
+<p>No. It will not be synchronised. It will be correct at the point of import.  However, we encourage teachers to use the SLS Planner directly to plan T&amp;L related activities after the initial upload, as the Planner can be used to set new events just like a Google/Outlook calendar.</p>
 </li>
-<li><p><strong>For SLS Planner, can this be shared with other colleagues?</strong>
-You can create events in the Class Group. Other teachers in the Class Group will then be able to see the events on their calendar.</p>
+<li><p><strong>For SLS Planner, can this be shared with other colleagues?</strong></p>
+<p>You can create events in the Class Group. Other teachers in the Class Group will then be able to see the events on their calendar.</p>
 </li>
 </ol>
 </details>
