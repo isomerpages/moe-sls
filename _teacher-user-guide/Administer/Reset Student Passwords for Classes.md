@@ -26,7 +26,7 @@ third_nav_title: Administer
 	<p><u>Note</u>: You cannot reset the password of a locked student account. Please approach your school's SLS School Administrator to do so.</p>
 </li>
 <li><p>Click <strong>Reset Password</strong>.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/A-ResetPassword.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/A-ResetPassword.png"></p>
 </li>
 <li><p>On the confirmation prompt, verify that the correct number of students has been selected.</p>
 </li>
