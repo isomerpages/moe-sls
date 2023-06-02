@@ -21,7 +21,7 @@ third_nav_title: Publish
 <li>Open the Lesson that you wish to submit to the Community Gallery.</li>
 <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the top right of the header, and click <strong>Check for Submission (Community Gallery)</strong>.</li>
 <li><p>You will be prompted to check that the content of the Lesson is in line with the <a target="_blank" href="/teacher-user-guide/publish/copyright-guidelines-for-submission/">Community Gallery guidelines</a>. </p>
-<p><img style="width: 50%;" src="/images/2Teacher/P-CG.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/P-CG.png"></p>
 </li>
 <li><p>If the <strong>Lesson is Ready for Submission</strong>, check the box to acknowledge that the content complies with SLS Terms of Use and the Copyright Guidelines. </p>
 	<p><u>Note</u>: To make any edits before submission, close the pop-up and click the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">.</p>
