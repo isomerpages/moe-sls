@@ -11,11 +11,10 @@ third_nav_title: Administer
 <h2 id="-access-class-group-">Access Class Group</h2>
 <hr>
 <ol>
-<li>There are multiple ways to access the Class Groups page.<ul>
+	<p>There are multiple ways to access the Class Groups page.</p><ul>
 <li>Class Groups tab on the homepage</li>
 <li>left menu, under Class Groups</li>
 </ul>
-</li>
 </ol>
 <h2 id="-generate-temporary-password-">Generate Temporary Password</h2>
 <hr>
