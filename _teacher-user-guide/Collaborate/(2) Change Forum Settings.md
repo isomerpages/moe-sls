@@ -21,7 +21,7 @@ third_nav_title: Collaborate
 <ol>
 <li>Click <strong>Forum Settings</strong>, then select the checkbox “Allow Observers and Students to create Poll”.</li>
 
-<p><img style="width: 50%;" src="/images/2Teacher/C-Poll1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/C-Poll1.png"></p>
 <li>Click <strong>Save</strong> to confirm.</li>
 </ol>
 <h3 id="comment-settings">Comment Settings</h3>
