@@ -21,14 +21,14 @@ third_nav_title: SLS Superhero Quiz
   <ol>
     <li>Assign your Gamified lesson.</li>
     <li>At the Assignment Summary page, edit the Gamification Settings and <a target="_blank" href="/teacher-user-guide/gamify/create-game-teams/">assign students to Game Teams</a>.</li>
-<a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture.png"> <img style="width: 50%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture.png"></a>
+<a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture.png"> <img style="width: 100%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture.png"></a>
 <br>
 <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Tip!
 </p>
 
 <ul><li>Quicken your workflow! If you have <a target="_blank" href="/teacher-user-guide/collaborate/create-teams/">existing Subgroups in your class, simply apply them as Game Teams</a>.</li>
 </ul>
-<br><a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture2.png"> <img style="width: 50%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture2.png"></a>
+<br><a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture2.png"> <img style="width: 100%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture2.png"></a>
 
 <li>Assign the course and  <a target="_blank" href="/teacher-user-guide/gamify/display-leaderboard-for-students/">watch your students vie to be at the top of the Leaderboard</a>!</li>
 </ol>
