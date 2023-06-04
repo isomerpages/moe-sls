@@ -23,6 +23,15 @@ third_nav_title: SLS Superhero Quiz
 <li>After the e-assessment is vetted, <a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">set the Assignment as an Assessment</a>.</li>
 </ol>
 
+<a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Conduct.png"> <img style="width: 100%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Conduct.png"></a>
+
+<p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Important!
+</p>
+<ul><li>Assessments are only accessible by students via an Assessment URL provided by you. Assessments are not viewable from students’  Assignments list.</li><li>In Assessments, Students will not be able to access embedded links or apps unless they have been whitelisted for use in the assessment's network.</li></ul>
+
+<p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Tip!
+</p>
+<ul><li>To use SLS to conduct e-assessments in an exam setting, refer to our <a download="" href="/files/Userguide/Downloadable%20Resources/e-assessment-guide-for-SLS.pdf">Guide in Conducting School-Based e-Assessments (e-SBAs)</a></li></ul>
 <h2>Related articles</h2>
 <hr>
 <ul>
