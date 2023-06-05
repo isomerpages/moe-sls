@@ -8,7 +8,6 @@ description: ""
 <hr>
 <h2 id="feature-highlights">Feature Highlights</h2>
 <hr>
-<h4 id="posters">Posters</h4>
 <p><a target="_blank" href="/students/feature-highlights/2022-2h/">2022 2H</a>
 <br><a target="_blank" href="/students/feature-highlights/2022-1h/">2022 1H</a>
 <br><a target="_blank" href="/students/feature-highlights/2021-2h/">2021 2H</a></p>
