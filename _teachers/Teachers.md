@@ -6,9 +6,6 @@ description: ""
 <img alt="Teachers Hero" src="/images/2Teacher/Teachers%20Hero.png">
 <p>
 Looking for new ways to support your students’ learning? SLS features can enhance your teaching to engage your students better!</p>
-<hr> 
-
-
 <h2 id="feature-highlights">Feature Highlights</h2>
 <hr>
 <ul>
