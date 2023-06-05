@@ -4,24 +4,18 @@ permalink: /partners/events/sls-pitch-day-2021/
 description: ""
 third_nav_title: Events
 ---
-<img width="100%" src="/images/3Partners/small_slsmicrositeimage.png">
-           
+<img width="100%" src="/images/3Partners/small_slsmicrositeimage.png">           
 <h2 class="section-title">Welcome to SLS Pitch Day</h2>
-
 <hr>
 <p>SLS Pitch Day is a platform for interested participants to propose products and services that would be useful for teaching and learning and have potential for integration with SLS. </p>
-
 <p>It allows an opportunity to connect, discuss and share with MOE divisions on products that may meet their needs.</p>
-
 <p>Shortlisted proposals will be presented by submitting teams to a panel comprising members of MOE's senior management.</p>
-
-
 <h2 class="section-title">Task</h2>
 <hr>
 <p>Describe your proposed product or service and how it would enhance one or more of the following Areas:
 </p><ul>
 <li><p>Curriculum</p></li>
-<li> <p>Pedagogy</p></li>
+<li><p>Pedagogy</p></li>
 <li><p>Assessment</p></li>
 </ul>
 <p></p>
