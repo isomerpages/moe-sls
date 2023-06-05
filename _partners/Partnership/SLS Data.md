@@ -4,9 +4,6 @@ permalink: /partners/partnership/sls-data/
 description: ""
 third_nav_title: Partnership
 ---
-SLS Data
-========
-
- The [SLS Data Dictionary](/files/Partnerships/data%20dictionary.pdf) lists the types of data we collect in SLS, which may be of interest to researchers.
-
- Data extraction requests should be made through a point of contact from MOE. SLS Office does not handle data extraction requests directly.
+<h1 id="sls-data">SLS Data</h1>
+<p> The <a target="_blank" href="/files/Partnerships/data%20dictionary.pdf">SLS Data Dictionary</a> lists the types of data we collect in SLS, which may be of interest to researchers.</p>
+<p> Data extraction requests should be made through a point of contact from MOE. SLS Office does not handle data extraction requests directly.</p>
