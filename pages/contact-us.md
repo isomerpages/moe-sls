@@ -6,7 +6,7 @@ agency_name: SLS  Helpdesk
 contacts:
   - content:
       - phone: "(65) 6702 6513"
-      - email: "<a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>"
+      - email: "helpdesk@sls.ufinity.com"
       - other: <p>For issues that your School-Based Helplines cannot address, you may
           contact SLS Helpdesk.</p><p>Please note that the call waiting time may
           be longer during peak periods such as Home-Based Learning days. </p>
