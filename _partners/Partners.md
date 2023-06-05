@@ -8,32 +8,32 @@ description: ""
 
 <h2>Partnership</h2>
 <ul>
-  <li><a target="_blank" href="/partners/Partnership/partnershipsls/">Partnership with SLS</a></li>
-  <li><a target="_blank" href="/partners/Partnership/partnershipmodel/">Partnership Models</a></li>
-  <li><a target="_blank" href="/partners/Partnership/SLSData">SLS Data</a></li>
+  <li><a target="_blank" href="/partners/partnership/partnership-with-sls/">Partnership with SLS</a></li>
+  <li><a target="_blank" href="/partners/partnership/partnership-models/">Partnership Models</a></li>
+  <li><a target="_blank" href="/partners/partnership/sls-data/">SLS Data</a></li>
 </ul>
 
 <h2>Integration</h2>
 <ul>
-  <li><a target="_blank" href="/partners/Integration/whitelistedwebsites/">Whitelisted Websites</a></li>
-  <li><a target="_blank" href="/partners/Integration/integratedapps/">Integrated Apps</a></li>
-  <li><a target="_blank" href="/partners/Integration/externalengines/">External Engines</a></li>
+  <li><a target="_blank" href="/partners/integration/whitelisted-websites/">Whitelisted Websites</a></li>
+  <li><a target="_blank" href="/partners/integration/integrated-apps/">Integrated Apps</a></li>
+  <li><a target="_blank" href="/partners/integration/external-engines/">External Engines</a></li>
 </ul>
 
 <h2>Events</h2>
 <h3>SLS Pitch Day 2022</h3>
 <ul>
-  <li><a target="_blank" href="/partners/Events/slspitchday2022/">Overview</a></li>
-  <li><a target="_blank" href="/partners/Events/featuredpitches2022/">Featured Pitches</a></li>
+  <li><a target="_blank" href="/partners/events/sls-pitch-day-2022/">Overview</a></li>
+  <li><a target="_blank" href="/partners/Events/featured-pitches-2022/">Featured Pitches</a></li>
 </ul>
 <h3>SLS Pitch Day 2021</h3>
 <ul>
-  <li><a target="_blank" href="/partners/Events/slspitchday2021/">Overview</a></li>
+  <li><a target="_blank" href="/partners/events/sls-pitch-day-2021/">Overview</a></li>
   <li><a target="_blank" href="/partners/Events/slspitchday2021/">Featured Pitches</a></li>
-  <li><a target="_blank" href="/partners/Events/assessmentanalytics2021/">Assessment and Analytics</a></li>
-  <li><a target="_blank" href="/partners/Events/contentresources2021/">Content and Resources</a></li>
-  <li><a target="_blank" href="/partners/Events/pedagogyinstruction2021/">Pedagogy and Instruction</a></li>
-  <li><a target="_blank" href="/partners/Events/others2021/">Others</a></li>
+  <li><a target="_blank" href="/partners/events/assessment-and-analytics-2021/">Assessment and Analytics</a></li>
+  <li><a target="_blank" href="/partners/events/content-and-resources-2021/">Content and Resources</a></li>
+  <li><a target="_blank" href="/partners/events/pedagogy-and-instruction-2021/">Pedagogy and Instruction</a></li>
+  <li><a target="_blank" href="/partners/events/others-2021/">Others</a></li>
 </ul>
 
 <h2>Sandbox</h2>
