@@ -10,8 +10,8 @@ third_nav_title: Technical Issues
 <li><strong>Check that your internet connection is stable.</strong> Visit other websites to confirm whether you have internet connectivity issues. If the problem persists, you may wish to seek assistance from:</li>
 <ul><li>Your school's Desktop Engineer (DE) (if the problem occurs in school)</li>
 <li>Internet Service Provider (ISP) (if the problem occurs at home)</li>
-</ul><li>Ensure that your web browser meets the <a href="/login-troubleshooting/technical-issues/operating-system-and-browser-requirements/">minimum requirements</a>.</li>
-<li>Clear your browser's <a href="https://www.wikihow.com/Clear-Your-Browser%27s-Cache">cache</a> and <a href="https://www.wikihow.com/Clear-Your-Browser%27s-Cookies">cookies</a> and restart your web browser.</li>
+</ul><li>Ensure that your web browser meets the <a target="_blank" href="/login-troubleshooting/technical-issues/operating-system-and-browser-requirements/">minimum requirements</a>.</li>
+<li>Clear your browser's <a target="_blank" href="https://www.wikihow.com/Clear-Your-Browser%27s-Cache">cache</a> and <a target="_blank" href="https://www.wikihow.com/Clear-Your-Browser%27s-Cookies">cookies</a> and restart your web browser.</li>
 <li>Switch to another web browser.</li></ol>
 <p>If the problem persists, please contact the SLS Helpdesk at or call 6702 6513.</p>
 <h3>Cookies and Javascript</h3>
