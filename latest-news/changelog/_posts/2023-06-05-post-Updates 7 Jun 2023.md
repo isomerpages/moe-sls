@@ -523,10 +523,11 @@ Teachers can reorder same-level components within MPQ.
 </li>
 </ol></details>
 <details><summary><h4>Approve/Unpublish MO</h4></summary>
+<ol>
 <li>
 <p>Content Approver can approve, unpublish and delete Media Objects (MO) from Resource Management System (RMS).</p>
 </li>
-</details>
+</ol></details>
 <details><summary><h4>Teacher Student Account Improvements</h4></summary>
 <ol>
 <li>
