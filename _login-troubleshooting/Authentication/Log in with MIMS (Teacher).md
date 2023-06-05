@@ -26,7 +26,7 @@ third_nav_title: Authentication
 <p>If you have recently reactivated your MIMS account, please wait for 3 days for your SLS account to sync to MIMS before trying to log in again.</p>
 <p>If it is the first time you are logging in to SLS, please click on the link in the email that has been sent to you to activate your SLS account. You will be able to log in with MIMS only after you have activated your SLS account.</p>
 
-<h3 id="video-tutorial">Video Tutorial</h3>
+<h3 id="video-tutorial-">Video Tutorial</h3>
 <hr>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Navigation Authentication" src="https://www.youtube.com/embed/Yhc_Jbos7w4" height="100%" width="100%"></iframe>
