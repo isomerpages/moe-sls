@@ -31,6 +31,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: "<u>Note</u>: If you are a student, the Helpdesk will need to verify your identity using the security questions that you have set up when your account was first activated.</p><p>You can also approach your School-Based Helpline or teacher for help.</p>"
-    title: "Contact Details"
+      - other: "If you are a student, the Helpdesk will need to verify your identity using the security questions that you have set up when your account was first activated.</p><p>You can also approach your School-Based Helpline or teacher for help.</p>"
+    title: "Note"
 ---
