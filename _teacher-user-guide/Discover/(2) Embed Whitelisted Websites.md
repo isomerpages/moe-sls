@@ -38,18 +38,16 @@ third_nav_title: Discover
 <tbody>
 <tr>
 </tr>
-<!--
-        <tr><td><strong>Abcya</strong></td>
-            <td>Learning Games Resource</td>
-            <td>
-              https://www.abcya.com
-            </td>
-        </tr>
--->
         <tr><td><strong>360 Stories</strong></td>
             <td>Virtual Tour Tool</td>
             <td>
               https://360stories.com
+            </td>
+        </tr>
+        <tr><td><strong>Abcya <font color="#FBBC04">NEW</font></strong></td>
+            <td>Learning Games Resource</td>
+            <td>
+                https://www.abcya.com
             </td>
         </tr>
         <tr><td><strong>Access Maths</strong></td>
@@ -76,6 +74,12 @@ third_nav_title: Discover
               https://www.armoredpenguin.com
             </td>
         </tr>
+        <tr><td><strong>Art Gallery of New South Wales <font color="#FBBC04">NEW</font></strong></td>
+            <td>Art Resource Website</td>
+            <td>
+                https://www.artgallery.nsw.gov.au/collection
+            </td>
+        </tr>
 <!--        
         <tr><td><strong>AWW App</strong></td>
             <td>Collaboration Tool</td>
@@ -96,14 +100,18 @@ third_nav_title: Discover
               https://www.bandlab.com
             </td>
         </tr>
-<!--
-        <tr><td><strong>Bilibili</strong></td>
-            <td>Chinese Resource Site</td>
+        <tr><td><strong>BeInternetAwesome <font color="#FBBC04">NEW</font></strong></td>
+            <td>Resource site</td>
             <td>
-              https://www.bilibili.com
+                https://beinternetawesome.withgoogle.com
             </td>
         </tr>
--->
+        <tr><td><strong>Bilibili <font color="#FBBC04">NEW</font></strong></td>
+            <td>Video Resource Site</td>
+            <td>
+                https://www.bilibili.com
+            </td>
+        </tr>
         <tr><td><strong>Bingo Baker</strong></td>
             <td>Online Bingo Maker</td>
             <td>
@@ -122,12 +130,24 @@ third_nav_title: Discover
               https://read.bookcreator.com
             </td>
         </tr>
+        <tr><td><strong>Braingle <font color="#FBBC04">NEW</font></strong></td>
+            <td>Educational Games and Tools</td>
+            <td>
+                https://www.braingle.com
+            </td>
+        </tr>
         <tr><td><strong>Braining Camp</strong></td>
             <td>Math Resources</td>
             <td>
               https://app.brainingcamp.com
               <br>
               https://www.brainingcamp.com
+            </td>
+        </tr>
+        <tr><td><strong>British Museum <font color="#FBBC04">NEW</font></strong></td>
+            <td>Art Resource Website</td>
+            <td>
+                https://britishmuseum.withgoogle.com
             </td>
         </tr>
         <tr><td><strong>Cambridge Dictionary</strong></td>
@@ -234,13 +254,25 @@ third_nav_title: Discover
               https://www.compadre.org
             </td>
         </tr>
+        <tr><td><strong>Coolmath4kids <font color="#FBBC04">NEW</font></strong></td>
+            <td>Math Resources</td>
+            <td>
+                https://www.coolmath4kids.com
+            </td>
+        </tr>
+        <tr><td><strong>Developers <font color="#FBBC04">NEW</font></strong></td>
+            <td>Lesson Tool for Experiments and Simulations</td>
+            <td>
+                https://developers.google.com
+            </td>
+        </tr>
         <tr><td><strong>Digital Worlds Research</strong></td>
             <td>Digital Publications and Tools</td>
             <td>
               https://research.dwi.ufl.edu
             </td>
         </tr>
-        <tr><td><strong>Dr. Musik <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Dr. Musik</strong></td>
           <td>Music Tool</td>
           <td>
             https://www.doctormusik.com
@@ -250,6 +282,12 @@ third_nav_title: Discover
             <td>English Tools</td>
             <td>
               https://ereadinggames.com
+            </td>
+        </tr>
+        <tr><td><strong>Edition <font color="#FBBC04">NEW</font></strong></td>
+            <td>News and Resource Site</td>
+            <td>
+                https://edition.cnn.com
             </td>
         </tr>
         <tr><td><strong>Educaplay</strong></td>
@@ -274,6 +312,12 @@ third_nav_title: Discover
             <td>Coding Platform</td>
             <td>
               https://www.elementari.com
+            </td>
+        </tr>
+        <tr><td><strong>European Environment Agency <font color="#FBBC04">NEW</font></strong></td>
+            <td>Resource site</td>
+            <td>
+                https://www.eea.europa.eu
             </td>
         </tr>
         <tr><td><strong>Experiments with Google</strong></td>
@@ -306,6 +350,12 @@ third_nav_title: Discover
             <td>Interactive Content</td>
             <td>
               https://www.playfactile.com
+            </td>
+        </tr>
+        <tr><td><strong>Flip <font color="#FBBC04">NEW</font></strong></td>
+            <td>Video Discussion Tool</td>
+            <td>
+                https://flip.com
             </td>
         </tr>
         <tr><td><strong>Flipbookpdf</strong></td>
@@ -356,6 +406,12 @@ third_nav_title: Discover
               https://www.glowscript.org
             </td>
         </tr>
+        <tr><td><strong>Google Arts &amp; Culture <font color="#FBBC04">NEW</font></strong></td>
+            <td>Art Resource Website</td>
+            <td>
+                https://artsandculture.google.com
+            </td>
+        </tr>
         <tr><td><strong>Guggenheim Museum</strong></td>
             <td>Art Resource Website</td>
             <td>
@@ -374,6 +430,18 @@ third_nav_title: Discover
               https://heyzine.com
             </td>
         </tr>
+        <tr><td><strong>HighlightsKids <font color="#FBBC04">NEW</font></strong></td>
+            <td>Educational Games and Tools</td>
+            <td>
+                https://highlightskids.com
+            </td>
+        </tr>
+        <tr><td><strong>Housing &amp; Development Board <font color="#FBBC04">NEW</font></strong></td>
+            <td>Resource site</td>
+            <td>
+                https://www.hdb.gov.sg
+            </td>
+        </tr>
         <tr><td><strong>Human Biodigital</strong></td>
             <td>Science and Biology Tools</td>
             <td>
@@ -384,6 +452,12 @@ third_nav_title: Discover
             <td>Math and English Tools</td>
             <td>
               https://www.ictgames.com
+            </td>
+        </tr>
+        <tr><td><strong>iNaturalist <font color="#FBBC04">NEW</font></strong></td>
+            <td>STEM Tools</td>
+            <td>
+                https://inaturalist.org
             </td>
         </tr>
         <tr><td><strong>International Labour Organisation</strong></td>
@@ -418,6 +492,12 @@ third_nav_title: Discover
               https://www.iorad.com
             </td>
         </tr>
+        <tr><td><strong>Jamboard <font color="#FBBC04">NEW</font></strong></td>
+            <td>Online Whiteboard</td>
+            <td>
+                https://jamboard.google.com
+            </td>
+        </tr>
         <tr><td><strong>Jeopardy Labs</strong></td>
             <td>Jeopardy Word Game</td>
             <td>
@@ -444,6 +524,12 @@ third_nav_title: Discover
               https://play.kahoot.it
             </td>
         </tr>
+        <tr><td><strong>Khan Academy <font color="#FBBC04">NEW</font></strong></td>
+            <td>Learning Resources</td>
+            <td>
+                https://www.khanacademy.org
+            </td>
+        </tr>
         <tr><td><strong>Kialo Edu</strong></td>
             <td>Lesson Tool for Critical Thinking</td>
             <td>
@@ -466,6 +552,12 @@ third_nav_title: Discover
             <td>Coding Platform</td>
             <td>
               https://arcade.makecode.com
+            </td>
+        </tr>
+       <tr><td><strong>Mathigon <font color="#FBBC04">NEW</font></strong></td>
+            <td>Math Tool</td>
+            <td>
+                https://mathigon.org
             </td>
         </tr>
         <tr><td><strong>Mathplayground</strong></td>
@@ -502,10 +594,22 @@ third_nav_title: Discover
               https://www.minipicbooks.com
             </td>
         </tr>
-        <tr><td><strong>Miro </strong></td>
+        <tr><td><strong>Ministry of Defence <font color="#FBBC04">NEW</font></strong></td>
+            <td>Resource site</td>
+            <td>
+                https://www.mindef.gov.sg
+            </td>
+        </tr>
+        <tr><td><strong>Ministry of Home Affairs <font color="#FBBC04">NEW</font></strong></td>
+            <td>Resource site</td>
+            <td>
+                https://www.mha.gov.sg
+            </td>
+        </tr>
+        <tr><td><strong>Miro <font color="#FBBC04">NEW</font></strong></td>
             <td>Online Whiteboard</td>
             <td>
-              https://miro.com
+                https://miro.com
             </td>
         </tr>
         <tr><td><strong>Momento 360</strong></td>
@@ -524,6 +628,30 @@ third_nav_title: Discover
               https://monsters-of-the-debt.appspot.com
             </td>
         </tr>
+        <tr><td><strong>Museum of Modern Art <font color="#FBBC04">NEW</font></strong></td>
+            <td>Art Resource Website</td>
+            <td>
+                https://www.moma.org/collection
+            </td>
+        </tr>
+        <tr><td><strong>Musicators <font color="#FBBC04">NEW</font></strong></td>
+            <td>Music Tool</td>
+            <td>
+                https://musicators.com
+            </td>
+        </tr>
+        <tr><td><strong>Musicca <font color="#FBBC04">NEW</font></strong></td>
+            <td>Music Tool</td>
+            <td>
+                https://www.musicca.com
+            </td>
+        </tr>
+        <tr><td><strong>MyActiveSG <font color="#FBBC04">NEW</font></strong></td>
+            <td>Resource site</td>
+            <td>
+                https://www.myactivesg.com
+            </td>
+        </tr>
         <tr><td><strong>National Council of Teachers of Mathematics</strong></td>
             <td>Math Tools</td>
             <td>
@@ -534,6 +662,18 @@ third_nav_title: Discover
             <td>Art Resource Website</td>
             <td>
               https://nationalgallery.spydus.com.sg
+            </td>
+        </tr>
+        <tr><td><strong>National Gallery UK <font color="#FBBC04">NEW</font></strong></td>
+            <td>Art Resource Website</td>
+            <td>
+                https://www.nationalgallery.org.uk/visiting/virtual-tours
+            </td>
+        </tr>
+        <tr><td><strong>NationalGeographic <font color="#FBBC04">NEW</font></strong></td>
+            <td>Resource site</td>
+            <td>
+                https://nationalgeographic.com
             </td>
         </tr>
         <tr><td><strong>National Geographic Kids</strong></td>
@@ -560,10 +700,22 @@ third_nav_title: Discover
               https://www.nss.org.sg
             </td>
         </tr>
+        <tr><td><strong>NUS Museum <font color="#FBBC04">NEW</font></strong></td>
+            <td>Art Resource Website</td>
+            <td>
+                https://museum.nus.edu.sg/explore/collections
+            </td>
+        </tr>
         <tr><td><strong>Online Pianist</strong></td>
             <td>Music Tools</td>
             <td>
               https://www.onlinepianist.com
+            </td>
+        </tr>
+        <tr><td><strong>Opal2 <font color="#FBBC04">NEW</font></strong></td>
+            <td>Learning Resources</td>
+            <td>
+                https://opal2.moe.edu.sg
             </td>
         </tr>
         <tr><td><strong>Open Source Physics @ Singapore</strong></td>
@@ -616,6 +768,12 @@ third_nav_title: Discover
               https://pigeonhole.at
             </td>
         </tr>
+        <tr><td><strong>Playxylo <font color="#FBBC04">NEW</font></strong></td>
+            <td>Music Tool</td>
+            <td>
+                https://playxylo.com
+            </td>
+        </tr>
         <tr><td><strong>Poll Everywhere</strong></td>
             <td>Survey/Quiz Tool</td>
             <td>
@@ -656,12 +814,30 @@ third_nav_title: Discover
             </td>
         </tr>
 -->
+        <tr><td><strong>RapidTables <font color="#FBBC04">NEW</font></strong></td>
+            <td>STEM Tools</td>
+            <td>
+                https://www.rapidtables.com
+            </td>
+        </tr>
+        <tr><td><strong>Rolljak <font color="#FBBC04">NEW</font></strong></td>
+            <td>Survey/Quiz Tool</td>
+            <td>
+                https://app.rolljak.com
+            </td>
+        </tr>
         <tr><td><strong>Roots</strong></td>
             <td>Teaching Resource</td>
             <td>
               https://www.roots.gov.sg
               <br>
               <em>*Refer to disclaimer below.</em>
+            </td>
+        </tr>
+        <tr><td><strong>Saatchi Gallery <font color="#FBBC04">NEW</font></strong></td>
+            <td>Art Resource Website</td>
+            <td>
+                https://saatchigallery.com
             </td>
         </tr>
 <!--
@@ -704,10 +880,46 @@ third_nav_title: Discover
               https://app.seesaw.me
             </td>
         </tr>
+        <tr><td><strong>Seussville <font color="#FBBC04">NEW</font></strong></td>
+            <td>Educational Games and Tools</td>
+            <td>
+                https://www.seussville.com
+            </td>
+        </tr>
+        <tr><td><strong>Showbie <font color="#FBBC04">NEW</font></strong></td>
+            <td>Collaboration Tool</td>
+            <td>
+                https://showbie.com
+            </td>
+        </tr>
         <tr><td><strong>Showme</strong></td>
             <td>Teaching Resource</td>
             <td>
               https://www.showme.com
+            </td>
+        </tr>
+        <tr><td><strong>Singapore Art Museum <font color="#FBBC04">NEW</font></strong></td>
+            <td>Art Resource Website</td>
+            <td>
+                https://www.singaporeartmuseum.sg/about/our-collection
+            </td>
+        </tr>
+        <tr><td><strong>Singapore Civil Defence Force <font color="#FBBC04">NEW</font></strong></td>
+            <td>Resource site</td>
+            <td>
+                https://www.scdf.gov.sg
+            </td>
+        </tr>
+        <tr><td><strong>Singapore Police Force <font color="#FBBC04">NEW</font></strong></td>
+            <td>Resource site</td>
+            <td>
+                https://www.police.gov.sg
+            </td>
+        </tr>
+        <tr><td><strong>SLS Info-Site <font color="#FBBC04">NEW</font></strong></td>
+            <td>Learning Resources</td>
+            <td>
+                https://www.learning.moe.edu.sg
             </td>
         </tr>
         <tr><td><strong>Socrative</strong></td>
@@ -722,7 +934,7 @@ third_nav_title: Discover
               https://songcraft.io
             </td>
         </tr>
-        <tr><td><strong>Spatial <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Spatial</strong></td>
           <td>Virtual Reality Tool</td>
           <td>
             https://www.spatial.io
@@ -734,11 +946,23 @@ third_nav_title: Discover
               https://www.spellingcity.com
             </td>
         </tr>
+        <tr><td><strong>SplashLearn <font color="#FBBC04">NEW</font></strong></td>
+            <td>Math Resources</td>
+            <td>
+                https://www.splashlearn.com
+            </td>
+        </tr>
         <tr><td><strong>Storybird</strong></td>
           <td>Writing Tool</td>
           <td>
             https://storybird.com
           </td>
+        </tr>
+        <tr><td><strong>Storyline Online <font color="#FBBC04">NEW</font></strong></td>
+            <td>Video Resource Site</td>
+            <td>
+                https://storylineonline.net
+            </td>
         </tr>
         <tr><td><strong>Streamlit</strong></td>
             <td>Web App Script Tool</td>
@@ -769,6 +993,18 @@ third_nav_title: Discover
           <td>
             https://public.tableau.com
           </td>
+        </tr>
+        <tr><td><strong>Tate <font color="#FBBC04">NEW</font></strong></td>
+            <td>Art Resource Website</td>
+            <td>
+                https://www.tate.org.uk
+            </td>
+        </tr>
+        <tr><td><strong>Teachable <font color="#FBBC04">NEW</font></strong></td>
+            <td>Lesson Tool for Experiments and Simulations</td>
+            <td>
+                https://teachablemachine.withgoogle.com
+            </td>
         </tr>
         <tr><td><strong>TeacherTube</strong></td>
           <td>Video Resource Site</td>
@@ -826,17 +1062,19 @@ third_nav_title: Discover
               https://www.tinkercad.com
             </td>
         </tr>
-<!--
-        <tr><td><strong>Today Online</strong></td>
-            <td>Online News</td>
+        <tr><td><strong>TodayOnline <font color="#FBBC04">NEW</font></strong></td>
+            <td>News and Resource Site</td>
             <td>
-              https://todayonline.com
-              <br>
-              https://www.todayonline.com
+                https://www.todayonline.com
             </td>
         </tr>
--->
-        <tr><td><strong>Topographic Maps <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Topmarks <font color="#FBBC04">NEW</font></strong></td>
+            <td>Educational Games and Tools</td>
+            <td>
+                https://www.topmarks.co.uk
+            </td>
+        </tr>
+        <tr><td><strong>Topographic Maps</strong></td>
             <td>Map Tool</td>
             <td>
               https://en-us.topographic-map.com
@@ -856,18 +1094,22 @@ third_nav_title: Discover
             </td>
         </tr>
 -->
-<!--
-        <tr><td><strong>Turtle Diary</strong></td>
-            <td>Educational Games and Tools</td>
+        <tr><td><strong>Transum <font color="#FBBC04">NEW</font></strong></td>
+            <td>Math Resources</td>
             <td>
-              https://www.turtlediary.com
+                https://www.transum.org
             </td>
         </tr>
--->
         <tr><td><strong>Tricider</strong></td>
             <td>Decision Making Tool</td>
             <td>
               https://www.tricider.com
+            </td>
+        </tr>
+        <tr><td><strong>TurtleDiary <font color="#FBBC04">NEW</font></strong></td>
+            <td>Educational Games and Tools</td>
+            <td>
+                https://www.turtlediary.com
             </td>
         </tr>
         <tr><td><strong>Twine</strong></td>
@@ -888,6 +1130,12 @@ third_nav_title: Discover
             <td>English Literacy Tool</td>
             <td>
               https://www.uniteforliteracy.com
+            </td>
+        </tr>
+        <tr><td><strong>Vartel Edu <font color="#FBBC04">NEW</font></strong></td>
+            <td>Augmented Reality Tool</td>
+            <td>
+                https://www.varteledu.com/tcc4/index.html
             </td>
         </tr>
         <tr><td><strong>Verso</strong></td>
@@ -930,10 +1178,22 @@ third_nav_title: Discover
               https://www.walter-fendt.de
             </td>
         </tr>
+        <tr><td><strong>Webex Teams <font color="#FBBC04">NEW</font></strong></td>
+            <td>Video Conferencing Tool</td>
+            <td>
+                https://teams.webex.com
+            </td>
+        </tr>
         <tr><td><strong>Wheel of Names</strong></td>
             <td>Random Name Selector Tool</td>
             <td>
               https://wheelofnames.com
+            </td>
+        </tr>
+        <tr><td><strong>Whiteboard <font color="#FBBC04">NEW</font></strong></td>
+            <td>Online Whiteboard</td>
+            <td>
+                https://whiteboard.fi
             </td>
         </tr>
         <tr><td><strong>Wizer</strong></td>
@@ -1342,9 +1602,6 @@ third_nav_title: Discover
                 https://padlet.com
                 <br>
                 <em>
-                <!--
-                  (To whitelist your school's Padlet.org sites, please <a href="mailto:helpdesk@sls.ufinity.com?cc=sls_ops@moe.gov.sg&amp;subject=Suggestion%20for%20Adding%20Website%20to%20Whitelist%20for%20Embedding%20into%20SLS%20"><strong>email us</strong></a>.)
-                -->
                   (To whitelist your school's padlet.org site, please submit a request through the <a href="https://go.gov.sg/sls-whitelist-form" target="_blank">Website Whitelisting Form</a>.)
                 </em>  
                   <br>
@@ -1356,7 +1613,7 @@ third_nav_title: Discover
                   <br>
                   https://andersonps.padlet.org
                   <br>
-                  https://asrjc.padlet.org <font color="#FBBC04">NEW</font>
+                  https://asrjc.padlet.org
                   <br>
                   https://assumptionenglish.padlet.org
                   <br>
@@ -1384,7 +1641,7 @@ third_nav_title: Discover
                   <br>
                   https://chr.padlet.org
                   <br>
-                  https://corporationpri.padlet.org <font color="#FBBC04">NEW</font>
+                  https://corporationpri.padlet.org
                   <br>
                   https://damaisecondary.padlet.org
                   <br>
@@ -1392,13 +1649,13 @@ third_nav_title: Discover
                   <br>
                   https://dunmanhigh.padlet.org
                   <br>
-                  https://egps.padlet.org <font color="#FBBC04">NEW</font>
+                  https://egps.padlet.org
                   <br>
                   https://ejc.padlet.org
                   <br>
                   https://eunospri.padlet.org
                   <br>
-                  https://ferngreenpri.padlet.org <font color="#FBBC04">NEW</font>
+                  https://ferngreenpri.padlet.org
                   <br>
                   https://frontierps.padlet.org
                   <br>
@@ -1466,7 +1723,7 @@ third_nav_title: Discover
                   <br>
                   https://sgss.padlet.org
                   <br>
-                  https://stanthonyscanossiansec.padlet.org <font color="#FBBC04">NEW</font>
+                  https://stanthonyscanossiansec.padlet.org
                   <br>
                   https://stmargaretspri.padlet.org
                   <br>
@@ -1580,6 +1837,12 @@ third_nav_title: Discover
                 <br>
                 https://wall.sli.do
               </td>
+          </tr>
+          <tr><td><strong>SoundCloud <font color="#FBBC04">NEW</font></strong></td>
+            <td>Music Tool</td>
+            <td>
+                https://soundcloud.com
+            </td>
           </tr>
           <tr><td><strong>Spiral</strong></td>
               <td>Integrated Teaching Tool</td>
