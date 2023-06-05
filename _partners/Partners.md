@@ -24,20 +24,9 @@ description: ""
 
 <h2>Events</h2>
 <hr>
-<h3>SLS Pitch Day 2022</h3>
 <ul>
-  <li><a target="_blank" href="/partners/events/sls-pitch-day-2022/">Overview</a></li>
-  <li><a target="_blank" href="/partners/events/featured-pitches-2022/">Featured Pitches</a></li>
-</ul>
-<h3>SLS Pitch Day 2021</h3>
-<ul>
-  <li><a target="_blank" href="/partners/events/sls-pitch-day-2021/">Overview</a></li>
-  <li><a target="_blank" href="/partners/events/featured-pitches-2021/">Featured Pitches</a></li>
-  <li><a target="_blank" href="/partners/events/assessment-and-analytics-2021/">Assessment and Analytics</a></li>
-  <li><a target="_blank" href="/partners/events/content-and-resources-2021/">Content and Resources</a></li>
-  <li><a target="_blank" href="/partners/events/pedagogy-and-instruction-2021/">Pedagogy and Instruction</a></li>
-  <li><a target="_blank" href="/partners/events/others-2021/">Others</a></li>
-</ul>
+  <li><a target="_blank" href="/partners/events/sls-pitch-day-2022/">SLS Pitch Day 2022</a></li>
+<li><a target="_blank" href="/partners/events/sls-pitch-day-2021/">SLS Pitch Day 2021</a></li></ul>
 
 <h2>Sandbox</h2>
 <hr>
