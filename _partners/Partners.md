@@ -7,6 +7,7 @@ description: ""
 <p>The SLS team welcomes companies and agencies with expertise to enhance users’ learning experiences through apps and platforms.</p>
 
 <h2>Partnership</h2>
+<hr>
 <ul>
   <li><a target="_blank" href="/partners/partnership/partnership-with-sls/">Partnership with SLS</a></li>
   <li><a target="_blank" href="/partners/partnership/partnership-models/">Partnership Models</a></li>
@@ -14,6 +15,7 @@ description: ""
 </ul>
 
 <h2>Integration</h2>
+<hr>
 <ul>
   <li><a target="_blank" href="/partners/integration/whitelisted-websites/">Whitelisted Websites</a></li>
   <li><a target="_blank" href="/partners/integration/integrated-apps/">Integrated Apps</a></li>
@@ -21,6 +23,7 @@ description: ""
 </ul>
 
 <h2>Events</h2>
+<hr>
 <h3>SLS Pitch Day 2022</h3>
 <ul>
   <li><a target="_blank" href="/partners/events/sls-pitch-day-2022/">Overview</a></li>
@@ -37,6 +40,7 @@ description: ""
 </ul>
 
 <h2>Sandbox</h2>
+<hr>
 <ul>
   <li><a target="_blank" href="/partners/sandbox/">Apply for Sandbox Access</a></li>
 </ul>
