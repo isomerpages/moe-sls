@@ -4,6 +4,8 @@ permalink: /login-troubleshooting/technical-issues/index/
 description: ""
 third_nav_title: Technical Issues
 ---
+<h1>Technical Issues</h1>
+<hr>
 <h3><a id="technical-issues" target="_blank" href="/login-troubleshooting/technical-issues/index/">1. Technical Issues</a>
 </h3>
 <details>
