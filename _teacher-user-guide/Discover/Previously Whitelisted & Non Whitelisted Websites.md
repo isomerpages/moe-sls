@@ -18,55 +18,141 @@ third_nav_title: Discover
 </tr>
 </thead>
 <tbody>
-<tr>
-<td><strong>AWW App </strong></td>
+                  <tr><td><strong>ArcGIS Maps</strong></td>
+                    <td>Site fails security requirement</td>
+                    <td>
+                      https://moe-etd.maps.arcgis.com
+                    </td>
+                  </tr>        
+                  <tr><td><strong>AWW App</strong></td>
                       <td>Merged with Miro</td>
-                      <td>https://awwapp.com</td>
-                    </tr>
-                    <tr>
-                      <td><strong>Chrome Music Lab </strong></td>
-                      <td>Other</td>                      <td>https://musiclab.chromeexperiments.com</td>
-</tr>
-	<tr>
-                      <td><strong>Issuu</strong></td>
-                      <td>Site no longer offers free to use version</td>
                       <td>
-                        https://e.issuu.com
-                        <br>
-                        https://issuu.com
-                        <br>
-                        https://www.issuu.com
+                        https://awwapp.com
                       </td>
-                    </tr>
-                    <tr>
-                      <td><strong>Mindmup</strong></td>
-                      <td>Site no longer offers free to use version</td>
+                  </tr>           
+                  <tr><td><strong>Chrome Music Lab</strong></td>
+                      <td>Other Reasons</td>
                       <td>
-                        https://www.mindmup.com
-                        <br>
-                        https://app.mindmup.com/
+                        https://musiclab.chromeexperiments.com
                       </td>
-                    </tr>
-                    <tr>
-                      <td><strong>Mural</strong></td>
-                      <td>Site no longer offers free to use version</td>
-                      <td>https://www.mural.co</td>
-                    </tr>
-                    <tr>
-                      <td><strong>Quiznetic</strong></td>
+                  </tr>              
+        <!--        <tr><td><strong>Flipbookpdf</strong></td>
+                    <td>Other Reasons</td>
+                    <td>
+                      https://www.flipbookpdf.net
+                    </td>
+                </tr>   
+        -->            
+        <!--            
+                <tr><td><strong>Genial.ly</strong></td>
+                    <td>Other Reasons</td>
+                    <td>
+                      https://view.genial.ly
+                    </td>
+                </tr>   
+        -->
+                  <tr><td><strong>Coggle</strong></td>
+                    <td>Site can no longer be iframed</td>
+                    <td>
+                      https://coggle.it
+                    </td>
+                  </tr>
+                  <tr><td><strong>CPM Educational Program</strong></td>
+                    <td>Other Reasons</td>
+                    <td>
+                      https://technology.cpm.org/general
+                    </td>
+                  </tr>
+                  <tr><td><strong>Draw</strong></td>
                       <td>Site no longer valid and redirects to another site</td>
-                      <td>https://quiznetic.com</td>
-                    </tr>
-                    <tr>
-                      <td><strong>Salvador Dali Museum </strong></td>
-                      <td>Site contains inaccurate/sensitive content</td>
-                      <td>https://www.salvador-dali.org</td>
-                    </tr>
-                    <tr>
-                      <td><strong>Victoria and Albert Museum London</strong></td>
-                      <td>Site contains inaccurate/sensitive content</td>
-                      <td>https://collections.vam.ac.uk</td>
-                    </tr>
+                      <td>
+                        https://www.draw.io/?
+                      </td>
+                  </tr>     
+                <tr><td><strong>Explain Everything</strong></td>
+                  <td>Site fails security requirement</td>
+                  <td>
+                    https://expl.ai
+                  </td>
+                </tr>        
+                <tr><td><strong>Flipsnack</strong></td>
+                  <td>Site no longer offers free to use version</td>
+                  <td>
+                    https://player.flipsnack.com
+                  </td>
+                </tr>        
+                <tr><td><strong>GeoGebra</strong></td>
+                  <td>Site fails security requirement</td>
+                  <td>
+                    https://ggbm.at
+                  </td>
+                </tr>        
+                <tr><td><strong>Issuu</strong></td>
+                    <td>Site no longer offers free to use version</td>
+                    <td>
+                      https://e.issuu.com
+                      <br>
+                      https://issuu.com
+                      <br>
+                      https://www.issuu.com
+                    </td>
+                </tr>        
+                <tr><td><strong>Mindmup</strong></td>
+                    <td>Site no longer offers free to use version</td>
+                    <td>
+                      https://www.mindmup.com
+                      <br>
+                      https://app.mindmup.com
+                    </td>
+                </tr>                
+                <tr><td><strong>Mural</strong></td>
+                    <td>Site no longer offers free to use version</td>
+                    <td>
+                      https://www.mural.co
+                    </td>
+                </tr>        
+                <tr><td><strong>Pixton</strong></td>
+                  <td>Site no longer offers free to use version</td>
+                  <td>
+                    https://share.pixton.com
+                  </td>
+                </tr>        
+                 <tr><td><strong>Quiznetic</strong></td>
+                    <td>Site no longer valid and redirects to another site</td>
+                    <td>
+                      https://quiznetic.com
+                    </td>
+                </tr>        
+                <tr><td><strong>Salvador Dali Museum</strong></td>
+                    <td>Site contains inaccurate/sensitive content</td>
+                    <td>
+                      https://www.salvador-dali.org
+                    </td>
+                </tr>               
+                <tr><td><strong>Vialogues</strong></td>
+                    <td>Site removed</td>
+                    <td>
+                      https://www.vialogues.com
+                    </td>
+                </tr> 
+                <tr><td><strong>Toybox Tools</strong></td>
+                  <td>Site removed</td>
+                  <td>
+                    https://toybox.tools.bbc.co.uk
+                  </td>
+                </tr>        
+                <tr><td><strong>Victoria and Albert Museum London</strong></td>
+                    <td>Site contains inaccurate/sensitive content</td>
+                    <td>
+                      https://collections.vam.ac.uk
+                    </td>
+                </tr>        
+                <tr><td><strong>Wizer</strong></td>
+                  <td>Site fails security requirement</td>
+                  <td>
+                    https://wizer.me
+                  </td>
+                </tr>
                   </tbody>
                 </table>
 								
@@ -82,6 +168,7 @@ third_nav_title: Discover
                     </tr>
                   </thead>
 	                  <tbody>
+<!--
                     <tr>
                       <td><strong>Art Gallery NSW </strong></td>
                       <td>Site Does Not Allow Content to be iFramed</td>
@@ -137,6 +224,7 @@ third_nav_title: Discover
                       <td>Site Does Not Allow Content to be iFramed</td>
                       <td>https://www.jigsawplanet.com</td>
                     </tr>
+-->
                     <tr>
                       <td><strong>Linoit </strong></td>
                       <td>Other Reasons</td>
@@ -147,6 +235,7 @@ third_nav_title: Discover
                       <td>Other Reasons</td>
                       <td>https://www.loom.com</td>
                     </tr>
+<!--
                     <tr>
                       <td><strong>Math Playground </strong></td>
                       <td>Site Does Not Allow Content to be iFramed</td>
@@ -202,6 +291,7 @@ third_nav_title: Discover
                       <td>Site Does Not Allow Content to be iFramed</td>
                       <td>http://intro.chem.okstate.edu</td>
                     </tr>
+-->
                     <tr>
                       <td><strong>Paperturn </strong></td>
                       <td>Paid Versions Only</td>
@@ -212,13 +302,14 @@ third_nav_title: Discover
                       <td>Other Reasons</td>
                       <td>https://piktochart.com</td>
                     </tr>
+<!--
                     <tr>
                       <td><strong>Plickers </strong></td>
                       <td>Site Does Not Allow Content to be iFramed</td>
                       <td>https://plickers.com</td>
                     </tr>
                     <tr>
-                      <td><strong>Poly </strong></td>
+                      <td><strong>Poly</strong></td>
                       <td>Site Does Not Allow Content to be iFramed</td>
                       <td>https://poly.google.com</td>
                     </tr>
@@ -237,11 +328,13 @@ third_nav_title: Discover
                       <td>Site Does Not Allow Content to be iFramed</td>
                       <td>https://www.singaporeartmuseum.sg</td>
                     </tr>
+-->
                     <tr>
                       <td><strong>Speakpipe </strong></td>
                       <td>Other Reasons</td>
                       <td>https://www.speakpipe.com</td>
                     </tr>
+<!--
                     <tr>
                       <td><strong>Tate </strong></td>
                       <td>Site Does Not Allow Content to be iFramed</td>
@@ -252,11 +345,13 @@ third_nav_title: Discover
                       <td>Site Does Not Allow Content to be iFramed</td>
                       <td>https://www.tigtagworld.com</td>
                     </tr>
+-->
                     <tr>
                       <td><strong>Vocaroo </strong></td>
                       <td>Other Reasons</td>
                       <td>https://vocaroo.com</td>
                     </tr>
+<!--
                     <tr>
                       <td><strong>Xuele </strong></td>
                       <td>
@@ -264,5 +359,6 @@ third_nav_title: Discover
                       </td>
                       <td>https://www.mtl.moe.edu.sg/xuele</td>
                     </tr>
+-->
                   </tbody>
                 </table>
