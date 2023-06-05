@@ -17,10 +17,11 @@ third_nav_title: Notify
 <li>All: to make Announcements to all students and teachers</li>
 <li>All Teachers: to make Announcements to all teachers only</li>
 <li>All Students: to make Announcements to all students only</li>
-	<li><p>Form Classes (Year): to make Announcements to students in specific form classes</p></li></ul></li></ol>
+	<li><p>Form Classes (Year): to make Announcements to students in specific form classes</p></li></ul>
+</li></ol>
 <p><u>Note</u>:
 	</p><ul>
-<p></p><li><p>When making Announcements to all students, you may also add teachers individually by clicking <strong>Add Individual Teachers</strong>.</p>
+	<li><p>When making Announcements to all students, you may also add teachers individually by clicking <strong>Add Individual Teachers</strong>.</p>
 </li>
 <li>When making Announcements to Form Classes (Year), you may select the Form Class(es) from the dropdown list and add individual teachers.</li>
 <li>Enter the Announcement Title and Message and select the Start Date and Start Time.</li>
