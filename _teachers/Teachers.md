@@ -11,26 +11,27 @@ Looking for new ways to support your students’ learning? SLS features can enha
 
 <h2 id="feature-highlights">Feature Highlights</h2>
 <hr>
-<p><a target="_blank" href="/teachers/feature-highlights/2023-1h/">2023 1H</a>
-<br><a target="_blank" href="/teachers/feature-highlights/2022-2h/">2022 2H</a>
-<br><a target="_blank" href="/teachers/feature-highlights/2022-1h/">2022 1H</a>
-<br><a target="_blank" href="/teachers/feature-highlights/2021-2h/">2021 2H</a></p>
+<ul>
+  <li><p><a target="_blank" href="/teachers/feature-highlights/2023-1h/">2023 1H</a></p></li>
+<li><a target="_blank" href="/teachers/feature-highlights/2022-2h/">2022 2H</a>
+</li><li><a target="_blank" href="/teachers/feature-highlights/2022-1h/">2022 1H</a>
+</li><li><a target="_blank" href="/teachers/feature-highlights/2021-2h/">2021 2H</a></li></ul>
 
 <h2 id="build-the-sls-card-game">Build - The SLS Card Game</h2>
 <hr>
-<a target="_blank" href="/teachers/build-the-sls-card-game/index/">Build - The SLS Card Game</a>
+<ul><li><a target="_blank" href="/teachers/build-the-sls-card-game/index/">Build - The SLS Card Game</a></li></ul>
 <h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
 <hr>
-<p><a target="_blank" href="/teachers/frequently-asked-questions/">SLS Access</a></p>
+<ul><li><a target="_blank" href="/teachers/frequently-asked-questions/">SLS Access</a></li></ul>
 <h2 id="sls-professional-development">SLS Professional Development</h2>
 <hr>
-<p><a target="_blank" href="/teachers/sls-professional-development/teaching-and-learning-with-sls/">Teaching and Learning with SLS</a>
-<br><a target="_blank" href="/teachers/sls-professional-development/epedagogy-one-stop-site/">EPedagogy One Stop Site</a> (requires OPAL Login)
-<br><a target="_blank" href="/teachers/sls-professional-development/sgldc-livestreams/">SgLDC Livestreams</a></p>
+<ul><li><a target="_blank" href="/teachers/sls-professional-development/teaching-and-learning-with-sls/">Teaching and Learning with SLS</a></li>
+<li><a target="_blank" href="/teachers/sls-professional-development/epedagogy-one-stop-site/">EPedagogy One Stop Site</a> (requires OPAL Login)</li>
+<li><a target="_blank" href="/teachers/sls-professional-development/sgldc-livestreams/">SgLDC Livestreams</a></li></ul>
 <h2 id="sls-professional-development">SLS Superhero Quiz</h2>
 <hr>
-<p><a target="_blank" href="/teachers/sls-superhero-quiz/index/">SLS Superhero Quiz</a>
-</p><h2 id="sls-professional-development">SLS Events</h2>
+<ul><li><a target="_blank" href="/teachers/sls-superhero-quiz/index/">SLS Superhero Quiz</a></li></ul>
+<p></p><h2 id="sls-professional-development">SLS Events</h2>
 <hr>
-<p><a target="_blank" href="/teachers/sls-events/events-calendar/">Events Calendar</a>
-<br><a target="_blank" href="/teachers/sls-events/friends-of-sls/">Friends of SLS</a></p>
+<ul><li><a target="_blank" href="/teachers/sls-events/events-calendar/">Events Calendar</a></li>
+<li><a target="_blank" href="/teachers/sls-events/friends-of-sls/">Friends of SLS</a></li></ul>
