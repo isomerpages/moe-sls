@@ -21,10 +21,8 @@ third_nav_title: Author
 </li>
 <p><u>Note</u>: Please see below on how to use the marks of the rubrics for the question.</p>
 <ul><li><p>Band Description</p></li></ul>
-<p><u>Note</u>: You may enter descriptions in the form of text, mathematical formulae, chemical formulae, and media.</p>
-	
+<p><u>Note</u>: You may enter descriptions in the form of text, mathematical formulae, chemical formulae, and media.</p>	
 <img style="width: 100%;" src="/images/2Teacher/AU-AddRubrics1.png">
-
 <li>Click outside the Component to <strong>Save</strong>.</li>
 </ol>
 <h2 id="-use-marks-of-the-rubrics-not-available-for-questions-in-progressive-quiz-and-auto-graded-quiz-">Use Marks of the Rubrics (Not available for Questions in Progressive Quiz and Auto-Graded Quiz)</h2>
