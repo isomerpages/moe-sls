@@ -23,7 +23,7 @@ third_nav_title: Authentication
 </ul>
 </li>
 <li><p>On the Reset Password page, enter a new password.</p>
-<p><img style="width: 80%;" src="/images/4Troubleshooting/LT-ResetPassword.png"></p>
+<p><img style="width: 100%;" src="/images/4Troubleshooting/LT-ResetPassword.png"></p>
 </li>
 <ul><li><p>You will need to enter the new password twice to confirm that you have entered it correctly.</p>
 	</li></ul>
