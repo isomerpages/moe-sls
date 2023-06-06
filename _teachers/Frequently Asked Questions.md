@@ -5,7 +5,7 @@ description: ""
 ---
 <h1>SLS Access</h1>
 
-<h2 id="overview-of-sls-system">Overview of SLS System</h2>
+<h2 id="overview-of-sls-system">Overview of the SLS System</h2>
 <hr>
 <ol>
 <li><p><strong>What is SLS?</strong> 
