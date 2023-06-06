@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Discover
 ---
 <h1>(2) Search for Self-Study Resources (New) </h1>
-<hr>
+
 <h2>Using Search Bar from Homepage</h2>
 
 <hr>
 
 <ol>
-    <li>Click the <strong>Magnifying Glass</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Search.svg">on the header of the homepage to open the Search Bar.</li>
+    <li>Click the <strong>Magnifying Glass</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Search.svg"> on the header of the homepage to open the Search Bar.</li>
     <li>Enter your search terms, if any, in the Search Bar. </li>
     <li>Press <strong>Enter</strong> to return your search results.</li>
 </ol>
@@ -63,10 +63,10 @@ third_nav_title: Discover
 </ol>
 
 <p><u>Note</u>: Refine your search by using Guided Search.</p>
-<img style="width: 50%;" src="/images/1Student/SS-FiltersSubpage.png">
+<img style="width: 80%;" src="/images/1Student/SS-FiltersSubpage.png">
 
 <h2>Add Topic Filters</h2>
-
+<hr>
 <ol>
   <li>You may also select <strong>Add Topic Filters</strong> to filter according to Topics or Sub-topics. <br>
     <br><u>Note</u>: You may search for Resources based on Topics or Sub-topics if they have been tagged to a Content Map.</li>
@@ -78,7 +78,7 @@ third_nav_title: Discover
 </li></ol>
 
 <h2>View Search Results</h2>
-
+<hr>
 <ol>
   <li>You can sort the resources by <strong>Relevance</strong> to your search term(s), <strong>Popularity</strong> <strong>(New in R19)</strong>, or according to the date of the latest edit. You can also view the search results in Card or List view by clicking <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> and <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg"> respectively.</li>
   <li>Click the <strong>Lesson Card</strong> to enter the Lesson in a new tab. On the Lesson Card, you will be able to view the following information:
@@ -94,7 +94,7 @@ third_nav_title: Discover
   <li>To enter the Lesson, click the <strong>Lesson Card</strong>.</li>
 </ol>
 
-<h3>Video Tutorial (Updated)</h3>
+<h3>Video Tutorial</h3>
 <hr>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Search for Resources (Student)" src="https://www.youtube.com/embed/DHskKikshu8" height="100%" width="100%"></iframe>
