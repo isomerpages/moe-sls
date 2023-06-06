@@ -37,10 +37,9 @@ third_nav_title: Publish
 <li>You may also wish to select the <strong>Subject</strong> and <strong>Level</strong> filter by selecting the relevant fields in the respective dropdown menu.</li>
 <li>Press "Enter" <em></em>to return your search results.</li>
 <li>To add more search filters, click <strong>Filter</strong>. </li>
-<li>Under <strong>Resource</strong>, select:<ul>
-<li><strong>Lessons</strong></li>
-</ul>
-</li>
+<li>Under <strong>Resource</strong>, select <strong>Lessons</strong>.</li>
+
+
 <li>Under <strong>Owner Group</strong>, select from:<ul>
 <li><strong>All</strong></li>
 <li><strong>My Groups</strong></li>
