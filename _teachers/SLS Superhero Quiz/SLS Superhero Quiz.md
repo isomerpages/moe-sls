@@ -28,7 +28,7 @@ third_nav_title: SLS Superhero Quiz
           <td style="text-align: center; vertical-align: middle;">     
         <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/The%20Discussant.pdf"> <img width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Discussant.png"></a> <br>
             </td>
-      <td style="text-align: center; vertical-align: middle;">  
+      <td style="text-align: left; vertical-align: middle;">  
         <ul>		
         <li><a target="_blank" href="/teachers/sls-superhero-quiz/jigsaw-activities-for-teamwork/">Jigsaw Activities for Teamwork</a>
         </li>
@@ -46,7 +46,7 @@ third_nav_title: SLS Superhero Quiz
       <td style="text-align: center; vertical-align: middle;">
         <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/The%20Collaborator.pdf"> <img width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Collaborator.png"></a> <br>     
 	</td>       
-        <td style="text-align: center; vertical-align: middle;">  
+        <td style="text-align: left; vertical-align: middle;">  
           <ul>
             <li><a target="_blank" href="/teachers/sls-superhero-quiz/jigsaw-activities-for-teamwork/">Jigsaw Activities for Teamwork</a>
             </li>
@@ -63,7 +63,7 @@ third_nav_title: SLS Superhero Quiz
       </td>
       <td style="text-align: center; vertical-align: middle;">
         <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/The%20Explorer.pdf"> <img width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Explorer.png"></a> <br>      </td>        
-        <td style="text-align: center; vertical-align: middle;">  
+        <td style="text-align: left; vertical-align: middle;">  
           <ul>
             <li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-lessons-in-class-groups/">Co-create Lessons in Class Groups</a>
             </li>
@@ -85,7 +85,7 @@ third_nav_title: SLS Superhero Quiz
       <td style="text-align: center; vertical-align: middle;">
         <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/The%20Coach.pdf"> <img width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Coach.png"></a> <br>      
 			</td>    
-        <td style="text-align: center; vertical-align: middle;">  
+        <td style="text-align: left; vertical-align: middle;">  
           <ul>
             <li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">Assign past exam questions </a>
             </li>
@@ -103,7 +103,7 @@ third_nav_title: SLS Superhero Quiz
       <td style="text-align: center; vertical-align: middle;">
         <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/The%20Advisor.pdf"> <img width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Advisor.png"></a> <br>     
 			</td>   
-        <td style="text-align: center; vertical-align: middle;">  
+        <td style="text-align: left; vertical-align: middle;">  
           <ul>
             <li><a target="_blank" href="/teachers/sls-superhero-quiz/differentiate-learning-lessons-and-activities/">Differentiate learning lessons and activities</a>
             </li>
@@ -122,7 +122,7 @@ third_nav_title: SLS Superhero Quiz
       <td style="text-align: center; vertical-align: middle;">
         <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/The%20Curator.pdf"> <img width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Curator.png"></a> <br>      
 </td>
-			<td style="text-align: center; vertical-align: middle;">  
+			<td style="text-align: left; vertical-align: middle;">  
               <ul>
                 <li><a target="_blank" href="/teachers/sls-superhero-quiz/create-professional-learning-circles/">Create Professional Learning Circles</a>
                 </li>
@@ -144,7 +144,7 @@ third_nav_title: SLS Superhero Quiz
       <td style="text-align: center; vertical-align: middle;">
         <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/The%20Gamemaster.pdf"> <img width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Gamemaster.png"></a> <br>
       </td>
-      <td style="text-align: center; vertical-align: middle;">  
+      <td style="text-align: left; vertical-align: middle;">  
         <ul>
           <li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-lessons-in-class-groups/">Co-create Lessons in Class Groups</a>
           </li>
@@ -166,7 +166,7 @@ third_nav_title: SLS Superhero Quiz
       <td style="text-align: center; vertical-align: middle;">
         <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/The%20Builder.pdf"> <img width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Builder.png"></a> <br>
       </td>
-      <td style="text-align: center; vertical-align: middle;">  
+      <td style="text-align: left; vertical-align: middle;">  
         <ul>
           <li><a target="_blank" href="/teachers/sls-superhero-quiz/conduct-eassessments-in-class/">Conduct e-Assessments in Class</a>
           </li>
@@ -182,7 +182,7 @@ third_nav_title: SLS Superhero Quiz
       <td style="text-align: center; vertical-align: middle;">
         <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/The%20Instructor.pdf"> <img width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Instructor.png"></a> <br>
       </td>
-      <td style="text-align: center; vertical-align: middle;">  
+      <td style="text-align: left; vertical-align: middle;">  
         <ul>
           <li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-lessons-in-class-groups/">Co-create Lessons in Class Groups</a>
           </li>
