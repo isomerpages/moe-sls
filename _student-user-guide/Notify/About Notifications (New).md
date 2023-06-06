@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Notify
 ---
 <h1>About Notifications (New)</h1>
+<br>
   <ol>
     <li>You will receive Notifications when:
       <ul>
@@ -20,10 +21,9 @@ third_nav_title: Notify
     </li>
     <li>You can filter your Notifications using the <strong>Viewing</strong> and <strong>Type</strong> dropdown list. You can further sort your Notifications by All, Unread and Flagged.</li>
     <li>You will be able to Flag/Unflag a Notification and select Notifications to Mark As Read.</li>
-    <li>The number of unread Notifications will be indicated on the <strong>Bell</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Bell.svg"> found on the header of the homepage.
-			<br><u>Note</u>: The Bell icon will only reflect up to 99 unread Notifications.</li>
+    <li>The number of unread Notifications will be indicated on the <strong>Bell</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Bell.svg"> found on the header of the homepage.</li>
+<u>Note</u>: The Bell icon will only reflect up to 99 unread Notifications.
     <li>Unread Notifications are indicated with a yellow circle on the Notification Cards. <img src="/images/1Student/N-New.png"></li>
 	<u>Note</u>: You can choose to mark Notifications as read.
-    <li>Should you wish to receive SLS Notifications through your email, you may do so from <a target="_blank" href="/student-user-guide/customise/set-email-notifications/">here</a><strong> (New in R19)</strong>.</li>
+    <li>Should you wish to receive SLS Notifications through your email, you may do so from <a target="_blank" href="/student-user-guide/customise/set-email-notifications/">here</a>.<strong> (New in R19)</strong>.</li>
   </ol>
-	

@@ -1,5 +1,5 @@
 ---
-title: Newly Whitelisted Apps & Websites
+title: Newly Whitelisted Websites
 date: 2023-06-01
 layout: link
 description: ""

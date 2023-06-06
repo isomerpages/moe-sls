@@ -59,7 +59,7 @@ third_nav_title: Notify
 <ol>
 <li>Unread Notifications are indicated with a yellow circle on the Notification Card.</li>
 <li>The yellow circle on the Notification Card will disappear when the card is opened.</li>
-<li>To mark multiple Notifications as read, you can select multiple Notifications by selecting the checkboxes beside the Notification Cards, or selecting the checkbox beside<strong>Select all notifications</strong> if you wish to select the entire page of Notifications.</li>
-<li>On the table header, click <strong>Mark as Read.</strong></li>
+<li>To mark multiple Notifications as read, you can select multiple Notifications by selecting the checkboxes beside the Notification Cards, or selecting the checkbox beside <strong>Select all notifications</strong> if you wish to select the entire page of Notifications.</li>
+<li>On the table header, click <strong>Mark as Read.</strong>
+	<img src="/images/1Student/N-Notifications2.png"></li>
 </ol>
-<img src="/images/1Student/N-Notifications2.png">

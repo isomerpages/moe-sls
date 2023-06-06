@@ -1,5 +1,5 @@
 ---
-title: Log in with MIMS (Teacher)
+title: Log In with MIMS (Teacher)
 permalink: /login-troubleshooting/authentication/log-in-with-mims-teacher/
 description: ""
 third_nav_title: Authentication

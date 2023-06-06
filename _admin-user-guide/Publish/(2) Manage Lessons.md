@@ -37,10 +37,9 @@ third_nav_title: Publish
 <li>You may also wish to select the <strong>Subject</strong> and <strong>Level</strong> filter by selecting the relevant fields in the respective dropdown menu.</li>
 <li>Press "Enter" <em></em>to return your search results.</li>
 <li>To add more search filters, click <strong>Filter</strong>. </li>
-<li>Under <strong>Resource</strong>, select:<ul>
-<li><strong>Lessons</strong></li>
-</ul>
-</li>
+<li>Under <strong>Resource</strong>, select <strong>Lessons</strong>.</li>
+
+
 <li>Under <strong>Owner Group</strong>, select from:<ul>
 <li><strong>All</strong></li>
 <li><strong>My Groups</strong></li>
@@ -63,21 +62,22 @@ third_nav_title: Publish
 <p>You can only Publish or Unpublish a Lesson that is tagged to your Owner Group.</p>
 <ol>
 <li>To Publish/Unpublish a Lesson, click <strong>Open</strong> under the Lesson Title. </li>
-<li>For a Lesson that is pending approval, Approve <img style="width:1.5rem; display: inline;" src="/images/Icons/ApproveLesson32.svg"> or Reject <img style="width:1.5rem; display: inline;" src="/images/Icons/RejectLesson32.svg">  the Lesson by clicking on their respective icons located on the top right of the Lesson header.</li>
+<li>For a Lesson that is pending approval, Approve 
+<img style="width:1.5rem; display: inline;" src="/images/Icons/ApproveLesson32.svg"> or Reject <img style="width:1.5rem; display: inline;" src="/images/Icons/RejectLesson32.svg">  the Lesson by clicking on their respective icons located on the top right of the Lesson header.</li>
 <li>The Admin Reviews subpage will be automatically updated with the relevant action. </li>
 </ol>
 <h2 id="edit-a-lesson-for-cas-">Edit a Lesson (For CAs)</h2>
 <hr>
 <p>You can only Edit a Resource that is tagged to your Owner Group, and only when the Resource is Unpublished.</p>
 <ol>
-<li>Unpublish the Resource by clicking the <strong>Unpublish</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/UnpublishLesson32.svg">.</li>
-<li>Click the <strong>Pencil</strong> icon <img style="width:1em; display: inline;" src="/images/Icons/Pencil.svg"> to make the necessary edits.</li>
+<li>Unpublish the Resource by clicking the <strong>Unpublish</strong> icon <img style="width:1.7rem; display: inline;" src="/images/Icons/UnpublishLesson32.svg">.</li>
+<li>Click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> to make the necessary edits.</li>
 <li>Click the <strong>Done</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Done.svg"> to save your changes, followed by the <strong>Approve</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ApproveLesson32.svg"> to publish the edited Resource to MOE Library.</li>
 </ol>
 <h2 id="edit-a-lesson-for-cos-">Edit a Lesson (For COs)</h2>
 <hr>
 <p>CO will have to seek approval from CA to unpublish the Resource for editing. </p>
 <ol>
-<li>Once the Resource has been unpublished, click the <strong>Pencil</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/Pencil.svg"> to enter the Lesson Editor page.</li>
+<li>Once the Resource has been unpublished, click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> to enter the Lesson Editor page.</li>
 <li>CO can submit the Resource to CA(s) for approval after the edits are completed.</li>
 </ol>

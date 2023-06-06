@@ -9,7 +9,7 @@ third_nav_title: Authentication
 <hr>
 <ol>
 <li><p>If you answer any of the questions incorrectly, you will be brought to the Password Reset Unsuccessful page.</p>
-<p><img style="width: 80%;" src="/images/4Troubleshooting/LT-UnsuccesfulPassword.png"></p>
+<p><img style="width: 100%;" src="/images/4Troubleshooting/LT-UnsuccesfulPassword.png"></p>
 <ul>
 <li>Click <strong>Retry</strong> to try again.</li>
 </ul>

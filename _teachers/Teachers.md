@@ -14,9 +14,9 @@ Looking for new ways to support your students’ learning? SLS features can enha
 </li><li><a target="_blank" href="/teachers/feature-highlights/2022-1h/">2022 1H</a>
 </li><li><a target="_blank" href="/teachers/feature-highlights/2021-2h/">2021 2H</a></li></ul>
 
-<h2 id="build-the-sls-card-game">Build - The SLS Card Game</h2>
+<h2 id="build-the-sls-card-game">Build: The SLS Card Game</h2>
 <hr>
-<ul><li><a target="_blank" href="/teachers/build-the-sls-card-game/index/">Build - The SLS Card Game</a></li></ul>
+<ul><li><a target="_blank" href="/teachers/build-the-sls-card-game/index/">Build: The SLS Card Game</a></li></ul>
 <h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
 <hr>
 <ul><li><a target="_blank" href="/teachers/frequently-asked-questions/">SLS Access</a></li></ul>

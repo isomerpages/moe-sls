@@ -1,5 +1,5 @@
 ---
-title: Build the SLS Card Game
+title: "Build: the SLS Card Game"
 permalink: /teachers/build-the-sls-card-game/index/
 description: ""
 third_nav_title: "Build: the SLS Card Game"

@@ -12,8 +12,7 @@ description: ""
   <li><a target="_blank" href="/students/feature-highlights/2021-2h/">2021 2H</a></li></ul>
 <h2 id="student-initiated-learning">Student-Initiated Learning</h2>
 <hr>
-<ul><li><a target="_blank" href="/students/student-initiated-learning/">For Secondary Level</a></li>
-<li><a target="_blank" href="/students/student-initiated-learning/">For JC/MI Level</a></li></ul>
+<ul><li><a target="_blank" href="/students/student-initiated-learning/">Student-Initiated Learning</a></li></ul>
 <h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
 <hr>
 <ul><li><a target="_blank" href="/students/frequently-asked-questions/young-overseas-singaporeans/">Young Overseas Singaporeans</a></li>

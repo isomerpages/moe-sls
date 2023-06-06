@@ -9,7 +9,7 @@ third_nav_title: Assess
 <hr>
 <ol>
 <li><p>To answer a Fill-in-the-Blanks question, key in your answer in the blanks provided.</p>
-<p><img style="width: 50%;" src="/images/1Student/As-FitB.png"></p>
+<p><img style="width: 80%;" src="/images/1Student/As-FitB.png"></p>
 </li>
 <li><p>Depending on the requirement of the question, some answers need to be case-sensitive, e.g. the chemical symbol for helium is "He", not "he".</p>
 </li>

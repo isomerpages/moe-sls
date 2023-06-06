@@ -10,7 +10,7 @@ third_nav_title: Administer
 <ul>
 <li>SLS Account Status - Not Activated</li>
 <li><p>Role - Student</p>
-<p><img style="width: 50%;" src="/images/5Admin/A-ActivateAccount.png"></p>
+<p><img style="width: 80%;" src="/images/5Admin/A-ActivateAccount.png"></p>
 </li>
 </ul>
 </li>

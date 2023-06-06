@@ -12,7 +12,7 @@ third_nav_title: Administer
 <ul>
 <li><strong>SLS Account Status</strong> - Activated, Activated (Locked), Not Activated, Not Activated (Locked), Inactive</li>
 <li><p><strong>Form Class</strong> (for students only)</p>
-<p><img style="width: 50%;" src="/images/5Admin/A-Filter1.png"></p>
+<p><img style="width: 80%;" src="/images/5Admin/A-Filter1.png"></p>
 </li>
 </ul>
 </li>
@@ -21,7 +21,7 @@ third_nav_title: Administer
 <li><strong>MIMS Status</strong> - Active, Inactive, Not Applicable</li>
 <li><strong>School</strong></li>
 <li><p><strong>Role</strong> - School Admin, Teacher, Student</p>
-<p><img style="width: 50%;" src="/images/5Admin/A-SearchUsers.png"></p>
+<p><img style="width: 100%;" src="/images/5Admin/A-SearchUsers.png"></p>
 </li>
 </ul>
 </li>

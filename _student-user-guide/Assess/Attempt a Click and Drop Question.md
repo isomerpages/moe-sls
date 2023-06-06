@@ -12,7 +12,7 @@ third_nav_title: Assess
 <li>Alternatively, you can also select the <strong>blank rectangles</strong> first and select your answer from the <strong>Options</strong> area.</li>
 </ol>
 </li>
-<p><img style="width: 50%;" src="/images/1Student/As-CnD.png"></p>
+<p><img style="width: 80%;" src="/images/1Student/As-CnD.png"></p>
 <li>In some questions, a <strong>Hint</strong> may be provided by your teacher. Click on it to view the hint.</li>
 <li>In a standalone question that is not part of a quiz, you can submit your response by clicking the <strong>Submit</strong> button. You can also choose <strong>Save as Draft</strong> if you would like to revisit this question again after you have visited other pages or logged out. Your response will be saved.</li>
 <li>For Click-and-Drop questions, your answer will automatically be graded by the system. Once you submit your response, you will be able to see the correct answer, along with any feedback that your teacher might have provided.</li>
