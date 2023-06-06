@@ -14,7 +14,7 @@ third_nav_title: Administer
 <li>Open the left menu and click <strong>Administration</strong>, followed by <strong>Manage Users</strong>.</li>
 <li>On the Manage Users page, search for accounts that need to be reset. If searching by name, use search operators such as "+" to refine the search (e.g. Angela+Ang).</li>
 <li><p>To narrow down the search results, click <strong>Filter</strong>. </p>
-<p><img style="width: 50%;" src="/images/5Admin/A-SearchUsers.png"></p>
+<p><img style="width: 100%;" src="/images/5Admin/A-SearchUsers.png"></p>
 </li>
 <li><p>In the <strong>Filter</strong> subpage, select the following filters from the respective dropdown list:</p>
 <ul>
@@ -22,16 +22,18 @@ third_nav_title: Administer
 <li><strong>MIMS Status</strong> - Active, Inactive, Not Applicable</li>
 <li><strong>Form Class</strong> (for students only)</li>
 <li><p><strong>Role</strong> - School Admin, Teacher, Student</p>
-<p><img style="width: 50%;" src="/images/5Admin/A-Filter1.png"></p>
+<p><img style="width: 80%;" src="/images/5Admin/A-Filter1.png"></p>
 </li>
 </ul>
 </li>
 <li><p>Click <strong>Apply</strong>.</p>
 </li>
 <li>Select the users by selecting the checkboxes next to their names.</li>
-<li>Click <strong>Reset Password</strong> in the table header. [A-ResetPassword.png]</li>
+<li>Click <strong>Reset Password</strong> in the table header. 
+<img style="width: 100%;" src="/images/5Admin/A-ResetPassword.png">
+	</li>
 <li>On the confirmation prompt, verify that the correct teachers have been selected.</li>
-<li>Click <strong>Ok</strong>.</li>
+<li>Click <strong>OK</strong>.</li>
 </ol>
 <h2 id="-reset-students-sls-passwords-">Reset Students' SLS Passwords</h2>
 <hr>
