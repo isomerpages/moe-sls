@@ -35,9 +35,9 @@ third_nav_title: Author
 <li>Lesson title, cover and description (if any)</li>
 <li>View Teacher Notes toggle - You can toggle on/off to view Teacher Notes (if any)</li>
 <li>All Activities/Sections in the Lesson - Click <strong>Show Activities</strong> to see all Activities in a Section. The number of Activities in a Section is shown in parenthesis ( ).</li>
-<li><p>View in new tab - Click the <strong>Expand</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/external-link.svg"> to view a Lesson/Activity/Section in a new tab.</p>
+<li><p>View in new tab - Click the <strong>Expand</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/external-link.svg"> to view a Lesson/Activity/Section in a new tab.</p></li></ul>
 <p><u>Note</u>: This will not create a new Lesson in your Drive and you will be unable to edit the Lesson/Activity/Section.</p>
-</li>
+<ul>
 <li><p>Other Information -  Location, Subject and Level, Created by, Last Edited by, View Count and Keyword Tags</p>
 </li>
 </ul>
@@ -47,7 +47,7 @@ third_nav_title: Author
 <hr>
 <ol>
 <li><p>Once you have decided on the Activities/Sections to add, you can tick the box beside the Activities/Sections.</p>
-	<p><u>Note</u>: </p>
+<p><u>Note</u>: </p>
 <ul>
 <li>If you select a Section, all the Activities in that Section will be added.</li>
 <li>Selection has to be of the same level (if you select a Section, you can only select another Section. If you select Activities, you can only select other Activities. I.e. You cannot add a Section with Activities from another Section).</li>
