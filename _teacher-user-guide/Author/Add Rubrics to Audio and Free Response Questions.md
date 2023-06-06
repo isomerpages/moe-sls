@@ -16,15 +16,14 @@ third_nav_title: Author
 <li>Title</li>
 <li>Band Descriptor</li>
 <li>Criterion</li>
-<li><p>Mark Range</p>
-	<p><u>Note</u>: Please see below on how to use the marks of the rubrics for the question.</p></li>
-<br>
-<li><p>Band Description</p>
-	<p><u>Note</u>: You may enter descriptions in the form of text, mathematical formulae, chemical formulae, and media.</p>
-</li>
+<li><p>Mark Range</p></li>
 </ul>
 </li>
-<img style="width: 80%;" src="/images/2Teacher/AU-AddRubrics1.png">
+<p><u>Note</u>: Please see below on how to use the marks of the rubrics for the question.</p>
+<ul><li><p>Band Description</p></li></ul>
+<p><u>Note</u>: You may enter descriptions in the form of text, mathematical formulae, chemical formulae, and media.</p>
+	
+<img style="width: 100%;" src="/images/2Teacher/AU-AddRubrics1.png">
 
 <li>Click outside the Component to <strong>Save</strong>.</li>
 </ol>
