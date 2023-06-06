@@ -27,7 +27,7 @@ third_nav_title: Administer
 <li>In the Verify Users page, you may search for a specific user in the verification list by name or SLS ID.</li>
 <li>Select the checkboxes on the left of the names whose account/role you wish to remove. If there are no account/role to remove, you may proceed to completing the verification.</li>
 <li><p>Click <strong>Mark For Removal</strong> in the table header. </p>
-<p><img style="width: 50%;" src="/images/5Admin/Ad-Verification.png"></p>
+<p><img style="width: 100%;" src="/images/5Admin/Ad-Verification.png"></p>
 	<p><u>Note</u>: </p>
 <ul>
 <li>Role(s) marked for removal will be removed when the verification exercise ends. This will not remove the SLS account.</li>
@@ -38,7 +38,7 @@ third_nav_title: Administer
 <li>Account(s)/Role(s) that has/have been marked for removal will have a “To Remove” tag indicated.</li>
 <li>To unmark an account/role for removal, select the checkbox on the left of the name.</li>
 <li><p>Click <strong>Unmark For Removal</strong> in the table header. </p>
-<p><img style="width: 50%;" src="/images/5Admin/Ad-Verification.png"></p>
+<p><img style="width: 100%;" src="/images/5Admin/Ad-Verification.png"></p>
 </li>
 <li><p>Click <strong>OK</strong> on the confirmation prompt.</p>
 </li>
@@ -48,7 +48,7 @@ third_nav_title: Administer
 <ol>
 <li>You may make changes to the verification any time before you click Complete Verification and before the verification exercise ends.</li>
 <li><p>Once there are no further changes to be made to the verification, click <strong>Complete Verification.</strong></p>
-<p><img style="width: 50%;" src="/images/5Admin/Ad-Verification1.png"></p>
+<p><img style="width: 100%;" src="/images/5Admin/Ad-Verification1.png"></p>
 </li>
 <li><p>Click <strong>OK</strong> on the confirmation prompt.</p>
 	<p><u>Note</u>: </p>
