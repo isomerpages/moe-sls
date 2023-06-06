@@ -11,13 +11,13 @@ third_nav_title: Assess
 <li><p>There are two types of buttons:</p>
 <ol style="list-style-type: lower-alpha;">
 <li><p>If you see circle buttons (Multiple-Choice Questions), you may choose only one response.</p>
-<p><img style="width: 50%;" src="/images/1Student/As-MCQ.png"></p>
+<p><img style="width: 80%;" src="/images/1Student/As-MCQ.png"></p>
 </li>
 <li><p>If you see checkboxes (Multiple-Response Questions), you may choose one or more responses.</p>
 </li>
 </ol>
 </li>
-<p><img style="width: 50%;" src="/images/1Student/As-MCQ1.png"></p>
+<p><img style="width: 80%;" src="/images/1Student/As-MCQ1.png"></p>
 
 <li>In some questions, a hint may be provided by your teacher. Click <strong>Hint</strong> to view it.</li>
 <li>In a standalone question that is not part of a quiz, you can submit your response by clicking the <strong>Submit</strong> button. You can also choose <strong>Save as Draft</strong> if you would like to revisit this question later on after you have visited other pages or logged out. Your responses will be saved.</li>
