@@ -63,7 +63,7 @@ third_nav_title: Publish
 <p>You can only Publish or Unpublish a Lesson that is tagged to your Owner Group.</p>
 <ol>
 <li>To Publish/Unpublish a Lesson, click <strong>Open</strong> under the Lesson Title. </li>
-<li>For a Lesson that is pending approval, Approve <img style="width:1.5rem; display: inline;" src="/images/Icons/ApproveLesson32.svg"> or Reject <img style="width:1.5rem; display: inline;" src="/images/Icons/RejectLesson32.svg">  the Lesson by clicking on their respective icons located on the top right of the Lesson header.</li>
+<li>For a Lesson that is pending approval, Approve <img style="width:2rem; display: inline;" src="/images/Icons/ApproveLesson32.svg"> or Reject <img style="width:2rem; display: inline;" src="/images/Icons/RejectLesson32.svg">  the Lesson by clicking on their respective icons located on the top right of the Lesson header.</li>
 <li>The Admin Reviews subpage will be automatically updated with the relevant action. </li>
 </ol>
 <h2 id="edit-a-lesson-for-cas-">Edit a Lesson (For CAs)</h2>
