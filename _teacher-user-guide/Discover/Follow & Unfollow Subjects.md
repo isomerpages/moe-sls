@@ -21,6 +21,6 @@ third_nav_title: Discover
 
 <li>To Unfollow a Subject, on the Followed Subject Card, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Unfollow Subject</strong>.</li>
 	</ol>
-<h2>Video Tutorial (Updated)</h2>
+<h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - View Followed Subjects" src="https://www.youtube.com/embed/ndhv-7nq2JA" height="100%" width="100%"></iframe></div>
