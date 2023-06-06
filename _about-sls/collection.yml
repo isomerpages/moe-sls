@@ -1,0 +1,8 @@
+collections:
+  about-sls:
+    output: true
+    order:
+      - Overview of SLS.md
+      - Future of SLS.md
+      - News Articles.md
+      - Awards.md

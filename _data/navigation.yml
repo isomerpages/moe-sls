@@ -1,15 +1,25 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/LogoSecondaryLight.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Latest News
+    resource_room: true
+  - title: Students
+    collection: students
+  - title: Teachers
+    collection: teachers
+  - title: Partners
+    collection: partners
+  - title: User Guides
+    url: /userguides
+    sublinks:
+      - title: Students UG
+        url: /student-user-guide/organise/
+      - title: Teachers UG
+        url: /teacher-user-guide/organise/
+      - title: Admin UG
+        url: /admin-user-guide/organise/
+      - title: Login Troubleshooting
+        url: /login-troubleshooting/authentication/index/
+  - title: About Sls
+    collection: about-sls
+  - title: Login to SLS
+    url: https://vle.learning.moe.edu.sg/login

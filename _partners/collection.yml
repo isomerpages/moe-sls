@@ -1,0 +1,25 @@
+collections:
+  partners:
+    output: true
+    order:
+      - Partners.md
+      - Partnership/.keep
+      - Partnership/Partnership with SLS.md
+      - Partnership/Partnership Models.md
+      - Partnership/SLS Data.md
+      - Integration/.keep
+      - Integration/Whitelisted Websites.md
+      - Integration/Integrated Apps.md
+      - Integration/External Engines.md
+      - Events/.keep
+      - Events/SLS Pitch Day 2022.md
+      - Events/Overview 2022.md
+      - Events/Featured Pitches 2022.md
+      - Events/SLS Pitch Day 2021.md
+      - Events/Overview 2021.md
+      - Events/Featured Pitches 2021.md
+      - Events/Assessment and Analytics 2021.md
+      - Events/Content and Resources 2021.md
+      - Events/Pedagogy and Instruction 2021.md
+      - Events/Others 2021.md
+      - Sandbox.md

@@ -1,40 +1,48 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
-# Site colors
+title: SLS Info-Site
+url: https://www.learning.moe.edu.sg
+favicon: /images/FaviconLight.png
 colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
+  primary-color: "#2b63d9"
+  secondary-color: "#0b233f"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#e96a6a"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#4ecbd3"
     - title: media-color-three
-      color: '#00838f'
+      color: "#fbbc04"
     - title: media-color-four
-      color: '#00838f'
+      color: "#af75d2"
     - title: media-color-five
-      color: '#00838f'
-
-description: An Isomer site of the Singapore Government
-
-##################################################################################################################
-# Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
-##################################################################################################################
+      color: "#73c235"
+description: The SLS is MOE's core platform for teaching and learning and is one
+  of MOE’s key initiatives to transform the learning experiences of Singaporean
+  students through the purposeful use of technology to enable students to engage
+  in different learning modes.
 permalink: none
 baseurl: ""
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-include: [_redirects]
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
 defaults:
   - scope:
       path: ""
     values:
-      layout: "page"
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
@@ -46,3 +54,10 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d19lt3odqxq3m6.amplifyapp.com
 prod: https://master.d19lt3odqxq3m6.amplifyapp.com
+shareicon: /images/LogoSecondaryLight.svg
+is_government: true
+facebook-pixel: ""
+google_analytics: UA-134623204-2
+linkedin-insights: ""
+resources_name: latest-news
+google_analytics_ga4: "323680234"

@@ -1,0 +1,206 @@
+collections:
+  teacher-user-guide:
+    output: true
+    order:
+      - (i) Organise.md
+      - (ii) Author.md
+      - (iii) Enact.md
+      - (iv) Assess.md
+      - (v) Administer.md
+      - Discover/.keep
+      - Discover/Discover.md
+      - Discover/About Resources.md
+      - Discover/(1a) Add Existing Activities from Resources.md
+      - Discover/(1b) Add Existing Components from Resources.md
+      - Discover/(1c) Add Existing Media Objects from Resources.md
+      - Discover/(2) Search for Resources (New).md
+      - Discover/(3) View Lesson Details.md
+      - Discover/(1) View External Resources (New).md
+      - Discover/(2) Embed Whitelisted Websites.md
+      - Discover/Previously Whitelisted & Non Whitelisted Websites.md
+      - Discover/Access App Library.md
+      - Discover/Access My Subjects.md
+      - Discover/Follow & Unfollow Subjects.md
+      - Discover/Make a Copy of a Lesson.md
+      - Discover/View Print Friendly Worksheet.md
+      - Discover/Leave Reviews (New).md
+      - Notify/.keep
+      - Notify/Notify.md
+      - Notify/(1) View and Create Announcements.md
+      - Notify/(2) Manage Announcements.md
+      - Notify/About Notifications (New).md
+      - Notify/View Notifications (New).md
+      - Plan/.keep
+      - Plan/Plan.md
+      - Plan/(1) Access Planner (New).md
+      - Plan/(2) Create Class Events (New).md
+      - Organise/.keep
+      - Organise/Organise.md
+      - Organise/About Class Groups (New).md
+      - Organise/(1) Create Class Groups (New).md
+      - Organise/(2) Add Teachers as Students to a Class Group.md
+      - Organise/Manage Class Group Resources.md
+      - Organise/Install and Launch Apps.md
+      - Organise/App FAQs.md
+      - Organise/Pin Class Groups (Enhanced).md
+      - Organise/Archive Class Groups.md
+      - Organise/View Past Class Groups.md
+      - Organise/(1) Access My Drive.md
+      - Organise/(2) Search in My Drive.md
+      - Organise/(3a) Create New Folders.md
+      - Organise/(3b) View Lessons Shared with Me.md
+      - Organise/Delete Resources.md
+      - Organise/Copy Lessons within My Drive.md
+      - Organise/Manage Folders.md
+      - Organise/Restore Resources from Trash.md
+      - Organise/Star Resources.md
+      - Customise/.keep
+      - Customise/Customise.md
+      - Customise/Customise an Avatar.md
+      - Customise/Change Display Name.md
+      - Customise/Set an Alternate Email Address.md
+      - Customise/Set Email Notifications (New).md
+      - Customise/Manage Linked Account.md
+      - Customise/Change SLS Password.md
+      - Customise/Switch to Student Account.md
+      - Customise/Manage My Templates.md
+      - Author/.keep
+      - Author/Author.md
+      - Author/Create New Lessons (New).md
+      - Author/Add New using Templates.md
+      - Author/Add New Activities & Sections (Enhanced).md
+      - Author/Add Existing From Library & Starred Resources.md
+      - Author/Add Introduction.md
+      - Author/Add Components (Enhanced).md
+      - Author/Upload Question and Test Interoperability (QTI) Files.md
+      - Author/Add Multiple Choice Questions.md
+      - Author/Add Fill in the Blanks Questions.md
+      - Author/Add Click and Drop Questions.md
+      - Author/Add Error Editing Questions.md
+      - Author/Add Free Response Questions.md
+      - Author/Add Audio Response Questions.md
+      - Author/Add Multi Part Questions.md
+      - Author/Add Display (New).md
+      - Author/Add Rubrics to Audio and Free Response Questions.md
+      - Author/Embed YouTube Videos.md
+      - Author/Insert Media Objects.md
+      - Author/About Rich Text Editor (Enhanced).md
+      - Author/Formatting & Paragraphing.md
+      - Author/Insert Chinese or Tamil Text.md
+      - Author/Insert Mathematical or Chemical Equations.md
+      - Author/Insert Tables.md
+      - Author/Insert Emoticons.md
+      - Author/Insert Drawings (Enhanced).md
+      - Author/Insert External Links.md
+      - Author/Insert Links to Sections (New).md
+      - Author/Insert Tooltips (Enhanced).md
+      - Author/HTML5 Content Development.md
+      - Author/Text to Speech (TTS).md
+      - Author/Speech Evaluation (Enhanced).md
+      - Author/Localisation and eDictionary.md
+      - Author/About Templates.md
+      - Author/Manage Lessons.md
+      - Author/Edit Lessons (Enhanced).md
+      - Author/Edit Activities & Sections (Enhanced).md
+      - Author/View and Edit Lesson Plans.md
+      - Author/Make a Copy of Lessons or Assignments.md
+      - Author/Edit Detail cards (New).md
+      - Author/Add Question Tags.md
+      - Author/Add Lesson Tags.md
+      - Author/Edit Media Objects.md
+      - Author/Move Lessons to Trash.md
+      - Author/File Size Limits.md
+      - Author/Resources.md
+      - Author/Copyright FAQs.md
+      - Author/Email Template for Copyright Clearance.md
+      - Personalise/.keep
+      - Personalise/Personalise.md
+      - Personalise/Set Optional Activities & Quizzes.md
+      - Gamify/.keep
+      - Gamify/Gamify.md
+      - Gamify/About Gamification and Leaderboard.md
+      - Gamify/(1) Manage Gamification Settings.md
+      - Gamify/(2) Game Stories and Achievements.md
+      - Gamify/(3) Create Game Teams.md
+      - Gamify/Display Leaderboard for Students (Improved).md
+      - Gamify/Award XP, Game Story and Achievements Manually.md
+      - Assign/.keep
+      - Assign/Assign.md
+      - Assign/Create Assignments.md
+      - Assign/Quick Assign Activities & Quizzes (New).md
+      - Assign/Assign MOE Library Lessons.md
+      - Assign/Assign Community Gallery Lessons.md
+      - Assign/Add Assignments to Class Group.md
+      - Assign/Manage Assignments.md
+      - Assign/Schedule Assignments.md
+      - Assign/Edit Assignments.md
+      - Assign/Pause & Resume Assignments.md
+      - Assign/Move Assignments.md
+      - Assign/Delete Assignments.md
+      - Assign/Copy Assignments.md
+      - Assign/Allow Students to Copy Assignments.md
+      - Assign/Allow Students to Share Assignments.md
+      - Assign/Highlight and Annotate in Teacher's Copy of Assignment.md
+      - Enact/.keep
+      - Enact/Enact.md
+      - Enact/Change Access to Activities.md
+      - Differentiate/.keep
+      - Differentiate/Differentiate.md
+      - Differentiate/(1) Create Subgroups.md
+      - Differentiate/(2) View Subgroups.md
+      - Differentiate/(3) Edit & Delete a Subgroup.md
+      - Differentiate/Add Section Prerequisites.md
+      - Differentiate/Set Differentiated Access.md
+      - Collaborate/.keep
+      - Collaborate/Collaborate.md
+      - Collaborate/About the Forum.md
+      - Collaborate/(1a) Add a Topic (New).md
+      - Collaborate/(1b) Add a Poll.md
+      - Collaborate/(2) Change Forum Settings.md
+      - Collaborate/(3) Post and Comment in the Forum.md
+      - Collaborate/(1) Create Team Activities (New).md
+      - Collaborate/(2) Create Teams.md
+      - Collaborate/Add an Interactive Thinking Tool.md
+      - Collaborate/Add a Poll.md
+      - Collaborate/Add a Discussion (New).md
+      - Collaborate/Attach Google Files.md
+      - Collaborate/Share a Lesson.md
+      - Collaborate/Access a Shared Lesson.md
+      - Assess/.keep
+      - Assess/Assess.md
+      - Assess/(1) Create Quizzes (New).md
+      - Assess/(2) Monitor Students' Responses in an Assignment.md
+      - Assess/(3a) Add Teacher Comments.md
+      - Assess/(3b) Annotate (Underline)  Students' Responses.md
+      - Assess/(3c) Mark Google Attached Files.md
+      - Assess/(1) Mark Teacher Marked Quizzes.md
+      - Assess/(2a) Release Teacher Marked Quizzes.md
+      - Assess/(2b) Unsubmit Teacher Marked Quizzes.md
+      - Assess/View Assignments.md
+      - Assess/Edit Quizzes (New).md
+      - Assess/Set Assignments as Assessments.md
+      - Assess/Add and View Passcodes.md
+      - Assess/View Students' Notes.md
+      - Assess/Mark Assignments as Complete and Incomplete.md
+      - Track Progress/.keep
+      - Track Progress/Track Progress.md
+      - Track Progress/(1) Access Learning Progress.md
+      - Track Progress/(2a) View by Topic.md
+      - Track Progress/(2b) View by Month.md
+      - Track Progress/(2c) View by Student.md
+      - Track Progress/View Excluded Questions.md
+      - Publish/.keep
+      - Publish/Publish.md
+      - Publish/(1) Submit Lessons.md
+      - Publish/(2) Copyright Guidelines for Submission.md
+      - Administer/.keep
+      - Administer/Administer.md
+      - Administer/Onboard New Students.md
+      - Administer/Reset Student Passwords for Classes.md
+      - Administer/Generate Two Hour Temporary Password for Students.md
+      - Other Useful Information/.keep
+      - Other Useful Information/Other Useful Information.md
+      - Other Useful Information/Downloadable Resources.md
+      - Other Useful Information/Glossary of Terms (Updated).md
+      - Other Useful Information/Bookmarking Tips.md
+      - Other Useful Information/Tech Tips for Teachers.md

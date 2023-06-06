@@ -1,0 +1,24 @@
+collections:
+  login-troubleshooting:
+    output: true
+    order:
+      - Authentication/Authentication.md
+      - Authentication/Log in with MIMS (Teacher).md
+      - Authentication/Reset SLS Password (Teacher).md
+      - Authentication/Password Reset Email.md
+      - Authentication/Locked Account.md
+      - Authentication/.keep
+      - Authentication/Log in with MIMS (Student).md
+      - Authentication/Reset SLS Password (Student).md
+      - Authentication/Forgot SLS Username.md
+      - Authentication/Unsuccessful Password Reset Attempts.md
+      - Authentication/Unlock Account.md
+      - Get Help/.keep
+      - Get Help/Get Help.md
+      - Get Help/Get Help from your School.md
+      - Get Help/Contact SLS Helpdesk.md
+      - Technical Issues/Technical Issues.md
+      - Technical Issues/.keep
+      - Technical Issues/Operating System and Browser Requirements (Updated).md
+      - Technical Issues/Web Browser Troubleshooting Tips.md
+      - Technical Issues/Slow Site Loading.md
