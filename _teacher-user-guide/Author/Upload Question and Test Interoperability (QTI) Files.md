@@ -15,7 +15,7 @@ third_nav_title: Author
 <p><img style="width: 50%;" src="/images/2Teacher/AU-AddQTI2.png"></p>
 </li>
 <li><p>Upload a QTI zip file into the Import Question subpage and click <strong>Upload</strong>. You can also import images into options using QTI.</p>
-<p> <u>Note</u>: A sample file can be found <a download="" href="http://iwant2study.org/lookangejss/QTI2.1/physicsp1.zip">here</a></p>
+<p> <u>Note</u>: A sample file can be found <a target="_blank" href="http://iwant2study.org/lookangejss/QTI2.1/physicsp1.zip">here</a></p>
 </li>
 <li><p>If the file is valid, it will be uploaded and scanned for viruses.</p>
 <p><u>Note</u>: The virus scan will take longer if the file size is large.</p>
