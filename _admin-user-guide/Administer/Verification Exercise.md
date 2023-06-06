@@ -50,11 +50,10 @@ third_nav_title: Administer
 <li><p>Once there are no further changes to be made to the verification, click <strong>Complete Verification.</strong></p>
 <p><img style="width: 100%;" src="/images/5Admin/Ad-Verification1.png"></p>
 </li>
-<li><p>Click <strong>OK</strong> on the confirmation prompt.</p>
+	<li><p>Click <strong>OK</strong> on the confirmation prompt.</p></li></ol>
 	<p><u>Note</u>: </p>
 <ul>
 <li>No further changes can be made after clicking Complete Verification.</li>
 <li>The verification will be considered incomplete and none of the account(s)/role(s) will be removed if you did not click Complete Verification <em></em>before the end of the exercise.</li>
 </ul>
-</li>
-</ol>
+
