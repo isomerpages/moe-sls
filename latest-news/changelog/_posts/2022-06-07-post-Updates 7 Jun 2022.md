@@ -103,12 +103,10 @@ all announcement types - System, School and Class Group announcements</p>
 </li><li>
 <p>URL can be whitelisted to support assessments using SLS in future.</p>
 </li>
-
 </ul>
 </li></ol></details>
-<h2><img style="width:3rem; display: inline;" src="/images/Icons/Star.svg">
-    Features for Teachers</h2><hr>
-    <details><summary><h4>Gamification</h4></summary>
+<h2><img style="width:3rem; display: inline;" src="/images/Icons/Star.svg">Features for Teachers</h2><hr>
+<details><summary><h4>Gamification</h4></summary>
 <ol>
 <li>
 <p>Introduction of Gamification in Courses to provide a more diverse range of experiences during their learning.</p>
@@ -132,7 +130,6 @@ all announcement types - System, School and Class Group announcements</p>
 <li>
 <p>Ability to manually award Experience Points, Game Stories, Achievements</p>
 </li>
-
 </ol></details>
 <details><summary><h4>E-Dictionary</h4></summary>
 <ol>
@@ -205,11 +202,9 @@ Teachers are able to edit the suggested marks returned by the SE tool and add pe
 <li>
 <p>Tamil Language</p>
 </li>
-
 </ul></li></ol></details>
-<h2><img style="width:3rem; display: inline;" src="/images/Icons/Star.svg">
-    Features for Students</h2><hr>
-    <details><summary><h4>Adaptive Learning System (To be progressively rolled out)</h4></summary>
+<h2><img style="width:3rem; display: inline;" src="/images/Icons/Star.svg">Features for Students</h2><hr>
+<details><summary><h4>Adaptive Learning System (To be progressively rolled out)</h4></summary>
 <ol>
 <li>
 <p>Students are able to learn adaptively based on an AI recommendation engine.</p>
