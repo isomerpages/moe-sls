@@ -17,18 +17,18 @@ third_nav_title: Author
 <li><p>Below are the types of MCQ <strong><strong>options </strong></strong>you can choose from:</p>
 <ul>
 <li>Single-Response: Only one correct answer.</li>
-<li><p>Multi-Response (MRQ): More than one correct answer.</p>
-	<p><u>Note</u>: Students must choose ALL the correct answers to be awarded marks.</p>
-</li>
+	<li><p>Multi-Response (MRQ): More than one correct answer.</p></li></ul></li></ol>
+<p><u>Note</u>: Students must choose ALL the correct answers to be awarded marks.</p>
+<ul>
 <li><p>Slider: Only one correct answer. <strong>(NEW)</strong></p>
 </li>
-<li><p>No correct answer: you can turn on/off this option in the question setting. <strong>(NEW)</strong></p>
-	<p><u>Note</u>: Students will not be awarded any marks for this question.</p>
+<li><p>No correct answer: you can turn on/off this option in the question setting. <strong>(NEW)</strong></p></li></ul>
+<p><u>Note</u>: Students will not be awarded any marks for this question.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/AU-AddMCQ2.png"></p>
-</li>
-</ul>
-</li>
-<li><p>Type your question in the Question Body.</p>
+
+
+
+<ol start="5"><li><p>Type your question in the Question Body.</p>
 </li>
 <li>Type your answer options in Option Text.</li>
 <li>Select one correct answer for MCQ and one or more for MRQ.</li>
