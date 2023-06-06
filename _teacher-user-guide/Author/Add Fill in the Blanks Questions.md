@@ -22,7 +22,7 @@ third_nav_title: Author
 <li>Answer - Enter an Acceptable Answer here. Each blank can have multiple Acceptable Answers. Press <strong>Enter</strong> within the field to add a new Acceptable Answer.</li>
 <li><p>Case-sensitive checkbox - If this is checked, the answer will be case-sensitive, that is, "usa" will not be accepted as a correct answer while "USA" will be accepted.</p></li></ul></li></ol>
 <p><u>Note</u>: Answer blanks can only be text.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AddFITB1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-AddFITB1.png"></p>
 <ol start="8"><li><p>Click outside the Component to <strong>Save</strong>.</p>
 </li>
 </ol>
