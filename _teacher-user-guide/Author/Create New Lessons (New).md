@@ -29,9 +29,8 @@ third_nav_title: Author
 <li>Open the left menu on the Home page. Expand the <strong>Resources</strong> dropdown list and select <strong>My Drive</strong>. By default, you will be in the My Lessons.</li>
 <li>Click <strong>Add New</strong>.</li>
 <li>Select <strong>New Lesson</strong> from the menu.</li>
-	<p><img style="width: 100%;" src="/images/2Teacher/AU-CreateNewLesson2.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-CreateNewLesson2.png"></p>
 </ol>
-
 <h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
