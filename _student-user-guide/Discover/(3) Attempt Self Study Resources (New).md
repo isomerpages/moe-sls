@@ -29,7 +29,7 @@ third_nav_title: Discover
 <li>To begin attempting the Lesson, click the <strong>Lesson Card</strong>. Within the Lesson, open the right menu to <strong>Reattempt</strong> (once you have started on the Lesson), <a target="_blank" href="/student-user-guide/organise/copy-to-my-drive/">Copy to My Drive</a> (if permissions have been enabled), or <a target="_blank" href="/student-user-guide/organise/view-print-friendly-worksheet/">View as Print-Friendly Worksheet</a>(if permissions have been enabled). 
 <img src="/images/1Student/SS-Lesson.png"></li>
 	
-<p>Note: Should you Reattempt the Lesson, responses from your previous attempt will be deleted. To keep a copy of your responses, make a copy of the Lesson before reattempting.</p>
+<p><u>Note</u>: Should you Reattempt the Lesson, responses from your previous attempt will be deleted. To keep a copy of your responses, make a copy of the Lesson before reattempting.</p>
     
 <li>To revisit this Lesson, you can access it from your Self-Study List <a target="_blank" href="/student-user-guide/discover/access-self-study-resources/"> access self-study list</a>. Your previous responses will be saved.</li>
 </ol>
