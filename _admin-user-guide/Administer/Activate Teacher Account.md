@@ -40,7 +40,7 @@ third_nav_title: Administer
 <li><strong>Role</strong> - Teacher</li>
 <li><strong>SLS Account Status</strong> - Not Activated, Not Activated (Locked)</li>
 </ul>
+	<img src="/images/5Admin/A-Filter.png">
 </li>
 <li>Click <strong>Apply</strong> to proceed.</li>
 </ol>
-<img src="/images/5Admin/A-Filter.png">
