@@ -11,7 +11,7 @@ third_nav_title: Assign
 <ol>
 <li>To access the homepage, open the left menu or click the <strong>Student Learning Space</strong> icon found in the header.</li>
 <li><p>Up to 12 Assignments that are due in the next 7 days will be shown under the Assignments tab on your homepage.</p>
-<p><img src="/images/1Student/AS-AccessAssignment1.png"></p>
+
 </li>
 </ol>
 <h2 id="-all-assignments-that-are-in-progress-upcoming-or-complete-">All Assignments that are In Progress, Upcoming or Complete</h2>
@@ -33,7 +33,7 @@ third_nav_title: Assign
 <li><strong>Class Group</strong> - You can choose to view All Class Groups, Pinned Class Groups, or My Class Groups.</li>
 </ul>
 </li>
-<li>Click the individual Assignment Card to access the Assignment.</li>
+<li>Click the individual Assignment ard to access the Assignment.</li>
 <li><p>You can choose to view your Assignments in Card view <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">.</p>
 </li>
 <li><p>Assignments in List view are sorted according to the latest Start Date. You may also sort the assignments according to the Assignment Title, and Due Date.</p>
