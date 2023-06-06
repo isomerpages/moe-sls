@@ -9,10 +9,10 @@ Looking for new ways to support your students’ learning? SLS features can enha
 <h2 id="feature-highlights">Feature Highlights</h2>
 <hr>
 <ul>
-  <li><p><a target="_blank" href="/teachers/feature-highlights/2023-1h/">2023 1H</a></p></li>
-<li><a target="_blank" href="/teachers/feature-highlights/2022-2h/">2022 2H</a>
-</li><li><a target="_blank" href="/teachers/feature-highlights/2022-1h/">2022 1H</a>
-</li><li><a target="_blank" href="/teachers/feature-highlights/2021-2h/">2021 2H</a></li></ul>
+  <li><p><a target="_blank" href="/teachers/feature-highlights/2023-sem1/">2023 Sem 1</a></p></li>
+<li><a target="_blank" href="/teachers/feature-highlights/2022-sem2/">2022 Sem 2</a>
+</li><li><a target="_blank" href="/teachers/feature-highlights/2022-sem1/">2022 Sem 1</a>
+</li><li><a target="_blank" href="/teachers/feature-highlights/2021-sem2/">2021 Sem 2</a></li></ul>
 
 <h2 id="build-the-sls-card-game">Build: The SLS Card Game</h2>
 <hr>
