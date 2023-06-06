@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Discover
 ---
 <h1>Access App Library</h1>
-<hr>
+
 <p>The App Library contains a list of whitelisted Apps that can be launched within SLS. You can launch the App within SLS to get redirected to your specific Assignment page created by your teacher or find out more about it by clicking the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg">.</p>
 
 <p><u>Note</u>: You are only able to view Apps that you have been permitted to access.</p>
