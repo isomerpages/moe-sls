@@ -12,7 +12,7 @@ third_nav_title: Customise
 <li>You can either select 1 from the 24 preset avatars, or build your own.</li>
 <li>To build your own Avatar, click <strong>Build My Own</strong>. </li>
 <li>You can select the base colour of your Avatar by clicking the colour palette. <img style="width: 80%" src="/images/1Student/Cu-AvatarPalette.png"></li>
-<li>Select an Expression, Headgear, Eyewear, Costume, and Object from the respective tabs. Click the <strong>Left</strong> and <strong>Right</strong> arrows at the bottom to view the available options for each tab.</li>
+<li>Select an Expression, Headgear, Eyewear, Costume, and Object from the respective tabs. Click the <strong>left</strong> and <strong>right</strong> arrows at the bottom to view the available options for each tab.</li>
 <li>To return to the preset Avatars, click <strong>Choose Presets</strong>.</li>
 <li>Click <strong>Save</strong> to proceed.</li>
 </ol>
