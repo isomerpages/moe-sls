@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Notify
 ---
 <h1>About Notifications (New)</h1>
+
   <ol>
     <li>You will receive Notifications when:
       <ul>
@@ -24,6 +25,5 @@ third_nav_title: Notify
 			<br><u>Note</u>: The Bell icon will only reflect up to 99 unread Notifications.</li>
     <li>Unread Notifications are indicated with a yellow circle on the Notification Cards. <img src="/images/1Student/N-New.png"></li>
 	<u>Note</u>: You can choose to mark Notifications as read.
-    <li>Should you wish to receive SLS Notifications through your email, you may do so from <a target="_blank" href="/student-user-guide/customise/set-email-notifications/">here</a><strong> (New in R19)</strong>.</li>
+    <li>Should you wish to receive SLS Notifications through your email, you may do so from <a target="_blank" href="/student-user-guide/customise/set-email-notifications/">here</a>.<strong> (New in R19)</strong>.</li>
   </ol>
-	
