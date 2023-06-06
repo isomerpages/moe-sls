@@ -24,7 +24,7 @@ third_nav_title: Author
 </li>
 <li>Should there be an error message indicating “processing partially unsuccessful”, you may have to manually make some edits to the question. </li>
 </ol>
-<img style="width: 80%;" src="/images/2Teacher/AU-AddQTI3.png">
+<img style="width: 100%;" src="/images/2Teacher/AU-AddQTI3.png">
 
 <h2 id="considerations-when-creating-a-qti-file">Considerations when creating a QTI File</h2>
 <hr>
