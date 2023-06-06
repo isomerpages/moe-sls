@@ -33,8 +33,8 @@ third_nav_title: Assign
 <li><strong>Class Group</strong> - You can choose to view All Class Groups, Pinned Class Groups, or My Class Groups.</li>
 </ul>
 </li>
-<li>Click the individual Assignment ard to access the Assignment.</li>
-<li><p>You can choose to view your Assignments in Card view <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">.</p>
+<li>Click the individual Assignment card to access the Assignment.</li>
+<li><p>You can choose to view your Assignments in card view <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">.</p>
 </li>
 <li><p>Assignments in List view are sorted according to the latest Start Date. You may also sort the assignments according to the Assignment Title, and Due Date.</p>
 <p> <img src="/images/1Student/AS-AccessAssignment3.png"></p>
