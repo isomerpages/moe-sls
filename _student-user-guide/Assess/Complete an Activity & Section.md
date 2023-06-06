@@ -17,4 +17,5 @@ third_nav_title: Assess
 <li><p>If you have difficulty accessing an Activity/Section, seek assistance from your Teacher.</p>
 </li>
 </ol>
-<p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"><u>Did you know</u>: Sections with prerequisites will be restricted until you have completed all the <a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">Section Prerequisites</a>.</p>
+<img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"><u>Did you know</u>: 
+<p>Sections with prerequisites will be restricted until you have completed all the <a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">Section Prerequisites</a>.</p>
