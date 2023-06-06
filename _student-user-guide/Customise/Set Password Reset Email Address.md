@@ -9,12 +9,12 @@ third_nav_title: Customise
 <p>You should set a password reset email address in your profile. This will allow you to reset your password through a password reset link.</p>
 <ol>
 <li>Open the right menu and click <strong>Edit Profile</strong>.</li>
-<li>On the Profile page, select <strong>Set Email Address</strong> under Account Settings.</li>
+<li>On the Profile page, select <strong>Set Email Address</strong> under Account Settings.
 
-<p><img src="/images/1Student/Cu-EmailAddress.png"></p>
-<ul>
+	<p><img src="/images/1Student/Cu-EmailAddress.png"></p></li>
+
     <li>You will need to enter an email address under Alternate Email.</li>
-</ul>
+
 <li>Click <strong>Save</strong>.</li>
 </ol>
 <u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
