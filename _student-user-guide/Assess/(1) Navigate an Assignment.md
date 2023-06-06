@@ -21,7 +21,7 @@ third_nav_title: Assess
 </li>
 <li>To access a particular Activity within a Lesson/Section, select the Activity.</li>
 </ol>
-<p><img style="width: 50%;" src="/images/1Student/As-LessonPlan.png"></p>
+<p><img style="width: 80%;" src="/images/1Student/As-LessonPlan.png"></p>
 <h2 id="-navigate-an-assignment-using-activity-list-">Navigate an Assignment using Activity List</h2>
 <hr>
 <p>There are two different views for Activity Lists - Collapsed Activity List which only shows the Section alphabet and Activity number or the Full Activity List which shows the title of the Activities/Sections.</p>
@@ -44,7 +44,7 @@ third_nav_title: Assess
 <ol>
 <li>For some Assignments, your teacher may set prerequisites for each section to be unlocked. An assignment with Section Prerequisites will have a Restricted Section Status and a <strong>Lock</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Lock.png"> displayed on the Section Cover page. </li>
 <li><p>To view the prerequisites for a Section, click <strong>Prerequisites ( )</strong> on the Section Cover page. Click the Section from the Section Prerequisites pop-up to move to the uncompleted Section.</p>
-<p><img style="width: 50%;" src="/images/1Student/As-Prerequisite.png"></p>
+<p><img style="width: 80%;" src="/images/1Student/As-Prerequisite.png"></p>
 	<p> <u>Note</u>: The number in parenthesis shows the number of Section Prerequisites you are required to complete before you can access the restricted section. </p>
 </li>
 <li><p>Section Prerequisites are indicated with a <strong>Lock</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Lock.png"> in the Lesson Plan and Activity List.</p>
