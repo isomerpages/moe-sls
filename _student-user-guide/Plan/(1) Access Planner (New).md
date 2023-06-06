@@ -7,6 +7,7 @@ third_nav_title: Plan
 <h1>1. Access Planner (New)</h1>
   <p>Planner allows you to manage your personal learning schedule and timetable. You can create events and view Assignments which are due soon.</p>
   <h2>Navigating to the Page</h2>
+	<hr>
   <ol>
     <li>There are three ways to access the <strong>Planner:</strong>
       <ol style="list-style-type: lower-alpha;">
@@ -19,7 +20,7 @@ third_nav_title: Plan
 	
 <li>From steps A and B above, select the <strong>Class Group</strong> that you wish to view. Click <strong>Apply</strong> to proceed. The total number of Class Groups that appear are indicated in parenthesis.<br><br><u>Note:</u> To make certain class groups appear as default, you can pin them in the Class Groups page. You may refer to <a target="_blank" href="/student-user-guide/organise/access-class-groups/">Pin Class Groups</a> for how to do so.</li>
     <li>The calendar may be viewed by Day, Week or Month. Click the relevant tab for your preferred view.</li>
-    <li>To view other dates, click on the <strong>Left</strong> or <strong>Right arrows</strong> to see the past or future respectively.</li>
+    <li>To view other dates, click the <strong>left</strong> or <strong>right arrows</strong> to see the past or future respectively.</li>
     <li>To return to the current date, click <strong>Today</strong>.</li>
     <li>To know what events are happening at the moment, refer to the red line.</li>
   </ol>
