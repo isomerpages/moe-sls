@@ -11,7 +11,7 @@ third_nav_title: Assign
 <h3 id="about-assignments">About Assignments</h3>
 <hr>
 <p>Each assignment contains the following information, reflected on each Assignment Card: </p>
-<p><img src="/images/1Student/AS-AboutAssignment1.png"></p>
+
 <ol>
 <li>Title - Assignment Title</li>
 <li>Class Group - Class Group to which the Assignment was given</li>
