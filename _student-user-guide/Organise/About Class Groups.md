@@ -21,10 +21,9 @@ third_nav_title: Organise
 <li>Assignments assigned to the Class Group</li>
 <li>Class Group Resources</li>
 <li><a target="_blank" href="/student-user-guide/collaborate/access-the-forum/">Forum</a></li>
-<li><p>Apps that can be installed</p>
+	<li><p>Apps that can be installed</p></li></ul>
 <p><u>Note</u>: When you re-enter a Class Group, you will be on the tab that you were last on.</p>
-</li>
-</ul>
+
 </li>
 <li><p>From within a Class Group, you are able to pin the Class Group by clicking the <strong>Pin</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pin24.svg">. </p>
 </li>
