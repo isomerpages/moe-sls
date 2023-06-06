@@ -66,7 +66,7 @@ third_nav_title: Discover
 <li>Select the checkbox to the left of the Topic, Subtopics, or Learning Outcome to narrow down the search results.</li>
 </ol>
 
-<a target="_blank" href="/images/2Teacher/D-AddTopicFilters.png"><img style="width: 50%;" alt="AddTopicFilters" src="/images/2Teacher/D-AddTopicFilters.png"></a>
+<img style="width: 50%;" alt="AddTopicFilters" src="/images/2Teacher/D-AddTopicFilters.png">
 
 <h2>View Search Results</h2>
 
@@ -94,7 +94,7 @@ third_nav_title: Discover
 <li>To make a copy of the Lesson, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson Card, followed by <strong>Copy To</strong>. Click <a target="_blank" href="/teacher-user-guide/organise/copy-lessons-within-my-drive/">here</a> to learn how to copy a resource to My Drive.</li>
 </ol>
 
-<h2>Video Tutorial (Updated)</h2>
+<h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Search for Resources" src="https://www.youtube.com/embed/IBlWycX4PBE" height="100%" width="100%"></iframe>
