@@ -4,7 +4,7 @@ permalink: /student-user-guide/discover/attempt-self-study-resources/
 description: ""
 third_nav_title: Discover
 ---
-<h1>(3) Attempt Self-Study Resources (New)</h1><hr>
+<h1>(3) Attempt Self-Study Resources (New)</h1>
 
 <p>You can attempt Self-Study Resources from 3 locations:</p>
 
