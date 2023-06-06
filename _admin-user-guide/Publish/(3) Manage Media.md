@@ -37,10 +37,9 @@ third_nav_title: Publish
 <li>You can search for Media Resources by entering your search terms in the Search Bar. </li>
 <li>Press "Enter" <em></em>to return your search results.</li>
 <li>To add more search filters, click <strong>Filter</strong>. </li>
-<li>Under <strong>Resource</strong>, select:<ul>
-<li><strong>Media</strong></li>
-</ul>
-</li>
+<li>Under <strong>Resource</strong>, select <strong>Media</strong>.</li>
+
+
 <li>Select from the different <strong>Resource Types</strong>.</li>
 <li>Under <strong>Owner Group</strong>, select from:<ul>
 <li><strong>All</strong></li>
