@@ -9,7 +9,7 @@ third_nav_title: Author
 <p>From R19,</p>
 <ul>
 <li><p>You are able to <strong>Expand</strong> and <strong>Collapse</strong> the Rich Text Editor field by clicking the respective icons.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AboutRichText1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-AboutRichText1.png"></p>
 </li>
 <li><p>You can simply click outside of the component to save and click on the component to edit.</p>
 </li>
