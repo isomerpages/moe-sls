@@ -20,10 +20,11 @@ third_nav_title: Author
 <li>File Submission: Allow file submission checkbox will be checked. If checked, students have the option of uploading a file when they submit their responses. Students can upload up to 10 files. <a target="_blank" href="/teacher-user-guide/author/file-size-limits/">File limits</a> are based on the file type.</li>
 <li>Language Feedback (EL): Learning Feedback Assistance (LFA) is currently undergoing pilot testing in participating schools.</li>
 <li><p>Mathematics Feedback: The question set using Mathematics Feedback will appear in the Pre-populated Student Answer Field. You can edit the question by clicking the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">or delete by clicking the <strong>Trash</strong> icon<img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">. Mathematics Feedback provides feedback (and Marks if checked) to students after they submit their response.</p>
-	<p><u>Note</u>: File Submission and Suggested Answer Field is disabled when using Mathematics Feedback.</p>
+
 </li>
 </ul>
 </li>
+	<p><u>Note</u>: File Submission and Suggested Answer Field is disabled when using Mathematics Feedback.</p>
 <li><p>In the Question Body field, enter the question.</p>
 </li>
 <li>Click outside the Component to <strong>Save</strong>.</li>
