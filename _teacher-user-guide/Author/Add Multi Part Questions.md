@@ -17,7 +17,7 @@ third_nav_title: Author
 <li>In the details subpage, you can tick the box beside the question parts to select certain parts of the Multi-Part Question to add.</li>
 <li><p>Click <strong>Choose</strong> to add the questions to your Lesson.
 Note: Selected questions will be added to the same level. (If you add parts a, bi and cii of the same multi-part question, the three questions will be added at the same level e.g. 1, 2, 3 or a, b, c</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AddMPQ2.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-AddMPQ2.png"></p>
 </li>
 </ul>
 </li>
@@ -36,7 +36,7 @@ Note: Selected questions will be added to the same level. (If you add parts a, b
 </ul>
 </li>
 <p><u>Note</u>: Multi-Part Questions can be added for a maximum of two sub-levels. This will result in questions bearing the following numbering system - Q1 a.i. and 1 a.ii.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AddMPQ3.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-AddMPQ3.png"></p>
 <li><p>Click outside the Component to <strong>Save</strong>.</p>
 </li>
 </ol>
