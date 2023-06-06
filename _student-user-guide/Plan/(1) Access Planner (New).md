@@ -7,11 +7,11 @@ third_nav_title: Plan
 <h1>1. Access Planner (New)</h1>
   <p>Planner allows you to manage your personal learning schedule and timetable. You can create events and view Assignments which are due soon.</p>
   <h2>Navigating to the Page</h2>
-	<hr>
+<hr>
   <ol>
     <li>There are three ways to access the <strong>Planner:</strong>
       <ol style="list-style-type: lower-alpha;">
-        <li>From the homepage, click the <strong>View Planner</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/CalendarOpen.svg"></li>
+        <li>From the homepage, click the <strong>View Planner</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/CalendarOpen.svg">.</li>
         <li>Open the left menu and click <strong>Planner</strong>.</li>
         <li>Open your <strong>Class Group</strong> and click the <strong>Planner</strong> tab.</li>
       </ol>
@@ -25,4 +25,5 @@ third_nav_title: Plan
     <li>To know what events are happening at the moment, refer to the red line.</li>
   </ol>
 <img src="/images/1Student/P-Calendar.png">	
-  <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did you know</u>: The <strong>Assignments Due</strong> subpage of the Planner will only appear if there are assignments due today or in the next 3 days.</p>
+  <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did you know</u>: 
+	</p><p>The <strong>Assignments Due</strong> subpage of the Planner will only appear if there are assignments due today or in the next 3 days.</p>
