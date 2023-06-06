@@ -23,9 +23,9 @@ third_nav_title: Author
 </li>
 <li><p>All Activities/Sections in the Lesson - Click <strong>Show Activities</strong> to see all Activities in a Section. The number of Activities in a Section is shown in parenthesis ( ).</p>
 </li>
-<li><p>View in new tab - Click the <strong>Expand</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/external-link.svg"> to view a Lesson/Activity/Section in a new tab.</p>
-	<p>  <u>Note</u>: This will not create a new Lesson in your Drive and you will be unable to edit the Lesson/Activity/Section.</p>
-</li>
+<li><p>View in new tab - Click the <strong>Expand</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/external-link.svg"> to view a Lesson/Activity/Section in a new tab.</p></li></ul>
+<p><u>Note</u>: This will not create a new Lesson in your Drive and you will be unable to edit the Lesson/Activity/Section.</p>
+<ul>
 <li><p>Other Information - Created by, Last Edited by and Keyword Tags</p>
 </li>
 </ul>
