@@ -13,9 +13,9 @@ third_nav_title: Author
 <ul>
 <li>Subject</li>
 <li><p>Level</p>
-	<p><u>Note</u>: Click <strong>Guided Search</strong> to search for specific words/phrases.</p>
 </li>
 </ul>
+	<p><u>Note</u>: Click <strong>Guided Search</strong> to search for specific words/phrases.</p>
 </li>
 <li><p>Click <strong>Apply</strong> to apply your filters.</p>
 </li>
