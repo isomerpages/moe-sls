@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Frequently Asked Questions
 ---
 <h1 id="technical-support-and-passwords">Technical Support and Passwords</h1>
-<h2 id="overview-of-sls-system">Overview of SLS System</h2>
+<h2 id="overview-of-sls-system">Overview of the SLS System</h2>
 <hr>
 <ol>
 <li><p><strong>What is SLS?</strong> The Singapore Student Learning Space (SLS) is one of MOE’s key initiatives to transform the learning experiences of Singaporean students through the purposeful use of technology to enable students to engage in different learning modes, including self-directed and collaborative learning. All school leaders, teachers and students in the national school system have access to the SLS.</p>
