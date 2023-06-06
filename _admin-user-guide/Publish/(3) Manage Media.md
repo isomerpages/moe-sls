@@ -27,12 +27,10 @@ third_nav_title: Publish
 <li>Copyright Details,</li>
 <li>Permission Details</li>
 <li>Where the Media Object is used in</li>
-<li><p>Status History by clicking <strong>View Status History</strong></p>
+	<li><p>Status History by clicking <strong>View Status History</strong></p></li>
+	</ul></li></ol>
 <p><u>Note</u>: You are unable to make any edits to Media Object from SLS. </p>
-</li>
-</ul>
-</li>
-</ol>
+
 <h2 id="search-for-media">Search for Media</h2>
 <hr>
 <ol>
