@@ -47,7 +47,7 @@ description: ""
             Google Chrome 92 and later</td></tr><tr><td>iOS 14 and later</td><td>Safari 14 and later
             Google Chrome 92 and later</td></tr>    <tr><td>Android 10 and later</td><td>Google Chrome 92 and later</td></tr>
 <tr><td>ChromeOS 110 and later</td><td>Google Chrome 110 and later</td></tr></tbody></table>
-<p>If you are having trouble even though your browser meets the above requirements, you can find self-help steps on the <a target="_blank" href="../user-guide/vle/logintroubleshooting/index.html">SLS Troubleshooting page</a>.</p>
+<p>If you are having trouble even though your browser meets the above requirements, you can find self-help steps on the <a target="_blank" href="/login-troubleshooting/authentication/index/">SLS Troubleshooting page</a>.</p>
 <li><strong>Who can users contact for technical support?</strong>
 <p>For assistance on login and browser issues, users are advised to refer to the <a target="_blank" href="/login-troubleshooting/authentication/index/">SLS Troubleshooting page</a>.</p>
 </li>
