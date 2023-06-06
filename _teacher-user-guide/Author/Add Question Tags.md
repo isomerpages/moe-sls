@@ -16,7 +16,7 @@ third_nav_title: Author
 <li>The Component Details card can be expanded/hidden by clicking the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg">.</li>
 <li>To edit the Question Details card, click the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg">. </li>
 <li><p>To include the Question in the Learning Progress, check the box beside <strong>Include in Learning Progress</strong>. You can also add Keyword Tags and Question Tags. </p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AddQuestionTag1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-AddQuestionTag1.png"></p>
 	<p><u>Note</u>: You will need to add a Question Tag in order to include the question in the Learning Progress.</p>
 </li>
 <li><p>Click the dropdown arrow located on the right of the Question Tag field.</p>
@@ -30,7 +30,7 @@ third_nav_title: Author
 <li>Click the upward arrow on the Question Tag field to close the selection.</li>
 <li>Alternatively, you may click <strong>Copy Tags From Lesson</strong> to add the same tags from Lesson Tags to your Question Tags.</li>
 <li><p>Click the <strong>Save</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AddQuestionTag2.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-AddQuestionTag2.png"></p>
 </li>
 </ol>
 <h2 id="-add-more-question-tags-not-advised-">Add More Question Tags (Not Advised)</h2>
