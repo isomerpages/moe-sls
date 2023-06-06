@@ -18,8 +18,9 @@ third_nav_title: Author
 <tbody>
 <tr>
 <td>Documents</td>
-<td>docx/xlsx/pptx/pdf/odt/ods/odp/
-odg/odf/key/pps/pages/numbers</td>
+<td>docx/xlsx/pptx/pdf/odt/ods/
+odp/odg/odf/key/pps/pages/
+	numbers</td>
 <td>50 MB</td>
 <td>50 MB</td>
 </tr>
@@ -31,14 +32,15 @@ odg/odf/key/pps/pages/numbers</td>
 </tr>
 <tr>
 <td>Audio files</td>
-<td>mp3/ogg/webm/mpa/wav/wma/m4a</td>
+<td>mp3/ogg/webm/mpa/wav/wma/
+	m4a</td>
 <td>50 MB</td>
 <td>50 MB</td>
 </tr>
 <tr>
 <td>Video</td>
-<td>mp4/m4v/ogv/avi/mov/
-mpg/mpeg/wmv/webm</td>
+<td>mp4/m4v/ogv/avi/mov/mpg/
+	mpeg/wmv/webm</td>
 <td>500 MB</td>
 <td>500 MB</td>
 </tr>
