@@ -43,20 +43,20 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
 		<img style="width: 25%;" src="/images/2Teacher/D-AddExistingLesson.png">
   </li>
   <li>
-    <p>Select the Questions you wish to add to your Activity by selecting the relevant <strong>Question Cards</strong>.</p>
+    <p>Select the Questions you wish to add to your Activity by selecting the relevant <strong>Question cards</strong>.</p>
   </li>
   <li>
     <p>To add your selected Questions, click <strong>Choose</strong>.</p>
   </li>
   <li>
-    <p>The chosen Question will inherit the Question Details from the Question in Library or Starred Resources. To edit the Question details, click the <strong>Settings</strong> icon in the Question Card.</p>
+    <p>The chosen Question will inherit the Question Details from the Question in Library or Starred Resources. To edit the Question details, click the <strong>Settings</strong> icon in the Question card.</p>
   </li>
 </ol>
 <h2>Add Existing Questions from File (QTI)</h2>
 <hr>
 <ol>
   <li>
-    <p>In the Lesson Editor, select an Activity and hover your mouse over <strong>Questions</strong> in the Component Bar, followed by <strong>Question from file (QTI)</strong>.</p>
+    <p>In the Lesson Editor subpage, select an Activity and hover your mouse over <strong>Questions</strong> in the Component Bar, followed by <strong>Question from file (QTI)</strong>.</p>
   </li>
   <li>
     <p>Upload a compatible <a target="_blank" href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/">QTI file</a> and click <strong>Upload</strong></p>
