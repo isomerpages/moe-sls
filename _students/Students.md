@@ -7,9 +7,9 @@ description: ""
 <p>Take charge of your learning! Explore new features as well as our growing library of resources.</p>
 <h2 id="feature-highlights">Feature Highlights</h2>
 <hr>
-<ul><li><a target="_blank" href="/students/feature-highlights/2022-2h/">2022 2H</a></li>
-  <li><a target="_blank" href="/students/feature-highlights/2022-1h/">2022 1H</a></li>
-  <li><a target="_blank" href="/students/feature-highlights/2021-2h/">2021 2H</a></li></ul>
+<ul><li><a target="_blank" href="/students/feature-highlights/2022-sem2/">2022 Sem 2</a></li>
+  <li><a target="_blank" href="/students/feature-highlights/2022-sem1/">2022 Sem 1</a></li>
+  <li><a target="_blank" href="/students/feature-highlights/2021-sem2/">2021 Sem 2</a></li></ul>
 <h2 id="student-initiated-learning">Student-Initiated Learning</h2>
 <hr>
 <ul><li><a target="_blank" href="/students/student-initiated-learning/">Student-Initiated Learning</a></li></ul>
