@@ -22,7 +22,7 @@ third_nav_title: Discover
   <li>Audio-Response Question</li>
 </ul>
 
-<p>In the Lesson Editor page, select an Activity and hover your mouse over <strong>Questions</strong> in the Component Bar, followed by <strong>Add From Existing</strong>. Select either <strong>Question from Library</strong>, <strong>Question from Starred Resources</strong>, or <strong>Question from file (QTI)</strong></p>
+<p>In the Lesson Editor page, select an Activity and hover your mouse over <strong>Questions</strong> in the Component Bar, followed by <strong>Add From Existing</strong>. Select either <strong>Question from Library</strong>, <strong>Question from Starred Resources</strong>, or <strong>Question from file (QTI)</strong>.</p>
 <img src="/images/2Teacher/D-AddExistingComponent.png">
 
 <h2>Add Existing Questions from Library and Starred Resources</h2>
@@ -59,7 +59,7 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
     <p>In the Lesson Editor, select an Activity and hover your mouse over <strong>Questions</strong> in the Component Bar, followed by <strong>Question from file (QTI)</strong>.</p>
   </li>
   <li>
-    <p>Upload a compatible <a href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/">QTI file</a> and click <strong>Upload</strong></p>
+    <p>Upload a compatible <a target="_blank" href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/">QTI file</a> and click <strong>Upload</strong></p>
   </li>
   <li>
     <p>Once the upload is complete, the questions will be displayed in the Activity.</p>
@@ -76,7 +76,7 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
 
 <p><u>Note</u>: Only images can be added on a Lesson Cover from Library and Starred Resources.</p>
 
-<p>The following media files of Lessons and Courses can be added from My Drive,&nbsp;Community Gallery,&nbsp;MOE Library, and Starred Resources.</p>
+<p>The following media files of Lessons and Courses can be added from My Drive, Community Gallery, MOE Library, and Starred Resources.</p>
 
 <ul>
   <li>Images</li>
@@ -92,16 +92,16 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
 
 <ol>
   <li>
-    <p>When editing a Component allowing Rich Text, click the&nbsp;<strong>Add Media</strong>&nbsp;icon&nbsp;
+    <p>When editing a Component allowing Rich Text, click the&nbsp;<strong>Add Media</strong> icon 
 	<img style="width:1.5rem; display: inline;" src="/images/Icons/PaperClip.svg">.	
   </p></li>
   <li>
-    <p>Click&nbsp;<strong>Add File from Library</strong>&nbsp;or&nbsp;<strong>Add File from Starred Resources</strong>&nbsp;to add an existing media file or&nbsp;<strong>Upload File</strong>&nbsp;to upload a file from your device.</p>
+    <p>Click <strong>Add File from Library</strong> or <strong>Add File from Starred Resources</strong> to add an existing media file or <strong>Upload File</strong> to upload a file from your device.</p>
   </li>
   <li>
     <p>Teachers can search for Media in their Library using the Search Bar. Click <strong>Filter</strong> to filter the Resource Type. Click <strong>Apply</strong> and <strong>Apply Selected Filters</strong> to proceed.</p>
   </li>
   <li>
-    <p>To insert a Media file into the Lesson, click the corresponding&nbsp;Media Object card.</p>
+    <p>To insert a Media file into the Lesson, click the corresponding Media Object card.</p>
   </li>
 </ol>
