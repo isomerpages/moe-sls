@@ -19,7 +19,7 @@ third_nav_title: Administer
 <h2 id="verification-of-roles">Verification of Roles</h2>
 <hr>
 <p>Verification of SLS School Admin role will take place monthly and are generally performed by vice-principals. It will last for two weeks, from 14th to 27th of each month. </p>
-<h2 id="marking-accounts-roles-for-removal">Marking accounts/roles for removal</h2>
+<h2 id="marking-accounts-roles-for-removal">Marking Accounts/Roles for Removal</h2>
 <hr>
 <ol>
 <li>Open the left menu and click<strong> Administration</strong> followed by <strong>Verify User</strong>.</li>
