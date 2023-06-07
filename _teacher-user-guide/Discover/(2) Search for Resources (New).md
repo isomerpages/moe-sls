@@ -89,7 +89,7 @@ third_nav_title: Discover
 
 <img style="width: 25%;" alt="LessonCard" src="/images/2Teacher/D-LessonCard.png">
 
-<li>To view the Lesson Details, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson card, followed by <strong>View Details</strong>. Click the <strong>Expand</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/external-link.svg">to open the Lesson in a new tab.</li>
+<li>To view the Lesson Details, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson card, followed by <strong>View Details</strong>. Click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg"> to open the Lesson in a new tab.</li>
 <li>To view the Lesson Reviews, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson card, followed by <strong>View Reviews</strong>. Click <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">here</a> to learn how to leave a Review.</li>
 <li>To make a copy of the Lesson, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson card, followed by <strong>Copy To</strong>. Click <a target="_blank" href="/teacher-user-guide/organise/copy-lessons-within-my-drive/">here</a> to learn how to copy a resource to My Drive.</li>
 </ol>
