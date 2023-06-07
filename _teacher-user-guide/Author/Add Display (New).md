@@ -9,7 +9,7 @@ third_nav_title: Author
 <ol>
 <li>Hover over Display in the Component Bar to expand the list.</li>
 <li>You can add the following types of Display:<ul>
-<li>Page-Break (NEW)</li>
+<li>Page-Break (New)</li>
 <li>2-Columns</li>
 <li>3-Columns</li>
 <li>Accordion</li>
