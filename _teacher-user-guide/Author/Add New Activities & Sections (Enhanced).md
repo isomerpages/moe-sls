@@ -10,7 +10,7 @@ third_nav_title: Author
 <ol>
 <li>You will be directed to an untitled Activity page in a new Lesson. </li>
 <li><p>You can rename the Lesson/Section Title by clicking on the titles on the top menu bar and save by clicking outside of it.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AddNewActivitySection1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-AddNewActivitySection1.png"></p>
 </li>
 <li><p>You can then add the Components in the Activity page from the Component Bar. </p>
 </li>
@@ -27,13 +27,13 @@ third_nav_title: Author
 <p>In the Lesson Editor page, there are multiple ways to add an Activity/Section.</p>
 <ul>
 <li><p>Click <strong>Add New</strong> below the Component Bar or click <strong>+</strong> on the Collapsed Activity List.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AddNewActivitySection2.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-AddNewActivitySection2.png"></p>
 </li>
 <li><p>Click <strong>New</strong> or <strong>Add New</strong> in Full Activity List.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/AU-AddNewActivitySection3.png"></p>
 </li>
 <li><p>Click <strong>Add New</strong> in Lesson Plan.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AddNewActivitySection4.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-AddNewActivitySection4.png"></p>
 </li>
 </ul>
 <h2 id="section-covers">Section Covers</h2>

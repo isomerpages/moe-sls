@@ -73,9 +73,9 @@ third_nav_title: Discover
 <hr>
 
 <ol>
-<li>You can sort the resources by&nbsp;<em>Relevance&nbsp;</em>to your search term(s), <em>Popularity</em> <strong>(New in R19)</strong>, or according to the date of&nbsp;the latest&nbsp;edit. You can also view the search results in Card or List view by clicking 
+<li>You can sort the resources by&nbsp;<em>Relevance </em>to your search term(s), <em>Popularity</em> <strong>(New in R19)</strong>, or according to the date of the latest edit. You can also view the search results in card or List view by clicking 
 <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png">	and <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">
-</li><li>Click the <strong>Lesson Card</strong> to enter the Lesson in a new tab. On the Lesson Card, you will be able to view the following information:</li>
+</li><li>Click the <strong>Lesson card</strong> to enter the Lesson in a new tab. On the Lesson card, you will be able to view the following information:</li>
 <ul>
 <li>Lesson Location</li>
 <li>Resource Title</li>
@@ -85,13 +85,13 @@ third_nav_title: Discover
 <li>Number of Reviews (for Lessons only) <strong>(New in R19)</strong></li>
 </ul>
 
-<p><strong>Note</strong>: Resources that are downloadable can be downloaded from the Resource Card.</p>
+<p><strong>Note</strong>: Resources that are downloadable can be downloaded from the Resource card.</p>
 
 <img style="width: 25%;" alt="LessonCard" src="/images/2Teacher/D-LessonCard.png">
 
-<li>To view the Lesson Details, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson Card, followed by <strong>View Details</strong>. Click the <strong>Expand</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/external-link.svg">to open the Lesson in a new tab.</li>
-<li>To view the Lesson Reviews, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson Card, followed by <strong>View Reviews</strong>. Click <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">here</a> to learn how to leave a Review.</li>
-<li>To make a copy of the Lesson, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson Card, followed by <strong>Copy To</strong>. Click <a target="_blank" href="/teacher-user-guide/organise/copy-lessons-within-my-drive/">here</a> to learn how to copy a resource to My Drive.</li>
+<li>To view the Lesson Details, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson card, followed by <strong>View Details</strong>. Click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg"> to open the Lesson in a new tab.</li>
+<li>To view the Lesson Reviews, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson card, followed by <strong>View Reviews</strong>. Click <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">here</a> to learn how to leave a Review.</li>
+<li>To make a copy of the Lesson, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson card, followed by <strong>Copy To</strong>. Click <a target="_blank" href="/teacher-user-guide/organise/copy-lessons-within-my-drive/">here</a> to learn how to copy a resource to My Drive.</li>
 </ol>
 
 <h2>Video Tutorial</h2>

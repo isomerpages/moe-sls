@@ -13,11 +13,11 @@ third_nav_title: Discover
 <hr>
 <ol>
 <li>Open the left menu, and click <strong>Resources</strong> followed by <strong>App Library</strong>.</li>
-<li>The list of Apps that can be launched within SLS will be displayed. You can view the Apps either as Cards 
+<li>The list of Apps that can be launched within SLS will be displayed. You can view the Apps either as cards 
 <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> or in List <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg"> view by clicking <strong>View by</strong>.</li>
 <li>Click the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> to find out more about a particular App.</li>
-<li>To launch an App, click the App Card. Alternatively, click the <strong>Expand</strong> icon
-<img style="width:1.5rem; display: inline;" src="/images/Icons/external-link.svg"> from the App Details Card. You will be redirected to the App on a new tab.
+<li>To launch an App, click the App card. Alternatively, click the <strong>Expand</strong> icon
+<img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg"> from the App Details card. You will be redirected to the App on a new tab.
 </li>
 </ol>
 <h2>Star an App</h2>
@@ -32,5 +32,5 @@ third_nav_title: Discover
 <li>On the Apps Library page, enter your search terms, if any, (e.g. subtraction) in the Search Bar.
 <p><u>Note</u>: If you are unsure of what you are searching for, you can leave the Search Bar empty, and press Enter to return your search results.</p>
 </li><li>The default filters have been applied for you.<p><u>Note</u>: Click <strong>Guided Search</strong> to search for specific words/phrases.</p></li><li>Click the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> to find out more about a particular App.</li>
-<li>To launch an App, click the App Card. Alternatively, click the <strong>Expand</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/external-link.svg"> from the App Details Card. You will be redirected to the App on a new tab.
+<li>To launch an App, click the App card. Alternatively, click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg"> from the App Details card. You will be redirected to the App on a new tab.
 <p><u>Note</u>: You will need to enable pop-up in order for the App to launch.</p></li></ol>

@@ -53,7 +53,7 @@ third_nav_title: Author
 <li>Search and Filter the Media Object that you want to add from the global search bar.</li>
 <li>Click <strong>View Details</strong> in the Media Object card to see its details such as Title, Description, File Size and where it is Used in.</li>
 <li><p>Click <strong>Choose</strong> to insert the Media Object into the Lesson.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AddMedia1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-AddMedia1.png"></p>
 </li>
 </ol>
 <h2 id="-add-a-media-object-from-starred-resources-">Add a Media Object from Starred Resources</h2>
@@ -62,4 +62,4 @@ third_nav_title: Author
 <li>Click the <strong>Add Media</strong> icon and choose <strong>Add File from Starred Resources</strong>.</li>
 <li>Click <strong>View Details</strong> in the Media Object card to see its details such as Title, Description, File Size and where it is Used in.</li>
 <li>Click <strong>Choose</strong> to insert the Media Object into the Lesson.</li>
-</ol><img style="width: 80%;" src="/images/2Teacher/AU-AddMedia2.png">
+</ol><img style="width: 100%;" src="/images/2Teacher/AU-AddMedia2.png">

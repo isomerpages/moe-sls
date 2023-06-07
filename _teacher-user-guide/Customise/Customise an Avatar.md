@@ -22,6 +22,6 @@ third_nav_title: Customise
 </ol>
 <u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
 <p>The 24 preset Avatars were winning entries from the SLS Avatar Competition held from 4 October to 26 November 2021. Congratulations to all the winners!</p>
-<h3>Video Tutorial (Updated)</h3>
+<h3>Video Tutorial</h3>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Profile Management Avatar" src="https://www.youtube.com/embed/BZpFPozaGBw" height="100%" width="100%"></iframe></div>

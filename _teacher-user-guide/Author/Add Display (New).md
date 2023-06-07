@@ -9,7 +9,7 @@ third_nav_title: Author
 <ol>
 <li>Hover over Display in the Component Bar to expand the list.</li>
 <li>You can add the following types of Display:<ul>
-<li>Page-Break (NEW)</li>
+<li>Page-Break (New)</li>
 <li>2-Columns</li>
 <li>3-Columns</li>
 <li>Accordion</li>
@@ -17,7 +17,7 @@ third_nav_title: Author
 </li>
 </ol>
 <p><u>Note</u>: You can only add Text/Media, Multiple-Choice Questions, and Free-Response Questions components in multiple columns and accordions.</p>
-<h2 id="add-page-break-new-">Add Page-Break (NEW)</h2>
+<h2 id="add-page-break-new-">Add Page-Break (New)</h2>
 <hr>
 <ol>
 <li>Page-Break will create a page layout and you can add different Components from the Component Bar on each page.</li>
@@ -43,7 +43,7 @@ third_nav_title: Author
 <ol>
 <li>In the Multiple Columns view, hover over Text/Media, Question or Last Used to add a Component.</li>
 <li><p>Click <a target="_blank" href="/teacher-user-guide/author/add-components/">here</a> to find out more about the different Components.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AddDisplay2.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-AddDisplay2.png"></p>
 </li>
 <li><p>You can click on the Component to <strong>Edit</strong>, <strong>Move Up/Down</strong> or <strong>Delete</strong> a Multiple Column Component by clicking on respective icons.</p>
 </li>
@@ -58,4 +58,4 @@ third_nav_title: Author
 <li>You can click on the Component to <strong>Edit</strong>, <strong>Move Up/Down</strong> or <strong>Delete</strong> a Accordion Component by clicking on respective icons.</li>
 <li>You can add multiple Components by selecting from the Component Bar at the bottom.</li>
 <li>Click outside of the Component to <strong>Save</strong>.</li>
-</ol><img style="width: 80%;" src="/images/2Teacher/AU-AddDisplay3.png">
+</ol><img style="width: 100%;" src="/images/2Teacher/AU-AddDisplay3.png">

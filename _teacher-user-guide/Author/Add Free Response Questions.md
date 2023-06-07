@@ -20,10 +20,10 @@ third_nav_title: Author
 <li>File Submission: Allow file submission checkbox will be checked. If checked, students have the option of uploading a file when they submit their responses. Students can upload up to 10 files. <a target="_blank" href="/teacher-user-guide/author/file-size-limits/">File limits</a> are based on the file type.</li>
 <li>Language Feedback (EL): Learning Feedback Assistance (LFA) is currently undergoing pilot testing in participating schools.</li>
 <li><p>Mathematics Feedback: The question set using Mathematics Feedback will appear in the Pre-populated Student Answer Field. You can edit the question by clicking the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">or delete by clicking the <strong>Trash</strong> icon<img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">. Mathematics Feedback provides feedback (and Marks if checked) to students after they submit their response.</p>
-	<p><u>Note</u>: File Submission and Suggested Answer Field is disabled when using Mathematics Feedback.</p>
 </li>
 </ul>
 </li>
+<p><u>Note</u>: File Submission and Suggested Answer Field is disabled when using Mathematics Feedback.</p>
 <li><p>In the Question Body field, enter the question.</p>
 </li>
 <li>Click outside the Component to <strong>Save</strong>.</li>
@@ -35,7 +35,7 @@ third_nav_title: Author
 <li>Recommended Time - You can set the recommended time for the student to complete the</li>
 <li>Response Size <strong>(NEW)</strong> - You can adjust the response size (Short, Medium or Long) using dropdown menu to choose the response size best suited for the question.</li>
 </ul>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AddFRQ2.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-AddFRQ2.png"></p>
 <ul>
 <li><p>Pre-populated Student Answer - This allows you to insert an answer stem to scaffold students' responses, or to provide an image for students to work on. When students answer the question, they will be able to directly edit this answer stem or image. Students can edit the images provided by clicking the <strong>Edit Drawing</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/EditDrawing.svg"> and drawing on it.</p>
 	<p><u>Note</u>: You can also use Google Response to Pre-populated Student Answer.</p>

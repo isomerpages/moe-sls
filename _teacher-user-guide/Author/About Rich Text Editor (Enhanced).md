@@ -9,7 +9,7 @@ third_nav_title: Author
 <p>From R19,</p>
 <ul>
 <li><p>You are able to <strong>Expand</strong> and <strong>Collapse</strong> the Rich Text Editor field by clicking the respective icons.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AboutRichText1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-AboutRichText1.png"></p>
 </li>
 <li><p>You can simply click outside of the component to save and click on the component to edit.</p>
 </li>
@@ -28,7 +28,7 @@ third_nav_title: Author
 <li><a target="_blank" href="/teacher-user-guide/collaborate/attach-google-files/">Insert/Embed Files from Google</a> </li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-drawings/">Insert Drawings/Images</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/embed-youtube-videos/">Embed YouTube videos</a></li>
-<li><a target="_blank" href="/discover/embed-whitelisted-websites/">Embed App/Website</a></li>
+<li><a target="_blank" href="/teacher-user-guide/discover/embed-whitelisted-websites/">Embed App/Website</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-external-links/">Insert Hyperlinks</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-links-to-sections/">Insert Links to Sections</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-tooltips/">Insert Tooltips</a></li>

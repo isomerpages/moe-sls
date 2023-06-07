@@ -60,8 +60,6 @@ third_nav_title: Author
 </ol>
 <p><img style="width: 50%;" src="/images/2Teacher/AU-AddComponent4.png"></p>
 <p><u>Note</u>: You can only add Text/Media, Multiple-Choice Questions, and Free-Response Questions components in multiple columns and accordions.</p>
-<p>DID YOU KNOW?</p>
-<ul>
-<li>Three of the Last Used Components will be featured at the back of the Component Bar for easy access.</li>
+<u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
+<p>Three of the Last Used Components will be featured at the back of the Component Bar for easy access.</p>
 <img style="width: 50%;" src="/images/2Teacher/AU-AddComponent5.png">
-</ul>

@@ -32,4 +32,4 @@ third_nav_title: Author
 <li>Once done, click on the <strong>Save</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"><strong>.</strong></li>
 </ol>
 <p><u>Note</u>: Media Objects from MOE Library/Community Gallery cannot be edited by drawing or from its settings.</p>
-<img style="width: 80%;" src="/images/2Teacher/AU-EditMedia1.png">
+<img style="width: 100%;" src="/images/2Teacher/AU-EditMedia1.png">

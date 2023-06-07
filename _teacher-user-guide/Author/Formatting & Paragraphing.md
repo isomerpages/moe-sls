@@ -15,11 +15,11 @@ third_nav_title: Author
 <li>Change font colour <img style="width:1.5rem; display: inline;" src="/images/Icons/FontColour.svg"> </li>
 <li>Highlight text <img style="width:1.5rem; display: inline;" src="/images/Icons/Highlight.svg"> </li>
 <li>Create Numbered list <img style="width:1.5rem; display: inline;" src="/images/Icons/Numbering.svg"></li>
-<li><p>Create Bullet list <img style="width:1.5rem; display: inline;" src="/images/Icons/Bullet.svg">  </p>
-	<p><u>Note</u>: To underline a text, use the keyboard shortcut (Windows: control + U, MacOS: command + U)</p>
+<li><p>Create Bullet list <img style="width:1.5rem; display: inline;" src="/images/Icons/Bullet.svg"></p>
 </li>
 </ol>
 </li>
+<p><u>Note</u>: To underline a text, use the keyboard shortcut (Windows: control + U, MacOS: command + U)</p>
 <li><p>Click the <strong>dropdown</strong> arrow next to the respective icons to select the font or highlight colour. For more colour options, click on the Drawing/Image icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Drawing.svg">.</p>
 </li>
 <li>You are able to <strong>Undo</strong> and <strong>Redo</strong> your work by clicking the respective <img style="width:1.5rem; display: inline;" src="/images/Icons/Undo.svg"> and <img style="width:1.5rem; display: inline;" src="/images/Icons/Redo.svg"> icons in the Rich Text Editor.</li>

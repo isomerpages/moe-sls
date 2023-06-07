@@ -10,7 +10,7 @@ third_nav_title: Author
 <li><a target="_blank" href="/teacher-user-guide/customise/manage-my-templates/">My Templates</a></li>
 <li>SLS Templates</li>
 </ol>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AboutTemplates1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-AboutTemplates1.png"></p>
 <h2 id="my-templates">My Templates</h2>
 <hr>
 <ul>

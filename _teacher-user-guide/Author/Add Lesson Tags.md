@@ -21,7 +21,7 @@ third_nav_title: Author
 <li>Select the checkboxes next to the <strong>Topics</strong> or <strong>Sub-topics</strong> that are relevant to this Lesson/Course. You can click the <strong>downward arrow</strong> to expand the topics in order to see the Sub-topics.</li>
 <li>Click the upward arrow on the Lesson Tag field to close the selection.</li>
 <li><p>Click the <strong>Save</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-AddLessonTag1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-AddLessonTag1.png"></p>
 </li>
 </ol>
 <h2 id="-add-more-lesson-tags-">Add More Lesson Tags</h2>

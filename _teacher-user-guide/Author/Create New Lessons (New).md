@@ -22,16 +22,15 @@ third_nav_title: Author
 </li>
 <li>You can also use one of the Templates under My Templates or SLS Templates. Click here to learn how to Add Templates.</li>
 </ol>
-<p><img style="width: 80%;" src="/images/2Teacher/AU-CreateNewLesson1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-CreateNewLesson1.png"></p>
 <h2 id="-create-new-lesson-from-my-drive-">Create New Lesson from My Drive</h2>
 <hr>
 <ol>
 <li>Open the left menu on the Home page. Expand the <strong>Resources</strong> dropdown list and select <strong>My Drive</strong>. By default, you will be in the My Lessons.</li>
 <li>Click <strong>Add New</strong>.</li>
 <li>Select <strong>New Lesson</strong> from the menu.</li>
-	<p><img style="width: 80%;" src="/images/2Teacher/AU-CreateNewLesson2.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-CreateNewLesson2.png"></p>
 </ol>
-
 <h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">

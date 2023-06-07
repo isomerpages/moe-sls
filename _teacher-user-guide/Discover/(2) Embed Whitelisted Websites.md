@@ -20,7 +20,7 @@ third_nav_title: Discover
   <li>In Lesson Editor page, hover over Text/Media found within the Component Bar and select Website.</li>
   <li>On the Embed Website subpage, select the radio button side Enter URL or Enter Code.</li>
     <p><u>Note</u>: Search in the tables below to determine if a whitelisted website can be embedded via URL or Code.</p>
-  <li>Alternatively, click <strong>Choose From Approved Websites</strong> to select a whitelisted website. Click the <strong>Website Card</strong>, followed by <strong>Choose</strong> to proceed.</li>
+  <li>Alternatively, click <strong>Choose From Approved Websites</strong> to select a whitelisted website. Click the <strong>Website card</strong>, followed by <strong>Choose</strong> to proceed.</li>
   <li>The URL or Code would be displaced in the text box.</li>
   <li>You can adjust the Height and Width (in pixel) for the whitelisted website display.</li>
   <li>Click <strong>Save</strong> to confirm.</li>

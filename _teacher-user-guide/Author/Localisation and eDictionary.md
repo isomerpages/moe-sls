@@ -17,4 +17,4 @@ third_nav_title: Author
 <p><img style="width: 30%;" src="/images/2Teacher/AU-Localisation1.png"></p>
 <li>Click the dropdown under <strong>Language Localisation</strong> and <strong>E-Dictionary</strong>, and select the relevant option. </li>
 <li>If there are no further changes, click on the <strong>Save</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg">.</li>
-</ol><img style="width: 80%;" src="/images/2Teacher/AU-Localisation2.png">
+</ol><img style="width: 100%;" src="/images/2Teacher/AU-Localisation2.png">
