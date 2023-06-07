@@ -7,6 +7,7 @@ third_nav_title: Assess
 <h1 id="upload-file">Upload File</h1>
 <h2 id="-upload-file-">Upload File</h2>
 <hr>
+<p><u>Important</u>: If you receive an error message when uploading a file, please check that your file(s) do not exceed the file size limits and/or dimensions.</p>
 <ol>
 <li>Click the <strong>Upload File</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/PaperClip.svg"> to open the <strong>Upload File</strong> subpage.</li>
 <li><p>To upload a file,</p>
@@ -30,8 +31,9 @@ third_nav_title: Assess
 <tbody>
 <tr>
 <td><strong>Documents</strong></td>
-<td>docx/xlsx/pptx/pdf/odt/ods/odp/odg
-/odf/key/pps/pages/numbers</td>
+<td>docx/xlsx/pptx/pdf/odt/ods/
+odp/odg/odf/key/pps/pages/
+numbers</td>
 <td>50 MB</td>
 <td>50 MB</td>
 </tr>
@@ -43,13 +45,14 @@ third_nav_title: Assess
 </tr>
 <tr>
 <td><strong>Audio files</strong></td>                   
-<td>mp3/ogg/webm/mpa/wav/wma/m4a</td>
+<td>mp3/ogg/webm/mpa/wav/wma/
+m4a</td>
 <td>50 MB</td>
 <td>50 MB</td></tr>
 <tr>
 <td><strong>Video</strong></td>
-<td>mp4/m4v/ogv/avi/mov/
-mpg/mpeg/wmv/webm</td>
+<td>mp4/m4v/ogv/avi/mov/mpg
+/mpeg/wmv/webm</td>
 <td>500 MB</td>
 <td>500 MB</td>
 </tr>
