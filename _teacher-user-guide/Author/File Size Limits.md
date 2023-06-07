@@ -5,6 +5,7 @@ description: ""
 third_nav_title: Author
 ---
 <h1 id="file-size-limits">File Size Limits</h1>
+<p><u>Important</u>: If you receive an error message when uploading a file, please check that your file(s) do not exceed the file size limits and/or dimensions.</p>
 <p>In the SLS, media objects are grouped into the following categories, each with its respective file size limits:</p>
 <table>
 <thead>
