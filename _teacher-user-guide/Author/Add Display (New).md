@@ -17,7 +17,7 @@ third_nav_title: Author
 </li>
 </ol>
 <p><u>Note</u>: You can only add Text/Media, Multiple-Choice Questions, and Free-Response Questions components in multiple columns and accordions.</p>
-<h2 id="add-page-break-new-">Add Page-Break (NEW)</h2>
+<h2 id="add-page-break-new-">Add Page-Break (New)</h2>
 <hr>
 <ol>
 <li>Page-Break will create a page layout and you can add different Components from the Component Bar on each page.</li>
