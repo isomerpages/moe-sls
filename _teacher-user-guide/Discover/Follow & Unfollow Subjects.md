@@ -19,7 +19,7 @@ third_nav_title: Discover
 
 <img alt="FollowSubjects2" src="/images/2Teacher/D-FollowSubjects2.png">
 
-<li>To Unfollow a Subject, on the Followed Subject Card, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Unfollow Subject</strong>.</li>
+<li>To Unfollow a Subject, on the Followed Subject card, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Unfollow Subject</strong>.</li>
 	</ol>
 <h2>Video Tutorial</h2>
 <hr>
