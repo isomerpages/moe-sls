@@ -9,7 +9,7 @@ third_nav_title: Author
 <hr>
 <ol>
 <li>In the Lesson Editor page, hover over Question in the Component Bar.</li>
-<img style="width: 50%;" src="/images/2Teacher/AAU-AddFITB.png">
+<img style="width: 50%;" src="/images/2Teacher/AU-AddFITB.png">
 <li>You may insert an existing Question from Library, Starred Resources or QTI file by selecting <strong>Add from Existing</strong>.</li>
 <li>Click <strong>Fill-in-the-Blanks</strong> to create your own questions.</li>
 <li>In the Question Body field, enter the question.</li>
