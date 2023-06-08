@@ -29,4 +29,5 @@ third_nav_title: Plan
 </ol>
 <img style="width: 100%;" src="/images/2Teacher/P-Calendar.png">
 
-<u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>: The <strong>Assignments Due</strong> subpage of the Planner will only appear if there are assignments due today or in the next 3 days.<p></p>
+<u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
+<p>The <strong>Assignments Due</strong> subpage of the Planner will only appear if there are assignments due today or in the next 3 days.</p>
