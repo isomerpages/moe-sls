@@ -72,13 +72,5 @@ third_nav_title: Other Useful Information
     </tr>
     <tr>
       <td><p>Eliciting Voices of Students with Diverse Learning Needs – A Resource Guide</p></td>
-      <td><a download="" href="http://for.edu.sg/EVS"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/cotf.png"></a></td></tr>
-<tr>
-<td><p>Using SLS for Dept review</p></td>
-<td>
-<a target="_blank" href="/files/Userguide/Downloadable%20Resources/using sls for dept review.pdf">
-          <img style="width: 50%;" src="/images/2Teacher/Downloadable%20Resources/using sls for dept review.png">
-        </a>
-      </td>
-	</tr></tbody>
+      <td><a download="" href="http://for.edu.sg/EVS"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/cotf.png"></a></td></tr></tbody>
 </table>
