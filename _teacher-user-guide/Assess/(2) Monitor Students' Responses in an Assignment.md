@@ -21,7 +21,7 @@ third_nav_title: Assess
 <li>Assignment Status: based on the overall Completion Status of students assigned.</li>
 <li>Viewing Filter: to filter by Sections (if applicable).</li>
 <li>Download Marks button: to download a CSV file of students' marks to individual questions and their aggregated marks in the Assignment.</li>
-	<u>Note</u>: Responses can be downloaded from the aggregated student response for each question.
+<p>	<u>Note</u>: Responses can be downloaded from the aggregated student response for each question.</p>
 <li>Filter <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg">: to filter by Student's Assignment, Section and Activity completion status. Click the <strong>Filter</strong> icon to open the Activities in the Section.</li>
 <li>Toggle on/off to show marks under Setting <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> : to show/hide marks on the Heatmap.</li>
 <li>Legend <img style="width:1.5rem; display: inline;" src="/images/Icons/Legend.svg">: legend for the colours and icons used in the Heatmap.</li>
