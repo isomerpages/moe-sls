@@ -1,10 +1,10 @@
 ---
-title: Differentiate learning lessons and activities
+title: Differentiate Learning Lessons and Activities
 permalink: /teachers/sls-superhero-quiz/differentiate-learning-lessons-and-activities/
 description: ""
 third_nav_title: SLS Superhero Quiz
 ---
-<h1 class="page-title">Differentiate learning lessons and activities (#Differentiate_with_SLS)</h1>
+<h1 class="page-title">Differentiate Learning Lessons and Activities (#Differentiate_with_SLS)</h1>
   <h2>What it is</h2>
   <hr>
   <p>Teachers can make use of features on SLS to enable greater differentiation of learning to place, including:</p>

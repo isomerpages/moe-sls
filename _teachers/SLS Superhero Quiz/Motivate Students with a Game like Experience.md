@@ -1,10 +1,10 @@
 ---
-title: Motivate students with a game like experience
+title: Motivate Students with a Game like Experience
 permalink: /teachers/sls-superhero-quiz/motivate-students-with-a-game-like-experience/
 description: ""
 third_nav_title: SLS Superhero Quiz
 ---
-<h1 class="page-title">Motivate students with a game-like experience (#Gamify_with_SLS)</h1>
+<h1 class="page-title">Motivate Students with a Game like Experience (#Gamify_with_SLS)</h1>
 <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/Assess%2001.pdf"><img style="width:50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify%2001.png"></a>
   <h2>What it is</h2>
   <hr>

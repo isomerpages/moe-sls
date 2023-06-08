@@ -20,10 +20,11 @@ third_nav_title: Assess
 <ul>
 <li>Assignment Status: based on the overall Completion Status of students assigned.</li>
 <li>Viewing Filter: to filter by Sections (if applicable).</li>
-<li>Download Marks button: to download a CSV file of marks and/or responses.</li>
+<li>Download Marks button: to download a CSV file of students' marks to individual questions and their aggregated marks in the Assignment.</li>
+<p>	<u>Note</u>: Responses can be downloaded from the aggregated student response for each question.</p>
 <li>Filter <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg">: to filter by Student's Assignment, Section and Activity completion status. Click the <strong>Filter</strong> icon to open the Activities in the Section.</li>
 <li>Toggle on/off to show marks under Setting <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> : to show/hide marks on the Heatmap.</li>
-<li>Legend [insert Legend.svg]: legend for the colours and icons used in the Heatmap.</li>
+<li>Legend <img style="width:1.5rem; display: inline;" src="/images/Icons/Legend.svg">: legend for the colours and icons used in the Heatmap.</li>
 <li><p>Heatmap: table of students and their response data. All questions will be indicated in this table. Click the <strong>Section</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Section.svg"> to navigate to a Section. Within a Section, click the <strong>Activity</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityIcon.svg">, <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityOptional32.svg"> or <img style="width:1.5rem; display: inline;" src="/images/Icons/Quiz.svg"> to navigate to an Activity. Team Quizzes will be indicated with the <strong>Team</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/TeamSubmission.svg">. Alternatively, click the <strong>Filter</strong> icon  <img style="width:1.5rem; display: inline;" src="/images/Icons/FilterTo.svg"> beside a Section or Activity icon to filter a Section or an Activity. Within an Activity, click the <strong>Question Number</strong> in the table header to view the aggregated students' responses for that particular question.</p>
 	<p> <u>Note</u>:</p>
 <ul>
