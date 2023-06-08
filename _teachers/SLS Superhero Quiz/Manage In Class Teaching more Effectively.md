@@ -4,7 +4,7 @@ permalink: /teachers/sls-superhero-quiz/manage-in-class-teaching-more-effectivel
 description: ""
 third_nav_title: SLS Superhero Quiz
 ---
-<h1 class="page-title">Manage in-class teaching more effectively (#Enact_With_SLS)</h1>
+<h1 class="page-title">Manage In Class Teaching more Effectively (#Enact_With_SLS)</h1>
   <h2>What it is</h2>
   <hr>
   <p>You can use SLS to support in-class teaching by enabling students to work together on the same assignment or rewarding their good behavior.</p>
