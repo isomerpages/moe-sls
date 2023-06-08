@@ -4,7 +4,7 @@ permalink: /teachers/sls-superhero-quiz/empower-students-to-be-self-directed-lea
 description: ""
 third_nav_title: SLS Superhero Quiz
 ---
-<h1 class="page-title">Empower students to be self-directed learners (#Self_Study_With_SLS)</h1>
+<h1 class="page-title">Empower Students to be Self Directed Learners (#Self_Study_With_SLS)</h1>
 <div>
 <h2>What it is</h2>
 <hr>
