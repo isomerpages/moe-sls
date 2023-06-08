@@ -4,7 +4,7 @@ permalink: /teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/
 description: ""
 third_nav_title: SLS Superhero Quiz
 ---
-<h1 class="page-title">Digitise past year papers for practice (#Author_with_SLS)</h1>
+<h1 class="page-title">Digitise Past Year Papers for Practice (#Author_with_SLS)</h1>
   <h2>What it is</h2>
   <hr>
   <p>You can digitise your school’s past year exam questions from within SLS for your students’ revision.</p>
