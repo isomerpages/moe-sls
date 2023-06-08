@@ -34,7 +34,7 @@ third_nav_title: SLS Superhero Quiz
         </li>
         <li><a target="_blank" href="/teachers/sls-superhero-quiz/facilitating-schoolwide-pd/">Facilitating School-wide PD</a>
         </li>
-        <li><a target="_blank" href="/teachers/sls-superhero-quiz/track-students-learning-progress/">Track students’ Learning Progress</a>
+        <li><a target="_blank" href="/teachers/sls-superhero-quiz/track-students-learning-progress/">Track Students’ Learning Progress</a>
         </li>
         </ul>
         </td>
@@ -52,7 +52,7 @@ third_nav_title: SLS Superhero Quiz
             </li>
             <li><a target="_blank" href="/teachers/sls-superhero-quiz/conduct-eassessments-in-class/">Conduct e-Assessments in Class</a>
             </li>
-            <li><a target="_blank" href="/teachers/sls-superhero-quiz/track-students-learning-progress/">Track students’ Learning Progress</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/track-students-learning-progress/">Track Students’ Learning Progress</a>
             </li>
             </ul>
     </td>
@@ -69,11 +69,11 @@ third_nav_title: SLS Superhero Quiz
             </li>
             <li><a target="_blank" href="/teachers/sls-superhero-quiz/facilitating-schoolwide-pd/">Facilitating School-wide PD</a>
             </li>
-            <li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">Digitise past year papers for practice</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">Digitise Past Year Papers for Practice</a>
             </li>
-            <li><a target="_blank" href="/teachers/sls-superhero-quiz/encourage-curiosity-through-class-groups/">Encourage curiosity through Class Groups</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/encourage-curiosity-through-class-groups/">Encourage Curiosity through Class Groups</a>
             </li>
-            <li><a target="_blank" href="/teachers/sls-superhero-quiz/manage-in-class-teaching-more-effectively/">Manage in-class teaching more effectively</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/manage-in-class-teaching-more-effectively/">Manage In Class Teaching more Effectively</a>
             </li>
             </ul>
     </td>
@@ -87,11 +87,11 @@ third_nav_title: SLS Superhero Quiz
 			</td>    
         <td style="text-align: left; vertical-align: middle;">  
           <ul>
-            <li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">Assign past exam questions </a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">Assign Past Exam Questions</a>
             </li>
             <li><a target="_blank" href="/teachers/sls-superhero-quiz/conduct-eassessments-in-class/">Conduct e-Assessments in Class</a>
             </li>
-            <li><a target="_blank" href="/teachers/sls-superhero-quiz/encourage-curiosity-through-class-groups/">Encourage curiosity through Class Groups</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/encourage-curiosity-through-class-groups/">Encourage Curiosity through Class Groups</a>
             </li>
             </ul>
     </td>
@@ -105,13 +105,13 @@ third_nav_title: SLS Superhero Quiz
 			</td>   
         <td style="text-align: left; vertical-align: middle;">  
           <ul>
-            <li><a target="_blank" href="/teachers/sls-superhero-quiz/differentiate-learning-lessons-and-activities/">Differentiate learning lessons and activities</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/differentiate-learning-lessons-and-activities/">Differentiate Learning Lessons and Activities</a>
             </li>
-            <li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">Assign past exam questions </a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">Assign Past Exam Questions </a>
             </li>
             <li><a target="_blank" href="/teachers/sls-superhero-quiz/conduct-eassessments-in-class/">Conduct e-Assessments in Class</a>
             </li>
-            <li><a target="_blank" href="/teachers/sls-superhero-quiz/track-students-learning-progress/">Track students’ Learning Progress</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/track-students-learning-progress/">Track Students’ Learning Progress</a>
             </li>
             </ul>
       </td></tr>
@@ -128,11 +128,11 @@ third_nav_title: SLS Superhero Quiz
                 </li>
                 <li><a target="_blank" href="/teachers/sls-superhero-quiz/facilitating-schoolwide-pd/">Facilitating School-wide PD</a>
                 </li>
-                <li><a target="_blank" href="/teachers/sls-superhero-quiz/encourage-curiosity-through-class-groups/">Encourage curiosity through Class Groups</a>
+                <li><a target="_blank" href="/teachers/sls-superhero-quiz/encourage-curiosity-through-class-groups/">Encourage Curiosity through Class Groups</a>
                 </li>
-                <li><a target="_blank" href="/teachers/sls-superhero-quiz/empower-students-to-be-self-directed-learners/">Empower students to be self-directed learners</a>
+                <li><a target="_blank" href="/teachers/sls-superhero-quiz/empower-students-to-be-self-directed-learners/">Empower Students to be Self Directed Learners</a>
                 </li>
-                <li><a target="_blank" href="/teachers/sls-superhero-quiz/integrate-external-sites-and-applications/">Integrate external sites and applications</a>
+                <li><a target="_blank" href="/teachers/sls-superhero-quiz/integrate-external-sites-and-applications/">Integrate External Sites and Applications</a>
                 </li>
                 </ul>
         </td>
@@ -148,13 +148,13 @@ third_nav_title: SLS Superhero Quiz
         <ul>
           <li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-lessons-in-class-groups/">Co-create Lessons in Class Groups</a>
           </li>
-          <li><a target="_blank" href="/teachers/sls-superhero-quiz/motivate-students-with-a-game-like-experience/">Motivate students with a game-like experience</a>
+          <li><a target="_blank" href="/teachers/sls-superhero-quiz/motivate-students-with-a-game-like-experience/">Motivate Students with a Game-like Experience</a>
           </li>
-          <li><a target="_blank" href="/teachers/sls-superhero-quiz/nurture-collaboration-in-gamified-lessons/">Nurture collaboration in Gamified Lessons</a>
+          <li><a target="_blank" href="/teachers/sls-superhero-quiz/nurture-collaboration-in-gamified-lessons/">Nurture Collaboration in Gamified Lessons</a>
           </li>
-          <li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">Assign past exam questions</a>
+          <li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">Assign Past Exam Questions</a>
           </li>
-          <li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">Digitise past year papers for practice</a>
+          <li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">Digitise Past Year Papers for Practice</a>
           </li>
           </ul>
   </td>
@@ -170,7 +170,7 @@ third_nav_title: SLS Superhero Quiz
         <ul>
           <li><a target="_blank" href="/teachers/sls-superhero-quiz/conduct-eassessments-in-class/">Conduct e-Assessments in Class</a>
           </li>
-          <li><a target="_blank" href="/teachers/sls-superhero-quiz/track-students-learning-progress/">Track students’ Learning Progress</a>
+          <li><a target="_blank" href="/teachers/sls-superhero-quiz/track-students-learning-progress/">Track Students’ Learning Progress</a>
           </li>
           </ul>
   </td>
@@ -188,9 +188,9 @@ third_nav_title: SLS Superhero Quiz
           </li>
           <li><a target="_blank" href="/teachers/sls-superhero-quiz/create-professional-learning-circles/">Create Professional Learning Circles</a>
           </li>
-          <li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">Digitise past year papers for practice</a>
+          <li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">Digitise Past Year Papers for Practice</a>
           </li>
-          <li><a target="_blank" href="/teachers/sls-superhero-quiz/manage-in-class-teaching-more-effectively/">Manage in-class teaching more effectively</a>
+          <li><a target="_blank" href="/teachers/sls-superhero-quiz/manage-in-class-teaching-more-effectively/">Manage In Class Teaching more Effectively</a>
           </li>
           </ul>
   </td>
