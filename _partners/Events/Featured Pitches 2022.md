@@ -34,31 +34,31 @@ third_nav_title: Events
       <td>1</td>
       <td><a target="_blank" href="https://www.ebsco.com">EBSCO International, Inc.</a></td>
       <td>EBSCO offers a suite of feature-rich platforms and tools for building and administering library colllections, analysing suage, integrating with library systems and delivering content to end users.</td>
-      <td><a href="https://go.gov.sg/ebsco22" target="_blank"><img src="/images/Assets/PDF32.svg" style="width:50%;"></a></td>
+      <td><a href="https://go.gov.sg/ebsco22" target="_blank"><img src="/images/Icons/PDF32.svg" style="width:50%;"></a></td>
     </tr>
     <tr>
       <td>2</td>
       <td><a target="_blank" href="https://www.futurereadyacademy.com/">Future Ready Academy</a></td>
       <td>Empowers future-ready Leaders, Innovators, Entrepreneurs with digital and problem-solving skills.</td>
-      <td><a href="https://go.gov.sg/fra22" target="_blank"><img src="/images/Assets/PDF32.svg" style="width:50%;"></a></td>
+      <td><a href="https://go.gov.sg/fra22" target="_blank"><img src="/images/Icons/PDF32.svg" style="width:50%;"></a></td>
     </tr>
     <tr>
       <td>3</td>
       <td><a target="_blank" href="https://youtu.be/qocQgB3xVHg">Marshall Cavendish and Cerebry</a></td>
       <td>Marshall Cavendish has partnered Cerebry for SLS Pitch Day, and offers Cerebry's AI-powered content generation engine.</td>
-      <td><a href="https://go.gov.sg/mcc22" target="_blank"><img src="/images/Assets/PDF32.svg" style="width:50%;"></a></td>
+      <td><a href="https://go.gov.sg/mcc22" target="_blank"><img src="/images/Icons/PDF32.svg" style="width:50%;"></a></td>
     </tr>
     <tr>
       <td>4</td>
       <td><a target="_blank" href="https://www.noodlefactory.ai">Noodle Factory</a></td>
       <td>An AI-powered teaching assistant and learning tool that can enhance teaching and invigorate learning.</td>
-      <td><a href="https://go.gov.sg/nf22" target="_blank"><img src="/images/Assets/PDF32.svg" style="width:50%;"></a></td>
+      <td><a href="https://go.gov.sg/nf22" target="_blank"><img src="/images/Icons/PDF32.svg" style="width:50%;"></a></td>
     </tr>
     <tr>
       <td>5</td>
       <td><a target="_blank" href="https://www.ottodot.com">Ottodot</a></td>
       <td>Make learning fun through educational games.</td>
-      <td><a href="https://go.gov.sg/ottodot22" target="_blank"><img src="/images/Assets/PDF32.svg" style="width:50%;"></a></td>
+      <td><a href="https://go.gov.sg/ottodot22" target="_blank"><img src="/images/Icons/PDF32.svg" style="width:50%;"></a></td>
     </tr>
   </tbody>
 </table>
