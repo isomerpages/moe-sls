@@ -30,7 +30,12 @@ third_nav_title: Assess
     <li><a target="_blank" href="/teacher-user-guide/assess/unsubmit-teacher-marked-quizzes/">(2b) Unsubmit Teacher-Marked Quizzes</a></li>
   </ul>
 </details>
-
+<details>
+ <summary><h4>How to use automated feedback?</h4></summary>
+<ul>
+    <li><a target="_blank" href="/teacher-user-guide/assess/add-mathematics-feedback/">Add Mathematics Feedback</a></li>
+  </ul>
+</details>
 <details>
  <summary><h4>More about Quizzes and Assessments</h4></summary>
 <ul>
