@@ -70,9 +70,8 @@ collections:
       - Collaborate/(3a) Comment in the Forum.md
       - Collaborate/(2b) Create a New Poll.md
       - Collaborate/(3b) Edit a Poll.md
-      - Assess/About Mathematics Feedback.md
-      - Assess/Assess.md
       - Assess/.keep
+      - Assess/Assess.md
       - Assess/(1) Navigate an Assignment.md
       - Assess/Attempt a Multiple Choice Question.md
       - Assess/Attempt a Fill in the Blanks Question.md
@@ -103,6 +102,7 @@ collections:
       - Assess/(2) View Quiz Results.md
       - Assess/(3) View and Respond to Teacher Comments.md
       - Assess/About Assessments (New).md
+      - Assess/About Mathematics Feedback.md
       - Track Progress/.keep
       - Track Progress/Track Progress.md
       - Track Progress/(1) Access Learning Progress.md
