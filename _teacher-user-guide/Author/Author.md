@@ -50,7 +50,7 @@ third_nav_title: Author
 <li><a target="_blank" href="/teacher-user-guide/author/html5-content-development/">HTML5 Content Development</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/text-to-speech-tts/">Text to Speech (TTS)</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/speech-evaluation/">Speech Evaluation (Enhanced)</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/localisation-and-edictionary/">Localisation and eDictionary</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/localisation-and-edictionary/">Localisation and E-Dictionary</a></li>
 </ul>
 </details>
 

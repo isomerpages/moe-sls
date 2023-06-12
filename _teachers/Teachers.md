@@ -1,6 +1,6 @@
 ---
 title: Teachers
-permalink: /sls/teachers/
+permalink: /teachers/
 description: ""
 ---
 <img alt="Teachers Hero" src="/images/2Teacher/Teachers%20Hero.png">
@@ -14,7 +14,7 @@ Looking for new ways to support your students’ learning? SLS features can enha
 </li><li><a target="_blank" href="/teachers/feature-highlights/2022-sem1/">2022 Sem 1</a>
 </li><li><a target="_blank" href="/teachers/feature-highlights/2021-sem2/">2021 Sem 2</a></li></ul>
 
-<h2 id="build-the-sls-card-game">Build: The SLS Card Game</h2>
+<h2 id="build-the-sls-card-game">Build The SLS Card Game</h2>
 <hr>
 <ul><li><a target="_blank" href="/teachers/build-the-sls-card-game/index/">Build: The SLS Card Game</a></li></ul>
 <h2 id="frequently-asked-questions">Frequently Asked Questions</h2>

@@ -35,7 +35,7 @@ third_nav_title: SLS Professional Development
         <p>SLS Spotlight: Team Quiz + Google</p>
       </td>
       <td>
-        <a target="_blank" href="/files/Marcomms/FAQ%20Spotlight.pdf"><img style="width: 100%;" src="/images/Assets/PDF32.svg"></a>
+        <a target="_blank" href="/files/Marcomms/FAQ%20Spotlight.pdf"><img style="width: 100%;" src="/images/Icons/PDF32.svg"></a>
       </td>
     </tr>
     <tr>

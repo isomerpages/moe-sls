@@ -54,7 +54,7 @@ third_nav_title: Discover
 <img style="width: 25%;" alt="D-AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png">		
     </li>
     <li>Select the Activities you wish to add to your new Lesson by selecting the relevant checkboxes.</li>
-    <li>To view the existing Lesson in a new tab, click the <strong>Expand</strong> icon.</li>
+    <li>To view the existing Lesson in a new tab, click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg">.</li>
     <li>To add your selected Activities, click <strong>Choose</strong>.</li>
     <li>The chosen Activities will inherit the Activity Details from the Lesson in Library or Starred Resources. To view and edit the Activity Notes and Active Learning Process in the <strong>Activity Details</strong> card, click the <strong>Settings</strong> icon on the <strong>Activity Details</strong> card. These fields are optional and will not be visible to students.</li>
 </ol>

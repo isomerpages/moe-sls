@@ -2,7 +2,7 @@
 title: Quick Build Mode
 permalink: /teachers/build-the-sls-card-game/quick-build-mode/
 description: ""
-third_nav_title: "Build: the SLS Card Game"
+third_nav_title: Build The SLS Card Game
 ---
 <img src="/images/SLS%20Build/quickbuildmode.png">
 <h2 id="quick-build-mode">Quick Build Mode</h2>

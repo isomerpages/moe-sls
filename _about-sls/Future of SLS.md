@@ -12,4 +12,4 @@ image: /images/LogoSecondaryLight.png
 </div>
 
 
-<a href="/images/Media/4Partners/SLSv2.png" target="_blank"><img src="/images/Media/4Partners/SLSv2.png" alt="SLS Version 2;" style="width:100%; display: inline;"></a>
+<a href="/images/3Partners/SLSv2.png" target="_blank"><img src="/images/3Partners/SLSv2.png" alt="SLS Version 2;" style="width:100%; display: inline;"></a>

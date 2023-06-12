@@ -2,7 +2,7 @@
 title: Facilitation Resources
 permalink: /teachers/build-the-sls-card-game/facilitation-resources/
 description: ""
-third_nav_title: "Build: the SLS Card Game"
+third_nav_title: Build The SLS Card Game
 ---
 <img alt="" src="/images/SLS%20Build/banner2.png">
 <h2 id="print-to-play-">Print-to-Play </h2>

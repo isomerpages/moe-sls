@@ -1,5 +1,5 @@
 ---
-title: Localisation and eDictionary
+title: Localisation and EDictionary
 permalink: /teacher-user-guide/author/localisation-and-edictionary/
 description: ""
 third_nav_title: Author

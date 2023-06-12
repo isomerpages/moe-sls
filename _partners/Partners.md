@@ -1,6 +1,6 @@
 ---
 title: Partners
-permalink: /sls/partners/
+permalink: /partners/
 description: ""
 ---
 <img alt="Partners Hero" src="/images/3Partners/Partners%20Hero.png">

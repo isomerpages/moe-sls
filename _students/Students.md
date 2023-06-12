@@ -1,6 +1,6 @@
 ---
 title: Students
-permalink: /sls/students/
+permalink: /students/
 description: ""
 ---
 <img alt="Students" src="/images/1Student/Students%20Hero.png">
