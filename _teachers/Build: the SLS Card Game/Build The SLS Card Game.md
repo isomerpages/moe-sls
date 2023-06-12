@@ -4,7 +4,7 @@ permalink: /teachers/build-the-sls-card-game/index/
 description: ""
 third_nav_title: "Build: the SLS Card Game"
 ---
-<h1>Build the SLS Card Game</h1>
+<h1>Build The SLS Card Game</h1>
 <h2 id="information">Information</h2>
 <hr>
 <li><a target="_blank" href="/teachers/build-the-sls-card-game/background/">Background</a></li>
