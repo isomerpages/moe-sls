@@ -63,7 +63,7 @@ description: ""
 <p> There are steps on this page to guide students on what to do if they have forgotten their username, password, or if their account has been locked.</p>
 <p> Here is a poster for students on how to troubleshoot login issues.</p>
 </li>
-<p><a href="/images/Media/5Troubleshooting/Self-help%20tips%20for%20student%20login.png" target="_blank"><img src="/images/Media/5Troubleshooting/Self-help%20tips%20for%20student%20login.png"></a></p>
+<p><a href="/images/4Troubleshooting/Self-help%20tips%20for%20student%20login.png" target="_blank"><img src="/images/4Troubleshooting/Self-help%20tips%20for%20student%20login.png"></a></p>
 <p>For Teachers:</p>
 <p>Teachers can reset their password using the Forgot Password link.</p>
 <p>For issues related to the provisioning of accounts to non-MIMS users, direct hires or flexi-adjunct teachers, schools can also email: SLS_OPS@moe.gov.sg.</p>
