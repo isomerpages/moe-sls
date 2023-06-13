@@ -296,7 +296,7 @@ User logging in through MIMS are no longer required to reset SLS password if it 
 </details>
 <h2><img style="width:3rem; display: inline;" src="/images/Icons/Star.svg">Features for Teachers</h2>
 <hr>
-<details><summary><h4>Add student from SLS into School Cockpit class groups</h4></summary>
+<details><summary><h4>Manage students in class groups originating from School Cockpit</h4></summary>
 <ol>
 <li>
 <p>Teachers and co-teachers are able to add and remove Students in SC class groups.</p>
