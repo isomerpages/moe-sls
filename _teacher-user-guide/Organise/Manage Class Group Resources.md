@@ -6,12 +6,14 @@ third_nav_title: Organise
 ---
 <h1 id="manage-class-group-resources">Manage Class Group Resources</h1>
 <h2 id="about-class-group-resources">About Class Group Resources</h2>
+<hr>
 <ol>
 <li>Class Group Resources are Lessons that are uploaded to the Class Group without assignment and do not have a due date. Teachers may use this feature to curate and share supplementary resources with students, for them to attempt on their own as self-study or meet different learner profiles. </li>
 <li>Teachers in these groups may share, co-edit and curate the resources with each other. The resources may be added from My Drive, Library (MOE Library and Community Gallery), and Starred Resources. </li>
 <li>Teachers may also create categories within Class Group Resources to better organise and filter the resources. </li>
 </ol>
 <h2 id="access-class-group-resources">Access Class Group Resources</h2>
+<hr>
 <ol>
 <li>You can access Class Group Resources from the Class Group page. </li>
 <li><p>In the specific class group, select the <strong>Resources</strong> tab. </p>
@@ -19,6 +21,7 @@ third_nav_title: Organise
 </p></li>
 </ol>
 <h2 id="add-class-group-resources">Add Class Group Resources</h2>
+<hr>
 <ol>
 <li>On the Resource tab in the class group, click <strong>Add Resource</strong>. </li>
 <li>Select where the resource is located: My Drive, Library (MOE Library and Community Gallery), Starred Resources. </li>
@@ -35,6 +38,7 @@ third_nav_title: Organise
 </ol>
 <p><u>Note</u>: For MOE Library resources, permission to make a copy has to be enabled in order for the Resource to be added to Class Group Resources. </p>
 <h2 id="create-categories">Create Categories</h2>
+<hr>
 <ol>
 <li><p>On the <strong>Resource</strong> tab in the Class Group, click <strong>Add Resource</strong> and select <strong>Category</strong>.</p>
 <p><img style="width: 100%;" src="/images/2Teacher/O-CreateCategory.png"></p>
@@ -43,6 +47,7 @@ third_nav_title: Organise
 </li>
 </ol>
 <h2 id="move-resource-to-another-category-class-group">Move Resource to Another Category/Class Group</h2>
+<hr>
 <ol>
 <li><p>On the <strong>Resource</strong> tab in the Class Group, locate the Resource Card for the resource you wish to move. You may also use the search feature to locate the resource. </p>
 <p><img style="width: 100%;" src="/images/2Teacher/O-ClassGroupResource3.png"></p>
