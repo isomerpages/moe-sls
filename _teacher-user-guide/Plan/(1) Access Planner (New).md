@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Plan
 ---
 <h1>(1) Access Planner (New)</h1>
-
 <p>Planner allows you to manage your personal learning schedule and timetable. You can create events or import your school timetable/calendar into the Planner and view Assignments which are due soon.</p>
-
 <h3>Navigating to the Page</h3>
 <hr>
 <ol>
@@ -28,6 +26,5 @@ third_nav_title: Plan
 <li>To know what events are happening at the moment, refer to the Red Line.</li>
 </ol>
 <img style="width: 100%;" src="/images/2Teacher/P-Calendar.png">
-
 <u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
 <p>The <strong>Assignments Due</strong> subpage of the Planner will only appear if there are assignments due today or in the next 3 days.</p>
