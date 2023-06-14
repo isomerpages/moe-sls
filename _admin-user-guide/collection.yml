@@ -4,17 +4,6 @@ collections:
     order:
       - (i) Organise.md
       - (ii) Administer.md
-      - Notify/.keep
-      - Notify/Notify.md
-      - Notify/Manage School Announcements (Enhanced).md
-      - Publish/.keep
-      - Publish/Publish.md
-      - Publish/(1) Create MOE Library Resources (Enhanced).md
-      - Publish/(2) Manage Lessons.md
-      - Publish/(3) Manage Media.md
-      - Publish/Generate CCPM Reports (New).md
-      - Publish/Manage Owner Groups.md
-      - Publish/Manage Content Maps.md
       - Administer/.keep
       - Administer/Administer.md
       - Administer/Activate Teacher Account.md
@@ -30,3 +19,14 @@ collections:
       - Administer/Manage Subjects (For Schools Not Using School Cockpit).md
       - Administer/Manage Class Groups.md
       - Administer/Generate Reports.md
+      - Notify/.keep
+      - Notify/Notify.md
+      - Notify/Manage School Announcements (Enhanced).md
+      - Publish/.keep
+      - Publish/Publish.md
+      - Publish/(1) Create MOE Library Resources (Enhanced).md
+      - Publish/(2) Manage Lessons.md
+      - Publish/(3) Manage Media.md
+      - Publish/Generate CCPM Reports (New).md
+      - Publish/Manage Owner Groups.md
+      - Publish/Manage Content Maps.md
