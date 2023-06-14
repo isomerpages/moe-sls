@@ -49,6 +49,3 @@ third_nav_title: Assess
 <details><summary><h4>How to access Assessments?</h4></summary>
 <ul><li><a target="_blank" href="/student-user-guide/assess/about-assessments/">About Assessments (New)</a></li></ul>
 </details>
-<details><summary><h4>What types of automated feedback are there? </h4></summary>
-<ul><li><a target="_blank" href="/student-user-guide/assess/about-mathematics-feedback">About Mathematics Feedback</a></li></ul>
-</details>
