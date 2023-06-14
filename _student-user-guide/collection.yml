@@ -6,72 +6,6 @@ collections:
       - (ii) Author.md
       - (iii) Enact.md
       - (iv) Assess.md
-      - Discover/.keep
-      - Discover/Discover.md
-      - Discover/About Self Study Resources (New).md
-      - Discover/(1) Access Self Study Resources (New).md
-      - Discover/(2) Search for Self Study Resources (New).md
-      - Discover/(3) Attempt Self Study Resources (New).md
-      - Discover/Access App Library.md
-      - Notify/.keep
-      - Notify/Notify.md
-      - Notify/About Notifications (New).md
-      - Notify/View Notifications (New).md
-      - Plan/.keep
-      - Plan/Plan.md
-      - Plan/(1) Access Planner (New).md
-      - Plan/(2) Create a New Event (New).md
-      - Organise/.keep
-      - Organise/Organise.md
-      - Organise/About Class Groups.md
-      - Organise/Access Class Groups.md
-      - Organise/Access Past Class Groups.md
-      - Organise/(1) Search in My Drive.md
-      - Organise/(2) Create New Folders.md
-      - Organise/(3) Delete Resources.md
-      - Organise/Manage Folders.md
-      - Organise/Restore Resources from Trash.md
-      - Organise/Star Resources.md
-      - Organise/Access My Subjects.md
-      - Organise/Follow & Unfollow Subjects.md
-      - Organise/View Print Friendly Worksheet.md
-      - Organise/Copy to My Drive.md
-      - Self Study/.keep
-      - Self Study/Self Study.md
-      - Self Study/About Adaptive Learning System (ALS).md
-      - Self Study/Access Adaptive Learning System (ALS).md
-      - Self Study/(1a) Annotate Text within Activities.md
-      - Self Study/(1b) Add Notes to Images.md
-      - Self Study/(2) View Notes.md
-      - Self Study/(3) Comment on Notes.md
-      - Customise/.keep
-      - Customise/Customise.md
-      - Customise/Customise an Avatar.md
-      - Customise/Set Password Reset Email Address.md
-      - Customise/Set Email Notifications (New).md
-      - Customise/Manage Linked Account.md
-      - Customise/Change Password.md
-      - Customise/Update Answers to Security Questions.md
-      - Gamify/.keep
-      - Gamify/Gamify.md
-      - Gamify/About Gamification.md
-      - Gamify/Attempt a Gamified Lesson.md
-      - Gamify/Check Progress on Leaderboard.md
-      - Assign/Assign.md
-      - Assign/.keep
-      - Assign/About Assignments.md
-      - Assign/Access Assignments.md
-      - Collaborate/.keep
-      - Collaborate/Collaborate.md
-      - Collaborate/About Assignment Sharing.md
-      - Collaborate/(1a) Request to Share Assignment.md
-      - Collaborate/(1b) Accept a Share Request.md
-      - Collaborate/(2) Interact in a Shared Assignment.md
-      - Collaborate/(1) Access the Forum.md
-      - Collaborate/(2a) Posting on a Discussion Topic (Improved).md
-      - Collaborate/(3a) Comment in the Forum.md
-      - Collaborate/(2b) Create a New Poll.md
-      - Collaborate/(3b) Edit a Poll.md
       - Assess/.keep
       - Assess/Assess.md
       - Assess/(1) Navigate an Assignment.md
@@ -105,6 +39,72 @@ collections:
       - Assess/(3) View and Respond to Teacher Comments.md
       - Assess/About Assessments (New).md
       - Assess/About Mathematics Feedback.md
+      - Assign/.keep
+      - Assign/Assign.md
+      - Assign/About Assignments.md
+      - Assign/Access Assignments.md
+      - Collaborate/.keep
+      - Collaborate/Collaborate.md
+      - Collaborate/About Assignment Sharing.md
+      - Collaborate/(1a) Request to Share Assignment.md
+      - Collaborate/(1b) Accept a Share Request.md
+      - Collaborate/(2) Interact in a Shared Assignment.md
+      - Collaborate/(1) Access the Forum.md
+      - Collaborate/(2a) Posting on a Discussion Topic (Improved).md
+      - Collaborate/(3a) Comment in the Forum.md
+      - Collaborate/(2b) Create a New Poll.md
+      - Collaborate/(3b) Edit a Poll.md
+      - Customise/.keep
+      - Customise/Customise.md
+      - Customise/Customise an Avatar.md
+      - Customise/Set Password Reset Email Address.md
+      - Customise/Set Email Notifications (New).md
+      - Customise/Manage Linked Account.md
+      - Customise/Change Password.md
+      - Customise/Update Answers to Security Questions.md
+      - Discover/.keep
+      - Discover/Discover.md
+      - Discover/About Self Study Resources (New).md
+      - Discover/(1) Access Self Study Resources (New).md
+      - Discover/(2) Search for Self Study Resources (New).md
+      - Discover/(3) Attempt Self Study Resources (New).md
+      - Discover/Access App Library.md
+      - Gamify/.keep
+      - Gamify/Gamify.md
+      - Gamify/About Gamification.md
+      - Gamify/Attempt a Gamified Lesson.md
+      - Gamify/Check Progress on Leaderboard.md
+      - Notify/.keep
+      - Notify/Notify.md
+      - Notify/About Notifications (New).md
+      - Notify/View Notifications (New).md
+      - Organise/.keep
+      - Organise/Organise.md
+      - Organise/About Class Groups.md
+      - Organise/Access Class Groups.md
+      - Organise/Access Past Class Groups.md
+      - Organise/(1) Search in My Drive.md
+      - Organise/(2) Create New Folders.md
+      - Organise/(3) Delete Resources.md
+      - Organise/Manage Folders.md
+      - Organise/Restore Resources from Trash.md
+      - Organise/Star Resources.md
+      - Organise/Access My Subjects.md
+      - Organise/Follow & Unfollow Subjects.md
+      - Organise/View Print Friendly Worksheet.md
+      - Organise/Copy to My Drive.md
+      - Plan/.keep
+      - Plan/Plan.md
+      - Plan/(1) Access Planner (New).md
+      - Plan/(2) Create a New Event (New).md
+      - Self Study/.keep
+      - Self Study/Self Study.md
+      - Self Study/About Adaptive Learning System (ALS).md
+      - Self Study/Access Adaptive Learning System (ALS).md
+      - Self Study/(1a) Annotate Text within Activities.md
+      - Self Study/(1b) Add Notes to Images.md
+      - Self Study/(2) View Notes.md
+      - Self Study/(3) Comment on Notes.md
       - Track Progress/.keep
       - Track Progress/Track Progress.md
       - Track Progress/(1) Access Learning Progress.md
