@@ -4,7 +4,7 @@ permalink: /student-user-guide/self-study/index/
 description: ""
 third_nav_title: Self Study
 ---
-<h1>Self Study</h1>
+<h1>Self-Study</h1>
 <p>Use SLS to plan and organise self-study resources and share good resources with peers.</p>
 <p><a target="_blank" href="/student-user-guide/self-study/about-adaptive-learning-system/">About Adaptive Learning System (ALS)</a></p>
 <details><summary><h4>How to use Adaptive Learning? </h4></summary>
