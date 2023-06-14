@@ -8,10 +8,10 @@ third_nav_title: Discover
            
 <p>For tools indicated with *, students may need to access them using a laptop/desktop and to open the website in a new tab.</p>
                        
-<p> If you have difficulties embedding whitelisted URL(s) in SLS lessons, you may&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>
+<p> If you have difficulties embedding whitelisted URL(s) in SLS lessons, you may&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>.
 </p>
 
-<p><u>Note</u>: If you are unable to embed a website, the website may be <a target="_blank" href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/">Non-Whitelisted</a>.
+<p><u>Note</u>: If you are unable to embed a website, the website may have been <a target="_blank" href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/">removed from whitelisting</a>.
 
 </p><h2 class="section-title">Whitelisted Websites and URLs (Using Site URL)</h2>
 <hr>
@@ -20,7 +20,7 @@ third_nav_title: Discover
   <li>In Lesson Editor page, hover over Text/Media found within the Component Bar and select Website.</li>
   <li>On the Embed Website subpage, select the radio button side Enter URL or Enter Code.</li>
     <p><u>Note</u>: Search in the tables below to determine if a whitelisted website can be embedded via URL or Code.</p>
-  <li>Alternatively, click <strong>Choose From Approved Websites</strong> to select a whitelisted website. Click the <strong>Website card</strong>, followed by <strong>Choose</strong> to proceed.</li>
+  <li>Alternatively, click <strong>Choose From Approved Websites</strong> to select a whitelisted website. Click the <strong>Website Card</strong>, followed by <strong>Choose</strong> to proceed.</li>
   <li>The URL or Code would be displaced in the text box.</li>
   <li>You can adjust the Height and Width (in pixel) for the whitelisted website display.</li>
   <li>Click <strong>Save</strong> to confirm.</li>
@@ -886,12 +886,6 @@ third_nav_title: Discover
                 https://www.seussville.com
             </td>
         </tr>
-        <tr><td><strong>Showbie <font color="#FBBC04">NEW</font></strong></td>
-            <td>Collaboration Tool</td>
-            <td>
-                https://showbie.com
-            </td>
-        </tr>
         <tr><td><strong>Showme</strong></td>
             <td>Teaching Resource</td>
             <td>
@@ -1259,14 +1253,6 @@ third_nav_title: Discover
 </tbody>
 </table>
 											
-<p><u>Disclaimer</u>:</p>
-<p>SLS lessons with embedded roots.gov.sg materials will need to include the following disclaimer below the iframe:</p>
-<p>“Copyright in the roots.gov.sg portal and all images and contents therein belongs to the National Heritage Board and/or third parties, and may not be copied, reproduced, republished, downloaded, posted, broadcasted, communicated, transmitted, made available to the public, adapted, altered or otherwise for any purpose whatsoever without the prior written permission of the National Heritage Board and/or such third party copyright owners.”</p>
-<p>A sample screen capture is shown below:
-
-<a target="_blank" href="/images/2Teacher/roots.png"><img style="width: 50%;" alt="Roots" src="/images/2Teacher/roots.png"></a>
-
-</p>
  <h2 class="section-title">Whitelisted Websites and URLs (Using Embed Code)</h2>
 <hr>
 <p>To embed a whitelisted website using embed code:</p>
@@ -1930,4 +1916,4 @@ third_nav_title: Discover
 	
 <h2 class="section-title">Request for Websites to be Whitelisted</h2>
 <hr>
-<p>If you would like SLS to consider a website for whitelisting, please&nbsp;email us&nbsp;at   <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>,   stating the URL(s) to be whitelisted (please give the full URL) and the purpose of the website. Before doing so, please check that the terms of use of the ebsite allow for embedding into external sites such as SLS. </p></ol>
+<p>If you would like SLS to consider a website for whitelisting, please&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>, stating the URL(s) to be whitelisted (please give the full URL) and the purpose of the website. Before doing so, please check that the terms of use of the website allow for embedding into external sites such as SLS. </p></ol>
