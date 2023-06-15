@@ -33,7 +33,7 @@ third_nav_title: Assess
 <details>
  <summary><h4>How to use automated feedback?</h4></summary>
 <ul>
-    <li><a href="/teacher-user-guide/assess/add-mathematics-feedback/" target="_blank">Add Mathematics Feedback</a></li>
+    <li><a href="/teacher-user-guide/assess/add-mathematics-feedback-assistant/" target="_blank">Add Mathematics Feedback Assistant</a></li>
   </ul>
 </details>
 <details>
