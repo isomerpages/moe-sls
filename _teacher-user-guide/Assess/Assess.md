@@ -31,6 +31,12 @@ third_nav_title: Assess
   </ul>
 </details>
 <details>
+ <summary><h4>How to use automated feedback?</h4></summary>
+<ul>
+    <li><a href="/teacher-user-guide/assess/add-mathematics-feedback/" target="_blank">Add Mathematics Feedback</a></li>
+  </ul>
+</details>
+<details>
  <summary><h4>More about Quizzes and Assessments</h4></summary>
 <ul>
     <li><a target="_blank" href="/teacher-user-guide/assess/view-assignments/">View Assignments</a></li>
