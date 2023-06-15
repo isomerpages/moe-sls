@@ -6,7 +6,6 @@ collections:
       - (ii) Author.md
       - (iii) Enact.md
       - (iv) Assess.md
-      - Assess/About Mathematics Feedback Assistant.md
       - Assess/.keep
       - Assess/Assess.md
       - Assess/(1) Navigate an Assignment.md
@@ -39,6 +38,7 @@ collections:
       - Assess/(2) View Quiz Results.md
       - Assess/(3) View and Respond to Teacher Comments.md
       - Assess/About Assessments (New).md
+      - Assess/About Mathematics Feedback Assistant.md
       - Assign/.keep
       - Assign/Assign.md
       - Assign/About Assignments.md
