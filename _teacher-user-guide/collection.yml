@@ -12,7 +12,6 @@ collections:
       - Administer/Onboard New Students.md
       - Administer/Reset Student Passwords for Classes.md
       - Administer/Generate Two Hour Temporary Password for Students.md
-      - Assess/Add Mathematics Feedback Assistant.md
       - Assess/.keep
       - Assess/Assess.md
       - Assess/(1) Create Quizzes (New).md
@@ -23,6 +22,7 @@ collections:
       - Assess/(1) Mark Teacher Marked Quizzes.md
       - Assess/(2a) Release Teacher Marked Quizzes.md
       - Assess/(2b) Unsubmit Teacher Marked Quizzes.md
+      - Assess/Add Mathematics Feedback Assistant.md
       - Assess/View Assignments.md
       - Assess/Edit Quizzes (New).md
       - Assess/Set Assignments as Assessments.md
