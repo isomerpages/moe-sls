@@ -19,7 +19,7 @@ links:
         url: /admin-user-guide/organise/
       - title: Login Troubleshooting
         url: /login-troubleshooting/authentication/index/
-  - title: About Student Learning Space
+  - title: About SLS
     collection: about-student-learning-space
   - title: Login to SLS
     url: https://vle.learning.moe.edu.sg/login
