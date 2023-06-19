@@ -11,6 +11,8 @@ notification: ""
 sections:
   - hero:
       background: /images/LandingPage.png
+      button: Login to SLS
+      url: https://vle.learning.moe.edu.sg/login
   - resources:
       title: Latest News
       button: find out more
