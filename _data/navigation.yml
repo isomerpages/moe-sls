@@ -9,7 +9,7 @@ links:
   - title: Partners
     collection: partners
   - title: User Guides
-    url: /userguides
+    url: /student-user-guide/organise/
     sublinks:
       - title: Students UG
         url: /student-user-guide/organise/
