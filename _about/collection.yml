@@ -1,5 +1,5 @@
 collections:
-  about-student-learning-space:
+  about:
     output: true
     order:
       - Overview of Student Learning Space.md
