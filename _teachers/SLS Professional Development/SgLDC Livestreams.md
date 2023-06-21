@@ -50,7 +50,7 @@ third_nav_title: SLS Professional Development
         <p>SLS Spotlight: Did You Say Planner?</p>
       </td>
 			   <td>
-        <a target="_blank" href="/files/Marcomms/202305 Spotlight FAQ.pdf"><img style="width: 100%;" src="/images/Icons/PDF32.svg"></a>
+        <a target="_blank" href="/files/Marcomms/202305 spotlight faq.pdf"><img style="width: 100%;" src="/images/Icons/PDF32.svg"></a>
       </td>
     </tr>
   </tbody></table>
