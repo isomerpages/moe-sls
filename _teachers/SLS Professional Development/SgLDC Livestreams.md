@@ -46,7 +46,7 @@ third_nav_title: SLS Professional Development
     </tr>
 		 <tr>
       <td>
-        <a target="_blank" href="https://youtu.be/IegVQiyoaR8"><img style="width: 50%;" src="/images/2Teacher/SLSSpotlightdidyousayplanner.jpg"></a>
+        <a target="_blank" href="https://youtu.be/IegVQiyoaR8"><img style="width: 50%;" src="/images/2Teacher/slsspotlightdidyousayplanner.png"></a>
         <p>SLS Spotlight: Did You Say Planner?</p>
       </td>
 			   <td>
