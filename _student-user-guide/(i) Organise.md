@@ -16,4 +16,4 @@ Use SLS to organize your personal and class group resources, assignments, conver
 <h3><a id="self-study" target="_blank" href="/student-user-guide/self-study/index/">5. Self Study</a></h3>
 Use SLS to plan and organise self-study resources and share good resources with peers.
 <h3><a id="customise" target="_blank" href="/student-user-guide/customise/index/">6. Customise</a></h3>
-Use SLS to customize your avatar, UI and user experience based on your needs.
+Use SLS to customise your avatar, UI and user experience based on your needs.
