@@ -42,9 +42,9 @@ third_nav_title: Assess
 
 <details><summary><h4>How to view completed Assignments?</h4></summary>
 <ul>
-<li><a target="_blank" href="/student-user-guide/assess/view-completed-assignments/">View Completed Assignments</a></li>
-<li><a target="_blank" href="/student-user-guide/assess/view-quiz-results/">View Quiz Results</a></li>
-<li><a target="_blank" href="/student-user-guide/assess/view-and-respond-to-teacher-comments/">View and Respond to Teacher Comments</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/view-completed-assignments/">(1) View Completed Assignments</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/view-quiz-results/">(2) View Quiz Results</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/view-and-respond-to-teacher-comments/">(3) View and Respond to Teacher Comments</a></li>
 </ul></details>
 <details><summary><h4>How to access Assessments?</h4></summary>
 <ul><li><a target="_blank" href="/student-user-guide/assess/about-assessments/">About Assessments (New)</a></li></ul>
