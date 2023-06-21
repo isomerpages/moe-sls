@@ -1,7 +1,8 @@
 ---
 title: Awards
-permalink: /about-sls/awards/
+permalink: /about/awards/
 description: ""
+image: /images/FaviconLight.png
 ---
 <h1>Awards</h1>
 <h4>WITSA Global ICT Excellence Awards 2021</h4>

@@ -43,6 +43,14 @@ third_nav_title: SLS Professional Development
         <a target="_blank" href="https://youtu.be/p94xDFNcXWw?list=PLQxzGTcC-xNUWDHiwCmHgBGMSnuKtoEiT"><img style="width: 50%;" src="/images/2Teacher/SLSSpotlightbeyondtheclassroom.jpg"></a>
         <p>SLS Spotlight: Beyond the Classroom!</p>
       </td>
-      <td></td>
+    </tr>
+		 <tr>
+      <td>
+        <a target="_blank" href="https://youtu.be/IegVQiyoaR8"><img style="width: 50%;" src="/images/2Teacher/slsspotlightdidyousayplanner.png"></a>
+        <p>SLS Spotlight: Did You Say Planner?</p>
+      </td>
+			   <td>
+        <a target="_blank" href="/files/Marcomms/202305 spotlight faq.pdf"><img style="width: 100%;" src="/images/Icons/PDF32.svg"></a>
+      </td>
     </tr>
   </tbody></table>

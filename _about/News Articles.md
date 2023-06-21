@@ -1,8 +1,8 @@
 ---
 title: News Articles
-permalink: /about-sls/newsarticles/
+permalink: /about/news-articles/
 description: ""
-image: /images/value.png
+image: /images/FaviconLight.png
 ---
 <h1>News Articles</h1>
 <h4><a href="https://www.schoolbag.edu.sg/story/ready-to-level-up-build-your-own-game-at-school" target="_blank">Ready to level up? Build your own game at school</a></h4>

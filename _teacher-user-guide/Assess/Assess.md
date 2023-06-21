@@ -41,7 +41,7 @@ third_nav_title: Assess
 <ul>
     <li><a target="_blank" href="/teacher-user-guide/assess/view-assignments/">View Assignments</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">Edit Quizzes (New)</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">Set Assignments as Assessments</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/"> Set Assignments as Assessments</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/add-and-view-passcodes/">Add and View Passcodes</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/view-students-notes/">View Students' Notes</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/mark-assignments-as-complete-and-incomplete/">Mark Assignments as Complete and Incomplete</a></li>

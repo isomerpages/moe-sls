@@ -1,12 +1,12 @@
 ---
-title: Overview of SLS
-permalink: /about-sls/overviewofsls/
+title: Overview of Student Learning Space
+permalink: /about/overview-of-student-learning-space/
 description: ""
 image: /images/FaviconLight.png
 ---
-<h1>Overview of SLS</h1>
+<h1>Overview of Student Learning Space</h1>
 
-The SLS is continually being developed in response to the needs of students and teachers. Curriculum-aligned resources and system tools are continually being improved and developed in line with suggestions and feedback from teachers and students to cater to students’ diverse and evolving learning needs.
+The Student Learning Space (SLS) is continually being developed in response to the needs of students and teachers. Curriculum-aligned resources and system tools are continually being improved and developed in line with suggestions and feedback from teachers and students to cater to students’ diverse and evolving learning needs.
 
  The SLS’s agile development allows it to quickly adapt to new demands from users or policy changes. The SLS has already whitelisted 200+ free content/ tools and built APIs according to international specifications to integrate with other systems to exchange content and tools (LTI 1.3), assessment items (QTI3) and learning data (xAPI).
 

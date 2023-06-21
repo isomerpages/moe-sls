@@ -73,7 +73,7 @@ third_nav_title: Notify
 </ol>
 
 <h2>Flag a Notification</h2>
-
+<hr>
 <ol>
 	<li>On the Notification Card, click the  <strong>Flag</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Flag24.svg"> to flag a Notification. You can use it to flag important notifications you wish to follow up on.</li>
 	<li>A Flagged Notification will be indicated with a <strong> Red Flag </strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/FlagFilled24.svg">. </li>
@@ -87,7 +87,7 @@ third_nav_title: Notify
 <img style="width: 100%;" src="/images/2Teacher/N-FlagNotifications.png">
 
 <h2>Mark a Notification as Read</h2>
-
+<hr>
 <ol>
   <li>Unread Notifications are indicated with a yellow circle on the Notification Card. <img style="width: 100%;" src="/images/2Teacher/N-Notifications2.png"></li>
   <li>The yellow circle on the Notification Card will disappear when the card is opened.</li>

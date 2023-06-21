@@ -50,7 +50,7 @@ third_nav_title: SLS Events
 </td>
 <!--2nd column-->
 <td>
-<p>SgLDC Livestream: Did you say Planner?</p>
+<p><a target="_blank" href="https://youtu.be/IegVQiyoaR8">SgLDC Livestream: Did you say Planner?</a></p>
 </td>
 </tr>
 <tr>
@@ -90,7 +90,7 @@ third_nav_title: SLS Events
 </td>
 <!--2nd column-->
 <td>
-<p>Release 19</p>
+<p><a target="_blank" href="/latest-news/changelog/7-jun-2023/">Release 19</a></p>
 </td>
 </tr>              
 <tr>
