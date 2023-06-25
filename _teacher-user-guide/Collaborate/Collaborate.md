@@ -6,7 +6,6 @@ third_nav_title: Collaborate
 ---
 <h1>Collaborate</h1>
 <p>Use SLS to set learning activities to be done collaboratively by students.</p>
-
 <img src="/images/2Teacher/Flow-Collaborate1.png">
 <details>
  <summary><h4>A. How to use the Class Group Forum?</h4></summary>
@@ -47,4 +46,14 @@ third_nav_title: Collaborate
     <li><a target="_blank" href="/teacher-user-guide/collaborate/share-a-lesson/">(D1,i) Share a Lesson</a></li>
     <li><a target="_blank" href="/teacher-user-guide/collaborate/access-a-shared-lesson/">(D1,ii) Access a Shared Lesson</a></li>
   </ul>
+</details>
+<details>
+<summary><h4>E. Ideas for Teaching &amp; Learning</h4></summary>
+<ul>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/create-professional-learning-circles/">(E1,i) Create Professional Learning Circles</a></li>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/jigsaw-activities-for-teamwork/">(E1,ii) Jigsaw Activities for Teamwork</a></li>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/nurture-collaboration-in-gamified-lessons/">(E1,iii) Nurture Collaboration in Gamified Lessons</a></li>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/manage-in-class-teaching-more-effectively/">(E1,iv) Manage In-Class Teaching more Effectively</a></li>
+	<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/TeamsvsSubgroups.pdf">(E1,v) Teams vs Subgroups</a></li>
+	</ul>
 </details>
