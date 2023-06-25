@@ -78,3 +78,12 @@ third_nav_title: Author
   <li><a href="/teacher-user-guide/author/email-template-for-copyright-clearance/" target="_blank">(C1,iii) Email Template for Copyright Clearance</a></li>
 </ul>
 </details>
+<details>
+<summary><h4>D. Ideas for Teaching &amp; Learning</h4></summary>
+<ul>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-lessons-in-class-groups/">(D1,i) Co-create Lessons in Class Groups</a></li>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">(D1,ii) Digitise Past Year Papers for Practice</a></li>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/R18_Enhanced_Lesson_Authoring_navigation.pdf">(D1,iii) Enhanced Lesson Authoring and Navigation</a></li>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/Phygital_learning.pdf">(D1,iv) Let's get Phygital with SLS</a></li>	
+</ul>
+</details>
