@@ -47,3 +47,12 @@ third_nav_title: Assess
     <li><a target="_blank" href="/teacher-user-guide/assess/mark-assignments-as-complete-and-incomplete/">(D1,vi) Mark Assignments as Complete and Incomplete</a></li>
   </ul>
 </details>
+<details>
+<summary><h4>E. Ideas for Teaching &amp; Learning</h4></summary>
+<ul>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">(E1,i) Assign Past Exam Questions</a></li>	
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/conduct-eassessments-in-class/">(E1,ii) Conduct e-Assessments in Class</a></li>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/using sls for dept review.pdf">(E1,iii) Using SLS for Department Teaching &amp; Learning Review</a></li>
+
+</ul>
+</details>
