@@ -18,3 +18,10 @@ third_nav_title: Administer
   <li><a target="_blank" href="/teacher-user-guide/administer/generate-two-hour-temporary-password-for-students/">(A1, iii) Generate Two-Hour Temporary Password for Students</a></li>
 </ul>
 </details>
+<details>
+<summary><h4>B. Ideas for Teaching &amp; Learning</h4></summary>
+<ul>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/using sls for whole school transformation of t&amp;l.pdf">(B1,i) Using SLS for Whole School Transformation of Teaching &amp; Learning</a>
+</li>
+</ul>
+</details>
