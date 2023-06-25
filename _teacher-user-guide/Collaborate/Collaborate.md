@@ -9,42 +9,42 @@ third_nav_title: Collaborate
 
 <img src="/images/2Teacher/Flow-Collaborate1.png">
 <details>
- <summary><h4>How to use the Class Group Forum?</h4></summary>
+ <summary><h4>A. How to use the Class Group Forum?</h4></summary>
 <ul>
     <li><a target="_blank" href="/teacher-user-guide/collaborate/about-the-forum/">About the Forum</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-topic/">(1a) Add a Topic (New)</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-poll/">(1b) Add a Poll</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/change-forum-settings/">(2) Change Forum Settings</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/post-and-comment-in-the-forum/">(3) Post and Comment in the Forum</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-topic/">(A1,1) Add a Topic (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-poll/">(A1,2) Add a Poll</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/change-forum-settings/">(A2) Change Forum Settings</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/post-and-comment-in-the-forum/">(A3) Post and Comment in the Forum</a></li>
   </ul>
 </details>
 
 <br>
 <img src="/images/2Teacher/Flow-Collaborate2.png">
 <details>
- <summary><h4>How to create Team Activities?</h4></summary>
+ <summary><h4>B. How to create Team Activities?</h4></summary>
  <ul>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/create-team-activities/">(1) Create Team Activities (New)</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/create-teams/">(2) Create Teams</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/create-team-activities/">(B1) Create Team Activities (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/create-teams/">(B2) Create Teams</a></li>
   </ul>
 </details>
 <br>
 <img style="width: 50%;" src="/images/2Teacher/Flow-Collaborate3.png">
 <details>
- <summary><h4>How can students collaborate in SLS?</h4></summary>
+ <summary><h4>C. How can students collaborate in SLS?</h4></summary>
 <ul>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-an-interactive-thinking-tool/">Add an Interactive Thinking Tool</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-poll2">Add a Poll</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-discussion/">Add a Discussion (New)</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/attach-google-files/">Attach Google Files</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-an-interactive-thinking-tool/">(C1,i) Add an Interactive Thinking Tool</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-poll2">(C1,ii) Add a Poll</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-discussion/">(C1,iii) Add a Discussion (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/attach-google-files/">(C1,iv) Attach Google Files</a></li>
   </ul>
 </details>
 <br>
 <img style="width: 50%;" src="/images/2Teacher/Flow-Collaborate4.png">
 <details>
- <summary><h4>How can teachers collaborate in SLS?</h4></summary>
+ <summary><h4>D. How can teachers collaborate in SLS?</h4></summary>
 <ul>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/share-a-lesson/">Share a Lesson</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/access-a-shared-lesson/">Access a Shared Lesson</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/share-a-lesson/">(D1,i) Share a Lesson</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/access-a-shared-lesson/">(D1,ii) Access a Shared Lesson</a></li>
   </ul>
 </details>
