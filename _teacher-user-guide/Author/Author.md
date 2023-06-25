@@ -12,7 +12,7 @@ third_nav_title: Author
 <ul>
 <li><a href="/teacher-user-guide/author/create-new-lessons/" target="_blank">Create Lessons (New)</a></li></ul>
 
-<p>1. Activities and Templates</p>	
+<p>A1. Activities and Templates</p>	
 <ul>
 <li><a href="/teacher-user-guide/author/add-new-using-templates/" target="_blank">(A1,1) Add New using Templates</a></li>
 <li><a href="/teacher-user-guide/author/add-new-activities-and-sections/" target="_blank">(A1,2) Add New Activities &amp; Sections (Enhanced)</a></li>
@@ -20,7 +20,7 @@ third_nav_title: Author
 <li><a href="/teacher-user-guide/author/add-introduction/" target="_blank">(A1,4) Add Introduction</a></li>
 </ul>
 
-<p>2. Add Components</p>	
+<p>A2. Add Components</p>	
 <ul>
 <li><a href="/teacher-user-guide/author/add-components/" target="_blank">(A2,1) Add Components (Enhanced)</a></li>
 <li><a href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/" target="_blank">(A2,2) Upload Question and Test Interoperability (QTI) Files</a></li>
@@ -36,7 +36,7 @@ third_nav_title: Author
 <li><a href="/teacher-user-guide/author/embed-youtube-videos/" target="_blank">(A2,12) Embed YouTube Videos</a></li>
 <li><a href="/teacher-user-guide/author/insert-media-objects/" target="_blank">(A2,13) Insert Media Objects</a></li>
 </ul>
-<p>3. Use Rich Text</p>	
+<p>A3. Use Rich Text</p>	
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/author/about-rich-text-editor/">(A3,1) About Rich Text Editor (Enhanced)</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/formatting-and-paragraphing/">(A3,2) Formatting &amp; Paragraphing</a></li>
