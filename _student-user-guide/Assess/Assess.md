@@ -9,7 +9,7 @@ third_nav_title: Assess
 <details><summary><h4>A. How to complete my Assignments?</h4></summary>
 <ul>
 <li><a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">(A1)  Navigate an Assignment</a></li>
-<p>2. Attempt different Question types</p>
+<p>A2. Attempt different Question types</p>
 <li><a target="_blank" href="/student-user-guide/assess/attempt-a-multiple-choice-question/">(A2,1) Attempt a Multiple-Choice Question</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/attempt-a-fill-in-the-blanks-question/">(A2,2) Attempt a Fill-in-the-Blanks Question</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/attempt-a-click-and-drop-question/">(A2,3) Attempt a Click-and-Drop Question</a></li>
@@ -23,7 +23,7 @@ third_nav_title: Assess
 <li><a target="_blank" href="/student-user-guide/assess/attempt-a-team-quiz-and-activity/">(A2,11) Attempt a Team Quiz &amp; Activity</a></li>
 <li><a target="_blank" href="/student-user-guide/assign/attempt-google-attached-files/">(A2,12) Attempt Google-Attached Files</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/complete-an-activity-and-section/">(A2,13) Complete an Activity &amp; Section</a></li>
-<p>3. Use Rich Text</p>
+<p>A3. Use Rich Text</p>
 <li><a target="_blank" href="/student-user-guide/assess/formatting-and-paragraphing/">(A3,1) Formatting &amp; Paragraphing</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/insert-tables/">(A3,2) Insert Tables</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/upload-file/">(A3,3) Upload File</a></li>
