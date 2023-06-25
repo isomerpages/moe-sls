@@ -9,72 +9,72 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <img alt="Flow Organise" src="/images/2Teacher/Flow-Organise.png">
 
 <details>
-<summary><h4>How to create Class Groups in SLS?</h4></summary>
+<summary><h4>A. How to create Class Groups in SLS?</h4></summary>
 
 <ul>
 <li><a href="/teacher-user-guide/organise/about-class-groups/" target="_blank">About Class Groups (New)</a></li>
-<li><a href="/teacher-user-guide/organise/create-class-groups/" target="_blank">(1) Create Class Groups (New)</a></li>
-<li><a href="/teacher-user-guide/organise/add-teachers-as-students-to-a-class-group/" target="_blank">(2) Add Teachers as Students to a Class Group</a></li>
+<li><a href="/teacher-user-guide/organise/create-class-groups/" target="_blank">(A1) Create Class Groups (New)</a></li>
+<li><a href="/teacher-user-guide/organise/add-teachers-as-students-to-a-class-group/" target="_blank">(A2) Add Teachers as Students to a Class Group</a></li>
 </ul>
 </details>
 
 <details>
-<summary><h4>How to organise Class Group Resources?</h4></summary>
+<summary><h4>B. How to organise Class Group Resources?</h4></summary>
 
 <ul>
-<li><a href="/teacher-user-guide/organise/manage-class-group-resources/" target="_blank">Manage Class Group Resources</a></li>
+<li><a href="/teacher-user-guide/organise/manage-class-group-resources/" target="_blank">(B1,i) Manage Class Group Resources</a></li>
 </ul>
 </details>
 
 <details>
-<summary><h4>How to install/use Apps in Class Groups?</h4></summary>
+<summary><h4>C. How to install/use Apps in Class Groups?</h4></summary>
 <ul>
-<li><a href="/teacher-user-guide/organise/install-and-launch-apps/" target="_blank">Install and Launch Apps</a></li>
-<li><a href="/teacher-user-guide/organise/app-faqs/" target="_blank">App FAQs</a></li>
+<li><a href="/teacher-user-guide/organise/install-and-launch-apps/" target="_blank">(C1,i) Install and Launch Apps</a></li>
+<li><a href="/teacher-user-guide/organise/app-faqs/" target="_blank">(C1,ii) App FAQs</a></li>
 </ul>
 </details>
 
 <details>
-<summary><h4>More about Class Groups</h4></summary>
-
-<ul>
-<li><a target="_blank" href="/teacher-user-guide/organise/pin-class-groups/">Pin Class Groups (Enhanced)</a></li>
-<li><a target="_blank" href="/teacher-user-guide/organise/archive-class-groups/">Archive Class Groups</a></li>
-<li><a target="_blank" href="/teacher-user-guide/organise/view-past-class-groups/">View Past Class Groups</a></li>
-</ul>
-</details>
-
-<details>
-<summary><h4>How to organise My Lessons in My Drive?</h4></summary>
+<summary><h4>D. More about Class Groups</h4></summary>
 
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/organise/access-my-drive/">(1) Access My Drive</a></li>
-<li><a target="_blank" href="/teacher-user-guide/organise/search-in-my-drive/">(2) Search in My Drive</a></li>
-<li><a target="_blank" href="/teacher-user-guide/organise/create-new-folders/">(3a) Create New Folders</a></li>
-<li><a target="_blank" href="/teacher-user-guide/organise/view-lessons-shared-with-me/">(3b) View Lessons Shared with Me</a></li>
-<li><a target="_blank" href="/teacher-user-guide/organise/delete-resources/">(4) Delete Resources</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/pin-class-groups/">(D1,i) Pin Class Groups (Enhanced)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/archive-class-groups/">(D1,ii) Archive Class Groups</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/view-past-class-groups/">(D1,iii) View Past Class Groups</a></li>
 </ul>
 </details>
 
 <details>
-<summary><h4>More about My Drive</h4></summary>
+<summary><h4>E. How to organise My Lessons in My Drive?</h4></summary>
 
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/organise/copy-lessons-within-my-drive/">Copy Lessons within My Drive</a></li>
-<li><a target="_blank" href="/teacher-user-guide/organise/manage-folders/">Manage Folders</a></li>
-<li><a target="_blank" href="/teacher-user-guide/organise/restore-resources-from-trash/">Restore Resources from Trash</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/access-my-drive/">(E1) Access My Drive</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/search-in-my-drive/">(E2) Search in My Drive</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/create-new-folders/">(E3,1) Create New Folders</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/view-lessons-shared-with-me/">(E3,2) View Lessons Shared with Me</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/delete-resources/">(E4) Delete Resources</a></li>
 </ul>
 </details>
 
 <details>
-<summary><h4>How to organise Starred Resources?</h4></summary>
+<summary><h4>F. More about My Drive</h4></summary>
+
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/organise/star-resources/">Star Resources</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/copy-lessons-within-my-drive/">(F1,i) Copy Lessons within My Drive</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/manage-folders/">(F1,ii) Manage Folders</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/restore-resources-from-trash/">(F1,iii) Restore Resources from Trash</a></li>
 </ul>
 </details>
 
 <details>
-<summary><h4>Ideas for Teaching &amp; Learning</h4></summary>
+<summary><h4>G. How to organise Starred Resources?</h4></summary>
+<ul>
+<li><a target="_blank" href="/teacher-user-guide/organise/star-resources/">(G1,i) Star Resources</a></li>
+</ul>
+</details>
+
+<details>
+<summary><h4>H. Ideas for Teaching &amp; Learning</h4></summary>
 <ul>
 <p>1. Recommended User Flows</p>
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">Assign Past Exam Questions</a></li>
