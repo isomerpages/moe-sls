@@ -10,12 +10,12 @@ third_nav_title: Track Progress
 <img src="/images/2Teacher/Flow-TrackProgress.png">
 
 <details>
- <summary><h4>How to monitor student’s Learning Progress?</h4></summary>
+ <summary><h4>A. How to monitor student’s Learning Progress?</h4></summary>
 <ul>
-    <li><a href="/teacher-user-guide/track-progress/access-learning-progress/" target="_blank">(1) Access Learning Progress</a></li>
-    <li><a href="/teacher-user-guide/track-progress/view-by-topic/" target="_blank">(2a) View by Topic</a></li>
-    <li><a href="/teacher-user-guide/track-progress/view-by-month/" target="_blank">(2b) View by Month</a></li>
-    <li><a href="/teacher-user-guide/track-progress/view-by-student/" target="_blank">(2c) View by Student</a></li>
-    <li><a href="/teacher-user-guide/track-progress/view-excluded-questions/" target="_blank">View Excluded Questions</a></li>
-  </ul>
+<li><a href="/teacher-user-guide/track-progress/access-learning-progress/" target="_blank">(A1) Access Learning Progress</a></li>
+<li><a href="/teacher-user-guide/track-progress/view-excluded-questions/" target="_blank">(A1,2) View Excluded Questions</a></li>
+<li><a href="/teacher-user-guide/track-progress/view-by-topic/" target="_blank">(A2,1) View by Topic</a></li>
+<li><a href="/teacher-user-guide/track-progress/view-by-month/" target="_blank">(A2,2) View by Month</a></li>
+<li><a href="/teacher-user-guide/track-progress/view-by-student/" target="_blank">(A2,3) View by Student</a></li>
+</ul>
 </details>
