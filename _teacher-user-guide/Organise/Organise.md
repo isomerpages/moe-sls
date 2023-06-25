@@ -65,42 +65,19 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <li><a target="_blank" href="/teacher-user-guide/organise/restore-resources-from-trash/">(F1,iii) Restore Resources from Trash</a></li>
 </ul>
 </details>
-
 <details>
 <summary><h4>G. How to organise Starred Resources?</h4></summary>
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/organise/star-resources/">(G1,i) Star Resources</a></li>
 </ul>
 </details>
-
 <details>
 <summary><h4>H. Ideas for Teaching &amp; Learning</h4></summary>
 <ul>
-<p>1. Recommended User Flows</p>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">Assign Past Exam Questions</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-lessons-in-class-groups/">Co-create Lessons in Class Groups</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/conduct-eassessments-in-class/">Conduct e-Assessments in Class</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/create-professional-learning-circles/">Create Professional Learning Circles</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/differentiate-learning-lessons-and-activities/">Differentiate Learning Lessons and Activities</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">Digitise Past Year Papers for Practice</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/empower-students-to-be-self-directed-learners/">Empower Students to be Self Directed Learners</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/encourage-curiosity-through-class-groups/">Encourage Curiosity through Class Groups</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/facilitating-schoolwide-pd/">Facilitating School-wide PD</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/integrate-external-sites-and-applications/">Integrate External Sites and Applications</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/jigsaw-activities-for-teamwork/">Jigsaw Activities for Teamwork</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/manage-in-class-teaching-more-effectively/">Manage In-Class Teaching more Effectively</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/motivate-students-with-a-game-like-experience/">Motivate Students with a Game like Experience</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/nurture-collaboration-in-gamified-lessons/">Nurture Collaboration in Gamified Lessons</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/track-students-learning-progress/">Track Students’ Learning Progress</a></li>
-<p>2. Useful Resources</p>
-</ul>
-<ul>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/R18_ClassGroupPoll.pdf">Class Group Poll</a></li>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/R18_Enhanced_Lesson_Authoring_navigation.pdf">Enhanced Lesson Authoring and Navigation</a></li>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/using sls for dept review.pdf">Using SLS for Department Teaching &amp; Learning Review</a></li>
-<li><a target="_blank" href="http://for.edu.sg/EVS">Eliciting Voices of Students with Diverse Learning Needs</a></li>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/Phygital_learning.pdf">Let's get Phygital with SLS</a></li>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/TeamsvsSubgroups.pdf">Teams vs Subgroups</a></li>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/R18_ClassGroupPoll.pdf">(H1,i) Class Group Poll</a></li>	
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/encourage-curiosity-through-class-groups/">(H1,ii) Encourage Curiosity through Class Groups</a></li>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/empower-students-to-be-self-directed-learners/">(H1,iii) Empower Students to be Self Directed Learners</a></li>	
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/facilitating-schoolwide-pd/">(H1,iv) Facilitating School-wide PD</a></li>
 <li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/using sls for whole school transformation of t&amp;l.pdf">Using SLS for Whole School Transformation of Teaching &amp; Learning</a></li>	
 </ul>
 </details>
