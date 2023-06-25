@@ -10,9 +10,9 @@ third_nav_title: Publish
 <img src="/images/2Teacher/Flow-Publish.png">
 
 <details>
- <summary><h4>How to submit Lessons to Community Gallery?</h4></summary>
+ <summary><h4>A. How to submit Lessons to Community Gallery?</h4></summary>
 <ul>
-    <li><a target="_blank" href="/teacher-user-guide/publish/submit-lessons/">(1) Submit Lessons</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/publish/copyright-guidelines-for-submission/">(2) Copyright Guidelines for Submission</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/publish/submit-lessons/">(A1) Submit Lessons</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/publish/copyright-guidelines-for-submission/">(A2) Copyright Guidelines for Submission</a></li>
   </ul>
 </details>
