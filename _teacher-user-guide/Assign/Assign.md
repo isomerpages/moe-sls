@@ -34,3 +34,9 @@ third_nav_title: Assign
     <li><a target="_blank" href="/teacher-user-guide/assign/highlight-and-annotate-in-teachers-copy-of-assignment/">(B1,x) Highlight and Annotate in Teacher's Copy of Assignment</a></li>
   </ul>
 </details>
+<details>
+<summary><h4>C. Ideas for Teaching &amp; Learning</h4></summary>
+<ul>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">(C1,i) Assign Past Exam Questions</a></li>	
+</ul>
+</details>
