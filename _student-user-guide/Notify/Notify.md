@@ -10,10 +10,8 @@ third_nav_title: Notify
 <img style="width: 50%;" src="/images/1Student/Flow-Notify.png">
 <br>
 <a target="_blank" href="/student-user-guide/notify/about-notifications/">About Notifications (New)</a>
-
-<details><summary><h4>What are Notifications? (New)</h4></summary>
-
+<details><summary><h4>A. What are Notifications? (New)</h4></summary>
 <ul>
-<li><a target="_blank" href="/student-user-guide/notify/view-notifications/">View Notifications (New)</a></li>
+<li><a target="_blank" href="/student-user-guide/notify/view-notifications/">(A1,i) View Notifications (New)</a></li>
 </ul>
 </details>
