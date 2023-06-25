@@ -10,27 +10,24 @@ third_nav_title: Customise
 <img style="width: 50%;" alt="Flow Customise" src="/images/2Teacher/Flow-Customise.png">
 
 <details>
- <summary><h4>How to manage my SLS account?</h4></summary>
+ <summary><h4>A. How to manage my SLS account?</h4></summary>
 <ul>
 	<p>Manage Personal Account</p>
-  <li><a target="_blank" href="/teacher-user-guide/customise/customise-an-avatar/">Customise an Avatar</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/customise/change-display-name/">Change Display Name</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/customise/set-an-alternate-email-address/">Set an Alternate Email Address</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/customise/set-email-notifications/">Set Email Notifications (New)</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/customise/manage-linked-account/">Manage Linked Account</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/customise/change-sls-password/">Change SLS Password</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/customise-an-avatar/">(A1,i) Customise an Avatar</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/change-display-name/">(A1,ii) Change Display Name</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/set-an-alternate-email-address/">(A1,iii) Set an Alternate Email Address</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/set-email-notifications/">(A1,iv) Set Email Notifications (New)</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/manage-linked-account/">(A1,v) Manage Linked Account</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/change-sls-password/">(A1,vi) Change SLS Password</a></li>
 	<p>Using Teacher's Student Account</p>
-  <li><a target="_blank" href="/teacher-user-guide/customise/switch-to-student-account/">Switch to Student Account</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/switch-to-student-account/">(A1,vii) Switch to Student Account</a></li>
 </ul>
 </details>
 <br>
   <img style="width: 50%;" alt="Flow Customise" src="/images/2Teacher/Flow-Customise1.png">
-
-
 <details>
- <summary><h4>How to create/manage my own Lesson Templates?</h4></summary>
-
+ <summary><h4>B. How to create/manage my own Lesson Templates?</h4></summary>
 <ul>
-  <li><a target="_blank" href="/teacher-user-guide/customise/manage-my-templates/">Manage My Templates</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/manage-my-templates/">(B1,i) Manage My Templates</a></li>
 </ul>
 </details>
