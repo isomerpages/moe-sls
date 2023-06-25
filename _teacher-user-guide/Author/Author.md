@@ -8,7 +8,7 @@ third_nav_title: Author
 <p>Use SLS to design lesson resources aligned to the e-pedagogical principles.</p>
 <br>
 <img style="width: 100%;" src="/images/2Teacher/Flow-Author.png">
-<details><summary><h4>How to create Lessons?</h4></summary>
+<details><summary><h4>A. How to create Lessons?</h4></summary>
 <ul>
 <li><a href="/teacher-user-guide/author/create-new-lessons/" target="_blank">Create Lessons (New)</a></li></ul>
 
@@ -54,27 +54,27 @@ third_nav_title: Author
 </ul>
 </details>
 
-<details><summary><h4>More about Lessons</h4></summary>
+<details><summary><h4>B. More about Lessons</h4></summary>
 <ul>
-<li><a href="/teacher-user-guide/author/about-templates/" target="_blank">About Templates</a></li>
-<li><a href="/teacher-user-guide/author/manage-lessons/" target="_blank">Manage Lessons</a></li>
-<li><a href="/teacher-user-guide/author/edit-lessons/" target="_blank">Edit Lessons (Enhanced)</a></li>
-<li><a href="/teacher-user-guide/author/edit-activities-and-sections/" target="_blank">Edit Activities &amp; Sections (Enhanced)</a></li>	
-<li><a href="/teacher-user-guide/author/view-and-edit-lesson-plans/" target="_blank">View and Edit Lesson Plans</a></li>
-<li><a href="/teacher-user-guide/author/make-a-copy-of-lessons-or-assignments/" target="_blank">Make a Copy of Lessons &amp; Assignments</a></li>
-<li><a href="/teacher-user-guide/author/edit-detail-cards/" target="_blank">Edit Detail cards (New)</a></li>
-<li><a href="/teacher-user-guide/author/add-question-tags/" target="_blank">Add Question Tags</a></li>
-<li><a href="/teacher-user-guide/author/add-lesson-tags/" target="_blank">Add Lesson Tags</a></li>
-<li><a href="/teacher-user-guide/author/edit-media-objects/" target="_blank">Edit Media Objects</a></li>
-<li><a href="/teacher-user-guide/author/move-lessons-to-trash/" target="_blank">Move Lessons to Trash</a></li>
-<li><a href="/teacher-user-guide/author/file-size-limits/" target="_blank">File Size Limits</a></li>
+<li><a href="/teacher-user-guide/author/about-templates/" target="_blank">(B1,i) About Templates</a></li>
+<li><a href="/teacher-user-guide/author/manage-lessons/" target="_blank">(B1,ii) Manage Lessons</a></li>
+<li><a href="/teacher-user-guide/author/edit-lessons/" target="_blank">(B1,iii) Edit Lessons (Enhanced)</a></li>
+<li><a href="/teacher-user-guide/author/edit-activities-and-sections/" target="_blank">(B1,iv) Edit Activities &amp; Sections (Enhanced)</a></li>	
+<li><a href="/teacher-user-guide/author/view-and-edit-lesson-plans/" target="_blank">(B1,v) View and Edit Lesson Plans</a></li>
+<li><a href="/teacher-user-guide/author/make-a-copy-of-lessons-or-assignments/" target="_blank">(B1,vi) Make a Copy of Lessons &amp; Assignments</a></li>
+<li><a href="/teacher-user-guide/author/edit-detail-cards/" target="_blank">(B1,vii) Edit Detail cards (New)</a></li>
+<li><a href="/teacher-user-guide/author/add-question-tags/" target="_blank">(B1,viii) Add Question Tags</a></li>
+<li><a href="/teacher-user-guide/author/add-lesson-tags/" target="_blank">(B1,ix) Add Lesson Tags</a></li>
+<li><a href="/teacher-user-guide/author/edit-media-objects/" target="_blank">(B1,x) Edit Media Objects</a></li>
+<li><a href="/teacher-user-guide/author/move-lessons-to-trash/" target="_blank">(B1,xi) Move Lessons to Trash</a></li>
+<li><a href="/teacher-user-guide/author/file-size-limits/" target="_blank">(B1,xii) File Size Limits</a></li>
 </ul>
 </details>
 
-<details><summary><h4>What are the copyright guidelines for resources?</h4></summary>
+<details><summary><h4>C. What are the copyright guidelines for resources?</h4></summary>
 <ul>
-  <li><a href="/teacher-user-guide/author/resources/" target="_blank">Resources</a></li>
-  <li><a href="/teacher-user-guide/author/copyright-faqs/" target="_blank">Copyright FAQs</a></li>
-  <li><a href="/teacher-user-guide/author/email-template-for-copyright-clearance/" target="_blank">Email Template for Copyright Clearance</a></li>
+  <li><a href="/teacher-user-guide/author/resources/" target="_blank">(C1,i) Resources</a></li>
+  <li><a href="/teacher-user-guide/author/copyright-faqs/" target="_blank">(C1,ii) Copyright FAQs</a></li>
+  <li><a href="/teacher-user-guide/author/email-template-for-copyright-clearance/" target="_blank">(C1,iii) Email Template for Copyright Clearance</a></li>
 </ul>
 </details>
