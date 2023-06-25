@@ -5,68 +5,59 @@ description: ""
 third_nav_title: Administer
 ---
 <h1>Administer</h1>
-Use SLS to manage surveys and tests to schools centrally and track broad teacher and student edtech use, T&amp;L processes and outcomes to plan system T&amp;L directions.
-
+<p>Use SLS to manage surveys and tests to schools centrally and track broad teacher and student edtech use, T&amp;L processes and outcomes to plan system T&amp;L directions.</p>
 <details>
- <summary><h4>How to activate teacher accounts?</h4></summary>
-
+<summary><h4>A. How to activate teacher accounts?</h4></summary>
 <ul>
-  <li><a target="_blank" href="/admin-user-guide/administer/activate-teacher-accounts/">Activate Teacher Accounts</a></li>
+<li><a target="_blank" href="/admin-user-guide/administer/activate-teacher-accounts/">(A1,i) Activate Teacher Accounts</a></li>
 </ul>
 </details>
-
 <details>
- <summary><h4>How to activate student accounts?</h4></summary>
-
+<summary><h4>B. How to activate student accounts?</h4></summary>
 <ul>
-  <li><a target="_blank" href="/admin-user-guide/administer/prepare-student-accounts-through-school-cockpit/">1. Prepare Student Accounts through School Cockpit</a></li>
-  <li><a target="_blank" href="/admin-user-guide/administer/inform-parents-of-student-sls-ids/">2. Inform Parents of Student SLS IDs</a></li>
-	<li><a target="_blank" href="/admin-user-guide/administer/initiate-student-account-activation/">3. Initiate Student Account Activation</a></li>
-	<li><a target="_blank" href="/admin-user-guide/administer/monitor-student-activation/">4. Monitor Student Activation</a></li>
+  <li><a target="_blank" href="/admin-user-guide/administer/prepare-student-accounts-through-school-cockpit/">(B1) Prepare Student Accounts through School Cockpit</a></li>
+  <li><a target="_blank" href="/admin-user-guide/administer/inform-parents-of-student-sls-ids/">(B2) Inform Parents of Student SLS IDs</a></li>
+	<li><a target="_blank" href="/admin-user-guide/administer/initiate-student-account-activation/">(B3) Initiate Student Account Activation</a></li>
+	<li><a target="_blank" href="/admin-user-guide/administer/monitor-student-activation/">(B4) Monitor Student Activation</a></li>
 </ul>
 </details>
-
 <details>
- <summary><h4>How to reset and unlock accounts?</h4></summary>
-
+ <summary><h4>C. How to reset and unlock accounts?</h4></summary>
 <ul>
-  <li><a target="_blank" href="/admin-user-guide/administer/reset-passwords/">Reset Passwords </a></li>
-	  <li><a target="_blank" href="/admin-user-guide/administer/unlock-account/">Unlock Account</a></li>
+  <li><a target="_blank" href="/admin-user-guide/administer/reset-passwords/">(C1,i) Reset Passwords </a></li>
+	  <li><a target="_blank" href="/admin-user-guide/administer/unlock-account/">(C1,ii) Unlock Account</a></li>
 </ul>
 </details>
-
 <details>
- <summary><h4>How to manage users?</h4></summary>
-
+<summary><h4>D. How to manage users?</h4></summary>
 <ul>
-  <li><a target="_blank" href="/admin-user-guide/administer/about-manage-users/">About Manage Users</a></li>
+  <li><a target="_blank" href="/admin-user-guide/administer/about-manage-users/">(D1,i) About Manage Users</a></li>
 </ul>
-	  <li><a target="_blank" href="/admin-user-guide/administer/export-full-user-list/">Export Full User List</a></li>
-
-  <li><a target="_blank" href="/admin-user-guide/administer/verification-exercise/">Verification Exercise</a></li>
-
+	  <li><a target="_blank" href="/admin-user-guide/administer/export-full-user-list/">(D1,ii) Export Full User List</a></li>
+  <li><a target="_blank" href="/admin-user-guide/administer/verification-exercise/">(D1,iii) Verification Exercise</a></li>
 </details>
-
 <details>
- <summary><h4>How to manage subjects?</h4></summary>
-
+<summary><h4>E. How to manage subjects?</h4></summary>
 <ul>
-  <li><a target="_blank" href="/admin-user-guide/administer/manage-subjects-for-schools-not-using-school-cockpit/">Manage Subjects (For Schools Not Using School Cockpit)</a></li>
+ <li><a target="_blank" href="/admin-user-guide/administer/manage-subjects-for-schools-not-using-school-cockpit/">(E1,i) Manage Subjects (For Schools Not Using School Cockpit)</a></li>
 </ul>
 </details>
-
 <details>
- <summary><h4>How to manage Class Groups?</h4></summary>
-
+ <summary><h4>F. How to manage Class Groups?</h4></summary>
 <ul>
-  <li><a target="_blank" href="/admin-user-guide/administer/manage-class-groups/">Manage Class Groups</a></li>
+  <li><a target="_blank" href="/admin-user-guide/administer/manage-class-groups/">(F1,i) Manage Class Groups</a></li>
 </ul>
 </details>
-
 <details>
- <summary><h4>How to have an overview of the Assignments in my school?</h4></summary>
-
+ <summary><h4>G. How to have an overview of the Assignments in my school?</h4></summary>
 <ul>
-  <li><a target="_blank" href="/admin-user-guide/administer/generate-reports/">Generate Reports</a></li>
+  <li><a target="_blank" href="/admin-user-guide/administer/generate-reports/">(G1,i) Generate Reports</a></li>
+</ul>
+</details>
+<details>
+<summary><h4>H. Ideas for Teaching &amp; Learning</h4></summary>
+<ul>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/using sls for whole school transformation of t&amp;l.pdf">Using SLS for Whole School Transformation of Teaching &amp; Learning</a>
+</li>
 </ul>
 </details>
