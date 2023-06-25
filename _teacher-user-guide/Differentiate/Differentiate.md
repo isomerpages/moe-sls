@@ -20,7 +20,14 @@ third_nav_title: Differentiate
 <details>
  <summary><h4>B. How to provide differentiated access to students?</h4></summary>
 <ul>
-    <li><a target="_blank" href="/teacher-user-guide/differentiate/add-section-prerequisites/">(B1,i) Add Section Prerequisites</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/differentiate/set-differentiated-access/">(B1,ii) Set Differentiated Access</a></li>
-  </ul>
+<li><a target="_blank" href="/teacher-user-guide/differentiate/add-section-prerequisites/">(B1,i) Add Section Prerequisites</a></li>
+<li><a target="_blank" href="/teacher-user-guide/differentiate/set-differentiated-access/">(B1,ii) Set Differentiated Access</a></li>
+</ul>
+</details>
+<details>
+<summary><h4>C. Ideas for Teaching &amp; Learning</h4></summary>
+<ul>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/differentiate-learning-lessons-and-activities/">(C1,i) Differentiate Learning Lessons and Activities</a></li>
+<li><a target="_blank" href="http://for.edu.sg/EVS">(C1,ii) Eliciting Voices of Students with Diverse Learning Needs</a></li>
+</ul>
 </details>
