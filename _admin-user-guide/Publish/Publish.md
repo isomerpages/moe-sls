@@ -5,23 +5,20 @@ description: ""
 third_nav_title: Publish
 ---
 <h1>Publish</h1>
-Use SLS to publish resources to make it available and discoverable to teachers and students.
-
+<p>Use SLS to publish resources to make it available and discoverable to teachers and students.
+</p>
 <details>
- <summary><h4>How to create and manage MOE Library resources?</h4></summary>
-
+ <summary><h4>A. How to create and manage MOE Library resources?</h4></summary>
 <ul>
-  <li><a target="_blank" href="/admin-user-guide/publish/create-moe-library-resources/">1. Create MOE Library Resources (Enhanced)</a></li>
-  <li><a target="_blank" href="/admin-user-guide/publish/manage-lessons/">2. Manage Lessons</a></li>
-  <li><a target="_blank" href="/admin-user-guide/publish/manage-media/">3. Manage Media</a></li>
+  <li><a target="_blank" href="/admin-user-guide/publish/create-moe-library-resources/">(A1) Create MOE Library Resources (Enhanced)</a></li>
+  <li><a target="_blank" href="/admin-user-guide/publish/manage-lessons/">(A2) Manage Lessons</a></li>
+  <li><a target="_blank" href="/admin-user-guide/publish/manage-media/">(A3) Manage Media</a></li>
 </ul>
-</details>
-	
-<details><summary><h4>More about Owner Groups</h4></summary>
-	
+</details>	
+<details><summary><h4>B. More about Owner Groups</h4></summary>	
 <ul>
-  <li><a href="/admin-user-guide/publish/generate-ccpm-reports/" target="_blank">Generate CCPM Reports (New)</a></li>
-  <li><a href="/admin-user-guide/publish/manage-owner-groups/" target="_blank">Manage Owner Groups</a></li>
-  <li><a href="/admin-user-guide/publish/manage-content-maps/" target="_blank">Manage Content Maps</a></li>
+  <li><a href="/admin-user-guide/publish/generate-ccpm-reports/" target="_blank">(B1,i) Generate CCPM Reports (New)</a></li>
+  <li><a href="/admin-user-guide/publish/manage-owner-groups/" target="_blank">(B1,ii) Manage Owner Groups</a></li>
+  <li><a href="/admin-user-guide/publish/manage-content-maps/" target="_blank">(B1,iii) Manage Content Maps</a></li>
 </ul>
 </details>
