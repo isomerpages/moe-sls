@@ -2,6 +2,7 @@ collections:
   student-user-guide:
     output: true
     order:
+      - Index.md
       - (i) Organise.md
       - (ii) Author.md
       - (iii) Enact.md
