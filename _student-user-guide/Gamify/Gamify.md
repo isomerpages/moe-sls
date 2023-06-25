@@ -11,7 +11,7 @@ third_nav_title: Gamify
 
 <a target="_blank" href="/student-user-guide/gamify/about-gamification/">About Gamification</a>
 
-<details><summary><h4>How to attempt gamified resources?</h4></summary>
+<details><summary><h4>A. How to attempt gamified resources?</h4></summary>
 <ul>
 <li><a target="_blank" href="/student-user-guide/gamify/attempt-a-gamified-lesson/">(A1,i) Attempt a Gamified Lesson</a></li>
     </ul>
