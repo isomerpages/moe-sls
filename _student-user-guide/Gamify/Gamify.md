@@ -9,11 +9,11 @@ third_nav_title: Gamify
 
 <img style="width: 50%;" src="/images/1Student/Flow-Gamify1.png">
 
-<a target="_blank" href="/student-user-guide/gamify/about-gamification/">A. About Gamification</a>
+<a target="_blank" href="/student-user-guide/gamify/about-gamification/">About Gamification</a>
 
-<details><summary><h4>(A1,i) How to attempt gamified resources?</h4></summary>
+<details><summary><h4>How to attempt gamified resources?</h4></summary>
 <ul>
-<li><a target="_blank" href="/student-user-guide/gamify/attempt-a-gamified-lesson/">(A1,ii) Attempt a Gamified Lesson</a></li>
+<li><a target="_blank" href="/student-user-guide/gamify/attempt-a-gamified-lesson/">(A1,i) Attempt a Gamified Lesson</a></li>
     </ul>
   </details>
 	
