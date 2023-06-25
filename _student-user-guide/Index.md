@@ -31,6 +31,6 @@ description: ""
 <img style="width: 100%;" src="/images/1Student/UG2.png">
 </li>
 <li><p>User flows that are made up of non-sequential steps will be labelled with a roman number (i.e. A1,<strong>i</strong>)</p>
-<img style="width: 100%;" src="/images/1Student/UG3.png">
+<img style="width: 80%;" src="/images/1Student/UG3.png">
 </li>
 </ol>
