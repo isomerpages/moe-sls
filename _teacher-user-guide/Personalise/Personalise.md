@@ -9,8 +9,8 @@ third_nav_title: Personalise
 <img style="width: 50%;" src="/images/2Teacher/Flow-Personalise.png">
 
 <details>
-<summary><h4>How to personalise/provide optional Lessons for students?</h4></summary>
+<summary><h4>A. How to personalise/provide optional Lessons for students?</h4></summary>
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/personalise/set-optional-activities-and-quizzes/">Set Optional Activities &amp; Quizzes</a></li>
+<li><a target="_blank" href="/teacher-user-guide/personalise/set-optional-activities-and-quizzes/">(A1,i) Set Optional Activities &amp; Quizzes</a></li>
 </ul>
 </details>
