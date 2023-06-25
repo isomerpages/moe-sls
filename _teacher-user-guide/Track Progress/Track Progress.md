@@ -21,5 +21,6 @@ third_nav_title: Track Progress
 <summary><h4>B. Ideas for Teaching &amp; Learning</h4></summary>
 <ul>
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/track-students-learning-progress/">(B1,i) Track Students’ Learning Progress</a></li>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/using sls for dept review.pdf">(B1,ii) Using SLS for Department Teaching &amp; Learning Review</a></li>	
 </ul>
 </details>
