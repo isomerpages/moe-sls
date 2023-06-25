@@ -38,5 +38,6 @@ third_nav_title: Assign
 <summary><h4>C. Ideas for Teaching &amp; Learning</h4></summary>
 <ul>
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">(C1,i) Assign Past Exam Questions</a></li>	
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/empower-students-to-be-self-directed-learners/">(C1,ii) Empower Students to be Self Directed Learners</a></li>	
 </ul>
 </details>
