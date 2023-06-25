@@ -9,8 +9,8 @@ third_nav_title: Enact
 <img style="width: 50%;" src="/images/2Teacher/Flow-Enact.png">
 
 <details>
- <summary><h4>How to manage Activity pacing?</h4></summary>
+ <summary><h4>A. How to manage Activity pacing?</h4></summary>
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/enact/change-access-to-activities/">Change Access to Activities</a></li>
+<li><a target="_blank" href="/teacher-user-guide/enact/change-access-to-activities/">(A1,i) Change Access to Activities</a></li>
 </ul>
 </details>
