@@ -3,6 +3,7 @@ title: Students UG
 permalink: /student-user-guide/students-ug/
 description: ""
 ---
+<h1>Students User Guide (UG)</h1>
 <h2 id="how-to-navigate-the-user-guide-categories">How to navigate the User Guide Categories</h2>
 <hr>
 <ol>
