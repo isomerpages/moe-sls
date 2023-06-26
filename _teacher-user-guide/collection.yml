@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Teachers UG.md
       - (i) Organise.md
       - (ii) Author.md
       - (iii) Enact.md
