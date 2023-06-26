@@ -2,6 +2,7 @@ collections:
   student-user-guide:
     output: true
     order:
+      - Students UG.md
       - (i) Organise.md
       - (ii) Author.md
       - (iii) Enact.md
@@ -111,4 +112,3 @@ collections:
       - Track Progress/(2a) View by Topic.md
       - Track Progress/(2b) View by Month.md
       - Track Progress/(2c) View by Question.md
-      - Students UG.md
