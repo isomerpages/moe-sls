@@ -27,7 +27,7 @@ third_nav_title: Gamify
     <li><a target="_blank" href="/teacher-user-guide/gamify/display-leaderboard-for-students/">(B1,i) Display Leaderboard for Students (Improved)</a></li>
   </ul>
 </details>
-<br>
+
 <details>
  <summary><h4>C. More about Gamification</h4></summary>
 <ul>
