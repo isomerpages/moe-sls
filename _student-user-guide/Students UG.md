@@ -9,7 +9,7 @@ description: ""
 <ol>
 <li>There are two types of categories on the left menu (collapsible menu for mobile devices).<ol style="list-style-type: lower-alpha;">
 <li>Categories that are numbered (e.g. (i) Organise), are clusters which lead to multiple categories. </li>
-<li>Categories that are not numbered e.g. Organise), are single categories which lead to the relevant user flows, i.e. questions.</li>
+<li>Categories that are not numbered (e.g. Organise), are single categories which lead to the relevant user flows, i.e. questions.</li>
 </ol>
 </li>
 </ol>
@@ -32,6 +32,6 @@ description: ""
 <img style="width: 100%;" src="/images/1Student/UG2.png">
 </li>
 <li><p>User flows that are made up of non-sequential steps will be labelled with a roman number (i.e. A1,<strong>i</strong>)</p>
-<img style="width: 80%;" src="/images/1Student/UG3.png">
+<img align="left" style="width:70%;" src="/images/1Student/UG3.png">
 </li>
 </ol>
