@@ -2,6 +2,7 @@ collections:
   student-user-guide:
     output: true
     order:
+      - Explore SLS.md
       - Students UG.md
       - (i) Organise.md
       - (ii) Author.md
