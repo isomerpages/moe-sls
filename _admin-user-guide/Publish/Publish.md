@@ -7,7 +7,7 @@ third_nav_title: Publish
 <h1>Publish</h1>
 <p>Use SLS to publish resources to make it available and discoverable to teachers and students.
 </p>
-<img style="width: 100%;" src="/images/5Admin/Flow-Publish.png">
+<img style="width: 100%;" src="/images/5Admin/Flow-Publish.svg">
 <details>
  <summary><h4>A. How to create and manage MOE Library resources?</h4></summary>
 <ul>
