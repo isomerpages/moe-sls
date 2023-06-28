@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Explore SLS Functions.md
-      - (ii) Author.md
       - (iii) Enact.md
       - (iv) Assess.md
       - Assess/.keep
