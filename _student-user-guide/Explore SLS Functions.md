@@ -3,7 +3,7 @@ title: Explore SLS Functions
 permalink: /student-user-guide/explore-sls-functions/
 description: ""
 ---
-<h1>Explore SLS</h1>
+<h1>Explore SLS Functions</h1>
 Learn more about what the Singapore Student Learning Space (SLS) can do with the overview of SLS functions&nbsp;below
 
 <a id="1assess" target="_blank" href="/student-user-guide/assess/index/">Click here</a> for more information on how to navigate the userguide.
