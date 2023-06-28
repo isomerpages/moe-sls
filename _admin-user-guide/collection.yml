@@ -2,6 +2,7 @@ collections:
   admin-user-guide:
     output: true
     order:
+      - Explore SLS Functions.md
       - Admin UG.md
       - (i) Organise.md
       - (ii) Administer.md
