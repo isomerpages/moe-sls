@@ -20,7 +20,7 @@ third_nav_title: Assess
   </ul>
 </details>
 
-<img src="/images/2Teacher/Flow-Assess2.png">
+<img src="/images/2Teacher/Flow-Assess2.svg">
 
 <details>
  <summary><h4>B. How to assess students using Teacher-Marked Quizzes?</h4></summary>
