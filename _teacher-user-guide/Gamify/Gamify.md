@@ -37,6 +37,6 @@ third_nav_title: Gamify
 <details>
 <summary><h4>D. Ideas for Teaching &amp; Learning</h4></summary>
 <ul>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/motivate-students-with-a-game-like-experience/">(D1,i) Motivate Students with a Game like Experience</a></li>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/motivate-students-with-a-game-like-experience/">(D1) Motivate Students with a Game like Experience</a></li>
 </ul>
 </details>
