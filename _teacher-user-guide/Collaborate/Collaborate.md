@@ -28,7 +28,7 @@ third_nav_title: Collaborate
   </ul>
 </details>
 <br>
-<img style="width: 50%;" src="/images/2Teacher/Flow-Collaborate3.png">
+<img style="width: 50%;" src="/images/2Teacher/Flow-Collaborate3.svg">
 <details>
  <summary><h4>C. How can students collaborate in SLS?</h4></summary>
 <ul>
