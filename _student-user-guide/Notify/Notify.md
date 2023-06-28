@@ -12,6 +12,6 @@ third_nav_title: Notify
 <a target="_blank" href="/student-user-guide/notify/about-notifications/">About Notifications (New)</a>
 <details><summary><h4>A. What are Notifications? (New)</h4></summary>
 <ul>
-<li><a target="_blank" href="/student-user-guide/notify/view-notifications/">(A1,i) View Notifications (New)</a></li>
+<li><a target="_blank" href="/student-user-guide/notify/view-notifications/">(A1) View Notifications (New)</a></li>
 </ul>
 </details>
