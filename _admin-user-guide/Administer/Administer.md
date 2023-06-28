@@ -35,10 +35,10 @@ third_nav_title: Administer
 <details>
 <summary><h4>D. How to manage users?</h4></summary>
 <ul>
-  <li><a target="_blank" href="/admin-user-guide/administer/about-manage-users/">(D1,i) About Manage Users</a></li>
-</ul>
-	  <li><a target="_blank" href="/admin-user-guide/administer/export-full-user-list/">(D1,ii) Export Full User List</a></li>
+<li><a target="_blank" href="/admin-user-guide/administer/about-manage-users/">(D1,i) About Manage Users</a></li>
+<li><a target="_blank" href="/admin-user-guide/administer/export-full-user-list/">(D1,ii) Export Full User List</a></li>
   <li><a target="_blank" href="/admin-user-guide/administer/verification-exercise/">(D1,iii) Verification Exercise</a></li>
+</ul>	
 </details>
 <details>
 <summary><h4>E. How to manage subjects?</h4></summary>
