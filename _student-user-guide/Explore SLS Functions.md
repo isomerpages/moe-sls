@@ -50,9 +50,11 @@ Use SLS to track your own progress within and across lessons and assignments.
 <img src="/images/1Student/UG2.png" style="width: 100%;">
 </li>
 <li><p>User flows that are made up of non-sequential steps will be labelled with a roman number (i.e. A1,<strong>i</strong>)</p>
+<div align="left"><img src="/images/1Student/UG3.png" style="width:70%;"></div>
+<br>
+<img align="left" src="/images/1Student/UG3.png" style="width:70%;">
 </li>
 </ol>
-<div align="left"><img src="/images/1Student/UG3.png" style="width:70%;"></div>
 <h2 id="how-to-follow-the-user-flow">How to follow the User Flow</h2>
 <hr>
 <ol>
