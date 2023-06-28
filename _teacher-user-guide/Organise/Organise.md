@@ -68,7 +68,7 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <details>
 <summary><h4>G. How to organise Starred Resources?</h4></summary>
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/organise/star-resources/">(G1,i) Star Resources</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/star-resources/">(G1) Star Resources</a></li>
 </ul>
 </details>
 <details>
