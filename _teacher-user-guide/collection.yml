@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Explore SLS Functions.md
-      - (iv) Assess.md
       - (v) Administer.md
       - Administer/.keep
       - Administer/Administer.md
