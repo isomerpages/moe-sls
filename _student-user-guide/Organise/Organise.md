@@ -33,7 +33,7 @@ third_nav_title: Organise
 </details>
 <details><summary><h4>D. How to star resources?</h4></summary>
 <ul>
-<li><a target="_blank" href="/student-user-guide/organise/star-resources/">(D1,i) Star Resources</a></li>
+<li><a target="_blank" href="/student-user-guide/organise/star-resources/">(D1) Star Resources</a></li>
 </ul>
 </details>
 <details><summary><h4>E. What are My Subjects?</h4></summary>
