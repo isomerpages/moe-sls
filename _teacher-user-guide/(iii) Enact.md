@@ -3,7 +3,7 @@ title: (iii) Enact
 permalink: /teacher-user-guide/enact/
 description: ""
 ---
-<h1>Enact</h1>
+<h2>Enact</h2>
 <hr>
 <h3><a id="assign" target="_blank" href="/teacher-user-guide/assign/index/">1. Assign</a></h3>
 Use SLS to assign lessons to your students for them to complete within a specific time.
