@@ -6,14 +6,11 @@ third_nav_title: Collaborate
 ---
 <h1>Collaborate</h1>
 <p>Use SLS to easily access collaborative learning activities together at the same time or different times. </p>
-
-<a target="_blank" href="/student-user-guide/collaborate/about-assignment-sharing/">About Assignment Sharing</a>
-
 <img style="width: 100%;" src="/images/1Student/Flow-Collaborate1.png">
-
 <details><summary><h4>A. How to share my Assignment with peers?</h4></summary>
  <ul>
-    <li><a target="_blank" href="/student-user-guide/collaborate/request-to-share-assignment/">(A1,1) Request to Share Assignment</a></li>
+<li><a target="_blank" href="/student-user-guide/collaborate/about-assignment-sharing/">About Assignment Sharing</a></li>
+<li><a target="_blank" href="/student-user-guide/collaborate/request-to-share-assignment/">(A1,1) Request to Share Assignment</a></li>
     <li><a target="_blank" href="/student-user-guide/collaborate/accept-a-share-request/">(A1,2) Accept a Share Request</a></li>
     <li><a target="_blank" href="/student-user-guide/collaborate/interact-in-a-shared-assignment/">(A2) Interact in a Shared Assignment</a></li>
   </ul>
