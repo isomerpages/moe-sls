@@ -4,7 +4,7 @@ permalink: /student-user-guide/index/
 description: ""
 ---
 <h1>Explore SLS Functions</h1>
-<p>Learn more about what the Singapore Student Learning Space (SLS) can do with the overview of SLS functions&nbsp;below</p>
+<p>Learn more about what the Singapore Student Learning Space (SLS) can do with the overview of SLS functions&nbsp;below.</p>
 <p><a href="#how-to-navigate-the-user-guide-categories">Click here</a> for more information on how to navigate the userguide.</p>
 <h2>Organise</h2>
 <hr>
