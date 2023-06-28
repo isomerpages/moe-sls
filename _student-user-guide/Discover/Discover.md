@@ -19,6 +19,6 @@ third_nav_title: Discover
 </details>
 <details><summary><h4>B. How to use App Library?</h4></summary>
 <ul>
-  <li><a target="_blank" href="/student-user-guide/discover/access-app-library/">(B1,i) Access App Library</a></li>
+  <li><a target="_blank" href="/student-user-guide/discover/access-app-library/">(B1) Access App Library</a></li>
 </ul>
 </details>
