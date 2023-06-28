@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Explore SLS Functions.md
       - Teachers UG.md
       - (i) Organise.md
       - (ii) Author.md
