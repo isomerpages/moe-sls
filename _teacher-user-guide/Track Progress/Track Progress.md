@@ -6,7 +6,7 @@ third_nav_title: Track Progress
 ---
 <h1>Track Progress</h1>
 <p>Use SLS to track and compare student progress within and across lessons and assignments.</p>
-<img src="/images/2Teacher/Flow-TrackProgress.png">
+<img src="/images/2Teacher/Flow-TrackProgress.svg">
 <details>
 <summary><h4>A. How to monitor student’s Learning Progress?</h4></summary>
 <ul>
