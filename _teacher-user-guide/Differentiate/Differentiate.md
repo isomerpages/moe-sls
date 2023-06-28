@@ -6,7 +6,7 @@ third_nav_title: Differentiate
 ---
 <h1>Differentiate</h1>
 <p>Use SLS to differentiate lessons and activities for different groups of students.</p>
-<img src="/images/2Teacher/Flow-Differentiate1.png">
+<img src="/images/2Teacher/Flow-Differentiate1.svg">
 <details>
  <summary><h4>A. How to organise my students within Class Groups?</h4></summary>
 <ul>
@@ -16,7 +16,7 @@ third_nav_title: Differentiate
   </ul>
 </details>
 <br>
-<img style="width: 50%;" src="/images/2Teacher/Flow-Differentiate2.png">
+<img style="width: 50%;" src="/images/2Teacher/Flow-Differentiate2.svg">
 <details>
  <summary><h4>B. How to provide differentiated access to students?</h4></summary>
 <ul>
