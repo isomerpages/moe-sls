@@ -6,28 +6,27 @@ description: ""
 <h1>Explore SLS Functions</h1>
 <p>Learn more about what the Singapore Student Learning Space (SLS) can do with the overview of SLS functions&nbsp;below</p>
 <p><a href="#how-to-navigate-the-user-guide-categories">Click here</a> for more information on how to navigate the userguide.</p>
-
 <h2>Organise</h2>
 <hr>
-<h3><a id="notify" target="_blank" href="/admin-user-guide/notify/index/">1. Notify</a></h3>
+
+<h3><a id="discover" target="_blank" href="/teacher-user-guide/discover/index/">1. Discover</a>
+</h3>
+Use SLS to search for and find useful T&amp;L resources for use in your lessons.
+
+<h3><a id="notify" target="_blank" href="/teacher-user-guide/notify/index/">2. Notify</a></h3>
 Use SLS to notify other teachers and students easily on T&amp;L matters across the system, classes and individual levels.
 
-<h2>Administer</h2>
-<hr>
-<h3><a id="publish" target="_blank" href="/admin-user-guide/publish/index/">1. Publish</a></h3>
-Use SLS to publish resources to make it available and discoverable to teachers and students.
-<h3><a id="administer" target="_blank" href="/admin-user-guide/administer/index/">2. Administer</a></h3>
-Use SLS to manage surveys and tests to schools centrally and track broad teacher and student edtech use, T&amp;L processes and outcomes to plan system T&amp;L directions.
+<h3><a id="plan" target="_blank" href="/teacher-user-guide/plan/index/">3. Plan</a></h3>
+Use SLS to plan personal and class group events.
 
-<h2 id="how-to-navigate-the-user-guide-categories">How to navigate the User Guide Categories</h2>
-<hr>
-<ol>
-<li>There are two types of categories on the left menu (collapsible menu for mobile devices).<ol style="list-style-type: lower-alpha;">
-<li>Categories that are numbered (e.g. (i) Organise), are clusters which lead to multiple categories. </li>
-<li>Categories that are not numbered (e.g. Organise), are single categories which lead to the relevant user flows, i.e. questions.</li>
-</ol>
-</li>
-</ol>
+<h3><a id="4organise" target="_blank" href="/teacher-user-guide/organise/index/">4. Organise</a></h3>
+Use SLS to to organise your personal and class group resources, assignments and notifications.
+
+
+<h3><a id="customise" target="_blank" href="/teacher-user-guide/customise/index/">5. Customise</a></h3>
+Use SLS to to customise your avatar, UI and user experience based on your needs.
+
+
 <h2 id="how-to-follow-the-user-flow">How to follow the User Flow</h2>
 <hr>
 <ol>
