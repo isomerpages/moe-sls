@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Explore SLS Functions.md
-      - (v) Administer.md
       - Administer/.keep
       - Administer/Administer.md
       - Administer/(A1,i) Onboard New Students.md
