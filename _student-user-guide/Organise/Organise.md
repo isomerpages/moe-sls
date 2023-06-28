@@ -13,8 +13,8 @@ third_nav_title: Organise
 
 <ul>
 	  <li><a target="_blank" href="/student-user-guide/organise/about-class-groups/">About Class Groups</a></li>
-  <li><a target="_blank" href="/student-user-guide/organise/access-class-groups/">(A1,ii) Access Class Groups</a></li>
-  <li><a target="_blank" href="/student-user-guide/organise/access-past-class-groups/">(A1,iii) Access Past Class Groups</a></li>
+  <li><a target="_blank" href="/student-user-guide/organise/access-class-groups/">(A1,i) Access Class Groups</a></li>
+  <li><a target="_blank" href="/student-user-guide/organise/access-past-class-groups/">(A1,ii) Access Past Class Groups</a></li>
 </ul>	
 </details>
 <img style="width: 100%;" src="/images/1Student/Flow-Organise2.png">
