@@ -4,10 +4,8 @@ permalink: /student-user-guide/explore-sls-functions/
 description: ""
 ---
 <h1>Explore SLS Functions</h1>
-Learn more about what the Singapore Student Learning Space (SLS) can do with the overview of SLS functions&nbsp;below
-
-<a id="1assess" target="_blank" href="/student-user-guide/assess/index/">Click here</a> for more information on how to navigate the userguide.
-
+<p>Learn more about what the Singapore Student Learning Space (SLS) can do with the overview of SLS functions&nbsp;below</p>
+<p><a id="1assess" target="_blank" href="/student-user-guide/assess/index/">Click here</a> for more information on how to navigate the userguide.</p>
 <h2>Organise</h2>
 <hr>
 <h3><a id="discover" target="_blank" href="/student-user-guide/discover/index/">1. Discover</a></h3>
@@ -22,23 +20,27 @@ Use SLS to organize your personal and class group resources, assignments, conver
 Use SLS to plan and organise self-study resources and share good resources with peers.
 <h3><a id="customise" target="_blank" href="/student-user-guide/customise/index/">6. Customise</a></h3>
 Use SLS to customise your avatar, UI and user experience based on your needs.
+<hr>
 
-
-<details><summary><h2>Author</h2></summary>
+<h2>Author</h2>
+<hr>
 <h3><a id="gamify" target="_blank" href="/student-user-guide/gamify/index/">1. Gamify</a></h3>
 Use SLS to experience a game-like experience when going through your lesson.
-</details>	
+	
+<hr>
 
-<details><summary><h2>Enact</h2></summary>
+<h2>Enact</h2>
+<hr>
 <h3><a id="assign" target="_blank" href="/student-user-guide/assign/index/">1. Assign</a></h3>
 Use SLS to easily navigate lessons assigned by my teachers.
 <h3><a id="collaborate" target="_blank" href="/student-user-guide/collaborate/index/">2. Collaborate</a></h3>
 Use SLS to easily access collaborative learning activities together at the same time or different times.
-</details>	
+<hr>
 
-<details><summary><h2>Assess</h2></summary>
+<h2>Assess</h2>
+<hr>
 <h3><a id="1assess" target="_blank" href="/student-user-guide/assess/index/">1. Assess</a></h3>
 Use SLS to complete and submit work, easily access and follow up on teacher marks and feedback.
 <h3><a id="track-progress" target="_blank" href="/student-user-guide/track-progress/index/">2. Track Progress</a></h3>
 Use SLS to track your own progress within and across lessons and assignments.
-</details>
+<hr>
