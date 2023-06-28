@@ -20,14 +20,12 @@ Use SLS to organize your personal and class group resources, assignments, conver
 Use SLS to plan and organise self-study resources and share good resources with peers.
 <h3><a id="customise" target="_blank" href="/student-user-guide/customise/index/">6. Customise</a></h3>
 Use SLS to customise your avatar, UI and user experience based on your needs.
-<hr>
 
 <h2>Author</h2>
 <hr>
 <h3><a id="gamify" target="_blank" href="/student-user-guide/gamify/index/">1. Gamify</a></h3>
 Use SLS to experience a game-like experience when going through your lesson.
 	
-<hr>
 
 <h2>Enact</h2>
 <hr>
@@ -35,7 +33,6 @@ Use SLS to experience a game-like experience when going through your lesson.
 Use SLS to easily navigate lessons assigned by my teachers.
 <h3><a id="collaborate" target="_blank" href="/student-user-guide/collaborate/index/">2. Collaborate</a></h3>
 Use SLS to easily access collaborative learning activities together at the same time or different times.
-<hr>
 
 <h2>Assess</h2>
 <hr>
@@ -43,7 +40,6 @@ Use SLS to easily access collaborative learning activities together at the same 
 Use SLS to complete and submit work, easily access and follow up on teacher marks and feedback.
 <h3><a id="track-progress" target="_blank" href="/student-user-guide/track-progress/index/">2. Track Progress</a></h3>
 Use SLS to track your own progress within and across lessons and assignments.
-<hr>
 
 <h2 id="how-to-navigate-the-user-guide-categories">How to navigate the User Guide Categories</h2>
 <hr>
