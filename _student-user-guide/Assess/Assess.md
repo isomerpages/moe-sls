@@ -6,6 +6,7 @@ third_nav_title: Assess
 ---
 <h1>Assess</h1>
 <p>Use SLS to complete and submit work, easily access and follow up on teacher marks and feedback.</p>
+<img style="width: 100%;" src="/images/1Student/Flow-Assess1.png">
 <details><summary><h4>A. How to complete my Assignments?</h4></summary>
 <ul>
 <li><a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">(A1)  Navigate an Assignment</a></li>
@@ -38,7 +39,8 @@ third_nav_title: Assess
 <li><a target="_blank" href="/student-user-guide/assess/edictionary/">(A3,12) E-Dictionary</a></li>
 </ul>
 </details>
-
+<br>
+<img style="width: 100%;" src="/images/1Student/Flow-Assess2.png">
 <details><summary><h4>B. How to view completed Assignments?</h4></summary>
 <ul>
 <li><a target="_blank" href="/student-user-guide/assess/view-completed-assignments/">(B1) View Completed Assignments</a></li>
