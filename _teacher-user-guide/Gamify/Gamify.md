@@ -31,7 +31,7 @@ third_nav_title: Gamify
 <details>
  <summary><h4>C. More about Gamification</h4></summary>
 <ul>
-    <li><a target="_blank" href="/teacher-user-guide/gamify/award-xp-game-story-and-achievements-manually/">(C1,i) Award XP, Game Story &amp; Achievements Manually</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/gamify/award-xp-game-story-and-achievements-manually/">(C1) Award XP, Game Story &amp; Achievements Manually</a></li>
   </ul>
 </details>
 <details>
