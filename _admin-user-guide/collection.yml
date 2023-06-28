@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Explore SLS Functions.md
-      - (ii) Administer.md
       - Administer/.keep
       - Administer/Administer.md
       - Administer/(A1) Activate Teacher Account.md
