@@ -10,6 +10,6 @@ third_nav_title: Notify
 <details>
  <summary><h4>A. How to manage school-wide Announcements?</h4></summary>
 <ul>
-  <li><a target="_blank" href="/admin-user-guide/notify/manage-school-announcements/">(A1,i) Manage School Announcements (Enhanced)</a></li>
+  <li><a target="_blank" href="/admin-user-guide/notify/manage-school-announcements/">(A1) Manage School Announcements (Enhanced)</a></li>
 </ul>
 </details>
