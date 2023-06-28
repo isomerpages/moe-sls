@@ -15,7 +15,7 @@ collections:
       - Administer/(C1,i) Reset Passwords.md
       - Administer/(C1,ii) Unlock Account.md
       - Administer/About Manage Users.md
-      - Administer/Export Full User List.md
+      - Administer/(D1,i) Export Full User List.md
       - Administer/Verification Exercise.md
       - Administer/Manage Subjects (For Schools Not Using School Cockpit).md
       - Administer/Manage Class Groups.md
