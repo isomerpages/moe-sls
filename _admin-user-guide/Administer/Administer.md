@@ -35,26 +35,26 @@ third_nav_title: Administer
 <details>
 <summary><h4>D. How to manage users?</h4></summary>
 <ul>
-<li><a target="_blank" href="/admin-user-guide/administer/about-manage-users/">(D1,i) About Manage Users</a></li>
-<li><a target="_blank" href="/admin-user-guide/administer/export-full-user-list/">(D1,ii) Export Full User List</a></li>
-  <li><a target="_blank" href="/admin-user-guide/administer/verification-exercise/">(D1,iii) Verification Exercise</a></li>
+<li><a target="_blank" href="/admin-user-guide/administer/about-manage-users/">(D1) About Manage Users</a></li>
+<li><a target="_blank" href="/admin-user-guide/administer/export-full-user-list/">(D1,i) Export Full User List</a></li>
+  <li><a target="_blank" href="/admin-user-guide/administer/verification-exercise/">(D1,ii) Verification Exercise</a></li>
 </ul>	
 </details>
 <details>
 <summary><h4>E. How to manage subjects?</h4></summary>
 <ul>
- <li><a target="_blank" href="/admin-user-guide/administer/manage-subjects-for-schools-not-using-school-cockpit/">(E1,i) Manage Subjects (For Schools Not Using School Cockpit)</a></li>
+ <li><a target="_blank" href="/admin-user-guide/administer/manage-subjects-for-schools-not-using-school-cockpit/">(E1) Manage Subjects (For Schools Not Using School Cockpit)</a></li>
 </ul>
 </details>
 <details>
  <summary><h4>F. How to manage Class Groups?</h4></summary>
 <ul>
-  <li><a target="_blank" href="/admin-user-guide/administer/manage-class-groups/">(F1,i) Manage Class Groups</a></li>
+  <li><a target="_blank" href="/admin-user-guide/administer/manage-class-groups/">(F1) Manage Class Groups</a></li>
 </ul>
 </details>
 <details>
  <summary><h4>G. How to have an overview of the Assignments in my school?</h4></summary>
 <ul>
-  <li><a target="_blank" href="/admin-user-guide/administer/generate-reports/">(G1,i) Generate Reports</a></li>
+  <li><a target="_blank" href="/admin-user-guide/administer/generate-reports/">(G1) Generate Reports</a></li>
 </ul>
 </details>
