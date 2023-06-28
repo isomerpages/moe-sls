@@ -7,7 +7,7 @@ third_nav_title: Publish
 <h1>Publish</h1>
 <p>Use SLS to publish resources to make it available and discoverable to teachers and students.</p>
 
-<img src="/images/2Teacher/Flow-Publish.png">
+<img src="/images/2Teacher/Flow-Publish.svg">
 
 <details>
  <summary><h4>A. How to submit Lessons to Community Gallery?</h4></summary>
