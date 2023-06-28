@@ -48,7 +48,7 @@ third_nav_title: Assess
 <li><a target="_blank" href="/student-user-guide/assess/view-and-respond-to-teacher-comments/">(B3) View and Respond to Teacher Comments</a></li>
 </ul></details>
 <details><summary><h4>C. How to access Assessments?</h4></summary>
-<ul><li><a target="_blank" href="/student-user-guide/assess/about-assessments/">(C1,i) About Assessments (New)</a></li></ul>
+<ul><li><a target="_blank" href="/student-user-guide/assess/about-assessments/">(C1) About Assessments (New)</a></li></ul>
 </details>
 <details><summary><h4>D. What types of automated feedback are there? </h4></summary>
-<ul><li><a href="/student-user-guide/assess/about-mathematics-feedback-assistant" target="_blank">(D1,i) About Mathematics Feedback Assistant</a></li></ul></details>
+<ul><li><a href="/student-user-guide/assess/about-mathematics-feedback-assistant" target="_blank">(D1) About Mathematics Feedback Assistant</a></li></ul></details>
