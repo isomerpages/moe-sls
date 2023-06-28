@@ -48,5 +48,5 @@ sections:
         of MOE’s key initiatives to transform the learning experiences of
         Singaporean students.
       button: Find out more here
-      url: /about-sls/overviewofsls/
+      url: /about/overview-of-student-learning-space/
 ---
