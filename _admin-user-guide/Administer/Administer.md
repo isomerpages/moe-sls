@@ -10,7 +10,7 @@ third_nav_title: Administer
 <details>
 <summary><h4>A. How to activate teacher accounts?</h4></summary>
 <ul>
-<li><a target="_blank" href="/admin-user-guide/administer/activate-teacher-accounts/">(A1,i) Activate Teacher Accounts</a></li>
+<li><a target="_blank" href="/admin-user-guide/administer/activate-teacher-accounts/">(A1) Activate Teacher Accounts</a></li>
 </ul>
 </details>
 <img style="width: 100%;" src="/images/5Admin/Flow-Administer2.png">
