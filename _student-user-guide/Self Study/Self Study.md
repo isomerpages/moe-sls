@@ -9,7 +9,7 @@ third_nav_title: Self Study
 <details><summary><h4>A. How to use Adaptive Learning? </h4></summary>
 <ul>
 <li><a href="/student-user-guide/self-study/about-adaptive-learning-system/" target="_blank">About Adaptive Learning System (ALS)</a></li>
-<li><a href="/student-user-guide/self-study/access-adaptive-learning-system/" target="_blank">(A1,i) Access Adaptive Learning System (ALS)</a></li>
+<li><a href="/student-user-guide/self-study/access-adaptive-learning-system/" target="_blank">(A1) Access Adaptive Learning System (ALS)</a></li>
 </ul>	
 </details>
 <br>
