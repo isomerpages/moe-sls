@@ -6,12 +6,14 @@ third_nav_title: Administer
 ---
 <h1>Administer</h1>
 <p>Use SLS to manage surveys and tests to schools centrally and track broad teacher and student edtech use, T&amp;L processes and outcomes to plan system T&amp;L directions.</p>
+<img style="width: 100%;" src="/images/5Admin/Flow-Administer1.png">
 <details>
 <summary><h4>A. How to activate teacher accounts?</h4></summary>
 <ul>
 <li><a target="_blank" href="/admin-user-guide/administer/activate-teacher-accounts/">(A1,i) Activate Teacher Accounts</a></li>
 </ul>
 </details>
+<img style="width: 100%;" src="/images/5Admin/Flow-Administer2.png">
 <details>
 <summary><h4>B. How to activate student accounts?</h4></summary>
 <ul>
@@ -21,6 +23,7 @@ third_nav_title: Administer
 	<li><a target="_blank" href="/admin-user-guide/administer/monitor-student-activation/">(B4) Monitor Student Activation</a></li>
 </ul>
 </details>
+<img style="width: 100%;" src="/images/5Admin/Flow-Administer3.png">	
 <details>
  <summary><h4>C. How to reset and unlock accounts?</h4></summary>
 <ul>
@@ -28,6 +31,7 @@ third_nav_title: Administer
 	  <li><a target="_blank" href="/admin-user-guide/administer/unlock-account/">(C1,ii) Unlock Account</a></li>
 </ul>
 </details>
+<img style="width: 100%;" src="/images/5Admin/Flow-Administer4.png">	
 <details>
 <summary><h4>D. How to manage users?</h4></summary>
 <ul>
