@@ -21,7 +21,7 @@ third_nav_title: Administer
 <details>
 <summary><h4>B. Ideas for Teaching &amp; Learning</h4></summary>
 <ul>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/using sls for whole school transformation of t&amp;l.pdf">(B1,i) Using SLS for Whole School Transformation of Teaching &amp; Learning</a>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/using sls for whole school transformation of t&amp;l.pdf">(B1) Using SLS for Whole School Transformation of Teaching &amp; Learning</a>
 </li>
 </ul>
 </details>
