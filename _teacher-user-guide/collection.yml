@@ -56,7 +56,7 @@ collections:
       - Author/(A1,4) Add Introduction.md
       - Author/(A2,1) Add Components (Enhanced).md
       - Author/(A2,2) Upload Question and Test Interoperability (QTI) Files.md
-      - Author/Add Multiple Choice Questions.md
+      - Author/(A2,3) Add Multiple Choice Questions.md
       - Author/Add Fill in the Blanks Questions.md
       - Author/Add Click and Drop Questions.md
       - Author/Add Error Editing Questions.md
