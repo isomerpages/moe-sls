@@ -18,7 +18,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
   <li><a target="_blank" href="/teacher-user-guide/discover/view-lesson-details/">(A3) View Lesson Details</a></li>
 </ul>
 </details>
-<img alt="Flow Discover" src="/images/2Teacher/Flow-Discover1.png">
+<img alt="Flow Discover" src="/images/2Teacher/Flow-Discover1.svg">
 <details><summary><h4>B. How to embed whitelisted websites?</h4></summary>
 <ul>
 <li><a href="/teacher-user-guide/discover/view-external-resources/" target="_blank">(B1,1) View External Resources (New)</a></li>
