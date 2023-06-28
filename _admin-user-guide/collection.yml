@@ -12,7 +12,7 @@ collections:
       - Administer/(B2) Inform Parents of Student SLS IDs.md
       - Administer/(B3) Initiate Student Account Activation.md
       - Administer/(B4) Monitor Student Activation.md
-      - Administer/Reset Passwords.md
+      - Administer/(C1,i) Reset Passwords.md
       - Administer/Unlock Account.md
       - Administer/About Manage Users.md
       - Administer/Export Full User List.md
