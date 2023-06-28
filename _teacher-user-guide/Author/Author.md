@@ -56,18 +56,18 @@ third_nav_title: Author
 
 <details><summary><h4>B. More about Lessons</h4></summary>
 <ul>
-<li><a href="/teacher-user-guide/author/about-templates/" target="_blank">(B1,i) About Templates</a></li>
-<li><a href="/teacher-user-guide/author/manage-lessons/" target="_blank">(B1,ii) Manage Lessons</a></li>
-<li><a href="/teacher-user-guide/author/edit-lessons/" target="_blank">(B1,iii) Edit Lessons (Enhanced)</a></li>
-<li><a href="/teacher-user-guide/author/edit-activities-and-sections/" target="_blank">(B1,iv) Edit Activities &amp; Sections (Enhanced)</a></li>	
-<li><a href="/teacher-user-guide/author/view-and-edit-lesson-plans/" target="_blank">(B1,v) View and Edit Lesson Plans</a></li>
-<li><a href="/teacher-user-guide/author/make-a-copy-of-lessons-or-assignments/" target="_blank">(B1,vi) Make a Copy of Lessons &amp; Assignments</a></li>
-<li><a href="/teacher-user-guide/author/edit-detail-cards/" target="_blank">(B1,vii) Edit Detail cards (New)</a></li>
-<li><a href="/teacher-user-guide/author/add-question-tags/" target="_blank">(B1,viii) Add Question Tags</a></li>
-<li><a href="/teacher-user-guide/author/add-lesson-tags/" target="_blank">(B1,ix) Add Lesson Tags</a></li>
-<li><a href="/teacher-user-guide/author/edit-media-objects/" target="_blank">(B1,x) Edit Media Objects</a></li>
-<li><a href="/teacher-user-guide/author/move-lessons-to-trash/" target="_blank">(B1,xi) Move Lessons to Trash</a></li>
-<li><a href="/teacher-user-guide/author/file-size-limits/" target="_blank">(B1,xii) File Size Limits</a></li>
+<li><a href="/teacher-user-guide/author/about-templates/" target="_blank">About Templates</a></li>
+<li><a href="/teacher-user-guide/author/manage-lessons/" target="_blank">(B1,i) Manage Lessons</a></li>
+<li><a href="/teacher-user-guide/author/edit-lessons/" target="_blank">(B1,ii) Edit Lessons (Enhanced)</a></li>
+<li><a href="/teacher-user-guide/author/edit-activities-and-sections/" target="_blank">(B1,iii) Edit Activities &amp; Sections (Enhanced)</a></li>	
+<li><a href="/teacher-user-guide/author/view-and-edit-lesson-plans/" target="_blank">(B1,iv) View and Edit Lesson Plans</a></li>
+<li><a href="/teacher-user-guide/author/make-a-copy-of-lessons-or-assignments/" target="_blank">(B1,v) Make a Copy of Lessons &amp; Assignments</a></li>
+<li><a href="/teacher-user-guide/author/edit-detail-cards/" target="_blank">(B1,vi) Edit Detail cards (New)</a></li>
+<li><a href="/teacher-user-guide/author/add-question-tags/" target="_blank">(B1,vii) Add Question Tags</a></li>
+<li><a href="/teacher-user-guide/author/add-lesson-tags/" target="_blank">(B1,viii) Add Lesson Tags</a></li>
+<li><a href="/teacher-user-guide/author/edit-media-objects/" target="_blank">(B1,ix) Edit Media Objects</a></li>
+<li><a href="/teacher-user-guide/author/move-lessons-to-trash/" target="_blank">(B1,x) Move Lessons to Trash</a></li>
+<li><a href="/teacher-user-guide/author/file-size-limits/" target="_blank">(B1,xi) File Size Limits</a></li>
 </ul>
 </details>
 
