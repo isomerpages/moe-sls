@@ -12,7 +12,7 @@ third_nav_title: Organise
 <details><summary><h4>A. How to access Class Groups?</h4></summary>
 
 <ul>
-	  <li><a target="_blank" href="/student-user-guide/organise/about-class-groups/">(A1,i) About Class Groups</a></li>
+	  <li><a target="_blank" href="/student-user-guide/organise/about-class-groups/">About Class Groups</a></li>
   <li><a target="_blank" href="/student-user-guide/organise/access-class-groups/">(A1,ii) Access Class Groups</a></li>
   <li><a target="_blank" href="/student-user-guide/organise/access-past-class-groups/">(A1,iii) Access Past Class Groups</a></li>
 </ul>	
