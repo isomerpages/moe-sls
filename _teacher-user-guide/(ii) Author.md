@@ -3,7 +3,7 @@ title: (ii) Author
 permalink: /teacher-user-guide/author/
 description: ""
 ---
-<h1>Author</h1>
+<h2>Author</h2>
 <hr>
 <h3><a id="author" target="_blank" href="/teacher-user-guide/author/index/">1. Author</a></h3>
 Use SLS to design lesson resources aligned to the e-pedagogical principles.
