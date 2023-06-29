@@ -3,8 +3,9 @@ title: (A1) Access Assignments
 permalink: /student-user-guide/assign/access-assignments/
 description: ""
 third_nav_title: Assign
+image: /images/FaviconLight.png
 ---
-<h1 id="access-assignments">Access Assignments</h1>
+<h1 id="access-assignments">(A1) Access Assignments</h1>
 <p><u>Important</u>: Only your incomplete Assignments that are due in the next 7 days are shown on the homepage.</p>
 <h2 id="-assignments-that-are-due-soon-">Assignments that are Due Soon</h2>
 <hr>

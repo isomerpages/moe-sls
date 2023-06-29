@@ -3,8 +3,9 @@ title: (E1,i) Access My Subjects
 permalink: /student-user-guide/organise/access-my-subjects/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
-<h1>Access My Subjects</h1>
+<h1>(E1,i) Access My Subjects</h1>
 
 <p>My Subjects allow you to see your Assigned and Followed Subjects to track&nbsp;<a target="_blank" href="/student-user-guide/track-progress/access-learning-progress/">Learning Progress</a>&nbsp;and search for relevant resources. Students will be able to search related Lessons easily with the pre-selected filters.</p>
 

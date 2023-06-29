@@ -3,8 +3,9 @@ title: (B3,2) Edit a Poll
 permalink: /student-user-guide/collaborate/edit-a-poll/
 description: ""
 third_nav_title: Collaborate
+image: /images/FaviconLight.png
 ---
-<h1 id="-3b-edit-a-poll">(3b) Edit a Poll</h1>
+<h1 id="-3b-edit-a-poll">(B3,2) Edit a Poll</h1>
 <ol>
 <li><p>You may edit a poll under the Forum tab of the Class Group. </p>
 <p> <u>Note</u>: You may only edit polls that were created by you.</p>

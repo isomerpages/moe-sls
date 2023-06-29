@@ -3,6 +3,7 @@ title: (A2,12) Embed YouTube Videos
 permalink: /teacher-user-guide/author/embed-youtube-videos/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="embed-youtube-videos">Embed YouTube Videos</h1>
 <h2 id="embed-youtube-video">Embed Youtube Video</h2>

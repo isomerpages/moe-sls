@@ -3,6 +3,7 @@ title: (A2) Search for Resources (New)
 permalink: /teacher-user-guide/discover/search-for-resources/
 description: ""
 third_nav_title: Discover
+image: /images/FaviconLight.png
 ---
 <h1>(2) Search for Resources (New)</h1>
 <h2>Using Search Bar from Homepage</h2>

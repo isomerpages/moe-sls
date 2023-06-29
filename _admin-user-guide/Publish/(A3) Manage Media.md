@@ -3,8 +3,9 @@ title: (A3) Manage Media
 permalink: /admin-user-guide/publish/manage-media/
 description: ""
 third_nav_title: Publish
+image: /images/FaviconLight.png
 ---
-<h1 id="-3-manage-media">(3) Manage Media</h1>
+<h1 id="-3-manage-media">(A3) Manage Media</h1>
 <p>Content Approvers and Content Officers (CAs and COs) are able to view all Media submitted through the Resource Management System (RMS).</p>
 <h2 id="manage-media">Manage Media</h2>
 <hr>

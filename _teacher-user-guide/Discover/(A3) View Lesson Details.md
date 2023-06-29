@@ -3,6 +3,7 @@ title: (A3) View Lesson Details
 permalink: /teacher-user-guide/discover/view-lesson-details/
 description: ""
 third_nav_title: Discover
+image: /images/FaviconLight.png
 ---
 <h1>(3) View Lesson Details</h1>
 <p>You can access the Details of Lessons found in Starred Resources, Community Gallery and MOE Library.</p>

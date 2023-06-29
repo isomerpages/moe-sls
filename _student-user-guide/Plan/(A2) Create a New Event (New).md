@@ -3,8 +3,9 @@ title: (A2) Create a New Event (New)
 permalink: /student-user-guide/plan/create-a-new-event/
 description: ""
 third_nav_title: Plan
+image: /images/FaviconLight.png
 ---
-<h1>2. Create a New Event (New)</h1>
+<h1>(A2) Create a New Event (New)</h1>
 <h2>Creating a New Event</h2>
 <hr>
 <ol>

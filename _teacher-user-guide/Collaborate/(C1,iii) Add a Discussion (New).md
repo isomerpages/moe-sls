@@ -3,6 +3,7 @@ title: (C1,iii) Add a Discussion (New)
 permalink: /teacher-user-guide/collaborate/add-a-discussion/
 description: ""
 third_nav_title: Collaborate
+image: /images/FaviconLight.png
 ---
 <h1 id="add-a-discussion-new-">Add a Discussion (New)</h1>
 <h2 id="-create-a-discussion-from-lesson-editor-page-">Create a Discussion from Lesson Editor page</h2>

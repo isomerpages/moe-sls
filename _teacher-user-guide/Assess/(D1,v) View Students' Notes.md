@@ -3,6 +3,7 @@ title: (D1,v) View Students' Notes
 permalink: /teacher-user-guide/assess/view-students-notes/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
 <h1 id="view-students-notes">View Students' Notes</h1>
 <h2 id="-viewing-students-notes-">Viewing Students' Notes</h2>

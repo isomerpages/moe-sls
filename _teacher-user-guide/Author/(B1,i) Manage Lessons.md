@@ -3,6 +3,7 @@ title: (B1,i) Manage Lessons
 permalink: /teacher-user-guide/author/manage-lessons/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="manage-lessons">Manage Lessons</h1>
 <h2 id="-lesson-">Lesson</h2>

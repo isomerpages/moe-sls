@@ -3,8 +3,9 @@ title: (C1,ii) Unlock Account
 permalink: /admin-user-guide/administer/unlock-account/
 description: ""
 third_nav_title: Administer
+image: /images/FaviconLight.png
 ---
-<h1 id="unlock-account">Unlock Account</h1>
+<h1 id="unlock-account">(C1,ii) Unlock Account</h1>
 <hr>
 
 <p> <u>Important</u>: SLS School Admins can help teachers and students to unlock their SLS accounts if their accounts are locked after repeated unsuccessful login attempts. For MIMS accounts that are locked, please seek assistance from the MIMS Admin instead.</p>

@@ -3,15 +3,13 @@ title: (A1) View and Create Announcements
 permalink: /teacher-user-guide/notify/view-and-create-announcements/
 description: ""
 third_nav_title: Notify
+image: /images/FaviconLight.png
 ---
 <h1>(1) View and Create Announcements (Enhanced)</h1>
 
 <h2>View Announcements</h2>
-
 <hr>
-
 <p>All Announcements can be found under the Notifications page. Announcements can be accessed from two locations:</p>
-
 <ul>
   <li>click <strong>View All Announcements</strong> from the Announcements widget on the homepage, or</li>
   <li>click <strong>Announcements</strong> from the left menu.</li>
@@ -20,16 +18,12 @@ third_nav_title: Notify
 <p>You can view Class Group Announcements from your Class Groups, under the <a target="_blank" href="/teacher-user-guide/notify/view-notifications/">Notifications</a> tab. </p>
 
 <h2>Create Announcements</h2>
-
 <hr>
-
 <p>There are two types of Announcements:</p>
-
 <ul>
   <li>Class Group Announcements</li>
   <li><a target="_blank" href="/teacher-user-guide/notify/manage-announcements/">School Announcements</a> (for SLS Admins only)</li>
 </ul>
-
 <ol>
   <li>From the homepage, click the <strong>Create New Announcement</strong> widget on the homepage to open the New Class Group Announcement subpage. Alternatively, you can enter this subpage by
     <ul>
@@ -47,9 +41,7 @@ third_nav_title: Notify
 </ol>
 
 <h2>Enter Announcement Message</h2>
-
 <hr>
-
 <ol>
   <li>Enter the <strong>Title</strong>. This will be displayed in the Announcement listing.</li>
   <li>Enter the <strong>Message</strong> in the Rich Text Editor.</li>

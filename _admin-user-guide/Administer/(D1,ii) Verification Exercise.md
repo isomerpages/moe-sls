@@ -3,8 +3,9 @@ title: (D1,ii) Verification Exercise
 permalink: /admin-user-guide/administer/verification-exercise/
 description: ""
 third_nav_title: Administer
+image: /images/FaviconLight.png
 ---
-<h1 id="verification-exercise">Verification Exercise</h1>
+<h1 id="verification-exercise">(D1,ii) Verification Exercise</h1>
 <h2 id="verification-of-accounts">Verification of Accounts</h2>
 <hr>
 <p>Verification of SLS accounts for the following groups of users will take place annually during 14th-27th December and are performed by SLS School Admins:</p>

@@ -3,6 +3,7 @@ title: (B1,ii) Edit Lessons (Enhanced)
 permalink: /teacher-user-guide/author/edit-lessons/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="edit-lessons-enhanced-">Edit Lessons (Enhanced)</h1>
 <h2 id="-lesson-editor-page-">Lesson Editor Page</h2>

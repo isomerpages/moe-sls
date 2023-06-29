@@ -3,6 +3,7 @@ title: Gamify
 permalink: /student-user-guide/gamify/index/
 description: ""
 third_nav_title: Gamify
+image: /images/FaviconLight.png
 ---
 <h1>Gamify</h1>
 <p>Use SLS to experience a game-like experience when going through your lesson.</p>

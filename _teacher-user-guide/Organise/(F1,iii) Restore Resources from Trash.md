@@ -3,6 +3,7 @@ title: (F1,iii) Restore Resources from Trash
 permalink: /teacher-user-guide/organise/restore-resources-from-trash/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
 <h1>Restore Resources from Trash</h1>
 

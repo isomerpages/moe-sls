@@ -3,6 +3,7 @@ title: (B1,1) View External Resources (New)
 permalink: /teacher-user-guide/discover/view-external-resources/
 description: ""
 third_nav_title: Discover
+image: /images/FaviconLight.png
 ---
 <h1>(1) View External Resources (New)</h1>
 <h2>View External Resources</h2>

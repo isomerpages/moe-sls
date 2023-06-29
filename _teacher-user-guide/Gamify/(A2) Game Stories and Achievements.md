@@ -3,6 +3,7 @@ title: (A2) Game Stories and Achievements
 permalink: /teacher-user-guide/gamify/game-stories-and-achievements/
 description: ""
 third_nav_title: Gamify
+image: /images/FaviconLight.png
 ---
 <h1 id="-2-game-stories-and-achievements-">(2) Game Stories and Achievements</h1>
 <h2 id="add-a-game-story-or-achievement">Add a Game Story or Achievement</h2>

@@ -3,8 +3,9 @@ title: (A1) Access Self Study Resources (New)
 permalink: /student-user-guide/discover/access-self-study-resources/
 description: ""
 third_nav_title: Discover
+image: /images/FaviconLight.png
 ---
-<h1>(1) Access Self-Study Resources (New)</h1>
+<h1>(A1) Access Self-Study Resources (New)</h1>
 <hr>
 <p><u>Important</u>: You can access your Self-Study Resources from the Self-Study List. Only resources that are In Progress and you have completed will be reflected.</p>
 <ol>

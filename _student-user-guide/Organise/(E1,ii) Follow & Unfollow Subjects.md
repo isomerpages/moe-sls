@@ -3,8 +3,9 @@ title: (E1,ii) Follow & Unfollow Subjects
 permalink: /student-user-guide/organise/follow-and-unfollow-subjects/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
-<h1>Follow &amp; Unfollow Subjects</h1>
+<h1>(E1,ii) Follow &amp; Unfollow Subjects</h1>
 
 <p>You may follow other subjects of interest beyond the ones assigned to you.</p>
 

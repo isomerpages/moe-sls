@@ -3,6 +3,7 @@ title: (A1,1) Access Learning Progress
 permalink: /teacher-user-guide/track-progress/access-learning-progress/
 description: ""
 third_nav_title: Track Progress
+image: /images/FaviconLight.png
 ---
 <h1 id="-1-access-learning-progress">(1) Access Learning Progress</h1>
 <p>Learning Progress shows the overall progress (in terms of marks) of students in a Class Group based on their attempted assignments. Teachers can select questions they wish to monitor and view them from the Learning Progress page.</p>

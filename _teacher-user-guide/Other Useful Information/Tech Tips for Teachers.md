@@ -3,6 +3,7 @@ title: Tech Tips for Teachers
 permalink: /teacher-user-guide/other-useful-information/tech-tips-for-teachers/
 description: ""
 third_nav_title: Other Useful Information
+image: /images/FaviconLight.png
 ---
 <h1 id="tech-tips-for-teachers">Tech Tips for Teachers</h1>
 

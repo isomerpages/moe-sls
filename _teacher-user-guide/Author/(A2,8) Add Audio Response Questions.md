@@ -3,6 +3,7 @@ title: (A2,8) Add Audio Response Questions
 permalink: /teacher-user-guide/author/add-audio-response-questions/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="add-audio-response-questions">Add Audio-Response Questions</h1>
 <h2 id="-add-audio-response-question-arq-">Add Audio-Response Question (ARQ)</h2>

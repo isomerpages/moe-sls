@@ -3,6 +3,7 @@ title: (E1,iii) Leave Reviews (New)
 permalink: /teacher-user-guide/discover/leave-reviews/
 description: ""
 third_nav_title: Discover
+image: /images/FaviconLight.png
 ---
 <h1>Leave Reviews (New)</h1>
 <p>From R19, teachers are able to leave Reviews for MOE Library and Community Gallery Lessons.</p>

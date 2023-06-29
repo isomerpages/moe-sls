@@ -3,6 +3,7 @@ title: (A1) Submit Lessons
 permalink: /teacher-user-guide/publish/submit-lessons/
 description: ""
 third_nav_title: Publish
+image: /images/FaviconLight.png
 ---
 <h1 id="-1-submit-lessons">(1) Submit Lessons</h1>
 <p>If you have a Lesson that you would like to share with teachers on SLS, you may submit it to the Community Gallery. </p>

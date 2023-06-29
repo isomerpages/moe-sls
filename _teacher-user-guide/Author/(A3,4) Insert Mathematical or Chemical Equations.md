@@ -3,6 +3,7 @@ title: (A3,4) Insert Mathematical or Chemical Equations
 permalink: /teacher-user-guide/author/insert-mathematical-or-chemical-equations/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="insert-mathematical-or-chemical-equations">Insert Mathematical or Chemical Equations</h1>
 <h2 id="-insert-math-equation-using-mathtype-">Insert Math Equation using MathType</h2>

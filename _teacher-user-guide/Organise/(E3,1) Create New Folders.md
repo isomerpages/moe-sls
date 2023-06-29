@@ -3,6 +3,7 @@ title: (E3,1) Create New Folders
 permalink: /teacher-user-guide/organise/create-new-folders/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
 <h1>(3a) Create New Folders</h1>
 

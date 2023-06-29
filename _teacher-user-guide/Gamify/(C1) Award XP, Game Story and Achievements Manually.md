@@ -3,6 +3,7 @@ title: (C1) Award XP, Game Story and Achievements Manually
 permalink: /teacher-user-guide/gamify/award-xp-game-story-and-achievements-manually/
 description: ""
 third_nav_title: Gamify
+image: /images/FaviconLight.png
 ---
 <h1 id="-award-xp-game-story-achievements-manually-">Award XP, Game Story &amp; Achievements Manually</h1>
 <ol>

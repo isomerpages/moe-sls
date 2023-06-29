@@ -3,6 +3,7 @@ title: (A1,v) Add Assignments to Class Group
 permalink: /teacher-user-guide/assign/add-assignments-to-class-group/
 description: ""
 third_nav_title: Assign
+image: /images/FaviconLight.png
 ---
 <h1 id="add-assignments-to-class-group">Add Assignments to Class Group</h1>
 <ol>

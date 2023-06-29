@@ -3,8 +3,9 @@ title: (A1,ii) Reset Student Passwords for Classes
 permalink: /teacher-user-guide/administer/reset-student-passwords-for-classes/
 description: ""
 third_nav_title: Administer
+image: /images/FaviconLight.png
 ---
-<h1 id="reset-student-passwords-for-classes">Reset Student Passwords for Classes</h1>
+<h1 id="reset-student-passwords-for-classes">(A1,ii) Reset Student Passwords for Classes</h1>
 <p>Owners and Co-teachers can reset the passwords of students in their Class Groups created in School Cockpit. This is necessary for:</p>
 <ol>
 <li>Students who have forgotten their SLS passwords and are unable to reset them on their own</li>

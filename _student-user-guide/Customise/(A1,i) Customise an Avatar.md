@@ -3,8 +3,9 @@ title: (A1,i) Customise an Avatar
 permalink: /student-user-guide/customise/customise-an-avatar/
 description: ""
 third_nav_title: Customise
+image: /images/FaviconLight.png
 ---
-<h1 id="customise-an-avatar">Customise an Avatar</h1>
+<h1 id="customise-an-avatar">(A1,i) Customise an Avatar</h1>
 <p>A graphical representation of a user, also known as an Avatar, is used to represent you.</p>
 <ol>
 <li>Open the right menu and click <strong>Edit Profile</strong>.</li>

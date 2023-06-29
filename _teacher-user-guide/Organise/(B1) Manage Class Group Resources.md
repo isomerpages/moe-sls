@@ -3,6 +3,7 @@ title: (B1) Manage Class Group Resources
 permalink: /teacher-user-guide/organise/manage-class-group-resources/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
 <h1 id="manage-class-group-resources">Manage Class Group Resources</h1>
 <h2 id="about-class-group-resources">About Class Group Resources</h2>

@@ -3,6 +3,7 @@ title: (D1,ii) Edit Quizzes (New)
 permalink: /teacher-user-guide/assess/edit-quizzes/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
 <h1 id="edit-quizzes-new-">Edit Quizzes (New)</h1>
 <h2 id="edit-quiz">Edit Quiz</h2>

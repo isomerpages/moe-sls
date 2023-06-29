@@ -3,6 +3,7 @@ title: (A2,2) View by Month
 permalink: /teacher-user-guide/track-progress/view-by-month/
 description: ""
 third_nav_title: Track Progress
+image: /images/FaviconLight.png
 ---
 <h1 id="-2b-view-by-month">(2b) View by Month</h1>
 <p>Topics and Sub-topics are displayed according to the Content Map selected. There may be more than one Content Map for a particular subject according to the syllabus by SEAB.</p>

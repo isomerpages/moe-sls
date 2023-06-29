@@ -3,8 +3,9 @@ title: (E1) Manage Subjects (For Schools Not Using School Cockpit)
 permalink: /admin-user-guide/administer/manage-subjects-for-schools-not-using-school-cockpit/
 description: ""
 third_nav_title: Administer
+image: /images/FaviconLight.png
 ---
-<h1 id="manage-subjects-for-schools-not-using-school-cockpit-">Manage Subjects (For Schools Not Using School Cockpit)</h1>
+<h1 id="manage-subjects-for-schools-not-using-school-cockpit-">(E1) Manage Subjects (For Schools Not Using School Cockpit)</h1>
 <p>SLS School Admins are able to view the list of Subjects offered in their schools. For schools that are not using School Cockpit, SLS School Admins can manage their School Based subjects through SLS.</p>
 <h2 id="search-for-subjects">Search for Subjects</h2>
 <hr>

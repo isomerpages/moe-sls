@@ -3,6 +3,7 @@ title: Assess
 permalink: /teacher-user-guide/assess/index/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
 <h1>Assess</h1>
 <p>Use SLS to set up, mark and give feedback on student work.</p>

@@ -3,8 +3,9 @@ title: (A1) Manage School Announcements (Enhanced)
 permalink: /admin-user-guide/notify/manage-school-announcements/
 description: ""
 third_nav_title: Notify
+image: /images/FaviconLight.png
 ---
-<h1 id="manage-school-announcements-enhanced-">Manage School Announcements (Enhanced)</h1>
+<h1 id="manage-school-announcements-enhanced-">(A1) Manage School Announcements (Enhanced)</h1>
 <h2 id="-create-school-announcements-enhanced-">Create School Announcements (Enhanced)</h2>
 <hr>
 <ol>

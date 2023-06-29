@@ -3,6 +3,7 @@ title: (C1,iii) Email Template for Copyright Clearance
 permalink: /teacher-user-guide/author/email-template-for-copyright-clearance/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="email-template-for-copyright-clearance">Email Template for Copyright Clearance</h1>
 <p>Dear Sir/Madam</p>

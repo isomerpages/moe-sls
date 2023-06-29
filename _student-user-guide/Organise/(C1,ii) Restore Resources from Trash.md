@@ -3,8 +3,9 @@ title: (C1,ii) Restore Resources from Trash
 permalink: /student-user-guide/organise/restore-resources-from-trash/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
-<h1 id="restore-resources-from-trash">Restore Resources from Trash</h1>
+<h1 id="restore-resources-from-trash">(C1,ii) Restore Resources from Trash</h1>
 <p>Resources found under the <strong>Trash</strong> tab can be restored to their original locations.</p>
 <ol>
 <li>From the homepage, click <strong>My Drive</strong>. Alternatively, open the left menu from the header on the homepage. Click <strong>Resources</strong>, followed by <strong>My Drive</strong>. By default, you will be in the My Lessons tab.</li>

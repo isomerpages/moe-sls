@@ -3,6 +3,7 @@ title: (E4) Delete Resources
 permalink: /teacher-user-guide/organise/delete-resources/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
 <h1>(4) Delete Resources</h1>
 

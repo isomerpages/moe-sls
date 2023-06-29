@@ -3,6 +3,7 @@ title: (F1,i) Copy Lessons within My Drive
 permalink: /teacher-user-guide/organise/copy-lessons-within-my-drive/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
 <h1>Copy Lessons within My Drive</h1>
   <p>You can make a copy of an existing Lesson under My Lessons tab.</p>

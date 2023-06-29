@@ -3,8 +3,9 @@ title: (A1,2) Accept a Share Request
 permalink: /student-user-guide/collaborate/accept-a-share-request/
 description: ""
 third_nav_title: Collaborate
+image: /images/FaviconLight.png
 ---
-<h1 id="-1b-accept-a-share-request">(1b) Accept a Share Request</h1>
+<h1 id="-1b-accept-a-share-request">(A1,2) Accept a Share Request</h1>
 <ol>
 <li>Enter an assignment with Assignment Sharing enabled.</li>
 <li><p>To accept a Share Request:</p>

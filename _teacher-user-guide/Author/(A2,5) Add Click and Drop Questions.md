@@ -3,6 +3,7 @@ title: (A2,5) Add Click and Drop Questions
 permalink: /teacher-user-guide/author/add-click-and-drop-questions/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="add-click-and-drop-questions">Add Click-and-Drop Questions</h1>
 <h2 id="-add-click-and-drop-question-">Add Click-and-Drop Question</h2>

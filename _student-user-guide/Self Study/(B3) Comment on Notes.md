@@ -3,8 +3,9 @@ title: (B3) Comment on Notes
 permalink: /student-user-guide/self-study/comment-on-notes/
 description: ""
 third_nav_title: Self Study
+image: /images/FaviconLight.png
 ---
-<h1 id="-3-comment-on-notes">(3) Comment on Notes</h1>
+<h1 id="-3-comment-on-notes">(B3) Comment on Notes</h1>
 <h2 id="leave-comments-on-notes">Leave Comments on Notes</h2>
 <hr>
 <ol>

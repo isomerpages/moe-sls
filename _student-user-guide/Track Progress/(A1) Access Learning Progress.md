@@ -3,8 +3,9 @@ title: (A1) Access Learning Progress
 permalink: /student-user-guide/track-progress/access-learning-progress/
 description: ""
 third_nav_title: Track Progress
+image: /images/FaviconLight.png
 ---
-<h1 id="-1-access-learning-progress">(1) Access Learning Progress</h1>
+<h1 id="-1-access-learning-progress">(A1) Access Learning Progress</h1>
 <p>Learning Progress shows your overall progress (in terms of marks) for questions of a particular subject. These questions are carefully selected by your teachers and are deemed to be important for your learning.</p>
 <h3 id="navigating-around-the-page">Navigating Around the Page</h3>
 <hr>

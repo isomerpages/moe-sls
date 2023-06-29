@@ -3,6 +3,7 @@ title: About Notifications (New)
 permalink: /student-user-guide/notify/about-notifications/
 description: ""
 third_nav_title: Notify
+image: /images/FaviconLight.png
 ---
 <h1>About Notifications (New)</h1>
 <p></p><ol>

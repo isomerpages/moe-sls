@@ -3,6 +3,7 @@ title: (B1,v) Move Assignments
 permalink: /teacher-user-guide/assign/move-assignments/
 description: ""
 third_nav_title: Assign
+image: /images/FaviconLight.png
 ---
 <h1 id="move-assignments">Move Assignments</h1>
 <h3 id="move-an-assignment">Move an Assignment</h3>

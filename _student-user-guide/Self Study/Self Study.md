@@ -3,6 +3,7 @@ title: Self Study
 permalink: /student-user-guide/self-study/index/
 description: ""
 third_nav_title: Self Study
+image: /images/FaviconLight.png
 ---
 <h1>Self-Study</h1>
 <p>Use SLS to plan and organise self-study resources and share good resources with peers.</p>

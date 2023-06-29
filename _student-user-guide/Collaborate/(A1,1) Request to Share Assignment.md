@@ -3,8 +3,9 @@ title: (A1,1) Request to Share Assignment
 permalink: /student-user-guide/collaborate/request-to-share-assignment/
 description: ""
 third_nav_title: Collaborate
+image: /images/FaviconLight.png
 ---
-<h1 id="-1a-request-to-share-assignment">(1a) Request to Share Assignment</h1>
+<h1 id="-1a-request-to-share-assignment">(A1,1) Request to Share Assignment</h1>
 <ol>
 <li><p>When your teacher has enabled Assignment Sharing, you can initiate a share request with your peers. There are three ways to identify if an assignment can be shared:</p>
 <ul>

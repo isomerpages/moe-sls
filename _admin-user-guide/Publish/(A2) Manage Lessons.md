@@ -3,8 +3,9 @@ title: (A2) Manage Lessons
 permalink: /admin-user-guide/publish/manage-lessons/
 description: ""
 third_nav_title: Publish
+image: /images/FaviconLight.png
 ---
-<h1 id="-2-manage-lessons">(2) Manage Lessons</h1>
+<h1 id="-2-manage-lessons">(A2) Manage Lessons</h1>
 <p>Content Approvers (CAs) and Content Officers (COs) are able to manage MOE Library Lessons.</p>
 <h2 id="manage-a-lesson">Manage a Lesson</h2>
 <hr>

@@ -3,6 +3,7 @@ title: Organise
 permalink: /teacher-user-guide/organise/index/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
 <h1>Organise</h1>
 Use SLS to to organise your personal and class group resources, assignments and notifications.

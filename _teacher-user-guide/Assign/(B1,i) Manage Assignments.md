@@ -3,6 +3,7 @@ title: (B1,i) Manage Assignments
 permalink: /teacher-user-guide/assign/manage-assignments/
 description: ""
 third_nav_title: Assign
+image: /images/FaviconLight.png
 ---
 <h1 id="manage-assignments">Manage Assignments</h1>
 <h2 id="-manage-an-assignment-">Manage an Assignment</h2>

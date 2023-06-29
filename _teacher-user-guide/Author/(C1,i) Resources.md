@@ -3,6 +3,7 @@ title: (C1,i) Resources
 permalink: /teacher-user-guide/author/resources/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="resources">Resources</h1>
 <h2 id="-useful-resource-sites-">Useful Resource Sites</h2>

@@ -3,6 +3,7 @@ title: (A2,3) Add Multiple Choice Questions
 permalink: /teacher-user-guide/author/add-multiple-choice-questions/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="add-multiple-choice-questions">Add Multiple-Choice Questions</h1>
 <h2 id="-add-multiple-choice-question-mcq-">Add Multiple-Choice Question (MCQ)</h2>

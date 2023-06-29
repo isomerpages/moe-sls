@@ -3,6 +3,7 @@ title: (B1,iii) Edit Assignments
 permalink: /teacher-user-guide/assign/edit-assignments/
 description: ""
 third_nav_title: Assign
+image: /images/FaviconLight.png
 ---
 <h1 id="edit-assignments">Edit Assignments</h1>
 <h2 id="-edit-an-assignment-in-progress-">Edit an Assignment in Progress</h2>

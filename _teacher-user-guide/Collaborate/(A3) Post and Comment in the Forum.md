@@ -3,6 +3,7 @@ title: (A3) Post and Comment in the Forum
 permalink: /teacher-user-guide/collaborate/post-and-comment-in-the-forum/
 description: ""
 third_nav_title: Collaborate
+image: /images/FaviconLight.png
 ---
 <h1 id="-3-post-and-comment-in-the-forum">(3) Post and Comment in the Forum</h1>
 <p>Teachers and Co-Teachers can create <a target="_blank" href="/teacher-user-guide/collaborate/add-a-topic/">Topics</a> in a Class Group Forum. Posts can be created within each Topic.</p>

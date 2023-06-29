@@ -3,6 +3,7 @@ title: (B1,x) Highlight and Annotate in Teacher's Copy of Assignment
 permalink: /teacher-user-guide/assign/highlight-and-annotate-in-teachers-copy-of-assignment/
 description: ""
 third_nav_title: Assign
+image: /images/FaviconLight.png
 ---
 <h1 id="highlight-and-annotate-in-teacher-s-copy-of-assignment">Highlight and Annotate in Teacher's Copy of Assignment</h1>
 <h2 id="-create-annotations-highlights-">Create Annotations (Highlights)</h2>

@@ -3,6 +3,7 @@ title: (A2,11) Add Rubrics to Audio and Free Response Questions
 permalink: /teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="add-rubrics-to-audio-and-free-response-questions">Add Rubrics to Audio- and Free-Response Questions</h1>
 <h2 id="-add-rubrics-">Add Rubrics</h2>

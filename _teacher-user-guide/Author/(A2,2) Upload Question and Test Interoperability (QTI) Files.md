@@ -3,6 +3,7 @@ title: (A2,2) Upload Question and Test Interoperability (QTI) Files
 permalink: /teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="upload-question-and-test-interoperability-qti-2-1-files">Upload Question and Test Interoperability (QTI 2.1) Files</h1>
 <h2 id="uploading-a-qti-2-1-zip-file-in-sls">Uploading a QTI 2.1 ZIP file in SLS</h2>

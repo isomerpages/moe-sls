@@ -3,6 +3,7 @@ title: (A1,vii) Switch to Student Account
 permalink: /teacher-user-guide/customise/switch-to-student-account/
 description: ""
 third_nav_title: Customise
+image: /images/FaviconLight.png
 ---
 <h1>Switch to Student Account</h1>
 <h2>Switch to Student Account</h2>

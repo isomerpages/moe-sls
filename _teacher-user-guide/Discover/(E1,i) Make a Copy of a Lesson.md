@@ -3,6 +3,7 @@ title: (E1,i) Make a Copy of a Lesson
 permalink: /teacher-user-guide/discover/make-a-copy-of-a-lesson/
 description: ""
 third_nav_title: Discover
+image: /images/FaviconLight.png
 ---
 <h1>Make a Copy of a Lesson</h1>
 <p>After selecting a MOE Library or Community Gallery Lesson that you would like to adapt for use, you can make a copy of it before editing and assigning it to your students.</p>

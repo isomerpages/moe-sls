@@ -3,6 +3,7 @@ title: (A3,11) HTML5 Content Development
 permalink: /teacher-user-guide/author/html5-content-development/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="html5-content-development">HTML5 Content Development</h1>
 <h2 id="considerations-when-creating-html5-content">Considerations when creating HTML5 Content</h2>

@@ -3,6 +3,7 @@ title: (D1,iv) Add and View Passcodes
 permalink: /teacher-user-guide/assess/add-and-view-passcodes/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
 <h1 id="add-and-view-passcodes">Add and View Passcodes</h1>
 <p>You can add a Passcode to Lessons to restrict students’ access to these resources. Students are required to enter the Passcode (case-sensitive) when they click the Assignment Card.</p>

@@ -3,8 +3,9 @@ title: (F1,ii) Copy to My Drive
 permalink: /student-user-guide/organise/copy-to-my-drive/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
-<h1>Copy to My Drive</h1>
+<h1>(F1,ii) Copy to My Drive</h1>
 
 <p>There are three ways to copy a Lesson or Course to My Drive:</p>
 

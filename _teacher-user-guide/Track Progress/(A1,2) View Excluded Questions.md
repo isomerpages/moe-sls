@@ -3,6 +3,7 @@ title: (A1,2) View Excluded Questions
 permalink: /teacher-user-guide/track-progress/view-excluded-questions/
 description: ""
 third_nav_title: Track Progress
+image: /images/FaviconLight.png
 ---
 <h1 id="view-excluded-questions">View Excluded Questions</h1>
 <p>Excluded Questions are questions in Assignments that are not selected to be included in Learning Progress.</p>

@@ -3,6 +3,7 @@ title: (B1,iv) Pause & Resume Assignments
 permalink: /teacher-user-guide/assign/pause-and-resume-assignments/
 description: ""
 third_nav_title: Assign
+image: /images/FaviconLight.png
 ---
 <h1 id="pause-resume-assignments">Pause &amp; Resume Assignments</h1>
 <p>You may pause and resume an Assignment temporarily if you do not want students to have access to the Assignment.</p>

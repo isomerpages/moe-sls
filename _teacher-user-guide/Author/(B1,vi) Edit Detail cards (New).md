@@ -3,6 +3,7 @@ title: (B1,vi) Edit Detail cards (New)
 permalink: /teacher-user-guide/author/edit-detail-cards/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="edit-detail-cards-new-">Edit Detail cards (New)</h1>
 <p>Lesson Detail card can be found on every page for easier access.</p>

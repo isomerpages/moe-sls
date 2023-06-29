@@ -3,6 +3,7 @@ title: Plan
 permalink: /student-user-guide/plan/index/
 description: ""
 third_nav_title: Plan
+image: /images/FaviconLight.png
 ---
 <h1>Plan</h1>
 <p>Use SLS to plan personal events and be updated on class group events.</p>

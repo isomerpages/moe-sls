@@ -3,6 +3,7 @@ title: (B1,ix) Allow Students to Share Assignments
 permalink: /teacher-user-guide/assign/allow-students-to-share-assignments/
 description: ""
 third_nav_title: Assign
+image: /images/FaviconLight.png
 ---
 <h1 id="allow-students-to-share-assignments">Allow Students to Share Assignments</h1>
 <h2 id="-student-sharing-permissions-">Student-Sharing Permissions</h2>

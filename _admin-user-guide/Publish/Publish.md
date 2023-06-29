@@ -3,6 +3,7 @@ title: Publish
 permalink: /admin-user-guide/publish/index/
 description: ""
 third_nav_title: Publish
+image: /images/FaviconLight.png
 ---
 <h1>Publish</h1>
 <p>Use SLS to publish resources to make it available and discoverable to teachers and students.

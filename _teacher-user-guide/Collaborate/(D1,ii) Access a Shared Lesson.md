@@ -3,6 +3,7 @@ title: (D1,ii) Access a Shared Lesson
 permalink: /teacher-user-guide/collaborate/access-a-shared-lesson/
 description: ""
 third_nav_title: Collaborate
+image: /images/FaviconLight.png
 ---
 <h1 id="access-a-shared-lesson">Access a Shared Lesson</h1>
 <h2 id="access-a-shared-lesson-">Access a Shared Lesson</h2>

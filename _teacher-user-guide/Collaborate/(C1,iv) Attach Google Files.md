@@ -3,6 +3,7 @@ title: (C1,iv) Attach Google Files
 permalink: /teacher-user-guide/collaborate/attach-google-files/
 description: ""
 third_nav_title: Collaborate
+image: /images/FaviconLight.png
 ---
 <h1 id="attach-google-files">Attach Google Files</h1>
 <p>SLS is enhanced with the full capabilities of the Google Suite of tools. Teachers are encouraged to <a target="_blank" href="/teacher-user-guide/customise/manage-linked-account/">link their iCON 2.0 or Google accounts with SLS</a>. Teachers can easily embed and assign Google files through linked accounts (see below). They can also perform on-screen marking and give feedback with touch devices using Google extensions. </p>

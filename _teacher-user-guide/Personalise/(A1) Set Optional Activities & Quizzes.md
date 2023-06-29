@@ -3,6 +3,7 @@ title: (A1) Set Optional Activities & Quizzes
 permalink: /teacher-user-guide/personalise/set-optional-activities-and-quizzes/
 description: ""
 third_nav_title: Personalise
+image: /images/FaviconLight.png
 ---
 <h1 id="set-optional-activities-quizzes">Set Optional Activities &amp; Quizzes</h1>
 <p>Optional Activities/Quizzes can include content that:</p>

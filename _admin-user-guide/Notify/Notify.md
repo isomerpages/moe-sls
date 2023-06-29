@@ -3,6 +3,7 @@ title: Notify
 permalink: /admin-user-guide/notify/index/
 description: ""
 third_nav_title: Notify
+image: /images/FaviconLight.png
 ---
 <h1>Notify</h1>
 <p>Use SLS to notify other teachers and students easily on T&amp;L matters across the system, classes and individual levels.

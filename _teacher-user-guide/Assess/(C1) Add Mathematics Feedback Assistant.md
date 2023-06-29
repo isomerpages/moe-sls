@@ -3,6 +3,7 @@ title: (C1) Add Mathematics Feedback Assistant
 permalink: /teacher-user-guide/assess/add-mathematics-feedback-assistant/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
 <h1>Add Mathematics Feedback</h1>
 <p>Mathematics Feedback Assistant is an engine that offers step-by-step feedback to students on their answers. </p>

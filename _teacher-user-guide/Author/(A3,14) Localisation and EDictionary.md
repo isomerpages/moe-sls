@@ -3,6 +3,7 @@ title: (A3,14) Localisation and EDictionary
 permalink: /teacher-user-guide/author/localisation-and-edictionary/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="localisation-and-e-dictionary">Localisation and E-Dictionary</h1>
 <p>To create a more immersive MTL experience for your Lessons, you can Enable MTL Localisation and E-Dictionary.</p>

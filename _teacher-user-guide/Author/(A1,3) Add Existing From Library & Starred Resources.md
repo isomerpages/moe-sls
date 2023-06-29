@@ -3,6 +3,7 @@ title: (A1,3) Add Existing From Library & Starred Resources
 permalink: /teacher-user-guide/author/add-existing-from-library-and-starred-resources/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="add-existing-from-library-starred-resources">Add Existing From Library &amp; Starred Resources</h1>
 <h2 id="viewing-existing-lessons-from-library-starred-resources">Viewing Existing Lessons From Library/Starred Resources</h2>

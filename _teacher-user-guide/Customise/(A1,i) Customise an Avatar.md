@@ -3,6 +3,7 @@ title: (A1,i) Customise an Avatar
 permalink: /teacher-user-guide/customise/customise-an-avatar/
 description: ""
 third_nav_title: Customise
+image: /images/FaviconLight.png
 ---
 <h1>Customise an Avatar</h1>
 <p>A graphical representation of a user, also known as an Avatar, is used to represent you.</p>

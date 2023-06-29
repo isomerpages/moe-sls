@@ -3,6 +3,7 @@ title: Assign
 permalink: /student-user-guide/assign/index/
 description: ""
 third_nav_title: Assign
+image: /images/FaviconLight.png
 ---
 <h1>Assign</h1>
 <p>Use SLS to easily navigate lessons assigned by my teachers.</p>

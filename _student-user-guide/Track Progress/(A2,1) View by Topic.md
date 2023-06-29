@@ -3,8 +3,9 @@ title: (A2,1) View by Topic
 permalink: /student-user-guide/track-progress/view-by-topic/
 description: ""
 third_nav_title: Track Progress
+image: /images/FaviconLight.png
 ---
-<h1 id="-2a-view-by-topic">(2a) View by Topic</h1>
+<h1 id="-2a-view-by-topic">(A2,1) View by Topic</h1>
 <p>Topics and subtopics are displayed according to the Content Map selected. There may be more than one Content Map for a particular subject based on the syllabus by SEAB.</p>
 <p><u>Note</u>: Only questions that are selected by your teacher or the lesson author to be included will be shown in the Learning Progress. </p>
 <ol>

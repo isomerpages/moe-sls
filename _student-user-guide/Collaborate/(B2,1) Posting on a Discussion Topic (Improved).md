@@ -3,8 +3,9 @@ title: (B2,1) Posting on a Discussion Topic (Improved)
 permalink: /student-user-guide/collaborate/posting-on-a-discussion-topic/
 description: ""
 third_nav_title: Collaborate
+image: /images/FaviconLight.png
 ---
-<h1 id="-2a-posting-on-a-discussion-topic-improved-">(2a) Posting on a Discussion Topic (Improved)</h1>
+<h1 id="-2a-posting-on-a-discussion-topic-improved-">(B2,1) Posting on a Discussion Topic (Improved)</h1>
 <h2 id="creating-a-new-post">Creating a New Post</h2>
 <hr>
 <ol>

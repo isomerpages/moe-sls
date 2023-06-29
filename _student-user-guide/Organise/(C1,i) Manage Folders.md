@@ -3,8 +3,9 @@ title: (C1,i) Manage Folders
 permalink: /student-user-guide/organise/manage-folders/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
-<h1>Manage Folders</h1>
+<h1>(C1,i) Manage Folders</h1>
 
 <h2>Move Lessons to a Folder</h2>
 <hr>

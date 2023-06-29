@@ -3,8 +3,9 @@ title: (A1) View Notifications (New)
 permalink: /student-user-guide/notify/view-notifications/
 description: ""
 third_nav_title: Notify
+image: /images/FaviconLight.png
 ---
-<h1>View Notifications (New)</h1>
+<h1>(A1) View Notifications (New)</h1>
 <h2>View Notifications</h2>
 <hr>
 <ol>

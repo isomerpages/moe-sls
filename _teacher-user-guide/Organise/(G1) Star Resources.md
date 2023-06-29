@@ -3,6 +3,7 @@ title: (G1) Star Resources
 permalink: /teacher-user-guide/organise/star-resources/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
 <h1>Star Resources</h1>
 

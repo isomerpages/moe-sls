@@ -3,6 +3,7 @@ title: (B1,vii) Add Question Tags
 permalink: /teacher-user-guide/author/add-question-tags/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="add-question-tags">Add Question Tags</h1>
 <p>Most components can be tagged to Subject, Level, Content Map, Skill Level, Topics, and Sub-topics so as to improve searchability in Community Gallery, MOE Library, and My Drive.</p>

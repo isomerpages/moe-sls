@@ -3,8 +3,9 @@ title: (A1,iv) Manage Linked Account
 permalink: /student-user-guide/customise/manage-linked-account/
 description: ""
 third_nav_title: Customise
+image: /images/FaviconLight.png
 ---
-<h1 id="manage-linked-account">Manage Linked Account</h1>
+<h1 id="manage-linked-account">(A1,iv) Manage Linked Account</h1>
 <p>Users are able to associate their iCON 2.0 or Google account with SLS. </p>
 <ol>
 <li>Open the right menu and click <strong>Edit Profile</strong>.</li>

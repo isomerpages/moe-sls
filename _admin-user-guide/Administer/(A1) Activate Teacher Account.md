@@ -3,8 +3,9 @@ title: (A1) Activate Teacher Account
 permalink: /admin-user-guide/administer/activate-teacher-accounts/
 description: ""
 third_nav_title: Administer
+image: /images/FaviconLight.png
 ---
-<h1 id="activate-teacher-accounts">Activate Teacher Accounts</h1>
+<h1 id="activate-teacher-accounts">(A1) Activate Teacher Accounts</h1>
 <h2 id="-setting-up-teacher-accounts-in-mims-">Setting up Teacher Accounts in MIMS</h2>
 <hr>
 <ol>

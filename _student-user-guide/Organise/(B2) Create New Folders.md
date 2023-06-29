@@ -3,8 +3,9 @@ title: (B2) Create New Folders
 permalink: /student-user-guide/organise/create-new-folders/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
-<h1>(2) Create New Folders</h1>
+<h1>(B2) Create New Folders</h1>
 <h2>Create a New Folder in My Lessons Tab</h2>
 <hr>
 <ol>

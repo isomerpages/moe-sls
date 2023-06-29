@@ -3,6 +3,7 @@ title: (A1,vi) Change SLS Password
 permalink: /teacher-user-guide/customise/change-sls-password/
 description: ""
 third_nav_title: Customise
+image: /images/FaviconLight.png
 ---
 <h1>Change SLS Password</h1>
 <ol>

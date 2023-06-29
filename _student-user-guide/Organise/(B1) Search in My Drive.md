@@ -3,13 +3,12 @@ title: (B1) Search in My Drive
 permalink: /student-user-guide/organise/search-in-my-drive/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
-<h1>(1) Search in My Drive</h1>
+<h1>(B1) Search in My Drive</h1>
 
 <h2>Search in My Lessons</h2>
-
 <hr>
-
 <ol>
     <li>From the homepage, click <strong>My Drive</strong>. Alternatively, open the left menu from the header on the homepage. Click <strong>Resources</strong>, followed by <strong>My Drive</strong>. By default, you will be in the My Lessons tab.</li>
     <li>To search for the Resources under the My Lessons tab, enter your search term(s) in the <strong>Search My Lessons</strong> search bar.</li>
@@ -19,9 +18,7 @@ third_nav_title: Organise
 </ol>
 
 <h2>Search in Trash</h2>
-
 <hr>
-
 <ol>
     <li>From the homepage, click <strong>My Drive</strong>. Alternatively, open the left menu from the header on the homepage. Click <strong>Resources</strong>, followed by <strong>My Drive</strong>. By default, you will be in the My Lessons tab.</li>
     <li>Click the <strong>Trash</strong> tab.</li>

@@ -3,6 +3,7 @@ title: (B1) Mark Teacher Marked Quizzes
 permalink: /teacher-user-guide/assess/mark-teacher-marked-quizzes/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
 <h1 id="-1-mark-teacher-marked-quizzes">(1) Mark Teacher-Marked Quizzes</h1>
 <h2 id="-marking-a-teacher-marked-quiz-">Marking a Teacher-Marked Quiz</h2>

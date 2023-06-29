@@ -3,6 +3,7 @@ title: Downloadable Resources
 permalink: /teacher-user-guide/other-useful-information/downloadable-resources/
 description: ""
 third_nav_title: Other Useful Information
+image: /images/FaviconLight.png
 ---
 <h1 id="downloadable-resources-to-be-updated-directly-on-html-">Downloadable Resources</h1>
 

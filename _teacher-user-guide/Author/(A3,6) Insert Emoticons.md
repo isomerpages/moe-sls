@@ -3,6 +3,7 @@ title: (A3,6) Insert Emoticons
 permalink: /teacher-user-guide/author/insert-emoticons/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="insert-emoticons">Insert Emoticons</h1>
 <h2 id="-insert-emoticon-using-rich-text-editor-">Insert Emoticon using Rich Text Editor</h2>

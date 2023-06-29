@@ -3,8 +3,9 @@ title: (A1,v) Change Password
 permalink: /student-user-guide/customise/change-password/
 description: ""
 third_nav_title: Customise
+image: /images/FaviconLight.png
 ---
-<h1 id="change-password">Change Password</h1>
+<h1 id="change-password">(A1,v) Change Password</h1>
 <ol>
 <li>Open the right menu and click <strong>Edit Profile</strong>.</li>
 <li><p>On the Profile page, select <strong>Change Password</strong> under Account Settings.</p>

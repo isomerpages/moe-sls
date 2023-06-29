@@ -3,6 +3,7 @@ title: (A2) Change Forum Settings
 permalink: /teacher-user-guide/collaborate/change-forum-settings/
 description: ""
 third_nav_title: Collaborate
+image: /images/FaviconLight.png
 ---
 <h1 id="-2-change-forum-settings">(2) Change Forum Settings</h1>
 <h3 id="topics-settings">Topics Settings</h3>

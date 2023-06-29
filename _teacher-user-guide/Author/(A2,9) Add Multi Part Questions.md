@@ -3,6 +3,7 @@ title: (A2,9) Add Multi Part Questions
 permalink: /teacher-user-guide/author/add-multi-part-questions/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="add-multi-part-questions">Add Multi-Part Questions</h1>
 <h2 id="-add-a-multi-part-question-">Add a Multi-Part Question</h2>

@@ -3,6 +3,7 @@ title: (B1,ix) Edit Media Objects
 permalink: /teacher-user-guide/author/edit-media-objects/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="edit-media-objects">Edit Media Objects</h1>
 <h2 id="-re-uploading-an-image-">Re-uploading an Image</h2>

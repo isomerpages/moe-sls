@@ -3,6 +3,7 @@ title: Create New Lessons (New)
 permalink: /teacher-user-guide/author/create-new-lessons/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="create-new-lessons-new-">Create New Lessons (New)</h1>
 <h2 id="-create-new-lesson-from-homepage-new-">Create New Lesson from homepage (NEW)</h2>

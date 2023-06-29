@@ -3,6 +3,7 @@ title: (B1,xi) File Size Limits
 permalink: /teacher-user-guide/author/file-size-limits/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="file-size-limits">File Size Limits</h1>
 <p><u>Important</u>: If you receive an error message when uploading a file, please check that your file(s) do not exceed the file size limits and/or dimensions.</p>

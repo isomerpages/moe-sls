@@ -3,6 +3,7 @@ title: (A2,3) View by Student
 permalink: /teacher-user-guide/track-progress/view-by-student/
 description: ""
 third_nav_title: Track Progress
+image: /images/FaviconLight.png
 ---
 <h1 id="-2c-view-by-student">(2c) View by Student</h1>
 <p>The overall progress (in terms of marks) by individual students is displayed according to the Content Map selected. There may be more than one Content Map for a particular subject according to the syllabus by SEAB.</p>

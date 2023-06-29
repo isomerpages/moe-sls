@@ -3,6 +3,7 @@ title: (A1,iii) Assign MOE Library Lessons
 permalink: /teacher-user-guide/assign/assign-moe-library-lessons/
 description: ""
 third_nav_title: Assign
+image: /images/FaviconLight.png
 ---
 <h1 id="assign-moe-library-lessons">Assign MOE Library Lessons</h1>
 <h2 id="assign-moe-lesson-as-assignment">Assign MOE Lesson as Assignment</h2>

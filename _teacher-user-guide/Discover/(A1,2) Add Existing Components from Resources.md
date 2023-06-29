@@ -3,6 +3,7 @@ title: (A1,2) Add Existing Components from Resources
 permalink: /teacher-user-guide/discover/add-existing-components-from-resources/
 description: ""
 third_nav_title: Discover
+image: /images/FaviconLight.png
 ---
 <h1>(1b) Add Existing Components from Resources</h1>
 

@@ -3,6 +3,7 @@ title: (A1,ii) Quick Assign Activities & Quizzes (New)
 permalink: /teacher-user-guide/assign/quick-assign-activities-and-quizzes/
 description: ""
 third_nav_title: Assign
+image: /images/FaviconLight.png
 ---
 <h1 id="quick-assign-activities-quizzes-new-">Quick Assign Activities &amp; Quizzes (New)</h1>
 <h2 id="quick-assign-from-class-group">Quick Assign from Class Group</h2>

@@ -3,6 +3,7 @@ title: (B1,v) Make a Copy of Lessons or Assignments
 permalink: /teacher-user-guide/author/make-a-copy-of-lessons-or-assignments/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="make-a-copy-of-lessons-assignments">Make a Copy of Lessons &amp; Assignments</h1>
 <h2 id="make-a-copy-of-a-lesson-">Make a Copy of a Lesson</h2>

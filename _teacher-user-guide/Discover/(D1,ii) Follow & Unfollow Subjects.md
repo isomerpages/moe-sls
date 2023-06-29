@@ -3,6 +3,7 @@ title: (D1,ii) Follow & Unfollow Subjects
 permalink: /teacher-user-guide/discover/follow-and-unfollow-subjects/
 description: ""
 third_nav_title: Discover
+image: /images/FaviconLight.png
 ---
 <h1>Follow &amp; Unfollow Subjects</h1><hr>
 <ol>

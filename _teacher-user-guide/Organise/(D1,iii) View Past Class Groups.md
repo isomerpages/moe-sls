@@ -3,6 +3,7 @@ title: (D1,iii) View Past Class Groups
 permalink: /teacher-user-guide/organise/view-past-class-groups/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
 <h1>View Past Class Groups</h1>
 <p>At the start of each academic year, all Class Groups from the preceding year will be found under the Past tab.</p>

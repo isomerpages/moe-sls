@@ -3,8 +3,9 @@ title: (B3,1) Comment in the Forum
 permalink: /student-user-guide/collaborate/comment-in-the-forum/
 description: ""
 third_nav_title: Collaborate
+image: /images/FaviconLight.png
 ---
-<h1 id="-3a-comment-in-the-forum">(3a) Comment in the Forum</h1>
+<h1 id="-3a-comment-in-the-forum">(B3,1) Comment in the Forum</h1>
 <h2 id="commenting-on-a-post">Commenting on a Post</h2>
 <hr>
 <p><u>Important</u>: If comments have been disabled, you will not be able to open the post card. The <strong>Comments ( )</strong> button will be hidden.</p>

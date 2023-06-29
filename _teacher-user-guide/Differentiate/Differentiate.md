@@ -3,6 +3,7 @@ title: Differentiate
 permalink: /teacher-user-guide/differentiate/index/
 description: ""
 third_nav_title: Differentiate
+image: /images/FaviconLight.png
 ---
 <h1>Differentiate</h1>
 <p>Use SLS to differentiate lessons and activities for different groups of students.</p>

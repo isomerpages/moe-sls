@@ -3,8 +3,9 @@ title: (A1,i) Access Class Groups
 permalink: /student-user-guide/organise/access-class-groups/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
-<h1>Access Class Groups</h1>
+<h1>(A1,i) Access Class Groups</h1>
 
 <h3>Access Class Groups</h3>
 <hr>

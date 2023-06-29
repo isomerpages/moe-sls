@@ -3,8 +3,9 @@ title: (A2,3) View by Question
 permalink: /student-user-guide/track-progress/view-by-question/
 description: ""
 third_nav_title: Track Progress
+image: /images/FaviconLight.png
 ---
-<h1 id="-2c-view-by-question">(2c) View by Question</h1>
+<h1 id="-2c-view-by-question">(A2,3) View by Question</h1>
 <p>The overall progress (marks) of your teacher-assigned or self-study assignments are displayed according to the Content Map selected. There may be more than one Content Map for a particular subject based on the syllabus by SEAB.</p>
 <p><u>Note</u>: Only questions that are selected to be included by your teacher or lesson author will be shown in the Learning Progress. </p>
 <ol>

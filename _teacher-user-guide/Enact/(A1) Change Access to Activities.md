@@ -3,6 +3,7 @@ title: (A1) Change Access to Activities
 permalink: /teacher-user-guide/enact/change-access-to-activities/
 description: ""
 third_nav_title: Enact
+image: /images/FaviconLight.png
 ---
 <h1 id="change-access-to-activities">Change Access to Activities</h1>
 <p>There are 3 ways to give students access to an Assignment:</p>

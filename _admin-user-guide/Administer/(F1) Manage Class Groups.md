@@ -3,8 +3,9 @@ title: (F1) Manage Class Groups
 permalink: /admin-user-guide/administer/manage-class-groups/
 description: ""
 third_nav_title: Administer
+image: /images/FaviconLight.png
 ---
-<h1 id="manage-class-groups">Manage Class Groups</h1>
+<h1 id="manage-class-groups">(F1) Manage Class Groups</h1>
 <p>SLS School Admins are able to view all Class Groups created from School Cockpit and in SLS. For schools that are not using School Cockpit, SLS School Admins will be able to create new Class Groups through SLS.</p>
 <h2 id="search-for-class-groups">Search for Class Groups</h2>
 <hr>

@@ -3,6 +3,7 @@ title: (A2,10) Add Display (New)
 permalink: /teacher-user-guide/author/add-display/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="add-display-new-">Add Display (New)</h1>
 <p>You can add multiple Columns and Accordions display to contain different Components in an Activity.</p>

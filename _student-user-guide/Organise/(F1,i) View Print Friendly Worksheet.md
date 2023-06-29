@@ -3,8 +3,9 @@ title: (F1,i) View Print Friendly Worksheet
 permalink: /student-user-guide/organise/view-print-friendly-worksheet/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
-<h1>View Print-Friendly Worksheet</h1>
+<h1>(F1,i) View Print-Friendly Worksheet</h1>
 <p>Print-friendly Worksheets allow for resources to be downloaded and printed. Resources from MOE Library, Class Group Resources, and Assignments can be viewed as Print-Friendly worksheets.</p>
 
 <ol>

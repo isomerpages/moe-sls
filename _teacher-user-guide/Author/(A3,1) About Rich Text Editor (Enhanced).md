@@ -3,6 +3,7 @@ title: (A3,1) About Rich Text Editor (Enhanced)
 permalink: /teacher-user-guide/author/about-rich-text-editor/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="about-rich-text-editor-enhanced-">About Rich Text Editor (Enhanced)</h1>
 <p>The Rich Text Editor allows you to add or edit content, images, links, and other components in an Activity. </p>

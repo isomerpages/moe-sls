@@ -3,6 +3,7 @@ title: (B1,vi) Delete Assignments
 permalink: /teacher-user-guide/assign/delete-assignments/
 description: ""
 third_nav_title: Assign
+image: /images/FaviconLight.png
 ---
 <h1 id="delete-assignments">Delete Assignments</h1>
 <p>You can delete an Assignment after it has been assigned and/or attempted by students.</p>

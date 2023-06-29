@@ -3,6 +3,7 @@ title: (C1,ii) Copyright FAQs
 permalink: /teacher-user-guide/author/copyright-faqs/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1>Copyright FAQs</h1>
 

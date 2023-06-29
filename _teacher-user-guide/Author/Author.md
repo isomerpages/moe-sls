@@ -3,6 +3,7 @@ title: Author
 permalink: /teacher-user-guide/author/index/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1>Author</h1>
 <p>Use SLS to design lesson resources aligned to the e-pedagogical principles.</p>

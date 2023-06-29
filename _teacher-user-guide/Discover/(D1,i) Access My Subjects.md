@@ -3,6 +3,7 @@ title: (D1,i) Access My Subjects
 permalink: /teacher-user-guide/discover/access-my-subjects/
 description: ""
 third_nav_title: Discover
+image: /images/FaviconLight.png
 ---
 <h1>Access My Subjects</h1>
 <p>My Subjects allow you to see your Assigned and Followed subjects to <a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">track Learning Progress</a> and search for relevant resources. Teachers and students will be able to search for related Resources (eg. Lessons, Question Types and Media Objects) easily with the pre-selected filters.</p>

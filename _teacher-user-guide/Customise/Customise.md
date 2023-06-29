@@ -3,6 +3,7 @@ title: Customise
 permalink: /teacher-user-guide/customise/index/
 description: ""
 third_nav_title: Customise
+image: /images/FaviconLight.png
 ---
 <h2>Customise</h2>
 <hr>

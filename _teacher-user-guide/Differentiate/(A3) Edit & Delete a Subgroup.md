@@ -3,8 +3,9 @@ title: (A3) Edit & Delete a Subgroup
 permalink: /teacher-user-guide/differentiate/edit-and-delete-a-subgroup/
 description: ""
 third_nav_title: Differentiate
+image: /images/FaviconLight.png
 ---
-<h1 id="-3-edit-delete-a-subgroup">(3) Edit &amp; Delete a Subgroup</h1>
+<h1 id="-3-edit-delete-a-subgroup">(A3) Edit &amp; Delete a Subgroup</h1>
 <h2 id="-edit-a-subgroup-">Edit a Subgroup</h2>
 <hr>
 <ol>

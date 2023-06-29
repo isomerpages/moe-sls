@@ -3,6 +3,7 @@ title: About Self Study Resources (New)
 permalink: /student-user-guide/discover/about-self-study-resources/
 description: ""
 third_nav_title: Discover
+image: /images/FaviconLight.png
 ---
 <h1>About Self-Study Resources (New)</h1>
 <hr>

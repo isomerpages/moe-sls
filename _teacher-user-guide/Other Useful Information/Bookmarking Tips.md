@@ -3,6 +3,7 @@ title: Bookmarking Tips
 permalink: /teacher-user-guide/other-useful-information/bookmarking-tips/
 description: ""
 third_nav_title: Other Useful Information
+image: /images/FaviconLight.png
 ---
 <h1 id="bookmarking-tips">Bookmarking Tips</h1>
 <h2 id="bookmark-sls-google-chrome-">Bookmark SLS (Google Chrome)</h2>

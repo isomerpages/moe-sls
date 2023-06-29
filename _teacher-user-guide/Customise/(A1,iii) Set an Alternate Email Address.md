@@ -3,6 +3,7 @@ title: (A1,iii) Set an Alternate Email Address
 permalink: /teacher-user-guide/customise/set-an-alternate-email-address/
 description: ""
 third_nav_title: Customise
+image: /images/FaviconLight.png
 ---
 <h1 id="set-an-alternate-email-address">Set an Alternate Email Address</h1>
 <h2 id="-default-email-address-">Default Email Address</h2>

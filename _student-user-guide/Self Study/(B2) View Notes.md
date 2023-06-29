@@ -3,8 +3,9 @@ title: (B2) View Notes
 permalink: /student-user-guide/self-study/view-notes/
 description: ""
 third_nav_title: Self Study
+image: /images/FaviconLight.png
 ---
-<h1 id="-2-view-notes">(2) View Notes</h1>
+<h1 id="-2-view-notes">(B2) View Notes</h1>
 <p>There are 3 types of Notes:</p>
 <ol>
 <li>Highlighted Annotation Notes: These are found within an Activity of an Assignment, or Self-Study Resource. They can be created by both your teacher and yourself.</li>

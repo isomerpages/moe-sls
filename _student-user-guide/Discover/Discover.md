@@ -3,6 +3,7 @@ title: Discover
 permalink: /student-user-guide/discover/index/
 description: ""
 third_nav_title: Discover
+image: /images/FaviconLight.png
 ---
 <h1>Discover</h1>
 <p>Use SLS to discover, search for and find useful Teaching &amp; Learning resources that you can learn from.</p>

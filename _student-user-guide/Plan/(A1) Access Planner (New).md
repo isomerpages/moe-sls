@@ -3,8 +3,9 @@ title: (A1) Access Planner (New)
 permalink: /student-user-guide/plan/access-planner/
 description: ""
 third_nav_title: Plan
+image: /images/FaviconLight.png
 ---
-<h1>1. Access Planner (New)</h1>
+<h1>(A1) Access Planner (New)</h1>
   <p>Planner allows you to manage your personal learning schedule and timetable. You can create events and view Assignments which are due soon.</p>
   <h2>Navigating to the Page</h2>
 <hr>

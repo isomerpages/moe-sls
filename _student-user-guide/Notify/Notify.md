@@ -3,6 +3,7 @@ title: Notify
 permalink: /student-user-guide/notify/index/
 description: ""
 third_nav_title: Notify
+image: /images/FaviconLight.png
 ---
 <h1>Notify</h1>
 <p>Use SLS to receive notifications to follow up on Teaching &amp; Learning matters.</p>

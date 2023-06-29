@@ -3,6 +3,7 @@ title: About Manage Users
 permalink: /admin-user-guide/administer/about-manage-users/
 description: ""
 third_nav_title: Administer
+image: /images/FaviconLight.png
 ---
 <h1 id="about-manage-users">About Manage Users</h1>
 <p>SLS School Admins are able to view the Names, SLS User ID, Role(s), Form Class, Index Number, Last Login Date, MIMS Status, SLS Account Status, Last Reset Date, Last Reset By, and Email. Most of this field can be sorted in ascending/descending order. Click the <strong>Up/Down</strong> arrows in the table header to sort the results.</p>

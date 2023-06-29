@@ -3,6 +3,7 @@ title: (A1) Create Quizzes (New)
 permalink: /teacher-user-guide/assess/create-quizzes/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
 <h1 id="-1-create-quizzes-new-">(1) Create Quizzes (New)</h1>
 <h2 id="add-quiz">Add Quiz</h2>

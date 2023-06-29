@@ -3,6 +3,7 @@ title: (A1,i) Create Assignments
 permalink: /teacher-user-guide/assign/create-assignments/
 description: ""
 third_nav_title: Assign
+image: /images/FaviconLight.png
 ---
 <h1 id="create-assignments">Create Assignments</h1>
 <p>You can create an Assignment by assigning a Lesson to students in your Class Groups.</p>

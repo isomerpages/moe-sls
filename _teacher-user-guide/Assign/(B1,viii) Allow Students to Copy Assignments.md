@@ -3,6 +3,7 @@ title: (B1,viii) Allow Students to Copy Assignments
 permalink: /teacher-user-guide/assign/allow-students-to-copy-assignments/
 description: ""
 third_nav_title: Assign
+image: /images/FaviconLight.png
 ---
 <h1 id="allow-students-to-copy-assignments">Allow Students to Copy Assignments</h1>
 <h2 id="-copy-permissions-">Copy Permissions</h2>

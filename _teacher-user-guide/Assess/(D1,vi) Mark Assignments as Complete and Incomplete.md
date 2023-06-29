@@ -3,6 +3,7 @@ title: (D1,vi) Mark Assignments as Complete and Incomplete
 permalink: /teacher-user-guide/assess/mark-assignments-as-complete-and-incomplete/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
 <h1 id="mark-assignments-as-complete-and-incomplete">Mark Assignments as Complete and Incomplete</h1>
 <p><u>Important</u>:</p>

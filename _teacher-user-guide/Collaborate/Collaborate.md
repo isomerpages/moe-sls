@@ -3,6 +3,7 @@ title: Collaborate
 permalink: /teacher-user-guide/collaborate/index/
 description: ""
 third_nav_title: Collaborate
+image: /images/FaviconLight.png
 ---
 <h1>Collaborate</h1>
 <p>Use SLS to set learning activities to be done collaboratively by students.</p>

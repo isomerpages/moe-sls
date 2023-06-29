@@ -3,6 +3,7 @@ title: (C1,ii) App FAQs
 permalink: /teacher-user-guide/organise/app-faqs/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
 <h1>App FAQs</h1>
 

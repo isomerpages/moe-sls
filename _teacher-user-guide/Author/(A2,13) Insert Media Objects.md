@@ -3,6 +3,7 @@ title: (A2,13) Insert Media Objects
 permalink: /teacher-user-guide/author/insert-media-objects/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="insert-media-objects">Insert Media Objects</h1>
 <ul>

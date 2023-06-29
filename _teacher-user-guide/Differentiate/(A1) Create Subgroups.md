@@ -3,8 +3,9 @@ title: (A1) Create Subgroups
 permalink: /teacher-user-guide/differentiate/create-subgroups/
 description: ""
 third_nav_title: Differentiate
+image: /images/FaviconLight.png
 ---
-<h1 id="-1-create-subgroups">(1) Create Subgroups</h1>
+<h1 id="-1-create-subgroups">(A1) Create Subgroups</h1>
 <h2 id="about-subgroups">About Subgroups</h2>
 <hr>
 <p><u>Important</u>: Only class group Owners and Co-teachers are able to create Subgroups.</p>

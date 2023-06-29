@@ -3,8 +3,9 @@ title: (A1) Create MOE Library Resources (Enhanced)
 permalink: /admin-user-guide/publish/create-moe-library-resources/
 description: ""
 third_nav_title: Publish
+image: /images/FaviconLight.png
 ---
-<h1 id="-1-create-moe-library-resources-enhanced-">(1) Create MOE Library Resources (Enhanced)</h1>
+<h1 id="-1-create-moe-library-resources-enhanced-">(A1) Create MOE Library Resources (Enhanced)</h1>
 <p>You can refer to the following User Guide pages to find out how you can: </p>
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/author/create-new-lessons/">create a Lesson</a></li>

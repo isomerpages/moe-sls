@@ -3,6 +3,7 @@ title: (A3,10) Insert Tooltips (Enhanced)
 permalink: /teacher-user-guide/author/insert-tooltips/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="-insert-tooltips-enhanced-">Insert Tooltips (Enhanced)</h1>
 <h2 id="insert-tooltips">Insert Tooltips</h2>

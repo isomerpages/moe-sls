@@ -3,6 +3,7 @@ title: Administer
 permalink: /teacher-user-guide/administer/index/
 description: ""
 third_nav_title: Administer
+image: /images/FaviconLight.png
 ---
 <h1>Administer</h1>
 <p>Use SLS to manage student usage.</p>

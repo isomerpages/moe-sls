@@ -3,6 +3,7 @@ title: (A1,2) Add a Poll
 permalink: /teacher-user-guide/collaborate/add-a-poll/
 description: ""
 third_nav_title: Collaborate
+image: /images/FaviconLight.png
 ---
 <h1 id="-1b-add-a-poll">(1b) Add a Poll</h1>
 <h2 id="-create-a-poll-in-class-group-forum-">Create a Poll in Class Group Forum</h2>

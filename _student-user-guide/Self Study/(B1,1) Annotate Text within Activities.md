@@ -3,8 +3,9 @@ title: (B1,1) Annotate Text within Activities
 permalink: /student-user-guide/self-study/annotate-text-within-activities/
 description: ""
 third_nav_title: Self Study
+image: /images/FaviconLight.png
 ---
-<h1 id="-1a-annotate-text-within-activities">(1a) Annotate Text within Activities</h1>
+<h1 id="-1a-annotate-text-within-activities">(B1,1) Annotate Text within Activities</h1>
 <h2 id="-add-annotation-to-text-within-an-activity-">Add Annotation to Text within an Activity</h2>
 <hr>
 <p>When you are working on an assignment or a Self-Study resource, you can add annotations to the text. This feature can be used to make notes specific to a phrase or sentence. For example, you can insert a definition or explanation for a term you just learnt. You can also highlight a text without adding a Note to it.</p>

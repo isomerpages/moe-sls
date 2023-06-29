@@ -3,6 +3,7 @@ title: (A2) Manage Announcements
 permalink: /teacher-user-guide/notify/manage-announcements/
 description: ""
 third_nav_title: Notify
+image: /images/FaviconLight.png
 ---
 <h1>(2) Manage Announcements</h1>
 <h2>Edit Announcements</h2>

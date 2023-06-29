@@ -3,6 +3,7 @@ title: (B1,iii) Edit Activities & Sections (Enhanced)
 permalink: /teacher-user-guide/author/edit-activities-and-sections/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="edit-activities-sections-enhanced-">Edit Activities &amp; Sections (Enhanced)</h1>
 <h2 id="edit-activity">Edit Activity</h2>

@@ -3,8 +3,9 @@ title: (B1,i) Generate CCPM Reports (New)
 permalink: /admin-user-guide/publish/generate-ccpm-reports/
 description: ""
 third_nav_title: Publish
+image: /images/FaviconLight.png
 ---
-<h1 id="generate-ccpm-reports-new-">Generate CCPM Reports (New)</h1>
+<h1 id="generate-ccpm-reports-new-">(B1,i) Generate CCPM Reports (New)</h1>
 <ol>
 <li>Open the left menu and select <strong>Administration</strong>, followed by <strong>Generate CCPM Reports</strong>.</li>
 <li>Click <strong>Generate</strong> beside the Report dropdown list to enter the Lesson Utilisation Report Report subpage.</li>

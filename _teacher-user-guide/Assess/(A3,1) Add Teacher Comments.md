@@ -3,6 +3,7 @@ title: (A3,1) Add Teacher Comments
 permalink: /teacher-user-guide/assess/add-teacher-comments/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
 <h1 id="-3a-add-teacher-comments">(3a) Add Teacher Comments</h1>
 <p>You are able to add Comment to the responses of a specific Free-Response, File Submission, and Audio-Response Question for a single Student or multiple Students.</p>

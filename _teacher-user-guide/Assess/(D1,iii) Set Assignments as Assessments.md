@@ -3,6 +3,7 @@ title: (D1,iii) Set Assignments as Assessments
 permalink: /teacher-user-guide/assess/set-assignments-as-assessments/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
 <h1 id="set-assignments-as-assessments">Set Assignments as Assessments</h1>
 <ol>

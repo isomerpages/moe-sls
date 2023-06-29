@@ -3,6 +3,7 @@ title: (B1) Display Leaderboard for Students (Improved)
 permalink: /teacher-user-guide/gamify/display-leaderboard-for-students/
 description: ""
 third_nav_title: Gamify
+image: /images/FaviconLight.png
 ---
 <h1 id="display-leaderboard-for-students-improved-">Display Leaderboard for Students (Improved)</h1>
 <p>The gamification Leaderboard can be turned on and off anytime during the Course. You can manage Leaderboard settings from:</p>

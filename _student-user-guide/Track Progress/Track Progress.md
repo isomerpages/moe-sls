@@ -3,6 +3,7 @@ title: Track Progress
 permalink: /student-user-guide/track-progress/index/
 description: ""
 third_nav_title: Track Progress
+image: /images/FaviconLight.png
 ---
 <h1>Track Progress</h1>
 <p>Use SLS to track your own progress within and across lessons and assignments.</p>

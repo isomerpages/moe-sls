@@ -3,8 +3,9 @@ title: (A1) Access Adaptive Learning System
 permalink: /student-user-guide/self-study/access-adaptive-learning-system/
 description: ""
 third_nav_title: Self Study
+image: /images/FaviconLight.png
 ---
-<h1 id="access-adaptive-learning-system-als-">Access Adaptive Learning System (ALS)</h1>
+<h1 id="access-adaptive-learning-system-als-">(A1) Access Adaptive Learning System (ALS)</h1>
 <ol>
 <li>Open the left menu from the header at the homepage and click <strong>Resources</strong>, followed by <strong>Adaptive Learning</strong>.</li>
 <li>Access to Adaptive Learning is based on level and subject. Currently, it is <u>only available for Primary 5 Mathematics</u>.</li>

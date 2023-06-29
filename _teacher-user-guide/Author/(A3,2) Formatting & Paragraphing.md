@@ -3,6 +3,7 @@ title: (A3,2) Formatting & Paragraphing
 permalink: /teacher-user-guide/author/formatting-and-paragraphing/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="formatting-paragraphing">Formatting &amp; Paragraphing</h1>
 <h2 id="formatting-text">Formatting Text</h2>

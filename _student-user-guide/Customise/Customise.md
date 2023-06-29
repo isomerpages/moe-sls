@@ -3,6 +3,7 @@ title: Customise
 permalink: /student-user-guide/customise/index/
 description: ""
 third_nav_title: Customise
+image: /images/FaviconLight.png
 ---
 <h1>Customise</h1>
 <p>Use SLS to customise your avatar, UI and user experience based on your needs.</p>

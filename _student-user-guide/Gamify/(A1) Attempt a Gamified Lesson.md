@@ -3,8 +3,9 @@ title: (A1) Attempt a Gamified Lesson
 permalink: /student-user-guide/gamify/attempt-a-gamified-lesson/
 description: ""
 third_nav_title: Gamify
+image: /images/FaviconLight.png
 ---
-<h1>Attempt a Gamified Lesson</h1>
+<h1>(A1) Attempt a Gamified Lesson</h1>
 
 
 <h2 id="view-game-description-and-settings">View Game Description and Settings</h2>

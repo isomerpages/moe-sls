@@ -3,8 +3,9 @@ title: (A3) Attempt Self Study Resources (New)
 permalink: /student-user-guide/discover/attempt-self-study-resources/
 description: ""
 third_nav_title: Discover
+image: /images/FaviconLight.png
 ---
-<h1>(3) Attempt Self-Study Resources (New)</h1>
+<h1>(A3) Attempt Self-Study Resources (New)</h1>
 
 <p>You can attempt Self-Study Resources from 3 locations:</p>
 

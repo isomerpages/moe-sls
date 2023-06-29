@@ -3,6 +3,7 @@ title: (C1,i) Install and Launch Apps
 permalink: /teacher-user-guide/organise/install-and-launch-apps/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
 <h1>Install and Launch Apps</h1>
 

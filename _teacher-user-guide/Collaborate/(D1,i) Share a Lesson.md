@@ -3,6 +3,7 @@ title: (D1,i) Share a Lesson
 permalink: /teacher-user-guide/collaborate/share-a-lesson/
 description: ""
 third_nav_title: Collaborate
+image: /images/FaviconLight.png
 ---
 <h1 id="share-a-lesson">Share a Lesson</h1>
 <h3 id="-share-a-lesson-">Share a Lesson</h3>

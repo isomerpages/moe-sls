@@ -3,6 +3,7 @@ title: Enact
 permalink: /teacher-user-guide/enact/index/
 description: ""
 third_nav_title: Enact
+image: /images/FaviconLight.png
 ---
 <h1>Enact</h1>
 <p>Use to enact assigned SLS lessons as part of my synchronous teaching in-class or over Virtual Classrooms.</p>

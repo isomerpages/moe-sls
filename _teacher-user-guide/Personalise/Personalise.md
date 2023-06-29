@@ -3,6 +3,7 @@ title: Personalise
 permalink: /teacher-user-guide/personalise/index/
 description: ""
 third_nav_title: Personalise
+image: /images/FaviconLight.png
 ---
 <h1>Personalise</h1>
 <p>Use SLS to provide choice for your students in their lessons and activities.</p>

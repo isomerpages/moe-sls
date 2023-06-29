@@ -3,8 +3,9 @@ title: (G1) Generate Reports
 permalink: /admin-user-guide/administer/generate-reports/
 description: ""
 third_nav_title: Administer
+image: /images/FaviconLight.png
 ---
-<h1 id="generate-reports">Generate Reports</h1>
+<h1 id="generate-reports">(G1) Generate Reports</h1>
 <ol>
 <li>Open the left menu and select <strong>Administration</strong>, followed by <strong>Generate Reports</strong>.</li>
 

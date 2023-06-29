@@ -3,8 +3,9 @@ title: (B1) Check Progress on Leaderboard
 permalink: /student-user-guide/gamify/check-progress-on-leaderboard/
 description: ""
 third_nav_title: Gamify
+image: /images/FaviconLight.png
 ---
-<h1 id="check-progress-on-leaderboard">Check Progress on Leaderboard</h1>
+<h1 id="check-progress-on-leaderboard">(B1) Check Progress on Leaderboard</h1>
 <p>If your teacher has enabled <strong>Team Game</strong>, you will be able to view the <strong>Team Leaderboard</strong>. <strong>Team Game</strong> will allow you to work cooperatively with your peers to collect XP and unlock Game Stories and Achievements.</p>
 <ol>
 <li>From the homepage, click the <strong>Assignments</strong> tab and <strong>Open</strong> a gamified Course. Alternatively, you can <strong>Open</strong> a gamified Course from the Assignments page.</li>

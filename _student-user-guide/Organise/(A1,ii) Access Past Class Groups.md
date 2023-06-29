@@ -3,8 +3,9 @@ title: (A1,ii) Access Past Class Groups
 permalink: /student-user-guide/organise/access-past-class-groups/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
-<h1>Access Past Class Groups</h1>
+<h1>(A1,ii) Access Past Class Groups</h1>
   <ol>
     <li>A Class Group will be placed in the <strong>Past</strong> tab when either condition is fulfilled:</li>
     <ul>

@@ -3,6 +3,7 @@ title: (A1,v) Manage Linked Account
 permalink: /teacher-user-guide/customise/manage-linked-account/
 description: ""
 third_nav_title: Customise
+image: /images/FaviconLight.png
 ---
 <h1>Manage Linked Account</h1>
 <p>Users are able to associate their iCON 2.0 or Google accounts with SLS.</p>

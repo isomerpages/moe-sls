@@ -3,8 +3,9 @@ title: (C1,i) Reset Passwords
 permalink: /admin-user-guide/administer/reset-passwords/
 description: ""
 third_nav_title: Administer
+image: /images/FaviconLight.png
 ---
-<h1 id="reset-passwords">Reset Passwords</h1>
+<h1 id="reset-passwords">(C1,i) Reset Passwords</h1>
 <h2 id="reset-mims-passwords-">Reset MIMS Passwords</h2>
 <hr>
 <p>Resetting of MIMS password can only be done through the MIMS portal. Students and teachers may approach their school’s MIMS Student Administrator and Local Administrator respectively if they require assistance.</p>

@@ -3,8 +3,9 @@ title: (B1,ii) Manage Owner Groups
 permalink: /admin-user-guide/publish/manage-owner-groups/
 description: ""
 third_nav_title: Publish
+image: /images/FaviconLight.png
 ---
-<h1 id="manage-owner-groups">Manage Owner Groups</h1>
+<h1 id="manage-owner-groups">(B1,ii) Manage Owner Groups</h1>
 <h2 id="about-owner-group">About Owner Group</h2>
 <hr>
 <p>An Owner Group comprises of two groups of users - Content Approvers (CAs) and Content Officers (COs). Each Owner Group is tagged to a Subject, which is required before CAs can publish a Content Map.</p>

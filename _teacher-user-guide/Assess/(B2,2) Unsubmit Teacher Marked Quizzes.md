@@ -3,6 +3,7 @@ title: (B2,2) Unsubmit Teacher Marked Quizzes
 permalink: /teacher-user-guide/assess/unsubmit-teacher-marked-quizzes/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
 <h1 id="-2b-unsubmit-teacher-marked-quizzes">(2b) Unsubmit Teacher-Marked Quizzes</h1>
 <ol>

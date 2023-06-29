@@ -3,6 +3,7 @@ title: (F1,ii) Manage Folders
 permalink: /teacher-user-guide/organise/manage-folders/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
 <h1>Manage Folders</h1>
 

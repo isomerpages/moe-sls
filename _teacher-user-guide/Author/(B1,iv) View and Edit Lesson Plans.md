@@ -3,6 +3,7 @@ title: (B1,iv) View and Edit Lesson Plans
 permalink: /teacher-user-guide/author/view-and-edit-lesson-plans/
 description: ""
 third_nav_title: Author
+image: /images/FaviconLight.png
 ---
 <h1 id="view-edit-lesson-plans">View &amp; Edit Lesson Plans</h1>
 <p>The yellow navigation arrow in the Lesson Plan indicates your current view of the Lesson.</p>

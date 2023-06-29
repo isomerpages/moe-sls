@@ -3,6 +3,7 @@ title: (B1) Manage My Templates
 permalink: /teacher-user-guide/customise/manage-my-templates/
 description: ""
 third_nav_title: Customise
+image: /images/FaviconLight.png
 ---
 <h1>Manage My Templates</h1>
 <p>You can now save Lesson Templates for quick Lesson authoring.</p>

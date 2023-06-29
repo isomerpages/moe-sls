@@ -3,6 +3,7 @@ title: (A2) Monitor Students' Responses in an Assignment
 permalink: /teacher-user-guide/assess/monitor-students-responses-in-an-assignment/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
 <h1 id="-2-monitor-students-responses-in-an-assignment">(2) Monitor Students' Responses in an Assignment</h1>
 <h2 id="-monitor-an-assignment-">Monitor an Assignment</h2>

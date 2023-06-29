@@ -3,8 +3,9 @@ title: (A1,ii) Set Password Reset Email Address
 permalink: /student-user-guide/customise/set-password-reset-email-address/
 description: ""
 third_nav_title: Customise
+image: /images/FaviconLight.png
 ---
-<h1 id="set-password-reset-email-address">Set Password Reset Email Address</h1>
+<h1 id="set-password-reset-email-address">(A1,ii) Set Password Reset Email Address</h1>
 <p><u>Important</u>: You must verify the email address before you can use it to reset your password.</p>
 <p>You should set a password reset email address in your profile. This will allow you to reset your password through a password reset link.</p>
 <ol>

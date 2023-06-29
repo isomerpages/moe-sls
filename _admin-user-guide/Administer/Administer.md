@@ -3,6 +3,7 @@ title: Administer
 permalink: /admin-user-guide/administer/index/
 description: ""
 third_nav_title: Administer
+image: /images/FaviconLight.png
 ---
 <h1>Administer</h1>
 <p>Use SLS to manage surveys and tests to schools centrally and track broad teacher and student edtech use, T&amp;L processes and outcomes to plan system T&amp;L directions.</p>

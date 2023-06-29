@@ -3,6 +3,7 @@ title: (A1,iv) Set Email Notifications (New)
 permalink: /teacher-user-guide/customise/set-email-notifications/
 description: ""
 third_nav_title: Customise
+image: /images/FaviconLight.png
 ---
 <h1 id="set-email-notifications-new-">Set Email Notifications (New)</h1>
 <p>From R19, you can choose to receive email notifications from SLS. Notifications will be sent to your default email address or alternative email address (if any).</p>

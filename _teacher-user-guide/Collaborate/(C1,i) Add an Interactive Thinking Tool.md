@@ -3,6 +3,7 @@ title: (C1,i) Add an Interactive Thinking Tool
 permalink: /teacher-user-guide/collaborate/add-an-interactive-thinking-tool/
 description: ""
 third_nav_title: Collaborate
+image: /images/FaviconLight.png
 ---
 <h1 id="add-an-interactive-thinking-tool">Add an Interactive Thinking Tool</h1>
 <h2 id="-create-an-interactive-thinking-tool-">Create an Interactive Thinking Tool</h2>

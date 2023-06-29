@@ -3,6 +3,7 @@ title: (B2,1) Release Teacher Marked Quizzes
 permalink: /teacher-user-guide/assess/release-teacher-marked-quizzes/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
 <h1 id="-2a-release-teacher-marked-quizzes">(2a) Release Teacher-Marked Quizzes</h1>
 <ol>

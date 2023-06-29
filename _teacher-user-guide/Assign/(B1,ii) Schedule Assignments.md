@@ -3,6 +3,7 @@ title: (B1,ii) Schedule Assignments
 permalink: /teacher-user-guide/assign/schedule-assignments/
 description: ""
 third_nav_title: Assign
+image: /images/FaviconLight.png
 ---
 <h1 id="schedule-assignments">Schedule Assignments</h1>
 <h2 id="-schedule-a-new-assignment-for-a-class-group-multiple-class-groups-">Schedule a New Assignment for a Class Group/Multiple Class Groups</h2>

@@ -3,6 +3,7 @@ title: (B1,i) Add Section Prerequisites
 permalink: /teacher-user-guide/differentiate/add-section-prerequisites/
 description: ""
 third_nav_title: Differentiate
+image: /images/FaviconLight.png
 ---
 <h1 id="add-section-prerequisites">Add Section Prerequisites</h1>
 <p>You can add Section Prerequisites for a Lesson that contains multiple Sections. Sections with Prerequisites will be locked until students fulfil the Prerequisites. </p>

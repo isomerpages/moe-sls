@@ -3,6 +3,7 @@ title: (B1,i) About Notifications (New)
 permalink: /teacher-user-guide/notify/about-notifications/
 description: ""
 third_nav_title: Notify
+image: /images/FaviconLight.png
 ---
 <h1>About Notifications (New)</h1>
 
@@ -15,14 +16,14 @@ third_nav_title: Notify
 
 <ol>
 <li>You will receive Notifications when:
-    <ul>
-        <li>System, School and Class Group Announcements are created or updated.</li>
-        <li>Lesson resources are shared with you.</li>
-        <li>a Discussion Topic or Poll has been posted in the Class Group Forum.</li>
-        <li>status of a Lesson that has been sent to the Community Gallery is updated.</li>
-        <li>status of a Media Object that is in the process of transcoding is updated.</li>
-        <li>students’ marks and responses for an Assignment are ready to be downloaded.</li>
-    </ul>
+<ul>
+<li>System, School and Class Group Announcements are created or updated.</li>
+<li>Lesson resources are shared with you.</li>
+<li>a Discussion Topic or Poll has been posted in the Class Group Forum.</li>
+<li>status of a Lesson that has been sent to the Community Gallery is updated.</li>
+<li>status of a Media Object that is in the process of transcoding is updated.</li>
+<li>students’ marks and responses for an Assignment are ready to be downloaded.</li>
+</ul>
 </li>
 <li>You will be able to Flag/Unflag a Notification.</li>
 <li>The number of unread Notifications will be indicated on the <strong>Bell</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Bell.svg"> found on the header of the homepage.

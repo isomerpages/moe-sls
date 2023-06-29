@@ -3,6 +3,7 @@ title: (A1,ii) Change Display Name
 permalink: /teacher-user-guide/customise/change-display-name/
 description: ""
 third_nav_title: Customise
+image: /images/FaviconLight.png
 ---
 <h1>Change Display Name</h1>
 <p>Sometimes, your students may not know you by your default name shown on SLS.</p>
