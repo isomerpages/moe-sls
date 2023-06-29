@@ -3,8 +3,9 @@ title: (A3,12) EDictionary
 permalink: /student-user-guide/assess/edictionary/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="e-dictionary">E-Dictionary</h1>
+<h1 id="e-dictionary">(A3,12) E-Dictionary</h1>
 <p>E-Dictionary is only available for Chinese Language or Chinese Language with English translation. This feature has to be enabled by your teacher.</p>
 <hr>
 <ol>

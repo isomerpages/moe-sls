@@ -3,8 +3,9 @@ title: (A2,8) Attempt an Interactive Thinking Tool Component
 permalink: /student-user-guide/assess/attempt-an-interactive-thinking-tool-component/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="attempt-an-interactive-thinking-tool-component">Attempt an Interactive Thinking Tool Component</h1>
+<h1 id="attempt-an-interactive-thinking-tool-component">(A2,8) Attempt an Interactive Thinking Tool Component</h1>
 <h2 id="-interactive-thinking-tool-">Interactive Thinking Tool</h2>
 <hr>
 <ol>

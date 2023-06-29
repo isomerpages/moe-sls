@@ -3,8 +3,9 @@ title: (A1) Navigate an Assignment
 permalink: /student-user-guide/assess/navigate-an-assignment/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="-1-navigate-an-assignment">(1) Navigate an Assignment</h1>
+<h1 id="-1-navigate-an-assignment">(A1) Navigate an Assignment</h1>
 <p>From R19, Lessons will have both activities and sections. The term course will no longer be used.</p>
 <p>There are two ways to navigate around an Assignment - from the Lesson Plan or Activity List.</p>
 <p><u>Important</u>: You may not have access to all Sections of the Lesson when it is first assigned to you.</p>

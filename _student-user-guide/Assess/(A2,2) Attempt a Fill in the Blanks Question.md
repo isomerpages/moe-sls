@@ -3,8 +3,9 @@ title: (A2,2) Attempt a Fill in the Blanks Question
 permalink: /student-user-guide/assess/attempt-a-fill-in-the-blanks-question/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="attempt-a-fill-in-the-blanks-question">Attempt a Fill-in-the-Blanks Question</h1>
+<h1 id="attempt-a-fill-in-the-blanks-question">(A2,2) Attempt a Fill-in-the-Blanks Question</h1>
 <h2 id="-fill-in-the-blanks-question-">Fill-in-the-Blanks Question</h2>
 <hr>
 <ol>

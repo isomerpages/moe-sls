@@ -3,8 +3,9 @@ title: (A2,5) Attempt an Audio Response Question
 permalink: /student-user-guide/assess/attempt-an-audio-response-question/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="attempt-an-audio-response-question">Attempt an Audio-Response Question</h1>
+<h1 id="attempt-an-audio-response-question">(A2,5) Attempt an Audio-Response Question</h1>
 
 <h2 id="-audio-response-question-">Audio-Response Question</h2>
 <hr>

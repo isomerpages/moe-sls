@@ -3,8 +3,9 @@ title: (A2,13) Complete an Activity & Section
 permalink: /student-user-guide/assess/complete-an-activity-and-section/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="complete-an-activity-section">Complete an Activity &amp; Section</h1>
+<h1 id="complete-an-activity-section">(A2,13) Complete an Activity &amp; Section</h1>
 <ol>
 <li>Upon Activity/Section completion, the Activity/Section icon will be indicated with a tick <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityTick.svg"> or <img style="width:1.5rem; display: inline;" src="/images/Icons/SectionCompleted32.svg"> .</li>
 <li>To complete a Quiz, you must submit the Quiz on the last page.</li>

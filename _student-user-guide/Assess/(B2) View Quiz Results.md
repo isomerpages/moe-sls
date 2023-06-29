@@ -3,8 +3,9 @@ title: (B2) View Quiz Results
 permalink: /student-user-guide/assess/view-quiz-results/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="-2-view-quiz-results">(2) View Quiz Results</h1>
+<h1 id="-2-view-quiz-results">(B2) View Quiz Results</h1>
 <ol>
 <li>In an assigned Lesson, navigate to a Quiz by clicking the <strong>Quiz</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Quiz.svg"> in the Activity List. You can also <a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">access Quizzes</a> from the <strong>Lesson</strong> <strong>Plan</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/courseplan32.svg"></li>
 <li><p>On the Quiz Cover, click <strong>View Results</strong>. This will lead you to the Quiz End page.</p>

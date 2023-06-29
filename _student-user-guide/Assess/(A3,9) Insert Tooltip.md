@@ -3,8 +3,9 @@ title: (A3,9) Insert Tooltip
 permalink: /student-user-guide/assess/insert-tooltip/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="insert-tooltip">Insert Tooltip</h1>
+<h1 id="insert-tooltip">(A3,9) Insert Tooltip</h1>
 <p>Tooltips will display simple text over selected content to provide more information. For example, a tooltip can be used to display the definition of a technical term.</p>
 <h2 id="-insert-tooltip-">Insert Tooltip</h2>
 <hr>

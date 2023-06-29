@@ -3,8 +3,9 @@ title: (A2,1) Attempt a Multiple Choice Question
 permalink: /student-user-guide/assess/attempt-a-multiple-choice-question/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="attempt-a-multiple-choice-question">Attempt a Multiple-Choice Question</h1>
+<h1 id="attempt-a-multiple-choice-question">(A2,1) Attempt a Multiple-Choice Question</h1>
 <h2 id="-multiple-choice-question-">Multiple Choice Question</h2>
 <hr>
 <ol>

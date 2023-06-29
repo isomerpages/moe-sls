@@ -3,8 +3,9 @@ title: (A2,12) Attempt Google Attached Files
 permalink: /student-user-guide/assign/attempt-google-attached-files/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="attempt-google-attached-files">Attempt Google-Attached Files</h1>
+<h1 id="attempt-google-attached-files">(A2,12) Attempt Google-Attached Files</h1>
 
 <p>SLS is now able to connect with the Google Suite of Tools. Students are encouraged to <a target="_blank" href="/student-user-guide/customise/manage-linked-account/">link their iCON 2.0 or Google accounts with SLS</a>.</p>
 <h3 id="open-edit-google-attached-files">Open/Edit Google-Attached Files</h3>

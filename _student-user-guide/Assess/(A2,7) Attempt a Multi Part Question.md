@@ -3,8 +3,9 @@ title: (A2,7) Attempt a Multi Part Question
 permalink: /student-user-guide/assess/attempt-a-multi-part-question/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="attempt-a-multi-part-question">Attempt a Multi-Part Question</h1>
+<h1 id="attempt-a-multi-part-question">(A2,7) Attempt a Multi-Part Question</h1>
 <h2 id="-multi-part-question-">Multi-Part Question</h2>
 <hr>
 <ol>

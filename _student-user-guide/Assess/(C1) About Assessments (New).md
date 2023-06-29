@@ -3,8 +3,9 @@ title: (C1) About Assessments (New)
 permalink: /student-user-guide/assess/about-assessments/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="about-assessments-new-">About Assessments (New)</h1>
+<h1 id="about-assessments-new-">(C1) About Assessments (New)</h1>
 <p>Assessments are Assignments with a special setting that teachers can use for better control. In an Assessment, you can only access external links if they have been whitelisted for use in the assessment's network. </p>
 <h2 id="viewing-assessments">Viewing Assessments</h2>
 <hr>

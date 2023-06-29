@@ -3,8 +3,9 @@ title: (A3,6) Insert Mathematical or Chemical Equations
 permalink: /student-user-guide/assess/insert-mathematical-or-chemical-equations/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="insert-mathematical-or-chemical-equations">Insert Mathematical or Chemical Equations</h1>
+<h1 id="insert-mathematical-or-chemical-equations">(A3,6) Insert Mathematical or Chemical Equations</h1>
 <h2 id="-insert-mathematical-equation-using-mathtype-">Insert Mathematical Equation using MathType</h2>
 <hr>
 <ol>

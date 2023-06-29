@@ -3,8 +3,9 @@ title: (A3,1) Formatting & Paragraphing
 permalink: /student-user-guide/assess/formatting-and-paragraphing/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="formatting-paragraphing">Formatting &amp; Paragraphing</h1>
+<h1 id="formatting-paragraphing">(A3,1) Formatting &amp; Paragraphing</h1>
 <h2 id="formatting-text">Formatting Text</h2>
 <hr>
 <ol>

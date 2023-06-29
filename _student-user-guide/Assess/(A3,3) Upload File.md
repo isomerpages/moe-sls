@@ -3,8 +3,9 @@ title: (A3,3) Upload File
 permalink: /student-user-guide/assess/upload-file/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="upload-file">Upload File</h1>
+<h1 id="upload-file">(A3,3) Upload File</h1>
 <h2 id="-upload-file-">Upload File</h2>
 <hr>
 <p><u>Important</u>: If you receive an error message when uploading a file, please check that your file(s) do not exceed the file size limits and/or dimensions.</p>

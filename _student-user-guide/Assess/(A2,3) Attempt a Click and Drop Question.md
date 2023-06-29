@@ -3,8 +3,9 @@ title: (A2,3) Attempt a Click and Drop Question
 permalink: /student-user-guide/assess/attempt-a-click-and-drop-question/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="attempt-a-click-and-drop-question">Attempt a Click-and-Drop Question</h1>
+<h1 id="attempt-a-click-and-drop-question">(A2,3) Attempt a Click-and-Drop Question</h1>
 <h2 id="-click-and-drop-question-">Click-and-Drop Question</h2>
 <hr>
 <ol>

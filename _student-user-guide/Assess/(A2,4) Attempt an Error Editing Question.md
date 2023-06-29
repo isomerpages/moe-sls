@@ -3,8 +3,9 @@ title: (A2,4) Attempt an Error Editing Question
 permalink: /student-user-guide/assess/attempt-an-error-editing-question/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="attempt-an-error-editing-question">Attempt an Error-Editing Question</h1>
+<h1 id="attempt-an-error-editing-question">(A2,4) Attempt an Error-Editing Question</h1>
 <h2 id="-error-editing-question-">Error-Editing Question</h2>
 <hr>
 <ol>

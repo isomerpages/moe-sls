@@ -3,8 +3,9 @@ title: (A3,4) Insert Drawing
 permalink: /student-user-guide/assess/insert-drawing/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="insert-drawing">Insert Drawing</h1>
+<h1 id="insert-drawing">(A3,4) Insert Drawing</h1>
 <h2 id="-respond-with-drawing-">Respond with Drawing</h2>
 <hr>
 <p>You can submit a response with a diagram using the drawing tool.</p>

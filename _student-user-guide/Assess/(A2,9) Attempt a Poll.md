@@ -3,8 +3,9 @@ title: (A2,9) Attempt a Poll
 permalink: /student-user-guide/assess/attempt-a-poll/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="attempt-a-poll">Attempt a Poll</h1>
+<h1 id="attempt-a-poll">(A2,9) Attempt a Poll</h1>
 <ol>
 <li><p>You may choose just one response if you see circle buttons and one or more responses if there are checkboxes.</p>
 <p><img style="width: 50%;" src="/images/1Student/As-Poll.png"></p>

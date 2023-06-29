@@ -3,8 +3,9 @@ title: (B1) View Completed Assignments
 permalink: /student-user-guide/assess/view-completed-assignments/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="-1-view-completed-assignments">(1) View Completed Assignments</h1>
+<h1 id="-1-view-completed-assignments">(B1) View Completed Assignments</h1>
 <h2 id="-access-assignments-from-homepage-">Access Assignments from Homepage</h2>
 <hr>
 <ul>

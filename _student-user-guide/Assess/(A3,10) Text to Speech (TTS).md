@@ -3,8 +3,9 @@ title: (A3,10) Text to Speech (TTS)
 permalink: /student-user-guide/assess/text-to-speech-tts/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="text-to-speech-tts-">Text-to-Speech (TTS)</h1>
+<h1 id="text-to-speech-tts-">(A3,10) Text-to-Speech (TTS)</h1>
 <p><u>Note</u>: Text-to-Speech is only available in Chinese, Malay and Tamil.</p>
 <hr>
 <ol>

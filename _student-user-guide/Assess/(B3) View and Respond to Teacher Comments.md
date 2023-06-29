@@ -3,8 +3,9 @@ title: (B3) View and Respond to Teacher Comments
 permalink: /student-user-guide/assess/view-and-respond-to-teacher-comments/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="-3-view-and-respond-to-teacher-comments">(3) View and Respond to Teacher Comments</h1>
+<h1 id="-3-view-and-respond-to-teacher-comments">(B3) View and Respond to Teacher Comments</h1>
 <h2>View Teacher Comments</h2>
 <hr>
 <p>Your teacher may leave Comments on your responses to Free-Response, File Submission, and Audio-Response Questions.</p>

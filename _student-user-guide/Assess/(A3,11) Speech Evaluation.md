@@ -3,8 +3,9 @@ title: (A3,11) Speech Evaluation
 permalink: /student-user-guide/assess/speech-evaluation/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="speech-evaluation">Speech Evaluation</h1>
+<h1 id="speech-evaluation">(A3,11) Speech Evaluation</h1>
 <p>Speech Evaluation is only available in Chinese, Malay and Tamil.</p>
 <h2 id="speech-evaluation">Speech Evaluation</h2>
 <hr>

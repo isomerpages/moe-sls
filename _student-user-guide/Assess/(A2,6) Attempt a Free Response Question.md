@@ -3,8 +3,9 @@ title: (A2,6) Attempt a Free Response Question
 permalink: /student-user-guide/assess/attempt-a-free-response-question/
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1 id="attempt-a-free-response-question">Attempt a Free-Response Question</h1>
+<h1 id="attempt-a-free-response-question">(A2,6) Attempt a Free-Response Question</h1>
 <h2 id="-free-response-question-">Free-Response Question</h2>
 <hr>
 <ol>
