@@ -36,7 +36,7 @@ image: /images/FaviconLight.png
 <details>
 <summary><h4>D. How to manage users?</h4></summary>
 <ul>
-<li><a target="_blank" href="/admin-user-guide/administer/about-manage-users/">(D1) About Manage Users</a></li>
+<li><a target="_blank" href="/admin-user-guide/administer/about-manage-users/">About Manage Users</a></li>
 <li><a target="_blank" href="/admin-user-guide/administer/export-full-user-list/">(D1,i) Export Full User List</a></li>
   <li><a target="_blank" href="/admin-user-guide/administer/verification-exercise/">(D1,ii) Verification Exercise</a></li>
 </ul>	
