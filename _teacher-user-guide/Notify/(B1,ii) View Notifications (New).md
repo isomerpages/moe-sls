@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Notify
 image: /images/FaviconLight.png
 ---
-<h1>V(B1,ii) iew Notifications (New)</h1>
+<h1>(B1,ii) View Notifications (New)</h1>
 <p>From the Notifications page or Notifications tab (accessed through Class Groups), you can sort your Notifications according to <strong>For Me</strong> and <strong>Created By Me</strong>. <strong>(New in R19)</strong></p>
 <ol>
 <li>Under the For Me tab, you can further sort your Notifications by All, Unread and Flagged.</li>
