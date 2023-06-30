@@ -27,3 +27,5 @@ image: /images/FaviconLight.png
 	<li> We are currently using an external service to power the Mathematics Feedback Assistant. To&nbsp;learn more about creating Mathematics Feedback&nbsp;Assistant questions and the different question types that are supported, click on the resource link&nbsp;<a href="https://help.algebrakit.com/">here</a>.</li>
 <li>When you are done, click <strong>Save</strong>.</li>
 </ol>
+
+<p>#FA_Math</p>
