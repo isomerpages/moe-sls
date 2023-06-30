@@ -25,7 +25,7 @@ image: /images/FaviconLight.png
 <details>
 <summary><h4>B. Where to find game Leaderboard?</h4></summary>
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/gamify/display-leaderboard-for-students/">(B1,i) Display Leaderboard for Students (Improved)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/gamify/display-leaderboard-for-students/">(B1) Display Leaderboard for Students (Improved)</a></li>
 </ul>
 </details>
 

@@ -29,13 +29,13 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 </details>
 <details><summary><h4>C. How to install/use Apps?</h4></summary>
 <ul>
-  <li><a href="/teacher-user-guide/discover/access-app-library/" target="_blank">(C1,i) Access App Library</a></li>
+  <li><a href="/teacher-user-guide/discover/access-app-library/" target="_blank">(C1) Access App Library</a></li>
 </ul>
 </details>
 <details><summary><h4>D. How to follow My Subjects?</h4></summary>
 <ul>
-<li><a href="/teacher-user-guide/discover/access-my-subjects/" target="_blank">(D1,i) Access My Subjects</a></li>
-<li><a target="_blank" href="/teacher-user-guide/discover/follow-and-unfollow-subjects/">(D1,ii) Follow &amp; Unfollow Subjects</a></li>
+<li><a href="/teacher-user-guide/discover/access-my-subjects/" target="_blank">(D1) Access My Subjects</a></li>
+<li><a target="_blank" href="/teacher-user-guide/discover/follow-and-unfollow-subjects/">(D2) Follow &amp; Unfollow Subjects</a></li>
 </ul>
 </details>	
 <details><summary><h4>E. More about Resources</h4></summary>

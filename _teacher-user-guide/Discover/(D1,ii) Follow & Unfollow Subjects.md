@@ -1,11 +1,11 @@
 ---
-title: (D1,ii) Follow & Unfollow Subjects
+title: (D2) Follow & Unfollow Subjects
 permalink: /teacher-user-guide/discover/follow-and-unfollow-subjects/
 description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
 ---
-<h1>(D1,ii) Follow &amp; Unfollow Subjects</h1><hr>
+<h1>(D2) Follow &amp; Unfollow Subjects</h1><hr>
 <ol>
     <li>You may follow other subjects of interest beyond the ones assigned to you.</li>
     <li>Open the right menu and click <strong>My Subjects</strong>.</li>

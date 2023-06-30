@@ -29,6 +29,6 @@ image: /images/FaviconLight.png
 <details>
  <summary><h4>B. How to create/manage my own Lesson Templates?</h4></summary>
 <ul>
-  <li><a target="_blank" href="/teacher-user-guide/customise/manage-my-templates/">(B1,i) Manage My Templates</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/manage-my-templates/">(B1) Manage My Templates</a></li>
 </ul>
 </details>

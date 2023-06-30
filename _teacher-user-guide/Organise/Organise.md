@@ -23,7 +23,7 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <summary><h4>B. How to organise Class Group Resources?</h4></summary>
 
 <ul>
-<li><a href="/teacher-user-guide/organise/manage-class-group-resources/" target="_blank">(B1,i) Manage Class Group Resources</a></li>
+<li><a href="/teacher-user-guide/organise/manage-class-group-resources/" target="_blank">(B1) Manage Class Group Resources</a></li>
 </ul>
 </details>
 
