@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="make-a-copy-of-lessons-assignments">Make a Copy of Lessons &amp; Assignments</h1>
+<h1 id="make-a-copy-of-lessons-assignments">(B1,v) Make a Copy of Lessons &amp; Assignments</h1>
 <h2 id="make-a-copy-of-a-lesson-">Make a Copy of a Lesson</h2>
 <hr>
 <p>You can make a copy of Lessons in SLS from the following places on SLS.</p>

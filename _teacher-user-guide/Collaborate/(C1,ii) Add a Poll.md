@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Collaborate
 image: /images/FaviconLight.png
 ---
-<h1 id="add-a-poll">Add a Poll</h1>
+<h1 id="add-a-poll">(C1,ii) Add a Poll</h1>
 <h2 id="-create-a-poll-from-lesson-editor-page-">Create a Poll from Lesson Editor page</h2>
 <hr>
 <ol>

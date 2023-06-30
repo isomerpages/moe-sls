@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assign
 image: /images/FaviconLight.png
 ---
-<h1 id="assign-community-gallery-lessons">Assign Community Gallery Lessons</h1>
+<h1 id="assign-community-gallery-lessons">(A1,iv) Assign Community Gallery Lessons</h1>
 <h2 id="assign-community-gallery-lesson-as-assignment">Assign Community Gallery Lesson as Assignment</h2>
 <hr>
 <ol>

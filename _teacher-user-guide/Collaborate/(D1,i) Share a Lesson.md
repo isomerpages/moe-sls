@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Collaborate
 image: /images/FaviconLight.png
 ---
-<h1 id="share-a-lesson">Share a Lesson</h1>
+<h1 id="share-a-lesson">(D1,i) Share a Lesson</h1>
 <h3 id="-share-a-lesson-">Share a Lesson</h3>
 <hr>
 <p>You can share lessons that you have created with other teachers for them to use or to co-author the lesson.</p>

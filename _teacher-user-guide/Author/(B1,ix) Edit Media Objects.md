@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="edit-media-objects">Edit Media Objects</h1>
+<h1 id="edit-media-objects">(B1,ix) Edit Media Objects</h1>
 <h2 id="-re-uploading-an-image-">Re-uploading an Image</h2>
 <hr>
 <p>As SLS upgrades, older file formats may no longer be supported. If the message "<strong>This image format will not be supported.</strong>" appears, please do the following:</p>

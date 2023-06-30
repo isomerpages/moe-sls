@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
 ---
-<h1 id="mark-assignments-as-complete-and-incomplete">Mark Assignments as Complete and Incomplete</h1>
+<h1 id="mark-assignments-as-complete-and-incomplete">(D1,vi) Mark Assignments as Complete and Incomplete</h1>
 <p><u>Important</u>:</p>
 <ul>
 <li>Assignments marked as "Complete" will appear in your student's Assignment page under the "Complete" tab. Students will no longer be able to attempt these Assignments.</li>

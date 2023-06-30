@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="insert-links-to-sections-new-">Insert Links to Sections (New)</h1>
+<h1 id="insert-links-to-sections-new-">(A3,9) Insert Links to Sections (New)</h1>
 <h2 id="-add-link-to-section-activity-new-">Add Link to Section/Activity (New)</h2>
 <hr>
 <ol>

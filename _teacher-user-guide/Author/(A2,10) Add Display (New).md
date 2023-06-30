@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="add-display-new-">Add Display (New)</h1>
+<h1 id="add-display-new-">(A2,10) Add Display (New)</h1>
 <p>You can add multiple Columns and Accordions display to contain different Components in an Activity.</p>
 <ol>
 <li>Hover over Display in the Component Bar to expand the list.</li>

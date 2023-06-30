@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Gamify
 image: /images/FaviconLight.png
 ---
-<h1 id="-1-manage-gamification-settings">(1) Manage Gamification Settings</h1>
+<h1 id="-1-manage-gamification-settings">(A1) Manage Gamification Settings</h1>
 <h2 id="turn-on-gamification">Turn on Gamification</h2>
 <hr>
 <ol>

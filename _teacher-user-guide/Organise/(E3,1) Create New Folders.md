@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Organise
 image: /images/FaviconLight.png
 ---
-<h1>(3a) Create New Folders</h1>
+<h1>(E3,1) Create New Folders</h1>
 
 <h2>Create a New Folder in My Lessons Tab</h2>
 <hr>

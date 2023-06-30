@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="embed-youtube-videos">Embed YouTube Videos</h1>
+<h1 id="embed-youtube-videos">(A2,12) Embed YouTube Videos</h1>
 <h2 id="embed-youtube-video">Embed Youtube Video</h2>
 <hr>
 <p>You can embed YouTube Videos directly from the Component Bar under Text/Media.</p>

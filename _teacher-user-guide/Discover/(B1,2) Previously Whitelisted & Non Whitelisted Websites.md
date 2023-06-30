@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
 ---
-<h1 class="page-title">Previously Whitelisted/Non-Whitelisted Websites</h1>
+<h1 class="page-title">(B1,2) Previously Whitelisted/Non-Whitelisted Websites</h1>
 
 <h2 class="section-title">Removal of Whitelisted Websites</h2>
 <hr>

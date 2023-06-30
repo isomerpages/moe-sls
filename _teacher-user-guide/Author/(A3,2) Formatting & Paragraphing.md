@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="formatting-paragraphing">Formatting &amp; Paragraphing</h1>
+<h1 id="formatting-paragraphing">(A3,2) Formatting &amp; Paragraphing</h1>
 <h2 id="formatting-text">Formatting Text</h2>
 <hr>
 <ol>

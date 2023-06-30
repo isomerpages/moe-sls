@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
 ---
-<h1 id="view-assignments">View Assignments</h1>
+<h1 id="view-assignments">(D1,i) View Assignments</h1>
 <h2 id="-assignment-cards-">Assignment Cards</h2>
 <hr>
 <ul>

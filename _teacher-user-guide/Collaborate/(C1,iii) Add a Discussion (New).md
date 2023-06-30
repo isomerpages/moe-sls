@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Collaborate
 image: /images/FaviconLight.png
 ---
-<h1 id="add-a-discussion-new-">Add a Discussion (New)</h1>
+<h1 id="add-a-discussion-new-">(C1,iii) Add a Discussion (New)</h1>
 <h2 id="-create-a-discussion-from-lesson-editor-page-">Create a Discussion from Lesson Editor page</h2>
 <hr>
 <p>From R19, teachers can create Discussions in Lessons to promote conversations about certain issues.</p>

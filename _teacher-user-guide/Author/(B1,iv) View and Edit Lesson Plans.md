@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="view-edit-lesson-plans">View &amp; Edit Lesson Plans</h1>
+<h1 id="view-edit-lesson-plans">(B1,iv) View &amp; Edit Lesson Plans</h1>
 <p>The yellow navigation arrow in the Lesson Plan indicates your current view of the Lesson.</p>
 <h2 id="-view-a-lesson-plan-">View a Lesson Plan</h2>
 <hr>

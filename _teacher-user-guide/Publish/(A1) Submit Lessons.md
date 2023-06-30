@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Publish
 image: /images/FaviconLight.png
 ---
-<h1 id="-1-submit-lessons">(1) Submit Lessons</h1>
+<h1 id="-1-submit-lessons">(A1) Submit Lessons</h1>
 <p>If you have a Lesson that you would like to share with teachers on SLS, you may submit it to the Community Gallery. </p>
 <h2 id="-lesson-submission-checklist-">Lesson Submission Checklist:</h2>
 <hr>

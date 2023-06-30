@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Differentiate
 image: /images/FaviconLight.png
 ---
-<h1 id="add-section-prerequisites">Add Section Prerequisites</h1>
+<h1 id="add-section-prerequisites">(B1,i) Add Section Prerequisites</h1>
 <p>You can add Section Prerequisites for a Lesson that contains multiple Sections. Sections with Prerequisites will be locked until students fulfil the Prerequisites. </p>
 <ol>
 <li>On the Lesson Editor page, click the <strong>Lesson Plan</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/LessonPlan.svg">.</li>

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
 ---
-<h1>Access App Library</h1>
+<h1>(C1) Access App Library</h1>
 <p>SLS allows system capabilities to be extended via integration with external applications. This accelerates the adoption and integration of new digital learning tools and resources complementary to SLS. The App Library contains a list of whitelisted Apps that can be launched within SLS.</p>
 <p>Teachers can  <a target="_blank" href="/teacher-user-guide/organise/install-and-launch-apps/">install Apps within their Class Groups or add them to their Lessons</a>.
 </p>

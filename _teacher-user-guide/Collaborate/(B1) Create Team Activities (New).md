@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Collaborate
 image: /images/FaviconLight.png
 ---
-<h1 id="-1-create-team-activities-new-">(1) Create Team Activities (New)</h1>
+<h1 id="-1-create-team-activities-new-">(B1) Create Team Activities (New)</h1>
 <p>Teachers can create Team Activities for students to attempt in assignments or in specific activities collaboratively. The Team Activity can be turned on from the Assignment Settings subpage. Team Activities are indicated with the Team icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Team.svg">.</p>
 <ol>
 <li>From the Lesson Editor page, <a target="_blank" href="/teacher-user-guide/author/add-new-activities-and-sections/">create a new activity or quiz</a>, or <a target="_blank" href="/teacher-user-guide/discover/add-existing-activities-from-resources/">add an existing activity or quiz</a>.</li>

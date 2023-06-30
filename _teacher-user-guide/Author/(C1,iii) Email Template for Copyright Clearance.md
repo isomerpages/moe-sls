@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="email-template-for-copyright-clearance">Email Template for Copyright Clearance</h1>
+<h1 id="email-template-for-copyright-clearance">(C1,iii) Email Template for Copyright Clearance</h1>
 <p>Dear Sir/Madam</p>
 <p>(Name of School) is looking for suitable materials to use in our lesson package. We have found the following image/text/etc on your website useful and would like to know whether (Copyright Owner Name) is the copyright owner. If so, we would like to seek your permission to reproduce/ download/ modify the material.</p>
 <p>A summary of the licence we are seeking is indicated below</p>

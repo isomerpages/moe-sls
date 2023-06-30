@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
 ---
-<h1 id="-3c-mark-google-attached-files">(3c) Mark Google-Attached Files</h1>
+<h1 id="-3c-mark-google-attached-files">(A3,3) Mark Google-Attached Files</h1>
 <ol>
 <li>With the integration of Google’s suite of tools, you can now leverage Google extensions such as Kami or Lumin to mark Google Files within an Assignment and provide group and/or personalised feedback on the Google file and in SLS. </li>
 <li><p>After students submit their Google File, you can choose to mark the file as a PDF or a Google File. </p>

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
 ---
-<h1 id="-1-create-quizzes-new-">(1) Create Quizzes (New)</h1>
+<h1 id="-1-create-quizzes-new-">(A1) Create Quizzes (New)</h1>
 <h2 id="add-quiz">Add Quiz</h2>
 <hr>
 <p>There are multiple ways to add a new Quiz.</p>

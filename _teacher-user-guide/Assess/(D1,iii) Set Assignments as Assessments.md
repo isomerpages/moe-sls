@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
 ---
-<h1 id="set-assignments-as-assessments">Set Assignments as Assessments</h1>
+<h1 id="set-assignments-as-assessments">(D1,iii) Set Assignments as Assessments</h1>
 <ol>
 <li>There are multiple ways to set assignments as Assessments.</li><ul>
 <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Assignment card and click <strong>Manage</strong>. Alternatively, click on the Assignment Card to open the Assignment, open the right menu and select <strong>Manage Assignment Settings</strong>.</li>

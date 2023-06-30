@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assign
 image: /images/FaviconLight.png
 ---
-<h1 id="delete-assignments">Delete Assignments</h1>
+<h1 id="delete-assignments">(B1,vi) Delete Assignments</h1>
 <p>You can delete an Assignment after it has been assigned and/or attempted by students.</p>
 <ol>
 <li>Click the Assignment card to enter the Assignment and click the <strong>Overflow</strong> (3-dots icon) to open the right menu and select <strong>Delete</strong>.</li>

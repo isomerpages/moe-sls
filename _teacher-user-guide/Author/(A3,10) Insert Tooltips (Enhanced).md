@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="-insert-tooltips-enhanced-">Insert Tooltips (Enhanced)</h1>
+<h1 id="-insert-tooltips-enhanced-">(A3,10) Insert Tooltips (Enhanced)</h1>
 <h2 id="insert-tooltips">Insert Tooltips</h2>
 <p>Tooltips will display simple text over selected content to provide more information. For example, a Tooltip can appear to display the definition of a technical term.</p>
 <ol>

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="localisation-and-e-dictionary">Localisation and E-Dictionary</h1>
+<h1 id="localisation-and-e-dictionary">(A3,14) Localisation and E-Dictionary</h1>
 <p>To create a more immersive MTL experience for your Lessons, you can Enable MTL Localisation and E-Dictionary.</p>
 <ul>
 <li>When Language Localisation is changed, the instructions on SLS will be in the language you have selected.</li>

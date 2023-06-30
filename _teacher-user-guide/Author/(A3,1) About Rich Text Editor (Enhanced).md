@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="about-rich-text-editor-enhanced-">About Rich Text Editor (Enhanced)</h1>
+<h1 id="about-rich-text-editor-enhanced-">(A3,1) About Rich Text Editor (Enhanced)</h1>
 <p>The Rich Text Editor allows you to add or edit content, images, links, and other components in an Activity. </p>
 <p>From R19,</p>
 <ul>

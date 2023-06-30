@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
 ---
-<h1>(1a) Add Existing Activities from Resources</h1>
+<h1>(A1,1) Add Existing Activities from Resources</h1>
 <h3>From Create New Lesson</h3>
 <hr>
 <ol>

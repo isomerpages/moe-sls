@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="insert-chinese-or-tamil-text">Insert Chinese or Tamil Text</h1>
+<h1 id="insert-chinese-or-tamil-text">(A3,3) Insert Chinese or Tamil Text</h1>
 <p>To insert Chinese or Tamil text in SLS, your device will need to allow language input in either language.</p>
 <h2 id="-windows-10-pcs-">Windows 10 PCs</h2>
 <hr>

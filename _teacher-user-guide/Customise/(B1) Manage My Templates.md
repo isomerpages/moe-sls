@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Customise
 image: /images/FaviconLight.png
 ---
-<h1>Manage My Templates</h1>
+<h1>(B1) Manage My Templates</h1>
 <p>You can now save Lesson Templates for quick Lesson authoring.</p>
 <h2>Adding a New Template</h2>
 <hr>

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Notify
 image: /images/FaviconLight.png
 ---
-<h1>(1) View and Create Announcements (Enhanced)</h1>
+<h1>(A1) View and Create Announcements (Enhanced)</h1>
 
 <h2>View Announcements</h2>
 <hr>

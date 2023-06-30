@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Organise
 image: /images/FaviconLight.png
 ---
-<h1>Star Resources</h1>
+<h1>(G1) Star Resources</h1>
 
 <p>Starred Resources allow both teachers and students to star up to 300 resources. Teachers can star Lessons, Questions, Media Objects and Apps. You may star resources found in the MOE Library, Community Gallery, or My Drive that you want to view or review at a later time.</p>
 

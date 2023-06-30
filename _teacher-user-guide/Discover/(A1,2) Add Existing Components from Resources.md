@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
 ---
-<h1>(1b) Add Existing Components from Resources</h1>
+<h1>(A1,2) Add Existing Components from Resources</h1>
 
 <h3>Add Existing Questions from Resources</h3>
 

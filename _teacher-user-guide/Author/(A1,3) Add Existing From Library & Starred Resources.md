@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="add-existing-from-library-starred-resources">Add Existing From Library &amp; Starred Resources</h1>
+<h1 id="add-existing-from-library-starred-resources">(A1,3) Add Existing From Library &amp; Starred Resources</h1>
 <h2 id="viewing-existing-lessons-from-library-starred-resources">Viewing Existing Lessons From Library/Starred Resources</h2>
 <hr>
 <ol>

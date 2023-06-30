@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assign
 image: /images/FaviconLight.png
 ---
-<h1 id="edit-assignments">Edit Assignments</h1>
+<h1 id="edit-assignments">(B1,iii) Edit Assignments</h1>
 <h2 id="-edit-an-assignment-in-progress-">Edit an Assignment in Progress</h2>
 <hr>
 <p>You can edit an assignment after it is assigned.</p>

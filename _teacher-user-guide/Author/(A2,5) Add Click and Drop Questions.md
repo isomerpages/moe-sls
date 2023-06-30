@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="add-click-and-drop-questions">Add Click-and-Drop Questions</h1>
+<h1 id="add-click-and-drop-questions">(A2,5) Add Click-and-Drop Questions</h1>
 <h2 id="-add-click-and-drop-question-">Add Click-and-Drop Question</h2>
 <hr>
 <ol>

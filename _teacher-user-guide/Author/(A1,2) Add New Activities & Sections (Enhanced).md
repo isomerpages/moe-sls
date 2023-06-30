@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="add-new-activities-sections-enhanced-">Add New Activities &amp; Sections (Enhanced)</h1>
+<h1 id="add-new-activities-sections-enhanced-">(A1,2) Add New Activities &amp; Sections (Enhanced)</h1>
 <h2 id="add-new-activity-from-create-new-lesson">Add New Activity from Create New Lesson</h2>
 <hr>
 <ol>

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assign
 image: /images/FaviconLight.png
 ---
-<h1 id="quick-assign-activities-quizzes-new-">Quick Assign Activities &amp; Quizzes (New)</h1>
+<h1 id="quick-assign-activities-quizzes-new-">(A1,ii) Quick Assign Activities &amp; Quizzes (New)</h1>
 <h2 id="quick-assign-from-class-group">Quick Assign from Class Group</h2>
 <hr>
 <ol>

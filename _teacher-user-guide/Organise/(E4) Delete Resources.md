@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Organise
 image: /images/FaviconLight.png
 ---
-<h1>(4) Delete Resources</h1>
+<h1>(E4) Delete Resources</h1>
 
 <p><strong>Resources</strong> (Lessons and Folders) found under My Lessons tab can be deleted if you no longer need them.</p>
 

@@ -31,7 +31,7 @@ third_nav_title: Events
       <tr>
         <td>3</td>
         <td>Microsoft</td>
-        <td>Microsoft's mission is to empower every person and every organization on the planet to achieve more.</td>
+        <td>Microsoft's mission is to empower every person and every organisation on the planet to achieve more.</td>
       </tr>
       <tr>
         <td>4</td>

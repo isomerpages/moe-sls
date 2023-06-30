@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
 ---
-<h1 id="-2a-release-teacher-marked-quizzes">(2a) Release Teacher-Marked Quizzes</h1>
+<h1 id="-2a-release-teacher-marked-quizzes">(B2,1) Release Teacher-Marked Quizzes</h1>
 <ol>
 	<li>A Quiz can be released if it is set as a Teacher-Marked Quiz.
 	</li>

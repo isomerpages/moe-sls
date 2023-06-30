@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assign
 image: /images/FaviconLight.png
 ---
-<h1 id="pause-resume-assignments">Pause &amp; Resume Assignments</h1>
+<h1 id="pause-resume-assignments">(B1,iv) Pause &amp; Resume Assignments</h1>
 <p>You may pause and resume an Assignment temporarily if you do not want students to have access to the Assignment.</p>
 <ol>
 <li><p>Click the Assignment card to enter the Assignment and click the <strong>Pause Assignment</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pause.svg">. A blue banner will indicate whether an Assignment is paused.</p>

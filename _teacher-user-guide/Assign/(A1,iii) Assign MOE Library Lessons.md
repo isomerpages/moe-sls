@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assign
 image: /images/FaviconLight.png
 ---
-<h1 id="assign-moe-library-lessons">Assign MOE Library Lessons</h1>
+<h1 id="assign-moe-library-lessons">(A1,iii) Assign MOE Library Lessons</h1>
 <h2 id="assign-moe-lesson-as-assignment">Assign MOE Lesson as Assignment</h2>
 <hr>
 <ol>

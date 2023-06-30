@@ -6,7 +6,7 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 ---
 <h1>Organise</h1>
-<p>Use SLS to organize your personal and class group resources, assignments, conversations and notifications.</p>
+<p>Use SLS to organise your personal and class group resources, assignments, conversations and notifications.</p>
 <br>
 <img style="width: 50%;" src="/images/1Student/Flow-Organise1.png">
 <br>

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Collaborate
 image: /images/FaviconLight.png
 ---
-<h1 id="access-a-shared-lesson">Access a Shared Lesson</h1>
+<h1 id="access-a-shared-lesson">(D1,ii) Access a Shared Lesson</h1>
 <h2 id="access-a-shared-lesson-">Access a Shared Lesson</h2>
 <hr>
 <ol>

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Organise
 image: /images/FaviconLight.png
 ---
-<h1>Manage Folders</h1>
+<h1>(F1,ii) Manage Folders</h1>
 
 <h2>Move Lessons to a Folder</h2>
 <hr>

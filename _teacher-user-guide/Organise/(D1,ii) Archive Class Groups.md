@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Organise
 image: /images/FaviconLight.png
 ---
-<h1>Archive Class Groups</h1>
+<h1>(D1,ii) Archive Class Groups</h1>
 
 <p>Class Groups (Group) created in SLS can be archived when they are no longer needed.</p>
 

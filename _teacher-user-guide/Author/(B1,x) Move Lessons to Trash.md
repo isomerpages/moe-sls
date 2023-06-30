@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="move-lessons-to-trash">Move Lessons to Trash</h1>
+<h1 id="move-lessons-to-trash">(B1,x) Move Lessons to Trash</h1>
 <p>You can <a target="_blank" href="/teacher-user-guide/organise/delete-resources/">move Lessons to Trash from Lesson View page or My Drive</a> .</p>
 <p>To move a Lesson to Trash from Lesson View page,</p>
 <ol>

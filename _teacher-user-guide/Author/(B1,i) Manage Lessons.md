@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="manage-lessons">Manage Lessons</h1>
+<h1 id="manage-lessons">(B1,i) Manage Lessons</h1>
 <h2 id="-lesson-">Lesson</h2>
 <hr>
 <p>A Lesson can contain up to 20 Sections. Each Section can contain up to 20 Activities or Quizzes. </p>

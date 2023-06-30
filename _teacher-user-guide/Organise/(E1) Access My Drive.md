@@ -6,7 +6,7 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 ---
 <div>
-<h1>(1) Access My Drive</h1>
+<h1>(E1) Access My Drive</h1>
 <p><strong>My Drive</strong> can be accessed from the homepage by opening the left menu.</p>
 <ol>
 <li>

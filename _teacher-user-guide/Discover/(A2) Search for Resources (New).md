@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
 ---
-<h1>(2) Search for Resources (New)</h1>
+<h1>(A2) Search for Resources (New)</h1>
 <h2>Using Search Bar from Homepage</h2>
 <hr>
 <ol>

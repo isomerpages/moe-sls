@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Notify
 image: /images/FaviconLight.png
 ---
-<h1>(2) Manage Announcements</h1>
+<h1>(A2) Manage Announcements</h1>
 <h2>Edit Announcements</h2>
 <p>To view your Announcements, click <a target="_blank" href="/teacher-user-guide/notify/view-and-create-announcements/">here</a>.</p>
 <ol>

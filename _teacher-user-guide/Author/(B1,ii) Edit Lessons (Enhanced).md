@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="edit-lessons-enhanced-">Edit Lessons (Enhanced)</h1>
+<h1 id="edit-lessons-enhanced-">(B1,ii) Edit Lessons (Enhanced)</h1>
 <h2 id="-lesson-editor-page-">Lesson Editor Page</h2>
 <hr>
 <p>You can edit Lessons that you have created or copied, as well as Lessons that were shared with you with editing permissions.</p>

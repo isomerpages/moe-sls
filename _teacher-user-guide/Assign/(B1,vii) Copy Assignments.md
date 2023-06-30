@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assign
 image: /images/FaviconLight.png
 ---
-<h1 id="copy-assignments">Copy Assignments</h1>
+<h1 id="copy-assignments">(B1,vii) Copy Assignments</h1>
 <p>You can copy an Assignment after it has been assigned and/or attempted by students. This is helpful for co-teachers of a Class Group to have a copy of an Assignment even if the Lesson is not shared. </p>
 <ol>
 <li>Click the Assignment card to enter the Assignment. </li>

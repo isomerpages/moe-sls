@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="add-new-using-templates">Add New using Templates</h1>
+<h1 id="add-new-using-templates">(A1,1) Add New using Templates</h1>
 <p>When <a target="_blank" href="/teacher-user-guide/author/create-new-lessons/">creating a new Lesson</a> or <a target="_blank" href="/teacher-user-guide/author/add-new-activities-and-sections/">adding a new Activity</a>, you can choose to use a template from My Templates or SLS Templates. </p>
 <p>Click <a target="_blank" href="/teacher-user-guide/author/about-templates/">here</a> to learn more about Templates.</p>
 <h2 id="viewing-a-template">Viewing a Template</h2>

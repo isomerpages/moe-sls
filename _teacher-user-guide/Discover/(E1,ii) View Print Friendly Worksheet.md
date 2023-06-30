@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
 ---
-<h1>View Print-Friendly Worksheet</h1>
+<h1>(E1,ii) View Print-Friendly Worksheet</h1>
 <hr>
 <p>Print-friendly Worksheets allow for resources to be downloaded and printed. Resources from MOE Library, Community Gallery, Class Group Resources, and Assignments can be viewed as Print-Friendly worksheets. </p>
 

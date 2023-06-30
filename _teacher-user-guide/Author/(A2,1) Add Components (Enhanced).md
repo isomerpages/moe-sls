@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="add-components-enhanced-">Add Components (Enhanced)</h1>
+<h1 id="add-components-enhanced-">(A2,1) Add Components (Enhanced)</h1>
 <h2 id="add-a-text-media-component">Add a Text/Media Component</h2>
 <hr>
 <ol>

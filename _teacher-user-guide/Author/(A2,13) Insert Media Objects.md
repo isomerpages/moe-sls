@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="insert-media-objects">Insert Media Objects</h1>
+<h1 id="insert-media-objects">(A2,13) Insert Media Objects</h1>
 <ul>
 <li>You can incorporate Media Objects into your Lesson. Uploaded Media Objects can be reused in future Lessons.</li>
 <li>Only Media Objects from My Drive, Community Gallery and MOE Library are searchable in the global search bar.</li>

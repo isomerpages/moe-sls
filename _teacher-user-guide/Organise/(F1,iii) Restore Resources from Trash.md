@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Organise
 image: /images/FaviconLight.png
 ---
-<h1>Restore Resources from Trash</h1>
+<h1>(F1,iii) Restore Resources from Trash</h1>
 
 <p>Resources found under the <strong>Trash</strong> tab can be restored to their original locations.</p>
 

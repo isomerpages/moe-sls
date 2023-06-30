@@ -14,7 +14,7 @@ third_nav_title: SLS Superhero Quiz
   <hr>
   <ul>
     <li>Many of us will experience "teachable moments" in the classroom. Use features within the Class Group to extend these moments.</li>
-    <li>Through organization of resources in your Class Group, you can cater to diverse students' learning needs.</li>
+    <li>Through organisation of resources in your Class Group, you can cater to diverse students' learning needs.</li>
     <li>Resources in Class Groups have no End Date, so students can use these supplementary resources for self-study at their preferred pacing.</li>
   </ul>
   

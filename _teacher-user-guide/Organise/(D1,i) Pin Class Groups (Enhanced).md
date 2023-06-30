@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Organise
 image: /images/FaviconLight.png
 ---
-<h1>Pin Class Groups (Enhanced)</h1>
+<h1>(D1,i) Pin Class Groups (Enhanced)</h1>
 
 <ol>
   <li>From the homepage, open the left menu and click <strong>Class Groups</strong>, followed by <strong>All Class Groups</strong>.</li>

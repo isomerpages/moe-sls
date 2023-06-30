@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="add-lesson-tags">Add Lesson Tags</h1>
+<h1 id="add-lesson-tags">(B1,viii) Add Lesson Tags</h1>
 <p>Lessons can be tagged to Subject, Level, Topics, and Sub-topics in the MOE Content Map so as to improve searchability in MOE Library, Community Gallery, and My Drive.</p>
 <p>If Lessons are submitted to the Community Gallery, tags will allow teachers to find the Lesson using filters and relevant search terms.</p>
 <h2 id="-add-lesson-tags-">Add Lesson Tags</h2>

@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assign
 image: /images/FaviconLight.png
 ---
-<h1 id="manage-assignments">Manage Assignments</h1>
+<h1 id="manage-assignments">(B1,i) Manage Assignments</h1>
 <h2 id="-manage-an-assignment-">Manage an Assignment</h2>
 <hr>
 <p>There are 3 ways to manage an Assignment:</p>
