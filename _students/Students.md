@@ -2,6 +2,7 @@
 title: Students
 permalink: /students/
 description: ""
+image: /images/FaviconLight.png
 ---
 <img alt="Students" src="/images/1Student/Students%20Hero.png">
 <p>Take charge of your learning! Explore new features as well as our growing library of resources.</p>

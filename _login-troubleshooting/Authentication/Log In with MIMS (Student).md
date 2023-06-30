@@ -3,6 +3,7 @@ title: Log In with MIMS (Student)
 permalink: /login-troubleshooting/authentication/login-with-mims-student/
 description: ""
 third_nav_title: Authentication
+image: /images/FaviconLight.png
 ---
 <h1 id="log-in-with-mims-new-">Log in with MIMS (New)</h1>
 <p>You can log in to SLS in 2 ways:</p>

@@ -3,6 +3,7 @@ title: Unlock Account
 permalink: /login-troubleshooting/authentication/unlock-account/
 description: ""
 third_nav_title: Authentication
+image: /images/FaviconLight.png
 ---
 <h1 id="unlock-account">Unlock Account</h1>
 <h2 id="-how-a-student-account-gets-locked-">How a Student Account Gets Locked</h2>

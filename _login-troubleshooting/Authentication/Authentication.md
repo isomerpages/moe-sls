@@ -3,6 +3,7 @@ title: Authentication
 permalink: /login-troubleshooting/authentication/index/
 description: ""
 third_nav_title: Authentication
+image: /images/FaviconLight.png
 ---
 <h1>Authentication</h1>
 <hr>

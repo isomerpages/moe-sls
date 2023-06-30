@@ -3,6 +3,7 @@ title: Get Help from your School
 permalink: /login-troubleshooting/get-help/get-help-from-your-school/
 description: ""
 third_nav_title: Get Help
+image: /images/FaviconLight.png
 ---
 <h1>Get Help from your School</h1>
 

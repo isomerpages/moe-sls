@@ -3,6 +3,7 @@ title: General Rules
 permalink: /teachers/build-the-sls-card-game/general-rules/
 description: ""
 third_nav_title: Build The SLS Card Game
+image: /images/FaviconLight.png
 ---
 <img src="/images/SLS%20Build/General%20rules%20-%20cards%202.png">
 <h2>General Rules</h2>

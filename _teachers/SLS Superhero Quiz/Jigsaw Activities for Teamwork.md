@@ -3,6 +3,7 @@ title: Jigsaw Activities for Teamwork
 permalink: /teachers/sls-superhero-quiz/jigsaw-activities-for-teamwork/
 description: ""
 third_nav_title: SLS Superhero Quiz
+image: /images/FaviconLight.png
 ---
 <h1 class="page-title">Jigsaw Activities for Teamwork (#Collaborate_With_SLS)</h1>
   <h2>What it is</h2>

@@ -3,9 +3,10 @@ title: Overview 2021
 permalink: /partners/events/overview-2021/
 description: ""
 third_nav_title: Events
+image: /images/FaviconLight.png
 ---
 <img width="100%" src="/images/3Partners/small_slsmicrositeimage.png">           
-<h2 class="section-title">Welcome to SLS Pitch Day</h2>
+<h1 class="section-title">Welcome to SLS Pitch Day</h1>
 <hr>
 <p>SLS Pitch Day is a platform for interested participants to propose products and services that would be useful for teaching and learning and have potential for integration with SLS. </p>
 <p>It allows an opportunity to connect, discuss and share with MOE divisions on products that may meet their needs.</p>

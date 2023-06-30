@@ -3,6 +3,7 @@ title: Technical Support and Passwords
 permalink: /students/frequently-asked-questions/technical-support-and-passwords/
 description: ""
 third_nav_title: Frequently Asked Questions
+image: /images/FaviconLight.png
 ---
 <h1 id="technical-support-and-passwords">Technical Support and Passwords</h1>
 <h2 id="overview-of-sls-system">Overview of the SLS System</h2>

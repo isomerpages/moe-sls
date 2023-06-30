@@ -3,6 +3,7 @@ title: Overview 2022
 permalink: /partners/events/overview-2022/
 description: ""
 third_nav_title: Events
+image: /images/FaviconLight.png
 ---
 <h1>Overview of SLS</h1>
 <img src="/images/3Partners/banner2022.png" style="width:;">

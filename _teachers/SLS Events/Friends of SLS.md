@@ -3,6 +3,7 @@ title: Friends of SLS
 permalink: /teachers/sls-events/friends-of-sls/
 description: ""
 third_nav_title: SLS Events
+image: /images/FaviconLight.png
 ---
 <img src="/images/2Teacher/friendsofsls.png">
 <p>Friends of SLS is a new initiative to recognise educators who have significantly contributed to the SLS fraternity over the last few years. We thank these educators for their contributions which include sharing on SLS features, creating SLS support guides and assisting other teachers with SLS-related queries on SgLDC. </p>                            

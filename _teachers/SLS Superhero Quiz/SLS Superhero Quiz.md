@@ -3,6 +3,7 @@ title: SLS Superhero Quiz
 permalink: /teachers/sls-superhero-quiz/index/
 description: ""
 third_nav_title: SLS Superhero Quiz
+image: /images/FaviconLight.png
 ---
 <h3>Introduction</h3>
 <hr>

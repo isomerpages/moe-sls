@@ -3,6 +3,7 @@ title: Unsuccessful Password Reset Attempts
 permalink: /login-troubleshooting/authentication/unsuccessful-password-reset-attempts/
 description: ""
 third_nav_title: Authentication
+image: /images/FaviconLight.png
 ---
 <h1 id="unsuccessful-password-reset-attempts">Unsuccessful Password Reset Attempts</h1>
 <h2 id="-incorrect-answers-to-security-questions-">Incorrect Answers to Security Questions</h2>

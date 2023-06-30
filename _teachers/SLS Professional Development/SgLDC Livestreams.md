@@ -3,6 +3,7 @@ title: SgLDC Livestreams
 permalink: /teachers/sls-professional-development/sgldc-livestreams/
 description: ""
 third_nav_title: SLS Professional Development
+image: /images/FaviconLight.png
 ---
 <h1 class="page-title">SgLDC Spotlight Livestreams</h1>
 <hr>

@@ -3,6 +3,7 @@ title: SLS Pitch Day 2022
 permalink: /partners/events/sls-pitch-day-2022/
 description: ""
 third_nav_title: Events
+image: /images/FaviconLight.png
 ---
 <h1>SLS Pitch Day 2022</h1>
 <ul>

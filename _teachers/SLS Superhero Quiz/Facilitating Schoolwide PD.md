@@ -3,6 +3,7 @@ title: Facilitating Schoolwide PD
 permalink: /teachers/sls-superhero-quiz/facilitating-schoolwide-pd/
 description: ""
 third_nav_title: SLS Superhero Quiz
+image: /images/FaviconLight.png
 ---
 <h1 class="page-title">Facilitating School-wide PD (#Organise_with_SLS)</h1>
   <h2>What it is</h2>

@@ -3,6 +3,7 @@ title: Get Help
 permalink: /login-troubleshooting/get-help/index/
 description: ""
 third_nav_title: Get Help
+image: /images/FaviconLight.png
 ---
 <h1>Get Help</h1>
 <hr>

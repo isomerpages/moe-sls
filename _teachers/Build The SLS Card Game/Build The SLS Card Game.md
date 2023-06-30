@@ -3,6 +3,7 @@ title: Build The SLS Card Game
 permalink: /teachers/build-the-sls-card-game/index/
 description: ""
 third_nav_title: Build The SLS Card Game
+image: /images/FaviconLight.png
 ---
 <h1>Build The SLS Card Game</h1>
 <h2 id="information">Information</h2>

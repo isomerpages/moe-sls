@@ -3,6 +3,7 @@ title: Partnership Models
 permalink: /partners/partnership/partnership-models/
 description: ""
 third_nav_title: Partnership
+image: /images/FaviconLight.png
 ---
 <h1 id="partnership-models">Partnership Models</h1>
 <p>SLS offers the following models for companies or agencies to form partnerships with the SLS:</p>

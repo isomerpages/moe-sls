@@ -3,6 +3,7 @@ title: Partnership with SLS
 permalink: /partners/partnership/partnership-with-sls/
 description: ""
 third_nav_title: Partnership
+image: /images/FaviconLight.png
 ---
 <h1 id="partnership-with-sls">Partnership with SLS</h1>
 <p> SLS is built as an open system that can supplement its core resources and features with external content and tools.</p>

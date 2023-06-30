@@ -3,6 +3,7 @@ title: Assign Past Exam Questions
 permalink: /teachers/sls-superhero-quiz/assign-past-exam-questions/
 description: ""
 third_nav_title: SLS Superhero Quiz
+image: /images/FaviconLight.png
 ---
 <h1 class="page-title">Assign Past Exam Questions (#Assign_with_SLS)</h1>
 <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/Assess%2001.pdf"><img style="width:50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assess%2001.png"></a>

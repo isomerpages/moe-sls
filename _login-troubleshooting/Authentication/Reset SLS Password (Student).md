@@ -3,6 +3,7 @@ title: Reset SLS Password (Student)
 permalink: /login-troubleshooting/authentication/reset-sls-password-student/
 description: ""
 third_nav_title: Authentication
+image: /images/FaviconLight.png
 ---
 <h1 id="reset-sls-password-student-">Reset SLS Password (Student)</h1>
 <p>If you have forgotten your SLS password, you can reset it by having a password reset email sent to your email address, or by answering a series of security questions.</p>

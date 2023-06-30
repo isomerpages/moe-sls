@@ -3,6 +3,7 @@ title: Reset SLS Password (Teacher)
 permalink: /login-troubleshooting/authentication/reset-sls-password-teacher/
 description: ""
 third_nav_title: Authentication
+image: /images/FaviconLight.png
 ---
 <h1 id="reset-sls-password-teacher-">Reset SLS Password (Teacher)</h1>
 <ol>

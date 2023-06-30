@@ -3,6 +3,7 @@ title: Track Students’ Learning Progress
 permalink: /teachers/sls-superhero-quiz/track-students-learning-progress/
 description: ""
 third_nav_title: SLS Superhero Quiz
+image: /images/FaviconLight.png
 ---
 <h1 class="page-title">Track students’ Learning Progress (#Track_Progress_With_SLS)</h1>
 <h2>What it is</h2>

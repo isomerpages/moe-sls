@@ -3,6 +3,7 @@ title: Integrate External Sites and Applications
 permalink: /teachers/sls-superhero-quiz/integrate-external-sites-and-applications/
 description: ""
 third_nav_title: SLS Superhero Quiz
+image: /images/FaviconLight.png
 ---
 <h1 class="page-title">Integrate External Sites and Applications (#Extend_With_SLS)</h1>
   <h2>What it is</h2>

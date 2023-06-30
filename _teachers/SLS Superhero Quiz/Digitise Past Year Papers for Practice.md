@@ -3,6 +3,7 @@ title: Digitise Past Year Papers for Practice
 permalink: /teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/
 description: ""
 third_nav_title: SLS Superhero Quiz
+image: /images/FaviconLight.png
 ---
 <h1 class="page-title">Digitise Past Year Papers for Practice (#Author_with_SLS)</h1>
   <h2>What it is</h2>
