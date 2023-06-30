@@ -15,6 +15,8 @@ Use SLS to notify other teachers and students easily on T&amp;L matters across t
 <li><a target="_blank" href="/teacher-user-guide/notify/manage-announcements/">(A2) Manage Announcements</a></li>
 </ul>																																			
 </details>
+<br>
+<img style="width: 50%;" alt="Flow Notify" src="/images/2Teacher/Flow-Notify2.png">
 <details>
 <summary><h4>B. How to access Notifications?</h4></summary>
 <ul>
