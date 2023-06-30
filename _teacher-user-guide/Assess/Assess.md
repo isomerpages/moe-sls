@@ -21,7 +21,7 @@ image: /images/FaviconLight.png
   </ul>
 </details>
 
-<img src="/images/2Teacher/Flow-Assess2.svg">
+<img style="width: 80%;" src="/images/2Teacher/Flow-Assess2.svg">
 
 <details>
  <summary><h4>B. How to assess students using Teacher-Marked Quizzes?</h4></summary>
