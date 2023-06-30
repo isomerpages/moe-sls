@@ -27,16 +27,13 @@ image: /images/FaviconLight.png
 <li><p>Personalised: by creating learing experiences that customise the pace and path that caters to each child's needs.</p></li>
 <li><p>Connected: by developing collaborative learning experiences, and connect students' learning to the community and the world. </p></li>
 <li><p>Human-centred: by leveraging a data-driven understanding of how affect can help optimise learning for every child. </p></li>
-  
+</ul>
 <h2 class="section-title">Format</h2>
 <hr>
 <p>Participants will submit proposals according to the areas and themes specified in the task brief.</p>
 <p>All proposals will be reviewed by representatives from various MOE divisions and the shortlisted teams will present their proposal to a panel of senior managers. </p>
-	
 <p>The product pitch will be in the form of a live pitch (and/or a demo) to be made within 20 minutes, inclusive of set-up and Q&amp;A. </p>
-
- <p>Selected proposals will be followed up on for further exploration by MOE.</p>
-
+<p>Selected proposals will be followed up on for further exploration by MOE.</p>
 <p>You can refer to more information <a target="_blank" href="https://www.go.gov.sg/slsinfopack">here.</a></p>
               
 <h2 class="section-title">Rules and Regulations</h2>
@@ -44,14 +41,11 @@ image: /images/FaviconLight.png
 <p>Participants must submit their proposals using the provided template.</p>
 <p>A guide to the scoring system used will be provided (See <a target="_blank" href="https://www.go.gov.sg/slsinfopack">information pack for more details</a>).</p>
 <p>Proposals must be submitted on time. Late submissions will be asked to participate in the next Pitch Day instead.</p>
-
 <p>The judges' decision is final. No appeals will be entertained.</p>
-
 <h2 class="section-title">After the Pitch</h2>
 <hr>
 <p>If your proposal has been selected for further exploration, a team from MOE will contact you. </p>
 <p>Regardless of selection outcome, all proposals will be featured on our Pitch Day Showcase webpage after the SLS Pitch Day.</p>
-
 <h2 class="section-title">Event Schedule</h2>
 <hr>
 <p>SLS Pitch Day Event Schedule</p>
@@ -65,7 +59,7 @@ image: /images/FaviconLight.png
 </thead>
 <tbody>
  <tr><td>19 July</td>
-      <td>Registration Deadline</td>
+<td>Registration Deadline</td>
        <td>Extended to 23 July 2021</td>
     </tr>
     <tr><td>12 July - 23 July</td>
@@ -98,4 +92,4 @@ image: /images/FaviconLight.png
        <td>-</td>
     </tr>
   </tbody>
-</table></ul>
+</table>
