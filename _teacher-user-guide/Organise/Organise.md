@@ -18,7 +18,8 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <li><a href="/teacher-user-guide/organise/add-teachers-as-students-to-a-class-group/" target="_blank">(A2) Add Teachers as Students to a Class Group</a></li>
 </ul>
 </details>
-
+<br>
+<img style="width: 50%;" alt="Flow Organise" src="/images/2Teacher/Flow-Organise1.png">
 <details>
 <summary><h4>B. How to organise Class Group Resources?</h4></summary>
 
@@ -44,10 +45,10 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <li><a target="_blank" href="/teacher-user-guide/organise/view-past-class-groups/">(D1,iii) View Past Class Groups</a></li>
 </ul>
 </details>
-
+<br>
+<img alt="Flow Organise" src="/images/2Teacher/Flow-Organise2.png">
 <details>
 <summary><h4>E. How to organise My Lessons in My Drive?</h4></summary>
-
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/organise/access-my-drive/">(E1) Access My Drive</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/search-in-my-drive/">(E2) Search in My Drive</a></li>
