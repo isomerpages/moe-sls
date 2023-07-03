@@ -50,7 +50,7 @@ Use SLS to track your own progress within and across lessons and assignments.
 <li><p>User flows with steps that are branched out will have an additional number after a comma (i.e. A1,<strong>1</strong>).</p>
 <img style="width: 70%;" src="/images/1Student/UG2.png">
 </li>
-<li><p>User flows that are made up of non-sequential steps will be labelled with a roman number (i.e. A1,<strong>i</strong>)</p>
+<li><p>User flows that are made up of non-sequential steps will be labelled with a roman number (i.e. B1,<strong>i</strong>)</p>
 <img style="width:70%;" src="/images/1Student/UG3.png">
 </li>
 </ol>
