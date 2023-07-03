@@ -10,7 +10,7 @@ image: /images/FaviconLight.png
 <h2>Organise</h2>
 <hr>
 
-<h2><a id="discover" target="_blank" href="/teacher-user-guide/discover/index/">1. Discover</a></h2>
+<h3><a id="discover" target="_blank" href="/teacher-user-guide/discover/index/">1. Discover</a></h3>
 Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 <h3><a id="notify" target="_blank" href="/teacher-user-guide/notify/index/">2. Notify</a></h3>
 Use SLS to notify other teachers and students easily on T&amp;L matters across the system, classes and individual levels.
