@@ -1,4 +1,4 @@
-title: SLS Info-Site
+title: Singapore Student Learning Space (SLS) Info-Site
 url: https://www.learning.moe.edu.sg
 favicon: /images/FaviconLight.png
 colors:
@@ -15,10 +15,10 @@ colors:
       color: "#af75d2"
     - title: media-color-five
       color: "#73c235"
-description: The SLS is MOE's core platform for teaching and learning and is one
-  of MOE’s key initiatives to transform the learning experiences of Singaporean
-  students through the purposeful use of technology to enable students to engage
-  in different learning modes.
+description: The Singapore Student Learning Space (SLS) is MOE's core platform
+  for teaching and learning and is one of MOE’s key initiatives to transform the
+  learning experiences of Singaporean students through the purposeful use of
+  technology to enable students to engage in different learning modes.
 permalink: none
 baseurl: ""
 exclude:

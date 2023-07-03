@@ -2,6 +2,7 @@
 title: Partners
 permalink: /partners/
 description: ""
+image: /images/FaviconLight.png
 ---
 <img alt="Partners Hero" src="/images/3Partners/Partners%20Hero.png">
 <p>The Student Learning Space (SLS) team welcomes companies and agencies with expertise to enhance users’ learning experiences through apps and platforms.</p>

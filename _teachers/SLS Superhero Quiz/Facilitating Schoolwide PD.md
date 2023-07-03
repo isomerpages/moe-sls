@@ -3,6 +3,7 @@ title: Facilitating Schoolwide PD
 permalink: /teachers/sls-superhero-quiz/facilitating-schoolwide-pd/
 description: ""
 third_nav_title: SLS Superhero Quiz
+image: /images/FaviconLight.png
 ---
 <h1 class="page-title">Facilitating School-wide PD (#Organise_with_SLS)</h1>
   <h2>What it is</h2>
@@ -21,7 +22,7 @@ third_nav_title: SLS Superhero Quiz
   <h2>How to do it</h2>
   <hr>
   <ol>
-    <li>Create a lesson or series of lessons for PD and organize them in a folder in My Drive.</li>
+    <li>Create a lesson or series of lessons for PD and organise them in a folder in My Drive.</li>
     <li>From <a target="_blank" href="/teacher-user-guide/organise/create-class-groups/">your school PD Class Group, assign these lesson(s)</a>, with pre-defined Start and End dates, according to the PD schedule in school.</li>
     <li>Teachers (as Students) will be notified via SLS Announcements to complete the assignments.</li>
     <li>Using the Lesson Heatmap, PD facilitators can bring up responses for further discussion.</li>

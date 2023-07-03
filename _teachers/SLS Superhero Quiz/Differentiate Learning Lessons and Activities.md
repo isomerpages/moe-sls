@@ -3,6 +3,7 @@ title: Differentiate Learning Lessons and Activities
 permalink: /teachers/sls-superhero-quiz/differentiate-learning-lessons-and-activities/
 description: ""
 third_nav_title: SLS Superhero Quiz
+image: /images/FaviconLight.png
 ---
 <h1 class="page-title">Differentiate Learning Lessons and Activities (#Differentiate_with_SLS)</h1>
   <h2>What it is</h2>

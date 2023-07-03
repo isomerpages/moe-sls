@@ -3,6 +3,7 @@ title: Get Help from your School
 permalink: /login-troubleshooting/get-help/get-help-from-your-school/
 description: ""
 third_nav_title: Get Help
+image: /images/FaviconLight.png
 ---
 <h1>Get Help from your School</h1>
 
@@ -1155,7 +1156,7 @@ Others: <a href="https://form.gov.sg/5d65d57cd6754c0012d6d775">Form SG</a>
 Tel: 68343100
 <br>Email: admin_ferngreen_ps@moe.edu.sg
 <br>
-Others: <a href="https://form.gov.sg/#!/631851bfea4514001354a7de">Form SG</a>
+Others: 
 
 
 </td>

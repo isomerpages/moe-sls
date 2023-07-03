@@ -3,6 +3,7 @@ title: Nurture Collaboration in Gamified Lessons
 permalink: /teachers/sls-superhero-quiz/nurture-collaboration-in-gamified-lessons/
 description: ""
 third_nav_title: SLS Superhero Quiz
+image: /images/FaviconLight.png
 ---
 <h1 class="page-title">Nurture collaboration in Gamified Lessons (#Gamify_with_SLS)</h1>
   <h2>What it is</h2>

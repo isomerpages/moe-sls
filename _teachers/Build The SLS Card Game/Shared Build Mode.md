@@ -3,6 +3,7 @@ title: Shared Build Mode
 permalink: /teachers/build-the-sls-card-game/shared-build-mode/
 description: ""
 third_nav_title: Build The SLS Card Game
+image: /images/FaviconLight.png
 ---
 <img alt="Shared Build Mode Image" src="/images/SLS%20Build/sharedbuildmode.png">
 

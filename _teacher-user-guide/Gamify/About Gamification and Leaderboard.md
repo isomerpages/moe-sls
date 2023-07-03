@@ -3,6 +3,7 @@ title: About Gamification and Leaderboard
 permalink: /teacher-user-guide/gamify/about-gamification-and-leaderboard/
 description: ""
 third_nav_title: Gamify
+image: /images/FaviconLight.png
 ---
 <h1 id="about-gamification-and-leaderboard">About Gamification and Leaderboard</h1>
 <p>Gamification allows game-based elements to be introduced in your Lesson. The game-based elements include Experience Points (XP) and Levels, Game Stories, and Achievements. </p>

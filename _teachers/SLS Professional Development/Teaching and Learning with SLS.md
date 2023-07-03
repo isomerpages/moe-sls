@@ -3,6 +3,7 @@ title: Teaching and Learning with SLS
 permalink: /teachers/sls-professional-development/teaching-and-learning-with-sls/
 description: ""
 third_nav_title: SLS Professional Development
+image: /images/FaviconLight.png
 ---
 <h1>Teaching and Learning with SLS</h1>
 <hr>

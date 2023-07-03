@@ -3,6 +3,7 @@ title: Web Browser Troubleshooting Tips
 permalink: /login-troubleshooting/technical-issues/web-browser-troubleshooting-tips/
 description: ""
 third_nav_title: Technical Issues
+image: /images/FaviconLight.png
 ---
 <h1>Web Browser Troubleshooting Tips</h1>
 <h2>Browser Extensions</h2>

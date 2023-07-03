@@ -2,6 +2,7 @@
 title: Frequently Asked Questions
 permalink: /teachers/frequently-asked-questions/
 description: ""
+image: /images/FaviconLight.png
 ---
 <h1>SLS Access</h1>
 

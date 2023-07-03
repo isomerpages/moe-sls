@@ -3,6 +3,7 @@ title: Operating System and Browser Requirements (Updated)
 permalink: /login-troubleshooting/technical-issues/operating-system-and-browser-requirements/
 description: ""
 third_nav_title: Technical Issues
+image: /images/FaviconLight.png
 ---
 <h1>Operating System and Browser Requirements (Updated)</h1>
  

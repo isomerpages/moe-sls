@@ -3,6 +3,7 @@ title: External Engines
 permalink: /partners/integration/external-engines/
 description: ""
 third_nav_title: Integration
+image: /images/FaviconLight.png
 ---
 <h1 id="external-engines">External Engines</h1>
 <p>Beyond the integrated apps, SLS is able to make API calls to external engines that would enhance SLS capabilities. Some examples of such engines which have previously been integrated are <a target="_blank" href="/teacher-user-guide/author/text-to-speech-tts/">Text-to-Speech</a> and <a target="_blank" href="/teacher-user-guide/author/speech-evaluation/">Speech Evaluation</a>.</p>

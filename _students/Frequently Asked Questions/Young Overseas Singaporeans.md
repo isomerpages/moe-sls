@@ -3,6 +3,7 @@ title: Young Overseas Singaporeans
 permalink: /students/frequently-asked-questions/young-overseas-singaporeans/
 description: ""
 third_nav_title: Frequently Asked Questions
+image: /images/FaviconLight.png
 ---
 <h1 id="young-overseas-singaporeans">Young Overseas Singaporeans</h1>
 <p>MOE has rolled out SLS to all national schools from primary, secondary to junior colleges since 25 May 2018. SLS is also available to schools outside of the national school system, including NIE users, seconded EOs and Young Overseas Singaporeans (aged 7 to 16).</p>

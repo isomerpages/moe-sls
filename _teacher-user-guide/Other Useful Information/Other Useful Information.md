@@ -3,9 +3,10 @@ title: Other Useful Information
 permalink: /teacher-user-guide/other-useful-information/index/
 description: ""
 third_nav_title: Other Useful Information
+image: /images/FaviconLight.png
 ---
 <h1>Other Useful Information</h1>
-<h3><a id="1other-useful-information" target="_blank" href="/teacher-user-guide/other-useful-information/index/">1. Other Useful Information</a></h3>
+<h3><a id="1other-useful-information" target="_blank" href="/teacher-user-guide/other-useful-information/index/">Other Useful Information</a></h3>
 
 <details><summary><h4>Are there additional resources for me to self-help?</h4></summary>
 <ul>

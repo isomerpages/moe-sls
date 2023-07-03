@@ -2,6 +2,7 @@
 title: Sandbox
 permalink: /partners/sandbox/
 description: ""
+image: /images/FaviconLight.png
 ---
 <h1 id="apply-for-sandbox-access">Apply for Sandbox Access</h1>
 <p>The SLS Sandbox environment is a mirror of the SLS Production environment. It enables Sandbox account holders to explore SLS features prior to their release in the Production environment.</p>

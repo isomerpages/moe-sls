@@ -3,8 +3,9 @@ title: Others 2021
 permalink: /partners/events/others-2021/
 description: ""
 third_nav_title: Events
+image: /images/FaviconLight.png
 ---
-<h2>Others</h2>
+<h1>Others</h1>
 <hr>
 <p>These include cross-category products, alternative Learning Management Systems, and other Teaching and Learning solutions that do not fit neatly into the previous categories (e.g. credentialing).</p>
 <p><a target="_blank" href="https://go.gov.sg/slspd2021-o">Click here</a> to view the pitch proposals submitted by the participants below.</p>
@@ -31,7 +32,7 @@ third_nav_title: Events
       <tr>
         <td>3</td>
         <td>Microsoft</td>
-        <td>Microsoft's mission is to empower every person and every organization on the planet to achieve more.</td>
+        <td>Microsoft's mission is to empower every person and every organisation on the planet to achieve more.</td>
       </tr>
       <tr>
         <td>4</td>

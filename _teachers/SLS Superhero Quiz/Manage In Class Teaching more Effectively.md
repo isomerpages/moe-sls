@@ -3,6 +3,7 @@ title: Manage In Class Teaching more Effectively
 permalink: /teachers/sls-superhero-quiz/manage-in-class-teaching-more-effectively/
 description: ""
 third_nav_title: SLS Superhero Quiz
+image: /images/FaviconLight.png
 ---
 <h1 class="page-title">Manage In Class Teaching more Effectively (#Enact_With_SLS)</h1>
   <h2>What it is</h2>

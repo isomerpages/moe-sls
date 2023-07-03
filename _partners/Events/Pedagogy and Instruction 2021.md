@@ -3,8 +3,9 @@ title: Pedagogy and Instruction 2021
 permalink: /partners/events/pedagogy-and-instruction-2021/
 description: ""
 third_nav_title: Events
+image: /images/FaviconLight.png
 ---
-<h2>Pedagogy and Instruction</h2> <hr> 
+<h1>Pedagogy and Instruction</h1> <hr> 
 
 <p>Products and solutions that enhance learning by enabling new and better ways of engagement in and out of the classroom.</p> <p><a target="_blank" href="https://go.gov.sg/slspd2021-pi">Click here</a> to view the pitch proposals submitted by the participants below.</p>
 

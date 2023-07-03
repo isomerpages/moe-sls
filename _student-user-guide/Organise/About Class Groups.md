@@ -3,6 +3,7 @@ title: About Class Groups
 permalink: /student-user-guide/organise/about-class-groups/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
 <h1 id="about-class-groups">About Class Groups</h1>
 <p>There are two types of Class Groups in SLS:</p>

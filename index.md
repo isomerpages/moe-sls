@@ -1,10 +1,10 @@
 ---
 layout: homepage
-title: SLS Info-Site
-description: The SLS is MOE's core platform for teaching and learning and is one
-  of MOE’s key initiatives to transform the learning experiences of Singaporean
-  students through the purposeful use of technology to enable students to engage
-  in different learning modes.
+title: Singapore Student Learning Space (SLS) Info-Site
+description: The Singapore Student Learning Space (SLS) is MOE's core platform
+  for teaching and learning and is one of MOE’s key initiatives to transform the
+  learning experiences of Singaporean students through the purposeful use of
+  technology to enable students to engage in different learning modes.
 image: /images/LogoSecondaryLight.svg
 permalink: /
 notification: ""
@@ -43,10 +43,10 @@ sections:
       image: /images/3Partners/Partners Hero.png
       alt: SLS Partners
   - infobar:
-      title: About the Student Learning Space (SLS)
+      title: About the Singapore Student Learning Space (SLS)
       description: The SLS is MOE's core platform for teaching and learning and is one
         of MOE’s key initiatives to transform the learning experiences of
         Singaporean students.
       button: Find out more here
-      url: /about-sls/overviewofsls/
+      url: /about/overview-of-student-learning-space/
 ---

@@ -3,6 +3,7 @@ title: About Class Groups (New)
 permalink: /teacher-user-guide/organise/about-class-groups/
 description: ""
 third_nav_title: Organise
+image: /images/FaviconLight.png
 ---
 <h1>About Class Groups (New)</h1>
 <p><strong>Important:</strong> From Release 19, Owners and Co-teachers of Class Groups imported from School Cockpit may edit the Class Group Description and add Students to the Class.</p>

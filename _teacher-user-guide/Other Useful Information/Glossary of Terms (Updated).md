@@ -3,6 +3,7 @@ title: Glossary of Terms (Updated)
 permalink: /teacher-user-guide/other-useful-information/glossary-of-terms/
 description: ""
 third_nav_title: Other Useful Information
+image: /images/FaviconLight.png
 ---
 <h1>Glossary of Terms (Updated)</h1>
 <table>

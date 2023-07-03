@@ -2,6 +2,7 @@
 title: Teachers
 permalink: /teachers/
 description: ""
+image: /images/FaviconLight.png
 ---
 <img alt="Teachers Hero" src="/images/2Teacher/Teachers%20Hero.png">
 <p>

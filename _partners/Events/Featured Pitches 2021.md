@@ -3,11 +3,10 @@ title: Featured Pitches 2021
 permalink: /partners/events/featured-pitches-2021/
 description: ""
 third_nav_title: Events
+image: /images/FaviconLight.png
 ---
-<div>
-	<img alt="" src="/images/3Partners/featuredpitchsample.png">
-</div>
-<h2>Featured Pitches</h2>
+<img src="/images/3Partners/featuredpitchsample.png">
+<h1>Featured Pitches</h1>
 <hr>
 <p>Congratulations to the 4 featured pitches!</p>
 <p>These pitches were selected by the evaluation panel as the top pitches to feature for SLS Pitch Day 2021, in no particular rank order:</p>

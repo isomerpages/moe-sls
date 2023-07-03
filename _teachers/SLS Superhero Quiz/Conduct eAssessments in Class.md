@@ -3,6 +3,7 @@ title: Conduct eAssessments in Class
 permalink: /teachers/sls-superhero-quiz/conduct-eassessments-in-class/
 description: ""
 third_nav_title: SLS Superhero Quiz
+image: /images/FaviconLight.png
 ---
 <h1 class="page-title">Conduct e-Assessments in Class (#Assess_with_SLS)</h1>
 

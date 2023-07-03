@@ -3,6 +3,7 @@ title: About Resources
 permalink: /teacher-user-guide/discover/about-resources/
 description: ""
 third_nav_title: Discover
+image: /images/FaviconLight.png
 ---
 <h1>About Resources</h1>
 

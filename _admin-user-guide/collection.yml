@@ -2,31 +2,30 @@ collections:
   admin-user-guide:
     output: true
     order:
-      - (i) Organise.md
-      - (ii) Administer.md
+      - Explore SLS Functions.md
       - Administer/.keep
       - Administer/Administer.md
-      - Administer/Activate Teacher Account.md
-      - Administer/(1) Prepare Student Accounts through School Cockpit.md
-      - Administer/(2) Inform Parents of Student SLS IDs.md
-      - Administer/(3) Initiate Student Account Activation.md
-      - Administer/(4) Monitor Student Activation.md
-      - Administer/Reset Passwords.md
-      - Administer/Unlock Account.md
+      - Administer/(A1) Activate Teacher Account.md
+      - Administer/(B1) Prepare Student Accounts through School Cockpit.md
+      - Administer/(B2) Inform Parents of Student SLS IDs.md
+      - Administer/(B3) Initiate Student Account Activation.md
+      - Administer/(B4) Monitor Student Activation.md
+      - Administer/(C1,i) Reset Passwords.md
+      - Administer/(C1,ii) Unlock Account.md
       - Administer/About Manage Users.md
-      - Administer/Export Full User List.md
-      - Administer/Verification Exercise.md
-      - Administer/Manage Subjects (For Schools Not Using School Cockpit).md
-      - Administer/Manage Class Groups.md
-      - Administer/Generate Reports.md
+      - Administer/(D1,i) Export Full User List.md
+      - Administer/(D1,ii) Verification Exercise.md
+      - Administer/(E1) Manage Subjects (For Schools Not Using School Cockpit).md
+      - Administer/(F1) Manage Class Groups.md
+      - Administer/(G1) Generate Reports.md
       - Notify/.keep
       - Notify/Notify.md
-      - Notify/Manage School Announcements (Enhanced).md
+      - Notify/(A1) Manage School Announcements (Enhanced).md
       - Publish/.keep
       - Publish/Publish.md
-      - Publish/(1) Create MOE Library Resources (Enhanced).md
-      - Publish/(2) Manage Lessons.md
-      - Publish/(3) Manage Media.md
-      - Publish/Generate CCPM Reports (New).md
-      - Publish/Manage Owner Groups.md
-      - Publish/Manage Content Maps.md
+      - Publish/(A1) Create MOE Library Resources (Enhanced).md
+      - Publish/(A2) Manage Lessons.md
+      - Publish/(A3) Manage Media.md
+      - Publish/(B1,i) Generate CCPM Reports (New).md
+      - Publish/(B1,ii) Manage Owner Groups.md
+      - Publish/(B1,iii) Manage Content Maps.md

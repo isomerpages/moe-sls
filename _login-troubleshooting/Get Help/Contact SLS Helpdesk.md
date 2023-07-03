@@ -3,6 +3,7 @@ title: Contact SLS Helpdesk
 permalink: /login-troubleshooting/get-help/contact-sls-helpdesk/
 description: ""
 third_nav_title: Get Help
+image: /images/FaviconLight.png
 ---
 <h1 id="contact-sls-helpdesk">Contact SLS Helpdesk</h1>
 <p>For issues that your School-Based Helplines cannot address, you may contact SLS Helpdesk.</p>

@@ -3,6 +3,7 @@ title: Integrated Apps
 permalink: /partners/integration/integrated-apps/
 description: ""
 third_nav_title: Integration
+image: /images/FaviconLight.png
 ---
 <h1 id="integrated-apps">Integrated Apps</h1>
 <p>Companies or agencies can integrate their applications with the SLS via the existing <a target="_blank" href="/files/Partnerships/adpspecifications21.pdf">Application Development Framework (ADF)</a>.</p>

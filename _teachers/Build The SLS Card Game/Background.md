@@ -3,6 +3,7 @@ title: Background
 permalink: /teachers/build-the-sls-card-game/background/
 description: ""
 third_nav_title: Build The SLS Card Game
+image: /images/FaviconLight.png
 ---
 <img src="/images/SLS%20Build/banner2.png">
 <h1 id="background">Background</h1>

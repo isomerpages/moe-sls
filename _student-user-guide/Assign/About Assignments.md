@@ -3,6 +3,7 @@ title: About Assignments
 permalink: /student-user-guide/assign/about-assignments/
 description: ""
 third_nav_title: Assign
+image: /images/FaviconLight.png
 ---
 <h1 id="about-assignments">About Assignments</h1>
 <p>Assignments are Lessons assigned to you by your teacher. An Assignment can contain up to 20 Sections. Each section can contain up to 20 Activities or Quizzes. </p>
