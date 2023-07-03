@@ -9,7 +9,7 @@ image: /images/FaviconLight.png
 <p><a href="#how-to-navigate-the-user-guide-pages">Click here</a> for more information on how to navigate the userguide.</p>
 <h2>Organise</h2>
 <hr>
-<h3><a id="discover" target="_blank" href="/student-user-guide/discover/index/">1. Discover</a></h3>
+<h2><a id="discover" target="_blank" href="/student-user-guide/discover/index/">1. Discover</a></h2>
 Use SLS to discover, search for and find useful Teaching &amp; Learning resources that you can learn from.
 <h3><a id="notify" target="_blank" href="/student-user-guide/notify/index/">2. Notify</a></h3>
 Use SLS to receive notifications to follow up on Teaching &amp; Learning matters.
