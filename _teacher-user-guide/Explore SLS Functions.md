@@ -10,7 +10,7 @@ image: /images/FaviconLight.png
 <h2>Organise</h2>
 <hr>
 
-<h3><a id="discover" target="_blank" href="/teacher-user-guide/discover/index/">1. Discover</a></h3>
+<h2><a id="discover" target="_blank" href="/teacher-user-guide/discover/index/">1. Discover</a></h2>
 Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 <h3><a id="notify" target="_blank" href="/teacher-user-guide/notify/index/">2. Notify</a></h3>
 Use SLS to notify other teachers and students easily on T&amp;L matters across the system, classes and individual levels.
@@ -44,7 +44,7 @@ Use SLS to set learning activities to be done collaboratively by students.
 Use SLS to set up, mark and give feedback on student work.
 <h3><a id="track-progress" target="_blank" href="/teacher-user-guide/track-progress/index/">2. Track Progress</a></h3>
 Use SLS to track and compare student progress within and across lessons and assignments.
-<h1>Administer</h1>
+<h2>Administer</h2>
 <hr>
 <h3><a id="publish" target="_blank" href="/teacher-user-guide/publish/index/">1. Publish</a></h3>
 Use SLS to publish resources to make it available and discoverable to teachers and students.
