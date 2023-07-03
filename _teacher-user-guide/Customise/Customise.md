@@ -12,16 +12,15 @@ image: /images/FaviconLight.png
 
 <details>
  <summary><h4>A. How to manage my SLS account?</h4></summary>
-<ul>
-	<p>Manage Personal Account</p>
-  <li><a target="_blank" href="/teacher-user-guide/customise/customise-an-avatar/">(A1,i) Customise an Avatar</a></li>
+<p>Manage Personal Account</p>
+<ul><li><a target="_blank" href="/teacher-user-guide/customise/customise-an-avatar/">(A1,i) Customise an Avatar</a></li>
   <li><a target="_blank" href="/teacher-user-guide/customise/change-display-name/">(A1,ii) Change Display Name</a></li>
   <li><a target="_blank" href="/teacher-user-guide/customise/set-an-alternate-email-address/">(A1,iii) Set an Alternate Email Address</a></li>
   <li><a target="_blank" href="/teacher-user-guide/customise/set-email-notifications/">(A1,iv) Set Email Notifications (New)</a></li>
   <li><a target="_blank" href="/teacher-user-guide/customise/manage-linked-account/">(A1,v) Manage Linked Account</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/customise/change-sls-password/">(A1,vi) Change SLS Password</a></li>
-	<p>Using Teacher's Student Account</p>
-  <li><a target="_blank" href="/teacher-user-guide/customise/switch-to-student-account/">(A1,vii) Switch to Student Account</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/change-sls-password/">(A1,vi) Change SLS Password</a></li></ul>
+<p>Using Teacher's Student Account</p>
+<ul><li><a target="_blank" href="/teacher-user-guide/customise/switch-to-student-account/">(A1,vii) Switch to Student Account</a></li>
 </ul>
 </details>
 <br>
