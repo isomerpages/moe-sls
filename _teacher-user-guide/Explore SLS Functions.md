@@ -17,9 +17,9 @@ Use SLS to notify other teachers and students easily on T&amp;L matters across t
 <h3><a id="plan" target="_blank" href="/teacher-user-guide/plan/index/">3. Plan</a></h3>
 Use SLS to plan personal and class group events.
 <h3><a id="4organise" target="_blank" href="/teacher-user-guide/organise/index/">4. Organise</a></h3>
-Use SLS to to organise your personal and class group resources, assignments and notifications.
+Use SLS to organise your personal and class group resources, assignments and notifications.
 <h3><a id="customise" target="_blank" href="/teacher-user-guide/customise/index/">5. Customise</a></h3>
-Use SLS to to customise your avatar, UI and user experience based on your needs.
+Use SLS to customise your avatar, UI and user experience based on your needs.
 <h2>Author</h2>
 <hr>
 <h3><a id="author" target="_blank" href="/teacher-user-guide/author/index/">1. Author</a></h3>
