@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
 ---
-<h1>(C1) Add Mathematics Feedback</h1>
+<h1>(C1) Add Feedback Assistant - Mathematics</h1>
 <p>Mathematics Feedback Assistant is an engine that offers step-by-step feedback to students on their answers. </p>
 <p><u>Important</u>:</p>
 <ul>
