@@ -6,9 +6,6 @@ third_nav_title: Authentication
 image: /images/FaviconLight.png
 ---
 <h1>Authentication</h1>
-<hr>
-<h3><a id="authentication" target="_blank" href="/login-troubleshooting/authentication/index/">1. Authentication</a>
-</h3>
 <details>
  <summary><h4>Teacher Login Issues</h4></summary>
 

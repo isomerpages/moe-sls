@@ -1,6 +1,6 @@
 ---
 title: Explore SLS Functions
-permalink: /teacher-user-guide/index/
+permalink: /teacher-user-guide/organise/
 description: ""
 image: /images/FaviconLight.png
 ---
@@ -17,9 +17,9 @@ Use SLS to notify other teachers and students easily on T&amp;L matters across t
 <h3><a id="plan" target="_blank" href="/teacher-user-guide/plan/index/">3. Plan</a></h3>
 Use SLS to plan personal and class group events.
 <h3><a id="4organise" target="_blank" href="/teacher-user-guide/organise/index/">4. Organise</a></h3>
-Use SLS to to organise your personal and class group resources, assignments and notifications.
+Use SLS to organise your personal and class group resources, assignments and notifications.
 <h3><a id="customise" target="_blank" href="/teacher-user-guide/customise/index/">5. Customise</a></h3>
-Use SLS to to customise your avatar, UI and user experience based on your needs.
+Use SLS to customise your avatar, UI and user experience based on your needs.
 <h2>Author</h2>
 <hr>
 <h3><a id="author" target="_blank" href="/teacher-user-guide/author/index/">1. Author</a></h3>
@@ -57,10 +57,10 @@ Use SLS to manage student usage.
 <li>Each user flow is labelled with an alphabet (i.e. <strong>A</strong>).</li>
 <li>Sequential steps for each user flow will be labelled with a number (i.e. A<strong>1</strong>).</li>
 <li><p>User flows with steps that are branched out will have an additional number after a comma (i.e. A1,<strong>1</strong>).</p>
-<img style="width: 100%;" src="/images/1Student/UG2.png">
+<img style="width: 70%;" src="/images/1Student/UG2.png">
 </li>
-<li><p>User flows that are made up of non-sequential steps will be labelled with a roman number (i.e. A1,<strong>i</strong>)</p>
-<img style="width:70%; display: block; margin-left: 0;" src="/images/1Student/UG3.png">
+<li><p>User flows that are made up of non-sequential steps will be labelled with a roman number (i.e. B1,<strong>i</strong>)</p>
+<img style="width:70%;" src="/images/1Student/UG3.png">
 </li>
 </ol>
 <h2 id="how-to-follow-the-user-flow">How to follow the User Flow</h2>

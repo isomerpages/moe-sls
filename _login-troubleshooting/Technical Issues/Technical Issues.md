@@ -6,9 +6,6 @@ third_nav_title: Technical Issues
 image: /images/FaviconLight.png
 ---
 <h1>Technical Issues</h1>
-<hr>
-<h3><a id="technical-issues" target="_blank" href="/login-troubleshooting/technical-issues/index/">1. Technical Issues</a>
-</h3>
 <details>
  <summary><h4>Browser Issues</h4></summary>
 

@@ -1,6 +1,6 @@
 ---
 title: Explore SLS Functions
-permalink: /student-user-guide/index/
+permalink: /student-user-guide/organise/
 description: ""
 image: /images/FaviconLight.png
 ---
@@ -48,10 +48,10 @@ Use SLS to track your own progress within and across lessons and assignments.
 <li>Each user flow is labelled with an alphabet (i.e. <strong>A</strong>).</li>
 <li>Sequential steps for each user flow will be labelled with a number (i.e. A<strong>1</strong>).</li>
 <li><p>User flows with steps that are branched out will have an additional number after a comma (i.e. A1,<strong>1</strong>).</p>
-<img style="width: 100%;" src="/images/1Student/UG2.png">
+<img style="width: 70%;" src="/images/1Student/UG2.png">
 </li>
-<li><p>User flows that are made up of non-sequential steps will be labelled with a roman number (i.e. A1,<strong>i</strong>)</p>
-<img style="width:70%; display: block; margin-left: 0;" src="/images/1Student/UG3.png">
+<li><p>User flows that are made up of non-sequential steps will be labelled with a roman number (i.e. B1,<strong>i</strong>)</p>
+<img style="width:70%;" src="/images/1Student/UG3.png">
 </li>
 </ol>
 <h2 id="how-to-follow-the-user-flow">How to follow the User Flow</h2>
