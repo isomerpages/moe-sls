@@ -1,16 +1,15 @@
 ---
-title: (B2) Embed Whitelisted Websites (Enhanced)
+title: (2) Embed Whitelisted Websites
 permalink: /teacher-user-guide/discover/embed-whitelisted-websites/
 description: ""
 third_nav_title: Discover
-image: /images/FaviconLight.png
 ---
-<h1 class="page-title">(B2) Embed Whitelisted Websites</h1>
+<h1 class="page-title">Embed Whitelisted Websites</h1>
            
 <p>For tools indicated with *, students may need to access them using a laptop/desktop and to open the website in a new tab.</p>
 
 <p>Schools are advised to be mindful of age advisories (e.g. For ChatGPT, parental consent is required for children between 13 to 18) and the <a target="_blank" href="https://intranet.moe.gov.sg/etd/Pages/tfl_product_programmes_resources.aspx/">MOE AIEd Ethics Framework</a> (requires VPN to access this MOE Intranet link) when using sites with AI affordances.
-		       
+                       
 <p> If you have difficulties embedding whitelisted URL(s) in SLS lessons, you may&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>.
 </p>
 
@@ -23,7 +22,7 @@ image: /images/FaviconLight.png
   <li>In Lesson Editor page, hover over Text/Media found within the Component Bar and select Website.</li>
   <li>On the Embed Website subpage, select the radio button side Enter URL or Enter Code.</li>
     <p><u>Note</u>: Search in the tables below to determine if a whitelisted website can be embedded via URL or Code.</p>
-  <li>Alternatively, click <strong>Choose From Approved Websites</strong> to select a whitelisted website. Click the <strong>Website Card</strong>, followed by <strong>Choose</strong> to proceed.</li>
+  <li>Alternatively, click <strong>Choose From Approved Websites</strong> to select a whitelisted website. Click the <strong>Website card</strong>, followed by <strong>Choose</strong> to proceed.</li>
   <li>The URL or Code would be displaced in the text box.</li>
   <li>You can adjust the Height and Width (in pixel) for the whitelisted website display.</li>
   <li>Click <strong>Save</strong> to confirm.</li>
@@ -47,7 +46,7 @@ image: /images/FaviconLight.png
               https://360stories.com
             </td>
         </tr>
-        <tr><td><strong>Abcya <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Abcya</strong></td>
             <td>Learning Games Resource</td>
             <td>
                 https://www.abcya.com
@@ -77,7 +76,7 @@ image: /images/FaviconLight.png
               https://www.armoredpenguin.com
             </td>
         </tr>
-        <tr><td><strong>Art Gallery of New South Wales <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Art Gallery of New South Wales</strong></td>
             <td>Art Resource Website</td>
             <td>
                 https://www.artgallery.nsw.gov.au/collection
@@ -103,13 +102,13 @@ image: /images/FaviconLight.png
               https://www.bandlab.com
             </td>
         </tr>
-        <tr><td><strong>BeInternetAwesome <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>BeInternetAwesome</strong></td>
             <td>Resource site</td>
             <td>
                 https://beinternetawesome.withgoogle.com
             </td>
         </tr>
-        <tr><td><strong>Bilibili <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Bilibili</strong></td>
             <td>Video Resource Site</td>
             <td>
                 https://www.bilibili.com
@@ -133,7 +132,13 @@ image: /images/FaviconLight.png
               https://read.bookcreator.com
             </td>
         </tr>
-        <tr><td><strong>Braingle <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Bouncy Balls <font color="#FBBC04">NEW</font></strong></td>
+            <td>Music Tool</td>
+            <td>
+              https://bouncyballs.org
+            </td>
+        </tr>
+        <tr><td><strong>Braingle</strong></td>
             <td>Educational Games and Tools</td>
             <td>
                 https://www.braingle.com
@@ -147,7 +152,7 @@ image: /images/FaviconLight.png
               https://www.brainingcamp.com
             </td>
         </tr>
-        <tr><td><strong>British Museum <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>British Museum</strong></td>
             <td>Art Resource Website</td>
             <td>
                 https://britishmuseum.withgoogle.com
@@ -257,13 +262,19 @@ image: /images/FaviconLight.png
               https://www.compadre.org
             </td>
         </tr>
-        <tr><td><strong>Coolmath4kids <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Coolmath4kids</strong></td>
             <td>Math Resources</td>
             <td>
                 https://www.coolmath4kids.com
             </td>
         </tr>
-        <tr><td><strong>Developers <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Craiyon <font color="#FBBC04">NEW</font></strong></td>
+            <td>AI Tool</td>
+            <td>
+                https://www.craiyon.com
+            </td>
+        </tr>
+        <tr><td><strong>Developers</strong></td>
             <td>Lesson Tool for Experiments and Simulations</td>
             <td>
                 https://developers.google.com
@@ -287,7 +298,7 @@ image: /images/FaviconLight.png
               https://ereadinggames.com
             </td>
         </tr>
-        <tr><td><strong>Edition <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Edition</strong></td>
             <td>News and Resource Site</td>
             <td>
                 https://edition.cnn.com
@@ -317,7 +328,13 @@ image: /images/FaviconLight.png
               https://www.elementari.com
             </td>
         </tr>
-        <tr><td><strong>European Environment Agency <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Elicit <font color="#FBBC04">NEW</font></strong></td>
+            <td>AI Tool</td>
+            <td>
+              https://elicit.org
+            </td>
+        </tr>
+        <tr><td><strong>European Environment Agency</strong></td>
             <td>Resource site</td>
             <td>
                 https://www.eea.europa.eu
@@ -355,7 +372,7 @@ image: /images/FaviconLight.png
               https://www.playfactile.com
             </td>
         </tr>
-        <tr><td><strong>Flip <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Flip</strong></td>
             <td>Video Discussion Tool</td>
             <td>
                 https://flip.com
@@ -409,10 +426,16 @@ image: /images/FaviconLight.png
               https://www.glowscript.org
             </td>
         </tr>
-        <tr><td><strong>Google Arts &amp; Culture <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Google Arts &amp; Culture</strong></td>
             <td>Art Resource Website</td>
             <td>
                 https://artsandculture.google.com
+            </td>
+        </tr>
+        <tr><td><strong>Grammarly <font color="#FBBC04">NEW</font></strong></td>
+            <td>AI Tool</td>
+            <td>
+                https://www.grammarly.com
             </td>
         </tr>
         <tr><td><strong>Guggenheim Museum</strong></td>
@@ -433,13 +456,13 @@ image: /images/FaviconLight.png
               https://heyzine.com
             </td>
         </tr>
-        <tr><td><strong>HighlightsKids <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>HighlightsKids</strong></td>
             <td>Educational Games and Tools</td>
             <td>
                 https://highlightskids.com
             </td>
         </tr>
-        <tr><td><strong>Housing &amp; Development Board <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Housing &amp; Development Board</strong></td>
             <td>Resource site</td>
             <td>
                 https://www.hdb.gov.sg
@@ -457,7 +480,7 @@ image: /images/FaviconLight.png
               https://www.ictgames.com
             </td>
         </tr>
-        <tr><td><strong>iNaturalist <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>iNaturalist</strong></td>
             <td>STEM Tools</td>
             <td>
                 https://inaturalist.org
@@ -495,7 +518,7 @@ image: /images/FaviconLight.png
               https://www.iorad.com
             </td>
         </tr>
-        <tr><td><strong>Jamboard <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Jamboard</strong></td>
             <td>Online Whiteboard</td>
             <td>
                 https://jamboard.google.com
@@ -527,7 +550,7 @@ image: /images/FaviconLight.png
               https://play.kahoot.it
             </td>
         </tr>
-        <tr><td><strong>Khan Academy <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Khan Academy</strong></td>
             <td>Learning Resources</td>
             <td>
                 https://www.khanacademy.org
@@ -557,7 +580,7 @@ image: /images/FaviconLight.png
               https://arcade.makecode.com
             </td>
         </tr>
-       <tr><td><strong>Mathigon <font color="#FBBC04">NEW</font></strong></td>
+       <tr><td><strong>Mathigon</strong></td>
             <td>Math Tool</td>
             <td>
                 https://mathigon.org
@@ -597,19 +620,19 @@ image: /images/FaviconLight.png
               https://www.minipicbooks.com
             </td>
         </tr>
-        <tr><td><strong>Ministry of Defence <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Ministry of Defence</strong></td>
             <td>Resource site</td>
             <td>
                 https://www.mindef.gov.sg
             </td>
         </tr>
-        <tr><td><strong>Ministry of Home Affairs <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Ministry of Home Affairs</strong></td>
             <td>Resource site</td>
             <td>
                 https://www.mha.gov.sg
             </td>
         </tr>
-        <tr><td><strong>Miro <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Miro</strong></td>
             <td>Online Whiteboard</td>
             <td>
                 https://miro.com
@@ -631,25 +654,25 @@ image: /images/FaviconLight.png
               https://monsters-of-the-debt.appspot.com
             </td>
         </tr>
-        <tr><td><strong>Museum of Modern Art <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Museum of Modern Art</strong></td>
             <td>Art Resource Website</td>
             <td>
                 https://www.moma.org/collection
             </td>
         </tr>
-        <tr><td><strong>Musicators <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Musicators</strong></td>
             <td>Music Tool</td>
             <td>
                 https://musicators.com
             </td>
         </tr>
-        <tr><td><strong>Musicca <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Musicca</strong></td>
             <td>Music Tool</td>
             <td>
                 https://www.musicca.com
             </td>
         </tr>
-        <tr><td><strong>MyActiveSG <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>MyActiveSG</strong></td>
             <td>Resource site</td>
             <td>
                 https://www.myactivesg.com
@@ -667,13 +690,13 @@ image: /images/FaviconLight.png
               https://nationalgallery.spydus.com.sg
             </td>
         </tr>
-        <tr><td><strong>National Gallery UK <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>National Gallery UK</strong></td>
             <td>Art Resource Website</td>
             <td>
                 https://www.nationalgallery.org.uk/visiting/virtual-tours
             </td>
         </tr>
-        <tr><td><strong>NationalGeographic <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>NationalGeographic</strong></td>
             <td>Resource site</td>
             <td>
                 https://nationalgeographic.com
@@ -703,7 +726,7 @@ image: /images/FaviconLight.png
               https://www.nss.org.sg
             </td>
         </tr>
-        <tr><td><strong>NUS Museum <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>NUS Museum</strong></td>
             <td>Art Resource Website</td>
             <td>
                 https://museum.nus.edu.sg/explore/collections
@@ -715,7 +738,7 @@ image: /images/FaviconLight.png
               https://www.onlinepianist.com
             </td>
         </tr>
-        <tr><td><strong>Opal2 <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Opal2</strong></td>
             <td>Learning Resources</td>
             <td>
                 https://opal2.moe.edu.sg
@@ -771,18 +794,10 @@ image: /images/FaviconLight.png
               https://pigeonhole.at
             </td>
         </tr>
-        <tr><td><strong>Playxylo <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Playxylo</strong></td>
             <td>Music Tool</td>
             <td>
                 https://playxylo.com
-            </td>
-        </tr>
-        <tr><td><strong>Poll Everywhere</strong></td>
-            <td>Survey/Quiz Tool</td>
-            <td>
-              https://pollev-embeds.com
-              <br>
-              https://pollev.com
             </td>
         </tr>
         <tr><td><strong>PTable</strong></td>
@@ -817,13 +832,13 @@ image: /images/FaviconLight.png
             </td>
         </tr>
 -->
-        <tr><td><strong>RapidTables <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>RapidTables</strong></td>
             <td>STEM Tools</td>
             <td>
                 https://www.rapidtables.com
             </td>
         </tr>
-        <tr><td><strong>Rolljak <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Rolljak</strong></td>
             <td>Survey/Quiz Tool</td>
             <td>
                 https://app.rolljak.com
@@ -837,7 +852,7 @@ image: /images/FaviconLight.png
               <em>*Refer to disclaimer below.</em>
             </td>
         </tr>
-        <tr><td><strong>Saatchi Gallery <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Saatchi Gallery</strong></td>
             <td>Art Resource Website</td>
             <td>
                 https://saatchigallery.com
@@ -883,7 +898,7 @@ image: /images/FaviconLight.png
               https://app.seesaw.me
             </td>
         </tr>
-        <tr><td><strong>Seussville <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Seussville</strong></td>
             <td>Educational Games and Tools</td>
             <td>
                 https://www.seussville.com
@@ -895,25 +910,25 @@ image: /images/FaviconLight.png
               https://www.showme.com
             </td>
         </tr>
-        <tr><td><strong>Singapore Art Museum <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Singapore Art Museum</strong></td>
             <td>Art Resource Website</td>
             <td>
                 https://www.singaporeartmuseum.sg/about/our-collection
             </td>
         </tr>
-        <tr><td><strong>Singapore Civil Defence Force <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Singapore Civil Defence Force</strong></td>
             <td>Resource site</td>
             <td>
                 https://www.scdf.gov.sg
             </td>
         </tr>
-        <tr><td><strong>Singapore Police Force <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Singapore Police Force</strong></td>
             <td>Resource site</td>
             <td>
                 https://www.police.gov.sg
             </td>
         </tr>
-        <tr><td><strong>SLS Info-Site <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>SLS Info-Site</strong></td>
             <td>Learning Resources</td>
             <td>
                 https://www.learning.moe.edu.sg
@@ -943,11 +958,17 @@ image: /images/FaviconLight.png
               https://www.spellingcity.com
             </td>
         </tr>
-        <tr><td><strong>SplashLearn <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>SplashLearn</strong></td>
             <td>Math Resources</td>
             <td>
                 https://www.splashlearn.com
             </td>
+        </tr>
+        <tr><td><strong>Stable Diffusion <font color="#FBBC04">NEW</font></strong></td>
+          <td>AI Tool</td>
+          <td>
+            https://stablediffusionweb.com
+          </td>
         </tr>
         <tr><td><strong>Storybird</strong></td>
           <td>Writing Tool</td>
@@ -955,24 +976,24 @@ image: /images/FaviconLight.png
             https://storybird.com
           </td>
         </tr>
-        <tr><td><strong>Storyline Online <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Storyline Online</td>
             <td>Video Resource Site</td>
             <td>
                 https://storylineonline.net
             </td>
         </tr>
+<!--        
         <tr><td><strong>Streamlit</strong></td>
             <td>Web App Script Tool</td>
             <td>
-            <!--
-              https://share.streamlit.io
+              https://metacog.streamlit.app
               <br>
-            -->
               https://student.streamlitapp.com/?embedded=true
               <br>
               https://teacher.streamlitapp.com/?embedded=true
             </td>
         </tr>
+-->        
         <tr><td><strong>Super Teacher Tools</strong></td>
             <td>Interactive Content</td>
             <td>
@@ -991,13 +1012,13 @@ image: /images/FaviconLight.png
             https://public.tableau.com
           </td>
         </tr>
-        <tr><td><strong>Tate <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Tate</strong></td>
             <td>Art Resource Website</td>
             <td>
                 https://www.tate.org.uk
             </td>
         </tr>
-        <tr><td><strong>Teachable <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Teachable</strong></td>
             <td>Lesson Tool for Experiments and Simulations</td>
             <td>
                 https://teachablemachine.withgoogle.com
@@ -1009,14 +1030,6 @@ image: /images/FaviconLight.png
             https://www.teachertube.com
           </td>
         </tr>
-<!--
-        <tr><td><strong>The Cardiac Cycle* <font color="#FBBC04">NEW</font></strong></td>
-          <td>Augmented Reality Tool</td>
-          <td>
-            https://www.varteledu.com/tcc4/index.html
-          </td>
-        </tr>
--->
         <tr><td><strong>The Game Gal</strong></td>
             <td>Educational Games and Tools</td>
             <td>
@@ -1059,13 +1072,13 @@ image: /images/FaviconLight.png
               https://www.tinkercad.com
             </td>
         </tr>
-        <tr><td><strong>TodayOnline <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>TodayOnline</strong></td>
             <td>News and Resource Site</td>
             <td>
                 https://www.todayonline.com
             </td>
         </tr>
-        <tr><td><strong>Topmarks <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Topmarks</strong></td>
             <td>Educational Games and Tools</td>
             <td>
                 https://www.topmarks.co.uk
@@ -1091,7 +1104,7 @@ image: /images/FaviconLight.png
             </td>
         </tr>
 -->
-        <tr><td><strong>Transum <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Transum</strong></td>
             <td>Math Resources</td>
             <td>
                 https://www.transum.org
@@ -1103,7 +1116,7 @@ image: /images/FaviconLight.png
               https://www.tricider.com
             </td>
         </tr>
-        <tr><td><strong>TurtleDiary <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>TurtleDiary</strong></td>
             <td>Educational Games and Tools</td>
             <td>
                 https://www.turtlediary.com
@@ -1129,7 +1142,7 @@ image: /images/FaviconLight.png
               https://www.uniteforliteracy.com
             </td>
         </tr>
-        <tr><td><strong>Vartel Edu <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Vartel Edu</strong></td>
             <td>Augmented Reality Tool</td>
             <td>
                 https://www.varteledu.com/tcc4/index.html
@@ -1175,7 +1188,7 @@ image: /images/FaviconLight.png
               https://www.walter-fendt.de
             </td>
         </tr>
-        <tr><td><strong>Webex Teams <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Webex Teams</strong></td>
             <td>Video Conferencing Tool</td>
             <td>
                 https://teams.webex.com
@@ -1187,7 +1200,7 @@ image: /images/FaviconLight.png
               https://wheelofnames.com
             </td>
         </tr>
-        <tr><td><strong>Whiteboard <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Whiteboard</strong></td>
             <td>Online Whiteboard</td>
             <td>
                 https://whiteboard.fi
@@ -1694,6 +1707,8 @@ image: /images/FaviconLight.png
                   <br>
                   https://northviewprimaryschool.padlet.org
                   <br>
+                  https://nygh.padlet.org <font color="#FBBC04">NEW</font>
+                  <br>
                   https://onetkps.padlet.org
                   <br>
                   https://opss.padlet.org
@@ -1779,6 +1794,16 @@ image: /images/FaviconLight.png
                 https://www.podbean.com
               </td>
           </tr>
+          <tr><td><strong>Poll Everywhere</strong></td>
+            <td>Survey/Quiz Tool</td>
+            <td>
+              https://pollev-embeds.com
+              <br>
+              https://pollev.com
+              <br>
+              https://embed.polleverywhere.com <font color="#FBBC04">NEW</font>
+            </td>
+          </tr>
           <tr><td><strong>Powtoon</strong> </td>
               <td>Video and Presentation Tool</td>
               <td>
@@ -1827,7 +1852,7 @@ image: /images/FaviconLight.png
                 https://wall.sli.do
               </td>
           </tr>
-          <tr><td><strong>SoundCloud <font color="#FBBC04">NEW</font></strong></td>
+          <tr><td><strong>SoundCloud</strong></td>
             <td>Music Tool</td>
             <td>
                 https://soundcloud.com
