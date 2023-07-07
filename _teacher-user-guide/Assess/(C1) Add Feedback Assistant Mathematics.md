@@ -27,6 +27,6 @@ image: /images/FaviconLight.png
 	<li>When you are done, click <strong>Save</strong>.</li></ol>
 <p>
 </p><ol><u>Supporting Resources</u>:
-<li>We are currently using an external service to power FA-Math. To learn more about creating FA-Math questions and the different question types that are supported, click on the resource link <a href="https://help.algebrakit.com/">here</a>.</li>
+<li>We are currently using an external service to power FA-Math. To learn more about creating FA-Math questions and the different question types that are supported, click on the resource link <a target="_blank" href="https://help.algebrakit.com/">here</a>.</li>
 <li>Alternatively, you may search #FA_Math in SLS Community Library for sample questions from our question bank which you can adapt for your own lessons.</li>
 </ol>
