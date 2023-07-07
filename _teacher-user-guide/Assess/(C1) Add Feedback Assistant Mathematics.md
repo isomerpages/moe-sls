@@ -21,7 +21,7 @@ image: /images/FaviconLight.png
 </li>
 </ul>
 </li>
-<img src="/images/2Teacher/AS-AddMathematicsFeedback01.png" style="width: 100%;">
+<img src="/images/2Teacher/as-addmathematicsfeedback01.png" style="width: 100%;">
 <li><p>In the Create New Question subpage, check the box whether you would like to show hints and feedback while students attempt the question.</p></li>
 <img src="/images/2Teacher/AS-AddMathematicsFeedback02.png" style="width: 100%;">
 	<li>When you are done, click <strong>Save</strong>.</li></ol>
