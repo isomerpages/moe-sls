@@ -52,10 +52,11 @@ image: /images/FaviconLight.png
 <summary><h4>E. Ideas for Teaching &amp; Learning</h4></summary>
 <ul>
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/create-professional-learning-circles/">(E1,i) Create Professional Learning Circles</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/jigsaw-activities-for-teamwork/">(E1,ii) Jigsaw Activities for Teamwork</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/nurture-collaboration-in-gamified-lessons/">(E1,iii) Nurture Collaboration in Gamified Lessons</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/manage-in-class-teaching-more-effectively/">(E1,iv) Manage In-Class Teaching more Effectively</a></li>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/TeamsvsSubgroups.pdf">(E1,v) Teams vs Subgroups</a></li>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/fa-math 10 jul.pdf">(E1,vi) Features for Math Learning</a></li>	
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/fa-math 10 jul.pdf">(E1,ii) Features for Math Learning</a></li>	
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/jigsaw-activities-for-teamwork/">(E1,iii) Jigsaw Activities for Teamwork</a></li>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/nurture-collaboration-in-gamified-lessons/">(E1,iv) Nurture Collaboration in Gamified Lessons</a></li>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/manage-in-class-teaching-more-effectively/">(E1,v) Manage In-Class Teaching more Effectively</a></li>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/TeamsvsSubgroups.pdf">(E1,vi) Teams vs Subgroups</a></li>
+
 	</ul>
 </details>
