@@ -117,12 +117,12 @@ image: /images/FaviconLight.png
 <tr>
 <!--1st column-->
 <td>
-<p>(TBA) Sep</p>
+<p>4 and 8 Sep</p>
 </td>
 <!--2nd column-->
 <td>
 <p><a target="_blank" href="https://go.gov.sg/sls-level1-course">SLS Level 1 Certification</a></p>
-<p>SLS Level 2 Certification</p>
+<p><a target="_blank" href="https://go.gov.sg/sls-level2-course-organise">SLS Level 2 Certification</a></p>
 </td>
 </tr>                    
 <tr>
