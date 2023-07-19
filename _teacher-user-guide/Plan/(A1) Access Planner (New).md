@@ -30,7 +30,7 @@ image: /images/FaviconLight.png
 <h3>Import Events </h3>
 <hr>
 <p>You may import other calendars by clicking <strong>Import</strong>. Then upload your calendar file and click <strong>Upload</strong> to proceed.</p>
-<p>Note: Only the .ics file format is supported</p>
+<p><u>Note:</u> Only the .ics file format is supported</p>
 <ol>
 <li><strong>Supported Event Details</strong> </li><ul>
 <li>Event name (50 characters)</li>
