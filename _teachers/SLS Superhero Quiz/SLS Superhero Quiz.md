@@ -27,7 +27,7 @@ image: /images/FaviconLight.png
           <p>The Discussant</p>
         </td>
           <td style="text-align: center; vertical-align: middle;">     
-        <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/The%20Discussant.pdf"> <img width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Discussant.png"></a> <br>
+        <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/The%20Discussant.pdf"> <img style="width: 100%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Discussant.png"></a> <br>
             </td>
       <td style="text-align: left; vertical-align: middle;">  
         <ul>		
