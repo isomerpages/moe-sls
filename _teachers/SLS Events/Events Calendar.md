@@ -94,24 +94,15 @@ image: /images/FaviconLight.png
 <p><a target="_blank" href="/latest-news/changelog/7-jun-2023/">Release 19</a></p>
 </td>
 </tr>              
-<tr>
+
+	<tr>
 <!--1st column-->
 <td>
-<p>(TBA) Jul</p>
+<p>24 Aug</p>
 </td>
 <!--2nd column-->
 <td>
-<p>SgLDC Livestream: Topic 4</p>
-</td>
-</tr>          
-<tr>
-<!--1st column-->
-<td>
-<p>(TBA) Sep</p>
-</td>
-<!--2nd column-->
-<td>
-<p>SgLDC Livestream: Topic 5</p>
+<p>SgLDC Livestream: Discover SLS@Grange</p>
 </td>
 </tr>
 <tr>
@@ -125,16 +116,7 @@ image: /images/FaviconLight.png
 <p><a target="_blank" href="https://go.gov.sg/sls-level2-course-organise">SLS Level 2 Certification</a></p>
 </td>
 </tr>                    
-<tr>
-<!--1st column-->
-<td>
-<p>(TBA) Oct</p>
-</td>
-<!--2nd column-->
-<td>
-<p>SgLDC Livestream: Topic 6</p>
-</td>
-</tr>          
+         
 <tr>
 <!--1st column-->
 <td>
@@ -147,3 +129,4 @@ image: /images/FaviconLight.png
 </tr>
 </tbody>
 </table>
+
