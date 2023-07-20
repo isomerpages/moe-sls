@@ -7,7 +7,8 @@ image: /images/FaviconLight.png
 <h1>Explore SLS Functions</h1>
 <p>Learn more about what the Singapore Student Learning Space (SLS) can do with the overview of SLS functions&nbsp;below.</p>
 <p><a href="#how-to-navigate-the-user-guide-pages">Click here</a> for more information on how to navigate the userguide.</p>
-<h2>Organise</h2>
+
+<h2>Arrange your teaching and learning materials.</h2>
 <hr>
 
 <h3><a id="discover" target="_blank" href="/teacher-user-guide/discover/index/">1. Discover</a></h3>
@@ -20,7 +21,8 @@ Use SLS to plan personal and class group events.
 Use SLS to organise your personal and class group resources, assignments and notifications.
 <h3><a id="customise" target="_blank" href="/teacher-user-guide/customise/index/">5. Customise</a></h3>
 Use SLS to customise your avatar, UI and user experience based on your needs.
-<h2>Author</h2>
+
+<h2>Create meaningful and engaging lessons.</h2>
 <hr>
 <h3><a id="author" target="_blank" href="/teacher-user-guide/author/index/">1. Author</a></h3>
 Use SLS to design lesson resources aligned to the e-pedagogical principles.
@@ -28,7 +30,8 @@ Use SLS to design lesson resources aligned to the e-pedagogical principles.
 Use SLS to provide choice for your students in their lessons and activities.
 <h3><a id="gamify" target="_blank" href="/teacher-user-guide/gamify/index/">3. Gamify</a></h3>
 Use SLS to create a game layer in my lesson resource to motivate my students.
-<h2>Enact</h2>
+
+<h2>Deliver engaging in-class lessons.</h2>
 <hr>
 <h3><a id="assign" target="_blank" href="/teacher-user-guide/assign/index/">1. Assign</a></h3>
 Use SLS to assign lessons to your students for them to complete within a specific time.
@@ -38,13 +41,15 @@ Use to enact assigned SLS lessons as part of my synchronous teaching in-class or
 Use SLS to differentiate lessons and activities for different groups of students.
 <h3><a id="collaborate" target="_blank" href="/teacher-user-guide/collaborate/index/">4. Collaborate</a></h3>
 Use SLS to set learning activities to be done collaboratively by students.
-<h2>Assess</h2>
+
+<h2>Monitor student progress and provide feedback.</h2>
 <hr>
 <h3><a id="1assess" target="_blank" href="/teacher-user-guide/assess/index/">1. Assess</a></h3>
 Use SLS to set up, mark and give feedback on student work.
 <h3><a id="track-progress" target="_blank" href="/teacher-user-guide/track-progress/index/">2. Track Progress</a></h3>
 Use SLS to track and compare student progress within and across lessons and assignments.
-<h2>Administer</h2>
+
+<h2>Manage teacher and student access.</h2>
 <hr>
 <h3><a id="publish" target="_blank" href="/teacher-user-guide/publish/index/">1. Publish</a></h3>
 Use SLS to publish resources to make it available and discoverable to teachers and students.
