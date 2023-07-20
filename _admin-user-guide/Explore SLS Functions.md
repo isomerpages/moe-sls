@@ -8,12 +8,12 @@ image: /images/FaviconLight.png
 <p>Learn more about what the Singapore Student Learning Space (SLS) can do with the overview of SLS functions&nbsp;below.</p>
 <p><a href="#how-to-navigate-the-user-guide-pages">Click here</a> for more information on how to navigate the userguide.</p>
 
-<h2>Organise</h2>
+<h2>Arrange your teaching and learning materials.</h2>
 <hr>
 <h3><a id="notify" target="_blank" href="/admin-user-guide/notify/index/">1. Notify</a></h3>
 Use SLS to notify other teachers and students easily on T&amp;L matters across the system, classes and individual levels.
 
-<h2>Administer</h2>
+<h2>Manage teacher and student access.</h2>
 <hr>
 <h3><a id="publish" target="_blank" href="/admin-user-guide/publish/index/">1. Publish</a></h3>
 Use SLS to publish resources to make it available and discoverable to teachers and students.
