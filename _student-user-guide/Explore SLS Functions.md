@@ -35,7 +35,7 @@ Use SLS to easily navigate lessons assigned by my teachers.
 <h3><a id="collaborate" target="_blank" href="/student-user-guide/collaborate/index/">2. Collaborate</a></h3>
 Use SLS to easily access collaborative learning activities together at the same time or different times.
 
-<h2>Access: Track your learning progress.</h2>
+<h2>Assess: Track your learning progress.</h2>
 <hr>
 <h3><a id="1assess" target="_blank" href="/student-user-guide/assess/index/">1. Assess</a></h3>
 Use SLS to complete and submit work, easily access and follow up on teacher marks and feedback.
