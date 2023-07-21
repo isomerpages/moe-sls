@@ -10,7 +10,8 @@ Looking for new ways to support your students’ learning? Student Learning Spac
 <h2 id="feature-highlights">Feature Highlights</h2>
 <hr>
 <ul>
-  <li><p><a target="_blank" href="/teachers/feature-highlights/2023-sem1/">2023 Sem 1</a></p></li>
+<li><p><a target="_blank" href="/teachers/feature-highlights/2023-sem2/">2023 Sem 2</a></p></li>
+<li><p><a target="_blank" href="/teachers/feature-highlights/2023-sem1/">2023 Sem 1</a></p></li>
 <li><a target="_blank" href="/teachers/feature-highlights/2022-sem2/">2022 Sem 2</a>
 </li><li><a target="_blank" href="/teachers/feature-highlights/2022-sem1/">2022 Sem 1</a>
 </li><li><a target="_blank" href="/teachers/feature-highlights/2021-sem2/">2021 Sem 2</a></li></ul>

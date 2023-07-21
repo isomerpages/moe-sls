@@ -76,9 +76,10 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <details>
 <summary><h4>H. Ideas for Teaching &amp; Learning</h4></summary>
 <ul>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/R18_ClassGroupPoll.pdf">(H1,i) Class Group Poll</a></li>	
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/encourage-curiosity-through-class-groups/">(H1,ii) Encourage Curiosity through Class Groups</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/empower-students-to-be-self-directed-learners/">(H1,iii) Empower Students to be Self Directed Learners</a></li>	
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/facilitating-schoolwide-pd/">(H1,iv) Facilitating School-wide PD</a></li>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/R18_ClassGroups.pdf">(H1,i) Class Groups - In a Nutshell</a></li>		
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/R18_ClassGroupPoll.pdf">(H1,ii) Class Group Poll</a></li>	
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/encourage-curiosity-through-class-groups/">(H1,iii) Encourage Curiosity through Class Groups</a></li>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/empower-students-to-be-self-directed-learners/">(H1,iv) Empower Students to be Self Directed Learners</a></li>	
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/facilitating-schoolwide-pd/">(H1,v) Facilitating School-wide PD</a></li>
 </ul>
 </details>

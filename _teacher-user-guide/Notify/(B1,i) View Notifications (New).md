@@ -1,5 +1,5 @@
 ---
-title: (B1,ii) View Notifications (New)
+title: (B1,i) View Notifications (New)
 permalink: /teacher-user-guide/notify/view-notifications/
 description: ""
 third_nav_title: Notify

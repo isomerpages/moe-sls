@@ -20,7 +20,7 @@ Use SLS to notify other teachers and students easily on T&amp;L matters across t
 <details>
 <summary><h4>B. How to access Notifications?</h4></summary>
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/notify/about-notifications/">(B1,i) About Notifications (New)</a></li>
-<li><a target="_blank" href="/teacher-user-guide/notify/view-notifications/">(B1,ii) View Notifications (New)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/notify/about-notifications/">About Notifications (New)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/notify/view-notifications/">(B1,i) View Notifications (New)</a></li>
 </ul>
 </details>
