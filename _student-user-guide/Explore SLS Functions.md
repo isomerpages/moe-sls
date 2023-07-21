@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 <h1>Explore SLS Functions</h1>
 <p>Learn more about what the Singapore Student Learning Space (SLS) can do with the overview of SLS functions&nbsp;below.</p>
 <p><a href="#how-to-navigate-the-user-guide-pages">Click here</a> for more information on how to navigate the userguide.</p>
-<h2>Arrange your learning materials.</h2>
+<h2>Organise: Arrange your learning materials.</h2>
 <hr>
 <h3><a id="discover" target="_blank" href="/student-user-guide/discover/index/">1. Discover</a></h3>
 Use SLS to discover, search for and find useful Teaching &amp; Learning resources that you can learn from.
@@ -22,20 +22,20 @@ Use SLS to plan and organise self-study resources and share good resources with 
 <h3><a id="customise" target="_blank" href="/student-user-guide/customise/index/">6. Customise</a></h3>
 Use SLS to customise your avatar, UI and user experience based on your needs.
 
-<h2>Experience exciting lessons.</h2>
+<h2>Author: Experience exciting lessons.</h2>
 <hr>
 <h3><a id="gamify" target="_blank" href="/student-user-guide/gamify/index/">1. Gamify</a></h3>
 Use SLS to experience a game-like experience when going through your lesson.
 	
 
-<h2>Access your learning materials.</h2>
+<h2>Enact: Access your learning materials.</h2>
 <hr>
 <h3><a id="assign" target="_blank" href="/student-user-guide/assign/index/">1. Assign</a></h3>
 Use SLS to easily navigate lessons assigned by my teachers.
 <h3><a id="collaborate" target="_blank" href="/student-user-guide/collaborate/index/">2. Collaborate</a></h3>
 Use SLS to easily access collaborative learning activities together at the same time or different times.
 
-<h2>Track your learning progress.</h2>
+<h2>Access: Track your learning progress.</h2>
 <hr>
 <h3><a id="1assess" target="_blank" href="/student-user-guide/assess/index/">1. Assess</a></h3>
 Use SLS to complete and submit work, easily access and follow up on teacher marks and feedback.
