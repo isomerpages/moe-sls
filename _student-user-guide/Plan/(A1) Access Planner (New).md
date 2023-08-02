@@ -27,5 +27,5 @@ image: /images/FaviconLight.png
     <li>To know what events are happening at the moment, refer to the red line.</li>
   </ol>
 <img src="/images/1Student/P-Calendar.png">	
-  <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did you know</u>: 
-	</p><p>The <strong>Assignments Due</strong> subpage of the Planner will only appear if there are assignments due today or in the next 3 days.</p>
+  <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did you know</u>:</p>
+<p>Assignment cards will appear under day view if there are assignments due today or in the&nbsp;next&nbsp;3&nbsp;days.</p>
