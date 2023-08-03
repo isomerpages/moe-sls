@@ -6,8 +6,8 @@ third_nav_title: Plan
 image: /images/FaviconLight.png
 ---
 <h1>(A1) Access Planner (New)</h1>
-  <p>Planner allows you to manage your personal learning schedule and timetable. You can create events and view Assignments which are due soon.</p>
-	<p><u>Note</u>: Please ensure you have enabled pop-ups before accessing assignments or resources attached to events. You may refer to the <a target="_blank" href="/files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf">Enable Pop-Ups guide</a> on how you can enable pop-ups for your device.</p>
+<p>Planner allows you to manage your personal learning schedule and timetable. You can create events and view Assignments which are due soon.</p>
+<p><u>Note</u>: Please ensure you have enabled pop-ups before accessing assignments or resources attached to events. You may refer to the <a target="_blank" href="/files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf">Enable Pop-Ups guide</a> on how you can enable pop-ups for your device.</p>
   <h2>Navigating to the Page</h2>
 <hr>
   <ol>
