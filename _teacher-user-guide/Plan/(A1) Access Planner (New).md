@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 ---
 <h1>(A1) Access Planner (New)</h1>
 <p>Planner allows you to manage your personal learning schedule and timetable. You can create events or import your school timetable/calendar into the Planner and view Assignments which are due soon.</p>
+<p><u>Note</u>: Please ensure you have enabled pop-ups before accessing assignments or resources attached to events. You may refer to the <a target="_blank" href="/files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf">Enable Pop-Ups guide</a> on how you can enable pop-ups for your device.</p>
 <h3>Navigating to the Page</h3>
 <hr>
 <ol>
@@ -26,7 +27,7 @@ image: /images/FaviconLight.png
 </ol>
 <img style="width: 100%;" src="/images/2Teacher/P-Calendar.png"><br>
 <u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
-<p>The <strong>Assignments Due</strong> subpage of the Planner will only appear if there are assignments due today or in the next 3 days.</p>
+<p>Assignment cards will appear under day view if there are assignments due today or in the&nbsp;next&nbsp;3&nbsp;days.</p>
 <h3>Import Events </h3>
 <hr>
 <p>You may import other calendars by clicking <strong>Import</strong>. Then upload your calendar file and click <strong>Upload</strong> to proceed.</p>

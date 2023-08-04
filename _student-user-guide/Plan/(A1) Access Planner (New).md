@@ -6,7 +6,8 @@ third_nav_title: Plan
 image: /images/FaviconLight.png
 ---
 <h1>(A1) Access Planner (New)</h1>
-  <p>Planner allows you to manage your personal learning schedule and timetable. You can create events and view Assignments which are due soon.</p>
+<p>Planner allows you to manage your personal learning schedule and timetable. You can create events and view Assignments which are due soon.</p>
+<p><u>Note</u>: Please ensure you have enabled pop-ups before accessing assignments or resources attached to events. You may refer to the <a target="_blank" href="/files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf">Enable Pop-Ups guide</a> on how you can enable pop-ups for your device.</p>
   <h2>Navigating to the Page</h2>
 <hr>
   <ol>
@@ -26,5 +27,5 @@ image: /images/FaviconLight.png
     <li>To know what events are happening at the moment, refer to the red line.</li>
   </ol>
 <img src="/images/1Student/P-Calendar.png">	
-  <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did you know</u>: 
-	</p><p>The <strong>Assignments Due</strong> subpage of the Planner will only appear if there are assignments due today or in the next 3 days.</p>
+  <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did you know</u>:</p>
+<p>Assignment cards will appear under day view if there are assignments due today or in the&nbsp;next&nbsp;3&nbsp;days.</p>
