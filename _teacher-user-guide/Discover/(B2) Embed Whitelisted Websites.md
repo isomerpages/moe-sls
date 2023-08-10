@@ -58,6 +58,12 @@ third_nav_title: Discover
               https://www.accessmaths.co.uk
             </td>
         </tr>
+        <tr><td><strong>AI Singapore <font color="#FBBC04">NEW</font></strong></td>
+            <td>Resource site</td>
+            <td>
+              https://learn.aisingapore.org
+            </td>
+        </tr>
         <tr><td><strong>Animated Knots</strong></td>
             <td>Interactive Knot Tying Tool</td>
             <td>
@@ -132,7 +138,7 @@ third_nav_title: Discover
               https://read.bookcreator.com
             </td>
         </tr>
-        <tr><td><strong>Bouncy Balls <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Bouncy Balls</strong></td>
             <td>Music Tool</td>
             <td>
               https://bouncyballs.org
@@ -198,14 +204,12 @@ third_nav_title: Discover
               https://chemnotcheem.com
             </td>
         </tr>
-<!--
-        <tr><td><strong>Chrome Music Lab</strong></td>
+        <tr><td><strong>Chrome Music Lab <font color="#FBBC04">NEW</font></strong></td>
             <td>Music Tool</td>
             <td>
               https://musiclab.chromeexperiments.com
             </td>
         </tr>
--->
         <tr><td><strong>Class Tools</strong></td>
             <td>Educational Tools and Resources</td>
             <td>
@@ -268,7 +272,7 @@ third_nav_title: Discover
                 https://www.coolmath4kids.com
             </td>
         </tr>
-        <tr><td><strong>Craiyon <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Craiyon</strong></td>
             <td>AI Tool</td>
             <td>
                 https://www.craiyon.com
@@ -328,7 +332,7 @@ third_nav_title: Discover
               https://www.elementari.com
             </td>
         </tr>
-        <tr><td><strong>Elicit <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Elicit</strong></td>
             <td>AI Tool</td>
             <td>
               https://elicit.org
@@ -432,7 +436,7 @@ third_nav_title: Discover
                 https://artsandculture.google.com
             </td>
         </tr>
-        <tr><td><strong>Grammarly <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Grammarly</strong></td>
             <td>AI Tool</td>
             <td>
                 https://www.grammarly.com
@@ -794,6 +798,14 @@ third_nav_title: Discover
               https://pigeonhole.at
             </td>
         </tr>
+        <tr><td><strong>Pixlr <font color="#FBBC04">NEW</font></strong></td>
+            <td>AI Tool</td>
+            <td>
+              https://pixlr.com/x
+              <br>
+              https://pixlr.com/e
+            </td>
+        </tr>
         <tr><td><strong>Playxylo</strong></td>
             <td>Music Tool</td>
             <td>
@@ -964,7 +976,7 @@ third_nav_title: Discover
                 https://www.splashlearn.com
             </td>
         </tr>
-        <tr><td><strong>Stable Diffusion <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Stable Diffusion</strong></td>
           <td>AI Tool</td>
           <td>
             https://stablediffusionweb.com
@@ -1707,7 +1719,7 @@ third_nav_title: Discover
                   <br>
                   https://northviewprimaryschool.padlet.org
                   <br>
-                  https://nygh.padlet.org <font color="#FBBC04">NEW</font>
+                  https://nygh.padlet.org
                   <br>
                   https://onetkps.padlet.org
                   <br>
@@ -1801,7 +1813,7 @@ third_nav_title: Discover
               <br>
               https://pollev.com
               <br>
-              https://embed.polleverywhere.com <font color="#FBBC04">NEW</font>
+              https://embed.polleverywhere.com
             </td>
           </tr>
           <tr><td><strong>Powtoon</strong> </td>
@@ -1944,4 +1956,4 @@ third_nav_title: Discover
 	
 <h2 class="section-title">Request for Websites to be Whitelisted</h2>
 <hr>
-<p>If you would like SLS to consider a website for whitelisting, please&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>, stating the URL(s) to be whitelisted (please give the full URL) and the purpose of the website. Before doing so, please check that the terms of use of the website allow for embedding into external sites such as SLS. </p></ol>
+<p>If you would like SLS to consider a website for whitelisting, please submit a request through the <a href="https://go.gov.sg/sls-whitelist-form" target="_blank">Website Whitelisting Form</a>. Before doing so, please check that the terms of use of the website allow for embedding into external sites such as SLS.</p></ol>
