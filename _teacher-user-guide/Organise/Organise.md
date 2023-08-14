@@ -81,5 +81,6 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/encourage-curiosity-through-class-groups/">(H1,iii) Encourage Curiosity through Class Groups</a></li>
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/empower-students-to-be-self-directed-learners/">(H1,iv) Empower Students to be Self Directed Learners</a></li>	
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/facilitating-schoolwide-pd/">(H1,v) Facilitating School-wide PD</a></li>
+<li><a target="_blank" href="/files/Marcomms/Feature%20Highlights/set up school and department spaces.pdf">(H1,vi) Set Up School and Department Spaces</a></li>	
 </ul>
 </details>

@@ -22,7 +22,8 @@ image: /images/FaviconLight.png
 <details>
 <summary><h4>B. Ideas for Teaching &amp; Learning</h4></summary>
 <ul>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/using sls for whole school transformation of t&amp;l.pdf">(B1) Using SLS for Whole School Transformation of Teaching &amp; Learning</a>
+<li><a target="_blank" href="/files/Marcomms/Feature%20Highlights/set up school and department spaces.pdf">(B1,i) Set Up School and Department Spaces</a></li>		
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/using sls for whole school transformation of t&amp;l.pdf">(B1,ii) Using SLS for Whole School Transformation of Teaching &amp; Learning</a>
 </li>
 </ul>
 </details>
