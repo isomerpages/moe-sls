@@ -6,7 +6,7 @@ third_nav_title: Discover
 ---
 <h1 class="page-title">(B2) Embed Whitelisted Websites</h1>
            
-<p>For tools indicated with *, students may need to access them using a laptop/desktop and to open the website in a new tab.</p>
+<p>To identify the newly whitelisted websites, press Ctrl+F and type "NEW!" in the search bar.</p>
 
 <p>Schools are advised to be mindful of age advisories (e.g. For ChatGPT, parental consent is required for children between 13 to 18) and the <a target="_blank" href="https://intranet.moe.gov.sg/etd/Pages/tfl_product_programmes_resources.aspx/">MOE AIEd Ethics Framework</a> (requires access to MOE Intranet) when using sites with AI affordances.
                        
@@ -58,7 +58,7 @@ third_nav_title: Discover
               https://www.accessmaths.co.uk
             </td>
         </tr>
-        <tr><td><strong>AI Singapore <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>AI Singapore <font color="#FBBC04">NEW!</font></strong></td>
             <td>Resource site</td>
             <td>
               https://learn.aisingapore.org
@@ -204,7 +204,7 @@ third_nav_title: Discover
               https://chemnotcheem.com
             </td>
         </tr>
-        <tr><td><strong>Chrome Music Lab <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Chrome Music Lab <font color="#FBBC04">NEW!</font></strong></td>
             <td>Music Tool</td>
             <td>
               https://musiclab.chromeexperiments.com
@@ -798,7 +798,7 @@ third_nav_title: Discover
               https://pigeonhole.at
             </td>
         </tr>
-        <tr><td><strong>Pixlr <font color="#FBBC04">NEW</font></strong></td>
+        <tr><td><strong>Pixlr <font color="#FBBC04">NEW!</font></strong></td>
             <td>AI Tool</td>
             <td>
               https://pixlr.com/x
@@ -860,8 +860,6 @@ third_nav_title: Discover
             <td>Teaching Resource</td>
             <td>
               https://www.roots.gov.sg
-              <br>
-              <em>*Refer to disclaimer below.</em>
             </td>
         </tr>
         <tr><td><strong>Saatchi Gallery</strong></td>
@@ -1275,7 +1273,7 @@ third_nav_title: Discover
             </td>
         </tr>
 <!--
-        <font color="#FBBC04">NEW</font>
+        <font color="#FBBC04">NEW!</font>
         //represents new item
 -->
 </tbody>
@@ -1453,7 +1451,7 @@ third_nav_title: Discover
               -->
               </td>
           </tr>
-          <tr><td><strong>Google Docs*</strong></td>
+          <tr><td><strong>Google Docs</strong></td>
               <td>Productivity Tool</td>
               <td>
                 https://docs.google.com
@@ -1461,13 +1459,13 @@ third_nav_title: Discover
                 https://docs.google.com/document
               </td>
           </tr>
-          <tr><td><strong>Google Drawings*</strong> </td>
+          <tr><td><strong>Google Drawings</strong> </td>
               <td>Productivity Tool</td>
               <td>
                 https://docs.google.com/drawings
               </td>
           </tr>
-          <tr><td><strong>Google Drive*</strong></td>
+          <tr><td><strong>Google Drive</strong></td>
               <td>Productivity Tool</td>
               <td>
                 https://drive.google.com/drive
@@ -1475,25 +1473,25 @@ third_nav_title: Discover
                 https://drive.google.com/embeddedfolderview?id=
               </td>
           </tr>
-          <tr><td><strong>Google Forms*</strong></td>
+          <tr><td><strong>Google Forms</strong></td>
               <td>Survey/Quiz Tool</td>
               <td>
                 https://docs.google.com/forms
               </td>
           </tr>
-          <tr><td><strong>Google Maps*</strong></td>
+          <tr><td><strong>Google Maps</strong></td>
               <td>Map Tool</td>
               <td>
                 https://www.google.com/maps
               </td>
           </tr>
-          <tr><td><strong>Google Sheets*</strong></td>
+          <tr><td><strong>Google Sheets</strong></td>
               <td>Productivity Tool</td>
               <td>
                 https://docs.google.com/spreadsheets
               </td>
           </tr>
-          <tr><td><strong>Google Slides*</strong></td>
+          <tr><td><strong>Google Slides</strong></td>
               <td>Presentation Tool</td>
               <td>
                 https://docs.google.com/presentation
