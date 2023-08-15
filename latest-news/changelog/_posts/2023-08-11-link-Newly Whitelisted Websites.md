@@ -1,6 +1,6 @@
 ---
 title: Newly Whitelisted Websites
-date: 2023-06-01
+date: 2023-08-11
 layout: link
 description: ""
 image: ""
