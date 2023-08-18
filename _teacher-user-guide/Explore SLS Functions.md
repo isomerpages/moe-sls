@@ -1,6 +1,6 @@
 ---
 title: Explore SLS Functions
-permalink: /teacher-user-guide/organise/
+permalink: /teacher-user-guide/index/
 description: ""
 image: /images/FaviconLight.png
 ---
