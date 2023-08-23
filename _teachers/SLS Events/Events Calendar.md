@@ -102,7 +102,7 @@ image: /images/FaviconLight.png
 </td>
 <!--2nd column-->
 <td>
-<p>SgLDC Livestream: Discover SLS@Grange</p>
+<p><a target="_blank" href="https://fb.me/e/HzuuJyan">SgLDC Livestream: Discover SLS@Grange</a></p>
 </td>
 </tr>
 <tr>
@@ -129,4 +129,3 @@ image: /images/FaviconLight.png
 </tr>
 </tbody>
 </table>
-

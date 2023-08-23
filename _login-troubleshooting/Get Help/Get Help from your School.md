@@ -2154,12 +2154,10 @@ Others: ICT Associate
 <tr>
 <td>Northbrooks Secondary School</td>
 <td>
-Tel: 81283047
+Tel: 67524311
 <br>Email: northbrooks_ict@moe.edu.sg
 <br>
-Others: <a href="https://go.gov.sg/northbrooksresetpassword">Form SG</a>
-
-
+Others: <a href="https://go.gov.sg/northbrooksstudenticthelpdesk">Form SG</a>
 </td>
 </tr>
 <tr>
