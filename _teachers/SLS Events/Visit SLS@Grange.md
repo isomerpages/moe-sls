@@ -12,6 +12,6 @@ Join us for a learning journey to SLS to explore our history and go behind-the-s
 Don't miss out on this amazing opportunity to learn and be inspired. <a target="_blank" href="https://form.gov.sg/64d1ed284d0bb70012fe2466">Register your group's interest today</a>!
 
 <div class="bp-youtube">
-<iframe width="25%" height="25%" src="https://www.youtube.com/embed/Tx_stCy3zcE" title="Visit SLS@Grange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+<iframe width="25%" height="25%" src="https://www.youtube.com/embed/Y90FclFNvu0" title="Visit SLS@Grange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 
 <u>Note</u>: Booking is subject to confirmation and not guaranteed upon submission of form.
