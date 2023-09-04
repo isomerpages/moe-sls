@@ -728,7 +728,7 @@ Teachers can import images into options via QTI.
 New RMS printable flag and reference subject code for mass upload job.
 </p>
 </li>
-</ol>
+</ol></details>	
 <h2><img style="width:3rem; display: inline;" src="/images/Icons/Star.svg">Features for Students</h2>
 <details><summary><h4>ALS View All Topics Improvement</h4></summary>
 <hr>
@@ -774,4 +774,4 @@ Students can view ITT, Poll and Discussion responses in their teams.
 ITT and Poll will no longer contribute to activity completion for both team and non-team activity
 </p>
 </li>
-</ol></details></details>
+</ol></details>
