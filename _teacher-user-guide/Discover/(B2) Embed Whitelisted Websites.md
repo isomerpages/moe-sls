@@ -625,7 +625,7 @@ third_nav_title: Discover
             </td>
         </tr>
         <tr><td><strong>Ministry of Culture in Taiwan <font color="#FBBC04">NEW!</font></strong></td>
-            <td>Audio Resources</td>
+            <td>Resource site</td>
             <td>
               https://children.moc.gov.tw
             </td>
