@@ -58,7 +58,7 @@ third_nav_title: Discover
               https://www.accessmaths.co.uk
             </td>
         </tr>
-        <tr><td><strong>AI Singapore <font color="#FBBC04">NEW!</font></strong></td>
+        <tr><td><strong>AI Singapore</strong></td>
             <td>Resource site</td>
             <td>
               https://learn.aisingapore.org
@@ -204,7 +204,7 @@ third_nav_title: Discover
               https://chemnotcheem.com
             </td>
         </tr>
-        <tr><td><strong>Chrome Music Lab <font color="#FBBC04">NEW!</font></strong></td>
+        <tr><td><strong>Chrome Music Lab</strong></td>
             <td>Music Tool</td>
             <td>
               https://musiclab.chromeexperiments.com
@@ -624,6 +624,11 @@ third_nav_title: Discover
               https://www.minipicbooks.com
             </td>
         </tr>
+        <tr><td><strong>Ministry of Culture in Taiwan <font color="#FBBC04">NEW!</font></strong></td>
+            <td>Resource site</td>
+            <td>
+              https://children.moc.gov.tw
+            </td>
         <tr><td><strong>Ministry of Defence</strong></td>
             <td>Resource site</td>
             <td>
@@ -798,7 +803,7 @@ third_nav_title: Discover
               https://pigeonhole.at
             </td>
         </tr>
-        <tr><td><strong>Pixlr <font color="#FBBC04">NEW!</font></strong></td>
+        <tr><td><strong>Pixlr</strong></td>
             <td>AI Tool</td>
             <td>
               https://pixlr.com/x
@@ -1327,7 +1332,7 @@ third_nav_title: Discover
                 https://www.artsteps.com
               </td>
           </tr>
-          <tr><td><strong>Audioboom</strong> </td>
+          <tr><td><strong>Audioboom</strong></td>
               <td>Audio Resources</td>
               <td>
                 https://audioboom.com
@@ -1619,6 +1624,8 @@ third_nav_title: Discover
                   <br>
                   https://acjc.padlet.org
                   <br>
+                  https://acsbr.padlet.org <font color="#FBBC04">NEW!</font>
+                  <br>
                   https://aitongschool3.padlet.org
                   <br>
                   https://anchorgreen.padlet.org
@@ -1636,6 +1643,8 @@ third_nav_title: Discover
                   https://bedoksouthsec.padlet.org
                   <br>
                   https://bendemeersecondary.padlet.org
+                  <br>
+                  https://bgss.padlet.org <font color="#FBBC04">NEW!</font>
                   <br>
                   https://broadricksec.padlet.org
                   <br>
@@ -1759,6 +1768,8 @@ third_nav_title: Discover
                   <br>
                   https://westgroveps.padlet.org
                   <br>
+                  https://westwoodpri.padlet.org <font color="#FBBC04">NEW!</font>
+                  <br>
                   https://woodgrove.padlet.org
                   <br>
                   https://woodgroveps.padlet.org
@@ -1798,7 +1809,7 @@ third_nav_title: Discover
                 https://api.playposit.com
               </td>
           </tr>
-          <tr><td><strong>Podbean</strong> </td>
+          <tr><td><strong>Podbean</strong></td>
               <td>Audio Resources</td>
               <td>
                 https://www.podbean.com
