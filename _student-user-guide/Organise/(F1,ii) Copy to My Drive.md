@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 ---
 <h1>(F1,ii) Copy to My Drive</h1>
 
-<p>There are three ways to copy a Lesson or Course to My Drive:</p>
+<p>There are three ways to copy a Lesson to My Drive:</p>
 
 <ul>
   <li>from MOE Library</li>

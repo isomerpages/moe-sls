@@ -29,10 +29,10 @@ image: /images/FaviconLight.png
 <li>Select the Class Group(s), followed by <strong>Choose</strong>.</li>
 <li><p>You may wish to rename the Resource Title, and edit the Permission Settings:</p>
 <ol style="list-style-type: lower-alpha;">
-<li>Lesson or Course Permissions:<ol style="list-style-type: lower-roman;">
-<li><strong>Allow teachers to copy/assign/publish and students to copy this Lesson/Course</strong></li>
+<li>Lesson Permissions:<ol style="list-style-type: lower-roman;">
+<li><strong>Allow teachers to copy/assign/publish and students to copy this Lesson</strong></li>
 <li><strong>Allow teachers and students to view print-friendly worksheet</strong></li>
-<li><strong>Allow students to reattempt Lesson/Course as self-study</strong></li>
+<li><strong>Allow students to reattempt Lesson as self-study</strong></li>
 </ol>
 </li>
 <li><p>Visibility</p>

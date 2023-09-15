@@ -28,7 +28,7 @@ image: /images/FaviconLight.png
 <ul>
 <li><strong>All</strong></li>
 <li><strong>My Drive</strong> - your own resources and those shared with you</li>
-<li><strong>Community Gallery</strong> - Lessons/Courses shared by teachers</li>
+<li><strong>Community Gallery</strong> - Lessons shared by teachers</li>
 <li><strong>MOE Library</strong> - Resources produced by MOE</li>
 <li><strong>App Library</strong> - App Resources integrated with SLS</li>
 <li><strong>External Resources</strong> - Whitelisted websites that can be embedded in SLS. <strong>(New in R19)</strong></li>
