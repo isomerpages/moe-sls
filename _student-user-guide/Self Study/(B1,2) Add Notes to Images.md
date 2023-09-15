@@ -29,4 +29,4 @@ image: /images/FaviconLight.png
 <li>Delete</li>
 <li>Comment On/Off</li>
 </ol>
-<p>You may also click the <strong>Comments</strong> icon to open the Card Details to view the full text or image in an Annotation Notes Card and <a target="_blank" href="/student-user-guide/self-study/comment-on-notes/">add a comment</a>. <img src="/images/1Student/SS-AnnotateImage1.png"></p>
+<p>You may also click the <strong>Comments</strong> icon to open the card Details to view the full text or image in an Annotation Notes card and <a target="_blank" href="/student-user-guide/self-study/comment-on-notes/">add a comment</a>. <img src="/images/1Student/SS-AnnotateImage1.png"></p>

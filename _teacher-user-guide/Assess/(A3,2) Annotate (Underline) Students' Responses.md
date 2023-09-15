@@ -15,7 +15,7 @@ image: /images/FaviconLight.png
 <h2 id="-annotations-underline-in-student-s-view-">Annotations (Underline) in Student's View</h2>
 <hr>
 <ol>
-<li>Enter the Monitor Assignment Page by clicking <strong>Monitor</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg"> on an Assignment Card.</li>
+<li>Enter the Monitor Assignment Page by clicking <strong>Monitor</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg"> on an Assignment card.</li>
 <li>Click a student’s name to navigate within the student's Assignment to begin marking. </li>
 <li>Alternatively, click the Question number in the Heatmap to View All Responses. You can also click on a student’s name to navigate to the particular Activity for the entire Class Group, starting with the student you clicked.</li>
 <li><p>Use your cursor to highlight any texts and select the colour. It is also possible to create multiple overlapping underlines.</p>

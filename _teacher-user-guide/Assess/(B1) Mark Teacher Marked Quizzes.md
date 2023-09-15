@@ -13,7 +13,7 @@ image: /images/FaviconLight.png
 <li>When a student had completed and submitted a Teacher-Marked Quiz, it will be indicated with the <strong>To Be Marked</strong> tag <img style="width:2rem; display: inline;" src="/images/Icons/TobeMarked.png">	in the Heatmap.</li>
 <li><p>The <strong>Pen</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pen.svg">  will also appear in the following places to indicate marking is needed:</p>
 <ul>
-<li>Assignment Card on homepage</li>
+<li>Assignment card on homepage</li>
 <li>Assignment page</li>
 <li><p>Monitor Assignment page</p>
 <p><img style="width: 25%;" src="/images/2Teacher/As-TeacherMarkedQuiz.png"></p>

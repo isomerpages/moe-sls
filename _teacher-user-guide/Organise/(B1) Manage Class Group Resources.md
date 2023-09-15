@@ -50,9 +50,9 @@ image: /images/FaviconLight.png
 <h2 id="move-resource-to-another-category-class-group">Move Resource to Another Category/Class Group</h2>
 <hr>
 <ol>
-<li><p>On the <strong>Resource</strong> tab in the Class Group, locate the Resource Card for the resource you wish to move. You may also use the search feature to locate the resource. </p>
+<li><p>On the <strong>Resource</strong> tab in the Class Group, locate the Resource card for the resource you wish to move. You may also use the search feature to locate the resource. </p>
 <p><img style="width: 100%;" src="/images/2Teacher/O-ClassGroupResource3.png"></p>
 </li>
-<li><p>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Resource Card for the resource you wish to move. Select <strong>Move to Category</strong> to move the resource to another Category, or <strong>Move Resource</strong> to move the resource to another Class Group.</p>
+<li><p>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Resource card for the resource you wish to move. Select <strong>Move to Category</strong> to move the resource to another Category, or <strong>Move Resource</strong> to move the resource to another Class Group.</p>
 </li><img style="width: 100%;" src="/images/2Teacher/O-ClassGroupResource4.png">
 </ol>

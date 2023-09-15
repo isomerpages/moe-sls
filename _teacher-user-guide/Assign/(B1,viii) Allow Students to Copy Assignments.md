@@ -22,7 +22,7 @@ image: /images/FaviconLight.png
 </li>
 <li><p>From the Lesson Editor page, click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> on the Lesson Details card. </p>
 </li>
-<li>From within an Assignment, open the right menu and select <strong>Edit</strong>. Click the <strong>Pencil</strong> icon on the Lesson Details Card. </li>
+<li>From within an Assignment, open the right menu and select <strong>Edit</strong>. Click the <strong>Pencil</strong> icon on the Lesson Details card. </li>
 <li>In the Lesson Details subpage, under Permissions, select the checkbox beside <strong>Allow teachers to copy/assign/publish and students to copy this Lesson.</strong></li>
 <li>To allow students to reattempt the Assignment for self-study, select the checkbox beside <strong>Allow students to reattempt as self-study Lesson.</strong></li>
 <li><p>Click <strong>Save</strong> to confirm your selection and <strong>X</strong> to close the subpage.</p>

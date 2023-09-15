@@ -16,7 +16,7 @@ image: /images/FaviconLight.png
 </ol>
 <h2 id="-assignment-summary-page-">Assignment Summary page</h2>
 <hr>
-<p>On the Assignment Summary page, you will see an Assignment Card for the selected Class Group(s). Each Class Group's Assignment Settings can be modified by clicking the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> to access the Assignment Settings subpage.</p>
+<p>On the Assignment Summary page, you will see an Assignment card for the selected Class Group(s). Each Class Group's Assignment Settings can be modified by clicking the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> to access the Assignment Settings subpage.</p>
 <p>You may modify the following in the Assignment Settings subpage:</p>
 <ul>
 <li><p><strong>Students Assigned</strong> - add or remove students by checking or unchecking the boxes next to the students' names. You may select students by Class Group or Subgroup by clicking the dropdown arrow to show the students' names according to their index number.</p>

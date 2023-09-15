@@ -31,7 +31,7 @@ image: /images/FaviconLight.png
 <li><p>By default, the Search Results are sorted according to Relevance. You can choose to sort the results by recency by selecting Latest from the Sort By dropdown list.</p>
 <p><img style="width: 100%;" src="/images/2Teacher/AU-AddExisting1.png"></p>
 </li>
-<li><p>Click on the Lesson Card to view its details. You will see the following on the card:</p>
+<li><p>Click on the Lesson card to view its details. You will see the following on the card:</p>
 <ul>
 <li>Lesson title, cover and description (if any)</li>
 <li>View Teacher Notes toggle - You can toggle on/off to view Teacher Notes (if any)</li>
@@ -58,6 +58,6 @@ image: /images/FaviconLight.png
 <li><p>Click <strong>Choose</strong> to add the Activities/Sections into your Lesson.</p>
 <p><img style="width: 100%;" src="/images/2Teacher/AU-AddExisting2.png"></p>
 </li>
-<li><p>The chosen Activities will inherit the Activity Details from the Lesson in Library/Starred Resources. To view and edit the Activity Notes and Active Learning Process in the <strong>Activity Details</strong> Card, click the <strong>Settings</strong> icon on the <strong>Activity Details</strong> Card. These fields are optional and will not be visible to students.</p>
+<li><p>The chosen Activities will inherit the Activity Details from the Lesson in Library/Starred Resources. To view and edit the Activity Notes and Active Learning Process in the <strong>Activity Details</strong> card, click the <strong>Settings</strong> icon on the <strong>Activity Details</strong> card. These fields are optional and will not be visible to students.</p>
 </li>
 </ol>

@@ -27,7 +27,7 @@ image: /images/FaviconLight.png
 <p><img style="width: 100%;" src="/images/2Teacher/O-Star.png"></p>
 
 <ul>
-<li>a Question by clicking the <strong>Star</strong> icon on the Component Cards</li>
+<li>a Question by clicking the <strong>Star</strong> icon on the Component cards</li>
 </ul>
 
 <p><img style="width: 100%;" src="/images/2Teacher/O-Star1.png"></p>
@@ -44,7 +44,7 @@ image: /images/FaviconLight.png
 
 <hr>
 
-<p>You can star a Resource (Lesson, Question, or Media Object) by clicking the Resource Card, followed by the <strong>Star</strong> icon found at the top of the subpage.</p>
+<p>You can star a Resource (Lesson, Question, or Media Object) by clicking the Resource card, followed by the <strong>Star</strong> icon found at the top of the subpage.</p>
 
 <p><img style="width: 50%;" src="/images/2Teacher/O-Star2.png"></p>
 

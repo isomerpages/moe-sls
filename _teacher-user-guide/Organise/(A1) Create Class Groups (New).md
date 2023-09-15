@@ -87,7 +87,7 @@ image: /images/FaviconLight.png
 <h2>Edit a Class Group Details</h2>
 <hr>
 <ol>
-<li>On the Class Group page, select the relevant <strong>Class Group Card</strong>.</li>
+<li>On the Class Group page, select the relevant <strong>Class Group card</strong>.</li>
 <li>Click the <strong>Admin</strong> Tab, followed by <strong>View &amp; Edit</strong>.</li>
 <li>In the <strong>Edit Details</strong> subpage, you can enter a brief description of your Class Group, and add teachers and students. If it is a Group created within SLS, you can also select a Subject and Level from the respective dropdown lists.</li>
 <p><u>Note</u>: Tagging a Subject and Level to a Class Group will allow teachers and students to view the Learning Progress of this Class Group.</p>

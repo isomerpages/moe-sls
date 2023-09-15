@@ -50,7 +50,7 @@ image: /images/FaviconLight.png
     <li>You may search for Lessons <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">across MOE Library, Community Gallery and My Drive</a>. You can also apply Search Filter to narrow down your search.
 			<br><u>Note</u>: You are unable to search for Starred Resources.
     </li>
-    <li>Click the <strong>Lesson Card</strong> or <strong>View Details</strong> icon to view the Lesson Details.
+    <li>Click the <strong>Lesson card</strong> or <strong>View Details</strong> icon to view the Lesson Details.
         <br>
 <img style="width: 25%;" alt="D-AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png">		
     </li>
