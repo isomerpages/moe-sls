@@ -11,7 +11,7 @@ image: /images/FaviconLight.png
 <p>Teachers may set Assignments as Assessments to better control assignments. In an Assessment, you cannot access non-examination material (e.g. external links) unless they have been whitelisted for use in the assessment's network. </p>
 <h3 id="about-assignments">About Assignments</h3>
 <hr>
-<p>Each assignment contains the following information, reflected on each Assignment Card: </p>
+<p>Each assignment contains the following information, reflected on each Assignment card: </p>
 
 <ol>
 <li>Title - Assignment Title</li>
@@ -24,7 +24,7 @@ image: /images/FaviconLight.png
 <li><p>Assignment Sharing icon - This icon <img style="width:1.5rem; display: inline;" src="/images/Icons/SharingEnabled.svg"> will appear if your teacher has enabled sharing of the Assignment with your classmates.</p>
 </li>
 <li>Gamification icon - This icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Game.svg"> will appear if your teacher has enabled Gamification for the Assignment. </li>
-<li>Colour Banner - The colour shown on the Assignment Card is based on the type of subject class assigned. Each type of subject class has a unique colour.</li>
+<li>Colour Banner - The colour shown on the Assignment card is based on the type of subject class assigned. Each type of subject class has a unique colour.</li>
 <li>Label - Assignments that are recently assigned (up to 3 days ago) will be labelled "New". Existing Assignments that have sections added to them will be labelled “New Section”</li>
 <li>View Details icon - This icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> shows the Lesson Details subpage, which includes the Sections/Activities and Lesson Description.</li>
 </ol>
@@ -36,7 +36,7 @@ image: /images/FaviconLight.png
 <h3 id="attempt-an-assignment">Attempt an Assignment</h3>
 <hr>
 <ol>
-<li>Once you access an Assignment via the Assignment Card, you will be brought to the cover page of the Assignment.</li>
+<li>Once you access an Assignment via the Assignment card, you will be brought to the cover page of the Assignment.</li>
 <li>Begin the Assignment by clicking <strong>Enter</strong> on the Assignment Cover.</li>
 <li>You will be brought to the first activity in the Assignment or the cover page of the first Section.</li>
 </ol>

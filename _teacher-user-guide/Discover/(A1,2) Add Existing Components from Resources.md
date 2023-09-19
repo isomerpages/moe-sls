@@ -77,7 +77,7 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
 
 <p><u>Note</u>: Only images can be added on a Lesson Cover from Library and Starred Resources.</p>
 
-<p>The following media files of Lessons and Courses can be added from My Drive, Community Gallery, MOE Library, and Starred Resources.</p>
+<p>The following media files from Lessons can be added from My Drive, Community Gallery, MOE Library, and Starred Resources.</p>
 
 <ul>
   <li>Images</li>

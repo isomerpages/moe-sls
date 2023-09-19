@@ -24,7 +24,7 @@ image: /images/FaviconLight.png
 <h2>Star an App</h2>
 <hr>
 <ol>
-<li>From the Search in App Library page, click the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> on the App Card to open the App Details Card.</li>
+<li>From the Search in App Library page, click the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> on the App card to open the App Details card.</li>
 <li>Click the <strong>Star</strong> icon to star an App. Starred Apps can be found in <a target="_blank" href="/teacher-user-guide/organise/star-resources/">your Starred Resources </a>.</li>
 </ol>
 <h2>Search the App Library</h2>

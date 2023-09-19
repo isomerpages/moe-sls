@@ -28,7 +28,7 @@ image: /images/FaviconLight.png
 <h2 id="edit-or-delete-a-topic-from-class-group-forum">Edit or Delete a Topic from Class Group Forum</h2>
 <hr>
 <ol>
-<li>Only teachers can edit and/or delete a Topic Card. </li>
+<li>Only teachers can edit and/or delete a Topic card. </li>
 <li>To edit a Topic, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Edit</strong> to edit the Header, Feature Image, Body, and Keyword Tags, enable notifications to the class group, or grant Observers and students the permission to create posts. Click <strong>Save</strong> to confirm.</li>
 <li>To delete a Topic, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Delete</strong>. Click <strong><strong>OK</strong></strong> in the pop-up message to confirm.</li>
 </ol>

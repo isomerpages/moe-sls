@@ -38,7 +38,7 @@ image: /images/FaviconLight.png
 </ul>
 </li>
 <li>Click <a target="_blank" href="/teacher-user-guide/author/add-components/">here</a> to find out about how to Add/Edit Components.</li>
-<li>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> to find out about editing the Quiz Detail Card.</li>
+<li>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> to find out about editing the Quiz Detail card.</li>
 </ol>
 <h2 id="edit-delete-and-reorder-pages-in-a-quiz-">Edit, Delete and Reorder pages in a Quiz</h2>
 <hr>

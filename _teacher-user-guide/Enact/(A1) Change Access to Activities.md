@@ -16,7 +16,7 @@ image: /images/FaviconLight.png
 <hr>
 <ol>
 <li>For new Assignments, from the Assignment Summary page, click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> on the card to open the Assignment Settings subpage. </li>
-<li>For existing Assignments, from the Assignments page, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Assignment Card and click <strong>Manage</strong> to view the Assignment Settings subpage. Alternatively, enter the Assignment, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the header and click <strong>Manage</strong> <strong>Assignment Settings</strong>.</li>
+<li>For existing Assignments, from the Assignments page, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Assignment card and click <strong>Manage</strong> to view the Assignment Settings subpage. Alternatively, enter the Assignment, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the header and click <strong>Manage</strong> <strong>Assignment Settings</strong>.</li>
 <li>Click the <strong>Students Assigned</strong> tab. By default, all students will be selected. To de-select the Form Class or student, uncheck the boxes next to their names.</li>
 <li>The default view of the listing shows the Form Classes. You may also view the students by subgroup (if any) from the dropdown <strong>View by Form Class/Subgroup</strong>.</li>
 <li><p>Click <strong>Save</strong> and <strong>X</strong> to confirm. </p>

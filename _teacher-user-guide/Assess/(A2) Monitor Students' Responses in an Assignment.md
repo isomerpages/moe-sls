@@ -10,7 +10,7 @@ image: /images/FaviconLight.png
 <hr>
 <p>You can monitor your students' Assignment progress on the Monitor Assignment page via three ways:</p>
 <ul>
-<li>From the Assignment Card, click the <strong>Monitoring</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg">.</li>
+<li>From the Assignment card, click the <strong>Monitoring</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg">.</li>
 <li>From within the Assignment, click the <strong>Monitoring</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg"> in the header.</li>
 <li>From the <strong>Lesson Plan</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/courseplan32.svg">, click the <strong>Monitoring</strong> icon<img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg">.</li>
 </ul>
@@ -49,7 +49,7 @@ image: /images/FaviconLight.png
 <li><p>To comment on a response, click the <strong>Add</strong> on the bottom right of the Response card.</p>
 </li>
 <li>After typing in the comment, click <strong>Post</strong>.</li>
-<li>You can bookmark an Interactive Thinking Tool Card by clicking the <strong>Bookmark</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Bookmark.svg">. This will allow you to filter the cards in the Interaction Board. Bookmarked cards will also be displayed first.</li>
+<li>You can bookmark an Interactive Thinking Tool card by clicking the <strong>Bookmark</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Bookmark.svg">. This will allow you to filter the cards in the Interaction Board. Bookmarked cards will also be displayed first.</li>
 </ol>
 <h2 id="monitor-a-poll">Monitor a Poll</h2>
 <hr>

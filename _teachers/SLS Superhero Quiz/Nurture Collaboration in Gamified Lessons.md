@@ -31,7 +31,7 @@ image: /images/FaviconLight.png
 </ul>
 <br><a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture2.png"> <img style="width: 100%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture2.png"></a>
 
-<li>Assign the course and  <a target="_blank" href="/teacher-user-guide/gamify/display-leaderboard-for-students/">watch your students vie to be at the top of the Leaderboard</a>!</li>
+<li>Assign the lesson and  <a target="_blank" href="/teacher-user-guide/gamify/display-leaderboard-for-students/">watch your students vie to be at the top of the Leaderboard</a>!</li>
 </ol>
 <h2>Related articles</h2>
 <hr>

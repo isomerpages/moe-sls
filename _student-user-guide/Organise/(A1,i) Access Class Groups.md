@@ -11,8 +11,8 @@ image: /images/FaviconLight.png
 <hr>
 <ol>
     <li>From the homepage, open the left menu and click <strong>Class Groups</strong>. Alternatively, click <strong>Class Groups</strong> under the Class Groups tab.</li>
-    <li>By default, you will be in the <strong>Current</strong> tab of the Class Groups page, showing all your current Class Groups. Click the <strong>Class Group Card</strong> to access the respective Class Groups.</li>
-    <li>Class Groups Cards that are coloured indicate the Class Group with your assigned subjects. You can view your <a target="_blank" href="/student-user-guide/track-progress/access-learning-progress/">Learning Progress</a> for these subjects.</li>
+    <li>By default, you will be in the <strong>Current</strong> tab of the Class Groups page, showing all your current Class Groups. Click the <strong>Class Group card</strong> to access the respective Class Groups.</li>
+    <li>Class Groups cards that are coloured indicate the Class Group with your assigned subjects. You can view your <a target="_blank" href="/student-user-guide/track-progress/access-learning-progress/">Learning Progress</a> for these subjects.</li>
     <li>To access past Class Groups, click <a target="_blank" href="/student-user-guide/organise/access-past-class-groups/">Access Past Class Groups</a>.</li>
 </ol>
 <p><u>Note</u>: You can view your Class Notifications from here. To find out more, click <a target="_blank" href="/student-user-guide/notify/about-notifications/">here</a>.</p>

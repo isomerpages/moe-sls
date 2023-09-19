@@ -40,7 +40,7 @@ image: /images/FaviconLight.png
 <ol>
 <li>On the Section Cover page, the Section Details card can be expanded/hidden by clicking the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg">.</li>
 <li>To edit the Section Details card, click <strong>Settings</strong> icon on the card. The following optional details can be edited:<ul>
-<li>Section Notes - The Notes are visible only to Teachers with whom the Course is shared.</li>
+<li>Section Notes - The Notes are visible only to Teachers with whom the Lesson is shared.</li>
 <li>Learning Experience - <em>**</em>You can change the Learning Experience. However, your existing activities, if any, will remain unchanged.</li>
 </ul>
 </li>

@@ -10,7 +10,7 @@ image: /images/FaviconLight.png
 <p>Starred Resources can be found in the left menu, under <strong>Resources</strong>.</p>
 <h2>Starring from Search Results</h2>
 <hr>
-<p>You can star a Lesson and an App by clicking the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> found on the top right of the Resource Card, followed by the <strong>Star</strong> icon found at the top of the subpage.</p>
+<p>You can star a Lesson and an App by clicking the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> found on the top right of the Resource card, followed by the <strong>Star</strong> icon found at the top of the subpage.</p>
 <img style="width: 80%;" src="/images/1Student/O-ResourceSubpage.png">
 <h2>Starring from My Drive folders</h2>
 <hr>

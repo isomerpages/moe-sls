@@ -61,7 +61,7 @@ image: /images/FaviconLight.png
 <hr>
 <ol>
 <li>From the Monitor Assignment page, select the <strong>Game Experience</strong> tab, followed by <strong>Team</strong> tab.</li>
-<li><p>Just above the first Team Card, click <strong>Manage Game Teams</strong>. </p>
+<li><p>Just above the first Team card, click <strong>Manage Game Teams</strong>. </p>
 <p><img style="width: 50%;" src="/images/2Teacher/G-CreateGameTeams4.png"></p>
 </li>
 <li><p>You can make add more Game Teams by select either Apply Subgroups As Teams to use existing subgroups or Add Team to create new teams.</p>

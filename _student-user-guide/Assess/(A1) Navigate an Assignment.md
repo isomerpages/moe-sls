@@ -15,7 +15,7 @@ image: /images/FaviconLight.png
 <li>To navigate an Assignment, click the <strong>Lesson Plan</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/courseplan32.svg">  found in the Activity List. </li>
 <li>The Lesson Plan will indicate the Assignment title, Class Group, Start and Due Date of the Assignment, Assignment Status and Sharing permission (if any). It will also reflect your Assignment completion process. Completed Activities/Sections are indicated with a tick <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityTick.svg"> or <img style="width:1.5rem; display: inline;" src="/images/Icons/SectionCompleted32.svg"></li>
 <li>The yellow navigation arrow <img style="width:1.5rem; display: inline;" src="/images/Icons/YellowArrow.svg"> will indicate the current Activity/Section you are on.</li>
-<li>Within the individual Section Cards, you will see details such as the Section title, Section Start and Due Dates, Section completion status, and the number of Activities/Team Quizzes (if any) the Section contains.
+<li>Within the individual Section cards, you will see details such as the Section title, Section Start and Due Dates, Section completion status, and the number of Activities/Team Quizzes (if any) the Section contains.
 	<ol style="list-style-type: lower-alpha;">
 <li>To view the Activities within a Section, click <strong>Show Activities ( )</strong>. The number in parenthesis shows the number of activities in a particular Section.</li>
 </ol>

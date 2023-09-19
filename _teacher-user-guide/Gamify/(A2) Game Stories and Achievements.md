@@ -40,19 +40,19 @@ image: /images/FaviconLight.png
 </li>
 <li><p>In the Gamification subpage, click <strong>Add</strong> <strong>Game Story</strong>/<strong>Achievement</strong>.</p>
 </li>
-<li>Alternatively, click the <strong>Overflow</strong> (<strong>3</strong>-<strong>dot</strong> icon) on the Game Story/Achievement Card to <strong>Add Game Story/Achievement After/Before</strong>.</li>
+<li>Alternatively, click the <strong>Overflow</strong> (<strong>3</strong>-<strong>dot</strong> icon) on the Game Story/Achievement card to <strong>Add Game Story/Achievement After/Before</strong>.</li>
 </ol>
 <h2 id="edit-game-story-or-achievement">Edit Game Story or Achievement</h2>
 <hr>
 <ol>
 <li>In the Gamification subpage, click <strong>Game Story</strong>/<strong>Achievement</strong>.</li>
-<li>Click <strong>Edit</strong> under the <strong>Game Story</strong>/<strong>Achievement Card</strong>. You will be able to edit the Title, Description and Image.</li>
+<li>Click <strong>Edit</strong> under the <strong>Game Story</strong>/<strong>Achievement card</strong>. You will be able to edit the Title, Description and Image.</li>
 <li>Click <strong>Save</strong> to confirm your changes. </li>
 </ol>
 <h2 id="delete-game-story-or-achievement">Delete Game Story or Achievement</h2>
 <hr>
 <ol>
-<li>Click the <strong>Overflow</strong> (<strong>3</strong>-<strong>dot</strong> icon) on the <strong>Game Story</strong>/<strong>Achievement Card</strong> and select <strong>Delete</strong>.</li>
+<li>Click the <strong>Overflow</strong> (<strong>3</strong>-<strong>dot</strong> icon) on the <strong>Game Story</strong>/<strong>Achievement card</strong> and select <strong>Delete</strong>.</li>
 <li>Click <strong>OK</strong> to confirm.</li>
 </ol>
 <h2 id="add-conditions-for-game-story-or-achievement">Add Conditions for Game Story or Achievement</h2>
@@ -105,7 +105,7 @@ image: /images/FaviconLight.png
 <ul>
 <li><p>at the start of a section. (as an accordion)</p>
 <ol>
-<li><p>In the Game Story/Achievement Card, click <strong>Add Conditions</strong>. </p>
+<li><p>In the Game Story/Achievement card, click <strong>Add Conditions</strong>. </p>
 <p> <img style="width: 50%;" src="/images/2Teacher/G-GameStory3.png"></p>
 </li>
 <li><p>In the Add Conditions subpage, click <strong>Add Conditions</strong> and select <strong>Section Start</strong>.</p>
@@ -122,7 +122,7 @@ image: /images/FaviconLight.png
 </li>
 <li><p>at the end of a section. (as an accordion)</p>
 <ol>
-<li>In the Game Story/Achievement Card, click <strong>Add Conditions</strong>.</li>
+<li>In the Game Story/Achievement card, click <strong>Add Conditions</strong>.</li>
 <li>In the Add Conditions subpage, click <strong>Add Conditions</strong> and select <strong>Section Completion</strong>.</li>
 <li>From the left dropdown menu, choose a <strong>Section</strong> within your Lesson .</li>
 <li>Click <strong>Save</strong> to proceed.</li>
@@ -131,7 +131,7 @@ image: /images/FaviconLight.png
 </li>
 <li><p>after students score at least X % for the Quiz. (as an accordion)</p>
 <ol>
-<li>In the Game Story/Achievement Card, click <strong>Add Conditions</strong>.</li>
+<li>In the Game Story/Achievement card, click <strong>Add Conditions</strong>.</li>
 <li>In the Add Conditions subpage, click <strong>Add Conditions</strong> and select <strong>Awarded Marks for Quiz</strong>.</li>
 <li>From the left dropdown menu, choose a <strong>Quiz Activity</strong>.</li>
 <li><p>Enter in the minimum percentage required to trigger the Game Story/Achievement. </p>
@@ -146,7 +146,7 @@ image: /images/FaviconLight.png
 </li>
 <li><p>after students receive a Game Story. (as an accordion)</p>
 <ol>
-<li>In the Game Story/Achievement Card, click <strong>Add Conditions</strong>.</li>
+<li>In the Game Story/Achievement card, click <strong>Add Conditions</strong>.</li>
 <li>In the Add Conditions subpage, click <strong>Add Conditions</strong> and select <strong>Game Story</strong>.</li>
 <li>From the left dropdown menu, choose a <strong>Game Story</strong>. </li>
 <li>Click <strong>Save</strong> to proceed.</li>
@@ -155,7 +155,7 @@ image: /images/FaviconLight.png
 </li>
 <li><p>after students achieve Level X. (as an accordion)</p>
 <ol>
-<li>In the Game Story/Achievement Card, click <strong>Add Conditions</strong>.</li>
+<li>In the Game Story/Achievement card, click <strong>Add Conditions</strong>.</li>
 <li>In the Add Conditions subpage, click <strong>Add Conditions</strong> and select <strong>Level</strong>.</li>
 <li><p>Enter the Level required to trigger the Game Story/Achievement. </p>
 <p><img style="width: 50%;" src="/images/2Teacher/G-GameStory6.png"></p>
@@ -166,7 +166,7 @@ image: /images/FaviconLight.png
 </ol>
 </li>
 <li>after students achieve an achievement. (For Achievements only) (as an accordion)<ol>
-<li>In the Achievement Card, click <strong>Add Conditions</strong>.</li>
+<li>In the Achievement card, click <strong>Add Conditions</strong>.</li>
 <li>In the Add Conditions subpage, click <strong>Add Conditions</strong> and select <strong>Achievement</strong>.</li>
 <li>From the left dropdown menu, choose an <strong>Achievement</strong>.</li>
 <li>Click <strong>Save</strong> to proceed.</li>

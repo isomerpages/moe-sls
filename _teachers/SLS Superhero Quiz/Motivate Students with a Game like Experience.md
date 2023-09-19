@@ -21,13 +21,13 @@ image: /images/FaviconLight.png
   <h2>How to do it</h2>
   <hr>
   <ol>
-    <li>Create a new course or open an existing course (copied from the MOE Library or Community Gallery to My Drive).</li>
+    <li>Create a new lesson or open an existing lesson (copied from the MOE Library or Community Gallery to My Drive).</li>
     
 
 <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Tip!
 </p> 
          <ul>
-          <li>Save time and use ready-made and curriculum-aligned courses.</li>
+          <li>Save time and use ready-made and curriculum-aligned lessons.</li>
           <li>Search in the MOE Library or Community Gallery and copy it to My Drive.</li>
           <li>Make your search quicker by using keywords and relevant filters.</li>
         </ul>
@@ -36,7 +36,7 @@ image: /images/FaviconLight.png
           <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify.png"> <img style="width: 50%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify.png"></a>
         </div>
 
-<li>In the course, <a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">enable gamification</a>.</li>
+<li>In the lesson, <a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">enable gamification</a>.</li>
     <li>You can save time by using the pre-defined XP and Level settings or <a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">edit them based on your preference</a>. This setting will allow you to view your students' learning progress and provide feedback to them in the lesson.</li>
     <div style="text-align:center;">
       <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify2.png"> <img style="width: 50%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify2.png"></a>
@@ -61,5 +61,5 @@ image: /images/FaviconLight.png
   </ol>
 <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Tip!
 </p>
-<ul><li>Ensure that your gamified lesson is running as intended by previewing the course as a student.</li>
+<ul><li>Ensure that your gamified lesson is running as intended by previewing the lesson as a student.</li>
 <li><a target="_blank" href="/teacher-user-guide/gamify/game-stories-and-achievements/">Need more inspiration</a> on how to create a smooth gamified lesson?</li></ul>

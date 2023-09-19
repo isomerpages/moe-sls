@@ -6,9 +6,9 @@ third_nav_title: Gamify
 image: /images/FaviconLight.png
 ---
 <h1 id="display-leaderboard-for-students-improved-">(B1) Display Leaderboard for Students (Improved)</h1>
-<p>The gamification Leaderboard can be turned on and off anytime during the Course. You can manage Leaderboard settings from:</p>
+<p>The gamification Leaderboard can be turned on and off anytime during the Lesson. You can manage Leaderboard settings from:</p>
 <ol>
-<li><p>Assignment Settings subpage - before the Course is assigned.</p>
+<li><p>Assignment Settings subpage - before the Lesson is assigned.</p>
 <ol style="list-style-type: lower-alpha;">
 <li>From the Assignment Settings subpage, select the <strong>Gamification</strong> tab. </li>
 <li><p>Under Gamification Settings, select the checkbox if you wish to display the Individual and/or Team Leaderboard for students. </p>
@@ -16,14 +16,14 @@ image: /images/FaviconLight.png
 </li>
 </ol>
 </li>
-<li><p>Manage Assignment Settings - after the Course has been assigned.</p>
+<li><p>Manage Assignment Settings - after the Lesson has been assigned.</p>
 <ol style="list-style-type: lower-alpha;">
 <li>From within an Assignment - Open the right menu and select Manage Assignment Settings. The Assignment Settings subpage will appear.</li>
 <li>From the Manage Assignment Settings page, select the <strong>Gamification</strong> tab. </li>
 <li>Under Gamification Settings, select the checkbox if you wish to display the Individual and/or Team Leaderboard for students. </li>
 </ol>
 </li>
-<li><p>Monitor Assignment page - after the Course has been assigned.</p>
+<li><p>Monitor Assignment page - after the Lesson has been assigned.</p>
 <ol style="list-style-type: lower-alpha;">
 <li><p>From the Monitor Assignment page, select the <strong>Game Experience</strong> tab, </p>
 <ol style="list-style-type: lower-roman;">

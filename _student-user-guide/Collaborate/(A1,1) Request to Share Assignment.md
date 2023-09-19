@@ -9,7 +9,7 @@ image: /images/FaviconLight.png
 <ol>
 <li><p>When your teacher has enabled Assignment Sharing, you can initiate a share request with your peers. There are three ways to identify if an assignment can be shared:</p>
 <ul>
-<li>From the Assignment Card, the <strong>Assignment Sharing</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/SharingEnabled.svg"> is shown next to Lesson</li>
+<li>From the Assignment card, the <strong>Assignment Sharing</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/SharingEnabled.svg"> is shown next to Lesson</li>
 <li><p>In the assignment, open the right menu. The <strong>Share</strong> button will be shown if enabled.</p>
 	<p><u>Note</u>: If the <strong>Share</strong> button is greyed out, it means that your teacher has not enabled Assignment Sharing.</p>
 </li>

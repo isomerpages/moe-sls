@@ -6,14 +6,14 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 ---
 <h1 id="view-assignments">(D1,i) View Assignments</h1>
-<h2 id="-assignment-cards-">Assignment Cards</h2>
+<h2 id="-assignment-cards-">Assignment cards</h2>
 <hr>
 <ul>
-<li>Assignments that have been recently assigned (up to 3 days) will have a New label on the Assignment Card.</li>
+<li>Assignments that have been recently assigned (up to 3 days) will have a New label on the Assignment card.</li>
 </ul>
 <p><img style="width: 25%;" src="/images/2Teacher/As-TeacherMarkedQuiz.png"></p>
 <ul>
-<li>The progress bar in the Assignment Cards shows the completion status of students in the Class Group.<ul>
+<li>The progress bar in the Assignment cards shows the completion status of students in the Class Group.<ul>
 <li>Yellow portion represents the proportion of students who have not started the assignment.</li>
 <li>Blue portion represents the proportion of students who have completed the assignment.</li>
 <li>Red portion represents the proportion of students whose assignments are overdue.</li>
@@ -34,7 +34,7 @@ image: /images/FaviconLight.png
 </li>
 <li>You may search for Assignments on the Assignments page by entering the title in the Search Bar. You may apply the <strong>Assignment Status</strong> and <strong>Class Group</strong> filters. Click <strong>Apply</strong> to perform your selection. </li>
 <li>For a more refined search, click <strong>Filter</strong> to filter the Assignments by Assignment Status, Class Group, and Marking Status (for Assignments with Teacher-Marked Quizzes only). Click <strong>Apply</strong> to perform your selection.</li>
-<li>You can choose to view your Assignments in Card view <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">.</li>
+<li>You can choose to view your Assignments in card view <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">.</li>
 <li><p>Assignments in the List view are sorted according to the latest Start Date. You may also sort the Assignments according to the Assignment Title, and Due Date. Assessments in List View will be indicated by an orange tag beside the Title.</p>
 <p><img style="width: 100%;" src="/images/2Teacher/As-AssignmentView.png"></p>
 </li>

@@ -12,7 +12,7 @@ image: /images/FaviconLight.png
 <p>There are 3 ways to move an Assignment:</p>
 <ol>
 <li>From homepage under the <strong>Assignments</strong> tab - Click the Assignment card. Open the right menu and select <strong>Move</strong>. The Move Assignment subpage will appear.</li>
-<li>From <strong>Assignments</strong> in the left menu - Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Assignment Card and click <strong>Move Assignment.</strong> The Move Assignment subpage will appear.</li>
+<li>From <strong>Assignments</strong> in the left menu - Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Assignment card and click <strong>Move Assignment.</strong> The Move Assignment subpage will appear.</li>
 <li>From within an Assignment - Open the right menu and select <strong>Move</strong>. The Move Assignment subpage will appear.</li>
 </ol>
 <p><img style="width: 50%;" src="/images/2Teacher/AS-MoveAssignment1.png"></p>

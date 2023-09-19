@@ -16,7 +16,7 @@ image: /images/FaviconLight.png
 <p>Self-Study List is accessible from the homepage. Open the left menu from the header and click <strong>Self-Study List</strong>.</p>
 <h3>About MOE Library</h3>
 <hr>
-<p>The MOE Library contains resources created and curated by the Ministry of Education (MOE) that complement your learning in school. You have access to all the Lessons and Courses for all levels and subjects.</p>
+<p>The MOE Library contains resources created and curated by the Ministry of Education (MOE) that complement your learning in school. You have access to Lessons for all levels and subjects.</p>
 <p><u>Note</u>: Due to certain licensing agreements, you may be unable to load some images, audio files, videos and documents if you are not taking a subject or are accessing the SLS outside Singapore.</p>
 <h3>About Class Group Resources</h3>
 <hr>

@@ -23,7 +23,7 @@ image: /images/FaviconLight.png
 <h2 id="edit-schedule-of-an-existing-assignment-">Edit Schedule of an Existing Assignment</h2>
 <hr>
 <ol>
-<li><p>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on an Assignment Card and click <strong>Manage</strong>. Alternatively, enter the Assignment, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) to open the right menu and select <strong>Manage Assignment Settings</strong>.</p>
+<li><p>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on an Assignment card and click <strong>Manage</strong>. Alternatively, enter the Assignment, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) to open the right menu and select <strong>Manage Assignment Settings</strong>.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/AS-SheduleAssignment2.png"></p>
 </li>
 <li><p>On the Assignment Settings subpage, click the <strong>Schedule</strong> tab.</p>

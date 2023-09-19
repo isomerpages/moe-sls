@@ -16,4 +16,4 @@ image: /images/FaviconLight.png
 <br>
 <li>Archived Class Groups will also be found under the Past tab.</li>
 </ol>
-<p><u>Note</u>: There is no way to delete a Class Group. Assignments, Resources, Forum Cards and Apps found within will still be viewable.</p>
+<p><u>Note</u>: There is no way to delete a Class Group. Assignments, Resources, Forum cards and Apps found within will still be viewable.</p>

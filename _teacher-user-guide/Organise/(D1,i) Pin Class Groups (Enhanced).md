@@ -10,9 +10,9 @@ image: /images/FaviconLight.png
 <ol>
   <li>From the homepage, open the left menu and click <strong>Class Groups</strong>, followed by <strong>All Class Groups</strong>.</li>
   <li>Click <strong>Add New</strong>.</li>
-  <li>A Class Group can be pinned and unpinned by clicking the <strong>Pin</strong> icon on the top right of the Class Group Card.<br>
+  <li>A Class Group can be pinned and unpinned by clicking the <strong>Pin</strong> icon on the top right of the Class Group card.<br>
     <img style="width: 100%;" src="/images/2Teacher/O-PinnedClassGroups.png"></li>
-  <li>Alternatively, enter a Class Group by clicking the <strong>Class Group Card</strong> from either the homepage (under the Class Groups tab) or Class Group page. Click the <strong>Pin</strong> icon found beside the Class Group name.</li>
+  <li>Alternatively, enter a Class Group by clicking the <strong>Class Group card</strong> from either the homepage (under the Class Groups tab) or Class Group page. Click the <strong>Pin</strong> icon found beside the Class Group name.</li>
   <li>Pinning a Class Group allows quick access to the Class Group. Below is a list of interactions that take place when a Class Group is pinned:
     <ul>
       <li>Pinned Class Groups will appear first under the Class Groups tab on the homepage.</li>

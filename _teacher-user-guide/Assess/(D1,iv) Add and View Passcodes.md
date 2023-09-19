@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 ---
 <h1 id="add-and-view-passcodes">(D1,iv) Add and View Passcodes</h1>
-<p>You can add a Passcode to Lessons to restrict students’ access to these resources. Students are required to enter the Passcode (case-sensitive) when they click the Assignment Card.</p>
+<p>You can add a Passcode to Lessons to restrict students’ access to these resources. Students are required to enter the Passcode (case-sensitive) when they click the Assignment card.</p>
 <h2 id="add-a-passcode">Add a Passcode</h2>
 <hr>
 <ol>

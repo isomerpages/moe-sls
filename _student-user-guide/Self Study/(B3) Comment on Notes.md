@@ -18,14 +18,14 @@ image: /images/FaviconLight.png
 </li>
 <li>Once done, click <strong>Post</strong>.</li>
 <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) to Edit, Delete or turn Comment On/Off (if you are the creator of the note).</li>
-<li>The number of comments will be indicated in parenthesis ( ) on the Card Details subpage, and on the Notes card.</li>
+<li>The number of comments will be indicated in parenthesis ( ) on the card Details subpage, and on the Notes card.</li>
 </ol>
 <h2 id="change-commenting-permissions">Change Commenting Permissions</h2>
 <hr>
 <ol>
 <li>If you are the creator of the note, you can turn Commenting On/Off.</li>
 <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on a Note card and select <strong>Comment On</strong> or <strong>Comment Off</strong>.</li>
-<li>You can also change the permissions from the Card Details subpage.</li>
+<li>You can also change the permissions from the card Details subpage.</li>
 </ol>
 <p><img src="/images/1Student/SS-Notes1.png"></p>
 <h2 id="-edit-comments-on-notes-">Edit Comments on Notes</h2>

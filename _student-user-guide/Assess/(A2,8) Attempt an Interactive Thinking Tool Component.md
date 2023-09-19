@@ -27,19 +27,19 @@ image: /images/FaviconLight.png
 <li>After you have submitted your response for an Interactive Thinking Tool, you can view and comment on your peers' responses for that section under <strong>View Class Submissions</strong>.</li>
 <li>You can view responses column by column by clicking on the respective column tabs.</li>
 <li>You can also view responses grouped by student by clicking the <strong>View All</strong> tab.</li>
-<li>If you see an <strong>Eye</strong> icon beside your name in the Interactive Thinking Tool Card, it means that your teacher has hidden the names of all students. You will be able to see only your name in the Interaction Board. </li>
+<li>If you see an <strong>Eye</strong> icon beside your name in the Interactive Thinking Tool card, it means that your teacher has hidden the names of all students. You will be able to see only your name in the Interaction Board. </li>
 <p><img src="/images/1Student/As-ITT.png"></p>
 <li>In each column, you can click the <strong>Filter</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg"> to view the posts that have been bookmarked by your teacher.</li>
 </ol>
 <h2 id="-view-comments-">View Comments</h2>
 <hr>
-<p>To view comments on any response, click on the Response Card.</p>
+<p>To view comments on any response, click on the Response card.</p>
 <p>All the comments will be shown in the order of time posted, with the most recent post at the bottom. The number of comments is shown in parenthesis.</p>
 <h2 id="-comment-on-peers-responses-">Comment on Peers' Responses</h2>
 <hr>
 <p>To comment on one of your peers' responses,</p>
 <ol>
-<li>Click the Response Card, followed by <strong>Add</strong> on the bottom right.</li>
+<li>Click the Response card, followed by <strong>Add</strong> on the bottom right.</li>
 <li>Apart from text responses, you can include the following:<ul>
 <li><a target="_blank" href="/student-user-guide/assess/insert-mathematical-or-chemical-equations/">Mathematical or chemical equations</a>.</li>
 </ul>

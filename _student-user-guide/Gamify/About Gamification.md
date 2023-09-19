@@ -12,8 +12,8 @@ image: /images/FaviconLight.png
 <hr>
 <p><strong>Experience Points (XP)</strong> - XP is awarded to you to measure your progress within the game. XP is converted from marks awarded from your Assignment/Assessment.</p>
 <p><strong>Levels</strong> - Levels are dependent on the XP collected. When you collect enough XP, you can level up (progress to the next level).</p>
-<p><strong>Game Stories</strong> - You can read about the scenario your teacher has designed for you as you progress in the Course</p>
+<p><strong>Game Stories</strong> - You can read about the scenario your teacher has designed for you as you progress in the Lesson</p>
 <p><strong>Achievements</strong> - Achievements are rewards awarded to you after completing the tasks. This can come in the form of badges and trophies.</p>
 <img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did You Know</u>:
-<p>Gamified Courses are indicated with the Gamification icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Game.svg"> on Assignment/Assessment Cards.</p>
+<p>Gamified Lessons are indicated with the Gamification icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Game.svg"> on Assignment/Assessment Cards.</p>
  <img style="width: 50%;" src="/images/1Student/G-AboutGamification1.png">

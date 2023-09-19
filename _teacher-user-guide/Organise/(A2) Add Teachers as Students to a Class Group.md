@@ -10,7 +10,7 @@ image: /images/FaviconLight.png
 <p>Only Owners of a Class Group are able to add teachers as students. These teachers may be from the same school or different schools.</p>
 
 <ol>
-  <li>From the Class Groups page, select the relevant <strong>Class Group Card</strong>.</li>
+  <li>From the Class Groups page, select the relevant <strong>Class Group card</strong>.</li>
   <li>From the <strong>Admin</strong> tab, click <strong>View &amp; Edit</strong>.</li>
   <li>Select the <strong>Students ()</strong> tab. The number in parenthesis indicates the number of students in the Class Group. This includes both teachers and students.</li>
   <li>Click <strong>Add Student</strong> and select either <strong>Student (School)</strong>, <strong>Student (Group)</strong>, or <strong>Teacher as Student</strong>.</li>
