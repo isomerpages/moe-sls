@@ -5,13 +5,13 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1 id="edit-detail-cards-new-">(B1,vi) Edit Detail cards (New)</h1>
-<p>Lesson Detail card can be found on every page for easier access.</p>
+<h1 id="edit-detail-cards-new-">(B1,vi) Edit Detail Cards (New)</h1>
+<p>The Lesson Detail card can be found on every page for easier access.</p>
 <h2 id="-edit-lesson-details-card-">Edit Lesson Details card</h2>
 <hr>
 <ol>
 <li>The Lesson Details card can be expanded/hidden by clicking the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on every page.</li>
-<li>To edit the Lesson Details card, click <strong>Settings</strong> icon on the card. The following optional details can be edited:<ul>
+<li>To edit the Lesson Details Card, click <strong>Settings</strong> icon on the card. The following optional details can be edited:<ul>
 <li>Lesson Notes - The Notes are visible only to Teachers with whom the Lesson is shared.</li>
 <li>Hide Section and Activity numbers <strong>(NEW)</strong> - By default, this is turned off. You can turn it off so students do not see the Section/Activity numbers but you will still see it in the Lesson Editor page and Monitoring page.</li>
 <li>Language Settings<ul>
@@ -35,7 +35,7 @@ image: /images/FaviconLight.png
 </li>
 <li>Click <strong>Save</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed.</li>
 </ol>
-<h2 id="-edit-section-details-card-">Edit Section Details card</h2>
+<h2 id="-edit-section-details-card-">Edit Section Details Card</h2>
 <hr>
 <ol>
 <li>On the Section Cover page, the Section Details card can be expanded/hidden by clicking the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg">.</li>
@@ -46,7 +46,7 @@ image: /images/FaviconLight.png
 </li>
 <li>Click <strong>Save</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg">to proceed.</li>
 </ol>
-<h2 id="-edit-activity-details-card-">Edit Activity Details card</h2>
+<h2 id="-edit-activity-details-card-">Edit Activity Details Card</h2>
 <hr>
 <ol>
 <li>On the Activity page, the Activity Details card can be expanded/hidden by clicking the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg">.</li>
@@ -57,7 +57,7 @@ image: /images/FaviconLight.png
 </li>
 <li>Click <strong>Save</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed.</li>
 </ol>
-<h2 id="-edit-question-component-details-card-">Edit Question Component Details card</h2>
+<h2 id="-edit-question-component-details-card-">Edit Question Component Details Card</h2>
 <hr>
 <ol>
 <li>On the Activity page where you have added a Question, the Question Component Details card can be expanded/hidden by clicking the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg">.</li>
@@ -73,11 +73,11 @@ image: /images/FaviconLight.png
 <li><p>Click <strong>Save</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed.</p>
 </li>
 </ol>
-<h2 id="edit-interactive-component-cards">Edit Interactive Component cards</h2>
+<h2 id="edit-interactive-component-cards">Edit Interactive Component Cards</h2>
 <hr>
 <ol>
 <li>On the Activity page where you have added an Interactive Component (Interactive Thinking Tool, Poll or Discussion), the Interactive Component Details card can be expanded/hidden by clicking the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg">.</li>
-<li><p>To edit the Interactive Component Details card, click <strong>Settings</strong> icon on the card. The following optional details can be edited:</p>
+<li><p>To edit the Interactive Component Details Card, click <strong>Settings</strong> icon on the card. The following optional details can be edited:</p>
 <p> For ITT and Discussion:</p>
 <ul>
 <li><p>Hide Names: When students' names are hidden, they will appear as Anonymous on the Interaction Board. Students will only see their own names.</p>
@@ -85,12 +85,9 @@ image: /images/FaviconLight.png
 </ul>
 <img style="width: 100%;" src="/images/2Teacher/AU-EditDetailCard2.png">
 
-<ol>
-    For Poll:<ul>
-            <li>Keyword Tags - This will improve the searchability of the poll.</li>
-            <li>Hide Results: When results are hidden, students will only see what they have voted for.</li>
-        </ul>
-    
+<ol>For Poll:<ul>
+<li>Keyword Tags - This will improve the searchability of the poll.</li>
+<li>Hide Results: When results are hidden, students will only see what they have voted for.</li></ul>  
 </ol>
 
 <img style="width: 100%;" src="/images/2Teacher/AU-EditDetailCard3.png">
