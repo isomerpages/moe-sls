@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 ---
 <h1 id="view-assignments">(D1,i) View Assignments</h1>
-<h2 id="-assignment-cards-">Assignment cards</h2>
+<h2 id="-assignment-cards-">Assignment Cards</h2>
 <hr>
 <ul>
 <li>Assignments that have been recently assigned (up to 3 days) will have a New label on the Assignment card.</li>
