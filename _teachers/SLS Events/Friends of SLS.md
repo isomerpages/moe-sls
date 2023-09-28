@@ -164,10 +164,6 @@ image: /images/FaviconLight.png
 <td><p>Peirce Secondary School</p></td>
 </tr>
 <tr>
-<td><p>Mdm Yong Fook Lui</p></td>
-<td><p>Peiying Primary School</p></td>
-</tr>
-<tr>
 <td><p>Mdm Ng Gek Yin Theresa</p></td>
 <td><p>Peiying Primary School</p></td>
 </tr>
