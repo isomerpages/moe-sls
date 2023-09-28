@@ -60,19 +60,19 @@ Features for All Users</h2>
 <h2><img style="width:3rem; display: inline;" src="/images/Icons/Star.svg">Features for Teachers</h2>
 <details><summary><h4>Lesson Authoring</h4></summary>
 <details><summary><h5>Quiz Improvements</h5></summary>
-<details><summary><h6>Timed Quiz</h6></summary>
+<details><summary><h5>Timed Quiz</h5></summary>
 <ol>
 <li>Teachers can select the option “Set quiz as timed quiz” to show a timer for all quiz types. Timers will count upwards as the quiz begins, and show the recommended time below.</li>
 <li>Teachers may also select the option for quizzes to be submitted automatically when time is up to facilitate e-examinations.</li>
 </ol>
 </details>
-<details><summary><h6>Retry Quiz</h6></summary>
+<details><summary><h5>Retry Quiz</h5></summary>
 <ol>
 <li>Teachers can allow students to retry a quiz.</li>
 <li>Teachers can make it compulsory for students to retry a quiz if marks attained are below the percentage value set by the teacher.</li>
 </ol>
 </details>
-<details><summary><h6>Randomise Pages in Quiz </h6></summary>
+<details><summary><h5>Randomise Pages in Quiz </h5></summary>
 <ol>
 <li>Teachers can select the option to randomise all pages in Auto-Graded and Teacher-Marked quizzes.</li>
 <li>Teachers can assign quiz pages at random, based on the selected number of pages, like a question bank. E.g. Teachers can create a quiz with 50 pages with 1 question per page at 1 mark each. When assigning, teachers can choose to assign 10 pages at random to each student to have a total of 10 marks.</li>
@@ -232,7 +232,7 @@ Features for All Users</h2>
 <details><summary><h5>New Conditions for Game Stories, Achievements and Game Avatars</h5></summary>
 <ol>
 <li>Teachers can now add new conditions for the awarding of Collectibles or Game Stories, including
-<ol type="a" start="1">
+<ol style="list-style-type: lower-alpha;">
 <li>Lesson Start</li>
 <li>Lesson Progress</li>
 <li>Level reached</li>
