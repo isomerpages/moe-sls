@@ -293,7 +293,6 @@ Features for All Users</h2>
 </ol>
 </details>
 </details>
-
 <details><summary><h4>Learning Progress Report</h4></summary>
 <ol>
 <li>Teachers are able to download Learning Progress reports in the form of .csv files for Class Group Assignments and Self-Study, including data on Adaptive Learning System (ALS) practices.</li>
