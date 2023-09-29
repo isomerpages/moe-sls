@@ -102,7 +102,7 @@ image: /images/FaviconLight.png
 </td>
 <!--2nd column-->
 <td>
-<p><a target="_blank" href="https://fb.me/e/HzuuJyan">SgLDC Livestream: Discover SLS@Grange</a></p>
+<p><a target="_blank" href="https://www.youtube.com/watch?v=f_exi3N62Nk">SgLDC Livestream: Discover SLS@Grange</a></p>
 </td>
 </tr>
 <tr>
