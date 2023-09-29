@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: /images/FaviconLight.png
 ---
-<h1>Updates 2 October 2023</h1>
+<h1>Updates 7 December 2023</h1>
 <p>This list details the changes users can expect in the upcoming SLS Release 20, which will be rolled out on 7 December 2023. Please note that SLS will be unavailable from 6 December 00:00 to 7 December 23:00 to facilitate this release.</p>
 <h2><img style="width:3rem; display: inline;" src="/images/Icons/Star.svg">
 Features for All Users</h2>
