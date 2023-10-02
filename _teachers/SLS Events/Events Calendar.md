@@ -115,8 +115,17 @@ image: /images/FaviconLight.png
 <p><a target="_blank" href="https://go.gov.sg/sls-level1-course">SLS Level 1 Certification</a></p>
 <p><a target="_blank" href="https://go.gov.sg/sls-level2-course-organise">SLS Level 2 Certification</a></p>
 </td>
-</tr>                    
-         
+</tr>
+<tr>
+<!--1st column-->
+<td>
+<p>19 Oct</p>
+</td>
+<!--2nd column-->
+<td>
+<p><a target="_blank" href="https://go.gov.sg/sls-spotlight-oct">SgLDC Livestream: Enhancing Teaching &amp; Learning with AI!</a></p>
+</td>
+</tr>
 <tr>
 <!--1st column-->
 <td>
