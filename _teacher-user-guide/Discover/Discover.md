@@ -48,6 +48,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 <details>
 <summary><h4>F. Ideas for Teaching &amp; Learning</h4></summary>
 <ul>
+<li><a target="_blank" href="/files/Marcomms/Feature%20Highlights/r19 discovering whitelisted websites.pdf">Discovering Whitelisted Websites/Tools</a></li>
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/encourage-curiosity-through-class-groups/">(F1,i) Encourage Curiosity through Class Groups</a></li>
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/integrate-external-sites-and-applications/">(F1,ii) Integrate External Sites and Applications</a></li>
 </ul>
