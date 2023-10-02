@@ -3727,7 +3727,7 @@ Others: <a href="https://form.gov.sg/#!/5cbd58d20150a5001701cf74">Form SG</a>
 <td>Yumin Primary School</td>
 <td>
 Tel: 67811262
-<br>Email: chia_wenn_teck@moe.edu.sg,Lester_Ting_Huong_San@moe.edu.sg
+<br>Email: iryani_mohd_nasril@moe.edu.sg
 <br>
 Others:
 

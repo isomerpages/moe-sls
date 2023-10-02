@@ -102,7 +102,7 @@ image: /images/FaviconLight.png
 </td>
 <!--2nd column-->
 <td>
-<p><a target="_blank" href="https://fb.me/e/HzuuJyan">SgLDC Livestream: Discover SLS@Grange</a></p>
+<p><a target="_blank" href="https://www.youtube.com/watch?v=f_exi3N62Nk">SgLDC Livestream: Discover SLS@Grange</a></p>
 </td>
 </tr>
 <tr>
@@ -115,12 +115,21 @@ image: /images/FaviconLight.png
 <p><a target="_blank" href="https://go.gov.sg/sls-level1-course">SLS Level 1 Certification</a></p>
 <p><a target="_blank" href="https://go.gov.sg/sls-level2-course-organise">SLS Level 2 Certification</a></p>
 </td>
-</tr>                    
-         
+</tr>
 <tr>
 <!--1st column-->
 <td>
-<p>5 Dec</p>
+<p>19 Oct</p>
+</td>
+<!--2nd column-->
+<td>
+<p><a target="_blank" href="https://go.gov.sg/sls-spotlight-oct">SgLDC Livestream: Enhancing Teaching &amp; Learning with AI!</a></p>
+</td>
+</tr>
+<tr>
+<!--1st column-->
+<td>
+<p>7 Dec</p>
 </td>
 <!--2nd column-->
 <td>
