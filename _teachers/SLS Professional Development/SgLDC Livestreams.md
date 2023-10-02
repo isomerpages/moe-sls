@@ -57,7 +57,7 @@ image: /images/FaviconLight.png
 <tr>
 <td>
 <a target="_blank" href="https://www.youtube.com/watch?v=f_exi3N62Nk"><img style="width: 50%;" src="/images/2Teacher/slsspotlightdiscoverslsgrange.png"></a>
-<p>SgLDC Livestream: Discover SLS@Grange</p>
+<p>SLS Spotlight: Discover SLS@Grange</p>
 </td>
 </tr>
 </tbody></table>
