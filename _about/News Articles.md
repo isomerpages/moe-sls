@@ -67,7 +67,7 @@ image: /images/FaviconLight.png
 <p>Speech, Published: 4th August 2022</p>
 <hr>
 <h4><a href="https://www.schoolbag.edu.sg/story/learning-science-not-about-memorising-keywords" target="_blank">Learning Science: Not about memorising keywords</a></h4>
-<p>“…with a wide range of learning resources that can be found in the Singapore Student Learning Space (SLS), students are not only empowered to direct their own learning, but also encouraged to learn Science beyond the boundaries of the classroom.” – Mdm Anne Wong, Master Teacher for Primary Science, Eunos Primary School.</p>
+<p>“…with a wide range of learning resources that can be found in the Singapore Student Learning Space (SLS), students are not only empowered to direct their own learning, but also encouraged to learn Science beyond the boundaries of the classroom.” Mdm Anne Wong, Master Teacher for Primary Science, Eunos Primary School.</p>
 <p>Schoolbag, Published: 28th July 2022</p>
 <hr>
 
