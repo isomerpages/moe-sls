@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 <h1>News Articles</h1>
 <h4><a href="https://sbr.com.sg/economy/news/moe-implement-more-ai-tools-detailed-education">MOE to implement more AI tools for detailed education</a></h4>
 <p>The Ministry of Education (MOE) is set to introduce more AI features into the Singapore Student Learning Space (SLS) to enhance students' learning experiences and complement teacher guidance.</p>
-<p>Singapore Business Review, Published: 21stst September 2023</p>
+<p>Singapore Business Review, Published: 21st September 2023</p>
 <hr>
 <h4><a href="https://www.moe.gov.sg/news/press-releases/20230920-more-support-for-schools-and-students-to-shape-the-future-of-learning">More Support for Schools and Students to Shape the Future of Learning</a></h4>
 <p>Amongst measures announced at the MOE Schools Work Plan Seminar 2023, MOE will provide schools with more support and resources, including self-paced lessons hosted on the Singapore Student Learning Space (SLS), to enhance the development of digital literacy and AI literacy in all students.</p>
