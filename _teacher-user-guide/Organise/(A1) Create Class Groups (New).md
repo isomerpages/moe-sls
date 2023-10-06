@@ -56,11 +56,12 @@ image: /images/FaviconLight.png
 <td>Observer (New in R19)</td>
 <td>
 <ul>
+<li>add/remove students (from your school only)</li>
 <li>create/delete Class Group Announcements</li>
 <li>view events in Planner, Apps, Class Group Details</li>
 <li>access Assignments and Class Group Resources</li>
 <li>create/delete Posts and Polls in Forum (if permission has been granted)</li>
-</ul>
+<li>add/remove students (from your school only)</li></ul>
 </td>
 <td>Added by a teacher who is the Owner of a Class Group</td>
 </tr>
