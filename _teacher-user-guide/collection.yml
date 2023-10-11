@@ -116,7 +116,6 @@ collections:
       - Customise/(A1,vi) Change SLS Password.md
       - Customise/(A1,vii) Switch to Student Account.md
       - Customise/(B1) Manage My Templates.md
-      - Discover/(C2) Embed Integrated Apps (New).md
       - Discover/.keep
       - Discover/Discover.md
       - Discover/About Resources.md
@@ -129,6 +128,7 @@ collections:
       - Discover/(B1,2) Previously Whitelisted & Non Whitelisted Websites.md
       - Discover/(B2) Embed Whitelisted Websites.md
       - Discover/(C1) Access App Library.md
+      - Discover/(C2) Embed Integrated Apps (New).md
       - Discover/(D1,i) Access My Subjects.md
       - Discover/(D1,ii) Follow & Unfollow Subjects.md
       - Discover/(E1,i) Make a Copy of a Lesson.md
