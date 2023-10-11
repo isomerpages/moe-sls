@@ -10,9 +10,9 @@ third_nav_title: Discover
 <p>To embed an integrated App:</p>
 <ol>
 <li>In Lesson Editor page, hover over Text/Media found within the Component Bar and select App.</li>
-<a target="_blank" href="/images/2Teacher/d-apps1.JPG"><img alt="Apps" src="/images/2Teacher/d-apps1.JPG"></a>
+<img style="width: 50%;" alt="Apps" src="/images/2Teacher/d-apps1.JPG">
 <li>On the Browse Apps subpage, select the App to be embedded.</li>
-<a target="_blank" href="/images/2Teacher/d-apps2.JPG"><img alt="Apps" src="/images/2Teacher/d-apps2.JPG"></a>
+<img style="width: 100%;" alt="Apps" src="/images/2Teacher/d-apps2.JPG">
 <p><u>Note</u>: Click the <strong>Magnifying Glass</strong> icon <img src="/images/Icons/ViewDetails.svg" style="width:1.5rem; display: inline;"> to open the App's Details card for more details about the App.</p>
 <li>Alternatively, type the name of the App in the search bar.</li>
 <li>Some Apps may require you to fill in the Resource URL field for a specific resource to be embedded.</li>
