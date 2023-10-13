@@ -21,7 +21,7 @@ permalink: /terms-of-use/
 <p>By proceeding to access the Website, Users (“you”, “your”) are deemed to have agreed to be bound by the Terms. MOE reserves the right to amend these Terms from time to time. Whenever changes are made to the Terms, such changes will be posted on this page, and your use of the Website after such changes have been posted will constitute your unconditional agreement to the modified Terms and all of the changes. If you do not agree to these Terms of Use, please do not use this Website.</p>
 <h2>Access to the Website</h2>
 <ol type="1">
-<li><p>The accessibility and operation of the Website is reliant on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of the Website at all times.</p></li>
+<li><p>The accessibility and operation of the Website is reliant on technologies outside our control. We do not guarantee continued accessibility or uninterrupted operation of the Website at all times.</p></li></ol>
 <h2>Users' Responsibilities</h2>
 <ol start="2">	
 <li><p>Your password protects your user account. Your user account is intended only for your personal access to SLS. While we will take reasonable measures to protect the security of your account, you bear the responsibility of keeping your password confidential and secure. If your password is compromised, you should take immediate steps to reset your password.</p></li>
@@ -92,4 +92,4 @@ Where you upload or post content that is not owned by, licensed to or controlled
 <li><p>These Terms and the use of the Website are governed by and construed in accordance with the laws of the Republic of Singapore. You agree that any claim, legal proceeding or litigation relating to or arising in connection with the Website will be brought solely in Singapore, and you consent to the exclusive jurisdiction of the Singapore Courts.</p></li>
 </ol>
 
-Last updated: 7 June 2022.</ol>
+Last updated: 7 June 2022.
