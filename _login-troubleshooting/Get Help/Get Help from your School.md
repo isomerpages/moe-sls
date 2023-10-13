@@ -2439,7 +2439,7 @@ Others:
 <td>Poi Ching School</td>
 <td>
 Tel: 67856420
-<br>Email: alex_huang@schools.gov.sg
+<br>Email: contact@poiching.moe.edu.sg
 <br>
 Others:
 
