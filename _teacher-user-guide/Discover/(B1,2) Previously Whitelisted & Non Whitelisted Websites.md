@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
 ---
-<h1 class="page-title">(B1,2) Previously Whitelisted/Non-Whitelisted Websites</h1>
+<h1 class="page-title">(B1,2) Previously Whitelisted &amp; Non-Whitelisted Websites</h1>
 <h2 class="section-title">Removal of Whitelisted Websites</h2>
 <hr>
 <table>
@@ -29,12 +29,6 @@ https://moe-etd.maps.arcgis.com
 https://awwapp.com
 </td>
 </tr>
-<tr><td><strong>Chrome Music Lab</strong></td>
-<td>Other Reasons</td>
-<td>
-https://musiclab.chromeexperiments.com
-</td>
-</tr>           
 <tr><td><strong>CPM Educational Program</strong></td>
 <td>Other Reasons</td>
 <td>
