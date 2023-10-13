@@ -106,3 +106,8 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
     <p>To insert a Media file into the Lesson, click the corresponding Media Object card.</p>
   </li>
 </ol>
+<h2>Video Tutorial</h2>
+<hr>
+<div class="bp-youtube"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Add Existing Resources to Lesson" src="https://www.youtube.com/embed/kEuZT_IHXG0" height="100%" width="100%"></iframe></div>
+
+

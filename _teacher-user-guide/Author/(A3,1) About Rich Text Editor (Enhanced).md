@@ -29,7 +29,8 @@ image: /images/FaviconLight.png
 <li><a target="_blank" href="/teacher-user-guide/collaborate/attach-google-files/">Insert/Embed Files from Google</a> </li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-drawings/">Insert Drawings/Images</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/embed-youtube-videos/">Embed YouTube videos</a></li>
-<li><a target="_blank" href="/teacher-user-guide/discover/embed-whitelisted-websites/">Embed App/Website</a></li>
+<li><a target="_blank" href="/teacher-user-guide/discover/embed-whitelisted-websites/">Embed Website</a></li>
+<li><a target="_blank" href="/teacher-user-guide/discover/embed-integrated-apps/">Embed App</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-external-links/">Insert Hyperlinks</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-links-to-sections/">Insert Links to Sections</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-tooltips/">Insert Tooltips</a></li>

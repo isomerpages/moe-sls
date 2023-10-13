@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
 ---
-<h1 class="page-title">(B1,2) Previously Whitelisted/Non-Whitelisted Websites</h1>
-
+<h1 class="page-title">(B1,2) Previously Whitelisted &amp; Non-Whitelisted Websites</h1>
 <h2 class="section-title">Removal of Whitelisted Websites</h2>
 <hr>
 <table>
@@ -28,20 +27,6 @@ https://moe-etd.maps.arcgis.com
 <td>Merged with Miro</td>
 <td>
 https://awwapp.com
-</td>
-</tr>
-<!--
-<tr><td><strong>Chrome Music Lab</strong></td>
-<td>Other Reasons</td>
-<td>
-https://musiclab.chromeexperiments.com
-</td>
-</tr>
--->              
-<tr><td><strong>Coggle</strong></td>
-<td>Site can no longer be iframed</td>
-<td>
-https://coggle.it
 </td>
 </tr>
 <tr><td><strong>CPM Educational Program</strong></td>
@@ -116,18 +101,18 @@ https://quiznetic.com
 https://www.salvador-dali.org
 </td>
 </tr>               
-<tr><td><strong>Vialogues</strong></td>
-<td>Site removed</td>
-<td>
-https://www.vialogues.com
-</td>
-</tr> 
 <tr><td><strong>Toybox Tools</strong></td>
 <td>Site removed</td>
 <td>
 https://toybox.tools.bbc.co.uk
 </td>
-</tr>        
+</tr>
+<tr><td><strong>Vialogues</strong></td>
+<td>Site removed</td>
+<td>
+https://www.vialogues.com
+</td>
+</tr>
 <tr><td><strong>Victoria and Albert Museum London</strong></td>
 <td>Site contains inaccurate/sensitive content</td>
 <td>

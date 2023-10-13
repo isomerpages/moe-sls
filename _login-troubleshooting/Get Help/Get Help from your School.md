@@ -1000,7 +1000,7 @@ Others: <a href="https://eastspringpri.moe.edu.sg/others/sls-password-reset">Sch
 <td>East Spring Secondary School</td>
 <td>
 Tel: 65873805
-<br>Email: slshelp@esss.edu.sg
+<br>Email: esss_slshelp@moe.edu.sg
 <br>
 Others:
 
@@ -2439,7 +2439,7 @@ Others:
 <td>Poi Ching School</td>
 <td>
 Tel: 67856420
-<br>Email: alex_huang@schools.gov.sg
+<br>Email: contact@poiching.moe.edu.sg
 <br>
 Others:
 

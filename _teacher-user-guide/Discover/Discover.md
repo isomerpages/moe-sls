@@ -30,6 +30,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 <details><summary><h4>C. How to install/use Apps?</h4></summary>
 <ul>
   <li><a href="/teacher-user-guide/discover/access-app-library/" target="_blank">(C1) Access App Library</a></li>
+<li><a href="/teacher-user-guide/discover/embed-integrated-apps/" target="_blank">(C2) Embed Integrated Apps (New)</a></li>
 </ul>
 </details>
 <details><summary><h4>D. How to follow My Subjects?</h4></summary>
