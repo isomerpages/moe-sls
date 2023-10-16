@@ -69,7 +69,7 @@ image: /images/FaviconLight.png
     </tr>
     <tr>
       <td><p>Guide to School-Based e-Assessment (e-SBAs) in SLS</p></td>
-      <td><a download="" href="/files/Userguide/Downloadable%20Resources/e-assessment-guide-for-SLS.pdf"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/e-assessment-guide-for-SLS.png"></a><br>Guide to e-SBAs in SLS (PDF)</td>
+      <td style="text-align: center;"><a download="" href="/files/Userguide/Downloadable%20Resources/e-assessment-guide-for-SLS.pdf"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/e-assessment-guide-for-SLS.png"></a><br>Guide to e-SBAs in SLS (PDF)</td>
     </tr>
     <tr>
       <td><p>Eliciting Voices of Students with Diverse Learning Needs – A Resource Guide</p></td>
