@@ -41,7 +41,7 @@ image: /images/FaviconLight.png
 <li>create/delete Class Group Announcements, Events in Planner, Assignments, Quick Create Activities/Quizzes, Resources and Categories, Topics and Polls in Forum, and Subgroups</li>
 <li>change Forum Settings</li>
 <li>edit a Class Group description</li>
-<li>install/uninstall Apps(Owner only)</li>
+<li>install/uninstall Apps (Owner only)</li>
 <li>manage, edit, pause and monitor Assignments</li>
 </ul>
 </td>
@@ -60,8 +60,7 @@ image: /images/FaviconLight.png
 <li>create/delete Class Group Announcements</li>
 <li>view events in Planner, Apps, Class Group Details</li>
 <li>access Assignments and Class Group Resources</li>
-<li>create/delete Posts and Polls in Forum (if permission has been granted)</li>
-<li>add/remove students (from your school only)</li></ul>
+<li>create/delete Posts and Polls in Forum (if permission has been granted)</li></ul>
 </td>
 <td>Added by a teacher who is the Owner of a Class Group</td>
 </tr>
