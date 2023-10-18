@@ -62,23 +62,23 @@ image: /images/FaviconLight.png
 </tr>
 <tr>
 <td><p>Ms Amirinazeb D/O Aurangzeb</p></td>
-<td><p>Chij (Kellock)</p></td>
+<td><p>CHIJ (Kellock)</p></td>
 </tr>
 <tr>
 <td><p>Ms Koh Wee Mong</p></td>
-<td><p>Chij (Kellock)</p></td>
+<td><p>CHIJ (Kellock)</p></td>
 </tr>
 <tr>
 <td><p>Ms Goh Tung Li Adeline</p></td>
-<td><p>Chij (Kellock)</p></td>
+<td><p>CHIJ (Kellock)</p></td>
 </tr>
 <tr>
 <td><p>Ms Niu Sheng Kai</p></td>
-<td><p>Chij St. Nicholas Girls' School</p></td>
+<td><p>CHIJ St. Nicholas Girls' School</p></td>
 </tr>
 <tr>
 <td><p>Ms Lau Hui Ning</p></td>
-<td><p>Chij St. Nicholas Girls' School</p></td>
+<td><p>CHIJ St. Nicholas Girls' School</p></td>
 </tr>
 <tr>
 <td><p>Ms Lim Pei Na Joey</p></td>
