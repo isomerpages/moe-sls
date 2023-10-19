@@ -17,7 +17,7 @@ image: /images/FaviconLight.png
 <h2 id="quick-assign-from-planner-event">Quick Assign from Planner Event</h2>
 <hr>
 <ol>
-<li>Create a <strong><a target="_blank" href="/teacher-user-guide/plan/create-class-events/">New Event</a></strong> in the Planner for a Class Group.</li>
+<li>Create a <a target="_blank" href="/teacher-user-guide/plan/create-class-events/">New Event</a> in the Planner for a Class Group.</li>
 <li>The new Event will appear in the Planner tab.</li>
 <li><p>Click the <strong>+</strong> button to Quick Assign an <strong>Activity</strong> or <strong>Quiz</strong>. </p>
 <img style="width: 100%;" src="/images/2Teacher/AS-QuickAssign2.png"><p></p>
