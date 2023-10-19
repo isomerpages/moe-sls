@@ -25,7 +25,7 @@ image: /images/FaviconLight.png
 <li><p>Alternatively, you can click on the Event to open the Event Details. Then click <strong>Quick Assign</strong> and select <strong>Activity</strong> or <strong>Quiz</strong>. </p>
 <p><img style="width: 100%;" src="/images/2Teacher/AS-QuickAssign3.png"></p>
 </li>
-<li><p>Once selected, a paused untitled Assignment will be created in the Class Group and attached to the Event. </p>
+<li><p>Once selected, a paused, untitled Assignment will be created in the Class Group and attached to the Event. </p>
 </li>
 <li>You will be directed to the <a target="_blank" href="/teacher-user-guide/author/add-new-activities-and-sections/">Lesson Editor page</a> of the Assignment.</li>
 </ol>
