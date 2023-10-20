@@ -32,7 +32,7 @@ image: /images/FaviconLight.png
 </ol>
 <p><u>Note</u>:</p>
 <ul>
-<li>Teacher-Marked Quizzes can only be released after all marks have been entered (including all Free-/Audio-Response questions, if any.</li>
+<li>Teacher-Marked Quizzes can only be released after all marks have been entered (including all Free-/Audio-Response questions, if any).</li>
 <li>Students will receive a notification when a Teacher-Marked Quiz has been unsubmitted or released.</li>
 <li>You cannot unsubmit after you have released the Quiz.</li>
 </ul>

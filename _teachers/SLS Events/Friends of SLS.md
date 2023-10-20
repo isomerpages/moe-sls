@@ -6,8 +6,9 @@ third_nav_title: SLS Events
 image: /images/FaviconLight.png
 ---
 <img src="/images/2Teacher/friendsofsls.png">
-<p>Friends of SLS is a new initiative to recognise educators who have significantly contributed to the SLS fraternity over the last few years. We thank these educators for their contributions which include sharing on SLS features, creating SLS support guides and assisting other teachers with SLS-related queries on SgLDC. </p>      
-<p> To support them in sharing what they find useful and exciting about SLS with the community, we have provisioned them with a 2-year special account in the SLS Sandbox. The SLS Sandbox is usually updated 1.5 months before each release, allowing them to get a sneak peek of the pre-release features. They can also look forward to early invitations to special sharing sessions, workshops, user research/feedback sessions and other “live” events over the next 2 years.</p>
+<p>Launched in Oct 2022, the Friends of SLS initiative recognises educators who have significantly contributed to the SLS fraternity over the last few years. In 2023, we also welcomed teachers who have significantly impacted their students’ engagement and learning experience through their use of SLS.</p>
+<p>We thank these educators for their contributions which include sharing on SLS features, creating SLS support guides and assisting other teachers with SLS-related queries on SgLDC.  Friends of SLS 2023 also further celebrates the exemplary effort of educators who have effectively used SLS regularly to design learning experiences such as facilitating collaboration among their students or providing an avenue for their students to engage in self-directed learning.</p>
+<p>To support them in sharing what they find useful and exciting about SLS with the community, we have provisioned them with a 2-year special account in the SLS Sandbox. The SLS Sandbox is usually updated 1.5 months before each release, allowing them to get a sneak peek of the pre-release features. They can also look forward to early invitations to special sharing sessions, workshops, user research/feedback sessions and other “live” events over the next 2 years.</p>
 <br>
 <table>
 <thead>
@@ -61,23 +62,23 @@ image: /images/FaviconLight.png
 </tr>
 <tr>
 <td><p>Ms Amirinazeb D/O Aurangzeb</p></td>
-<td><p>Chij (Kellock)</p></td>
+<td><p>CHIJ (Kellock)</p></td>
 </tr>
 <tr>
 <td><p>Ms Koh Wee Mong</p></td>
-<td><p>Chij (Kellock)</p></td>
+<td><p>CHIJ (Kellock)</p></td>
 </tr>
 <tr>
 <td><p>Ms Goh Tung Li Adeline</p></td>
-<td><p>Chij (Kellock)</p></td>
+<td><p>CHIJ (Kellock)</p></td>
 </tr>
 <tr>
 <td><p>Ms Niu Sheng Kai</p></td>
-<td><p>Chij St. Nicholas Girls' School</p></td>
+<td><p>CHIJ St. Nicholas Girls' School</p></td>
 </tr>
 <tr>
 <td><p>Ms Lau Hui Ning</p></td>
-<td><p>Chij St. Nicholas Girls' School</p></td>
+<td><p>CHIJ St. Nicholas Girls' School</p></td>
 </tr>
 <tr>
 <td><p>Ms Lim Pei Na Joey</p></td>
@@ -307,7 +308,6 @@ image: /images/FaviconLight.png
 <td><p>Ms Yeo Yah Hwee June</p></td>
 <td><p>Zhonghua Secondary School</p></td>
 </tr>  
-
 </thead></table>
 <br>
 <table>
@@ -320,18 +320,10 @@ image: /images/FaviconLight.png
 <tbody>
 <tr>
 <td>
-<p>Mr Foo Chwan Soon (Clive)</p>
+<p>Mr Ng Ee Noch</p>
 </td>
 <td>
-<p>Pei Hwa Presbyterian Primary School</p> 
-</td>
-</tr>
-<tr>
-<td>
-<p>Mr Khor Kian Lum, Derek</p>
-</td>
-<td>
-<p>Woodlands Primary School</p> 
+<p>Boon Lay Garden Primary School</p> 
 </td>
 </tr>
 <tr>
@@ -344,18 +336,26 @@ image: /images/FaviconLight.png
 </tr>
 <tr>
 <td>
-<p>Ms Li Huili</p>
+<p>Mdm Teo Lily</p>
 </td>
 <td>
-<p>Westwood Primary School</p> 
+<p>Edgefield Secondary School</p> 
 </td>
 </tr>
 <tr>
 <td>
-<p>Mr Ng Ee Noch</p>
+<p>Mr Foo Chwan Soon (Clive)</p>
 </td>
 <td>
-<p>Boon Lay Garden Primary School</p> 
+<p>Pei Hwa Presbyterian Primary School</p> 
+</td>
+</tr>
+<tr>
+<td>
+<p>Mrs Theophilia Yong</p>
+</td>
+<td>
+<p>Teck Whye Secondary School</p> 
 </td>
 </tr>
 <tr>
@@ -368,18 +368,18 @@ image: /images/FaviconLight.png
 </tr>
 <tr>
 <td>
-<p>Mdm Teo Lily</p>
+<p>Ms Li Huili</p>
 </td>
 <td>
-<p>Edgefield Secondary School</p> 
+<p>Westwood Primary School</p> 
 </td>
 </tr>
 <tr>
 <td>
-<p>Mrs Theophilia Yong</p>
+<p>Mr Khor Kian Lum, Derek</p>
 </td>
 <td>
-<p>Teck Whye Secondary School</p> 
+<p>Woodlands Primary School</p> 
 </td>
 </tr>
 </tbody>

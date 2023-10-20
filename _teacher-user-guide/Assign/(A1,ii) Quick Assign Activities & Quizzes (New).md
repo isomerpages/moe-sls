@@ -17,7 +17,7 @@ image: /images/FaviconLight.png
 <h2 id="quick-assign-from-planner-event">Quick Assign from Planner Event</h2>
 <hr>
 <ol>
-<li>Create a <strong><a target="_blank" href="/teacher-user-guide/plan/create-class-events/">New Event</a></strong> in the Planner for a Class Group.</li>
+<li>Create a <a target="_blank" href="/teacher-user-guide/plan/create-class-events/">New Event</a> in the Planner for a Class Group.</li>
 <li>The new Event will appear in the Planner tab.</li>
 <li><p>Click the <strong>+</strong> button to Quick Assign an <strong>Activity</strong> or <strong>Quiz</strong>. </p>
 <img style="width: 100%;" src="/images/2Teacher/AS-QuickAssign2.png"><p></p>
@@ -25,7 +25,7 @@ image: /images/FaviconLight.png
 <li><p>Alternatively, you can click on the Event to open the Event Details. Then click <strong>Quick Assign</strong> and select <strong>Activity</strong> or <strong>Quiz</strong>. </p>
 <p><img style="width: 100%;" src="/images/2Teacher/AS-QuickAssign3.png"></p>
 </li>
-<li><p>Once selected, a paused untitled Assignment will be created in the Class Group and attached to the Event. </p>
+<li><p>Once selected, a paused, untitled Assignment will be created in the Class Group and attached to the Event. </p>
 </li>
 <li>You will be directed to the <a target="_blank" href="/teacher-user-guide/author/add-new-activities-and-sections/">Lesson Editor page</a> of the Assignment.</li>
 </ol>

@@ -11,7 +11,7 @@ image: /images/FaviconLight.png
 <li><p>You can do so from a student's Quiz view by clicking the name of a student and navigate to the Quiz Completion page. Click <strong>Unsubmit</strong>.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/As-TeacherMarkedQuiz5.png"></p>
 </li>
-<li><p>You will be able to Unsubmit the quiz for multiple students from the Heatmap by viewing the Activity with the Teacher-Marked Quiz and selecting the checkbox next to the student's name. [pending screenshot]</p>
+<li><p>You will be able to Unsubmit the quiz for multiple students from the Heatmap by viewing the Activity with the Teacher-Marked Quiz and selecting the checkbox next to the student's name.</p>
 </li>
 </ol>
 <p><u>Note</u>: </p>

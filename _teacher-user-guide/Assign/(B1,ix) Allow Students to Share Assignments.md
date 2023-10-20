@@ -33,14 +33,14 @@ image: /images/FaviconLight.png
 <hr>
 <ul>
 <li>Assignment sharing is mutual between two students. For example, student A requests to share with student B, and student B accepts. Both students A and B can see each other's assignment. Student A can further share his/her assignment with student C by repeating the process to request and accept.</li>
-<li><p>The possible interactions when an assignment is shared are as follows:</p>
+<li>The possible interactions when an assignment is shared are as follows:
 <ul>
 <li>View each other's assignment, including Activities with restricted access where the other student might not otherwise be able to view.</li>
-<li><p>View and comment on each other's Notes and Annotations (highlight).</p>
-<p><img style="width: 100%;" src="/images/2Teacher/AS-AllowShare3.png"></p>
-<p>  Viewing student's highlights and notes.</p>
-</li>
-<li><p>View teacher's Annotation made to a student's copy of the Assignment.</p>
+<li>View and comment on each other's Notes and Annotations (highlight).</li>
+<img style="width: 100%;" src="/images/2Teacher/AS-AllowShare3.png">
+<li>Viewing student's highlights and notes.
+</li>	
+<li>View teacher's Annotation made to a student's copy of the Assignment.
 </li>
 <li><p>View each other's answers and scores to questions, and any Teacher Feedback.</p>
 	<p><u>Note</u>: </p>
