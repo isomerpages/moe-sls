@@ -63,7 +63,7 @@ image: /images/FaviconLight.png
 <ol>
 <li><strong>Who can users contact for technical support?</strong></li>
 </ol>
-<p>For assistance on login and browser issues, users are advised to refer to the <a href="/login-troubleshooting/authentication/log-in-with-mims-student/">Login Self-Help for Students</a>.</p>
+<p>For assistance on login and browser issues, users are advised to refer to the <a target="_blank" href="/login-troubleshooting/authentication/log-in-with-mims-student/">Login Self-Help for Students</a>.</p>
 <ol>
 <li><strong>Will students need additional hardware / internet subscription to access the SLS?</strong></li>
 </ol>
@@ -72,7 +72,7 @@ image: /images/FaviconLight.png
 <hr>
 <ol>
 <li><p><strong>What can students do if they forget their passwords?</strong></p>
-<p> Students can go to the <a href="/login-troubleshooting/authentication/log-in-with-mims-student/">Login Self-Help for Students</a> for self-help tips</p>
+<p> Students can go to the <a target="_blank" href="/login-troubleshooting/authentication/log-in-with-mims-student/">Login Self-Help for Students</a> for self-help tips</p>
 <p> There are steps on this page to guide students on what to do if they have forgotten their username, password, or if their account has been locked.</p>
 <p> Here is a poster for students on how to troubleshoot login issues.</p>
 </li>
