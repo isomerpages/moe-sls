@@ -29,7 +29,8 @@ image: /images/FaviconLight.png
 <li><p>For resources found in My Drive or Starred Resources, navigate to the right folder (for My Drive only), select the file you wish to add, and click <strong>Choose</strong>. </p>
 <p><img style="width: 100%;" src="/images/2Teacher/O-ClassGroupResource1.png"></p>
 </li>
-<li><p>For resources found in Library (MOE Library and Community Gallery), you can search [insert Search for Resources] by entering the title of the resource into the search field. </p>
+<li><p>For resources found in Library (MOE Library and Community Gallery), you can 
+<a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">search</a> by entering the title of the resource into the search field. </p>
 </li>
 <li>Click the Lesson card to add the Lesson as a Class Group Resource.</li>
 <li>From the Resource Title subpage, teachers can edit the Resource Title and add the resource into a Category. </li>
