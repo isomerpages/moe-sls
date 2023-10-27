@@ -17,7 +17,8 @@ third_nav_title: SLS Events
 <ol>
 <li>Superhero Academy – Level up your Teaching &amp; Learning with SLS!
 <ul>
-<li>Find out which SLS Superhero are you Discover tips and best practices to level up your teaching superpowers and engage your students effectively.</li>
+<li>Find out which SLS Superhero are you!</li>
+<li>Discover tips and best practices to level up your teaching superpowers and engage your students effectively.</li>
 <li><em>Suitable for all Teachers</em></li>
 <li><em>Group registrations only</em></li>
 </ul>
