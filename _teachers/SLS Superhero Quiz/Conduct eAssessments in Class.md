@@ -32,8 +32,13 @@ image: /images/FaviconLight.png
 
 <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Tip!
 </p>
-<ul><li>To use SLS to conduct e-assessments in an exam setting, refer to our <a download="" href="/files/Userguide/Downloadable%20Resources/e-assessment-guide-for-SLS.pdf">Guide in Conducting School-Based e-Assessments (e-SBAs)</a></li></ul>
-<h2>Related articles</h2>
+<ul><li><p>To use SLS to conduct e-assessments in an exam setting, refer to these subject specific guides (requires iCON account):</p></li>
+<ul><li><a target="_blank" href="https://go.gov.sg/esba-userguide-el">2023 N(T) English Language Paper 1</a></li>
+<li><a target="_blank" href="https://drive.google.com/drive/folders/1jJnA7KwsU-JKShaays224Mi7hCC9a6wI">2024 Basic MTL Paper 1</a></li>
+<li><a target="_blank" href="https://drive.google.com/drive/folders/1O6IIoTTokPiWmb_Ekz4ZbQvA1k3rJ66z?usp=drive_link">2024 N(A) Social Studies</a></li>
+</ul>
+</ul>
+	<h2>Related articles</h2>
 <hr>
 <ul>
   <li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">Digitise past year papers for practice (#Author_with_SLS)</a></li>
