@@ -38,7 +38,7 @@ image: /images/FaviconLight.png
 <li><a target="_blank" href="https://drive.google.com/drive/folders/1O6IIoTTokPiWmb_Ekz4ZbQvA1k3rJ66z?usp=drive_link">2024 N(A) Social Studies</a></li>
 </ul>
 </ul>
-	<h2>Related articles</h2>
+<h2>Related articles</h2>
 <hr>
 <ul>
   <li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">Digitise past year papers for practice (#Author_with_SLS)</a></li>
