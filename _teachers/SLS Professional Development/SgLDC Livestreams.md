@@ -4,6 +4,7 @@ permalink: /teachers/sls-professional-development/sgldc-livestreams/
 description: ""
 third_nav_title: SLS Professional Development
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 class="page-title">SgLDC Spotlight Livestreams</h1>
 <hr>
@@ -58,6 +59,12 @@ image: /images/FaviconLight.png
 <td style="text-align: center;">      
 <p>SLS Spotlight: Discover SLS@Grange</p>
 <a target="_blank" href="https://www.youtube.com/watch?v=f_exi3N62Nk"><img style="width: 50%;" src="/images/2Teacher/slsspotlightdiscoverslsgrange.png"></a>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;">      
+<p>SLS Spotlight: Enhancing Teaching &amp; Learning with AI!</p>
+<a target="_blank" href="https://youtu.be/4blj2iwMyao"><img style="width: 50%;" src="/images/2Teacher/slsspotlightenhancingteachingandlearningwithai.png"></a>
 </td>
 </tr>
 </tbody></table>

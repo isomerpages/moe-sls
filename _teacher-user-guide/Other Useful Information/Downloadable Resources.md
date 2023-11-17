@@ -69,7 +69,7 @@ image: /images/FaviconLight.png
     </tr>
     <tr>
       <td><p>Guide to School-Based e-Assessment (e-SBAs) in SLS</p></td>
-      <td style="text-align: left;"><p>You may refer to these subject specific guides:</p>
+      <td style="text-align: left;"><p>You may refer to these subject specific guides (requires iCON account):</p>
 <ul><li><a target="_blank" href="https://go.gov.sg/esba-userguide-el">2023 N(T) English Language Paper 1</a></li>
 <li><a target="_blank" href="https://drive.google.com/drive/folders/1jJnA7KwsU-JKShaays224Mi7hCC9a6wI">2024 Basic MTL Paper 1</a></li>
 <li><a target="_blank" href="https://drive.google.com/drive/folders/1O6IIoTTokPiWmb_Ekz4ZbQvA1k3rJ66z?usp=drive_link">2024 N(A) Social Studies</a></li>
