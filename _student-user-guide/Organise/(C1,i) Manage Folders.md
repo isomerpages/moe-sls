@@ -4,6 +4,7 @@ permalink: /student-user-guide/organise/manage-folders/
 description: ""
 third_nav_title: Organise
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>(C1,i) Manage Folders</h1>
 
