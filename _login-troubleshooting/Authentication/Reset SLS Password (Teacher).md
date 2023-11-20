@@ -4,11 +4,11 @@ permalink: /login-troubleshooting/authentication/reset-sls-password-teacher/
 description: ""
 third_nav_title: Authentication
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="reset-sls-password-teacher-">Reset SLS Password (Teacher)</h1>
 <ol>
-<li>From the main login page, click <strong>Login With SLS</strong>. </li>
-<li>Click <strong>Forgot Password</strong>.</li>
+<li>From the main login page, click <strong>Forgot Password</strong>.</li>
 <li>Enter your SLS Username.</li>
 <li>Click <strong>Submit</strong>.</li>
 <li>An email with the password reset link will be sent to your email address.</li>
