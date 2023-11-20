@@ -15,13 +15,13 @@ variant: markdown
 <ol>
     <li>Click the <strong>Magnifying Glass</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Search.svg"> on the header of the homepage to open the Search Bar.</li>
     <li>Enter your search terms, if any, in the Search Bar. </li>
-    <li>Press <strong>Enter</strong> to return your search results.</li>
+    <li>Press <strong>Enter</strong> on your keyboard to return your search results.</li>
 </ol>
 
 <p><u>Note</u>: </p>
 <ul>
-    <li>If you are unsure of what you are searching for, you can leave the Search Bar empty and press <strong>Enter</strong> to return your search results.</li>
-    <li>You can also search directly from the various Resource pages (eg. MOE Library, and App Library.)</li>
+    <li>If you are unsure of what you are searching for, you can leave the Search Bar empty and press <strong>Enter</strong> on your keyboard to return your search results.</li>
+    <li>You can also search directly from the various Resource pages (eg. MOE Library, App Library and My Drive.)</li>
 </ul>
 
 <h2>Add Search Filters</h2>
@@ -35,7 +35,7 @@ variant: markdown
     <li>Under <strong>Location</strong>, select from:
         <ul>
             <li><strong>All</strong></li>
-            <li><strong>My Drive</strong> - your own resources and those shared with you</li>
+            <li><strong>My Drive</strong> - your own resources</li>
             <li><strong>MOE Library</strong> - Resources produced by MOE</li>
             <li><strong>App Library</strong> - App Resources integrated with SLS</li>
         </ul>
@@ -64,13 +64,13 @@ variant: markdown
     <li>Click <strong>Apply</strong> and select <strong>Apply Filters</strong> to perform your selection.</li>
 </ol>
 
-<p><u>Note</u>: Refine your search by using Guided Search.</p>
+<p><u>Note</u>: Refine your search by using <strong>Guided Search</strong>.</p>
 <img style="width: 80%;" src="/images/1Student/SS-FiltersSubpage.png">
 
 <h2>Add Topic Filters</h2>
 <hr>
 <ol>
-  <li>You may also select <strong>Add Topic Filters</strong> to filter according to Topics or Sub-topics. <br>
+  <li>From the Filters subpage, you may also select <strong>Add Topic Filters</strong> to filter according to Topics or Sub-topics. <br>
     <br><u>Note</u>: You may search for Resources based on Topics or Sub-topics if they have been tagged to a Content Map.</li>
 	<li>To add topic filters, select <u>one</u> <strong>Subject</strong> and <u>one</u> <strong>Level</strong> from the dropdown list.</li>
   <li>Click <strong>Apply</strong> and choose <strong>Add Topic Filters.</strong></li>
@@ -82,7 +82,7 @@ variant: markdown
 <h2>View Search Results</h2>
 <hr>
 <ol>
-  <li>You can sort the resources by <strong>Relevance</strong> to your search term(s), <strong>Popularity</strong> <strong>(New in R19)</strong>, or according to the date of the latest edit. You can also view the search results in card or List view by clicking <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> and <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg"> respectively.</li>
+  <li>You can sort the resources by <strong>Relevance</strong> to your search term(s), <strong>Popularity</strong> (only for MOE Library resources), or according to the date of the latest edit. You can also view the search results in card or List view by clicking <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> and <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg"> respectively.</li>
   <li>Click the <strong>Lesson card</strong> to enter the Lesson in a new tab. On the Lesson card, you will be able to view the following information:
     <ul>
       <li>Lesson Location</li>
@@ -92,7 +92,7 @@ variant: markdown
     </ul>
 <img style="width: 50%;" src="/images/1Student/SS-LessonCard1.png">
   </li>
-  <li>To view the Lesson Details, click the <strong>View Details</strong> icon found on the top right of the Lesson card. You will be able to view details such as Lesson Description, list of Activities and Sections (if any), who created the Lesson and when it was lasted edited. To open the Lesson in a new tab, click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg">.</li>
+  <li>To view the Lesson Details, click the <strong>View Details</strong> icon <img style="width:5%; display: inline;" src="/images/Icons/ViewDetails.svg"> found on the top right of the Lesson card. You will be able to view details such as Lesson Description, list of Activities and Sections (if any), Lesson creator, and when it was lasted edited. To open the Lesson in a new tab, click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg">.</li>
   <li>To enter the Lesson, click the <strong>Lesson card</strong>.</li>
 </ol>
 
