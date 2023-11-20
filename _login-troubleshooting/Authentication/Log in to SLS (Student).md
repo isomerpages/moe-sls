@@ -6,7 +6,7 @@ third_nav_title: Authentication
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="log-in-to-sls-student-">Log in to SLS (Student)</h1>
+<h1 id="log-in-to-sls-student">Log in to SLS (Student)</h1>
 <p>You can log in to SLS in 2 ways:</p>
 <p>a) Through MIMS or</p>
 <p>b) Through the existing SLS login page.</p>
