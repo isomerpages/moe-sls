@@ -4,7 +4,7 @@ permalink: /admin-user-guide/publish/create-moe-library-resources/
 description: ""
 third_nav_title: Publish
 image: /images/FaviconLight.png
-variant: tiptap
+variant: markdown
 ---
 <h1 id="-1-create-moe-library-resources-enhanced-">(A1) Create MOE Library Resources (Enhanced)</h1>
 <p>You can refer to the following User Guide pages to find out how you can: </p>
@@ -23,7 +23,7 @@ variant: tiptap
 <hr>
 <p>Only Content Approvers and Content Officers will be able to submit Lessons to MOE Library for approval.</p>
 <ol>
-<li>In the Lesson View, click the <strong>Overflow</strong> (3 dots icon) and <strong>Check for Submission (MOE Library)</strong>.</li>
+	<li>In the Lesson View, click the <strong>Overflow</strong> (<strong>3</strong>-dot icon) and <strong>Check for Submission (MOE Library)</strong>.</li>
 <li><strong>Media Objects</strong> must be approved through the Resource Management System (RMS). </li>
 <li><p>An error message will appear for failure to include:</p>
 <ul>
@@ -37,7 +37,7 @@ variant: tiptap
 </li>
 <li><p>To rectify the error, click <strong>Edit</strong> to make the necessary changes.</p>
 </li>
-<li><p>In the Approve Lesson subpage, select the <strong>Owner Group</strong> you wish to publish this resource under. Select the checkbox next to who you want the Lesson to be Visible to. Click <strong>OK</strong> to proceed.</p>
+<li><p>In the Approve Lesson subpage, select the <strong>Owner Group</strong> you wish to publish this resource under. Select the checkbox next to who you want the Lesson to be visible to. Click <strong>OK</strong> to proceed.</p>
 	<p><img style="width: 50%;" src="/images/5Admin/P-MOELibrary1.png"></p>
 </li>
 <li>A message will be shown if the resource has been successfully submitted. A notification will be sent to the Content Approver, who will approve your submission.</li>
