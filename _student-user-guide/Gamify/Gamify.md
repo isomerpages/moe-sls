@@ -4,15 +4,17 @@ permalink: /student-user-guide/gamify/index/
 description: ""
 third_nav_title: Gamify
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Gamify</h1>
 <p>Use SLS to experience a game-like experience when going through your lesson.</p>
 <img style="width: 50%;" src="/images/1Student/Flow-Gamify1.png">
 
 <a target="_blank" href="/student-user-guide/gamify/about-gamification/">About Gamification</a>
-<details><summary><h4>A. How to attempt gamified resources?</h4></summary>
+<details><summary><h4>A. How to attempt gamified resources? (New)</h4></summary>
 <ul>
-<li><a target="_blank" href="/student-user-guide/gamify/attempt-a-gamified-lesson/">(A1) Attempt a Gamified Lesson</a></li>
+<li><a target="_blank" href="/student-user-guide/gamify/navigate-a-gamified-lesson/">(A1) Navigate a Gamified Assignment (New)</a></li>
+	<li><a target="_blank" href="/student-user-guide/gamify/attempt-a-gamified-lesson/">(A2) Attempt a Gamified Assignment</a></li>
     </ul>
   </details>	
 <img style="width: 50%;" src="/images/1Student/Flow-Gamify2.png">
