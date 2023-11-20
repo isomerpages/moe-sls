@@ -4,6 +4,7 @@ permalink: /student-user-guide/customise/set-password-reset-email-address/
 description: ""
 third_nav_title: Customise
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="set-password-reset-email-address">(A1,ii) Set Password Reset Email Address</h1>
 <p><u>Important</u>: You must verify the email address before you can use it to reset your password.</p>
@@ -12,7 +13,7 @@ image: /images/FaviconLight.png
 <li>Open the right menu and click <strong>Edit Profile</strong>.</li>
 	<li>On the Profile page, select <strong>Set Email Address</strong> under Account Settings.
 	<p><img src="/images/1Student/Cu-EmailAddress.png"></p>
- </li><li>You will need to enter an email address under Alternate Email.</li>
+ </li><li>Enter an email address under Alternate Email.</li>
 <li>Click <strong>Save</strong>.</li>
 </ol>
 <u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
