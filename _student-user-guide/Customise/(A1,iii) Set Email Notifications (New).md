@@ -6,7 +6,7 @@ third_nav_title: Customise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="set-email-notifications-new-">(A1,iii) Set Email Notifications (New)</h1>
+<h1 id="set-email-notifications-new-">(A1,iii) Set Email Notifications</h1>
 <p>You can choose to receive email notifications from SLS. Notifications will be sent to your alternative email address (if specified).</p>
 <ol>
 <li>From the homepage, open the right menu and click <strong>Edit Profile</strong>.</li>
