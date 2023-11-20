@@ -4,11 +4,12 @@ permalink: /admin-user-guide/publish/manage-owner-groups/
 description: ""
 third_nav_title: Publish
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="manage-owner-groups">(B1,ii) Manage Owner Groups</h1>
 <h2 id="about-owner-group">About Owner Group</h2>
 <hr>
-<p>An Owner Group comprises of two groups of users - Content Approvers (CAs) and Content Officers (COs). Each Owner Group is tagged to a Subject, which is required before CAs can publish a Content Map.</p>
+<p>An Owner Group comprises two groups of users - Content Approvers (CAs) and Content Officers (COs). Each Owner Group is tagged to a Subject, which is required before CAs can publish a Content Map.</p>
 <p><u>Note</u>: When searching for resources, Subjects without a Content Map will not be viewable from the Subject dropdown menu.</p>
 <h2 id="about-content-approver-and-content-officer">About Content Approver and Content Officer</h2>
 <hr>
