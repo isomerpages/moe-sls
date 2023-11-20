@@ -4,8 +4,9 @@ permalink: /student-user-guide/discover/search-for-self-study-resources/
 description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1>(A2) Search for Self-Study Resources (New) </h1>
+<h1>(A2) Search for Self-Study Resources</h1>
 
 <h2>Using Search Bar from Homepage</h2>
 
