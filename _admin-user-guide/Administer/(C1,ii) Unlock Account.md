@@ -4,8 +4,9 @@ permalink: /admin-user-guide/administer/unlock-account/
 description: ""
 third_nav_title: Administer
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1 id="unlock-account">(C1,ii) Unlock Account</h1>
+<h1 id="unlock-sls-accounts">(C1,ii) Unlock SLS Accounts</h1>
 <hr>
 
 <p> <u>Important</u>: SLS School Admins can help teachers and students to unlock their SLS accounts if their accounts are locked after repeated unsuccessful login attempts. For MIMS accounts that are locked, please seek assistance from the MIMS Admin instead.</p>
@@ -16,7 +17,7 @@ image: /images/FaviconLight.png
 <li>Select the checkboxes next to the teachers or students who require your assistance to unlock their accounts.</li>
 <li>Click <strong>Unlock Account</strong> in the table header.</li>
 <li>A confirmation prompt will pop up indicating the number of users selected. Click <strong>OK</strong>.</li>
-<li>For Student account(s), a one-time password (OTP) is generated when the account(s) is/are unlocked. This OTP needs to be communicated to the student(s).</li>
+<li>For Student account(s), a One-Time Password (OTP) is generated when the account(s) is/are unlocked. This OTP needs to be communicated to the student(s).</li>
 <li><p>For Teacher account(s), a password reset email will be sent to their email address shown on the Manage Users page or their alternate email address if they had set it previously.</p>
 	<p> <u>Note</u>:</p>
 <ul>
