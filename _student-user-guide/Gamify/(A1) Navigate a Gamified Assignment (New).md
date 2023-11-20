@@ -5,34 +5,62 @@ variant: markdown
 description: ""
 third_nav_title: Gamify
 ---
-<h1>(A1) Navigate a Gamified Assignment</h1>
+<h1>(A1) Navigate a Gamified Assignment (New)</h1>
 
-
+<h2 id="navigate-a-gamified-assignment">Navigate a Gamified Assignment</h2>
+<hr>
+<ol>
+	<li>From the homepage, click the&nbsp;<strong>Assignments</strong>&nbsp;tab, followed by a gamified Assignment card. Alternatively, you can&nbsp;access&nbsp;a gamified assignment from the Assignments page&nbsp;or Class Group page under the Assignments tab.
+	</li>
+<li>In the gamified Assignment, you will be able to view your cumulative Experience Points (XP) as a progress bar and as a score, and current level. 
+	<p> <img style="width: 100%;" src="/images/1Student/G-AssignmentGame.png">
+	</p></li>
+	<li>To view the game description and settings, click the&nbsp;<strong>Gamification</strong>&nbsp;icon <img style="width:1.5em; display: inline;" src="/images/Icons/Game.svg"> on the header.</li>
+	</ol>
+	
 <h2 id="view-game-description-and-settings">View Game Description and Settings</h2>
 <hr>
 <ol>
-<li>From the homepage, click the <strong>Assignments</strong> tab and <strong>Open</strong> a gamified Lesson. Alternatively, you can <strong>Open</strong> a gamified Lesson from the Assignments page or Class Group page.</li>
-<li>In the Assignment, click the <strong>Gamification</strong> icon <img style="width:1.5em; display: inline;" src="/images/Icons/Game.svg"> to open the Gamification subpage. This allows you to view the overall game details - Title, Description, and Featured Image. </li>
-<li><p>You can view the Experience Point (XP) Modifiers from the <strong>XP and Level</strong> tab on the Gamification subpage. This gives you information on how bonus XP is being awarded and the number of XP required to level up (move to the next level). </p>
+	<li>In the gamified Assignment, click the&nbsp;<strong>Gamification</strong>&nbsp;icon&nbsp;on the header&nbsp;to open the Gamification subpage. This allows you to view the overall game details - Title, Description, and Featured Image.</li>
+<li>You can also view your Avatar, XP, current level and Achievement on your student card.
+	</li>
+<li>To edit your Game Avatar, click&nbsp;Edit Game Avatar.
+	<p> <img style="width: 100%;" src="/images/1Student/G-EditGameAvatar.png">
+	</p><ul>
+	<u>Note</u>:
+		<li>Game Avatars are different from your Student Avatars. You can unlock Game Avatars as you progress through your gamified assignments.
+	</li>
+		<li>Game Avatars that are yet awarded to you will be locked.  	
+			<p> <img style="width: 100%;" src="/images/1Student/G-GameAvatar.png">
+		</p></li>
+	</ul>
+		</li><li><p>You can view the XP Modifiers from the&nbsp;<strong>XP and Level</strong>&nbsp;tab on the Gamification subpage. This gives you information on how bonus XP is being awarded and the number of XP required to level up (move to the next level).</p>
 <p> <img style="width: 80%;" src="/images/1Student/G-AttemptGamified1.png">
 </p></li>
-<li><p>There are three types of XP Modifiers:</p>
- <ol style="list-style-type: lower-alpha;">
-<li><p>Early submission of Quizzes - You will receive a bonus for the entire Quiz if the Quiz is submitted early. The default bonus set for early submission is 50% and the default number of days to be considered an Early Submission is 1 day before the Section Due Date.</p>
-<p> Calculation of XP awarded: (1 + percentage/100) x Awarded Marks x Marks to XP Conversion</p></li></ol>
-</li><ul>
-<li><p>Late submission of Quizzes - You will receive reduced XP for the entire Quiz if the Quiz is submitted early. The default bonus set for late submission is -50%.</p>
-<p>  Calculation of XP awarded: (1 - percentage/100) x Awarded Marks x Marks to XP Conversion</p>
-</li>
-<li><p>Retries for questions - Standalone questions and questions in Progressive Quiz can be given multiple tries. If you get the questions right on your first try, you will be given the full XP. However, if you get the questions right on subsequent tries, your XP will be reduced.</p>
-<p>Calculation of XP awarded: (1 - percentage/100)^(number of retries) x Awarded Marks x Marks to XP Conversion</p> </li></ul>
-
-<li><p>Under the <strong>Game Story</strong> tab, you will be able to view the Awarded Game Story. Game Stories with preset Conditions will only appear after all Conditions have been fulfilled. Click <strong>Preview</strong> to read the Game Story. </p>
+<li>There are different types of XP Modifiers. The XP Modifiers are categorised into two main categories:
+	<ol style="list-style-type: lower-alpha;">
+		<li>Quiz Submissions - XP Modifiers are applied to the entire Quiz.
+			<ul>
+				<li>Early submission of Quiz - You will receive a bonus for the entire Quiz if the Quiz is submitted early.</li>
+				<li>Late submission of Quiz - You will receive a penalty for the entire Quiz if the Quiz is submitted late.</li>
+				<li>Quiz Time Exceeded* - You will receive a penalty for the entire Quiz if the time taken to complete the quiz exceeds the time to complete it in a Timed Quiz.</li>
+	<li>Quiz Retries* - You will receive reduced XP for the entire Quiz if you retry the quiz before submission.</li>
+			</ul>
+			<p>* These penalties will only be applicable if these Quiz settings are enabled by your teacher.</p>
+		</li><li>Question Attempts - XP Modifiers are applied to specific questions.
+			<ul>
+				<li>Question Retries - You will receive a penalty for the question if you require multiple tries to get the question correct.</li>
+				<li>Hint Usage - You will receive a penalty for the question if you use hints when attempting the questions.</li>
+				<li>Streak - You will receive a bonus for each successive correct answer in a Progressive Quiz.</li>
+			</ul>
+	</li></ol>
+</li><li><p>Under the <strong>Game Story</strong> tab, you will be able to view the Awarded Game Story. Game Stories with preset&nbsp;conditions will only appear after all&nbsp;conditions have been fulfilled. Click <strong>Preview</strong> to read the Game Story. </p>
 <p> <img style="width: 80%;" src="/images/1Student/G-AttemptGamified2.png"></p>
 </li>
-<li><p>Under the <strong>Achievement</strong> tab, you will be able to view <strong>Awarded</strong> and <strong>Not Awarded</strong> Achievements under the respective tabs. Achievements with preset Conditions will only appear after all Conditions have been fulfilled. Click <strong>Preview</strong> to read the Achievement. </p>
+	<li><p>Under the&nbsp;<strong>Collectibles</strong>&nbsp;tab, you will be able to view&nbsp;<strong>Achievements</strong>&nbsp;and&nbsp;<strong>Avatars</strong>&nbsp;under the respective tabs. You can also filter Collectibles by status with the dropdown list. Collectibles with preset conditions will only appear after all conditions have been fulfilled. Click&nbsp;<strong>Preview</strong>&nbsp;to read the Achievement.</p>
 <p> <img style="width: 80%;" src="/images/1Student/G-AttemptGamified3.png"></p>
 </li>
+	<li><p>When previewing an avatar, you may click&nbsp;<strong>Use As Game Avatar</strong>&nbsp;to set the avatar as your game avatar.</p></li>
 <li><p>Under the <strong>Team Members</strong> tab (if Team Game is enabled by your teacher), you will be able to view all your team members. You can work with your team member cooperatively to unlock Game Story and Achievements. </p>
 <p> <img style="width: 80%;" src="/images/1Student/G-AttemptGamified4.png"></p>
 </li>
