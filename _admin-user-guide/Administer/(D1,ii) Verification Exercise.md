@@ -4,11 +4,12 @@ permalink: /admin-user-guide/administer/verification-exercise/
 description: ""
 third_nav_title: Administer
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="verification-exercise">(D1,ii) Verification Exercise</h1>
 <h2 id="verification-of-accounts">Verification of Accounts</h2>
 <hr>
-<p>Verification of SLS accounts for the following groups of users will take place annually during 14th-27th December and are performed by SLS School Admins:</p>
+<p>Verification of SLS accounts for the following groups of users will take place annually from 14th-27th December and are performed by SLS School Admins:</p>
 <ul>
 <li>Flexi-adjunct Teachers (FAJTs)</li>
 <li>Relief teachers</li>
@@ -19,13 +20,13 @@ image: /images/FaviconLight.png
 </ul>
 <h2 id="verification-of-roles">Verification of Roles</h2>
 <hr>
-<p>Verification of SLS School Admin role will take place monthly and are generally performed by vice-principals. It will last for two weeks, from 14th to 27th of each month. </p>
+<p>Verification of the SLS School Admin role takes place monthly and is generally performed by vice-principals. It will last for two weeks, from the 14th to 27th of each month. </p>
 <h2 id="marking-accounts-roles-for-removal">Marking Accounts/Roles for Removal</h2>
 <hr>
 <ol>
-<li>Open the left menu and click<strong> Administration</strong> followed by <strong>Verify User</strong>.</li>
+<li>Open the left menu and click<strong> Administration</strong> followed by <strong>Verify Users</strong>.</li>
 <li>Check your email to retrieve the verification code. Enter it into the prompt and click <strong>Proceed</strong>.</li>
-<li>In the Verify Users page, you may search for a specific user in the verification list by name or SLS ID.</li>
+<li>In the Verify Users page, you may search for a specific user in the verification list by Name or SLS ID.</li>
 <li>Select the checkboxes on the left of the names whose account/role you wish to remove. If there are no account/role to remove, you may proceed to completing the verification.</li>
 <li><p>Click <strong>Mark For Removal</strong> in the table header. </p>
 <p><img style="width: 100%;" src="/images/5Admin/Ad-Verification.png"></p>
