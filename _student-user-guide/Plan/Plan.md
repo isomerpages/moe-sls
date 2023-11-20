@@ -4,6 +4,7 @@ permalink: /student-user-guide/plan/index/
 description: ""
 third_nav_title: Plan
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Plan</h1>
 <p>Use SLS to plan personal events and be updated on class group events.</p>
@@ -13,10 +14,10 @@ image: /images/FaviconLight.png
 <details><summary><h4>A. How to use SLS Planner?</h4></summary>
 	<ul>
   <li>
-<a target="_blank" href="/student-user-guide/plan/access-planner/">(A1) Access Planner (New)</a>
+<a target="_blank" href="/student-user-guide/plan/access-planner/">(A1) Access Planner</a>
 		</li>
 		  <li>
-<a target="_blank" href="/student-user-guide/plan/create-a-new-event/">(A2) Create a New Event (New)</a>
+<a target="_blank" href="/student-user-guide/plan/create-a-new-event/">(A2) Create a New Event</a>
 		</li>
 </ul>
 </details>
