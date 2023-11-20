@@ -4,6 +4,7 @@ permalink: /admin-user-guide/administer/inform-parents-of-student-sls-ids/
 description: ""
 third_nav_title: Administer
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="-2-inform-parents-of-student-sls-ids">(B2) Inform Parents of Student SLS IDs</h1>
 <ol><li>From the <a target="_blank" href="/admin-user-guide/administer/about-manage-users/">Manage User</a> page, click <strong>Export Full User List</strong> to download a list of all SLS users in the school as a .csv file. The account information of new P1 students can be obtained by filtering the "Form Class" column in the downloaded list.</li>
@@ -12,6 +13,6 @@ image: /images/FaviconLight.png
 <li><p>To help students who have forgetten their SLS User IDs, SLS School Admins can search for their SLS User IDs through the Manage Users page.</p>
 <p><img style="width: 100%;" src="/images/5Admin/A-ManageUser.png"></p>
 </li>
-<li><p>Subject Teachers can do the same via the Reset Student Password page.</p>
+<li><p>Subject teachers can do the same via the Reset Student Password page.</p>
 </li>
 </ol>
