@@ -4,11 +4,10 @@ permalink: /student-user-guide/plan/access-planner/
 description: ""
 third_nav_title: Plan
 image: /images/FaviconLight.png
-variant: tiptap
+variant: markdown
 ---
 <h1>(A1) Access Planner (New)</h1>
 <p>Planner allows you to manage your personal learning schedule and timetable. You can create events and view Assignments which are due soon.</p>
-<p><u>Note</u>: Please ensure you have enabled pop-ups before accessing assignments or resources attached to events. You may refer to the <a target="_blank" href="/files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf">Enable Pop-Ups guide</a> on how you can enable pop-ups for your device.</p>
   <h2>Navigating to the Page</h2>
 <hr>
   <ol>
@@ -16,14 +15,17 @@ variant: tiptap
       <ol style="list-style-type: lower-alpha;">
         <li>From the homepage, click the <strong>View Planner</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/CalendarOpen.svg">.</li>
         <li>Open the left menu and click <strong>Planner</strong>.</li>
-        <li>Open your <strong>Class Group</strong> and click the <strong>Planner</strong> tab.</li>
+        <li>Enter a Class Group and select the <strong>Planner</strong> tab.</li>
       </ol>
     </li>
 <img src="/images/1Student/P-ClassGroupPlanner.png">
-	
-<li>From steps A and B above, select the <strong>Class Group</strong> that you wish to view. Click <strong>Apply</strong> to proceed. The total number of Class Groups that appear are indicated in parenthesis.<br><br><u>Note:</u> To make certain class groups appear as default, you can pin them in the Class Groups page. You may refer to <a target="_blank" href="/student-user-guide/organise/access-class-groups/">Pin Class Groups</a> for how to do so.</li>
-    <li>The calendar may be viewed by Day, Week or Month. Click the relevant tab for your preferred view.</li>
-    <li>To view other dates, click the <strong>left</strong> or <strong>right arrows</strong> to see the past or future respectively.</li>
+	<li>From the Planner dropdown list, select the&nbsp;<strong>Class Group(s)</strong>&nbsp;you wish to view the events for. Click&nbsp;<strong>Apply</strong>&nbsp;to proceed. The total number of Class Groups selected is indicated in parenthesis.</li>
+<u>Note:</u> 
+	<ul>
+	<li>When viewing the Planner from a Class Group, you will only be able to view Class Group Events for that particular Class Group.</li>
+	<li>To view certain Class Group Events as default, pin those Class Groups. You may refer to <a target="_blank" href="/student-user-guide/organise/access-class-groups/">Pin Class Groups</a> for how to do so.</li></ul>
+<li>The Planner may be viewed by Day, Week or Month. Click the relevant tab for your preferred view.</li>
+    <li>To view other dates, click the <strong>Left</strong> or <strong>Right arrows</strong> to see the past or future respectively.</li>
     <li>To return to the current date, click <strong>Today</strong>.</li>
     <li>To know what events are happening at the moment, refer to the red line.</li>
   </ol>
