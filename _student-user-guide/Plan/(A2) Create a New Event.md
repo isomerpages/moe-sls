@@ -33,5 +33,15 @@ variant: markdown
 <hr>
 <ol>
 <li>Click the Event card to view the event details.</li>
-<li>Click the&nbsp;<strong>Overflow</strong>&nbsp;(<strong>3</strong>-<strong>dot</strong>&nbsp;icon) and select&nbsp;<strong>Edit
-	</strong></li><li><strong>After making your edits, click&nbsp;<strong>Save </strong>&nbsp;to confirm your changes.</strong></li></ol>
+<li>Click the&nbsp;<strong>Overflow</strong>&nbsp;(<strong>3</strong>-<strong>dot</strong>&nbsp;icon) and select&nbsp;<strong>Edit</strong>.</li>
+	<img src="/images/1Student/P-NewEventEdit.png">
+	<li>After making your edits, click&nbsp;<strong>Save</strong>&nbsp;to confirm your changes.</li>
+	
+	<h2>Delete an Event</h2>
+<hr>
+<ol>
+<li>Click the Event card to view the event details.</li>
+<li>Click the&nbsp;<strong>Overflow</strong>&nbsp;(<strong>3</strong>-<strong>dot</strong>&nbsp;icon) and select&nbsp;<strong>Delete</strong>.</li>
+	<img src="/images/1Student/P-NewEventDelete.png">
+	<li>If it is a recurring event, select if you wish to&nbsp;<strong>Delete this event only,&nbsp;Delete this event and all future events</strong>, or&nbsp;Delete all events in this series.</li>
+<li>Click&nbsp;<strong>OK</strong>&nbsp;to proceed.</li></ol></ol>
