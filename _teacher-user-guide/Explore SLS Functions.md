@@ -3,12 +3,13 @@ title: Explore SLS Functions
 permalink: /teacher-user-guide/index/
 description: ""
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Explore SLS Functions</h1>
 <p>Learn more about what the Singapore Student Learning Space (SLS) can do with the overview of SLS functions&nbsp;below.</p>
 <p><a href="#how-to-navigate-the-user-guide-pages">Click here</a> for more information on how to navigate the userguide.</p>
 
-<h2>Organise: Arrange your teaching and learning materials.</h2>
+<h2>Organise: Arrange your teaching and learning material.</h2>
 <hr>
 
 <h3><a id="discover" target="_blank" href="/teacher-user-guide/discover/index/">1. Discover</a></h3>
