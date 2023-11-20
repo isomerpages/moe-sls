@@ -34,5 +34,5 @@ variant: markdown
 <li>The default filters have been applied for you.</li>
 <p><u>Note</u>: Click <strong>Guided Search</strong> to search for specific words/phrases.</p>
 <li>Click the <strong>View Details</strong> icon to find out more about a particular App.</li>
-<li>To launch an app lick the App card. Alternatively, click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg"> from the App Details card. You will be redirected to the App on a new tab.</li>
+<li>To launch an app lick the App card. Alternatively, click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg"> from the App Details card. You will be redirected to the app on a new tab.</li>
 <p><u>Note</u>: You will need to enable pop-ups in order for the App to launch.</p></ol>
