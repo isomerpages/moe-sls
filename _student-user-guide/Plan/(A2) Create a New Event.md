@@ -4,16 +4,16 @@ permalink: /student-user-guide/plan/create-a-new-event/
 description: ""
 third_nav_title: Plan
 image: /images/FaviconLight.png
-variant: tiptap
+variant: markdown
 ---
-<h1>(A2) Create a New Event (New)</h1>
-<h2>Creating a New Event</h2>
+<h1>(A2) Create a New Event</h1>
+<h2>Create a New Event</h2>
 <hr>
 <ol>
-<li>There are two ways to create a <strong>New Event</strong>:</li>
+<li>There are two ways to create a <strong>New Event</strong> from the Planner page:</li>
 <ol style="list-style-type: lower-alpha;">
-<li>Click <strong>+ New Event</strong></li>
-<li>Scroll to your desired time on the Planner and click to create a <strong>New Event</strong> at that time.</li>
+<li>Click <strong>+ New Event</strong>, or</li>
+<li>Scroll to your desired time on the Planner and click on the time slot&nbsp;to create a&nbsp;new event&nbsp;at that time.</li>
 </ol>
 <li>On the New Event subpage, fill in the following details:</li>
 <ol style="list-style-type: lower-alpha;">
@@ -22,8 +22,8 @@ variant: tiptap
 <li><strong>Start/End</strong> <strong>Date &amp; Time</strong> - You can indicate the date and time of your event here.</li>
 	<u>Note</u>: If the event is all day i.e. a Public Holiday, you may consider selecting the <strong>All Day</strong> checkbox.
 
-<li><strong>Repeat</strong> - You can select how often the event repeats.</li>
-	<u>Note</u>: The <strong>End Repeat</strong> box will be greyed out if None or Custom are chosen for <strong>Repeat</strong>. </ol>
+<li><strong>Repeat</strong> - You can select how often the event repeats&nbsp;and the end date for the repeat.</li>
+	<u>Note</u>: The&nbsp;End Repeat field&nbsp;will be greyed out if None or Custom are chosen for <strong>Repeat</strong>. </ol>
 
 <li>Click <strong>Create</strong> to proceed.</li>
 </ol>
