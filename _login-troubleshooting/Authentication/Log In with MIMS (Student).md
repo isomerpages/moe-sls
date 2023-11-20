@@ -17,6 +17,7 @@ variant: markdown
 <ol>
 <li>From the main login page, click <strong>Login With MIMS</strong>.</li>
 <li>At the MIMS login page, enter your MIMS username and password. </li>
+	<img style="width: 100%;" src="/images/4Troubleshooting/LT-MIMSHomepage.png">
 <li>Click Sign In. </li>
 <li>Upon successful authentication, you will be brought to the SLS homepage.</li>
 </ol>
