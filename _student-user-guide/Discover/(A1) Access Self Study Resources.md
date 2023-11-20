@@ -12,11 +12,12 @@ image: /images/FaviconLight.png
 <li>Open the left menu from the header and click <strong>Self-Study List</strong>.</li>
 <li>To search for the Resources, enter your search term(s) in the <strong>Search for Resources</strong> search bar.</li>
 <li>You can also filter your search results according to <strong>Status</strong> and <strong>Location</strong>. 
-<img src="/images/1Student/SS-SelfStudyList.png">
 	<ul>
 	<li>Status - All, In Progress, Complete</li>
 	<li>Location - All, Class Group, MOE Library, My Drive</li>
 	</ul>
+<img src="/images/1Student/SS-SelfStudyList.png">
+	
 	</li>
 <li>Should you wish to filter your search results by specific Class Groups, click <strong>Filter</strong>. Under the Location dropdown list, select <strong>Class Group</strong> and select the Class Groups from the <strong>Class Group</strong> dropdown list. Click <strong>Apply</strong> to confirm. 
 <img style="width: 80%;" src="/images/1Student/SS-Filters.png">
