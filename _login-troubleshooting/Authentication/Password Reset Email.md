@@ -4,8 +4,9 @@ permalink: /login-troubleshooting/authentication/password-reset-email/
 description: ""
 third_nav_title: Authentication
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1 id="password-reset-email">Password Reset Email</h1>
+<h1 id="sls-password-reset-email">SLS Password Reset Email</h1>
 <p>When you use the <strong>Forgot Password</strong> feature to reset your password, an email with a password reset link will be sent to you. If you cannot find the email in your inbox, it may be in the spam/junk folder.</p>
 <p>If you are unable to see the password reset email in your inbox, please check: </p>
 <ul>
