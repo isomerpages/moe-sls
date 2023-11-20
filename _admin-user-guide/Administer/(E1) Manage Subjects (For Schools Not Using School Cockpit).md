@@ -4,6 +4,7 @@ permalink: /admin-user-guide/administer/manage-subjects-for-schools-not-using-sc
 description: ""
 third_nav_title: Administer
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="manage-subjects-for-schools-not-using-school-cockpit-">(E1) Manage Subjects (For Schools Not Using School Cockpit)</h1>
 <p>SLS School Admins are able to view the list of Subjects offered in their schools. For schools that are not using School Cockpit, SLS School Admins can manage their School Based subjects through SLS.</p>
@@ -33,12 +34,12 @@ image: /images/FaviconLight.png
 <p><img style="width: 50%;" src="/images/5Admin/A-ImportSubject.png"></p>
 </li>
 </ol>
-<h2 id="edit-or-delete-school-based-subjects-for-schools-not-using-school-cockpit-">Edit or Delete School Based Subjects (For Schools Not Using School Cockpit)</h2>
+<h2 id="edit-or-delete-school-based-subjects-for-schools-not-using-school-cockpit-">Edit or Delete School-Based Subjects (For Schools Not Using School Cockpit)</h2>
 <hr>
 <p>You can only Edit or Delete School Based Subjects. MOE Approved Subjects cannot be edited or deleted.</p>
 <ol>
 <li>On the Manage Subjects page, click the <strong>Subject Name</strong> of the School Based Subject you wish to manage.</li>
 <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the View Subject subpage.</li>
-<li>Select <strong>Edit</strong> to edit the Subject Name and Subject Code. Click the <strong>Save</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to confirm your changes.</li>
+<li>Select <strong>Edit</strong> to edit the Subject Name and/or Subject Code. Click <strong>Save</strong>  to confirm your changes.</li>
 <li>Select <strong>Delete</strong> to remove the Subject. Click <strong>OK</strong> on the confirmation prompt.</li>
 </ol>
