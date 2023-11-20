@@ -28,3 +28,10 @@ variant: markdown
 <li>Click <strong>Create</strong> to proceed.</li>
 </ol>
 <img src="/images/1Student/P-NewEvent.png">
+
+<h2>Edit an Event</h2>
+<hr>
+<ol>
+<li>Click the Event card to view the event details.</li>
+<li>Click the&nbsp;<strong>Overflow</strong>&nbsp;(<strong>3</strong>-<strong>dot</strong>&nbsp;icon) and select&nbsp;<strong>Edit
+	</strong></li><li><strong>After making your edits, click&nbsp;<strong>Save </strong>&nbsp;to confirm your changes.</strong></li></ol>
