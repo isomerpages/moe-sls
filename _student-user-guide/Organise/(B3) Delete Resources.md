@@ -4,6 +4,7 @@ permalink: /student-user-guide/organise/delete-resources/
 description: ""
 third_nav_title: Organise
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>(B3) Delete Resources</h1>
 <p>Resources (Lessons or Folders) found under My Lessons tab can be deleted if you no longer need them.</p>
