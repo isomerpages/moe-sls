@@ -15,7 +15,7 @@ variant: markdown
 <ol>
   <li>To move an existing Lesson into a folder, you can click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Move</strong>. You can also select the Lesson using the checkboxes on the left and then click <strong>Move</strong>. You may move two or more Lessons in one go.</li>
   
-<img src="/images/1Student/O-MoveLesson.png">
+<img src="/images/1Student/O-MoveLesson.png" alt="Manage Folders #1">
 
   <li>In the Move Lesson subpage, select the folder to move the Lesson to. You can also create a <strong>New Folder</strong> within My Lessons folder from this subpage.</li>
   
