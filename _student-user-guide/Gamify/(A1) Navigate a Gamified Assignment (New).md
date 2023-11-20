@@ -67,15 +67,3 @@ third_nav_title: Gamify
 <li><p>Click <strong>X</strong> to close the subpage.</p>
 </li>
 </ol>
-<h2 id="attempt-gamified-lesson">Attempt Gamified Lesson</h2>
-<hr>
-<ol>
-<li>From the Assignment cover, click <strong>Enter</strong> to enter the first Section (i.e. Section A), and click <strong>Enter</strong> to begin the Section.</li>
-<li>You will be awarded XP for each attempted question based on the number of marks awarded.</li>
-<li><p>You can view your XP progress from the XP bar shown at the top of the Assignment. You will also be able to view your current Level and cumulative XP.</p>
-<p> <img style="width: 80%;" src="/images/1Student/G-AttemptGamified4.png"></p>
-</li>
-<li><p>You will receive a congratulatory message when you have levelled up.</p>
-</li>
-<li>If your teacher has manually awarded you with bonus XP, you will receive a pop-up message indicating the amount of bonus XP you have gotten.</li>
-</ol>
