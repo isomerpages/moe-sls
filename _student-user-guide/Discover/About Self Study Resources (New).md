@@ -1,5 +1,5 @@
 ---
-title: About Self Study Resources (New)
+title: About Self Study Resources
 permalink: /student-user-guide/discover/about-self-study-resources/
 description: ""
 third_nav_title: Discover
