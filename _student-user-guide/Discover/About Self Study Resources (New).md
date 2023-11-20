@@ -6,7 +6,7 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>About Self-Study Resources (New)</h1>
+<h1>About Self-Study Resources</h1>
 <hr>
 <p>Self-Study List contains&nbsp;a list of resources that you are attempting or have attempted for Self-Study.&nbsp;You&nbsp;can access and review these resources at their own pace. There are three ways to access Self-Study&nbsp;resources&nbsp;within SLS:</p>
 <ul>
