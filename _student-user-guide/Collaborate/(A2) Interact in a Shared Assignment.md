@@ -23,4 +23,4 @@ variant: markdown
 </li>
 <li>To turn commenting on or off, open <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Annotation card and click <strong>Comment On / Off</strong>.</li>
 </ol>
-<img style="width: 40%;" src="/images/1Student/CO-InteractShared2.png">
+<img style="width: 30%;" src="/images/1Student/CO-InteractShared2.png">
