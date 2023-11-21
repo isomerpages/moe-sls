@@ -4,6 +4,7 @@ permalink: /student-user-guide/assign/access-assignments/
 description: ""
 third_nav_title: Assign
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="access-assignments">(A1) Access Assignments</h1>
 <p><u>Important</u>: Only your incomplete Assignments that are due in the next 7 days are shown on the homepage.</p>
@@ -27,7 +28,7 @@ image: /images/FaviconLight.png
 <ul>
 <li><strong>Assignment Status</strong> - You can choose to view All, Upcoming, In Progress, or Complete.<ul>
 <li>Upcoming refers to Assignments that have yet to start.</li>
-<li>In Progress refers to Assignments that have yet to be completed and include overdue Assignments.</li>
+<li>In Progress refers to Assignments that have yet to be completed and include overdue Assignments. By default, Assignments in progress are shown.</li>
 <li>Complete refers to Assignments that have been completed.</li>
 </ul>
 </li>
@@ -35,7 +36,7 @@ image: /images/FaviconLight.png
 </ul>
 </li>
 <li>Click the individual Assignment card to access the Assignment.</li>
-<li><p>You can choose to view your Assignments in card view <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">.</p>
+<li><p>You can choose to view your Assignments in Card view <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">.</p>
 </li>
 <li><p>Assignments in List view are sorted according to the latest Start Date. You may also sort the assignments according to the Assignment Title, and Due Date.</p>
 <p> <img src="/images/1Student/AS-AccessAssignment3.png"></p>
