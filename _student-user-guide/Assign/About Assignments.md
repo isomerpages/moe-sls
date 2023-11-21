@@ -4,6 +4,7 @@ permalink: /student-user-guide/assign/about-assignments/
 description: ""
 third_nav_title: Assign
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="about-assignments">About Assignments</h1>
 <p>Assignments are Lessons assigned to you by your teacher. An Assignment can contain up to 20 Sections. Each section can contain up to 20 Activities or Quizzes. </p>
@@ -11,7 +12,7 @@ image: /images/FaviconLight.png
 <p>Teachers may set Assignments as Assessments to better control assignments. In an Assessment, you cannot access non-examination material (e.g. external links) unless they have been whitelisted for use in the assessment's network. </p>
 <h3 id="about-assignments">About Assignments</h3>
 <hr>
-<p>Each assignment contains the following information, reflected on each Assignment card: </p>
+<p>Each Assignment contains the following information, reflected on each Assignment card: </p>
 
 <ol>
 <li>Title - Assignment Title</li>
@@ -28,7 +29,7 @@ image: /images/FaviconLight.png
 <li>Label - Assignments that are recently assigned (up to 3 days ago) will be labelled "New". Existing Assignments that have sections added to them will be labelled “New Section”</li>
 <li>View Details icon - This icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> shows the Lesson Details subpage, which includes the Sections/Activities and Lesson Description.</li>
 </ol>
-<p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did you know?</u>: From R18, teachers are able to set a Passcode to an Assignment. You will be required to enter the Passcode (case-sensitive) in order to access these Assignments.</p>
+<p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did you know?</u>: Teachers are able to set a Passcode to an Assignment. You will be required to enter the Passcode (case-sensitive) in order to access these Assignments.</p>
 <h2 id="language-settings">Language Settings</h2>
 <hr>
 <p>By default, your Assignments are displayed in English. However, your teacher has the option to display your Assignment in Chinese, Malay or Tamil.</p>
