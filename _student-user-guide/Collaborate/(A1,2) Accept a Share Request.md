@@ -4,6 +4,7 @@ permalink: /student-user-guide/collaborate/accept-a-share-request/
 description: ""
 third_nav_title: Collaborate
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="-1b-accept-a-share-request">(A1,2) Accept a Share Request</h1>
 <ol>
@@ -25,6 +26,6 @@ image: /images/FaviconLight.png
 <li>Once you accept a request, it is <em>permanent</em>.</li>
 </ul>
 </li>
-<li>Once accepted, the status will change from <strong>Accept Request</strong> to Shared.</li>
+<li>Once accepted, the status will change from ”Accept Request”&nbsp;to&nbsp;”Shared”.</li>
 </ol>
 <img src="/images/1Student/CO-AcceptShare1.png">
