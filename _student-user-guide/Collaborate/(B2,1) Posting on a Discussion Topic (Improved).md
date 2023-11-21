@@ -4,8 +4,9 @@ permalink: /student-user-guide/collaborate/posting-on-a-discussion-topic/
 description: ""
 third_nav_title: Collaborate
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1 id="-2a-posting-on-a-discussion-topic-improved-">(B2,1) Posting on a Discussion Topic (Improved)</h1>
+<h1 id="-2a-posting-on-a-discussion-topic-improved-">(B2,1) Posting on a Discussion Topic</h1>
 <h2 id="creating-a-new-post">Creating a New Post</h2>
 <hr>
 <ol>
