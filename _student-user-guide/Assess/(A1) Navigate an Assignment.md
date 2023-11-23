@@ -4,9 +4,9 @@ permalink: /student-user-guide/assess/navigate-an-assignment/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1 id="-1-navigate-an-assignment">(A1) Navigate an Assignment</h1>
-<p>From R19, Lessons will have both activities and sections. The term course will no longer be used.</p>
+<h1 id="-1-navigate-an-assignment">(A1,1) Navigate an Assignment (Enhanced)</h1>
 <p>There are two ways to navigate around an Assignment - from the Lesson Plan or Activity List.</p>
 <p><u>Important</u>: You may not have access to all Sections of the Lesson when it is first assigned to you.</p>
 <h2 id="-navigate-an-assignment-using-lesson-plan-">Navigate an Assignment using Lesson Plan</h2>
@@ -25,10 +25,11 @@ image: /images/FaviconLight.png
 <p><img style="width: 80%;" src="/images/1Student/As-LessonPlan.png"></p>
 <h2 id="-navigate-an-assignment-using-activity-list-">Navigate an Assignment using Activity List</h2>
 <hr>
-<p>There are two different views for Activity Lists - Collapsed Activity List which only shows the Section alphabet and Activity number or the Full Activity List which shows the title of the Activities/Sections.</p>
+<p>There are two different views for Activity Lists - Simplified Lesson Plan (collapsed) which only shows the Section alphabet and Activity number or the Simplified Lesson Plan (expanded) Full Activity List which shows the title of the Activities/Sections.</p>
+<p><u>Note</u>: If you do not see any alphabets or numbers, it is because your teacher has hidden the Section and Activity numbers.</p>
 <ol>
-<li>From the Collapsed Activity List, toggle between Activities/Sections by clicking the respective <strong>Section</strong> icons <img style="width:1.5rem; display: inline;" src="/images/Icons/Section.svg"> and <strong>Activity</strong> icons <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityIcon.svg">.</li>
-<li><p>Click the <strong>Activity List</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityListExpand.svg"> to open the full Activity List. Toggle between Activities /Sections by clicking the respective <strong>Activity/Section Titles</strong>.</p>
+<li>From the Simplified Lesson Plan (collapsed), toggle between Activities/Sections by clicking the respective <strong>Section</strong> icons <img style="width:1.5rem; display: inline;" src="/images/Icons/Section.svg"> and <strong>Activity</strong> icons <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityIcon.svg">.</li>
+<li><p>Click the <strong>Expand Activity List icon</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityListExpand.svg"> to open the Simplified Lesson Plan (expanded). Toggle between Activities /Sections by clicking the respective <strong>Activity/Section Titles</strong>.</p>
 	<p> <u>Note</u>: To view the Activities within a Section, click the <strong>Section</strong> icon or <strong>Title</strong>.</p>
 </li>
 <li><p>Sections are indicated as alphabets while Activities are indicated as numbers. The first Section will be shown as "A" and the next Section as "B". The first Activity will be shown as "1" and the next Activity as "2".</p>
@@ -51,4 +52,12 @@ image: /images/FaviconLight.png
 <li><p>Section Prerequisites are indicated with a <strong>Lock</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Lock.png"> in the Lesson Plan and Activity List.</p>
 </li>
 <li>After you have completed a Section Prerequisite, you will see the Section Prerequisite Unlocked in the Section End page. Click <strong>Unlocked Sections ( )</strong> to view the Sections you can now access.</li>
+</ol>
+
+<h2 id="activity-prerequisites">Activity Prerequisites (NEW)</h2>
+<hr>
+<ol>
+	<li>For some Assignments, your teacher may set prerequisites for each activity to be unlocked. An assignment with Activity Prerequisites will have a Restricted Activity Status and a <strong>Lock</strong> icon displayed on the Activity page.</li>
+	<li>To view the prerequisites for an Activity, click&nbsp;<strong>Prerequisites ( )</strong> on the page. Click the Activity from the Activity Prerequisites pop-up to access the incomplete Activity.</li>
+	<u>Note</u>: The number in parenthesis shows the number of Activity Prerequisites you are required to complete before you can access the restricted Activity.
 </ol>
