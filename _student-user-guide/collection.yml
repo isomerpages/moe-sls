@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Explore SLS Functions.md
+      - Assess/(A1,2) Navigate Quizzes (NEW).md
       - Assess/.keep
       - Assess/Assess.md
       - Assess/(A1,1) Navigate an Assignment.md
