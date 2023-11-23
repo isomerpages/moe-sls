@@ -30,9 +30,24 @@ third_nav_title: Assess
 <ul>
 	<li><strong>Recommended</strong> - The recommended time for you to complete this quiz.</li>
 	<u>Note</u>: If you see Automatic Submission, see Timed Quiz above.
-	<li><strong>Automatic Submission</strong> - If this states “Yes”, automatic submission is turned on and the quiz will be submitted when time is up whether you have completed it or not.</li>
-	<u>Note</u>: If you do not see Automatic Submission, you can submit the quiz even if you exceed the time allocated.
-	<li><strong>Total Marks</strong> - The first mark is the total marks for questions that will be automatically marked. Marks in bracket include questions that will not be automatically marked.</li>
-	<p><img style="width: 80%;" src="/images/1Student/AS-NavigateQuizzes1.png"></p>
+	<li><strong>Quiz Retries</strong> - If this states “Yes”, the option to retry the Quiz is turned on and you will be able to retry the Quiz after submission.</li>
+	<u>Note</u>: Your quiz responses and time taken for this attempt will be deleted.
+	<li><strong>Minimum Score</strong> - You will not be able to Mark Quiz as Complete after submission if you do not hit this minimum score. You will have to Retry Quiz.</li>
+	<li><strong>Total Marks</strong> - The first mark is the total marks for questions that will be automatically marked. If shown, marks in bracket include questions that will not automatically marked.</li>
+	<p><img style="width: 80%;" src="/images/1Student/AS-NavigateQuizzes2.png"></p>
+</ul>
+</ol>
+
+<h2 id="-randomised-quiz">Randomised Quiz</h2>
+<hr>
+<ol>
+<p>You will see the following on the Quiz cover:</p>
+<ul>
+	<li><strong>Recommended</strong> - The recommended time for you to complete this quiz.</li>
+	<u>Note</u>: If you see Automatic Submission, see Timed Quiz above.
+	<li><strong>Randomised Quiz</strong> - If this states “Yes”, the Randomised Quiz is turned on and you will be randomly given pages in the Quiz to attempt. Your pages may not be the same as your peers.</li>
+	<li><strong>Pages Assigned</strong> - Number of pages of questions assigned to you.</li>
+	<li><strong>Total Marks</strong> - The first mark is the total marks for the questions assigned to you that will be automatically marked. If shown, marks in bracket include questions that will not automatically marked.</li>
+	<p><img style="width: 80%;" src="/images/1Student/AS-NavigateQuizzes3.png"></p>
 </ul>
 </ol>
