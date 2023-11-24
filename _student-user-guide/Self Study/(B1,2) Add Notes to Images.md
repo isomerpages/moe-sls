@@ -4,6 +4,7 @@ permalink: /student-user-guide/self-study/add-notes-to-images/
 description: ""
 third_nav_title: Self Study
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="-1b-add-notes-to-images">(B1,2) Add Notes to Images</h1>
 <h2 id="-add-notes-to-images-">Add Notes to Images</h2>
@@ -12,7 +13,7 @@ image: /images/FaviconLight.png
 <ol>
 <li>From within a Lesson, locate an image within an Activity. Click the <strong>Add note to image</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/AnnotateImage24.svg"> icon and click anywhere on the image. <img src="/images/1Student/SS-AnnotateImage.png"></li>
 <li>Select from one of the three Annotation symbols and enter your note in the text box. Should you wish to not leave a note, click <strong>Cancel</strong>.</li>
-<li>You may insert text, mathematical or chemical equations, emoticons, upload a background image or file, or include a drawing in a note.<img style="width: 80%;" src="/images/1Student/SS-Annotate1.png"></li>
+<li>You may insert text, mathematical and chemical equations, emoticons, upload a background image or drawing, attach a file or add an audio recording in a Note.<img style="width: 80%;" src="/images/1Student/SS-Annotate1.png"></li>
 <li>You can also add Keyword Tags to improve the searchability of your notes.</li>
 <li>Once you are done, click <strong>Save</strong>.</li>
 <li>Annotation Notes will be visible in the <strong>Annotation Drawer</strong>. By default, the Annotation Drawer will be opened. Clicking on the <strong>Annotation cards</strong> will bring you to the respective Annotations on the page.</li>
