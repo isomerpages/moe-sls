@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h1>About Self-Study Resources</h1>
 <hr>
-<p>Self-Study List contains&nbsp;a list of resources that you are attempting or have attempted for Self-Study.&nbsp;You&nbsp;can access and review these resources at their own pace. There are three ways to access Self-Study&nbsp;resources&nbsp;within SLS:</p>
+<p>Self-Study List contains a list of resources that you are attempting or have attempted for Self-Study. You can access and review these resources at their own pace. There are three ways to access Self-Study resources within SLS:</p>
 <ul>
 <li>MOE Library</li>
 <li>Class Group Resources</li>
