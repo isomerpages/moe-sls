@@ -4,12 +4,13 @@ permalink: /student-user-guide/assess/attempt-a-fill-in-the-blanks-question/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1 id="attempt-a-fill-in-the-blanks-question">(A2,2) Attempt a Fill-in-the-Blanks Question</h1>
+<h1 id="attempt-a-fill-in-the-blanks-question">(A2,2) Attempt a Fill-in-the-Blanks Question (Enhanced)</h1>
 <h2 id="-fill-in-the-blanks-question-">Fill-in-the-Blanks Question</h2>
 <hr>
 <ol>
-<li><p>To answer a Fill-in-the-Blanks question, key in your answer in the blanks provided.</p>
+<li><p>There are three types of Fill-in-the-Blanks Questions:</p>
 <p><img style="width: 80%;" src="/images/1Student/As-FitB.png"></p>
 </li>
 <li><p>Depending on the requirement of the question, some answers need to be case-sensitive, e.g. the chemical symbol for helium is "He", not "he".</p>
