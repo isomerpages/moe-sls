@@ -9,8 +9,8 @@ third_nav_title: SLS Professional Development
 <hr>
 <table>
   <tbody><tr>
-    <th>Titles</th>
-    <th> Resource</th>
+<th>Titles</th>
+<th style="text-align: center; vertical-align: middle;"> Resources</th>
   </tr>
   <tr>
     <td>Title 1</td>
