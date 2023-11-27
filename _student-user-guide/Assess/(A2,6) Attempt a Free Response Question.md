@@ -4,13 +4,20 @@ permalink: /student-user-guide/assess/attempt-a-free-response-question/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="attempt-a-free-response-question">(A2,6) Attempt a Free-Response Question</h1>
 <h2 id="-free-response-question-">Free-Response Question</h2>
 <hr>
 <ol>
-<li>From R18, your teacher is able to attach a pre-populated Google File to a Free-Response Question. To find out how you can attempt such questions, click <a target="_blank" href="/student-user-guide/assign/attempt-google-attached-files/">here</a>. </li>
-<li>For Free-Response Questions, your may include in your response:<ol style="list-style-type: lower-alpha;">
+<li>Your teacher may have: 
+	<ol style="list-style-type: lower-alpha;">
+		<li>attached a pre-populated Google File to a Free-Response Question. Click <a target="_blank" href="/student-user-guide/assign/attempt-google-attached-files/">here</a> on how to attempt such questions.</li>
+		<li>turned on Feedback Assistant - Mathematics. Click <a target="_blank" href="/student-user-guide/assess/about-mathematics-feedback-assistant/">here</a> on how to attempt such questions.</li>
+	<li>turned on Language Feedback Assistant - English. Click <a target="_blank" href="/student-user-guide/assign/about-language-feedback-assistant-english">here</a> on how to attempt such questions.</li>
+	<li>turned on Short Answer Feedback Assistant. Click <a target="_blank" href="/student-user-guide/assign/about-short-answer-feedback-assistant">here</a> on how to attempt such questions.</li>
+</ol>
+</li><li>For Free-Response Questions, your may include in your response:<ol style="list-style-type: lower-alpha;">
 <li>text in English, Malay, <a target="_blank" href="/student-user-guide/assess/insert-chinese-or-tamil-text/">Chinese or Tamil</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/insert-tables/">tables</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/insert-mathematical-or-chemical-equations/">mathematical or chemical equations</a></li>
@@ -27,7 +34,7 @@ image: /images/FaviconLight.png
 </ol>
 <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"><u>Did You Know</u>:</p>
 <ul>
-<li>If your teacher has set a recommended time, you will be able to see it below the Question Body.</li>
+<li>If your teacher has set a recommended time, you will be able to see it below the Question number.</li>
 </ul>
 <h2 id="-rubrics-in-free-response-questions-">Rubrics in Free-Response Questions</h2>
 <hr>
