@@ -10,7 +10,7 @@ variant: markdown
 <hr>
 <table>
   <tbody><tr>
-<th style="text-align: center; vertical-align: middle;">Titles</th>
+<th style="text-align: center; vertical-align: middle; width:30%">Titles</th>
 <th style="text-align: center; vertical-align: middle;">Links to Lesson</th>
   </tr>
   <tr>
