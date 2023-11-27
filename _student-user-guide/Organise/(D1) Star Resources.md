@@ -23,7 +23,7 @@ variant: markdown
 <hr>
 <ol>
 	<li>Open the left menu and click <strong>Resources</strong>, followed by <strong>Starred Resources</strong>.</li>
-	<li>To unstar a Lesson, click <strong>Open</strong> under the Lesson title. At the Lesson View page, click the <strong>Star</strong> icon to unstar the Lesson.</li>
+	<li>To unstar a Lesson, click <strong>Open</strong> under the Lesson title. At the Lesson View page, click the <strong>Star</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Star.svg" alt="Star Resources #5"> to unstar the Lesson.</li>
 	<p><u>Note</u>: To unstar multiple resources, select the checkbox next to the title of the resource before clicking <strong>Unstar</strong>.</p>
 	<li>To unstar a Question or Media Object, click <strong>View Details</strong>. At the Details subpage, click the <strong>Star</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Star.svg" alt="Star Resources #5"> to unstar the Question or Media Object.</li>
 	<li>Alternatively, if you are viewing a Starred Resource, click the <strong>Star</strong> icon again to unstar it.</li>
