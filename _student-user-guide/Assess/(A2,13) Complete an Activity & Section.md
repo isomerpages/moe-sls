@@ -4,6 +4,7 @@ permalink: /student-user-guide/assess/complete-an-activity-and-section/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="complete-an-activity-section">(A2,13) Complete an Activity &amp; Section</h1>
 <ol>
@@ -19,4 +20,4 @@ image: /images/FaviconLight.png
 </li>
 </ol>
 <img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"><u>Did you know</u>: 
-<p>Sections with prerequisites will be restricted until you have completed all the <a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">Section Prerequisites</a>.</p>
+<p>Activities/Sections with prerequisites will be restricted until you have completed all the <a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">Activities/Section Prerequisites</a>.</p>
