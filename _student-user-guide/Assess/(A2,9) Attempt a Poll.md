@@ -4,6 +4,7 @@ permalink: /student-user-guide/assess/attempt-a-poll/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="attempt-a-poll">(A2,9) Attempt a Poll</h1>
 <ol>
@@ -13,8 +14,8 @@ image: /images/FaviconLight.png
 <li><p>To submit your response, click <strong>Vote</strong>.</p>
 </li>
 <li>Your answer to the Poll will not be graded by the system.</li>
-<li><p>You may choose to <strong>View Class Submissions</strong> before moving on to the next Activity.</p>
-	<p> <u>Note</u>: You can only <strong>View Class Submissions</strong> after you have voted.</p>
+<li><p>You may choose to <strong>View Class Submissions</strong> after you have voted.</p>
+	<p> <u>Note</u>:  If you can only see your response, your teacher may have hidden the poll results.</p>
 </li>
 </ol>
 <img style="width: 50%;" src="/images/1Student/As-Poll1.png">
