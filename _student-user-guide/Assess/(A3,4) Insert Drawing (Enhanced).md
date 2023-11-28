@@ -9,12 +9,12 @@ variant: markdown
 <h1 id="insert-drawing">(A3,4) Insert Drawing (Enhanced)</h1>
 <h2 id="-respond-on-drawing-">Respond on Drawing</h2>
 <hr>
-<p>If your teacher has provided an image for you to edit on, click on the Pencil icon.</p>
+<p>If your teacher has provided an image for you to edit on, click on the <b>Pencil</b> icon.</p>
 <p><img style="width: 50%;" src="/images/1Student/AS-InsertDrawing1.png"></p>
 
 <h2 id="-respond-with-drawing-">Respond with New Drawing</h2>
 <hr>
-<p>If your teacher wants you to respond with a new drawing, click the&nbsp;Drawing&nbsp;icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Drawing.svg"> in the Rich Text Editor.</p>
+<p>If your teacher wants you to respond with a new drawing, click the <b>Drawing</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Drawing.svg"> in the Rich Text Editor.</p>
 <ul>
 <li>By default, when you click on the <b>Drawing</b> icon, you will start with a blank canvas.</li>
 <li>You can click on the <b>Image</b> button to upload an image as background from your computer.</li>
