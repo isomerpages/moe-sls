@@ -4,17 +4,33 @@ permalink: /student-user-guide/assess/insert-drawing/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1 id="insert-drawing">(A3,4) Insert Drawing</h1>
-<h2 id="-respond-with-drawing-">Respond with Drawing</h2>
+<h1 id="insert-drawing">(A3,4) Insert Drawing (Enhanced)</h1>
+<h2 id="-respond-on-drawing-">Respond on Drawing</h2>
 <hr>
-<p>You can submit a response with a diagram using the drawing tool.</p>
-<ol>
-<li>Select the <strong>Add Drawing/Image</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Drawing.svg"> in the toolbar.</li>
-<li>You may select either <strong>Blank Drawing</strong> or <strong>Upload a Background Image</strong> to draw on.</li>
-</ol>
-<h2 id="-starting-with-blank-drawing-">Starting with Blank Drawing</h2>
+<p>If your teacher has provided an image for you to edit on, click on the Pencil icon.</p>
+
+<h2 id="-respond-with-drawing-">Respond with New Drawing</h2>
 <hr>
+<p>If your teacher wants you to respond with a new drawing, click the&nbsp;Drawing&nbsp;icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Drawing.svg"> in the Rich Text Editor.</p>
+<ul>
+<li>By default, when you click on the <b>Drawing</b> icon, you will start with a blank canvas.</li>
+<li>You can click on the <b>Image</b> button to upload an image as background from your computer.</li>
+<li>You can resize the image you have uploaded by dragging the points on the corners of the image.</li>
+<li>You can choose objects on drawings and <b>Move</b>, <b>Delete</b> or send them <b>Forward/Backward.</b></li>
+<li>You can <b>Undo/Redo</b> steps and <b>Zoom in/out</b> of the drawings.</li>
+<li>When you click <b>Clear All</b>, all drawings and images will be deleted.</li>
+<li>You can resize/rotate or crop the final drawings/images before inserting them into the textbox.</li>
+</ul>
+
+<h2 id="-drawing-tools-">Drawing tools</h2>
+<hr>
+<ul>
+<li><b>Pen</b>: Choose from 2 pen tip sizes by clicking on the pencil image for a thin line or the marker image for a thick line.</li>
+	
+</ul>
+
 <ol>
 <li>If you choose to draw on a blank drawing, you will see a white canvas.<ul>
 <li>You may choose from 2 pen tip sizes by clicking the pencil image for a thin line or the marker image for a thick line.</li>
