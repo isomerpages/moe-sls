@@ -85,8 +85,7 @@ variant: markdown
 <h2 id="-starting-with-background-image-">Starting with Background Image</h2>
 <hr>
 <p></p><li>To edit the drawing, click the&nbsp;<b>Edit Image</b>&nbsp;icon&nbsp;<img style="width:1.5rem; display: inline;" src="/images/Icons/EditImage.svg"> to open up the drawing tool again.</li>
+	<li>To delete the entire drawing, click the&nbsp;<b>Delete</b>&nbsp;icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">.
+	</li><li>To download the entire drawing, click the <b>Download</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Download.svg">.
 
-<img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">
-<img style="width:1.5rem; display: inline;" src="/images/Icons/Download.svg">
-
-<p><img style="width: 50%;" src="/images/1Student/AS-InsertDrawing3.png"></p>
+<p><img style="width: 50%;" src="/images/1Student/AS-InsertDrawing3.png"></p></li>
