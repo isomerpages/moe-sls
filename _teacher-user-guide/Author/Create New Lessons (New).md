@@ -6,8 +6,8 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="create-new-lessons-new-">Create New Lessons (New)</h1>
-<h2 id="-create-new-lesson-from-homepage-new-">Create New Lesson from homepage (NEW)</h2>
+<h1 id="create-new-lessons-new-">Create New Lessons</h1>
+<h2 id="-create-new-lesson-from-homepage-new-">Create New Lesson from homepage</h2>
 <hr>
 <ol>
 <li><p>On the homepage, select <strong>Create New/Edit Lesson</strong>. Then under the&nbsp;Create New tab, select</p>
@@ -39,7 +39,6 @@ variant: markdown
 <ol>
 <li>Click on a Class Group on the homepage or from the left menu.</li>
 <li>Click here to learn how to add New Lesson from Class Group.</li>
-<li>Select <strong>New Lesson</strong> from the menu.</li>
 <p><img style="width: 100%;" src="/images/2Teacher/AU-CreateNewLesson2.png"></p>
 </ol>
 
