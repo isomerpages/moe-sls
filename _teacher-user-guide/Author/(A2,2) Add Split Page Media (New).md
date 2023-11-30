@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Author
 ---
-<h1 id="add-split-page-media-">(A2,1) Add Split-page Media (New)</h1>
+<h1 id="add-split-page-media-">(A2,2) Add Split-page Media (New)</h1>
 <h2 id="add-split-page-media">Add Split-page Media</h2>
 <hr>
 <ol>
@@ -38,11 +38,25 @@ third_nav_title: Author
 	
 <h2 id="add-split-page-video">Add Split-page Video</h2>
 <hr>
-
 <p>The video will be split across different pages within the activity, based on the indicated timestamps.</p>
 <ol>
 <li>You can set your preferred start and end times for the video playback. There are two ways to do this:</li>
 <ul><li>Enter the time into the text box in&nbsp;<b>HH:MM:SS</b>&nbsp;or&nbsp;<b>MM:SS</b>&nbsp;format.
-	</li><li>Play the video in the&nbsp;Preview&nbsp;section. When the video reaches the desired start time, click on&nbsp;<b>Capture Start</b>. The text box will be updated with the current position of the video along the timeline. You can do the same with&nbsp;<b>Capture End</b>&nbsp;to set an end time.</li></ul>
-<li>You can Add Timestamp to split the video into multiple pages.
-	</li><li></li></ol>
+	</li><li>Play the video in the&nbsp;preview&nbsp;section. When the video reaches the desired start time, click on&nbsp;<b>Capture Start</b>. The text box will be updated with the current position of the video along the timeline. You can do the same with&nbsp;<b>Capture End</b>&nbsp;to set an end time.</li></ul>
+	<li>You can <b>Add Timestamp</b> to split the video into multiple pages.
+	</li><li>
+	Click <b>Split</b> and <b>OK</b> to proceed.</li>
+</ol>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddSplitPageMedia2.png"></p>
+
+<h2 id="add-split-page-audio">Add Split-page Audio</h2>
+<hr>
+<p>The audio will be split across different pages within the activity, based on the indicated timestamps.</p>
+<ol>
+<li>You can set your preferred start and end times for the audio playback. There are two ways to do this:</li>
+<ul><li>Enter the time into the text box in&nbsp;<b>HH:MM:SS</b>&nbsp;or&nbsp;<b>MM:SS</b>&nbsp;format.
+	</li><li>Play the audio in the&nbsp;preview&nbsp;section. When the video reaches the desired start time, click on&nbsp;<b>Capture Start</b>. The text box will be updated with the current position of the video along the timeline. You can do the same with&nbsp;<b>Capture End</b>&nbsp;to set an end time.</li></ul>
+	<li>You can <b>Add Timestamp</b> to split the audio into multiple pages.
+	</li><li>
+	Click <b>Split</b> and <b>OK</b> to proceed.</li>
+</ol>
