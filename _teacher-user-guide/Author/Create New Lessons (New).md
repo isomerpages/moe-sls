@@ -39,13 +39,13 @@ variant: markdown
 <ol>
 <li>Click on a Class Group on the homepage or from the left menu.</li>
 <li>Click here to learn how to add New Lesson from Class Group.</li>
-<p><img style="width: 100%;" src="/images/2Teacher/AU-CreateNewLesson2.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU-CreateNewLesson3.png"></p>
 </ol>
 
 <h2>Video Tutorial</h2>
-<hr>
+<hr><ol>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Create a Lesson" src="https://www.youtube.com/embed/ZVc9cmS_KrY" height="100%" width="100%"></iframe>
 </div>
 <p>Please note the following update(s):
-</p><ol><li>The “Create New Lesson” button mentioned at 00:05 has been relabelled to “Create/Edit New Lesson” from R20.</li></ol><p></p>
+</p><ol><li>The “Create New Lesson” button mentioned at 00:05 has been relabelled to “Create/Edit New Lesson” from R20.</li></ol><p></p></ol>
