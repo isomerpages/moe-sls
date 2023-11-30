@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/author/upload-question-and-test-interoperability-
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
-variant: tiptap
+variant: markdown
 ---
 <h1 id="upload-question-and-test-interoperability-qti-2-1-files">(A2,2) Upload Question and Test Interoperability (QTI 2.1) Files</h1>
 <h2 id="uploading-a-qti-2-1-zip-file-in-sls">Uploading a QTI 2.1 ZIP file in SLS</h2>
@@ -13,11 +13,12 @@ variant: tiptap
 <li><p>Ensure your QTI file is exported as QTI 2.1 version.  </p>
 <p><img style="width: 100%;" src="/images/2Teacher/AU-AddQTI1.png"></p>
 </li>
-<li><p>From the component bar, under <strong>Question</strong>, find <strong>Add From Existing</strong> and select <strong>Questions from file (QTI).</strong> (screenshot)</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-AddQTI2.png"></p>
+<li><p>In the Lesson Editor page, hover over Question in the Component Bar.
+</p><p><img style="width: 50%;" src="/images/2Teacher/AU-AddQTI2.png"></p>
 </li>
+	<li>Under Add From Existing, select Questions from file (QTI).</li>
 <li><p>Upload a QTI zip file into the Import Question subpage and click <strong>Upload</strong>. You can also import images into options using QTI.</p>
-<p><u>Note</u>: A sample file can be found <a download="" href="https://go.gov.sg/qtisample">here</a></p>
+<p><u>Note</u>: A sample file can be found <a download="" href="https://go.gov.sg/qtisample">here</a>.</p>
 </li>
 <li><p>If the file is valid, it will be uploaded and scanned for viruses.</p>
 <p><u>Note</u>: The virus scan will take longer if the file size is large.</p>
@@ -39,7 +40,7 @@ variant: tiptap
         </ol>
     </li>
     <li>File Upload:<ol style="list-style-type: lower-alpha;">
-            <li>A recognised QTI 2.1 zipped file from any QTI conversion tool (e.g. <a target="_blank" href="https://getmarked.ai/">https://getmarked.ai/</a> ) with no more than 100 questions.</li>
+            <li>A recognised QTI 2.1 zipped file from any QTI conversion tool (e.g. <a target="_blank" href="https://getmarked.ai/">getmarked.ai</a> ) with no more than 100 questions.</li>
         </ol>
     </li>
 </ol>
@@ -55,7 +56,7 @@ variant: tiptap
 <p> Ensure the version of your QTI file is QTI 2.1.</p>
 </li>
 <li><p><strong>Where can I read more about QTI?</strong></p>
-<p> You can check out <a target="_blank" href="https://digitaliser.getmarked.ai/blog/complete-guide-to-qti/">https://digitaliser.getmarked.ai/blog/complete-guide-to-qti/</a></p>
+<p> You can read about it <a target="_blank" href="https://digitaliser.getmarked.ai/blog/complete-guide-to-qti/">here</a>.</p>
 </li>
 <li><p><strong>I tried downloading the zip file on my Safari browser but the file was unzipped automatically.</strong></p>
 <p> Go to your Safari Preference and uncheck 'Open “safe” files after downloading'. This should allow you to download the zip file without it being automatically unzipped.</p>
