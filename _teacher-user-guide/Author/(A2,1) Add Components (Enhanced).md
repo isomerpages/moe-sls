@@ -4,14 +4,16 @@ permalink: /teacher-user-guide/author/add-components/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="add-components-enhanced-">(A2,1) Add Components (Enhanced)</h1>
 <h2 id="add-a-text-media-component">Add a Text/Media Component</h2>
 <hr>
 <ol>
 <li>Hover over Text/Media on the Component Bar to expand the list. </li>
-<li>Click <strong>Text</strong> to open Rich Text Editor. Click <a target="_blank" href="/teacher-user-guide/author/about-rich-text-editor/">here</a> to learn more about Rich Text Editor.</li>
-<li><p>You can also directly attach File From Device, Add/Embed Google File, Add YouTube Video, Add App or Website from the dropdown menu. </p>
+	<li>Click <a target="_blank" href="/teacher-user-guide/author/about-rich-text-editor/">Split-page Media</a> to split the uploaded PowerPoint, video or audio file across pages. (NEW)</li>
+<li>Click <strong>Text</strong> to open Click <a target="_blank" href="/teacher-user-guide/author/about-rich-text-editor/">Rich Text Editor</a>.</li>
+<li><p>You can also directly attach File From Device, embed Google File, YouTube Video, App or Website from the dropdown menu. </p>
 <p> <img style="width: 50%;" src="/images/2Teacher/AU-AddComponent1.png"></p>
 </li>
 </ol>
