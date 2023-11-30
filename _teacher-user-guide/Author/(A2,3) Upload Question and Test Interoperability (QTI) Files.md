@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="upload-question-and-test-interoperability-qti-2-1-files">(A2,2) Upload Question and Test Interoperability (QTI 2.1) Files</h1>
+<h1 id="upload-question-and-test-interoperability-qti-2-1-files">(A2,3) Upload Question and Test Interoperability (QTI 2.1) Files</h1>
 <h2 id="uploading-a-qti-2-1-zip-file-in-sls">Uploading a QTI 2.1 ZIP file in SLS</h2>
 <hr>
 <ol>
