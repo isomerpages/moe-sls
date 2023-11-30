@@ -4,9 +4,9 @@ permalink: /teacher-user-guide/author/add-multiple-choice-questions/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
-variant: tiptap
+variant: markdown
 ---
-<h1 id="add-multiple-choice-questions">(A2,3) Add Multiple-Choice Questions</h1>
+<h1 id="add-multiple-choice-questions">(A2,4) Add Multiple-Choice Questions</h1>
 <h2 id="-add-multiple-choice-question-mcq-">Add Multiple-Choice Question (MCQ)</h2>
 <hr>
 <ol>
@@ -15,16 +15,15 @@ variant: tiptap
 </li>
 <li><p>You may insert an existing Question from Library, Starred Resources or QTI file by selecting <strong>Add from Existing</strong>.</p>
 </li>
-<li>Select <strong>Multiple-Choice</strong> to create your own questions.</li>
-<li><p>Below are the types of MCQ <strong><strong>options </strong></strong>you can choose from:</p>
+<li>Select <strong>Multiple-Choice</strong>. Below are the types of MCQ options you can choose from:<p></p>
 <ul>
 <li>Single-Response: Only one correct answer.</li>
 	<li><p>Multi-Response (MRQ): More than one correct answer.</p></li></ul></li></ol>
 <p><u>Note</u>: Students must choose ALL the correct answers to be awarded marks.</p>
 <ul>
-<li><p>Slider: Only one correct answer. <strong>(NEW)</strong></p>
+<li><p>Slider: Only one correct answer. </p>
 </li>
-<li><p>No correct answer: you can turn on/off this option in the question setting. <strong>(NEW)</strong></p></li></ul>
+<li><p>No correct answer: you can turn on/off this option in the question setting.</p></li></ul>
 <p><u>Note</u>: Students will not be awarded any marks for this question.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/AU-AddMCQ2.png"></p>
 
@@ -43,6 +42,7 @@ variant: tiptap
 <ul>
 <li>Recommended Time - You can set the recommended time for the student to complete the question.</li>
 <li>Hint - This is displayed when students are attempting the question to provide them with a scaffold in solving the question.</li>
+	<u>Note</u>: You can add up to 3 hints for each question. <b>(NEW)</b>
 <li>Feedback - You may enter specific feedback for each option, and overall feedback for the question. After submitting their answers, students will see:<ul>
 <li>The feedback for all correct options.</li>
 <li>The feedback for any incorrect options that they have selected.</li>
