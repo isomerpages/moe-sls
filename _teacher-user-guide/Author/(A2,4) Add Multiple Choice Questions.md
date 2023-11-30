@@ -40,9 +40,9 @@ variant: markdown
 <p>Fill in the optional details of the Multiple-Choice Question:</p>
 <ul>
 <li>Recommended Time - You can set the recommended time for the student to complete the question.</li>
-<li>Hint - This is displayed when students are attempting the question to provide them with a scaffold in solving the question.</li>
-	<u>Note</u>: You can add up to 3 hints for each question. <b>(NEW)</b>
-<li>Feedback - You may enter specific feedback for each option, and overall feedback for the question. After submitting their answers, students will see:<ul>
+<li>Hint - This is displayed when students are attempting the question to provide them with a scaffold in solving the question.
+	<p><u>Note</u>: You can add up to 3 hints for each question. <b>(NEW)</b>
+</p></li><li>Feedback - You may enter specific feedback for each option, and overall feedback for the question. After submitting their answers, students will see:<ul>
 <li>The feedback for all correct options.</li>
 <li>The feedback for any incorrect options that they have selected.</li>
 <li>Overall feedback for the question, regardless of options selected.</li>
