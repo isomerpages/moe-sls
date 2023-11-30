@@ -53,5 +53,5 @@ variant: markdown
 <hr>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Add New using Templates" src="https://www.youtube.com/embed/E_LKZUqKad4" height="100%" width="100%"></iframe></div>
-<p>Please note the following update(s):</p>
-<ul>1. The “Create New Lesson” button mentioned at 00:05 has been relabelled to “Create/Edit New Lesson” from R20.</ul>
+<p>Please note the following update(s):
+</p><ol><li>The “Create New Lesson” button mentioned at 00:05 has been relabelled to “Create/Edit New Lesson” from R20.</li></ol><p></p>
