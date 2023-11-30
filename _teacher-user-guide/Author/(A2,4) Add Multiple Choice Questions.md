@@ -18,18 +18,17 @@ variant: markdown
 <li>Select <strong>Multiple-Choice</strong>. Below are the types of MCQ options you can choose from:<p></p>
 <ul>
 <li>Single-Response: Only one correct answer.</li>
-	<li><p>Multi-Response (MRQ): More than one correct answer.</p></li></ul></li></ol>
+	<li><p>Multi-Response (MRQ): More than one correct answer.</p></li>
 <p><u>Note</u>: Students must choose ALL the correct answers to be awarded marks.</p>
-<ul>
+
 <li><p>Slider: Only one correct answer. </p>
 </li>
-<li><p>No correct answer: you can turn on/off this option in the question setting.</p></li></ul>
+<li><p>No correct answer: you can turn on/off this option in the question setting.</p></li>
 <p><u>Note</u>: Students will not be awarded any marks for this question.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/AU-AddMCQ2.png"></p>
+</ul>
 
-
-
-<ol start="5"><li><p>Type your question in the Question Body.</p>
+</li><li><p>Type your question in the Question Body.</p>
 </li>
 <li>Type your answer options in Option Text.</li>
 <li>Select one correct answer for MCQ and one or more for MRQ.</li>
