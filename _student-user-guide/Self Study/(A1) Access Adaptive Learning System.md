@@ -4,11 +4,12 @@ permalink: /student-user-guide/self-study/access-adaptive-learning-system/
 description: ""
 third_nav_title: Self Study
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="access-adaptive-learning-system-als-">(A1) Access Adaptive Learning System (ALS)</h1>
 <ol>
 <li>Open the left menu from the header at the homepage and click <strong>Resources</strong>, followed by <strong>Adaptive Learning</strong>.</li>
-<li>Access to Adaptive Learning is based on level and subject. Currently, it is <u>only available for Primary 5 Mathematics</u>.</li>
+<li>Access to Adaptive Learning is based on level and subject. Currently, it is <u>only available for Primary 5 and 6 Mathematics</u>.</li>
 <img src="/images/1Student/SS-AccessAdaptiveLearning01.png" style="width: 100%;">
 <li>When students first access the ALS, they will be presented with some questions for the system to understand their learning profile and goals. Students will be prompted to complete the questions again at the start of each week to capture their weekly Learning Goals. These goals can be set and edited on the main Adaptive Learning page.</li>
 <img src="/images/1Student/SS-AccessAdaptiveLearning02.png" style="width: 100%;">
