@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/discover/index/
 description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h2>Discover</h2>
 Use SLS to search for and find useful T&amp;L resources for use in your lessons.
@@ -44,6 +45,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 <li><a href="/teacher-user-guide/discover/make-a-copy-of-a-lesson/" target="_blank">(E1,i) Make a Copy of a Lesson</a></li>
 <li><a target="_blank" href="/teacher-user-guide/discover/view-print-friendly-worksheet/">(E1,ii) View Print-Friendly Worksheet</a></li>
 	<li><a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">(E1,iii) Leave Reviews (New)</a></li>
+	<li><a target="_blank" href="/teacher-user-guide/discover/about-adaptive-learning-system/">(E1,iv) About Adaptive Learning System</a></li>
 </ul>
 </details>
 <details>
