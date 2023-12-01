@@ -47,6 +47,7 @@ variant: markdown
 <ul>
 <li>Recommended Time - You can set the recommended time for the student to complete the question.</li>
 <li>Hint - This is displayed when students are attempting the question to provide them with a scaffold for solving the question.</li>
+		<p><u>Note</u>: You can add up to 3 hints for each question. <b>(NEW)</b></p>
 <li>Feedback - The explanation to the entire question. This is shown to students after they have submitted all their answers to the question.</li>
 <li>Number of tries - This allows the number of tries to be set. The default is one try.</li>
 <li><p>Marks  Per Option - You can set the number of marks per option. The default is one mark per option.</p>
