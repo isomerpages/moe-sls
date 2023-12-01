@@ -4,21 +4,18 @@ permalink: /teacher-user-guide/author/add-audio-response-questions/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
-variant: tiptap
+variant: markdown
 ---
-<h1 id="add-audio-response-questions">(A2,8) Add Audio-Response Questions</h1>
+<h1 id="add-audio-response-questions">(A2,9) Add Audio-Response Questions</h1>
 <h2 id="-add-audio-response-question-arq-">Add Audio-Response Question (ARQ)</h2>
 <hr>
 <ol>
 <li><p>In the Lesson Editor page, hover over Question in the Component Bar.</p>
 <img style="width: 50%;" src="/images/2Teacher/AU-AddARQ1.png">
 </li>
-<li><p>You may insert an existing Question from Library, Starred Resources or QTI file by selecting <strong>Add from Existing</strong>.</p>
-</li>
-<li>Select <strong>Audio-Response</strong> to create your own questions.</li>
-<li>Below are the types of ARQ options you can choose from:<ul>
-<li>Default: You will evaluate students’ submission and provide Marks and/or Feedback.</li>
-<li>Chinese/Malay/Tamil Language Speech Evaluation: The system will provide Marks and/or Feedback.</li>
+<li>Select <strong>Audio-Response</strong>. Below are the types of ARQ options you can choose from:<ul>
+	<li><b>Default</b>: You will evaluate students’ submission and provide Marks and/or Feedback.</li>
+	<li><b><a target="_blank" href="/teacher-user-guide/author/speech-evaluation/">Chinese/Malay/Tamil Language Speech Evaluation</a></b>: The system will provide Marks and/or Feedback.</li>
 </ul>
 </li>
 <li>In the Question Body field, enter the question.</li>
