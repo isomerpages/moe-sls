@@ -4,9 +4,9 @@ permalink: /teacher-user-guide/author/add-free-response-questions/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
-variant: tiptap
+variant: markdown
 ---
-<h1 id="add-free-response-questions">(A2,7) Add Free-Response Questions</h1>
+<h1 id="add-free-response-questions">(A2,8) Add Free-Response Questions (Enhanced)</h1>
 <h2 id="-add-free-response-question-frq-">Add Free-Response Question (FRQ)</h2>
 <hr>
 <ol>
