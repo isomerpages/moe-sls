@@ -13,13 +13,15 @@ variant: markdown
 <li><p>In the Lesson Editor page, hover over Question in the Component Bar.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/AU-AddFRQ1.png"></p>
 </li>
-<li><p>You may insert an existing Question from Library, Starred Resources or QTI file by selecting <strong>Add from Existing</strong>.</p>
-</li>
-<li>Select <strong>Free-Response</strong> to create your own questions.</li>
+
+<li>Select <strong>Free-Response</strong>.</li>
 <li><p>Below are the types of FRQ options you can choose from:</p>
 <ul>
-<li>Default.</li>
-<li>File Submission: Allow file submission checkbox will be checked. If checked, students have the option of uploading a file when they submit their responses. Students can upload up to 10 files. <a target="_blank" href="/teacher-user-guide/author/file-size-limits/">File limits</a> are based on the file type.</li>
+	<li><b>Default</b>: Students will type their response in the answer field.</li>
+	<li><b>File Submission</b>: Allow file submission checkbox will be checked. If checked, students have the option of uploading a file when they submit their responses. Students can upload up to 10 files. <a target="_blank" href="/teacher-user-guide/author/file-size-limits/">File limits</a> are based on the file type.</li>
+	<li><b>Google Response</b>: You can upload a file from Google Drive for students to type their response on.</li>
+	<p><u>Note</u>: You need to <a target="_blank" href="/teacher-user-guide/customise/manage-linked-account/">link your iCON 2.0 / Google Account to SLS.</a></p>
+		<li><b></b>: </li>
 <li>Language Feedback (EL): Learning Feedback Assistant (LFA) is currently undergoing pilot testing in participating schools.</li>
 <li><p>Mathematics Feedback: The question set using Mathematics Feedback will appear in the Pre-populated Student Answer Field. You can edit the question by clicking the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">or delete by clicking the <strong>Trash</strong> icon<img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">. Mathematics Feedback provides feedback (and Marks if checked) to students after they submit their response.</p>
 </li>
