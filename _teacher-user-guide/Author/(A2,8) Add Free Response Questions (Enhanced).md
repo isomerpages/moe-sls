@@ -21,13 +21,14 @@ variant: markdown
 	<li><b>File Submission</b>: Allow file submission checkbox will be checked. If checked, students have the option of uploading a file when they submit their responses. Students can upload up to 10 files. <a target="_blank" href="/teacher-user-guide/author/file-size-limits/">File limits</a> are based on the file type.</li>
 	<li><b>Google Response</b>: You can upload a file from Google Drive for students to type their response on.</li>
 	<p><u>Note</u>: You need to <a target="_blank" href="/teacher-user-guide/customise/manage-linked-account/">link your iCON 2.0 / Google Account to SLS.</a></p>
-		<li><b></b>: </li>
-<li>Language Feedback (EL): Learning Feedback Assistant (LFA) is currently undergoing pilot testing in participating schools.</li>
-<li><p>Mathematics Feedback: The question set using Mathematics Feedback will appear in the Pre-populated Student Answer Field. You can edit the question by clicking the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">or delete by clicking the <strong>Trash</strong> icon<img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">. Mathematics Feedback provides feedback (and Marks if checked) to students after they submit their response.</p>
+	<li><b>Language Feedback Assistant - English</b>: This tool provides basic feedback on students' writing in areas such as spelling and grammar.</li>
+	<li><p><b>Feedback Assistant - Mathematics</b>: The question set using FA - Math will appear in the Pre-populated Student Answer Field. You can edit the question by clicking the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">or delete by clicking the <strong>Trash</strong> icon<img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">. Mathematics Feedback provides feedback (and Marks if checked) to students after they submit their response.</p><p><u>Note</u>: File Submission and Suggested Answer Field is disabled when using Mathematics Feedback.</p>
+			</li><li><p><b>Short Answer Feedback Assistant</b>: This tool provides suggested grades and auto-generated content-related feedback for close-ended, short answer questions for any subject and level.</p>
+				<p><u>Note</u>: Short Answer Feedback Assistant is only available in Teacher-Marked Quiz.</p>
 </li>
 </ul>
 </li>
-<p><u>Note</u>: File Submission and Suggested Answer Field is disabled when using Mathematics Feedback.</p>
+
 <li><p>In the Question Body field, enter the question.</p>
 </li>
 <li>Click outside the Component to <strong>Save</strong>.</li>
@@ -37,7 +38,7 @@ variant: markdown
 <p>Fill in the optional details of the Free-Response question:</p>
 <ul>
 <li>Recommended Time - You can set the recommended time for the student to complete the</li>
-<li>Response Size <strong>(NEW)</strong> - You can adjust the response size (Short, Medium or Long) using dropdown menu to choose the response size best suited for the question.</li>
+<li>Response Size - You can adjust the response size (Short, Medium or Long) using dropdown menu to choose the response size best suited for the question.</li>
 </ul>
 <p><img style="width: 100%;" src="/images/2Teacher/AU-AddFRQ2.png"></p>
 <ul>
