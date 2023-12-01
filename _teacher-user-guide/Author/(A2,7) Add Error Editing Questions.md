@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/author/add-error-editing-questions/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
-variant: tiptap
+variant: markdown
 ---
 <h1 id="add-error-editing-questions">(A2,6) Add Error-Editing Questions</h1>
 <h2 id="-add-error-editing-question-">Add Error-Editing Question</h2>
@@ -12,8 +12,7 @@ variant: tiptap
 <ol>
 <li>In the Lesson Editor page, hover over Question in the Component Bar.</li>
 	<img style="width: 50%;" src="/images/2Teacher/AU-AddErrorEdit.png">
-<li>You may insert an existing Question from Library, Starred Resources or QTI file by selecting <strong>Add from Existing</strong>.</li>
-<li>Click <strong>Error-Editing</strong> to create your own questions.</li>
+<li>Click <strong>Error-Editing</strong>.</li>
 <li>In the Question Body field, enter the question.</li>
 <li><p>There are three options under the Question Body:</p>
 <ul>
@@ -47,7 +46,7 @@ variant: tiptap
 <li>Recommended Time - You can set the recommended time for the student to complete the question.</li>
 <li>Feedback - Enter specific feedback for each line. This will be shown to students in response to the line and error above.</li>
 <li>Overall Feedback (optional) - Enter specific feedback for this question here. Students will be able to view this after their attempt or submission.</li>
-<li>Number of tries - This allows the number of tries. The default is one try.</li>
+<li>Number of tries - This allows the number of tries to be set. The default is one try.</li>
 <li><p>Marks Per Line - You can set the number of marks per line. The default is one mark per line.</p>
 	<p><u>Note</u>: Question Body, Hint, Option text, and Feedback fields support Rich Text-enabled components.</p>
 </li>
