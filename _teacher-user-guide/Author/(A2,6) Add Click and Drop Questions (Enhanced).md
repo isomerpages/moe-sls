@@ -31,6 +31,7 @@ variant: markdown
 	</ul>
 		
 <li>Click the&nbsp;<b>Overflow</b>&nbsp;(<b>3-dot</b>&nbsp;icon) beside the option to:</li>
+			<p><img style="width: 100%;" src="/images/2Teacher/AU_AddClickDrop3.png"></p>
 	<ul><li><b>Place</b>: To place an option on the Base Image. The option will follow your cursor. Click on the Base Image to place the option at that particular position.</li>
 	<li><b>Edit</b>: To edit text (text option only).</li>
 		<li><b>Crop</b>: To crop image (image option only).</li>
