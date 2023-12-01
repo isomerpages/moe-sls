@@ -44,7 +44,7 @@ variant: markdown
 	<p><u>Note</u>: You can add up to 3 hints for each question. <b>(NEW)</b></p>
 <li>Answer Feedback - The explanation to the question's answer(s). This is shown to students after they have submitted their answers.</li>
 <li>Feedback - The explanation to the entire question. This is shown to students after they have submitted all their answers to the question.</li>
-<li>Number of tries - This allows the number of tries. The default is one try.</li>
+<li>Number of tries - This allows the number of tries to be set. The default is one try.</li>
 <li><p>Marks Per Blank - You can set the number of marks per blank. The default is one mark per blank.</p>
 <p><u>Note</u>: Question Body, Hint, Option tex, and Feedback fields support Rich Text-enabled components.</p>
 </li>
