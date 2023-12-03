@@ -6,7 +6,7 @@ third_nav_title: Gamify
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="display-leaderboard-for-students-improved-">(B1) Display Leaderboard for Students (Improved)</h1>
+<h1 id="display-leaderboard-for-students-improved-">(B1) Display Leaderboard for Students</h1>
 <p>Game Leaderboards can be turned on/off from the Assignment Settings subpage and from the Monitor Assignment page.</p>
 <p><u>Note</u>:</p>
 <h2>Display Leaderboards for Students from Assignment Settings subpage</h2>
@@ -18,7 +18,7 @@ variant: markdown
     </li>
     <li>
         <p>Under Gamification Settings, select the checkbox if you wish to display the Individual and/or Team Leaderboard for students.</p>
-      <img style="width: 80%;" src="/images/2Teacher/G-DisplayLeaderboard1.png">
+      <img alt="Display Leaderboard for Students" style="width: 80%;" src="/images/2Teacher/G-DisplayLeaderboard1.png">
     </li>
 </ol>
 <h2>Display Leaderboards for Students from Monitor Assignment page</h2>
@@ -33,7 +33,7 @@ variant: markdown
             </li>
             <li>
                 <p>To turn on the Team Leaderboard, select the <strong>Team</strong> tab, turn&nbsp;<strong>Display Team Leaderboard for students</strong> on.</p>
-							<img style="width: 80%;" src="/images/2Teacher/G-DisplayLeaderboard3.png">
+							<img alt="Display Leaderboard for Students" style="width: 80%;" src="/images/2Teacher/G-DisplayLeaderboard3.png">
             </li>
         </ol>
     </li>
