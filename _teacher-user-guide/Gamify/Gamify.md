@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h1>Gamify</h1>
 <p>Use SLS to create a game layer in my lesson resource to motivate my students.</p>
-<img src="/images/2Teacher/Flow-Gamify1.png">
+<img src="/images/2Teacher/Flow_Gamify1.png">
 
 <a target="_blank" href="/teacher-user-guide/gamify/about-gamification-and-leaderboard/">About Gamification and Leaderboard</a>
 
@@ -22,7 +22,7 @@ variant: markdown
 </ul>
 </details>
 
-<img style="width: 50%;" src="/images/2Teacher/Flow-Gamify2.png">
+<img style="width: 50%;" src="/images/2Teacher/Flow_Gamify2.png">
 
 <details>
 <summary><h4>B. Where to find game Leaderboard?</h4></summary>
