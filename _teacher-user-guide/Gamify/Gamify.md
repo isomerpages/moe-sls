@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/gamify/index/
 description: ""
 third_nav_title: Gamify
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Gamify</h1>
 <p>Use SLS to create a game layer in my lesson resource to motivate my students.</p>
@@ -26,6 +27,7 @@ image: /images/FaviconLight.png
 <summary><h4>B. Where to find game Leaderboard?</h4></summary>
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/gamify/display-leaderboard-for-students/">(B1) Display Leaderboard for Students (Improved)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/gamify/quiz-leaderboard-and-ranking/">(B2) Quiz Leaderboard and Ranking</a></li>
 </ul>
 </details>
 
