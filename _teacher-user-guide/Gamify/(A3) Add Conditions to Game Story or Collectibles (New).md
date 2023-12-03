@@ -7,95 +7,58 @@ image: /images/FaviconLight.png
 third_nav_title: Gamify
 ---
 <h1>(A3) Add Conditions to Game Story or Collectibles (New)</h1>
-<p>Conditions help determine when your Game Stories and Collectibles appear during the lesson. Game Stories and Collectibles will appear after the conditions have been fulfilled. Game Stories and Collectibles with no Conditions will not appear but can be awarded to students manually. To find out how to award Game Stories and Collectibles manually, click here &nbsp;[hyperlink Award XP, Game Story and Achievements Manually]</p>
+<p>Conditions help determine when your Game Stories and Collectibles appear during the lesson. Game Stories and Collectibles will appear after the conditions have been fulfilled. Game Stories and Collectibles with no Conditions will not appear but can be awarded to students manually. To find out how to award Game Stories and Collectibles manually, click <a target="_blank" href="/teacher-user-guide/gamify/award-xp-game-story-and-achievements-manually/">Add Conditions</a>.</p>
 <h2>Types of Game Story and Collectible Conditions</h2>
 <hr>
 <p>Conditions that can be added are included in the table below:</p>
 <table>
-    <thead>
-        <tr>
-            <th>Conditions</th>
-            <th>Game Story/Collectible will appear</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Lesson Start*</td>
-            <td>when students enter the Lesson (any Section/Activity in the Lesson)</td>
-        </tr>
-        <tr>
-            <td>Lesson Progress (Start)</td>
-            <td><br></td>
-        </tr>
-        <tr>
-            <td>a. Section</td>
-            <td><br></td>
-        </tr>
-        <tr>
-            <td>b. Section + Activity</td>
-            <td>a. after students enter the Section or any Activity in the Section</td>
-        </tr>
-        <tr>
-            <td>b. after students enter the Activity</td>
-            <td><br></td>
-        </tr>
-        <tr>
-            <td>Lesson Progress (Completion)</td>
-            <td><br></td>
-        </tr>
-        <tr>
-            <td>a. Section</td>
-            <td><br></td>
-        </tr>
-        <tr>
-            <td>b. Section + Activity</td>
-            <td>a. after students complete the Section</td>
-        </tr>
-        <tr>
-            <td>b. after students complete the Activity</td>
-            <td><br></td>
-        </tr>
-        <tr>
-            <td>Lesson Progress (Quiz Score)</td>
-            <td><br></td>
-        </tr>
-        <tr>
-            <td>a. Section + Auto-Graded Quiz or Progressive Quiz</td>
-            <td><br></td>
-        </tr>
-        <tr>
-            <td>b. Section + Teacher-Marked Quiz</td>
-            <td>a. after students complete the Quiz and meet the specified marks</td>
-        </tr>
-        <tr>
-            <td>b. after teachers release the Quiz to students and students meet the specified marks</td>
-            <td><br></td>
-        </tr>
-        <tr>
-            <td>Game Story</td>
-            <td>after Game Story is awarded</td>
-        </tr>
-        <tr>
-            <td>Collectible</td>
-            <td>after another Collectible is awarded (applies to Collectibles only)</td>
-        </tr>
-        <tr>
-            <td>Game Branches</td>
-            <td>after students make chooses a Game Branch from an earlier awarded Game Story or Collectible</td>
-        </tr>
-        <tr>
-            <td>Level</td>
-            <td>after students reach the required level</td>
-        </tr>
-        <tr>
-            <td>Quiz Rank*</td>
-            <td>after teachers confirm the quiz ranking and students receives the specific quiz rank.</td>
-        </tr>
-    </tbody>
+<thead>
+<tr>
+<th>Conditions</th>
+<th>Game Story/Collectible will appear</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lesson Start*</td>
+<td>when students enter the Lesson (any Section/Activity in the Lesson)</td>
+</tr>
+<tr>
+<td>Lesson Progress (Start)<br>a. Section<br>b. Section + Activity<br></td>
+<td>a. after students enter the Section or any Activity in the Section<br>b. after students enter the Activity<br></td>
+</tr>
+<tr>
+<td>Lesson Progress (Completion)<br>a. Section<br>b. Section + Activity<br></td>
+<td>a. after students complete the Section<br>b. after students complete the Activity<br></td>
+</tr>
+<tr>
+<td>Lesson Progress (Quiz Score)<br>a. Section + Auto-Graded Quiz or Progressive Quiz<br>b. Section + Teacher-Marked Quiz<br></td>
+<td>a. after students complete the Quiz and meet the specified marks<br>b. after teachers release the Quiz to students and students meet the specified marks<br></td>
+</tr>
+<tr>
+<td>Game Story</td>
+<td>after Game Story is awarded</td>
+</tr>
+<tr>
+<td>Collectible</td>
+<td>after another Collectible is awarded (applies to Collectibles only)</td>
+</tr>
+<tr>
+<td>Game Branches</td>
+<td>after students make chooses a Game Branch from an earlier awarded Game Story or Collectible</td>
+</tr>
+<tr>
+<td>Level</td>
+<td>after students reach the required level</td>
+</tr>
+<tr>
+<td>Quiz Rank*</td>
+<td>after teachers confirm the quiz ranking and students receives the specific quiz rank.</td>
+</tr>
+</tbody>
 </table>
-<ul>
-    <li>These conditions cannot be used alongside other conditions.</li>
-</ul>
+<p>*These conditions cannot be used alongside other conditions.</p>
+
 <h2>Adding Conditions to Game Stories or Collectibles</h2>
 <hr>
 <ol>
@@ -110,13 +73,13 @@ third_nav_title: Gamify
     </li>
     <li>
         <p>On the pop-up, click <strong>Add New Conditions</strong> and select</p>
-        <ol>
+        <ol style="list-style-type: lower-alpha;">
             <li>
                 <p><strong>Lesson Start</strong></p>
             </li>
             <li>
-                <p><strong>Lesson Progress</strong> - Select a Section, an Activity/Quiz (optional), and specify the type of condition to be fulfilled. [insert screenshot]</p>
-                <ol>
+                <p><strong>Lesson Progress</strong> - Select a Section, an Activity/Quiz (optional), and specify the type of condition to be fulfilled.</p>
+                <ol style="list-style-type: lower-roman;">
                     <li>Types of condition: Start, Completion, Quiz Score (if a Quiz has been selected)</li>
                 </ol>
             </li>
@@ -133,8 +96,8 @@ third_nav_title: Gamify
                 <p><strong>Level</strong> - Enter the minimum level required.</p>
             </li>
             <li>
-                <p><strong>Quiz Rank -</strong> Select a Section and Quiz. Enter the range of Quiz Rank position. [insert screenshot]</p>
-                <p>Note: Quiz Leaderboard will be made visible for Quizzes with Quiz Rank positions. Learn more about Quiz Leaderboard here [Hyperlink to <strong>Quiz Leaderboard</strong>]</p>
+                <p><strong>Quiz Rank -</strong> Select a Section and Quiz. Enter the range of Quiz Rank position.</p>
+							<p><u>Note</u>: Quiz Leaderboard will be made visible for Quizzes with Quiz Rank positions. Learn more about Quiz Leaderboard here [Hyperlink to <strong>Quiz Leaderboard</strong>]</p>
             </li>
         </ol>
     </li>
@@ -149,19 +112,19 @@ third_nav_title: Gamify
         <p>Click <strong><strong>OK</strong></strong> to save the Condition(s).</p>
     </li>
 </ol>
-<p>Note: The number of Conditions specified for each Game Story and Collectible is indicated in parenthesis, next to “Conditions”.</p>
+<p><u>Note</u>: The number of Conditions specified for each Game Story and Collectible is indicated in parenthesis, next to “Conditions”.</p>
 <h2>Edit Conditions</h2>
 <hr>
 <ol>
-    <li>In the Gamification subpage, select between <strong>Game Stories</strong> and <strong>Collectibles</strong> tab**.**</li>
-    <li>Click the <strong>Pencil</strong> icon beside Conditions (). [insert G-EditCondition.png]</li>
+    <li>In the Gamification subpage, select between <strong>Game Stories</strong> and <strong>Collectibles</strong> tab.</li>
+    <li>Click the <strong>Pencil</strong> icon beside Conditions ().</li>
     <li>After making your changes, click <strong>OK</strong> to confirm your changes.</li>
 </ol>
 <h2>Delete Conditions</h2>
 <hr>
 <ol>
-    <li>In the Gamification subpage, select between <strong>Game Stories</strong> and <strong>Collectibles</strong> tab**.**</li>
-    <li>Click the <strong>Pencil</strong> icon beside Conditions (). [insert G-EditCondition.png]</li>
-    <li>Click the <strong>Delete</strong> icon to next to Condition you wish to delete. [insert G-DeleteCondition.png]</li>
+    <li>In the Gamification subpage, select between <strong>Game Stories</strong> and <strong>Collectibles</strong> tab.</li>
+    <li>Click the <strong>Pencil</strong> icon beside Conditions ().</li>
+    <li>Click the <strong>Delete</strong> icon to next to Condition you wish to delete.</li>
     <li>After making your changes, click <strong>OK</strong> to confirm your changes.</li>
 </ol>
