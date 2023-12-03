@@ -31,10 +31,10 @@ variant: markdown
 </ul>
 </li>
 	<li>To download the Learning Progress for the Class Group, click <b>Download Report</b>. You will receive a notification when the report is ready.
-		<p><u>Note</u>: To download the report, you will have to <a target="_blank" href="files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf">enable pop-ups</a></p></li>
+		<p><u>Note</u>: To download the report, you will have to <a target="_blank" href="files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf">enable pop-ups</a>.</p></li>
 	<li><p>The overall progress of students can be viewed in three ways:</p>
 <ul>
-<li><p>Topical - To view the Awarded Marks as part of the Total Marks for selected questions according to their topics and sub-topics of the selected content map.</p>
+<li><p>Topical - To view the Awarded Marks as part of the Total Marks for questions included in Learning Progress according to their topics and sub-topics of the selected content map.</p>
 	<p><u>Note</u>: Untagged Questions are questions in an Assignment that are not tagged to a content map. Click <strong>View Untagged Questions</strong> to view the Assignments that you have included in Learning Progress containing Untagged Questions.</p>
 </li>
 <li><p>Monthly - To view the monthly trend of the Awarded Marks as a part of the Total Marks.</p>
@@ -45,15 +45,17 @@ variant: markdown
 <li>Click the <strong>Filter</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg"> to filter the overall progress of students (in terms of marks) according to the Month Range and Topic/Sub-topic. Click <strong>Apply</strong> to confirm your selection.</li>
 </ol>
 </li>
-<li><p>Under the <strong>Self-Study</strong> tab, </p>
+<li><p>In the <strong>Self-Study</strong> tab, </p>
 <ol style="list-style-type: lower-alpha;">
-<li>The donut chart shows the Awarded Marks out of the Total Marks.<ul>
-<li>Awarded Marks - the total number of marks students have scored for all attempted questions tagged to the same subject and level as the Class Group, regardless of the content maps and topics.</li>
-<li>Total Marks - the total number of marks for all attempted questions tagged to the same subject and level as the Class Group, regardless of the content maps and topics.</li>
+<li>If there is more than one content map tagged to the Subject, you will be able to select the relevant content map from the dropdown list.</li>
+<li>Under Summary, the donut chart shows the Awarded Marks out of the Total Marks based on the selected Content Map. <ul>
+<li>Awarded Marks - the total number of marks students have scored for all attempted questions tagged to the same subject and level as the Class Group.</li>
+<li>Total Marks - the total number of marks for all attempted questions tagged to the same subject and level as the Class Group.</li>
 <li>Average - the average mark scored out of 100%.</li>
 </ul>
 </li>
-<li>If there are more than one content map tagged to the Subject, you will be able to select the relevant content map from the dropdown list.</li>
+<li>To download the Learning Progress for the Class Group, click Download Report. You will receive a notification when the report is ready.
+	<p><u>Note</u>: To download the report, you will have to <a target="_blank" href="files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf">enable pop-ups</a>.</p></li>
 <li><p>The overall progress of students can be viewed in three ways:</p>
 <ul>
 <li>Topical - To view the Awarded Marks as part of the Total Marks for selected questions according to their topics and sub-topics of the selected content map.</li>
