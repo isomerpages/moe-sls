@@ -14,7 +14,7 @@ variant: markdown
 <li>Select the Lesson you wish to introduce Gamification to. Click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> to enter Lesson Editor page.</li>
 <li>In the Lesson Editor page, open the right menu and click <strong>Manage Gamification Settings</strong> to open the Gamification subpage. </li>
 <li><p>Click the toggle on the top-right corner of the subpage to turn on Gamification. </p>
-<p> <img style="width: 80%;" src="/images/2Teacher/G-ManageGamification1.png"></p>
+<p> <img alt="Manage Gamification Settings" style="width: 80%;" src="/images/2Teacher/G-ManageGamification1.png"></p>
 </li>
 <li><p>In the <strong>Details</strong> tab, fill in the following details:</p>
 <ol style="list-style-type: lower-alpha;">
@@ -32,7 +32,7 @@ variant: markdown
 <ol>
 <li><p>In the Gamification subpage, select the <strong>XP and Level</strong> tab. Under Experience Points Settings, you may fill in the following details:</p>
 <ol style="list-style-type: lower-roman;">
-<li>Quiz Submissions <strong>(New in R20)</strong>- These XP modifiers affect the XP received by students upon submitting a quiz.</li>
+<li>Quiz Submissions <strong>(New in R20)</strong>- These XP modifiers affect the XP received by students upon submitting a quiz. </li>
 <ul> <li><p>Early submission of Quizzes - The student receives a bonus for the entire Quiz if the Quiz is submitted early. The default bonus is 50% and the default number of days to be considered an Early Submission is 1 day before the Section Due Date.</p>
 </li>
 <li><p>Late submission of Quizzes - The student receives a penalty for the entire Quiz if the Quiz is submitted late. The default modifier set is -50%.</p>
