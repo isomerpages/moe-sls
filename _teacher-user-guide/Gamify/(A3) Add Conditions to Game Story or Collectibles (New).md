@@ -62,69 +62,69 @@ third_nav_title: Gamify
 <h2>Adding Conditions to Game Stories or Collectibles</h2>
 <hr>
 <ol>
-    <li>
-        <p>On the Gamification subpage, select between <strong>Game Stories</strong> or <strong>Collectibles</strong> tab.</p>
-    </li>
-    <li>
-        <p>You will need to have an existing  <a target="_blank" href="/teacher-user-guide/gamify/game-stories-and-collectibles/">Game Story and/or Collectible</a> before you can add Conditions to them.</p>
-    </li>
-    <li>
-        <p>On the Game Story or Collectible card, click <strong>Add Conditions.</strong></p>
-    </li>
-    <li>
-        <p>On the pop-up, click <strong>Add New Conditions</strong> and select</p>
-        <ol style="list-style-type: lower-alpha;">
-            <li>
-                <p><strong>Lesson Start</strong></p>
-            </li>
-            <li>
-                <p><strong>Lesson Progress</strong> - Select a Section, an Activity/Quiz (optional), and specify the type of condition to be fulfilled.</p>
-                <ol style="list-style-type: lower-roman;">
-                    <li>Types of condition: Start, Completion, Quiz Score (if a Quiz has been selected)</li>
-                </ol>
-            </li>
-            <li>
-                <p><strong>Game Story</strong> - Select a Game Story that you have created.</p>
-            </li>
-            <li>
-                <p><strong>Collectible</strong> (only for Collectible Conditions) - Select a Game Story that you have created.</p>
-            </li>
-            <li>
-                <p><strong>Game Branch -</strong> Select a Game Story or Collectible with Game Branches, and a Game Branch.</p>
-            </li>
-            <li>
-                <p><strong>Level</strong> - Enter the minimum level required.</p>
-            </li>
-            <li>
-                <p><strong>Quiz Rank -</strong> Select a Section and Quiz. Enter the range of Quiz Rank position.</p>
-							<p><u>Note</u>: Quiz Leaderboard will be made visible for Quizzes with Quiz Rank positions.</p>
-            </li>
-        </ol>
-    </li>
-    <li>
-        <p>When there are two or more conditions, the relationship of the conditions can be specified by and/or logical operators. From the dropdown menu, choose the appropriate operator.</p>
-        <ol>
-            <li><strong>And</strong> - If two conditions are joined together by the And operator, both conditions need to be fulfilled before the Game Story and Collectible can be awarded.</li>
-            <li><strong>Or</strong> - If two conditions are joined together by the Or operator, either condition needs to be fulfilled before the Game Story and Collectible can be awarded.</li>
-        </ol>
-    </li>
-    <li>
-        <p>Click <strong><strong>OK</strong></strong> to save the Condition(s).</p>
-    </li>
+<li>
+<p>On the Gamification subpage, select between <strong>Game Stories</strong> or <strong>Collectibles</strong> tab.</p>
+</li>
+<li>
+<p>You will need to have an existing  <a target="_blank" href="/teacher-user-guide/gamify/game-stories-and-collectibles/">Game Story and/or Collectible</a> before you can add Conditions to them.</p>
+</li>
+<li>
+<p>On the Game Story or Collectible card, click <strong>Add Conditions.</strong></p>
+</li>
+<li>
+<p>On the pop-up, click <strong>Add New Conditions</strong> and select</p>
+<ol style="list-style-type: lower-alpha;">
+<li>
+<p><strong>Lesson Start</strong></p>
+</li>
+<li>
+<p><strong>Lesson Progress</strong> - Select a Section, an Activity/Quiz (optional), and specify the type of condition to be fulfilled.</p>
+<ol style="list-style-type: lower-roman;">
+<li>Types of condition: Start, Completion, Quiz Score (if a Quiz has been selected)</li>
+</ol>
+</li>
+<li>
+<p><strong>Game Story</strong> - Select a Game Story that you have created.</p>
+</li>
+<li>
+<p><strong>Collectible</strong> (only for Collectible Conditions) - Select a Game Story that you have created.</p>
+</li>
+<li>
+<p><strong>Game Branch -</strong> Select a Game Story or Collectible with Game Branches, and a Game Branch.</p>
+</li>
+<li>
+<p><strong>Level</strong> - Enter the minimum level required.</p>
+</li>
+<li>
+<p><strong>Quiz Rank -</strong> Select a Section and Quiz. Enter the range of Quiz Rank position.</p>
+<p><u>Note</u>: Quiz Leaderboard will be made visible for Quizzes with Quiz Rank positions.</p>
+</li>
+</ol>
+</li>
+<li>
+<p>When there are two or more conditions, the relationship of the conditions can be specified by and/or logical operators. From the dropdown menu, choose the appropriate operator.</p>
+<ol>
+<li><strong>And</strong> - If two conditions are joined together by the And operator, both conditions need to be fulfilled before the Game Story and Collectible can be awarded.</li>
+<li><strong>Or</strong> - If two conditions are joined together by the Or operator, either condition needs to be fulfilled before the Game Story and Collectible can be awarded.</li>
+</ol>
+</li>
+<li>
+<p>Click <strong><strong>OK</strong></strong> to save the Condition(s).</p>
+</li>
 </ol>
 <p><u>Note</u>: The number of Conditions specified for each Game Story and Collectible is indicated in parenthesis, next to “Conditions”.</p>
 <h2>Edit Conditions</h2>
 <hr>
 <ol>
-    <li>In the Gamification subpage, select between <strong>Game Stories</strong> and <strong>Collectibles</strong> tab.</li>
-    <li>Click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> beside Conditions ().</li>
-    <li>After making your changes, click <strong>OK</strong> to confirm your changes.</li>
+<li>In the Gamification subpage, select between <strong>Game Stories</strong> and <strong>Collectibles</strong> tab.</li>
+<li>Click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> beside Conditions ().</li>
+<li>After making your changes, click <strong>OK</strong> to confirm your changes.</li>
 </ol>
 <h2>Delete Conditions</h2>
 <hr>
 <ol>
-    <li>In the Gamification subpage, select between <strong>Game Stories</strong> and <strong>Collectibles</strong> tab.</li>
-    <li>Click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> beside Conditions ().</li>
-    <li>Click the <strong>Delete</strong> icon to next to Condition you wish to delete.</li>
-    <li>After making your changes, click <strong>OK</strong> to confirm your changes.</li>
+<li>In the Gamification subpage, select between <strong>Game Stories</strong> and <strong>Collectibles</strong> tab.</li>
+<li>Click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> beside Conditions ().</li>
+<li>Click the <strong>Delete</strong> icon to next to Condition you wish to delete.</li>
+<li>After making your changes, click <strong>OK</strong> to confirm your changes.</li>
 </ol>
