@@ -32,7 +32,7 @@ variant: markdown
 <ol>
 <li><p>In the Gamification subpage, select the <strong>XP and Level</strong> tab. Under Experience Points Settings, you may fill in the following details:</p>
 <ol style="list-style-type: lower-roman;">
-<li>Quiz Submissions <strong>(New in R20)</strong>- These XP modifiers affect the XP received by students upon submitting a quiz. </li>
+<li>Quiz Submissions <strong>(New in R20)</strong>- These XP modifiers affect the XP received by students upon submitting a quiz. Click to find out more about<a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">Quiz Settings</a>.</li>
 <ul> <li><p>Early submission of Quizzes - The student receives a bonus for the entire Quiz if the Quiz is submitted early. The default bonus is 50% and the default number of days to be considered an Early Submission is 1 day before the Section Due Date.</p>
 </li>
 <li><p>Late submission of Quizzes - The student receives a penalty for the entire Quiz if the Quiz is submitted late. The default modifier set is -50%.</p>
