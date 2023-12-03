@@ -34,6 +34,7 @@ variant: markdown
 <li>Under the Class Groups tab on the&nbsp;homepage, pinned Class Groups will appear above unpinned Class Groups.</li>
 <li>On&nbsp;the Class Groups&nbsp;page, pinned Class Groups will appear above unpinned Class Groups.</li>
 <li>In dropdown fields involving Class Groups (e.g. when viewing Class Group Notifications, when accessing the Planner), pinned Class Groups will appear above unpinned Class Groups.</li>
+<li>On the Planner page, Events from pinned Class Groups will appear by default.</li>	
 </ul>
 </li>
 </ol>
