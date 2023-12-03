@@ -25,4 +25,4 @@ third_nav_title: Assess
 <img alt="(C1,ii) Add Language Feedback Assistant for English (LangFA-EL)" src="/images/2Teacher/AS_AddLangFA_EL01.png" style="width: 100%;">
 <li><p>From the Response Size dropdown list, select the response size, or estimated length of students’ response. A short response would be approximately 300 words long, and a long response would be 500 words long. The default Response Size is set to <strong>Medium</strong>.</p></li>
 <img alt="(C1,ii) Add Language Feedback Assistant for English (LangFA-EL)" src="/images/2Teacher/AS_AddLangFA_EL02.png" style="width: 100%;">
-	<li>When you are done editing, click outside the Quiz component to save.</li></ol>
+	<li><p>When you are done editing, click outside the Quiz component to save.</p></li></ol>
