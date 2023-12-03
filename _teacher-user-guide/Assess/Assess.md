@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/assess/index/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Assess</h1>
 <p>Use SLS to set up, mark and give feedback on student work.</p>
@@ -34,7 +35,9 @@ image: /images/FaviconLight.png
 <details>
  <summary><h4>C. How to use automated feedback?</h4></summary>
 <ul>
-    <li><a href="/teacher-user-guide/assess/add-mathematics-feedback-assistant/" target="_blank">(C1) Add Mathematics Feedback Assistant</a></li>
+    <li><a href="/teacher-user-guide/assess/add-feedback-assistant-mathematics/" target="_blank">(C1,i)) Add Feedback Assistant - Mathematics (FA-Math)</a></li>
+	 <li><a href="/teacher-user-guide/assess/add-language-feedback-assistant-for-english/" target="_blank">(C1,ii) Add Language Feedback Assistant for English (LangFA-EL)</a></li>
+	 <li><a href="/teacher-user-guide/assess/add-short-answer-feedback-assistant/" target="_blank">(C1,iii) Add Short Answer Feedback Assistant (ShortAnsFA)</a></li>
   </ul>
 </details>
 <details>
