@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Explore SLS Functions.md
+      - Assess/(D3) About Short Answer Feedback Assistant.md
       - Assess/.keep
       - Assess/Assess.md
       - Assess/(A1,1) Navigate an Assignment (Enhanced).md
