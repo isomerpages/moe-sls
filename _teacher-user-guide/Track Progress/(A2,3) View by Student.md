@@ -19,12 +19,11 @@ variant: markdown
 <img style="width: 100%;" src="/images/2Teacher/TP-LP7.png">
 
 <li><p>Click <strong>View Questions</strong> to see Section &amp; Activity, Question Type, Awarded Marks, Total Marks and Questions.</p></li>
-<img style="width: 100%;" src="/images/2Teacher/TP-LP8.png">
+<img alt="View by Student" style="width: 100%;" src="/images/2Teacher/TP-LP8.png">
 <li><p>Click <strong>View Details</strong> to see the selected question in the Assignment.</p>
 </li>
-<img style="width: 100%;" src="/images/2Teacher/TP-LP9.png">
+<img alt="View by Student" style="width: 100%;" src="/images/2Teacher/TP-LP9.png">
 <li><p>To open the Assignment, click the <strong>Expand</strong> icon. <img style="width:1rem; display: inline;" src="/images/Icons/external-link.svg"></p>
 </li>
 </ol>
 <p><u>Note</u>: To add student(s) into a Subgroup, select the checkboxes beside the name(s) and click <strong>Add to Subgroup</strong> found in the header of the table.</p><img alt="View by Student" style="width: 100%;" src="/images/2Teacher/TP-LP10.png">
-<img alt="Exploring new horizons in education with Teacher's Portal - Lesson Plan 10. 📚✨ #EducationInnovation #LearningJourney" style="width: 100%;" src="/images/2Teacher/TP-LP10.png">
