@@ -66,7 +66,7 @@ third_nav_title: Gamify
         <p>On the Gamification subpage, select between <strong>Game Stories</strong> or <strong>Collectibles</strong> tab.</p>
     </li>
     <li>
-        <p>You will need to have an existing Game Story and/or Collectible [hyperlink to <strong>Game Stories and Collectibles]</strong> before you can add Conditions to them.</p>
+        <p>You will need to have an existing  <a target="_blank" href="/teacher-user-guide/gamify/game-stories-and-collectibles/">Game Story and/or Collectible</a> before you can add Conditions to them.</p>
     </li>
     <li>
         <p>On the Game Story or Collectible card, click <strong>Add Conditions.</strong></p>
@@ -97,7 +97,7 @@ third_nav_title: Gamify
             </li>
             <li>
                 <p><strong>Quiz Rank -</strong> Select a Section and Quiz. Enter the range of Quiz Rank position.</p>
-							<p><u>Note</u>: Quiz Leaderboard will be made visible for Quizzes with Quiz Rank positions. Learn more about Quiz Leaderboard here [Hyperlink to <strong>Quiz Leaderboard</strong>]</p>
+							<p><u>Note</u>: Quiz Leaderboard will be made visible for Quizzes with Quiz Rank positions.</p>
             </li>
         </ol>
     </li>
@@ -117,14 +117,14 @@ third_nav_title: Gamify
 <hr>
 <ol>
     <li>In the Gamification subpage, select between <strong>Game Stories</strong> and <strong>Collectibles</strong> tab.</li>
-    <li>Click the <strong>Pencil</strong> icon beside Conditions ().</li>
+    <li>Click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> beside Conditions ().</li>
     <li>After making your changes, click <strong>OK</strong> to confirm your changes.</li>
 </ol>
 <h2>Delete Conditions</h2>
 <hr>
 <ol>
     <li>In the Gamification subpage, select between <strong>Game Stories</strong> and <strong>Collectibles</strong> tab.</li>
-    <li>Click the <strong>Pencil</strong> icon beside Conditions ().</li>
+    <li>Click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> beside Conditions ().</li>
     <li>Click the <strong>Delete</strong> icon to next to Condition you wish to delete.</li>
     <li>After making your changes, click <strong>OK</strong> to confirm your changes.</li>
 </ol>
