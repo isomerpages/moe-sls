@@ -4,10 +4,11 @@ permalink: /teacher-user-guide/track-progress/view-by-topic/
 description: ""
 third_nav_title: Track Progress
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="-2a-view-by-topic">(A2,1) View by Topic</h1>
 <p>Topics and Sub-topics are displayed according to the Content Map selected. There may be more than one Content Map for a particular subject according to the syllabus by SEAB.</p>
-<p><u>Note</u>: Only questions that are selected to be included will be shown in the Learning Progress. Refer to <a target="_blank" href="/teacher-user-guide/author/add-question-tags/">Tag a Question</a> for more details.</p>
+<p><u>Note</u>: Only questions that are selected to be included will be shown in the Learning Progress. Refer to <a target="_blank" href="/teacher-user-guide/author/add-question-tags/">Add Question Tags</a> for more details.</p>
 <ol>
 <li>On the Learning Progress page, you may view the overall progress of students according to Topics by clicking the <strong>Topical</strong> tab. Under each Topic/Sub-topic, the Awarded Marks, Total Marks, and Marks (shown in percentage) are displayed.</li>
 <li><p>From the list of Topics, you may view the Sub-topics by clicking on the <strong>dropdown arrow</strong> besides each Topic.</p>
@@ -42,7 +43,7 @@ image: /images/FaviconLight.png
 <h3 id="view-untagged-questions">View Untagged Questions</h3>
 <hr>
 <ol>
-<li><p>Click <strong>View Untagged Questions</strong> found above the table. Untagged Questions are questions included in the Learning Progress but are not tagged to a particular Topic or Sub-topic of a Content Map.</p>
+<li><p>Click <strong>View Untagged Questions</strong> found beside the Content Map dropdown list. Untagged Questions are questions included in the Learning Progress but are not tagged to a particular Topic or Sub-topic of a Content Map.</p>
 <p><img style="width: 100%;" src="/images/2Teacher/TP-LP5.png"></p>
 </li>
 <li><p>On the Untagged Questions subpage, the list of Assignments with questions untagged to the Topic or Sub-topic is shown. The total number of Untagged Questions is shown at the top right of the Untagged Questions subpage.</p>
