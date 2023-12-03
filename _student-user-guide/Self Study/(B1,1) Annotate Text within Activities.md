@@ -13,7 +13,7 @@ variant: markdown
 <ol>
 <li>From within a lesson, highlight the text that you want to annotate.</li>
 <li>Select a colour for the highlight. <img src="/images/1Student/SS-Annotate.png" alt="Annotate Text Within Activities #1"></li>
-<li>A textbox will appear. You may choose to highlight the text without adding a Note <img style="width:1.5rem; display: inline;" src="/images/Icons/Highlight.svg" alt="Annotate Text Within Activities #2"> , or add a Note <img style="width:1.5rem; display: inline;" src="/images/Icons/Annotate.svg" alt="Annotate Text Within Activities #3"> to accompany the highlighted text.</li>
+	<li>A textbox will appear. You may choose to <strong>Highlight</strong> the text without adding a Note <img style="width:1.5rem; display: inline;" src="/images/Icons/Highlight.svg" alt="Annotate Text Within Activities #2"> , or add a Note <img style="width:1.5rem; display: inline;" src="/images/Icons/Annotate.svg" alt="Annotate Text Within Activities #3"> to accompany the highlighted text.</li>
 <li>You may insert text, mathematical or chemical equations, emoticons, upload a background image or drawing, attach a file or add an audio recording in a Note. <img style="width: 80%;" src="/images/1Student/SS-Annotate1.png" alt="Annotate Text Within Activities #4"></li>
 <li>You may also add Keyword Tags to improve the searchability of your Note.</li>
 <li><p>Once you are done, click <strong>Save</strong>.</p>
@@ -22,9 +22,7 @@ variant: markdown
 <li><p>Notes will be visible in the <strong>Annotation Drawer</strong>. By default, the Annotation Drawer will be open. Clicking the <strong>Annotation cards</strong> will direct you to the respective Annotations on the current page.</p>
 </li>
 <li>To control the <strong>Annotation Drawer</strong>, click the <strong>Notepad</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Note.svg" alt="Annotate Text Within Activities #4"> and choose <strong>Hide Drawer</strong> or <strong>Expand Drawer</strong>.</li>
-<li><p>By default, you can <a target="_blank" href="/student-user-guide/self-study/comment-on-notes/">add comments</a> to that particular Annotation card. </p>
-	<p> <u>Note</u>: If you have shared your assignment with a peer, he/she will be able to leave comments.</p>
-</li>
+<p> <u>Note</u>: By default, you can <a target="_blank" href="/student-user-guide/self-study/comment-on-notes/">add comments</a> to any Annotation card. If you have shared your assignment with a peer, they will be able to leave comments.</p>
 </ol>
 <h2 id="-editing-and-deleting-annotation-">Editing and Deleting Annotation</h2>
 <hr>
@@ -34,7 +32,7 @@ variant: markdown
 <li>Delete</li>
 <li>Comment On/Off</li>
 </ol>
-<p>You may also click on the <strong>Comments</strong> icon to open the card Details to view the full text or image in an Annotation Notes card and <a target="_blank" href="/student-user-guide/self-study/comment-on-notes/">add a Comment</a>. <img src="/images/1Student/SS-Annotate2.png" alt="Annotate Text Within Activities #5"></p>
+<p>You may also click on the <strong>Comments</strong> icon to open the card Details to view the full text or image in an Annotation card and <a target="_blank" href="/student-user-guide/self-study/comment-on-notes/">add a Comment</a>. <img src="/images/1Student/SS-Annotate2.png" alt="Annotate Text Within Activities #5"></p>
 <h2 id="-e-dictionary-in-annotation-">E-Dictionary in Annotation</h2>
 <hr>
 <p>For Chinese Assignments and Resources with the E-Dictionary enabled, you will be able to highlight text to find its meaning in the E-Dictionary. </p>
