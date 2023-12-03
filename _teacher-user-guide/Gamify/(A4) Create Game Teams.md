@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/gamify/create-game-teams/
 description: ""
 third_nav_title: Gamify
 image: /images/FaviconLight.png
-variant: tiptap
+variant: markdown
 ---
 <h1 id="-3-create-game-teams">(A3) Create Game Teams</h1>
 <p>To enable Team Leaderboard, you will first have to create Game Teams.</p>
