@@ -147,6 +147,7 @@ collections:
       - Enact/.keep
       - Enact/Enact.md
       - Enact/(A1) Change Access to Activities.md
+      - Gamify/(A3) Add Conditions to Game Story or Collectibles (New).md
       - Gamify/.keep
       - Gamify/Gamify.md
       - Gamify/About Gamification and Leaderboard.md
