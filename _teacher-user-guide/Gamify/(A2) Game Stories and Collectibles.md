@@ -22,7 +22,6 @@ variant: markdown
 <li>Game Choice - Enter an option in each branch. To add more branches, click <b>Add Branch</b>. Each branch is an option for students to select when they are awarded the Game Story. </li>
 	<li>Short Response Text - Enter all acceptable answers in Branch A. All other responses provided by students when they are awarded the Game Story will direct them to Branch (All Other Response).</li>
 </ol>
-
 	</ol>	</ol>
 </li><li>Click Create to proceed.</li>
 <p><img alt="Game Stories and Collectibles" style="width: 80%;" src="/images/2Teacher/G-GameStory1.png"></p>
@@ -80,7 +79,7 @@ variant: markdown
                 <p>Click <strong>Create</strong> to proceed.</p>
             </li>
             <li>
-                <p>After creating a Collectible, you may click <strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>Add Conditions</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong> [hyperlink add conditions] to determine when the Collectible will appear during the lesson.</p>
+                <p>After creating a Collectible, you may click <a target="_blank" href="/teacher-user-guide/gamify/add-conditions-to-game-story-or-collectibles/">Add Conditions</a> to determine when the Collectible will appear during the lesson.</p>
             </li>
             <li>
                 <p>To add, reorder, or delete a Collectible, click the <strong>Overflow</strong> (<strong>3</strong>-<strong>dot</strong> icon) on the Collectible card and select the respective options.</p>
