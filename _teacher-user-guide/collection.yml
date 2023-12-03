@@ -147,12 +147,12 @@ collections:
       - Enact/.keep
       - Enact/Enact.md
       - Enact/(A1) Change Access to Activities.md
-      - Gamify/(A3) Add Conditions to Game Story or Collectibles (New).md
       - Gamify/.keep
       - Gamify/Gamify.md
       - Gamify/About Gamification and Leaderboard.md
       - Gamify/(A1) Manage Gamification Settings.md
       - Gamify/(A2) Game Stories and Collectibles.md
+      - Gamify/(A3) Add Conditions to Game Story or Collectibles (New).md
       - Gamify/(A4) Create Game Teams.md
       - Gamify/(B1) Display Leaderboard for Students.md
       - Gamify/(B2) Quiz Leaderboard and Ranking (New).md
