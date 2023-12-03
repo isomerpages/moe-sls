@@ -17,7 +17,8 @@ variant: markdown
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">(A1) Manage Gamification Settings</a></li>
 <li><a target="_blank" href="/teacher-user-guide/gamify/game-stories-and-achievements/">(A2) Game Stories and Achievements</a></li>
-<li><a target="_blank" href="/teacher-user-guide/gamify/create-game-teams/">(A3) Create Game Teams</a></li>
+<li><a target="_blank" href="/teacher-user-guide/gamify/add-conditions-to-game-story-or-collectibles/">(A3) Add Conditions to Game Story or Collectibles</a></li>
+<li><a target="_blank" href="/teacher-user-guide/gamify/create-game-teams/">(A4) Create Game Teams</a></li>
 </ul>
 </details>
 
