@@ -4,10 +4,10 @@ permalink: /teacher-user-guide/assess/add-feedback-assistant-mathematics/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
-variant: tiptap
+variant: markdown
 ---
 <h1>(C1) Add Feedback Assistant - Mathematics</h1>
-<p>Feedback Assistant - Mathematics (FA-Math) is an engine that offers step-by-step feedback to students on their answers.</p>
+<p>The Feedback Assistant - Mathematics (FA-Math) is an engine that offers step-by-step feedback to students on their answers.</p>
 <p><u>Important</u>:</p>
 <ul>
 <li>FA-Math can be added as Prepopulated Student Answer in a Free-Response Question. Students will be informed that FA-Math will provide feedback for the question.</li>
