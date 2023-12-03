@@ -54,4 +54,6 @@ variant: markdown
 <ul><li><a target="_blank" href="/student-user-guide/assess/about-assessments/">(C1) About Assessments (New)</a></li></ul>
 </details>
 <details><summary><h4>D. What types of automated feedback are there? </h4></summary>
-<ul><li><a href="/student-user-guide/assess/about-feedback-assistant-mathematics" target="_blank">(D1) About Feedback Assistant - Mathematics</a></li></ul></details>
+<ul><li><a href="/student-user-guide/assess/about-feedback-assistant-mathematics" target="_blank">(D1) About Feedback Assistant - Mathematics (FA-Math)</a></li></ul>
+<ul><li><a href="/student-user-guide/assess/about-language-feedback-assistant-for-english" target="_blank">(D2) About Language Feedback Assistant for English (LangFA-EL)</a></li></ul>
+<ul><li><a href="/student-user-guide/assess/about-short-answer-feedback-assistant" target="_blank">(D3) About Short Answer Feedback Assistant (ShortAnsFA)</a></li></ul></details>
