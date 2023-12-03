@@ -147,7 +147,6 @@ collections:
       - Enact/.keep
       - Enact/Enact.md
       - Enact/(A1) Change Access to Activities.md
-      - Gamify/(B2) Quiz Leaderboard and Ranking (New).md
       - Gamify/.keep
       - Gamify/Gamify.md
       - Gamify/About Gamification and Leaderboard.md
@@ -155,6 +154,7 @@ collections:
       - Gamify/(A2) Game Stories and Achievements.md
       - Gamify/(A3) Create Game Teams.md
       - Gamify/(B1) Display Leaderboard for Students (Improved).md
+      - Gamify/(B2) Quiz Leaderboard and Ranking (New).md
       - Gamify/(C1) Award XP, Game Story and Achievements Manually.md
       - Notify/.keep
       - Notify/Notify.md
