@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/administer/reset-student-passwords-for-classes/
 description: ""
 third_nav_title: Administer
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="reset-student-passwords-for-classes">(A1,ii) Reset Student Passwords for Classes</h1>
 <p>Owners and Co-teachers can reset the passwords of students in their Class Groups created in School Cockpit. This is necessary for:</p>
@@ -23,7 +24,7 @@ image: /images/FaviconLight.png
 <hr>
 <ol>
 <li>Select a class from the dropdown list.</li>
-<li><p>Select the students by selecting the checkboxes on the left.</p>
+<li><p>Select the students you will be generating the password for, by selecting the checkboxes on the left.</p>
 	<p><u>Note</u>: You cannot reset the password of a locked student account. Please approach your school's SLS School Administrator to do so.</p>
 </li>
 <li><p>Click <strong>Reset Password</strong>.</p>
@@ -31,7 +32,7 @@ image: /images/FaviconLight.png
 </li>
 <li><p>On the confirmation prompt, verify that the correct number of students has been selected.</p>
 </li>
-<li>Click <strong>Ok</strong>.</li>
+<li>Click <strong>OK</strong>.</li>
 </ol>
 <h2 id="verification-code">Verification Code</h2>
 <hr>
