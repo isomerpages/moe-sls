@@ -21,11 +21,13 @@ variant: markdown
 <hr>
 <ol>
     <li>From the homepage, open the left menu and click <strong>Class Groups</strong>. Alternatively, click <strong>Class Groups</strong> under the Class Groups tab.</li>
+	<li>Select a Class Group.</li>
     <li>Click the <strong>Pin</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pin24.svg"> found beside the Class Group name.</li>
     <li>Pinning a Class Group allows quick access to the Class Group. Below is a list of interactions that take place when a Class Group is pinned:
 <ul>
-	<li>From the left menu, pinned Class Groups will appear under Class Groups. (Enhanced in R19)</li>
+	<li>From the left menu, pinned Class Groups will appear under Class Groups.</li>
 	<li>Under the Class Groups tab on the&nbsp;homepage, pinned Class Groups will appear above unpinned Class Groups.</li>
 	<li>On&nbsp;the Class Groups&nbsp;page, pinned Class Groups will appear above unpinned Class Groups.</li>
 	<li>In dropdown fields involving Class Groups (e.g. when viewing Class Group Notifications, when accessing the Planner), pinned Class Groups will appear above unpinned Class Groups.</li>
+	<li>On the Planner page, Events from pinned Class Groups will appear by default.</li>
 </ul></li></ol>
