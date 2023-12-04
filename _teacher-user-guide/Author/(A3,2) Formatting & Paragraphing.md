@@ -31,8 +31,8 @@ variant: markdown
 <ol>
 <li>In the Rich Text Editor, you are able to align your text left/center/right/justify, change the font type and paragraphing style.</li>
 <li>To adjust the text alignment, click on the <strong>Alignment</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/TextAlign.svg">and select an alignment type.</li>
-<li>Click the <strong>dropdown arrow</strong> beside “English” to change the font type.</li>
-<li><p>To change the paragraphing style, click the <strong>dropdown arrow</strong> beside “Paragraph”.</p>
-	<p><u>Note</u>: To ‘adjust’ the font size, you can select a different paragraphing style (i.e. heading style).</p>
+<li>Click the <strong>dropdown arrow</strong> beside English to change the font type.</li>
+<li><p>To change the paragraphing style, click the <strong>dropdown arrow</strong> beside Paragraph.</p>
+	<p><u>Note</u>: To adjust the font size, you can select a different paragraphing style (i.e. heading style).</p>
 </li>
 </ol>
