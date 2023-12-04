@@ -16,7 +16,7 @@ variant: markdown
 <ol style="list-style-type: lower-alpha;">
 <li>From the home page, click the <strong>View Planner</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/CalendarOpen.svg">.</li>
 <li>Open the left menu and click <strong>Planner</strong>.</li>
-<li>Enter a Class Group and click the <strong>Planner</strong> tab.<img style="width: 100%;" src="/images/2Teacher/P-ClassGroupPlanner.png"></li>
+<li>Enter a Class Group and click the <strong>Planner</strong> tab.<img alt="Access Planner" style="width: 100%;" src="/images/2Teacher/P-ClassGroupPlanner.png"></li>
 </ol>
 </li>
 	<li><p>From the Planner dropdown list, select the <strong>Class Group(s)</strong> you wish to view the events for. Click <strong>Apply</strong> to proceed. The total number of Class Groups selected is indicated in parenthesis.</p>
@@ -30,7 +30,7 @@ variant: markdown
 <li>To return to the current date, click <strong>Today</strong>.</li>
 <li>To know what events are happening at the moment, refer to the Red Line.</li>
 </ol>
-<img style="width: 100%;" src="/images/2Teacher/P-Calendar.png"><br>
+<img alt="Access Planner" style="width: 100%;" src="/images/2Teacher/P-Calendar.png"><br>
 <u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
 <p>Assignment cards will appear under day view if there are assignments due today or in the next 3 days.</p>
 <h2>Import Events </h2>
