@@ -33,11 +33,11 @@ variant: markdown
   <li>On the New Class Group Announcements subpage, select the Class Group(s) you wish to send an announcement to, from the dropdown list. Should you create an Announcement from a Class Group, the Class Group would be specified for you.</li>
   <li>You can choose to send the Announcement to <strong>All Students and Teachers</strong> within the Class Group or to <strong>Selected Recipients</strong> from the dropdown list.</li>
   <li>If you choose to send the Announcement to selected recipients, click <strong>Add Recipient</strong> followed by selecting <b>Student</b> or <b>Teacher</b>.
-		<img style="width: 80%;" src="/images/2Teacher/N-NewAnnouncement.png"></li>
+		<img alt="View and Create Announcements" style="width: 80%;" src="/images/2Teacher/N-NewAnnouncement.png"></li>
   <li>In the Add Students/Teachers subpage, select the checkboxes on the left to include students/teachers into the Announcement. You can toggle across Class Groups (should you choose more than 1 Class Group) from the dropdown list. 
-		<img style="width: 80%;" src="/images/2Teacher/N-SelectClassGroup.png"></li>
+		<img alt="View and Create Announcements" style="width: 80%;" src="/images/2Teacher/N-SelectClassGroup.png"></li>
   <li>Click <strong>Add</strong> to proceed.</li>
-  <li>The names of the selected students/teachers will be shown. To remove them from the list, click the <strong>X</strong> beside their names. <img style="width: 80%;" src="/images/2Teacher/N-RemoveStudents.png"></li>
+  <li>The names of the selected students/teachers will be shown. To remove them from the list, click the <strong>X</strong> beside their names. <img alt="View and Create Announcements" style="width: 80%;" src="/images/2Teacher/N-RemoveStudents.png"></li>
 <p><u>Note</u>: All Announcements created will expire after 90 days.</p>
 </ol>
 <h2>Enter Announcement Message</h2>
