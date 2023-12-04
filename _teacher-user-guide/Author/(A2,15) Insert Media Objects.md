@@ -4,9 +4,9 @@ permalink: /teacher-user-guide/author/insert-media-objects/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
-variant: tiptap
+variant: markdown
 ---
-<h1 id="insert-media-objects">(A2,13) Insert Media Objects</h1>
+<h1 id="insert-media-objects">(A2,15) Insert Media Objects</h1>
 <ul>
 <li>You can incorporate Media Objects into your Lesson. Uploaded Media Objects can be reused in future Lessons.</li>
 <li>Only Media Objects from My Drive, Community Gallery and MOE Library are searchable in the global search bar.</li>
@@ -16,14 +16,14 @@ variant: tiptap
 <h2 id="-upload-a-new-media-object-">Upload a New Media Object</h2>
 <hr>
 <ol>
-<li>When editing the Rich Text-enabled component, select <strong>Add Media</strong> and choose <strong>Upload File</strong> option. </li>
+<li>When editing the Rich Text-enabled component, click the <strong>Add Media</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/PaperClip.svg"> and choose <strong>Upload File</strong> option. </li>
 <li>To upload a file,<ul>
 <li>Drag and drop a file into the box; or</li>
 <li>Click on the box and select a file through the file manager.</li>
 </ul>
 </li>
 <li>Click <strong>Upload</strong> when done.</li>
-<li>The types and file sizes of Media Objects that can be uploaded into SLS can be found <a target="_blank" href="/teacher-user-guide/author/file-size-limits/">here</a></li>
+<li>The types and file sizes of Media Objects that can be uploaded into SLS can be found <a target="_blank" href="/teacher-user-guide/author/file-size-limits/">here</a>.</li>
 <li><p>If the file is valid, it will be uploaded and scanned for viruses.</p>
 	<p><u>Note</u>:</p>
 <ul>
