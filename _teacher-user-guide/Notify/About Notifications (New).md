@@ -25,6 +25,7 @@ variant: markdown
 </li>
 <li>You will be able to Flag/Unflag a Notification and select Notifications to Mark As Read.</li>
 <li>Unread Notifications are indicated with a yellow circle on the Notification cards and on the Bell icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Bell.svg"> found on the header of the homepage. 
+<br><br>
 <img style="width: 100%;" src="/images/2Teacher/N-New.png"></li>
 <li>Should you wish to receive SLS Notifications through your email, you will have to <a target="_blank" href="/teacher-user-guide/customise/set-email-notifications/">enable email notifications</a>.</li>
 </ol>
