@@ -4,14 +4,14 @@ permalink: /teacher-user-guide/author/add-display/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
-variant: tiptap
+variant: markdown
 ---
 <h1 id="add-display-new-">(A2,10) Add Display (New)</h1>
 <p>You can add multiple Columns and Accordions display to contain different Components in an Activity.</p>
 <ol>
-<li>Hover over Display in the Component Bar to expand the list.</li>
+<li>In the Lesson Editor page, hover over Display in the Component Bar.</li>
 <li>You can add the following types of Display:<ul>
-<li>Page-Break (New)</li>
+<li>Page-Break</li>
 <li>2-Columns</li>
 <li>3-Columns</li>
 <li>Accordion</li>
@@ -19,14 +19,14 @@ variant: tiptap
 </li>
 </ol>
 <p><u>Note</u>: You can only add Text/Media, Multiple-Choice Questions, and Free-Response Questions components in multiple columns and accordions.</p>
-<h2 id="add-page-break-new-">Add Page-Break (New)</h2>
+<h2 id="add-page-break-new-">Add Page-Break</h2>
 <hr>
 <ol>
 <li>Page-Break will create a page layout and you can add different Components from the Component Bar on each page.</li>
 <li><p>Open the <strong>Overflow</strong> (<strong>3-dot</strong> icon) beside the Page <strong>Number</strong> to Add Page After/Before, Move Left/Right, or Delete.</p>
 	<p><u>Note</u>: The question numbering will continue from the previous page.</p>
 </li>
-<li><p>Click the Up/Down Arrows to move your Components Up/Down within a page.</p>
+	<li><p>Click the <b>Up/Down</b> Arrows to move your Components up/down within a page.</p>
 </li>
 <li><p>Open the <strong>Overflow</strong> (<strong>3-dot</strong> icon) beside the Component to Move it to the Previous/Next Page or Delete.</p>
 	<p><u>Note</u>: </p>
