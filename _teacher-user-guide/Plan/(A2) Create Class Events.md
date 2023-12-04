@@ -6,7 +6,7 @@ third_nav_title: Plan
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A2) Create Class Events (New)</h1>
+<h1>(A2) Create Class Events</h1>
 <p>Class Events improve the way teachers use SLS for in-class lessons by allowing them to attach SLS resources and assignments to events in the Planner. This will help students quickly access their learning materials and easily toggle between SLS and physical resources in class.</p>
 <h3>Creating a New Event</h3>
 <hr>
