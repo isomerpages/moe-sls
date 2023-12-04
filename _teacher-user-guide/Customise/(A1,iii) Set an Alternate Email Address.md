@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/customise/set-an-alternate-email-address/
 description: ""
 third_nav_title: Customise
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="set-an-alternate-email-address">(A1,iii) Set an Alternate Email Address</h1>
 <h2 id="-default-email-address-">Default Email Address</h2>
@@ -19,7 +20,7 @@ image: /images/FaviconLight.png
 <p>Instead of using the default email address, you may also choose to provide an alternate email address for SLS system notifications.</p>
 <ol>
 <li><p>From the homepage, open the right menu and click <strong>Edit Profile</strong>.</p>
-<p><img style="width: 35%;" src="/images/2Teacher/Cu-EditProfile.png"></p>
+<p><img alt="Set an Alternate Email Address" style="width: 50%;" src="/images/2Teacher/Cu-EditProfile.png"></p>
 </li>
 <li><p>Under Account Settings, click <strong>Set</strong> <strong>Email Address</strong>.</p>
 </li>
