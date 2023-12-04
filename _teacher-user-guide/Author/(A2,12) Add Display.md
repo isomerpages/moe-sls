@@ -9,6 +9,7 @@ variant: markdown
 <h1 id="add-display-new-">(A2,10) Add Display (New)</h1>
 <p>You can add multiple Columns and Accordions display to contain different Components in an Activity.</p>
 <ol>
+	<p><img style="width: 50%;" src="/images/2Teacher/AU-AddDisplay.png"></p>
 <li>In the Lesson Editor page, hover over Display in the Component Bar.</li>
 <li>You can add the following types of Display:<ul>
 <li>Page-Break</li>
