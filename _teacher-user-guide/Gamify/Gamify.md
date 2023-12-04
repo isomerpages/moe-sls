@@ -22,7 +22,7 @@ variant: markdown
 </ul>
 </details>
 
-<img style="width: 50%;" src="/images/2Teacher/Flow_Gamify2.png">
+<img style="width: 60%;" src="/images/2Teacher/Flow_Gamify2.png">
 
 <details>
 <summary><h4>B. Where to find game Leaderboard?</h4></summary>
