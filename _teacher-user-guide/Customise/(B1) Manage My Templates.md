@@ -17,10 +17,8 @@ variant: markdown
   <li><a target="_blank" href="/teacher-user-guide/author/create-new-lessons/">Design a Lesson</a> as per usual. Lesson Templates will be indicated with a grey banner on the Lesson Editor and Lesson View page.</li>
 </ol>
 <br><img alt="Manage My Templates" style="width: 80%;" src="/images/2Teacher/Cu-LessonTemplate.png">
-
 <p><u>Note</u>: Instead of creating a new Template from scratch, you can also set an existing Lesson as a Template by selecting <strong>Set as Template</strong> from the right menu.</p>
 <br><img alt="Manage My Templates" style="width: 80%;" src="/images/2Teacher/Cu-SetTemplate.png">
-
 <h2>Editing a Template</h2>
 <hr>
 <ol>
@@ -29,10 +27,8 @@ variant: markdown
   <li>Click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> to make the necessary changes.</li>
   <li>When done, click the <strong>Done</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Done.svg"> to save your changes.</li>
 </ol>
-
 <h2>Deleting a Template</h2>
 <hr>
-
 <ol>
   <li>In your My Template listing, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) followed by <strong>Delete</strong>.</li>
   <li>You can delete more than one Template at one go. Select the Templates using the checkboxes on the left and click <strong>Delete</strong>.</li>
