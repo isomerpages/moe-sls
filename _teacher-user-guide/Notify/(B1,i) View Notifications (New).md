@@ -72,6 +72,7 @@ variant: markdown
 <ol>
     <li>From the Notifications page or Notifications tab (accessed from a Class Group), you can turn on <a target="_blank" href="/teacher-user-guide/customise/set-email-notifications/">Email Notifications</a> for a particular category of Notifications from Notification cards.</li>
     <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and followed by <strong>Turn On/Off Notifications</strong>.</li>
+<img alt="View Notifications" style="width: 100%;" src="/images/1Student/N-EmailNotifications.png">
     <li>When Notifications are turned on, you will be able to receive them in the email you have indicated in SLS.</li>
 </ol>
 <h2>Flag a Notification</h2>
