@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/customise/customise-an-avatar/
 description: ""
 third_nav_title: Customise
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>(A1,i) Customise an Avatar</h1>
 <p>A graphical representation of a user, also known as an Avatar, is used to represent you.</p>
@@ -22,7 +23,7 @@ image: /images/FaviconLight.png
   <li>Click <strong>Save</strong> to proceed.</li>
 </ol>
 <u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
-<p>The 24 preset Avatars were winning entries from the SLS Avatar Competition held from 4 October to 26 November 2021. Congratulations to all the winners!</p>
+<p>24 of the 33 preset Avatars were winning entries from the SLS Avatar Competition held from 4 October to 26 November 2021. Congratulations to all the winners!</p>
 <h3>Video Tutorial</h3>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Profile Management Avatar" src="https://www.youtube.com/embed/BZpFPozaGBw" height="100%" width="100%"></iframe></div>
