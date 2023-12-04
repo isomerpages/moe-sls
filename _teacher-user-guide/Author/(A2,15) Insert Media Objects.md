@@ -33,13 +33,13 @@ variant: markdown
 </li>
 <li>When the file is successfully uploaded, the Media Object will be added to the Lesson.</li>
 </ol>
-<h2 id="-uploading-media-objects-from-an-ios-device-">Uploading Media Objects from an iOS Device</h2>
+<h2 id="-upload-a-media-object-from-an-ios-device-">Upload a Media Object from an iOS Device</h2>
 <hr>
 <ol>
 <li>Uploads via iOS devices are supported.</li>
 <li>However, if you encounter any errors, please ensure that you are uploading files from the <strong>Photo Library, Take Photo or Video, or Browse from Files</strong>.</li>
 </ol>
-<h2 id="-uploading-media-objects-from-an-android-device-">Uploading Media Objects from an Android Device</h2>
+<h2 id="-upload-a-media-object-from-an-android-device-">Upload a Media Object from an Android Device</h2>
 <hr>
 <ol>
 <li>Uploads via Android devices are supported.</li>
@@ -48,10 +48,10 @@ variant: markdown
 </ul>
 </li>
 </ol>
-<h2 id="-add-a-media-object-from-the-library-">Add a Media Object from the Library</h2>
+<h2 id="-add-a-media-object-from-the-library-">Add a Media Object from Library</h2>
 <hr>
 <ol>
-<li>Click <strong>Add Media</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/PaperClip.svg"> and choose <strong>Add from Library</strong>.</li>
+<li>Click the <strong>Add Media</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/PaperClip.svg"> and choose <strong>Add from Library</strong>.</li>
 <li>Search and Filter the Media Object that you want to add from the global search bar.</li>
 <li>Click <strong>View Details</strong> in the Media Object card to see its details such as Title, Description, File Size and where it is Used in.</li>
 <li><p>Click <strong>Choose</strong> to insert the Media Object into the Lesson.</p>
@@ -61,7 +61,7 @@ variant: markdown
 <h2 id="-add-a-media-object-from-starred-resources-">Add a Media Object from Starred Resources</h2>
 <hr>
 <ol>
-<li>Click the <strong>Add Media</strong> icon and choose <strong>Add File from Starred Resources</strong>.</li>
+<li>Click the <strong>Add Media</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/PaperClip.svg"> and choose <strong>Add File from Starred Resources</strong>.</li>
 <li>Click <strong>View Details</strong> in the Media Object card to see its details such as Title, Description, File Size and where it is Used in.</li>
 <li>Click <strong>Choose</strong> to insert the Media Object into the Lesson.</li>
 </ol><img style="width: 100%;" src="/images/2Teacher/AU-AddMedia2.png">
