@@ -30,7 +30,7 @@ variant: markdown
 	<p><u>Note</u>: The <b>End Repeat</b> box will be greyed out if None or Custom are chosen for <b>Repeat</b>.</p>
 	</ol></li>
 <li>Click <strong>Create</strong> to proceed.</li>
-<img style="width: 100%;" src="/images/2Teacher/P-NewEvent.png">
+<img alt="Create Class Events" style="width: 100%;" src="/images/2Teacher/P-NewEvent.png">
 	<li>For a Class Group Event, clicking the <b>View Planner</b> icon will redirect you to the Planner tab within the Class Group. </li>
 </ol>
 <h2>Video Tutorial</h2>
