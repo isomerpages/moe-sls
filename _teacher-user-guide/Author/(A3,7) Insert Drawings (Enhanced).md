@@ -57,9 +57,9 @@ variant: markdown
 	<li>Click the&nbsp;<b>Settings</b>&nbsp;icon&nbsp;<img style="width:1.5rem; display: inline;" src="/images/Icons/Settings2.svg"> to:</li>
 	<ul><li>Edit Title
 </li><li>Edit Description
-		</li><li>Star it as a Resource <b>(NEW)</b>
-		</li><li>Download <b>(NEW)</b>
+		</li><li>Star it as a Resource
 </li><li>Set Permission for Students to download
 		</li><li>Edit Keyword Tags</li>
 </ul>
-	<li>Once done, click the&nbsp;<b>Save</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg">.</li></ul>
+	<li>Once done, click the&nbsp;<b>Save</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg">.</li>
+	<p><img style="width: 50%;" src="/images/1Student/AU_InsertDrawing3.png"></p></ul>
