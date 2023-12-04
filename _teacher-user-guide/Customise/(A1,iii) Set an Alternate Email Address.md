@@ -17,7 +17,7 @@ variant: markdown
 <p>The default email address used in SLS for teachers in MOE HQ is your WOG email (ending with @moe.gov.sg).</p>
 <h2 id="-setting-an-alternate-email-address-">Setting an Alternate Email Address</h2>
 <hr>
-<p>Instead of using the default email address, you may also choose to provide an alternate email address for SLS system notifications.</p>
+<p>Instead of using the default email address, you may also choose to provide an alternate email address for SLS system notifications. <a target="_blank" href="/teacher-user-guide/customise/set-email-notifications/">SLS Notifications</a> and verification codes will be sent to this email, if specified.</p>
 <ol>
 <li><p>From the homepage, open the right menu and click <strong>Edit Profile</strong>.</p>
 <p><img alt="Set an Alternate Email Address" style="width: 50%;" src="/images/2Teacher/Cu-EditProfile.png"></p>
