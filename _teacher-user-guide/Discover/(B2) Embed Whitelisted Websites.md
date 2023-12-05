@@ -3,6 +3,7 @@ title: (B2) Embed Whitelisted Websites
 permalink: /teacher-user-guide/discover/embed-whitelisted-websites/
 description: ""
 third_nav_title: Discover
+variant: markdown
 ---
 <h1 class="page-title">(B2) Embed Whitelisted Websites</h1>
 <p>To identify the newly whitelisted websites, press Ctrl+F and type "NEW!" in the search bar.</p>
@@ -1884,3 +1885,4 @@ https://zoom.us
 <h2 class="section-title">Request for Websites to be Whitelisted</h2>
 <hr>
 <p>If you would like SLS to consider a website for whitelisting, please submit a request through the <a href="https://go.gov.sg/sls-whitelist-form" target="_blank">Website Whitelisting Form</a>. Before doing so, please check that the terms of use of the website allow for embedding into external sites such as SLS.</p>
+</ol>
