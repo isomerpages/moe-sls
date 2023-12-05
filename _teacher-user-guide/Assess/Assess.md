@@ -8,9 +8,7 @@ variant: markdown
 ---
 <h1>Assess</h1>
 <p>Use SLS to set up, mark and give feedback on student work.</p>
-
-<img src="/images/2Teacher/Flow-Assess1.png">
-
+<img src="/images/2Teacher/Flow_Assess1.png">
 <details>
  <summary><h4>A. How to assess students?</h4></summary>
  <ul>
@@ -19,6 +17,7 @@ variant: markdown
     <li><a target="_blank" href="/teacher-user-guide/assess/add-teacher-comments/">(A3,1) Add Teacher Comments</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/annotate-underline-students-responses/">(A3,2) Annotate (Underline) Students' Responses</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/mark-google-attached-files/">(A3,3) Mark Google-Attached Files</a></li>
+<li><a target="_blank" href="/teacher-user-guide/assess/print-to-scan">(A4) Print-to-Scan</a></li>
   </ul>
 </details>
 
