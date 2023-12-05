@@ -4,32 +4,30 @@ permalink: /teacher-user-guide/discover/add-existing-components-from-resources/
 description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>(A1,2) Add Existing Components from Resources</h1>
-
 <h3>Add Existing Questions from Resources</h3>
-
 <hr>
-
-<p>The following question types can be added from&nbsp;Library (MOE Library, Community Gallery, and My Drive),&nbsp;<a target="_blank" href="/teacher-user-guide/organise/star-resources/">Starred Resources</a> or File (QTI).</p>
-
+<p>The following question types can be added from&nbsp;Library (MOE Library, Community Gallery, and My Drive) or <a target="_blank" href="/teacher-user-guide/organise/star-resources/">Starred Resources</a>.</p>
 <ul>
-  <li>Multiple-Choice Question</li>
-  <li>Multiple-Response Question</li>
+  <li>Multiple-Choice/Response Question</li>
   <li>Fill-in-the-Blanks Question</li>
   <li>Click-and-Drop Question</li>
   <li>Error-Editing Question</li>
   <li>Free-Response Question</li>
   <li>Audio-Response Question</li>
 </ul>
-
+<p>The following question types can be added from <a target="_blank" href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/"> File (QTI)</a></p>
+<ul>
+  <li>Multiple-Choice/Response Question</li>
+  <li>Fill-in-the-Blanks Question</li>
+  <li>Free-Response Question</li>
+</ul>
 <p>In the Lesson Editor page, select an Activity and hover your mouse over <strong>Questions</strong> in the Component Bar, followed by <strong>Add From Existing</strong>. Select either <strong>Question from Library</strong>, <strong>Question from Starred Resources</strong>, or <strong>Question from file (QTI)</strong>.</p>
-<img src="/images/2Teacher/D-AddExistingComponent.png">
-
+<img alt="Add Existing Components from Resources" src="/images/2Teacher/D-AddExistingComponent.png">
 <h2>Add Existing Questions from Library and Starred Resources</h2>
-
 <hr>
-
 <ol>
   <li>
     <p>When you add Question from Library, you may search for Questions 
@@ -41,7 +39,7 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
   </li>
   <li>
     <p>Click the <strong>View Details</strong> icon to view the Question Details.</p>
-		<img style="width: 25%;" src="/images/2Teacher/D-AddExistingLesson.png">
+		<img alt="Add Existing Components from Resources" style="width: 50%;" src="/images/2Teacher/D-AddExistingLesson.png">
   </li>
   <li>
     <p>Select the Questions you wish to add to your Activity by selecting the relevant <strong>Question cards</strong>.</p>
@@ -66,19 +64,12 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
     <p>Once the upload is complete, the questions will be displayed in the Activity.</p>
   </li>
 </ol>
-
 <p><u>Note</u>: For questions uploaded from a QTI-compatible file, you will not be able to filter or choose questions.</p>
-
 <h2>Add Media Files from Library</h2>
-
 <hr>
-
-<p>Media files can only be added via Rich Text and on a Lesson Cover.</p>
-
-<p><u>Note</u>: Only images can be added on a Lesson Cover from Library and Starred Resources.</p>
-
+<p>Media files can only be added via Rich Text and on a Lesson/Section Cover.</p>
+<p><u>Note</u>: Only images from Library and Starred Resource can be added on a Lesson/Section Cover.</p>
 <p>The following media files from Lessons can be added from My Drive, Community Gallery, MOE Library, and Starred Resources.</p>
-
 <ul>
   <li>Images</li>
   <li>Videos</li>
@@ -90,7 +81,6 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
   <li>PDF</li>
   <li>ZIP</li>
 </ul>
-
 <ol>
   <li>
     <p>When editing a Component allowing Rich Text, click the&nbsp;<strong>Add Media</strong> icon 
@@ -109,5 +99,3 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
 <h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Add Existing Resources to Lesson" src="https://www.youtube.com/embed/kEuZT_IHXG0" height="100%" width="100%"></iframe></div>
-
-
