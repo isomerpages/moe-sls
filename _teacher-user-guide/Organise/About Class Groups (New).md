@@ -42,8 +42,7 @@ variant: markdown
         <li><a target="_blank" href="/teacher-user-guide/assign/move-assignments/">Move an existing Assignment from one Class Group to another </a></li>
         <li><a target="_blank" href="/teacher-user-guide/organise/manage-class-group-resources/">Class Group Resources </a></li>
         <li><a target="_blank" href="/teacher-user-guide/collaborate/about-the-forum/">Forum</a> that students in the Class Group can access</li>
-<a target="_blank" href="/teacher-user-guide/organise/install-and-launch-apps/">Apps that can be installed</a>
-        <li></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/install-and-launch-apps/">Apps that can be installed</a></li>
         <li>Admin features that can be managed</li>
     </ul>
 </li>
