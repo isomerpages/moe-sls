@@ -73,5 +73,5 @@ variant: markdown
 <h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Introduce Learning Progress" src="https://www.youtube.com/embed/828zJ4XOygQ" height="100%" width="100%"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R20 Introduce Learning Progress" src="https://www.youtube.com/watch?v=kTSuo985vl0" height="100%" width="100%"></iframe>
 </div>
