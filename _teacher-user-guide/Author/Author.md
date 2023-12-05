@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/author/index/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Author</h1>
 <p>Use SLS to design lesson resources aligned to the e-pedagogical principles.</p>
@@ -75,8 +76,6 @@ image: /images/FaviconLight.png
 <details><summary><h4>C. What are the copyright guidelines for resources?</h4></summary>
 <ul>
   <li><a href="/teacher-user-guide/author/resources/" target="_blank">(C1,i) Resources</a></li>
-  <li><a href="/teacher-user-guide/author/copyright-faqs/" target="_blank">(C1,ii) Copyright FAQs</a></li>
-  <li><a href="/teacher-user-guide/author/email-template-for-copyright-clearance/" target="_blank">(C1,iii) Email Template for Copyright Clearance</a></li>
 </ul>
 </details>
 <details>
