@@ -36,3 +36,9 @@ third_nav_title: Gamify
         <p>The timestamp of the confirmation will be shown below Ranking Confirmed. [insert screenshot]</p>
     </li>
 </ol>
+
+<h2>Video Tutorial</h2>
+<hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R20 Leaderboard and Quiz Ranking" src="https://www.youtube.com/watch?v=ClwY5d_2Pp0" height="100%" width="100%"></iframe>
+</div>
