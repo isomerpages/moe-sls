@@ -4,10 +4,12 @@ permalink: /teacher-user-guide/author/edit-detail-cards/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
-variant: tiptap
+variant: markdown
 ---
-<h1 id="edit-detail-cards-new-">(B1,vi) Edit Detail Cards (New)</h1>
-<p>The Lesson Detail card can be found on every page for easier access.</p>
+<h1 id="edit-detail-cards-">(B1,vi) Edit Detail cards</h1>
+<p></p><li>To view a Lesson/Section/Activity/Component/Quiz Detail subpage, click the respective card in the Lesson View page.
+	</li><li>To edit a Lesson/Section/Activity/Component/Quiz Detail subpage, click the&nbsp;<b>Pencil</b>&nbsp;icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> &nbsp;found at the top right of the header to enter the Lesson Editor page, followed by the <b>Settings</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the respective card.</li>
+	<p><u>Note</u>: The Settings Drawer can be expanded/collapsed by clicking the <b>expand/collapse</b> icon.</p><p></p>
 <h2 id="-edit-lesson-details-card-">Edit Lesson Details card</h2>
 <hr>
 <ol>
