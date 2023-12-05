@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/assign/manage-assignments/
 description: ""
 third_nav_title: Assign
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="manage-assignments">(B1,i) Manage Assignments</h1>
 <h2 id="-manage-an-assignment-">Manage an Assignment</h2>
@@ -16,11 +17,11 @@ image: /images/FaviconLight.png
 </ol>
 <h2 id="-assignment-summary-page-">Assignment Summary page</h2>
 <hr>
-<p>On the Assignment Summary page, you will see an Assignment card for the selected Class Group(s). Each Class Group's Assignment Settings can be modified by clicking the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> to access the Assignment Settings subpage.</p>
+<p>On the Assignment Summary page, you will see an Assignment card for the selected Class Group(s). Each Class Group's Assignment Settings can be modified by clicking the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> on the Class Group card to access the Assignment Settings subpage.</p>
 <p>You may modify the following in the Assignment Settings subpage:</p>
 <ul>
 <li><p><strong>Students Assigned</strong> - add or remove students by checking or unchecking the boxes next to the students' names. You may select students by Class Group or Subgroup by clicking the dropdown arrow to show the students' names according to their index number.</p>
-	<p><u>Note</u>: Students who appear in more than one assigned Subgroup will only be assigned the Assignment once. Students who are in more than one of the assigned Class Groups will receive the assigned Lesson multiple times (i.e. Students will receive the Assignment once for each Class Group assigned).</p>
+	<p><u>Note</u>: Students who appear in more than one assigned Subgroup will only be assigned the Assignment once. However, students who are in more than one of the assigned Class Groups will receive the assigned Lesson multiple times (i.e. Students will receive the Assignment once for each Class Group assigned).</p>
 </li>
 <li><p><strong>Schedule</strong> - change Assignment Start and Due Date/Time. You can choose to send students a notification when the Assignment has started by selecting the checkbox beside <strong>Notify students assigned when assignment starts</strong>.</p>
 	<p><u>Note</u>: You can change the Start and Due Dates of individual Sections within a Lesson if the Assignment has not started.</p>
@@ -33,24 +34,24 @@ image: /images/FaviconLight.png
 <li><p><strong>Others</strong>:</p>
 <ul>
 <li><p>Assessment Settings - Turn the Assignment into an Assessment by selecting the checkbox beside <a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">Set as Assessment</a>.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AS-ManageAssignment1.png"></p>
+<p><img alt="Manage Assignments" style="width: 100%;" src="/images/2Teacher/AS-ManageAssignment1.png"></p>
 </li>
 <li><p>Sharing Permissions - Grant permission to students to share their Lesson by selecting the checkbox beside <a target="_blank" href="/teacher-user-guide/assign/allow-students-to-share-assignments/">Allow students to share Assignments</a>.</p>
 </li>
 </ul>
 </li>
 <li><p>If you want to assign an Assignment with a common Assignment Setting to more than one Class Group, click <strong>Common Assignment Settings</strong>. You can set a common Assignment Schedule, Gamification Settings, Assessment Settings, or Permissions.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AS-ManageAssignment2.png"></p>
+<p><img alt="Manage Assignments" style="width: 100%;" src="/images/2Teacher/AS-ManageAssignment2.png"></p>
 	<p><u>Note</u>: By setting Common Assignment Settings, it will overwrite any existing settings that were previously set.</p>
 </li>
 <li><p>Click <strong>Save</strong> to save your changes and <strong>X</strong> to close the subpage.</p>
 </li>
-<li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) to Split, Rename or Delete the Assignment. <strong>(New in R19)</strong><ul>
+<li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) to Split, Rename or Delete the Assignment.<ul>
 <li><strong>Split</strong> - Students will be split by Subgroup or Form Class. To optimise the assignment monitoring experience and reduce loading time, there is a maximum of 100 assigned students for each assignment.</li>
 </ul>
 </li>
 </ul>
-<p><img style="width: 50%;" src="/images/2Teacher/AS-ManageAssignment3.png"></p>
+<p><img alt="Manage Assignments" style="width: 80%;" src="/images/2Teacher/AS-ManageAssignment3.png"></p>
 <ul>
 <li><p>Click <strong>Assign</strong>, found on the top right of the Assignment Summary page to assign the Lesson.</p>
 	<p><u>Note</u>: For Lessons with multiple Sections, it may take some time for the Assignment to appear on your Assignment List.</p>
