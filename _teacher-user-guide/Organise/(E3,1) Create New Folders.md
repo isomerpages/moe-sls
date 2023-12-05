@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/organise/create-new-folders/
 description: ""
 third_nav_title: Organise
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>(E3,1) Create New Folders</h1>
 
@@ -11,9 +12,9 @@ image: /images/FaviconLight.png
 <hr>
 <ol>
   <li>Open the left menu from the header on the homepage. Click <strong>Resources</strong>, followed by <strong>My Drive</strong>. By default, you will be in the My Lessons tab.</li>
-  <li>On the listing page, click <strong>Add New</strong>, followed by <strong>New Folder</strong>.
+  <li>On the My Lessons tab, click <strong>Create/Edit</strong>, followed by <strong>New Folder</strong>.
 </li><br>
-<img style="width: 100%;" src="/images/2Teacher/O-NewFolder.png">
+<img alt="Create New Folders" style="width: 100%;" src="/images/2Teacher/O-NewFolder.png">
 <br>
   <li>In the Add New Folder subpage, enter a Folder Name.</li>
   <li>Click <strong>Add New Folder</strong> once done.</li>
@@ -26,7 +27,7 @@ image: /images/FaviconLight.png
 
 <p>If there are too many folder levels, clicking "..." will bring up a dropdown list of all the levels in between.</p>
 
-<img style="width: 100%;" src="/images/2Teacher/O-MultipleFolders.png">
+<img alt="Create New Folders" style="width: 100%;" src="/images/2Teacher/O-MultipleFolders.png">
 
 <u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
 <p>By default, the resources in My Drive are sorted by folders, followed by files, based on the latest modified date.</p>
