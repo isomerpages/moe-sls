@@ -12,7 +12,7 @@ variant: markdown
 <hr>
 <p>You can move an existing Lesson from one folder to another.</p>
 <ol>
-  <li>To move an existing Lesson into a folder, you can click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Move</strong>. You can select multiple Lessons using the checkboxes on the left and then click <strong>Move</strong>. You may move two or more Lessons in one go.</li>
+  <li>To move an existing Lesson into a folder, you can click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Move</strong>. You can also select the Lesson using the checkboxes on the left and then click <strong>Move</strong>. You may move two or more Lessons in one go.</li>
   <li>In the Move Lesson subpage, select the folder to move the Lesson to. You can also create a <strong>New Folder</strong> within My Lessons folder from this subpage.</li>
 <br><img alt="Manage Folders" style="width: 100%;" src="/images/2Teacher/O-MoveMultiple.png">
 <br><li>Click <strong>Move</strong>.</li>
@@ -21,7 +21,7 @@ variant: markdown
 <h2>Rename a Folder</h2>
 <hr>
 <ol>
-  <li>In the My Lessons tab, locate a folder and click the <strong>Overflow</strong> (<strong>3-dot</strong> icon), followed by <strong>Rename</strong>.</li>
+  <li>In the listing, locate a folder and click the <strong>Overflow</strong> (<strong>3-dot</strong> icon), followed by <strong>Rename</strong>.</li>
   <li>In the Rename Folder subpage, enter a new title.</li>
   <li>Click <strong>Rename</strong> to save the new name.</li>
 </ol>
@@ -29,6 +29,6 @@ variant: markdown
 <h2>Delete a Folder</h2>
 <hr>
 <ol>
-  <li>In the My Lessons tab, locate a folder and click the <strong>Overflow</strong> (<strong>3-dot</strong> icon), followed by <strong>Move to Trash</strong>. Alternatively, you can select multiple folders using the checkboxes on the left and click <strong>Move to Trash</strong> in the table header.</li>
+  <li>In the listing, locate a folder and click the <strong>Overflow</strong> (<strong>3-dot</strong> icon), followed by <strong>Move to Trash</strong>. Alternatively, you can select multiple folders using the checkboxes on the left and click <strong>Move to Trash</strong> in the table header.</li>
   <li>If you have deleted a folder by mistake, it can be restored from the <strong>Trash</strong> tab.</li>
 </ol>
