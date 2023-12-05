@@ -34,15 +34,15 @@ variant: markdown
 <li>In all Class Groups, you will be able to access:
     <ul>
         <li><a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">Class Learning Progress </a>(If the Class Group is tagged to a Subject and Level)</li>
-<li><a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">Upload Response Sheets</a></li>
-<li><a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">Notifications</a></li>
-<li><a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">Planner</a></li>
+<li><a target="_blank" href="/teacher-user-guide/assess/print-to-scan">Upload Response Sheets</a></li>
+<li><a target="_blank" href="/teacher-user-guide/notify/view-and-create-announcements/">Notifications</a></li>
+<li><a target="_blank" href="/teacher-user-guide/plan/access-planner/">Planner</a></li>
 			<li>Add Assignment <a target="_blank" href="/teacher-user-guide/assign/create-assignments/">Add Assignment </a> and <a target="_blank" href="/teacher-user-guide/assign/quick-assign-activities-and-quizzes/">Quick Create </a></li>
         <li>Assignments assigned to the Class Group</li>
         <li><a target="_blank" href="/teacher-user-guide/assign/move-assignments/">Move an existing Assignment from one Class Group to another </a></li>
         <li><a target="_blank" href="/teacher-user-guide/organise/manage-class-group-resources/">Class Group Resources </a></li>
-        <li><a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">Forum</a> that students in the Class Group can access</li>
-<a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">Apps that can be installed</a>
+        <li><a target="_blank" href="/teacher-user-guide/collaborate/about-the-forum/">Forum</a> that students in the Class Group can access</li>
+<a target="_blank" href="/teacher-user-guide/organise/install-and-launch-apps/">Apps that can be installed</a>
         <li></li>
         <li>Admin features that can be managed</li>
     </ul>
