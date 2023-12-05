@@ -22,7 +22,7 @@ variant: markdown
 <li>You can adjust the Height and Width (in pixel) for the whitelisted website display.</li>
 <li>Click <strong>Save</strong> to confirm.</li>
 </ol>
-<a target="_blank" href="/images/2Teacher/D-Whitelisted.png"><img alt="Whitelisted" src="/images/2Teacher/D-Whitelisted.png"></a>
+<a target="_blank" href="/images/2Teacher/D-Whitelisted.png"><img alt="Embed Whitelisted Websites" src="/images/2Teacher/D-Whitelisted.png"></a>
 <table>
 <thead>
 <tr>
