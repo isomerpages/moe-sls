@@ -42,4 +42,7 @@ variant: markdown
 <li><strong>Role</strong> - Teacher</li>
 <li><strong>SLS Account Status</strong> - Not Activated, Not Activated (Locked)</li>
 </ul>
+	<p><img alt="Activate Teacher Account" style="width: 100%;" src="/images/5Admin/A-Filter.png"></p>
+	
 	</li></ol>
+	
