@@ -4,14 +4,14 @@ permalink: /teacher-user-guide/organise/view-lessons-shared-with-me/
 description: ""
 third_nav_title: Organise
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>(E3,2) View Lessons Shared with Me</h1>
 
-<p>Lessons shared with you can now be accessed from My Drive.</p>
-
+<p>Lessons shared with you can be accessed from My Drive.</p>
 <ol>
   <li>Open the left menu from the header on the homepage. Click <strong>Resources</strong>, followed by <strong>My Drive</strong>. By default, you will be in the My Lessons tab.</li>
-  <li>To view the Lessons teachers have shared with you, click <strong>Shared With Me</strong>.</li><br><img style="width: 100%;" src="/images/2Teacher/O-SharedWithMe.png"><br>
+  <li>To view the Lessons teachers have shared with you, click <strong>Shared With Me</strong>.</li><br><img alt="View Lessons Shared with Me" style="width: 100%;" src="/images/2Teacher/O-SharedWithMe.png"><br>
   <li>To search for Lessons shared with you, enter your search term(s) in the <strong>Search Shared With Me</strong> search bar.</li>
   <li>Press "Enter" to view your search results.</li>
   <li>Results to the search term(s) will be listed. You can sort by Title, Type, Last Modified and Owner through the header.</li>
@@ -24,12 +24,13 @@ image: /images/FaviconLight.png
 
 <h2>Deleting a Shared Lesson</h2>
 <hr>
+<p><strong>Important</strong>: This only removes the lesson from your Shared with Me page and does not remove the lesson from the teacher who shared it with you.</p>
 <ol>
   <li>To delete a shared Lesson, in the Shared with Me page, open the Lesson.</li>
   <li>Open the right menu and select <strong>Share with Teachers</strong>.</li>
   <li>Find your name in the Share with Teachers subpage and click <strong>Delete</strong>. </li>
 <br>
-	<img style="width: 100%;" src="/images/2Teacher/O-DeleteShare.png">
+	<img alt="View Lessons Shared with Me" style="width: 100%;" src="/images/2Teacher/O-DeleteShare.png">
  <br><li>Click <strong>Save</strong> to confirm the changes.</li>
   <li>The shared Lesson will no longer be visible under your Shared with Me page.</li>
 </ol>
