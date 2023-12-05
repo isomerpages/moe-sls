@@ -20,11 +20,11 @@ variant: markdown
 <ol>
 <li>From the main login page, click <strong>Login With MIMS</strong>.</li>
 <li>At the MIMS login page, enter your MIMS username and password. </li>
-	<img style="width: 100%;" src="/images/4Troubleshooting/LT-MIMSHomepage.png">
+	<img alt="Log in to SLS (Student)”>
 <li>Click Sign In. </li>
 <li>Upon successful authentication, you will be brought to the SLS homepage.</li>
 </ol>
-<h2 id="unable-to-sign-in-to-mims-account-">Unable to Sign-in to MIMS Account</h2>
+<h2 id=" style="width: 100%;" src="/images/4Troubleshooting/LT_MIMSHomepage.png">Unable to Sign-in to MIMS Account
 <hr>
 <p>Please approach your teacher or MIMS student administrator for assistance. If you are unable to contact a teacher but urgently need to access SLS, you can click <strong>Login With SLS</strong> on the main login page to log in with your SLS username and password. </p>
 <h2 id="-log-in-via-sls-existing-login-page-for-primary-students-">Log in via SLS Existing Login Page (for Primary students)</h2>
@@ -39,4 +39,4 @@ variant: markdown
 <hr>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Navigation Authentication" src="https://www.youtube.com/embed/Yhc_Jbos7w4" height="100%" width="100%"></iframe>
-</div>
+</div></ol>
