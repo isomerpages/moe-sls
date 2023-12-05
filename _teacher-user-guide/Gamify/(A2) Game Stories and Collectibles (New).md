@@ -100,3 +100,8 @@ variant: markdown
 <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the <strong>Game Story</strong>/<strong>Achievement card</strong> and select <strong>Delete</strong>.</li>
 <li>Click <strong>OK</strong> to confirm.</li>
 </ol>
+<h2>Video Tutorial</h2>
+<hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R20 Add Game Stories, Conditions and Branches" src="https://www.youtube.com/watch?v=g5894y15Ykw" height="100%" width="100%"></iframe>
+</div>
