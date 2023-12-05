@@ -4,9 +4,10 @@ permalink: /teacher-user-guide/author/move-lessons-to-trash/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="move-lessons-to-trash">(B1,x) Move Lessons to Trash</h1>
-<p>You can <a target="_blank" href="/teacher-user-guide/organise/delete-resources/">move Lessons to Trash from Lesson View page or My Drive</a> .</p>
+<p>You can move Lessons to Trash from Lesson View page or <a target="_blank" href="/teacher-user-guide/organise/delete-resources/">My Drive</a>.</p>
 <p>To move a Lesson to Trash from Lesson View page,</p>
 <ol>
 <li>Open the right menu and click <strong>Move to Trash</strong>.</li>
