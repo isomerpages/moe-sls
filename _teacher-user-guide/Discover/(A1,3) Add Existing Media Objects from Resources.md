@@ -4,13 +4,11 @@ permalink: /teacher-user-guide/discover/add-existing-media-objects-from-resource
 description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>(A1,3) Add Existing Media Objects from Resources</h1>
-
 <p>Image files can only be added to a Lesson Cover while Media Object can only be added via Rich Text Editor.</p>
-
 <p>The following Media Objects can be added from My Drive, Community Gallery, MOE Library, and Starred Resources.</p>
-
 <ul>
   <li>Image</li>
   <li>Video</li>
@@ -23,11 +21,8 @@ image: /images/FaviconLight.png
   <li>ZIP</li>
   <li>Others</li>
 </ul>
-
 <h2>Add Existing Image Files to Lesson and Section Covers</h2>
-
 <hr>
-
 <ol>
   <li>From the Lesson Editor page, click the <strong>Lesson Cover</strong> icon 
 			<img style="width:1.5rem; display: inline;" src="/images/Icons/Section.svg">	
@@ -41,13 +36,10 @@ image: /images/FaviconLight.png
 		<img style="width:1.5rem; display: inline;" src="/images/Icons/Download.svg"> should you wish to download the image.
   <li>Click the space outside the Component to save your edits.</li>
 </ol>
-
 <h2>Add Existing Media Files from Rich Text Editor</h2>
-
 <hr>
-
 <ol>
-  <li>When editing a Component allowing Rich Text, click the <strong>Add Media</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/PaperClip.svg">.</li>
+  <li>When editing a Component that allows Rich Text, click the <strong>Add Media</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/PaperClip.svg">.</li>
   <li>Click <strong>Add File from Library</strong> or <strong>Add File from Starred Resources</strong> to add an existing Media Object.</li>
   <li>When you add a file from Library, you may  <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">search for Media Objects</a> across MOE Library, Community Gallery and My Drive. You can also apply Search Filter to narrow down your search.</li>
   <li>When you add files from Starred Resources, you are unable to search for Starred Media Objects.</li>
