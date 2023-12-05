@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="view-edit-lesson-plans">(B1,iv) View &amp; Edit Lesson Plans</h1>
+<h1 id="view-edit-lesson-plans-enhanced">(B1,iv) View &amp; Edit Lesson Plans (Enhanced)</h1>
 <h2 id="-view-a-lesson-plan-">View a Lesson Plan</h2>
 <hr>
 <ol>
