@@ -39,10 +39,11 @@ variant: markdown
 <li>You can also edit activities by clicking the <strong>Expand Activity List</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityListExpand.svg"> to open the Full Activity List or clicking the <strong>Lesson Plan</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/courseplan32.svg">.</li>
 <li>In the Full Activity List, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select the following options:<ul>
 <li>Add New - A New Section Cover will be added below the current Section.</li>
-<li>Delete</li>
+	<li>Move Section Up/Down
+</li><li>Delete</li>
+	<p><img style="width: 100%;" src="/images/2Teacher/AU-EditActivitySection2.png"></p>
 </ul>
 </li>
-<li>Go to Lesson Plan, if you want to Move Section Up/Down or to Rename Section Title by clicking the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> to edit the Section Title and Save icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to save.</li>
+<li>Click the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> to edit the Section Title and <b>Save</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to save.</li>
 </ol>
-<p><img style="width: 100%;" src="/images/2Teacher/AU-EditActivitySection2.png"></p>
 <p><u>Note</u>: The viewable toggle is only selectable when there is only one section. When there are two or more sections, it cannot be switched off.</p>
