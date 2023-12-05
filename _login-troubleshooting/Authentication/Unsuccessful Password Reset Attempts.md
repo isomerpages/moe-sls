@@ -11,7 +11,7 @@ variant: markdown
 <hr>
 <ol>
 <li><p>If you answer any of the questions incorrectly, you will be brought to the Password Reset Unsuccessful page.</p>
-<p><img style="width: 100%;" src="/images/4Troubleshooting/LT-UnsuccesfulPassword.png"></p>
+<p><img alt="Unsuccessful Password Reset Attempts”></p>
 
 </li><li>Click <strong>Retry</strong> to try again.</li>
 
@@ -23,11 +23,11 @@ variant: markdown
 </ol>
 
 
-<h2 id="-get-more-help-">Get more Help</h2>
-<hr>
+<h2 id=" style="width: 100%;" src="/images/4Troubleshooting/LT_UnsuccesfulPassword.png">Get more Help
+</p><hr>
 <p>If you still encounter problems resetting your password. you may:</p>
 <ol>
 <li>contact your subject teacher for help.</li>
 <li>contact your <a target="_blank" href="/login-troubleshooting/get-help/get-help-from-your-school/">School-Based Helpline</a>, or</li>
 <li>contact the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a> or call 6702 6513.</li>
-</ol>
+</ol></li></ol>
