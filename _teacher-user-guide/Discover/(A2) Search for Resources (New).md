@@ -4,8 +4,9 @@ permalink: /teacher-user-guide/discover/search-for-resources/
 description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1>(A2) Search for Resources (New)</h1>
+<h1>(A2) Search for Resources</h1>
 <h2>Using Search Bar from Homepage</h2>
 <hr>
 <ol>
@@ -16,7 +17,7 @@ image: /images/FaviconLight.png
 <p><u>Note</u>:</p>
 <ul>
 <li>If you are unsure of what you are searching for, you can leave the Search Bar empty and press <strong>Enter</strong> to return your search results.</li>
-<li>You can also search directly from the various Resource pages (eg. MOE Library, Community Gallery, App Library, External Resources).</li>
+<li>You can also search directly from the various Resource pages (e.g. My Drive, Community Gallery, MOE Library, App Library, External Resources).</li>
 </ul>
 <h2>Add Search Filters</h2>
 <hr>
@@ -31,7 +32,7 @@ image: /images/FaviconLight.png
 <li><strong>Community Gallery</strong> - Lessons shared by teachers</li>
 <li><strong>MOE Library</strong> - Resources produced by MOE</li>
 <li><strong>App Library</strong> - App Resources integrated with SLS</li>
-<li><strong>External Resources</strong> - Whitelisted websites that can be embedded in SLS. <strong>(New in R19)</strong></li>
+<li><strong>External Resources</strong> - Whitelisted websites that can be embedded in SLS.</li>
 </ul>
 </li>
 <li>Under <strong>Resource</strong> (<strong>Resource Type</strong>), select from:
@@ -40,7 +41,7 @@ image: /images/FaviconLight.png
 <li><strong>Questions (or Question Types)</strong></li>
 <li><strong>Media (or Media Types)</strong></li>
 <li><strong>Apps</strong></li>
-<li><strong>Websites</strong> <strong>(New in R19)</strong></li></ul></li>
+<li><strong>Websites</strong></li></ul></li>
 <li>Under <strong>Subject</strong>, select from:
 <ul>
 <li><strong>Assigned Subjects</strong></li>
@@ -61,7 +62,7 @@ image: /images/FaviconLight.png
 <ol>
 <li>You may also select <strong>Add Topic Filters</strong> to filter according to Topics or Sub-topics.</li>
 <p><u>Note</u>: You may search for Resources based on Topics or Sub-topics if they have been tagged to a Content Map.</p>
-<li>To add topic filters, select one <strong>Subject</strong> and one <strong>Level</strong> from the dropdown list.</li>
+	<li>To add topic filters, select <u>one</u> <strong>Subject</strong> and <u>one</u> <strong>Level</strong> from the dropdown list.</li>
 <li>Click <strong>Apply</strong> and choose <strong>Add Topic Filters.</strong></li>
 <li>On the Add Topic Filters subpage, select the relevant <strong>Content Map</strong> dropdown list.</li>
 <li>Select the checkbox to the left of the Topic, Subtopics, or Learning Outcome to narrow down the search results.</li>
@@ -74,7 +75,7 @@ image: /images/FaviconLight.png
 <hr>
 
 <ol>
-<li>You can sort the resources by&nbsp;<em>Relevance </em>to your search term(s), <em>Popularity</em> <strong>(New in R19)</strong>, or according to the date of the latest edit. You can also view the search results in card or List view by clicking 
+<li>You can sort the resources by&nbsp;<em>Relevance </em>to your search term(s), <em>Popularity</em> (only in Community Gallery or MOE Library), or according to the date of the latest edit. You can also view the search results in card or List view by clicking 
 <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png">	and <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">
 </li><li>Click the <strong>Lesson card</strong> to enter the Lesson in a new tab. On the Lesson card, you will be able to view the following information:</li>
 <ul>
@@ -83,15 +84,15 @@ image: /images/FaviconLight.png
 <li>Level and Subject (for Lessons only)</li>
 <li>Type of Resource</li>
 <li>Number of Views (for Lessons only)</li>
-<li>Number of Reviews (for Lessons only) <strong>(New in R19)</strong></li>
+<li>Number of Reviews (for Lessons only</li>
 </ul>
 
 <p><strong>Note</strong>: Resources that are downloadable can be downloaded from the Resource card.</p>
 
-<img style="width: 25%;" alt="LessonCard" src="/images/2Teacher/D-LessonCard.png">
+<img style="width: 50%;" alt="LessonCard" src="/images/2Teacher/D-LessonCard.png">
 
 <li>To view the Lesson Details, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson card, followed by <strong>View Details</strong>. Click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg"> to open the Lesson in a new tab.</li>
-<li>To view the Lesson Reviews, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson card, followed by <strong>View Reviews</strong>. Click <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">here</a> to learn how to leave a Review.</li>
+<li>To view the Lesson Reviews, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson card, followed by <strong>See Reviews</strong>. Click <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">here</a> to learn how to leave a Review.</li>
 <li>To make a copy of the Lesson, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson card, followed by <strong>Copy To</strong>. Click <a target="_blank" href="/teacher-user-guide/organise/copy-lessons-within-my-drive/">here</a> to learn how to copy a resource to My Drive.</li>
 </ol>
 
