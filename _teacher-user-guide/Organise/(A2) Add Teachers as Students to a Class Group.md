@@ -24,7 +24,7 @@ variant: markdown
   <li>When you add a teacher as Student (Group), select a <strong>Group</strong> from the dropdown list. You can then search for the teacher's name from the Search Bar. Alternatively, click the <strong>Filter</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg">to narrow down the search results by School. Click <strong>Apply</strong> to proceed.</li>
   <li>When you add a Teacher as Student, you can search for the teacher's name from the Search Bar. Alternatively, you can filter the teacher by school from the dropdown list.</li>
 </ol>
-<p><img style="width: 100%;" src="/images/2Teacher/O-AddTeacher.png"></p>
+<p><img alt="Add Teachers as Students to a Class Group" style="width: 100%;" src="/images/2Teacher/O-AddTeacher.png"></p>
 <ol start="8">
   <li>Select the checkboxes next to the names of the teachers you wish to add to the Class Group, followed by <strong>Add</strong>.</li>
   <li>Click <strong>Save</strong> to save the changes, followed by <strong>X</strong>.</li>
