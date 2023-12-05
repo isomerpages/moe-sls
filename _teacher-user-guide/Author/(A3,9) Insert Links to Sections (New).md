@@ -4,9 +4,10 @@ permalink: /teacher-user-guide/author/insert-links-to-sections/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1 id="insert-links-to-sections-new-">(A3,9) Insert Links to Sections (New)</h1>
-<h2 id="-add-link-to-section-activity-new-">Add Link to Section/Activity (New)</h2>
+<h1 id="insert-links-to-sections-">(A3,9) Insert Links to Sections</h1>
+<h2 id="-add-link-to-section-activity-new-">Add Link to Section/Activity</h2>
 <hr>
 <ol>
 <li>Click the <strong>dropdown arrow</strong> beside Hyperlink icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Chain.png"> and select <strong>Add Link to Section/Activity</strong>.</li>
@@ -23,6 +24,6 @@ image: /images/FaviconLight.png
 </ul>
 </li>
 </ol>
-<h2 id="edit-remove-link-enhanced-">Edit/Remove Link (Enhanced)</h2>
+<h2 id="edit-remove-link-">Edit/Remove Link</h2>
 <hr>
 <p>You can edit or remove a link by clicking on the linked text in blue and choosing either the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> or the <strong>Remove</strong> <strong>Hyperlink</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Unlink.svg">.</p>
