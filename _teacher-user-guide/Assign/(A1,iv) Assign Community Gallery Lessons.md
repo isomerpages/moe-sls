@@ -11,8 +11,11 @@ variant: markdown
 <hr>
 <ol>
 <li>From the homepage, click <strong>Community Gallery</strong>. Alternatively, open the left menu and click <strong>Resources</strong>, followed by <strong>Community Gallery</strong>.</li>
-<li>Click the Community Gallery <strong>Lesson</strong> <strong>card</strong> that you would like to view.</li>
-<li>On the Lesson View page, click the <strong>Assign</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Assign.svg"> on the header.</li>
+<li>Click the Overflow (3 dots icon) on the Community Gallery&nbsp;<b>Lesson&nbsp;card</b> and select <b>Copy To</b>. Alternatively, open the Lesson then click <b>Overflow</b> (<b>3 dots</b> icon) on the header to open the right menu and <b>Copy To</b>.</li>
+<img alt="Assign Community Gallery Lessons" style="width: 80%;" src="/images/2Teacher/AS-AssignCommunity1.png">
+	<li>You can rename the Title and Choose a Folder to copy the Lesson to. Then click <b>Copy</b>.</li>
+<li>A copy of the Community Gallery Lesson will appear in <b>My Drive</b>. From there, you can 
+<a target="_blank" href="/teacher-user-guide/assign/add-assignments-to-class-group/">Assign to your Class Groups</a></li>
 <li>You may wish to rename the Assignment Title and edit the Permission Settings. The following Lesson Permissions are available:
 <ol style="list-style-type: lower-alpha;">
 <li><strong>Allow teachers to copy/assign/publish and students to copy this Lesson</strong></li>
@@ -29,6 +32,7 @@ variant: markdown
 <li><p>Click the Community Gallery <strong>Lesson</strong> <strong>card</strong> that you would like to view.</p>
 </li>
 <li><p>Click <strong>Overflow (3 dots</strong> icon) on the header to open the right menu and click <strong>Add to Class Group Resources</strong>.</p>
+<img alt="Assign Community Gallery Lessons" style="width: 50%;" src="/images/2Teacher/AS-AssignMOE1.png">
 </li><li>Select the Class Group(s), followed by <strong>Add</strong>.</li>
 <li><p>You may wish to rename the Resource Title, and edit the Permission Settings:</p>
 <ol style="list-style-type: lower-alpha;">
