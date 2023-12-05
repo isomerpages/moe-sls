@@ -40,8 +40,3 @@ variant: markdown
 </ol>
 <p><u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg">  Did You Know</u>: When Leaderboard is turned on, the names of the top 50% of students, based on XP, will be shown on the Leaderboard for students.</p>
 
-<h2>Video Tutorial</h2>
-<hr>
-<div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Enable Leaderboard" src="https://www.youtube.com/embed/OlVbLMi5sJY" height="100%" width="100%"></iframe>
-</div>
