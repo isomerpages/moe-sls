@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/assign/highlight-and-annotate-in-teachers-copy-of
 description: ""
 third_nav_title: Assign
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="highlight-and-annotate-in-teacher-s-copy-of-assignment">(B1,x) Highlight and Annotate in Teacher's Copy of Assignment</h1>
 <h2 id="-create-annotations-highlights-">Create Annotations (Highlights)</h2>
@@ -15,23 +16,23 @@ image: /images/FaviconLight.png
 <li>If there are Sections in the Assignment, select the <strong>Section</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Section.svg"> to view the list of Activities within. To select Activities in a different Section, click the respective <strong>Section</strong> icons. Alternatively, click the <strong>Expand Activity List</strong> icon to view the full list of Sections.</li>
 <li>Use your cursor to highlight any text. The highlight colours will appear automatically. It is also possible to create multiple overlapping highlights. </li>
 <li><p>To highlight a text without leaving a Note, select the <strong>Highlight</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Highlight.svg">. To leave a Note, select <strong>Create Note</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Annotate.svg">. </p>
-<p><img style="width: 80%;" src="/images/2Teacher/AS-HighlightAnnotate1.png"></p>
+<p><img alt="Highlight and Annotate in Teacher's Copy of Assignment" style="width: 80%;" src="/images/2Teacher/AS-HighlightAnnotate1.png"></p>
 </li>
 <li><p>You may also add annotations to images by clicking the <strong>Add Note to Image</strong> icon  below the image and tapping the image to select the area to place the annotation indicator.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AS-HighlightAnnotate2.png"></p>
+<p><img alt="Highlight and Annotate in Teacher's Copy of Assignment" style="width: 80%;" src="/images/2Teacher/AS-HighlightAnnotate2.png"></p>
 </li>
 <li><p>A text box will appear for you to type in your annotation.</p>
 <ul>
-<li>You may insert mathematical/chemical equations, add emoticons, include a drawing or upload a file (including an audio file).</li>
+<li>You may insert mathematical or chemical equations, include emoticons, a drawing or upload a file or audio recording..</li>
 <li><p>You may also add Keyword Tags in your Annotation. This will help to improve searchability.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AS-HighlightAnnotate3.png"></p>
+<p><img alt="Highlight and Annotate in Teacher's Copy of Assignment" style="width: 80%;" src="/images/2Teacher/AS-HighlightAnnotate3.png"></p>
 </li>
 </ul>
 </li>
 <li><p>Once you are done, click <strong>Save</strong>.</p>
 </li>
 <li><p>Annotations will be visible in the Annotations Drawer. Click the <strong>Notepad</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Note.svg"> to Expand/Hide the Annotations Drawer.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/AS-HighlightAnnotate4.png"></p>
+<p><img alt="Highlight and Annotate in Teacher's Copy of Assignment" style="width: 80%;" src="/images/2Teacher/AS-HighlightAnnotate4.png"></p>
 </li>
 </ol>
 <h2 id="-create-notes-">Create Notes</h2>
@@ -45,7 +46,7 @@ image: /images/FaviconLight.png
 <li>Delete</li>
 <li>Comment On/Off</li>
 </ul>
-<p><img style="width: 30%;" src="/images/2Teacher/AS-HighlightAnnotate5.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AS-HighlightAnnotate5.png"></p>
 <p>You can also see the number of Comments beside the Comments icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Comment.svg"> and click the <strong>Comments</strong> icon to <a target="_blank" href="/teacher-user-guide/assess/annotate-underline-students-responses/">view the Annotation and add/view Comments</a>.</p>
 <h2>Video Tutorial</h2>
 <hr>
