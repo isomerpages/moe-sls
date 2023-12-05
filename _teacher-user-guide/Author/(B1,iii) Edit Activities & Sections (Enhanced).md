@@ -38,9 +38,9 @@ variant: markdown
 <li>You can delete a Section by clicking on <strong>Trash</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">. </li>
 <li>You can also edit activities by clicking the <strong>Expand Activity List</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityListExpand.svg"> to open the Full Activity List or clicking the <strong>Lesson Plan</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/courseplan32.svg">.</li>
 <li>In the Full Activity List, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select the following options:<ul>
-<li>Add New - A New Section Cover will be added below the current Section.</li>
-	<li>Move Section Up/Down
-</li><li>Delete</li>
+	<li><b>Add New</b> - A New Section Cover will be added below the current Section.</li>
+	<li><b>Move Section Up/Down</b>
+	</li><li><b>Delete</b></li>
 	<p><img style="width: 100%;" src="/images/2Teacher/AU-EditActivitySection2.png"></p>
 </ul>
 </li>
