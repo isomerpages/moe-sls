@@ -4,9 +4,9 @@ permalink: /teacher-user-guide/author/view-and-edit-lesson-plans/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="view-edit-lesson-plans">(B1,iv) View &amp; Edit Lesson Plans</h1>
-<p>The yellow navigation arrow in the Lesson Plan indicates your current view of the Lesson.</p>
 <h2 id="-view-a-lesson-plan-">View a Lesson Plan</h2>
 <hr>
 <ol>
@@ -14,7 +14,7 @@ image: /images/FaviconLight.png
 <li>The yellow navigation arrow in the Lesson Plan indicates your current view of the Lesson.</li>
 <li>To view the list of Activities within a Section, click <strong>Show Activities ( )</strong>. The number indicated in the bracket shows the number of Activities within the Section.</li>
 <li><p>Clicking an <strong>Activity</strong>/<strong>Section</strong> from the Lesson Plan will bring you to the particular Activity/Section.</p>
-<p><img style="width: 100%;" src="/images/2Teacher/AU-EditLessonPlan1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU_EditLessonPlan1.png"></p>
 </li>
 </ol>
 <h2 id="-edit-a-lesson-plan-">Edit a Lesson Plan</h2>
@@ -31,6 +31,13 @@ image: /images/FaviconLight.png
 </li>
 <li>Click <strong>X</strong> to exit the Lesson Plan.</li>
 </ol>
-<h2 id="section-prerequisites">Section Prerequisites</h2>
+<h2 id="-sequential-activity-section-access-new-">Sequential Activity/Section access (NEW)</h2>
 <hr>
-<p>You can add <a target="_blank" href="/teacher-user-guide/differentiate/add-section-prerequisites/">Section Prerequisite</a> to a Lesson. Sections indicated with Prerequisites will be locked until students complete the required section.</p>
+<p>You can add <a target="_blank" href="/teacher-user-guide/differentiate/add-section-prerequisites/">Acitivity/Section Prerequisite</a> to a Lesson. Activities/Sections indicated with Prerequisites will be locked until students complete the required activity/section.</p>
+
+<h2 id="-activity-section-prerequisites-">Activity/Section Prerequisites</h2>
+<hr>
+<p>Activities/Sections can only be accessed after the previous activity/section is complete.</p>
+<ol><li>Select the checkbox “Sequential Activity/Section Access” and click <b>Apply</b>. Click <b>OK</b> to confirm.
+	<p><u>Note</u>: All existing activity/section prerequisites will be removed.</p>
+	</li></ol>
