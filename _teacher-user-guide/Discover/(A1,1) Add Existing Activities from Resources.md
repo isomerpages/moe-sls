@@ -4,23 +4,22 @@ permalink: /teacher-user-guide/discover/add-existing-activities-from-resources/
 description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>(A1,1) Add Existing Activities from Resources</h1>
-<h3>From Create New Lesson</h3>
+<h2>From Create/Edit New Lesson</h2>
 <hr>
 <ol>
-  <li>From the homepage, click <strong>Create New Lesson</strong>. Alternatively, from My Drive page, click <strong>Add New</strong> followed by <strong>New Lesson</strong>.</li>
+  <li>From the homepage, click <strong>Create New/Edit Lesson</strong>. Alternatively, from My Drive page, click <strong>Create/Edit</strong> followed by <strong>New Lesson</strong>.</li>
   <li>In the Add New subpage, click <strong>Add Existing</strong> and select between <strong>From Library</strong> and <strong>From Starred Resources</strong>.</li>
-  <br>
-	
-<img alt="D-AddNew" style="width: 100%;" src="/images/2Teacher/D-AddNew.png">
-	
+  <br>	
+<img alt="D-Add Existing Activities from Resources" style="width: 100%;" src="/images/2Teacher/D_AddNew.png">	
   <br>
   <li>You may search for Lessons <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">across MOE Library, Community Gallery and My Drive</a>. You can also apply Search Filter to narrow down your search.</li>
 	<p><u>Note</u>: You are unable to search for Starred Resources.</p>
   <li>Click the <strong>Lesson card</strong> or <strong>View Details</strong> icon to view the Lesson Details.</li>
   <br>
-  <img style="width: 25%;" alt="D-AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png">
+  <img style="width: 50%;" alt="D-AddExistingLesson" src="/images/2Teacher/D-AddExistingLesson.png">
   <br>
   <li>Select the Activities you wish to add to your new Lesson by selecting the relevant checkboxes.</li>
   <li>To view the existing Lesson in a new tab, click the <strong>Expand</strong> icon 
@@ -28,8 +27,7 @@ image: /images/FaviconLight.png
   <li>To add your selected Activities, click <strong>Choose</strong>.</li>
   <li>The chosen Activities will inherit the Activity Details from the Lesson in Library or Starred Resources. To view and edit the Activity Notes and Active Learning Process in the Activity Details card, click the <strong>Settings icon</strong> on the Activity Details card. These fields are optional and will not be visible to students.</li>
 </ol>
-
-<h3>From Lesson Editor</h3>
+<h2>From Lesson Editor</h2>
 <hr>
 <ol>
     <li>In the Lesson Editor, there are multiple ways to add an Activity:
@@ -59,8 +57,7 @@ image: /images/FaviconLight.png
     <li>To add your selected Activities, click <strong>Choose</strong>.</li>
     <li>The chosen Activities will inherit the Activity Details from the Lesson in Library or Starred Resources. To view and edit the Activity Notes and Active Learning Process in the <strong>Activity Details</strong> card, click the <strong>Settings</strong> icon on the <strong>Activity Details</strong> card. These fields are optional and will not be visible to students.</li>
 </ol>
-
-<h3>Video Tutorial</h3>
+<h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Search for Resources" src="https://www.youtube.com/embed/IBlWycX4PBE" height="100%" width="100%"></iframe>
