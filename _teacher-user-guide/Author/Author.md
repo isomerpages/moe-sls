@@ -9,7 +9,7 @@ variant: markdown
 <h1>Author</h1>
 <p>Use SLS to design lesson resources aligned to the e-pedagogical principles.</p>
 <br>
-<img style="width: 100%;" src="/images/2Teacher/Flow-Author.png">
+<img alt="Author" style="width: 100%;" src="/images/2Teacher/Flow-Author.png">
 <details><summary><h4>A. How to create Lessons?</h4></summary>
 <ul>
 <li><a href="/teacher-user-guide/author/create-new-lessons/" target="_blank">Create Lessons (New)</a></li></ul>
@@ -88,7 +88,7 @@ variant: markdown
 </ul>
 </details>
 <details><summary>
-<h4 id="author">Tech Tips for Teachers</h4>
+<h4 id="author">E. Tech Tips for Teachers</h4>
 </summary>
 <ol>
 <li><p><strong>How do I copy a Rubric to use in another question?</strong></p>
