@@ -119,5 +119,24 @@ variant: markdown
 <li><strong>For the QTI feature, the suggested website for converting the files requires a paid subscription after 2 trials. Is there a free version?</strong><p>
 We understand the limitations with the trial account and encourage you to check with your school if there is budget to apply for a paid subscription account.</p>
 </li>
+<li><strong>For SLS Google Integration, where will the files be stored, and will they count towards our storage limits?</strong>
+<p>The original Google files should have initially been stored in the teachers' Google Drive.</p>
+<p>When a teacher uploads a Google file to SLS, the file becomes hosted within SLS's Google Drive.</p>
+<p>If files are added as a Prepopulated Student Answer of a Free-Response Question, individual copies of the files, which students can access and edit, will be generated for the students after the lesson is assigned in SLS. These individual copies are stored in the teacher's Google Drive.</p>
+<p>Subsequent copies that are generated after a teacher has marked the student's work will also be stored in SLS.</p></li>
+<li><strong>Can SLS be used as a replacement platform for Google Classroom, specifically in the area of students' T&amp;L management such as resources parking, sharing with the students, digital submission?</strong>
+<p>Schools may wish to consider SLS as the main platform for T&amp;L, as it allows the full affordances of varied and emerging tools which can be integrated or embedded within the platform. It also serves as a one-stop hub for all T&amp;L resources and artefacts, as well as allowing for central consolidation of data across all T&amp;L needs.</p>
+<p>SLS is also a good platform for students to review past year assignments and engage in self-study as they will be able to search for resources across different subjects and levels. Students can use the Learning Progress to monitor their learning across the years.</p>
+<p>You may wish to refer to this <a target="_blank" href="/files/Userguide/Downloadable%20Resources/using%20sls%20for%20whole%20school%20transformation%20of%20t&amp;l.pdf">document</a> on the use of SLS for whole school transformation of Teaching and Learning.</p>
+<p>For the specific areas, please refer to the User Guide.</p>
+<ol>
+<li>Data storage: refer to the section on <a target="_blank" href="/teacher-user-guide/organise/index/">Organise</a>. Relevant pages might be My Drive, Folders, etc.</li>
+<li>Resource sharing with students: refer to <a target="_blank" href="/teacher-user-guide/organise/manage-class-group-resources/">Class Group Resources</a>.</li>
+<li>Submission of work and assignments: refer to <a target="_blank" href="/teacher-user-guide/author/index/">Author</a>, <a target="_blank" href="/teacher-user-guide/assign/index/">Assign</a> and <a target="_blank" href="/teacher-user-guide/assess/index/">Assess</a>.</li>
+<li>Posting of announcements: refer to <a target="_blank" href="/teacher-user-guide/notify/index/">Notify</a>.</li>
+<li>Pasting/Embedding of links to external sites: refer to <a target="_blank" href="/teacher-user-guide/discover/view-external-resources/">External Resources</a>, <a target="_blank" href="/teacher-user-guide/discover/embed-whitelisted-websites/">Embed Whitelisted Sites</a> and <a target="_blank" href="/teacher-user-guide/author/insert-external-links/">Insert External Links</a>.</li>
+</ol>
+</li><li><strong>When copies of Google files are made on SLS, are they saved in the user’s Google Drive or SLS?</strong>
+<p>The files are saved on SLS and do not affect the user’s Google storage quota.</p></li>
 </ol>
 </details>
