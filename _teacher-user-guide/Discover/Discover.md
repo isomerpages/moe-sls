@@ -58,7 +58,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 </details>
 <details>
 <summary>
-<h4>G. Discover</h4>
+<h4>G. Tech Tips for Teachers</h4>
 </summary>
 <ol>
 <li><p><strong>I tried to embed a website using the embed code/URL but SLS does not allow me to.</strong></p>
