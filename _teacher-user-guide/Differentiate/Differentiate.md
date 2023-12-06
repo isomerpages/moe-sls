@@ -41,5 +41,9 @@ variant: markdown
 <li><p><strong>Must students link their iCON accounts with SLS?</strong></p>
 <p> SLS will work with any Google account. However, we recommend students link their student iCON accounts to ensure seamless learning.</p>
 </li>
+<li><strong>How can SLS support differentiation for common curriculum subjects or the upcoming FSBB in secondary school context?</strong>
+<p>Schools can utilise SLS features such as subgroups to support differentiation and/or FSBB.</p>
+<p>Teachers can form subgroups within the class. This functionality is useful for FSBB as teachers can now specify scaffolding activities for students of lower readiness, and also create stretch activities for students of higher readiness after they have completed the compulsory activities.</p>
+<p>Alternatively, teachers can make use of Activity Prerequisites (R20) to cater to students of different levels of readiness.</p></li>
 </ol>
 </details>
