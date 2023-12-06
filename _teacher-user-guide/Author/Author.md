@@ -100,7 +100,7 @@ variant: markdown
 <p> No, the newly created Lesson is considered a separate Lesson. However, if the student accesses the MOE Library Lesson directly, he/she will receive a banner notification indicating that there is an updated version of the Lesson.</p>
 </li>
 <li><p><strong>How do I easily add superscript and subscript in the Rich Text Editor?</strong></p>
-<p> The best way is to use the handwriting tool in the new equation (WIRIS) editor, which can be accessed by clicking the icon that looks like a “C” and subsequently clicking on the handwriting bar on the right of the subpage that pops up. As you write, you can confirm that the editor is reading your handwriting correctly by checking the bottom right of the editor. The Equation Editor will be enhanced in R16 (Dec 2021) to make old equations copyable and editable.</p>
+<p> The best way is to use the handwriting tool in the new equation (WIRIS) editor, which can be accessed by clicking the icon that looks like a “C” and subsequently clicking on the handwriting bar on the right of the subpage that pops up. As you write, you can confirm that the editor is reading your handwriting correctly by checking the bottom right of the editor.</p>
 <p> For more information, visit <a target="_blank" href="/teacher-user-guide/author/insert-mathematical-or-chemical-equations/">Insert Mathematical or Chemical Equation</a>.</p>
 </li>
 <li><p><strong>What type of Activities will allow my students to have multiple attempts?</strong></p>
