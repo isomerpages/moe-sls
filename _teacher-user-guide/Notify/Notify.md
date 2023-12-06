@@ -4,10 +4,12 @@ permalink: /teacher-user-guide/notify/index/
 description: ""
 third_nav_title: Notify
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Notify</h1>
 Use SLS to notify other teachers and students easily on T&amp;L matters across the system, classes and individual levels.
-<img alt="Flow Notify" src="/images/2Teacher/Flow-Notify.png">
+<br><br>
+<img alt="Notify" src="/images/2Teacher/Flow-Notify.png">
 <details>
 <summary><h4>A. How to manage Announcements?</h4></summary>
 <ul>
@@ -16,7 +18,7 @@ Use SLS to notify other teachers and students easily on T&amp;L matters across t
 </ul>																																			
 </details>
 <br>
-<img style="width: 50%;" alt="Flow Notify" src="/images/2Teacher/Flow-Notify2.png">
+<img style="width: 70%;" alt="Notify" src="/images/2Teacher/Flow-Notify2.png">
 <details>
 <summary><h4>B. How to access Notifications?</h4></summary>
 <ul>
