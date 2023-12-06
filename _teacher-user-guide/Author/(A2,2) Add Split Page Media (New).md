@@ -72,7 +72,7 @@ third_nav_title: Author
 	</li><li>
 	Click <b>Split</b> and <b>OK</b> to proceed.</li>
 </ol>
-<p><img alt="Add Split-page Media" style="width: 100%;" src="/images/2Teacher/AU_AddSplitPageMedia2.png"></p>
+<p><img alt="Add Split-page Media" style="width: 100%;" src="/images/2Teacher/AU_SplitPageMedia2.png"></p>
 
 <h2 id="add-split-page-audio">Add Split-page Audio</h2>
 <hr>
