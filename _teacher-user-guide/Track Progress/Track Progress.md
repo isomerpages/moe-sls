@@ -4,10 +4,11 @@ permalink: /teacher-user-guide/track-progress/index/
 description: ""
 third_nav_title: Track Progress
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Track Progress</h1>
 <p>Use SLS to track and compare student progress within and across lessons and assignments.</p>
-<img src="/images/2Teacher/Flow-TrackProgress.svg">
+<img alt="Track Progress" src="/images/2Teacher/Flow-TrackProgress.svg">
 <details>
 <summary><h4>A. How to monitor student’s Learning Progress?</h4></summary>
 <ul>
