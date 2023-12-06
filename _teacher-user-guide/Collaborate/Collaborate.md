@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h1>Collaborate</h1>
 <p>Use SLS to set learning activities to be done collaboratively by students.</p>
-<img src="/images/2Teacher/Flow-Collaborate1.png">
+<img alt="Collaborate" src="/images/2Teacher/Flow-Collaborate1.png">
 <details>
  <summary><h4>A. How to use the Class Group Forum?</h4></summary>
 <ul>
@@ -21,7 +21,7 @@ variant: markdown
 </details>
 
 <br>
-<img style="width: 80%;" src="/images/2Teacher/Flow-Collaborate2.png">
+<img alt="Collaborate" style="width: 80%;" src="/images/2Teacher/Flow-Collaborate2.png">
 <details>
  <summary><h4>B. How to create Team Activities?</h4></summary>
  <ul>
@@ -30,7 +30,7 @@ variant: markdown
   </ul>
 </details>
 <br>
-<img style="width: 50%;" src="/images/2Teacher/Flow-Collaborate3.svg">
+<img alt="Collaborate" style="width: 50%;" src="/images/2Teacher/Flow-Collaborate3.svg">
 <details>
  <summary><h4>C. How can students collaborate in SLS?</h4></summary>
 <ul>
@@ -41,7 +41,7 @@ variant: markdown
   </ul>
 </details>
 <br>
-<img style="width: 50%;" src="/images/2Teacher/Flow-Collaborate4.png">
+<img alt="Collaborate" style="width: 50%;" src="/images/2Teacher/Flow-Collaborate4.png">
 <details>
  <summary><h4>D. How can teachers collaborate in SLS?</h4></summary>
 <ul>
