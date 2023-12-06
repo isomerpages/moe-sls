@@ -4,10 +4,11 @@ permalink: /teacher-user-guide/personalise/index/
 description: ""
 third_nav_title: Personalise
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Personalise</h1>
 <p>Use SLS to provide choice for your students in their lessons and activities.</p>
-<img style="width: 50%;" src="/images/2Teacher/Flow-Personalise.svg">
+<img alt="Personalise" style="width: 50%;" src="/images/2Teacher/Flow-Personalise.svg">
 
 <details>
 <summary><h4>A. How to personalise/provide optional Lessons for students?</h4></summary>
