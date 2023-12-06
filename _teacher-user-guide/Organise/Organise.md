@@ -101,6 +101,17 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <li><p><strong>Can SC team + SLS look into a trigger button for school users to trigger a sync so that all the teaching groups involved can be updated. It takes very long for the sync to happen and manual pulling of new student names is very slow.</strong></p>
 <p>The R19 ability to add students to existing SLS Class Groups will allow you to add new students to a class immediately while waiting for the sync with School Cockpit.  After the sync occurs, the student will automatically be treated like other students in the Class Group.</p>
 </li>
+<li><strong>Will there be a storage limit in SLS in years to come?</strong>
+<p>At the moment, there are no plans to impose a storage cap currently, nor in the near future.</p>
+<p>Schools will be informed in advance with enough lead time to make adjustments should there be plans to do so in the future.</p></li>
+<li><strong>What is the difference between observer role and co-teacher?</strong>
+<p>Assigning the Observer role mimics a physical classroom lesson observation where Observers passively observe Class Group activities (such as access Assignments, view Announcements and Class Group Forum interactions, without being able to edit or accidentally delete them) while the Co-teacher has almost similar access as Class Group Owners.</p>
+<p>For more information about the differences between the roles, visit <a target="_blank" href="/teacher-user-guide/organise/create-class-groups/">Create Class Groups</a>.</p></li>
+<li><strong>Is it possible to create class groups of more than 100?</strong>
+<p>There is no limit to the number of students that can be added to a Class Group. However, multiple Assignment cards will be created for Class Groups with more than 100 students, making the monitoring more tedious. Also, the Learning Progress will only be able to display the learning performce of the first 100 students in the Class Group. Hence, for an optimal experience in monitoring students' learning, teachers are encouraged to keep Class Group sizes below 100 students. </p></li>
+<li><strong>Can SLS provide for building student portfolios so that it can accompany them throughout their time in the education system?</strong>
+<p>Yes, it is possible for teachers to do this by creating an Assignment in their current Class Group to hold the student artefacts. At the end of the year, teachers can <a target="_blank" href="/teacher-user-guide/assign/move-assignments/">move the assignment</a> to the new Class Group for students to continue contributing to their artefacts.</p></li>
+<li><strong>Can teachers access/retrieve student work in cases when the student has not been taught by the teacher before?</strong>
+<p>For now, it is possible for students to visit their Past Class Groups, retrieve their work and put it in a new assignment in their current Class Group.</p></li>
 </ol>
-<hr>
 </details>
