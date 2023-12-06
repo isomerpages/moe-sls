@@ -145,6 +145,6 @@ that can be used on SSOE2 ACAD device with ITD lock down mode.</p>
 <a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">Setting Assignments as Assessments</a>.</p></li>
 
 <li><strong>Do we need to obtain consent for students to upload their videos/audio clips to SLS for Teaching and Learning purposes?</strong>
-<p>No further consent is needed as it is deemed to be provided under the SLS Terms of Use. You may refer to Para 14 of the <a target="_blank" href="https://vle.learning.moe.edu.sg/termsofuse">Terms of Use</a></p></li>
+<p>No further consent is needed as it is deemed to be provided under Para 14 of the <a target="_blank" href="https://vle.learning.moe.edu.sg/termsofuse">SLS Terms of Use</a></p></li>
 </ol>
 </details>
