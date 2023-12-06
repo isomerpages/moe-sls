@@ -74,5 +74,38 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 <li><p><strong>Is Kami whitelisted and approved to install/add on in all school laptops?</strong></p>
 <p> Yes, Kami has been whitelisted for SSOE devices. Should you face any issues installing it on your SSOE device, please approach your school IT administrator or HOD ICT.</p>
 </li>
+<li><strong>Whom should schools reach out to if they wish to learn more about the Adaptive Learning System (ALS)?</strong>
+<p></p><p>Schools are highly encouraged to first check in with their respective Cluster ETOs. As ALS is already rolled out to all schools for Primary 5 students for three topics - Decimals, Whole Numbers and Percentages, schools may refer to the following resources below.</p>
+<ol>
+<li><a target="_blank" href="https://go.gov.sg/als-eped">ALS e-Pedagogy Guide</a></li>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/als%2024%20jul.pdf">ALS e-poster</a></li>
+<li><a target="_blank" href="https://www.youtube.com/watch?v=VOLmizePspE">Detailed video walkthrough</a></li>
+<li><a target="_blank" href="/student-user-guide/self-study/access-adaptive-learning-system/">Information on SLS Info guide</a></li>
+</ol><p></p></li>
+<li><strong>Can teachers review lessons that are shared with them from my drive?</strong>
+<p>Only lessons shared on MOE Library and Community Gallery Lessons can receive reviews. Teachers can view and add review for Lessons on both MOE Library and CG. This allows lessons in MOE Library and Community Gallery to receive timely feedback and for other teachers to learn how to use the resource more effectively.</p>
+<p>For more information, you may visit <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">Leave Reviews</a>.  </p></li>
+<li><strong>Can the review feature be used to provide me feedback on lessons submitted to Community Gallery for admin approval?</strong>
+<p>MOE Library Content Approvers and Community Gallery Admins can use admin reviews to give feedback for the submitted lessons. The submitters of the lessons are also able to reply to the feedback via the same subpage. Admin feedback will be hidden when the lesson is published in MOE Library and Community Gallery.</p></li>
+<li><strong>Can SLS make it easier to verify the quality of lessons in the Community Gallery?</strong>
+<p>Since R19 (Jun 2023), teachers are already able to <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">Leave Reviews</a> for lessons on MOE Library and Community Gallery. You may use these reviews as indicators of a lesson’s quality and/or leave reviews for others to do the same. </p></li>
+<li><strong>Can teachers monitor students’ self-study list?</strong>
+<p>Teachers do not have access to view students' individual self-study lists. Instead, they can only view students' overall self-study performance through Learning Progress. On the student tab, teachers can find the lesson titles students have attempted and the marks they received for these attempts. Do note in order to make this data visible in Learning Progress, it's essential that the subject, level and content map tags on lessons and questions match those of the Class Group.</p>
+<p>Do note that for MOE Library lessons, the tags are not controlled by teachers but by the respective curriculum divisions.</p></li>
+<li><strong>Do teachers have to assign students their self-study materials?</strong>
+<p>Students can browse for learning resources independently from the MOE Library/App Library and My Drive. Upon attempt/completing the learning resource, it will be automatically added into the student’s self-study list.&nbsp;</p>
+<p>When assignments are set to enable copying to My Drive, students can also reattempt assignments as part of their self-study. These resources will also be added to student's self-study list.</p>
+<p>Primary 5 students can also access the &nbsp;Adaptive Learning System (ALS), which provides a personalised learning pathway for each student, recommending learning resources and practice questions and offering immediate feedback based on his/her readiness.&nbsp;</p>
+<p>Alternatively, students can access learning resources uploaded by subject teachers in the respective Class Groups under Class Group Resources. However, teachers will not be able to monitor student's completion rate for such resources.</p></li>
+<li><strong>Can the current year's teacher monitor students' progress when they move on to the next academic year?</strong>
+<p>Teachers will only be able to access students' past Assignments, Resources, Forum and Apps if they had a Class Group in the same subject and level as the student in the past year.</p>
+<p>However, past year's subject teachers can be added to the new year's class group and move past year's assignments into the new year's class group. This will allow the new year's subject teachers to monitor students' progress for such assignments.</p></li>
+<li><strong>Can teacher provide feedback to the self-study courses?</strong>
+<p>The teacher is unable to provide feedback to the self-study courses. You may refer to the following links for more information:&nbsp;</p>
+<ul>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/empower-students-to-be-self-directed-learners/%20">Empower Students to Be Self-Directed Learners</a>&nbsp;</li>
+<li><a target="_blank" href="/student-user-guide/discover/access-self-study-resources/">Access Self-Study Resources</a>&nbsp;</li>
+<li><a target="_blank" href="/student-user-guide/discover/attempt-self-study-resources/">Attempt Self-Study Resources </a></li>
+</ul></li>
 </ol>
 </details>
