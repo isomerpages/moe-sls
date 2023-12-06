@@ -4,11 +4,12 @@ permalink: /teacher-user-guide/publish/index/
 description: ""
 third_nav_title: Publish
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Publish</h1>
 <p>Use SLS to publish resources to make it available and discoverable to teachers and students.</p>
 
-<img src="/images/2Teacher/Flow-Publish.svg">
+<img alt="Publish" src="/images/2Teacher/Flow-Publish.svg">
 
 <details>
  <summary><h4>A. How to submit Lessons to Community Gallery?</h4></summary>
