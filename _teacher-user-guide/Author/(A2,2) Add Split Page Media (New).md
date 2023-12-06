@@ -21,7 +21,6 @@ third_nav_title: Author
 	<ul><li>powerpoint: 50MB
 	</li><li>video: 500MB
 		</li><li>audio: 50MB</li></ul>
-
 </ol>
 
 <h2 id="add-split-page-powerpoint">Add Split-page PowerPoint</h2>
@@ -60,7 +59,7 @@ third_nav_title: Author
     <li>Some types of shapes are not yet supported, e.g. WordArt, complex auto-shapes</li>
     <li>Only Bitmap images can be rendered in Java, e.g. PNG, JPEG, DIB</li>
 </ul></ol>
-		<p><img style="width: 50%;" src="/images/2Teacher/AU_AddSplitPageMedia1.png"></p>
+		<p><img alt="Add Split-page Media" style="width: 50%;" src="/images/2Teacher/AU_AddSplitPageMedia1.png"></p>
 	
 <h2 id="add-split-page-video">Add Split-page Video</h2>
 <hr>
@@ -73,7 +72,7 @@ third_nav_title: Author
 	</li><li>
 	Click <b>Split</b> and <b>OK</b> to proceed.</li>
 </ol>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-AddSplitPageMedia2.png"></p>
+<p><img alt="Add Split-page Media" style="width: 50%;" src="/images/2Teacher/AU_AddSplitPageMedia2.png"></p>
 
 <h2 id="add-split-page-audio">Add Split-page Audio</h2>
 <hr>
