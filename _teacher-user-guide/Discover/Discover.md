@@ -37,7 +37,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 <details><summary><h4>D. How to follow My Subjects?</h4></summary>
 <ul>
 <li><a href="/teacher-user-guide/discover/access-my-subjects/" target="_blank">(D1) Access My Subjects</a></li>
-<li><a target="_blank" href="/teacher-user-guide/discover/follow-and-unfollow-subjects/">(D2) Follow &amp; Unfollow Subjects</a></li>
+<li><a href="/teacher-user-guide/discover/follow-and-unfollow-subjects/" target="_blank">(D2) Follow &amp; Unfollow Subjects</a></li>
 </ul>
 </details>	
 <details><summary><h4>E. More about Resources</h4></summary>
@@ -93,18 +93,18 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 <p>Teachers do not have access to view students' individual self-study lists. Instead, they can only view students' overall self-study performance through Learning Progress. On the student tab, teachers can find the lesson titles students have attempted and the marks they received for these attempts. Do note in order to make this data visible in Learning Progress, it's essential that the subject, level and content map tags on lessons and questions match those of the Class Group.</p>
 <p>Do note that for MOE Library lessons, the tags are not controlled by teachers but by the respective curriculum divisions.</p></li>
 <li><strong>Do teachers have to assign students their self-study materials?</strong>
-<p>Students can browse for learning resources independently from the MOE Library/App Library and My Drive. Upon attempt/completing the learning resource, it will be automatically added into the student’s self-study list.&nbsp;</p>
+<p>Students can browse for learning resources independently from the MOE Library/App Library and My Drive. Upon attempt/completing the learning resource, it will be automatically added into the student’s self-study list.</p>
 <p>When assignments are set to enable copying to My Drive, students can also reattempt assignments as part of their self-study. These resources will also be added to student's self-study list.</p>
-<p>Primary 5 students can also access the &nbsp;Adaptive Learning System (ALS), which provides a personalised learning pathway for each student, recommending learning resources and practice questions and offering immediate feedback based on his/her readiness.&nbsp;</p>
+<p>Primary 5 students can also access the Adaptive Learning System (ALS), which provides a personalised learning pathway for each student, recommending learning resources and practice questions and offering immediate feedback based on his/her readiness.</p>
 <p>Alternatively, students can access learning resources uploaded by subject teachers in the respective Class Groups under Class Group Resources. However, teachers will not be able to monitor student's completion rate for such resources.</p></li>
 <li><strong>Can the current year's teacher monitor students' progress when they move on to the next academic year?</strong>
 <p>Teachers will only be able to access students' past Assignments, Resources, Forum and Apps if they had a Class Group in the same subject and level as the student in the past year.</p>
 <p>However, past year's subject teachers can be added to the new year's class group and move past year's assignments into the new year's class group. This will allow the new year's subject teachers to monitor students' progress for such assignments.</p></li>
 <li><strong>Can teacher provide feedback to the self-study courses?</strong>
-<p>The teacher is unable to provide feedback to the self-study courses. You may refer to the following links for more information:&nbsp;</p>
+<p>The teacher is unable to provide feedback to the self-study courses. You may refer to the following links for more information:</p>
 <ul>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/empower-students-to-be-self-directed-learners/%20">Empower Students to Be Self-Directed Learners</a>&nbsp;</li>
-<li><a target="_blank" href="/student-user-guide/discover/access-self-study-resources/">Access Self-Study Resources</a>&nbsp;</li>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/empower-students-to-be-self-directed-learners/">Empower Students to Be Self-Directed Learners</a></li>
+<li><a target="_blank" href="/student-user-guide/discover/access-self-study-resources/">Access Self-Study Resources</a></li>
 <li><a target="_blank" href="/student-user-guide/discover/attempt-self-study-resources/">Attempt Self-Study Resources </a></li>
 </ul></li>
 </ol>
