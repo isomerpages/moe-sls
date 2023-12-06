@@ -19,7 +19,6 @@ variant: markdown
     <li><a target="_blank" href="/teacher-user-guide/collaborate/post-and-comment-in-the-forum/">(A3) Post and Comment in the Forum</a></li>
   </ul>
 </details>
-
 <br>
 <img alt="Collaborate" style="width: 80%;" src="/images/2Teacher/Flow-Collaborate2.png">
 <details>
@@ -92,5 +91,24 @@ variant: markdown
 </li>
 <li><strong>If we want to use the Google Docs feature, do we still need to get the students to manually link their iCON in SLS?</strong>
 <p>Students can link any Gmail account (including personal ones) with SLS. They only need to do it once and can subsequently access Google Apps through SLS.</p></li>
+<li><strong>Is there a word/character limit on students' ITT posts to facilitate peer commenting/assessment?</strong>
+<p>There is a 2000 character limit for ITT. Should the intention be for students to post longer responses, teachers may consider exploring other SLS features such as Creating a Discussion. While each post in a Discussion also has a 2000 character limit, students are able to submit more than one response. For longer responses, teachers can use a Free-Response Question instead.</p></li>
+<li><strong>How does the Forum feature differ from the Discussion feature?</strong>
+<p>The Forum feature allows both teachers* and students to create polls and discussions on a diverse range of topics while the Discussion feature situated within a lesson activity typically focuses on the specific topic at hand only.</p>
+<p>You may refer to the following links for more information about the <a target="_blank" href="/teacher-user-guide/collaborate/about-the-forum/">Forum</a> and <a target="_blank" href="/teacher-user-guide/collaborate/add-a-discussion/">Discussion</a> features.</p>
+<p><u>Note</u>: Owner/Co-teacher needs to allow access for Observers and students to create Topics/Posts/Polls in Class Group Forum.</p></li>
+<li><strong>How does the Discussion feature differ from the ITT?</strong>
+<ol>
+<li>The Discussion feature allows students to view their peers' work before they create their own post, while the ITT requires students to submit their anwer before viewing their peers' work on an interaction board.&nbsp;</li>
+<li>The Discussion feature allows teachers to monitor student participation quantitatively (by the number of posts created by each student) and qualitatively (keywords) using the "search post" function while the ITT does not.</li>
+<li>The Discussion feature gives the option of turning off comments to posts while the ITT does not.</li>
+<li>Unlike the Discussion feature, teachers can prepopulate student's responses with sentence starters using the ITT.</li>
+</ol></li>
+<li><strong>How can teachers monitor and share individual ITT responses within a team with the rest of the class?</strong>
+<p>Teachers can view both individual and team ITT responses from the Monitor Assignment page by clicking on the Activity icon where the ITT is placed. Alternatively, teachers can enter the Assignment, navigate to the ITT and click "View Class Submissions." For ITTs that are assigned to teams, teachers can toggle between "View all responses" or "View responses by team".&nbsp;</p>
+<p>To allow students to view team ITT responses from other teams, teacher has to toggle to "View all responses".</p></li>
+<li><strong>Can students annotate collaboratively on any features of SLS?</strong>
+<p>Students can only annotate and interact on Text/Media components or on question stems together in a Team Activity.</p>
+<p>Teachers can include Tooltips in Team Activities for students to engage in Team discussions.</p></li>
 </ol>
 </details>
