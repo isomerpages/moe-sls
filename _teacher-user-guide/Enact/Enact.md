@@ -17,7 +17,7 @@ variant: markdown
 </details>
 <details>
 <summary>
-<h4 id="enact">Enact</h4>
+<h4>B. Tech Tips for Teachers</h4>
 </summary>
 <ol>
 <li><p><strong>How do I control student access to Activities/Sections in Assignments?</strong></p>
