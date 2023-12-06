@@ -92,4 +92,15 @@ Note:  SLS access can only be granted to ICT Manager/Associates if they are perf
 <p>SgLDC is a community meant for teachers to share, learn and design technology-enabled learning experiences for future-ready learners. While some teachers do post their experiences with SLS, often than not, other teachers in the community are quick to provide solutions.</p>
 <p>Should a user wishes to report a bug, do send an email to helpdesk@sls.ufinity.com or click the “Help us improve” widget.</p>
 </li>
+<li><strong>Is there a permanent workaround available to address the SLS logging in issues when students are locked out of their account using the MIMS login?</strong>
+<p>For students who do not remember their MIMS login ID or are locked out of their account using the MIMS login, they can still access SLS by using their SLS username and password.</p>
+<p>should be noted that there are two ways to login to SLS. They are via: (i) MIMS and (ii) SLS username and password.</p> 
+<p>A temporary workaround is available if students face difficulties accessing either through MIMS or SLS login. 
+Teachers can generate 2-hour passwords to grant students temporary access to the SLS if they had forgotten their password or if their accounts had been locked. This will provide students with temporary access to assignments and MOE Library.</p>  
+<p>In the long term, it is advisable to establish routines that support students in managing their passwords. For Lower Primary students, parents can assist to manage the actual passwords, 
+so that it facilitates access to SLS when students are doing home-based learning. Moreover, with frequent use of SLS, such login issues are likely to reduce in frequency, thus allowing a more seamless experience for teachers and students.</p></li>
+<li><strong>Could SLS considering allowing us to perform a mass reset of passwords for the school?</strong>
+<p>We do not recommend mass reset of passwords, especially as primary school students may set up their accounts with the help of their parents.</p></li>
+<li><strong>Is it possible to integrate Google Sign-In to SLS?</strong>
+<p>There are no plans to do so. Instead, we encourage schools to use MIMS for seamless log-in to SLS and to build up routines for students to recall and reset their passwords.</p></li>
 </ol></details>
