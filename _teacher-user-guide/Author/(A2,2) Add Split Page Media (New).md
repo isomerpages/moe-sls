@@ -30,11 +30,37 @@ third_nav_title: Author
 	<ol>
 <li>After you upload the file, you may choose to split-page all the PowerPoint slides or choose a range of slides to be split.
 		</li><li>Click <b>OK</b> to proceed.
-		</li><li> Recommended Settings:</li>
-			<ul>
-	<li>Some types of shapes are not yet supported, e.g. WordArt, complex auto-shapes
-				</li><li>Only Bitmap images can be rendered in Java, e.g. PNG, JPEG, DIB</li></ul></ol>
-		<p><img style="width: 50%;" src="/images/2Teacher/AU-AddSplitPageMedia1.png"></p>
+		</li>
+	<li><p>Please note the following limitations:</p></li>
+<ul>
+    <li>Supported Fonts:<ul>
+            <li>Bitstream Charter</li>
+            <li>Century Schoolbook L</li>
+            <li>Courier 10 Pitch</li>
+            <li>Cursor</li>
+            <li>DejaVu</li>
+            <li>Dialog</li>
+            <li>DialogInput</li>
+            <li>Dingbats</li>
+            <li>Hershey</li>
+            <li>Monospaced</li>
+            <li>Nimbus Mono L</li>
+            <li>Nimbus Roman No9 L</li>
+            <li>Nimbus Sans L</li>
+            <li>SansSerif</li>
+            <li>Serif</li>
+            <li>Standard Symbols L</li>
+            <li>URW Bookman L</li>
+            <li>URW Chancery L</li>
+            <li>URW Gothic L</li>
+            <li>URW Palladio L</li>
+            <li>Utopia</li>
+        </ul>
+    </li>
+    <li>Some types of shapes are not yet supported, e.g. WordArt, complex auto-shapes</li>
+    <li>Only Bitmap images can be rendered in Java, e.g. PNG, JPEG, DIB</li>
+</ul></ol>
+		<p><img style="width: 50%;" src="/images/2Teacher/AU_AddSplitPageMedia1.png"></p>
 	
 <h2 id="add-split-page-video">Add Split-page Video</h2>
 <hr>
