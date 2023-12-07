@@ -12,7 +12,7 @@ variant: markdown
 <ul>
 <li>SLS Account Status - Not Activated</li>
 <li><p>Role - Student</p>
-<p><img style="width: 80%;" src="/images/5Admin/A-ActivateAccount2.png"></p>
+<p><img style="width: 80%;" src="/images/5Admin/A_ActivateAccount2.png"></p>
 </li>
 </ul>
 </li>
