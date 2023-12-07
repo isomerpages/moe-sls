@@ -16,7 +16,7 @@ third_nav_title: Assess
 <li>Enter the Lesson View page of an Assignment.</li>
 <li>Open the right menu and click <strong>View as Print-to-Scan Quiz</strong>.</li>
 <li>The View as Print-to-Scan Quiz subpage will appear</li>
-<li>Select a <a target="_blank" href="/assess/mark-teacher-marked-quizzes/">Teacher-Marked Quiz</a> that is part of your assignment</li>
+<li>Select a <a target="_blank" href="/teacher-user-guide/assess/mark-teacher-marked-quizzes/">Teacher-Marked Quiz</a> that is part of your assignment</li>
 <li>Click on <strong>View Question Paper</strong> or <strong>View Response Sheets</strong> and your selection will be shown in a new tab.</li>
 <li>You may save or print a copy of the Question Paper or the Resource Sheets from the new tab.</li>
 </ol>
