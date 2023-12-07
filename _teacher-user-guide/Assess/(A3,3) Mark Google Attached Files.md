@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/assess/mark-google-attached-files/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="-3c-mark-google-attached-files">(A3,3) Mark Google-Attached Files</h1>
 <ol>
