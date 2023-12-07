@@ -19,7 +19,7 @@ variant: markdown
 <ul>
 <li>Lesson title, cover and description (if any)</li>
 <li><p>View Teacher Notes toggle - You can toggle on/off to view Teacher Notes (if any)</p>
-<p><img style="width: 100%;" src="/images/2Teacher/AU-AddNewTemplate2.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddNewTemplate2.png"></p>
 </li>
 <li><p>All Activities/Sections in the Lesson - Click <strong>Show Activities</strong> to see all Activities in a Section. The number of Activities in a Section is shown in parenthesis ( ).</p>
 </li>
@@ -43,7 +43,7 @@ variant: markdown
 <li>To clear the selected list of Activities/Sections, click <strong>Clear</strong>.</li>
 <li><p>Click <strong>Choose</strong> to add the Activities/Sections into your Lesson.</p>
 	<p> <u>Note</u>: If you want to choose the entire Lesson, you can also click on the Lesson card on the Create/Edit Lesson subpage.</p>
-<p><img style="width: 100%;" src="/images/2Teacher/AU-AddNewTemplate3.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU-AddNewTemplate3.png"></p>
 </li>
 <li>
 	<p>The chosen Template will inherit the Activity Details. To view and edit the Activity Notes and Active Learning Process in the&nbsp;<b>Activity Details</b>&nbsp;card, click the <b>Settings</b> icon&nbsp;<img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the&nbsp;Activity Details&nbsp;card. These fields are optional and will not be visible to students.
