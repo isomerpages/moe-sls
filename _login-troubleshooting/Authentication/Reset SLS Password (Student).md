@@ -25,7 +25,7 @@ variant: markdown
 </ul>
 </li>
 <li><p>On the Reset Password page, enter a new password.</p>
-<p><img style="width: 100%;" src="/images/4Troubleshooting/LT-ResetPassword.png"></p>
+<p><img alt="Reset SLS Password (Student)" style="width: 100%;" src="/images/4Troubleshooting/LT_ResetPassword.png"></p>
 </li>
 <ul><li><p>You will need to enter the new password twice to confirm that you have entered it correctly.</p>
 	</li></ul>
@@ -49,6 +49,7 @@ variant: markdown
 </li>
 <li><p>On the Security Questions page, enter the answers to the security questions.</p>
 	<p><u>Note</u>: You must answer all questions correctly before you can reset your password.</p>
+<img alt="Reset SLS Password (Student)" style="width: 100%;" src="/images/4Troubleshooting/LT_ResetPassword2.png">
 </li>
 <li><p>Click <strong>Submit</strong>.</p>
 </li>
