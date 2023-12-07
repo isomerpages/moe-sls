@@ -25,18 +25,20 @@ variant: markdown
 <p>A2. Add Components</p>	
 <ul>
 <li><a href="/teacher-user-guide/author/add-components/" target="_blank">(A2,1) Add Components (Enhanced)</a></li>
-<li><a href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/" target="_blank">(A2,2) Upload Question and Test Interoperability (QTI) Files</a></li>
-<li><a href="/teacher-user-guide/author/add-multiple-choice-questions/" target="_blank">(A2,3) Add Multiple-Choice Questions</a></li>
-<li><a href="/teacher-user-guide/author/add-fill-in-the-blanks-questions/" target="_blank">(A2,4) Add Fill-in-the-Blank Questions</a></li>
-<li><a href="/teacher-user-guide/author/add-click-and-drop-questions/" target="_blank">(A2,5) Add Click-and-Drop Questions</a></li>
-<li><a href="/teacher-user-guide/author/add-error-editing-questions/" target="_blank">(A2,6) Add Error-Editing Questions</a></li>
-<li><a href="/teacher-user-guide/author/add-free-response-questions/" target="_blank">(A2,7) Add Free-Response Questions</a></li>	
-<li><a href="/teacher-user-guide/author/add-audio-response-questions/" target="_blank">(A2,8) Add Audio-Response Questions</a></li>
-<li><a href="/teacher-user-guide/author/add-multi-part-questions/" target="_blank">(A2,9) Add Multi-Part Questions</a></li>
-<li><a href="/teacher-user-guide/author/add-display/" target="_blank">(A2,10) Add Display (New)</a></li>
-<li><a href="/teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/" target="_blank">(A2,11) Add Rubrics to Audio- and Free-Response Questions</a></li>	
-<li><a href="/teacher-user-guide/author/embed-youtube-videos/" target="_blank">(A2,12) Embed YouTube Videos</a></li>
-<li><a href="/teacher-user-guide/author/insert-media-objects/" target="_blank">(A2,13) Insert Media Objects</a></li>
+<li><a href="/teacher-user-guide/author/add-split-page-media/" target="_blank">(A2,2) Add Split-page Media (New)</a></li>
+<li><a href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/" target="_blank">(A2,3) Upload Question and Test Interoperability (QTI) Files</a></li>
+<li><a href="/teacher-user-guide/author/add-multiple-choice-questions/" target="_blank">(A2,4) Add Multiple-Choice Questions</a></li>
+<li><a href="/teacher-user-guide/author/add-fill-in-the-blanks-questions/" target="_blank">(A2,5) Add Fill-in-the-Blank Questions</a></li>
+<li><a href="/teacher-user-guide/author/add-click-and-drop-questions/" target="_blank">(A2,6) Add Click-and-Drop Questions</a></li>
+<li><a href="/teacher-user-guide/author/add-error-editing-questions/" target="_blank">(A2,7) Add Error-Editing Questions</a></li>
+<li><a href="/teacher-user-guide/author/add-free-response-questions/" target="_blank">(A2,8) Add Free-Response Questions</a></li>	
+<li><a href="/teacher-user-guide/author/add-audio-response-questions/" target="_blank">(A2,9) Add Audio-Response Questions</a></li>
+<li><a href="/teacher-user-guide/author/add-multi-part-questions/" target="_blank">(A2,10) Add Multi-Part Questions</a></li>
+<li><a href="/teacher-user-guide/author/add-display/" target="_blank">(A2,11) Add From Existing Questions</a></li>
+<li><a href="/teacher-user-guide/author/add-display/" target="_blank">(A2,12) Add Display (New)</a></li>
+<li><a href="/teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/" target="_blank">(A2,13) Add Rubrics to Audio- and Free-Response Questions</a></li>	
+<li><a href="/teacher-user-guide/author/embed-youtube-videos/" target="_blank">(A2,14) Embed YouTube Videos</a></li>
+<li><a href="/teacher-user-guide/author/insert-media-objects/" target="_blank">(A2,15) Insert Media Objects</a></li>
 </ul>
 <p>A3. Use Rich Text</p>	
 <ul>
