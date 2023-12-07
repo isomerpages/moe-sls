@@ -96,7 +96,7 @@ that can be used on SSOE2 ACAD device with ITD lock down mode.</p>
 <li><strong>How can schools best prepare their students for e-School Based Assessment (e-SBA) in terms of processes to put in place to trial (e.g. as a class test) before the actual use of SLS for national examinations?</strong>
 <p>Schools can refer to the two emails sent by the English Language and Literature Branch (ELLB) in Nov 2022 and Humanities Branch (HUMB) in Jan 2023 regarding preparation for e-assessment. The emails were addressed to the respective subject HODs.</p>
 <p>The SLS Office had conducted briefings on e-SBA at the Oct 2022 and Oct 2023 HOD/ICT meetings. The slides can be accessed on the <a target="_blank" href="https://intranet.moe.gov.sg/itd/Pages/itepm.aspx">MOE intranet - IT Education Programme for MOE</a>.</p> 
-<p>Schools may also refer to <a target="_blank" href="teachers/sls-superhero-quiz/conduct-eassessments-in-class/">Subject-Specific guides</a>.</p>
+<p>Schools may also refer to <a target="_blank" href="/teachers/sls-superhero-quiz/conduct-eassessments-in-class/">Subject-Specific guides</a>.</p>
 <p>Schools are also advised to access the following documents in guiding the school to trial the processes prior to national examinations on the Intranet website. The information is as follows: Briefing to HODs ICT (11 and 12 Oct 2022), Item 5. School based e-Assessment (e-SBA) in SLS.​</p></li>
 
 <li><strong>Can students edit their answers in SLS after they have submitted their response? Is there a plan for such a feature in the pipeline?</strong>
@@ -106,7 +106,7 @@ that can be used on SSOE2 ACAD device with ITD lock down mode.</p>
 <p>2. Click on the name(s) of the student(s) whom the teacher wants to resubmit their answers.</p>
 <p>3. The teacher can now see the ‘Unsubmit’ button below the question and he/she can click on it. The student(s) will then be able to give another answer. &nbsp;&nbsp;</p>
 <p>For Interactive Thinking Tool (ITT) and Discussion, which are the interactive components, students can edit their responses even after they have submitted their responses or completed the entire assignment.&nbsp;</p>
-<p>A workaround is to create question components in a Teacher-Marked Quiz. For more information on how teachers can unsubmit students' responses in such a quiz, visit <a target="_blank" href="teacher-user-guide/assess/unsubmit-teacher-marked-quizzes/">Unsubmit Teacher-Marked Quizzes</a>.</p>
+<p>A workaround is to create question components in a Teacher-Marked Quiz. For more information on how teachers can unsubmit students' responses in such a quiz, visit <a target="_blank" href="/teacher-user-guide/assess/unsubmit-teacher-marked-quizzes/">Unsubmit Teacher-Marked Quizzes</a>.</p>
 <p>Alternatively, teachers can also enable students to attempt multiple tries under “Number of tries” to achieve the same objective as the default mode is one try. However, this is only possible for closed-question types (i.e. not for Free-Response Questions, Audio-Response Questions, and File Submission Questions.)</p></li>
 
 <li><strong>For rubrics assessment in SLS, can teachers edit students' marks after marks have been awarded? How can teachers download the entire class's marks in Excel?</strong>
