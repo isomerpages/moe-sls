@@ -8,11 +8,9 @@ variant: markdown
 ---
 <h1 id="edit-detail-cards-">(B1,vi) Edit Detail cards</h1>
 <p></p><li>To view a Lesson/Section/Activity/Component/Quiz Detail subpage, click the respective card in the Lesson View page.
-	</li><li>To edit a Lesson/Section/Activity/Component/Quiz Detail subpage, click the&nbsp;<b>Pencil</b>&nbsp;icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> &nbsp;found at the top right of the header to enter the Lesson Editor page, followed by the <b>Settings</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the respective card.</li>
-	<p><u>Note</u>: The Settings Drawer can be expanded/collapsed by clicking the <b>expand/collapse</b> icon.</p>
-	
-<img style="width: 100%;" src="/images/2Teacher/AU_EditDetailCard.png">
-	<p></p>
+</li><li>To edit a Lesson/Section/Activity/Component/Quiz Detail subpage, click the&nbsp;<b>Pencil</b>&nbsp;icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> &nbsp;found at the top right of the header to enter the Lesson Editor page, followed by the <b>Settings</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the respective card.</li>
+<p><u>Note</u>: The Settings Drawer can be expanded/collapsed by clicking the <b>expand/collapse</b> icon.</p>	
+<img alt="" style="width: 50%;" src="/images/2Teacher/AU_EditDetailCard.png">
 <h2 id="-edit-lesson-details-subpage-">Edit Lesson Details subpage</h2>
 <hr>
 <ol>
