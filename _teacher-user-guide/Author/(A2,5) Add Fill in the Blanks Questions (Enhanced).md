@@ -31,7 +31,7 @@ variant: markdown
 <li>Answer - Enter an acceptable answer here. Each blank can have multiple acceptable answers. Press <strong>Enter</strong> within the field to add a new acceptable answer.</li>
 	<li>Distractor (only for Fill-in-the-blanks with Helping Words/Multiple Options) - Enter a distractor here. Each blank can have multiple distractors. Press <b>Enter</b> within the field to add a new distractor.</li>
 <li><p>Case-sensitive checkbox (only for text input) - If this is checked, the answer will be case-sensitive, that is, "usa" will not be accepted as a correct answer while "USA" will be accepted.</p></li></ul>
-<p><img style="width: 100%;" src="/images/2Teacher/AU-AddFITB4.png"></p>
+<p><img style="width: 50%;" src="/images/2Teacher/AU_AddFITB4.png"></p>
 </li><li><p>Click outside the Component to <strong>Save</strong>.</p>
 </li>
 </ol>
