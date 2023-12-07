@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h1>Assign</h1>
 <p>Use SLS to assign lessons to your students for them to complete within a specific time.</p>
-<img alt="Assign" style="width: 80%;" src="/images/2Teacher/Flow-Assign.png">
+<img alt="Assign" style="width: 50%;" src="/images/2Teacher/Flow-Assign.png">
 
 <details>
  <summary><h4>A. How to create Assignments?</h4></summary>
