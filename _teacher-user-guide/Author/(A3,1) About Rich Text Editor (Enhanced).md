@@ -30,8 +30,9 @@ variant: markdown
 
 <p>You are also able to:</p>
 <ul>
+	<li>View the word count or character count at the right corner of the text field. Click to switch between the two views. <b>(NEW)</b></li>
 	<li>Right click the select text to edit the font styling, text alignment and access the undo and redo function. <b>(NEW)</b></li>
-<li>View the word count or character count at the right corner of the text field. Click to switch between the two views. <b>(NEW)</b></li>
+<li>Right click to renumber the bullet points under List Properties. <b>(NEW)</b></li>
 	<p><img style="width: 100%;" src="/images/2Teacher/AU_AboutRichText1.png"></p>
 	<li><p><strong>Expand</strong> and <strong>Collapse</strong> the Rich Text Editor field by clicking the respective icons.</p></li>
 <li><p>Click on the component to edit and click outside of it to save.</p></li>
