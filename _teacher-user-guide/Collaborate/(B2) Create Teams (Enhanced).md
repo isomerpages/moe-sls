@@ -11,7 +11,7 @@ variant: markdown
 <h2 id="apply-subgroups-as-teams">Apply Subgroups as Teams</h2>
 <hr>
 <ol>
-<li>From the Assignment Settings subpage, select <strong>Activity Assignment</strong>. Ensure that <strong><a target="_blank" href="/teacher-user-guide/collaborate/create-team-activities/">Set as Team Activity</a></strong> has been toggled on.</li>
+<li>From the Assignment Settings subpage, select <strong>Activity Assignment</strong>. Ensure that <a target="_blank" href="/teacher-user-guide/collaborate/create-team-activities/">Set as Team Activity</a> has been toggled on.</li>
 <li><p>To create teams for individual activities, click <strong>Add Team</strong> under each activity, followed by <strong>Apply Subgroups as Team</strong>. To create teams for multiple activities, select the checkboxes beside the activity title, followed by <strong>Apply Subgroups as Teams</strong>.</p>
 <p><img alt="Create Teams" style="width: 80%;" src="/images/2Teacher/C_TeamSubgroup.png"></p>
 </li>
@@ -31,7 +31,7 @@ variant: markdown
 <h2 id="create-new-team">Create New Team</h2>
 <hr>
 <ol>
-<li>From the Assignment Settings subpage, select <strong>Activity Assignment</strong>. Ensure that <strong><a target="_blank" href="/teacher-user-guide/collaborate/create-team-activities/">Set as Team Activity</a></strong> has been toggled on. </li>
+<li>From the Assignment Settings subpage, select <strong>Activity Assignment</strong>. Ensure that <a target="_blank" href="/teacher-user-guide/collaborate/create-team-activities/">Set as Team Activity</a> has been toggled on. </li>
 <li><p>To create teams for individual Activities, click <strong>Add Team</strong> under each Activity, followed by <strong>Create New Team</strong>. To create a team across multiple activities, select the checkboxes beside the activity title, followed by <strong>Add Team</strong>.</p>
 <p><img alt="Create Teams" style="width: 80%;" src="/images/2Teacher/C_TeamSubgroup3.png"></p>
 </li>
@@ -50,7 +50,7 @@ variant: markdown
 <hr>
 <ol>
 <li>
-<p>From the Assignment Settings subpage, select <strong>Activity Assignment</strong>. Switch on the toggle for <strong><a target="_blank" href="/teacher-user-guide/collaborate/create-team-activities/">Set as Team Activity</a></strong>.</p>
+<p>From the Assignment Settings subpage, select <strong>Activity Assignment</strong>. Switch on the toggle for <a target="_blank" href="/teacher-user-guide/collaborate/create-team-activities/">Set as Team Activity</a>.</p>
 </li>
 <li>
 <p>To create teams for individual Activities, click <strong>Add Team</strong> under each Activity, followed by <strong>Create Multiple Teams</strong>. To create teams across multiple activities, select the checkboxes beside the activity title, followed by <strong>Create Multiple Teams</strong>.</p>
