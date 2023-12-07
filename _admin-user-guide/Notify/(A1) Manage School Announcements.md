@@ -35,7 +35,7 @@ variant: markdown
 <ol>
 <li>Login with an SLS School Administrator account.</li>
 <li>Open the left menu and click <strong>Administration</strong>, followed by <strong>Manage School Announcements</strong>.</li>
-<li>To edit an Announcement, click the Announcement card followed by the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Edit</strong>.  <img src="/images/5Admin/N-EditAnnouncement.png"></li>
+<li>To edit an Announcement, click the Announcement card followed by the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Edit</strong>.  <img alt="Manage School Announcements" src="/images/5Admin/N-EditAnnouncement.png"></li>
 <li><p>You can only make changes to the Title, Message, Start Date and Start Time..</p>
 	<p> <u>Note</u>: You can only make changes to the Start Date and Start Time if the Announcement has not started. </p>
 </li>

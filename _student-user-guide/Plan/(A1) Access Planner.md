@@ -18,7 +18,7 @@ variant: markdown
         <li>Enter a Class Group and select the <strong>Planner</strong> tab.</li>
       </ol>
     </li>
-<img src="/images/1Student/P-ClassGroupPlanner.png">
+<img alt="Access Planner" src="/images/1Student/P_ClassGroupPlanner.png">
 	<li>From the Planner dropdown list, select the&nbsp;<strong>Class Group(s)</strong>&nbsp;you wish to view the events for. Click&nbsp;<strong>Apply</strong>&nbsp;to proceed. The total number of Class Groups selected is indicated in parenthesis.</li>
 <u>Note:</u> 
 	<ul>
@@ -29,6 +29,6 @@ variant: markdown
     <li>To return to the current date, click <strong>Today</strong>.</li>
     <li>To know what events are happening at the moment, refer to the red line.</li>
   </ol>
-<img src="/images/1Student/P-Calendar.png">	
+<img alt="Access Planner" src="/images/1Student/P-Calendar.png">	
   <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did you know</u>:</p>
 <p>Assignment cards will appear under day view if there are assignments due today or in the&nbsp;next&nbsp;3&nbsp;days.</p>

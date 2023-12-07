@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/collaborate/create-team-activities/
 description: ""
 third_nav_title: Collaborate
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="-1-create-team-activities-new-">(B1) Create Team Activities (New)</h1>
 <p>Teachers can create Team Activities for students to attempt in assignments or in specific activities collaboratively. The Team Activity can be turned on from the Assignment Settings subpage. Team Activities are indicated with the Team icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Team.svg">.</p>
@@ -21,7 +22,7 @@ image: /images/FaviconLight.png
 	<p> <u>Note</u>: The number of activities within a section is indicated as a number in parenthesis. </p>
 </li>
 <li><p>For the activity you wish to set as a Team Activity, click the dropdown arrow and toggle <strong>Set as Team Activity</strong> on.</p>
-<p> <img style="width: 80%;" src="/images/2Teacher/C-TeamActivities.png"></p>
+<p> <img alt="Create Team Activities" style="width: 80%;" src="/images/2Teacher/C-TeamActivities.png"></p>
 </li>
 <li><p>If you are changing an activity in an assignment to a Team Activity, note that students who previously had access to the activity will no longer have access. You will need to add students to a team to enable access to the activity. </p>
 </li>

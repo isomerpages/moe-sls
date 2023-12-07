@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-display-new-">(A2,12) Add Display (New)</h1>
+<h1 id="add-display-">(A2,12) Add Display</h1>
 <p>You can add multiple Columns and Accordions display to contain different Components in an Activity.</p>
 <ol>
 	<p><img style="width: 50%;" src="/images/2Teacher/AU-AddDisplay.png"></p>

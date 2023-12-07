@@ -24,7 +24,7 @@ variant: markdown
 </li>
 <li>You can also use one of the templates under My Templates or SLS Templates. Click here to learn how to Add Templates.</li>
 </ol>
-<p><img style="width: 100%;" src="/images/2Teacher/AU-CreateNewLesson1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU_CreateNewLesson1.png"></p>
 <h2 id="-create-new-lesson-from-my-drive-">Create New Lesson from My Drive</h2>
 <hr>
 <ol>
@@ -39,7 +39,7 @@ variant: markdown
 <ol>
 <li>Click on a Class Group on the homepage or from the left menu.</li>
 <li>Click here to learn how to add New Lesson from Class Group.</li>
-<p><img style="width: 100%;" src="/images/2Teacher/AU-CreateNewLesson3.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU_CreateNewLesson3.png"></p>
 </ol>
 
 <h2>Video Tutorial</h2>

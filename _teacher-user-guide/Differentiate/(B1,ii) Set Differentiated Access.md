@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/differentiate/set-differentiated-access/
 description: ""
 third_nav_title: Differentiate
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="set-differentiated-access">(B1,ii) Set Differentiated Access</h1>
 <p>Teachers can set differentiated access for Activities within a Lesson. Only students who are given access to an Activity will be able to access it. This access can be managed from the Assignment Settings subpage, which can be accessed from the Assignment Summary (when assigning a new Lesson) or from an Assignment (by clicking <strong>Manage Assignment Settings</strong>). </p>
@@ -13,7 +14,7 @@ image: /images/FaviconLight.png
 	<p><u>Note</u>: The number of Activities within a Section is indicated as a number in parenthesis. </p>
 </li>
 <li><p>To set Differentiated Access for individual Activities, click the dropdown arrow on the Activity cards. To set Differentiated Access for multiple Activities, select the checkboxes beside the Activity titles, followed by <strong>Set Differentiated Access</strong>.</p>
-<p><img style="width: 100%;" src="/images/2Teacher/DI-SetDifferentiated1.png"></p>
+<p><img alt="Set Differentiated Access" style="width: 100%;" src="/images/2Teacher/DI-SetDifferentiated1.png"></p>
 </li>
 <li><p>You can choose to view your students by Form Class or by Subgroup. Select the relevant option from the dropdown list.</p>
 </li>

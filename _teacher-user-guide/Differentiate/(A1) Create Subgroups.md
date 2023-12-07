@@ -4,11 +4,12 @@ permalink: /teacher-user-guide/differentiate/create-subgroups/
 description: ""
 third_nav_title: Differentiate
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="-1-create-subgroups">(A1) Create Subgroups</h1>
 <h2 id="about-subgroups">About Subgroups</h2>
 <hr>
-<p><u>Important</u>: Only class group Owners and Co-teachers are able to create Subgroups.</p>
+<p><b>Important</b>: Only class group Owners and Co-teachers are able to create Subgroups.</p>
 <ul>
 <li>Subgroups can be created within any class group.</li>
 <li>The purpose of a Subgroup is to organise your students into smaller groups. By organising your students this way, you are able to achieve the following:<ul>
@@ -22,8 +23,8 @@ image: /images/FaviconLight.png
 <hr>
 <ol>
 <li>From the Class Group page, select a <strong>Class Group</strong>.</li>
-<li><p>Click <strong>New Subgroup</strong> under the <strong>Admin</strong> tab.</p>
-<p><img style="width: 100%;" src="/images/2Teacher/DI-CreateSubgroups1.png"></p>
+<li><p>Under the <strong>Admin</strong> tab, click <strong>New Subgroup</strong>.</p>
+<p><img alt="Create Subgroups" style="width: 100%;" src="/images/2Teacher/DI-CreateSubgroups1.png"></p>
 </li>
 <li><p>Enter the Subgroup Name.</p>
 </li>
@@ -31,15 +32,17 @@ image: /images/FaviconLight.png
 <li>You can add students to the subgroup by searching for their names.</li>
 <li>You can also filter and sort students based on the following fields:<ul>
 <li>Form Class</li>
+<li>Index No.</li>
+<li>Name</li>
 <li>Level</li>
 <li>School (useful for class groups that contain students from more than one school)</li>
 </ul>
 </li>
 <li>You can hide students from all subgroups by clicking the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> and selecting the checkbox beside <strong>Hide students from all subgroups</strong>. </li>
 <li><p>Check the students to be added to the class group and click <strong>Add</strong>.</p>
-<p><img style="width: 100%;" src="/images/2Teacher/DI-CreateSubgroups2.png"></p>
+<p><img alt="Create Subgroups" style="width: 100%;" src="/images/2Teacher/DI-CreateSubgroups2.png"></p>
 </li>
-<li><p>Complete the subgroup creation by clicking <strong>Save</strong>, followed by <strong>X</strong>. The newly-created subgroup will appear in the form of a card on the Class Group page.</p>
+<li><p>Complete the subgroup creation by clicking <strong>Save</strong>, followed by <strong>X</strong>. The newly-created subgroup will appear in the form of a card under the Subgroup List.</p>
 </li>
 </ol>
 <p><u>Note</u>:</p>

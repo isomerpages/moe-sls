@@ -4,36 +4,6 @@ permalink: /teacher-user-guide/author/about-rich-text-editor/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
-variant: markdown
+variant: tiptap
 ---
-<h1 id="about-rich-text-editor-enhanced-">(A3,1) About Rich Text Editor (Enhanced)</h1>
-<p>The Rich Text Editor allows you to add or edit content, images, links, and other components in an Activity. </p>
-
-<p>In the Rich Text Editor, you can:</p>
-<ol>
-<li>Undo and Redo</li>
-<li><a target="_blank" href="/teacher-user-guide/author/formatting-and-paragraphing/">Format and Paragraph text</a> </li>
-<li><a target="_blank" href="/teacher-user-guide/author/insert-mathematical-or-chemical-equations/">Insert Mathematical/Chemical Equations</a> </li>
-<li><a target="_blank" href="/teacher-user-guide/author/insert-tables/">Insert Tables</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/insert-emoticons/">Insert Emoticons</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/insert-media-objects/">Insert Media Objects</a></li>
-<li><a target="_blank" href="/teacher-user-guide/collaborate/attach-google-files/">Insert/Embed Files from Google</a> </li>
-<li><a target="_blank" href="/teacher-user-guide/author/insert-drawings/">Insert Drawings/Images</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/embed-youtube-videos/">Embed YouTube videos</a></li>
-<li><a target="_blank" href="/teacher-user-guide/discover/embed-whitelisted-websites/">Embed Website</a></li>
-<li><a target="_blank" href="/teacher-user-guide/discover/embed-integrated-apps/">Embed App</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/insert-external-links/">Insert Hyperlinks</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/insert-links-to-sections/">Insert Links to Sections</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/insert-tooltips/">Insert Tooltips</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/text-to-speech-tts/">Generate Text-to-Speech Files</a></li>
-</ol>
-
-<p>You are also able to:</p>
-<ul>
-	<li>Right click the select text to edit the font styling, text alignment and access the undo and redo function. <b>(NEW)</b></li>
-<li>View the word count or character count at the right corner of the text field. Click to switch between the two views. <b>(NEW)</b></li>
-	<p><img style="width: 100%;" src="/images/2Teacher/AU_AboutRichText1.png"></p>
-	<li><p><strong>Expand</strong> and <strong>Collapse</strong> the Rich Text Editor field by clicking the respective icons.</p></li>
-<li><p>Click on the component to edit and click outside of it to save.</p></li>
-<li><p>Add Files from Device, Add Google Files, Embed YouTube Videos, Embed Apps and Embed Websites directly from the component bar.</p></li>
-</ul>
+<h1>(A3,1) About Rich Text Editor (Enhanced)</h1><p>The Rich Text Editor allows you to add or edit content, images, links, and other components in an Activity.</p><p>In the Rich Text Editor, you can:</p><ol data-tight="true" class="tight"><li><p>Undo and Redo</p></li><li><p><a href="/teacher-user-guide/author/formatting-and-paragraphing/" rel="noopener noreferrer nofollow" target="_blank">Format and Paragraph text</a></p></li><li><p><a href="/teacher-user-guide/author/insert-mathematical-or-chemical-equations/" rel="noopener noreferrer nofollow" target="_blank">Insert Mathematical/Chemical Equations</a></p></li><li><p><a href="/teacher-user-guide/author/insert-tables/" rel="noopener noreferrer nofollow" target="_blank">Insert Tables</a></p></li><li><p><a href="/teacher-user-guide/author/insert-emoticons/" rel="noopener noreferrer nofollow" target="_blank">Insert Emoticons</a></p></li><li><p><a href="/teacher-user-guide/author/insert-media-objects/" rel="noopener noreferrer nofollow" target="_blank">Insert Media Objects</a></p></li><li><p><a href="/teacher-user-guide/collaborate/attach-google-files/" rel="noopener noreferrer nofollow" target="_blank">Insert/Embed Files from Google</a></p></li><li><p><a href="/teacher-user-guide/author/insert-drawings/" rel="noopener noreferrer nofollow" target="_blank">Insert Drawings/Images</a></p></li><li><p><a href="/teacher-user-guide/author/embed-youtube-videos/" rel="noopener noreferrer nofollow" target="_blank">Embed YouTube videos</a></p></li><li><p><a href="/teacher-user-guide/discover/embed-whitelisted-websites/" rel="noopener noreferrer nofollow" target="_blank">Embed Website</a></p></li><li><p><a href="/teacher-user-guide/discover/embed-integrated-apps/" rel="noopener noreferrer nofollow" target="_blank">Embed App</a></p></li><li><p><a href="/teacher-user-guide/author/insert-external-links/" rel="noopener noreferrer nofollow" target="_blank">Insert Hyperlinks</a></p></li><li><p><a href="/teacher-user-guide/author/insert-links-to-sections/" rel="noopener noreferrer nofollow" target="_blank">Insert Links to Sections</a></p></li><li><p><a href="/teacher-user-guide/author/insert-tooltips/" rel="noopener noreferrer nofollow" target="_blank">Insert Tooltips</a></p></li><li><p><a href="/teacher-user-guide/author/text-to-speech-tts/" rel="noopener noreferrer nofollow" target="_blank">Generate Text-to-Speech Files</a></p></li></ol><p>You are also able to:</p><ul><li><p>View the word count or character count at the right corner of the text field. Click to switch between the two views. <strong>(NEW)</strong></p></li><li><p>Right click the select text to edit the font styling, text alignment and access the undo and redo function. <strong>(NEW)</strong></p></li><li><p>Right click to renumber the bullet points under List Properties. <strong>(NEW)</strong></p><p></p><div class="isomer-image-wrapper"><img height="auto" width="100%" alt="About Rich Text" src="/images/2Teacher/AU_AboutRichText1.png"></div></li><li><p><strong>Expand</strong> and <strong>Collapse</strong> the Rich Text Editor field by clicking the respective icons.</p></li><li><p>Click on the component to edit and click outside of it to save.</p></li><li><p>Add Files from Device, Add Google Files, Embed YouTube Videos, Embed Apps and Embed Websites directly from the component bar.</p></li></ul><p></p>

@@ -5,7 +5,8 @@ date: 2023-08-15
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <h1>SLS System Downtime for 5 to 6 Sep</h1>
 
-![](/images/sls%20system%20downtime%20sep.png)
+![](/images/Resources/sls%20system%20downtime%20sep.png)

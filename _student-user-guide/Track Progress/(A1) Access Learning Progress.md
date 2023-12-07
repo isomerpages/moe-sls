@@ -20,14 +20,14 @@ variant: markdown
 <li>Class Group - Assignments assigned to you by your subject teacher.</li>
 </ul>
 	<u>Note</u>: When Self-Study is selected, you will be able to view your Learning Progress across the years by selecting the year from the&nbsp;<strong>Academic Year dropdown list</strong>.
-		<p><img src="/images/1Student/TP-LPSelection.png"></p>
+		<p><img alt="Access Learning Progress" src="/images/1Student/TP_LPSelection.png"></p>
 </li>
 <li>Under Summary, the donut chart shows the Awarded Marks out of the Total Marks.<ul>
 <li>Awarded Marks (Assignment or Self-Study) - the total number of marks you have scored for all selected questions, regardless of the content maps and topics.</li>
 <li>Total Marks - the total number of marks for all selected questions, regardless of the content maps and topics.</li>
 <li>Average - the average mark scored out of 100%.</li>
 </ul>
-		<p><img src="/images/1Student/TP-LPSummary.png"></p>
+		<p><img alt="Access Learning Progress" src="/images/1Student/TP_LPSummary.png"></p>
 </li>
 <li>If there is more than one content map tagged to the Subject, you will be able to select the relevant content map from the dropdown list.</li>
 <li>Your overall progress can be viewed in three ways:<ul>
@@ -35,7 +35,7 @@ variant: markdown
 <li>Monthly - To view the monthly trend of the awarded marks as part of the total marks.</li>
 <li>Questions - To view the awarded marks as part of the total marks by assignments of selected questions.</li>
 </ul>
-	<p><img src="/images/1Student/TP-LP.png"></p>
+	<p><img alt="Access Learning Progress" src="/images/1Student/TP-LP.png"></p>
 </li>
 <li>Click the <strong>Filter</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg"> to filter your overall progress (in terms of marks) according to the month range and topic/subtopic. Click <strong>Apply</strong> to confirm your selection.</li>
 </ol>

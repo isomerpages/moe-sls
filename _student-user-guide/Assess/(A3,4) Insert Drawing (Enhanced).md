@@ -10,7 +10,7 @@ variant: markdown
 <h2 id="-respond-on-drawing-">Respond on Drawing</h2>
 <hr>
 <p>If your teacher has provided an image for you to edit on, click on the <b>Pencil</b> icon.</p>
-<p><img style="width: 50%;" src="/images/1Student/AS-InsertDrawing1.png"></p>
+<p><img style="width: 50%;" src="/images/1Student/AS_InsertDrawing1.png"></p>
 
 <h2 id="-respond-with-drawing-">Respond with New Drawing</h2>
 <hr>
@@ -24,7 +24,7 @@ variant: markdown
 <li>When you click <b>Clear All</b>, all drawings and images will be deleted.</li>
 <li>You can resize/rotate or crop the final drawings/images before inserting them into the textbox.</li>
 </ul>
-<p><img style="width: 50%;" src="/images/1Student/AS-InsertDrawing2.png"></p>
+<p><img style="width: 50%;" src="/images/1Student/AS_InsertDrawing2.png"></p>
 
 <h2 id="-drawing-tools-">Drawing tools</h2>
 <hr>
@@ -51,7 +51,7 @@ variant: markdown
 	<p></p><li>Click&nbsp;<b>Next</b>&nbsp;after you are done drawing/editing.</li>
 		<li>Rotate or crop the image to your preferred dimensions before clicking <b>Done</b>.</li>
 	</ul>
-<p><img style="width: 50%;" src="/images/1Student/AS-InsertDrawing3.png"></p>
+<p><img style="width: 50%;" src="/images/1Student/AS_InsertDrawing3.png"></p>
 
 <h2 id="-edit-uploaded-drawing-">Edit uploaded drawing</h2>
 <hr>

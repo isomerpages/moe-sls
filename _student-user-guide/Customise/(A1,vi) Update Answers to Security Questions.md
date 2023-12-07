@@ -4,6 +4,7 @@ permalink: /student-user-guide/customise/update-answers-to-security-questions/
 description: ""
 third_nav_title: Customise
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="update-answers-to-security-questions">(A1,vi) Update Answers to Security Questions</h1>
 <p>Your answers to the security questions will be used to verify your identity and reset your password.</p>
@@ -12,7 +13,7 @@ image: /images/FaviconLight.png
 <li>Open the right menu and click <strong>Edit Profile</strong>. </li>
 <li>On the Profile page, select <strong>Security Questions</strong> under Account Settings.</li>
 
-<p><img src="/images/1Student/Cu-SecurityQuestions.png"></p>
+<p><img alt="Update Answers to Security Questions" src="/images/1Student/Cu_SecurityQuestions.png"></p>
 
 <li>Enter your new answers to the security questions in the respective fields.</li>
 <u>Note</u>:

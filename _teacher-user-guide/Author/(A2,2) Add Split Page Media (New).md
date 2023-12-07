@@ -59,7 +59,7 @@ third_nav_title: Author
     <li>Some types of shapes are not yet supported, e.g. WordArt, complex auto-shapes</li>
     <li>Only Bitmap images can be rendered in Java, e.g. PNG, JPEG, DIB</li>
 </ul></ol>
-		<p><img alt="Add Split-page Media" style="width: 100%;" src="/images/2Teacher/AU_AddSplitPageMedia1.png"></p>
+		<p><img alt="Add Split-page Media" style="width: 100%;" src="/images/2Teacher/AU_AddSplitPageMedia.png"></p>
 	
 <h2 id="add-split-page-video">Add Split-page Video</h2>
 <hr>
@@ -72,7 +72,7 @@ third_nav_title: Author
 	</li><li>
 	Click <b>Split</b> and <b>OK</b> to proceed.</li>
 </ol>
-<p><img alt="Add Split-page Media" style="width: 100%;" src="/images/2Teacher/AU_SplitPageMedia2.png"></p>
+<p><img alt="Add Split-page Media" style="width: 100%;" src="/images/2Teacher/AU_AddSplitPageMedia2.png"></p>
 
 <h2 id="add-split-page-audio">Add Split-page Audio</h2>
 <hr>

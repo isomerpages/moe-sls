@@ -4,9 +4,10 @@ permalink: /teacher-user-guide/collaborate/post-and-comment-in-the-forum/
 description: ""
 third_nav_title: Collaborate
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="-3-post-and-comment-in-the-forum">(A3) Post and Comment in the Forum</h1>
-<p>Teachers and Co-Teachers can create <a target="_blank" href="/teacher-user-guide/collaborate/add-a-topic/">Topics</a> in a Class Group Forum. Posts can be created within each Topic.</p>
+<p>Owners and Co-Teachers can create <a target="_blank" href="/teacher-user-guide/collaborate/add-a-topic/">Topics</a> in a Class Group Forum. Posts can be created within each Topic.</p>
 <h2 id="-create-a-post-">Create a Post</h2>
 <hr>
 <ol>
@@ -24,7 +25,7 @@ image: /images/FaviconLight.png
 <h2 id="edit-or-delete-a-post">Edit or Delete a Post</h2>
 <hr>
 <ol>
-<li>The owner of the post and teachers can edit and/or delete a post.</li>
+<li>The owner of the post, Owners and Co-Teachers can edit and/or delete a post.</li>
 <li>To edit a post, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Edit</strong> to edit the message, keyword tags of a post, enable commenting or notification to the class group. Click <strong>Save</strong> to confirm your edits.</li>
 <li>To delete a post, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Delete</strong>. Click <strong><strong>OK</strong></strong> in the confirmation prompt to confirm.</li>
 </ol>
@@ -32,9 +33,9 @@ image: /images/FaviconLight.png
 <hr>
 <ol>
 <li><a target="_blank" href="/teacher-user-guide/collaborate/change-forum-settings/">Commenting permissions</a> can be toggled on/off on individual posts by teachers or owners of posts. </li>
-<li>Select a topic card, followed by a post that you wish to leave a comment on.<img style="width: 80%;" src="/images/2Teacher/C-TopicCard1.png"></li>
+<li>Select a topic card, followed by a post that you wish to leave a comment on.<img alt="Post and Comment in the Forum" style="width: 80%;" src="/images/2Teacher/C-TopicCard1.png"></li>
 <li><p>From the View Post subpage, click <strong>Add</strong> to enter comments.</p>
-	<p><u>Note</u>: Comments can contain mathematical or chemical formulae, emoticons, drawings, and attached files.</p>
+	<p><u>Note</u>: Comments can contain mathematical or chemical formulae, emoticons, drawings, file uploads and audio recordings.</p>
 </li>
 <li><p>Click <strong>Post</strong> to proceed and <strong>X</strong> to close the subpage.</p>
 </li>

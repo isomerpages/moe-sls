@@ -14,7 +14,7 @@ variant: markdown
 	<li>Click <a target="_blank" href="/teacher-user-guide/author/about-rich-text-editor/">Split-page Media</a> to split the uploaded PowerPoint, video or audio file across pages. (NEW)</li>
 <li>Click <strong>Text</strong> to open Click <a target="_blank" href="/teacher-user-guide/author/about-rich-text-editor/">Rich Text Editor</a>.</li>
 <li><p>You can also directly attach File From Device, embed Google File, YouTube Video, App or Website from the dropdown menu. </p>
-<p> <img style="width: 50%;" src="/images/2Teacher/AU-AddComponent1.png"></p>
+<p> <img style="width: 50%;" src="/images/2Teacher/AU_AddComponent1.png"></p>
 </li>
 </ol>
 <h2 id="add-a-question-component">Add a Question Component</h2>
@@ -72,4 +72,4 @@ variant: markdown
 <p></p><li>You can add a new Component by clicking the <b>+</b> button in between Components.</li>
 	<li>You can delete a Component by clicking the <b>Trash</b> icon.</li>
 <li>If there is more than 1 component, you can re-arrange the Component by clicking the up and down arrows.</li>
-	<p><img style="width: 50%;" src="/images/2Teacher/AU-AddComponent6.png"></p></ol>
+	<p><img style="width: 50%;" src="/images/2Teacher/AU_AddComponent6.png"></p></ol>

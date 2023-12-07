@@ -22,4 +22,4 @@ variant: markdown
 		
 <img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did You Know</u>:
 <p>Gamified Lessons are indicated with the Gamification icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Game.svg"> on Assignment cards.</p>
- <img style="width: 50%;" src="/images/1Student/G-AboutGamification1.png">
+ <img alt="About Gamification" style="width: 50%;" src="/images/1Student/G-AboutGamification1.png">

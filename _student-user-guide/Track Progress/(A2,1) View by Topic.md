@@ -14,13 +14,13 @@ variant: markdown
 </li>
 <li><p>From the list of Topics, you may view the Subtopics by clicking on the <strong>dropdown arrow</strong> beside each Topic.</p>
 <p><u>Note</u>: The breakdown of Awarded Marks, Total Marks, and Marks (shown in percentage) are shown for each subtopic.</p>
-		<p><img src="/images/1Student/TP-LPTopical.png"></p>
+		<p><img alt="View by Topic" src="/images/1Student/TP_LPTopical.png"></p>
 	</li>
 <li><p>You may also search for resources related to the particular subject and Topic/Sub-topic by clicking the <strong>Overflow</strong> (<strong>3-dot</strong> icon),&nbsp;followed by <strong>Search for Lessons</strong>.</p>
-<p><img src="/images/1Student/TP-LPTopical1.png"></p>
+<p><img alt="View by Topic" src="/images/1Student/TP_LPTopical1.png"></p>
 </li>
 	<li>Alternatively, click&nbsp;<strong>Browse Lessons</strong>&nbsp;from the Learning Progress page.
-	<p><img src="/images/1Student/TP-LPTopical2.png"></p></li>
+	<p><img alt="View by Topic" src="/images/1Student/TP_LPTopical2.png"></p></li>
 <li><p>To view your overall progress (in terms of marks) for a Topic/Sub-topic over a period, click the <strong>Filter</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg"> and choose the <strong>Month Range</strong> and <strong>Topic/Subtopic</strong> from the dropdown list. Click <strong>Apply</strong> to perform your selection.</p>
 </li>
 <li>To sort the Topic/Sub-topics in ascending/descending order of marks, click the <strong>Up</strong>/<strong>Down</strong> arrows in the column headers.</li>

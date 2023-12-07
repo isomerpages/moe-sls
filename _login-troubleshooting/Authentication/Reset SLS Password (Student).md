@@ -25,7 +25,7 @@ variant: markdown
 </ul>
 </li>
 <li><p>On the Reset Password page, enter a new password.</p>
-<p><img style="width: 100%;" src="/images/4Troubleshooting/LT-ResetPassword.png"></p>
+<p><img alt="Reset SLS Password (Student)" style="width: 100%;" src="/images/4Troubleshooting/LT_ResetPassword.png"></p>
 </li>
 <ul><li><p>You will need to enter the new password twice to confirm that you have entered it correctly.</p>
 	</li></ul>
@@ -45,10 +45,11 @@ variant: markdown
 <li>Enter your SLS Username.</li>
 <li>Click <strong>Submit</strong>.</li>
 <li><p>Select the radio button for <strong>Answering my security questions</strong> and click <strong>Submit</strong>.</p>
-	<p><u>Note</u>: You will be prompted only if you have set a verified alternate email. Otherwise, you will be brought directly to the Security Questions page.</p>
+<p><u>Note</u>: You will be prompted only if you have set a verified alternate email. Otherwise, you will be brought directly to the Security Questions page.</p>
 </li>
 <li><p>On the Security Questions page, enter the answers to the security questions.</p>
-	<p><u>Note</u>: You must answer all questions correctly before you can reset your password.</p>
+<p><u>Note</u>: You must answer all questions correctly before you can reset your password.</p>
+<img alt="Reset SLS Password (Student)" style="width: 100%;" src="/images/4Troubleshooting/LT_ResetPassword1.png">
 </li>
 <li><p>Click <strong>Submit</strong>.</p>
 </li>

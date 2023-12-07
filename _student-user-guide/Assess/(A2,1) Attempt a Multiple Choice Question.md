@@ -20,7 +20,7 @@ variant: markdown
 	<u>Note</u>: You must choose ALL the correct answers to be awarded marks.
 <p><img style="width: 80%;" src="/images/1Student/As-MCQ1.png"></p>
 	<li><b>Slider</b>: If you see a slider, you may choose only one response. Drag the slider/click on the option to select your answer.</li>
-	<p><img style="width: 80%;" src="/images/1Student/AS-MCQ2.png"></p>
+	<p><img style="width: 80%;" src="/images/1Student/AS_MCQ2.png"></p>
 </ol>
 </li>
 
