@@ -4,11 +4,12 @@ permalink: /admin-user-guide/publish/index/
 description: ""
 third_nav_title: Publish
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Publish</h1>
 <p>Use SLS to publish resources to make it available and discoverable to teachers and students.
 </p>
-<img style="width: 100%;" src="/images/5Admin/Flow-Publish.svg">
+<img style="width: 100%;" src="/images/5Admin/Flow-Publish.png">
 <details>
  <summary><h4>A. How to create and manage MOE Library resources?</h4></summary>
 <ul>
