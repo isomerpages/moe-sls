@@ -14,7 +14,6 @@ third_nav_title: Author
 	</li><li>Under Add From Existing, select <b>Question from Library</b> to add from MOE Library, Community Gallery, and My Drive or <b>Question from Starred Resources</b> to add from Starred Resources.</li>
 	<p><img style="width: 50%;" src="/images/2Teacher/AU_AddFromExisiting1.png"></p>
 </ol>
-
 <h2 id="-view-an-exisiting-question-from-library-starred-resources-">View an Existing Question From Library/Starred Resources</h2>
 <hr>
 <ol>
@@ -22,7 +21,7 @@ third_nav_title: Author
 		<ul><li>Question and answer (if available)</li>
 			<p><u>Note</u>: To edit a Question, you have to add it to a Lesson first.</p>
 			<li>Other Information - Location, Question Type, Question Tags, Created by, Last Edited by, Keyword Tags and Used in.</li>
-				<p><img style="width: 50%;" src="/images/2Teacher/AU_AddFromExisiting2.png"></p>
+				<p><img style="width: 50%;" src="/images/2Teacher/AU_AddFromExisting2.png"></p>
 		</ul>
 </li><li>When Adding from Library, you can search for Questions using the Search Bar which contains the following filter:</li>
 	<ul><li>Subject</li>
