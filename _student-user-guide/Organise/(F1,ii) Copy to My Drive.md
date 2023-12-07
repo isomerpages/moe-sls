@@ -4,10 +4,11 @@ permalink: /student-user-guide/organise/copy-to-my-drive/
 description: ""
 third_nav_title: Organise
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>(F1,ii) Copy to My Drive</h1>
 
-<p>There are three ways to copy a Lesson to My Drive:</p>
+<p>There are three places to copy a Lesson to My Drive:</p>
 
 <ul>
   <li>from MOE Library</li>

@@ -4,13 +4,14 @@ permalink: /teachers/sls-professional-development/teaching-and-learning-with-sls
 description: ""
 third_nav_title: SLS Professional Development
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Teaching and Learning with SLS</h1>
 <hr>
 <table>
   <tbody><tr>
-    <th>Titles</th>
-    <th>Links to Lesson</th>
+<th style="text-align: center; vertical-align: middle; width:30%">Titles</th>
+<th style="text-align: center; vertical-align: middle;">Links to Lesson</th>
   </tr>
   <tr>
     <td>Lesson 1: Introduction</td>

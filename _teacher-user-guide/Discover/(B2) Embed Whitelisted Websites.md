@@ -3,12 +3,13 @@ title: (B2) Embed Whitelisted Websites
 permalink: /teacher-user-guide/discover/embed-whitelisted-websites/
 description: ""
 third_nav_title: Discover
+variant: markdown
 ---
 <h1 class="page-title">(B2) Embed Whitelisted Websites</h1>
 <p>To identify the newly whitelisted websites, press Ctrl+F and type "NEW!" in the search bar.</p>
-<p>Schools are advised to be mindful of age advisories (e.g. For ChatGPT, parental consent is required for children between 13 to 18) and the <a target="_blank" href="https://intranet.moe.gov.sg/etd/Pages/tfl_product_programmes_resources.aspx/">MOE AIEd Ethics Framework</a> (requires access to MOE Intranet) when using sites with AI affordances.</p>
+<p>Schools are advised to be mindful of age advisories (e.g. For ChatGPT, parental consent is required for children between 13 to 18) and the <a href="https://intranet.moe.gov.sg/etd/Pages/tfl_product_programmes_resources.aspx/" target="_blank">MOE AIEd Ethics Framework</a> (requires access to MOE Intranet) when using sites with AI affordances.</p>
 <p> If you have difficulties embedding whitelisted URL(s) in SLS lessons, you may&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>.</p>
-<p><u>Note</u>: If you are unable to embed a website, the website may have been <a target="_blank" href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/">removed from whitelisting</a>.</p>
+<p><u>Note</u>: If you are unable to embed a website, the website may have been <a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">removed from whitelisting</a>.</p>
 <h2 class="section-title">Whitelisted Websites and URLs (Using Site URL)</h2>
 <hr>
 <p>To embed a whitelisted website using site URL:</p>
@@ -21,7 +22,7 @@ third_nav_title: Discover
 <li>You can adjust the Height and Width (in pixel) for the whitelisted website display.</li>
 <li>Click <strong>Save</strong> to confirm.</li>
 </ol>
-<a target="_blank" href="/images/2Teacher/D-Whitelisted.png"><img alt="Whitelisted" src="/images/2Teacher/D-Whitelisted.png"></a>
+<a href="/images/2Teacher/D-Whitelisted.png" target="_blank"><img src="/images/2Teacher/D-Whitelisted.png" alt="Whitelisted"></a>
 <table>
 <thead>
 <tr>
@@ -197,7 +198,7 @@ https://www.checkfirst.gov.sg
 https://chemnotcheem.com
 </td>
 </tr>
-<tr><td><strong>Chemistry WebAR <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Chemistry WebAR</strong></td>
 <td>Augmented Reality Tool</td>
 <td>
 https://sites.google.com/view/chem-ar
@@ -247,6 +248,12 @@ https://classroomscreen.com
 <td>News Resources</td>
 <td>
 https://edition.cnn.com
+</td>
+</tr>
+<tr><td><strong>CodeCheck <font color="#FBBC04">NEW!</font></strong></td>
+<td>Coding Platform</td>
+<td>
+https://codecheck.io
 </td>
 </tr>
 <tr><td><strong>Coggle</strong></td>
@@ -373,6 +380,12 @@ https://www.ezhishi.net
 https://www.playfactile.com
 </td>
 </tr>
+<tr><td><strong>Falstad <font color="#FBBC04">NEW!</font></strong></td>
+<td>Simulations</td>
+<td>
+https://www.falstad.com/circuit
+</td>
+</tr>
 <tr><td><strong>Flip</strong></td>
 <td>Video Discussion Tool</td>
 <td>
@@ -421,7 +434,7 @@ https://framevr.io
 https://www.funbrain.com
 </td>
 </tr>
-<tr><td><strong>Gather <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Gather</strong></td>
 <td>Virtual Reality Tool</td>
 <td>
 https://app.gather.town
@@ -892,7 +905,7 @@ https://web.seesaw.me
 https://app.seesaw.me
 </td>
 </tr>
-<tr><td><strong>Semantris <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Semantris</strong></td>
 <td>Word Association Game</td>
 <td>
 https://research.google.com/semantris
@@ -928,7 +941,7 @@ https://www.scdf.gov.sg
 https://www.police.gov.sg
 </td>
 </tr>
-<tr><td><strong>SG101 <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>SG101</strong></td>
 <td>Resource site</td>
 <td>
 https://www.sg101.gov.sg
@@ -952,7 +965,7 @@ https://b.socrative.com
 https://songcraft.io
 </td>
 </tr>
-<tr><td><strong>Soundtrap <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Soundtrap</strong></td>
 <td>Audio Resources</td>
 <td>
 https://www.soundtrap.com
@@ -1395,7 +1408,7 @@ https://form.gov.sg
 https://www.gamestolearnenglish.com
 </td>
 </tr>
-<tr><td><strong>Gamma <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Gamma</strong></td>
 <td>Presentation Tool</td>
 <td>
 https://gamma.app
@@ -1545,7 +1558,7 @@ https://iwant2study.org
 https://padlet.com
 <br>
 <em>
-(To whitelist your school's padlet.org site, please submit a request through the <a href="https://go.gov.sg/sls-whitelist-form" target="_blank">Website Whitelisting Form</a>.)
+(To whitelist your school's padlet.org site, please submit a request through the <a target="_blank" href="https://go.gov.sg/sls-whitelist-form">Website Whitelisting Form</a>.)
 </em>  
 <br>
 https://acjc.padlet.org
@@ -1590,9 +1603,13 @@ https://chr.padlet.org
 <br>
 https://corporationpri.padlet.org
 <br>
+https://crescentgirls.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://damaisecondary.padlet.org
 <br>
 https://dlsssg.padlet.org
+<br>
+https://dmps.padlet.org <font color="#FBBC04">NEW!</font>
 <br>
 https://dunmanhigh.padlet.org
 <br>
@@ -1666,6 +1683,8 @@ https://punggolpri.padlet.org
 <br>
 https://punggolsecschool.padlet.org
 <br>
+https://riedu.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://riversidesec.padlet.org
 <br>
 https://rivervalleyps.padlet.org
@@ -1713,6 +1732,12 @@ https://yyss.padlet.org
 https://zhenghuasecondary.padlet.org
 <br>
 https://zhss.padlet.org
+</td>
+</tr>
+<tr><td><strong>Panopto <font color="#FBBC04">NEW!</font></strong></td>
+<td>Video Resource Site</td>
+<td>
+https://ri.ap.panopto.com
 </td>
 </tr>
 <tr><td><strong>PhET Simulations</strong></td>
@@ -1883,4 +1908,4 @@ https://zoom.us
 </table>
 <h2 class="section-title">Request for Websites to be Whitelisted</h2>
 <hr>
-<p>If you would like SLS to consider a website for whitelisting, please submit a request through the <a href="https://go.gov.sg/sls-whitelist-form" target="_blank">Website Whitelisting Form</a>. Before doing so, please check that the terms of use of the website allow for embedding into external sites such as SLS.</p>
+<p>If you would like SLS to consider a website for whitelisting, please submit a request through the <a target="_blank" href="https://go.gov.sg/sls-whitelist-form">Website Whitelisting Form</a>. Before doing so, please check that the terms of use of the website allow for embedding into external sites such as SLS.</p></ol>

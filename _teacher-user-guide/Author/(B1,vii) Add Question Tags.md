@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/author/add-question-tags/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="add-question-tags">(B1,vii) Add Question Tags</h1>
 <p>Most components can be tagged to Subject, Level, Content Map, Skill Level, Topics, and Sub-topics so as to improve searchability in Community Gallery, MOE Library, and My Drive.</p>
@@ -13,10 +14,9 @@ image: /images/FaviconLight.png
 <h2 id="add-a-question-tag">Add a Question Tag</h2>
 <hr>
 <ol>
-<li>To start, click the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> found at the top right of the header to edit your Lesson.</li>
-<li>The Component Details card can be expanded/hidden by clicking the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg">.</li>
-<li>To edit the Question Details card, click the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg">. </li>
-<li><p>To include the Question in the Learning Progress, check the box beside <strong>Include in Learning Progress</strong>. You can also add Keyword Tags and Question Tags. </p>
+<li>Click the&nbsp;<strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">&nbsp;found at the top right of the header to enter the Lesson Editor page.</li>
+<li>To edit the Question Details subpage, click the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the card. </li>
+<li><p>To include the Question in the Learning Progress, select the checkbox “Include in Learning Progress”. You can also add Keyword Tags and Question Tags. </p>
 <p><img style="width: 100%;" src="/images/2Teacher/AU-AddQuestionTag1.png"></p>
 	<p><u>Note</u>: You will need to add a Question Tag in order to include the question in the Learning Progress.</p>
 </li>
@@ -41,5 +41,5 @@ image: /images/FaviconLight.png
 <li>To add more Question Tags, click <strong>Add Question Tag</strong>.</li>
 <li>Multiple Question Tags will be displayed in an accordion format.</li>
 <li>To expand or collapse the tag details for viewing, click the <strong>Question Tag Title</strong> or the upward/downward arrow. To remove the tag, click the <strong>Trash</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">.</li>
-<li>Click the <strong>Save</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg">to exit.</li>
+<li>Click the <strong>Save</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg">to proceed.</li>
 </ol>

@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/personalise/set-optional-activities-and-quizzes/
 description: ""
 third_nav_title: Personalise
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="set-optional-activities-quizzes">(A1) Set Optional Activities &amp; Quizzes</h1>
 <p>Optional Activities/Quizzes can include content that:</p>
@@ -13,14 +14,24 @@ image: /images/FaviconLight.png
 <li>allows students to exercise agency, e.g. using <a target="_blank" href="/teacher-user-guide/gamify/about-gamification-and-leaderboard/">Gamification</a>.</li>
 </ul>
 <p>These Activities/Quizzes do not need to be completed for the Assignment to be Marked As Complete.</p>
-<p>There are various ways to Set an Optional Activity/Quiz:</p>
+<h2>Set Optional Activities &amp; Quizzes</h2>
+<hr>
 <ol>
-<li><p>Click on the Activity/Quiz Title and adjust the Optional Toggle.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/PE-SetOptional1.png"></p>
-</li>
-<li><p>Click the <strong>Expand Activity List</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/LessonPlan.svg"> to open the Full Activity List. Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) of an Activity/Section and select <strong>Set As Optiona</strong>l.</p>
-</li>
-<li><p>Click the <strong>Lesson Plan</strong> icon, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) of an Activity/Section and select <strong>Set As Optional</strong>.</p>
-	<p> <u>Note</u>: Optional Activities/Quizzes are indicated with <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityOptional32.svg"> in the Activity List.</p>
-</li>
+    <li>
+        <p>Enter the Lesson Editor page.</p>
+    </li>
+    <li>
+        <p>Select an Activity/Quiz from the Simplified Lesson Plan (collapsed).</p>
+    </li>
+    <li>
+        <p>On the Activity/Quiz Cover, adjust the Optional Toggle.</p>
+    </li>
+    <li>
+			<img style="width: 80%;" src="/images/2Teacher/PE-SetOptional1.png">
+        <p>Alternatively, click the <strong>Expand Activity List</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/LessonPlan.svg"> to open the Expanded Lesson Plan. Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) of an Activity/Quiz and select <strong>Set As Optiona</strong>l.</p>
+    </li>
+    <li>
+        <p>Click the <strong>Lesson Plan</strong> icon, followed by the <strong>Overflow</strong> (<strong>3-dot</strong> icon) of an Activity/Quiz and select <strong>Set As Optional</strong>.</p>
+        <p><u>Note</u>: Optional Activities/Quizzes are indicated with <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityOptional32.svg"> in the Simplified Lesson Plan.</p>
+    </li>
 </ol>

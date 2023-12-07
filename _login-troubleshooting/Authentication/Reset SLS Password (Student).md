@@ -4,9 +4,10 @@ permalink: /login-troubleshooting/authentication/reset-sls-password-student/
 description: ""
 third_nav_title: Authentication
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="reset-sls-password-student-">Reset SLS Password (Student)</h1>
-<p>If you have forgotten your SLS password, you can reset it by having a password reset email sent to your email address, or by answering a series of security questions.</p>
+<p>If you have forgotten your SLS password, you can reset it by having a password reset email sent to your email address&nbsp;(if you have specified an email address)&nbsp;or by answering a series of security questions.</p>
 <h2 id="-reset-password-with-a-password-reset-link-">Reset Password with a Password Reset Link</h2>
 <hr>
 <p><u>Note</u>: You can only do this if you have previously set a verified password reset email address.</p>
@@ -54,5 +55,5 @@ image: /images/FaviconLight.png
 </ol>
 <h2 id="-get-temporary-access-to-sls-">Get Temporary Access to SLS</h2>
 <hr>
-<p>If you need to log in to the SLS during class and have forgotten your password, your teacher can generate a 2-Hour Temporary Password (2HTP). The 2HTP only allows you to access the Assignments and MOE Library. It does not allow you to reset your password or change other details in your Profile.</p>
+<p>If you need to log in to the SLS during class and have forgotten your password, your&nbsp;subject&nbsp;teacher can generate a 2-Hour Temporary Password (2HTP).&nbsp;The 2HTP will grant you full access to your account, with the exception of managing your profile settings.</p>
 <p>This is only a temporary solution. If you have forgotten your password, you should try to reset it by following the steps above.</p>

@@ -4,6 +4,7 @@ permalink: /login-troubleshooting/technical-issues/operating-system-and-browser-
 description: ""
 third_nav_title: Technical Issues
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Operating System and Browser Requirements (Updated)</h1>
  
@@ -20,27 +21,27 @@ image: /images/FaviconLight.png
 <tbody>
 <tr>
 <td>Microsoft Windows 10</td>
-<td>Google Chrome 92 and later <br>               Microsoft Edge 92 and later</td>
+<td>Google Chrome 96 and later <br>               Microsoft Edge 96 and later</td>
 </tr>
 <tr>
 <td>Mac OS 10.15 and later</td>
-<td>Safari 14 and later <br> Google Chrome 92 and later</td>
+<td>Safari 15 and later <br> Google Chrome 96 and later</td>
 </tr>
 <tr>
-<td>iPadOS 14 and later</td>
-<td>Safari 14 and later <br>     Google Chrome 92 and later</td>
+<td>iPadOS 15 and later</td>
+<td>Safari 15 and later <br>     Google Chrome 96 and later</td>
 </tr>
 <tr>
-<td>iOS 14 and later</td>
-<td>Safari 14 and later <br>                          Google Chrome 92 and later</td>
+<td>iOS 15 and later</td>
+<td>Safari 15 and later <br>                          Google Chrome 96 and later</td>
 </tr>
 <tr>
 <td>Android 10 and later</td>
-<td>Google Chrome 92 and later</td>
+<td>Google Chrome 96 and later</td>
 </tr>
 <tr>
-<td>ChromeOS 110 and later</td>
-<td>Google Chrome 110 and later</td>
+<td>ChromeOS 114 and later</td>
+<td>Google Chrome 114 and later</td>
 </tr>
 </tbody>
 </table>

@@ -4,13 +4,15 @@ permalink: /student-user-guide/assess/index/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Assess</h1>
 <p>Use SLS to complete and submit work, easily access and follow up on teacher marks and feedback.</p>
 <img style="width: 100%;" src="/images/1Student/Flow-Assess1.png">
 <details><summary><h4>A. How to complete my Assignments?</h4></summary>
 <ul>
-<li><a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">(A1)  Navigate an Assignment</a></li></ul>
+<li><a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">(A1,1)  Navigate an Assignment</a></li>
+	<li><a target="_blank" href="/student-user-guide/assess/navigate-quizzes/">(A1,2)  Navigate Quizzes</a></li></ul>
 <p>A2. Attempt different Question types</p>
 <ul><li><a target="_blank" href="/student-user-guide/assess/attempt-a-multiple-choice-question/">(A2,1) Attempt a Multiple-Choice Question</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/attempt-a-fill-in-the-blanks-question/">(A2,2) Attempt a Fill-in-the-Blanks Question</a></li>
@@ -52,4 +54,6 @@ image: /images/FaviconLight.png
 <ul><li><a target="_blank" href="/student-user-guide/assess/about-assessments/">(C1) About Assessments (New)</a></li></ul>
 </details>
 <details><summary><h4>D. What types of automated feedback are there? </h4></summary>
-<ul><li><a href="/student-user-guide/assess/about-mathematics-feedback-assistant" target="_blank">(D1) About Mathematics Feedback Assistant</a></li></ul></details>
+<ul><li><a href="/student-user-guide/assess/about-feedback-assistant-mathematics" target="_blank">(D1) About Feedback Assistant - Mathematics (FA-Math)</a></li></ul>
+<ul><li><a href="/student-user-guide/assess/about-language-feedback-assistant-for-english" target="_blank">(D2) About Language Feedback Assistant for English (LangFA-EL)</a></li></ul>
+<ul><li><a href="/student-user-guide/assess/about-short-answer-feedback-assistant" target="_blank">(D3) About Short Answer Feedback Assistant (ShortAnsFA)</a></li></ul></details>

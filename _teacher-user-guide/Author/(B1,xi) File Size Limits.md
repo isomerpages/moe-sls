@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/author/file-size-limits/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="file-size-limits">(B1,xi) File Size Limits</h1>
 <p><u>Important</u>: If you receive an error message when uploading a file, please check that your file(s) do not exceed the file size limits and/or dimensions.</p>
@@ -83,7 +84,7 @@ odp/odg/odf/key/pps/pages/
 <td>500 MB</td>
 </tr>
 <tr>
-<td>Planner (NEW)</td>
+<td>Planner</td>
 <td>ics</td>
 <td>5 MB</td>
 <td>5 MB (1000 events)</td>

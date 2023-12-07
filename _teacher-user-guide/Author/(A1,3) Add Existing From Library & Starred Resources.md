@@ -4,13 +4,14 @@ permalink: /teacher-user-guide/author/add-existing-from-library-and-starred-reso
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="add-existing-from-library-starred-resources">(A1,3) Add Existing From Library &amp; Starred Resources</h1>
 <h2 id="viewing-existing-lessons-from-library-starred-resources">Viewing Existing Lessons From Library/Starred Resources</h2>
 <hr>
 <ol>
 <li>You can add an existing Activity or Quiz from Library (MOE Library, Community Gallery, and My Drive) or from Starred Resources.</li>
-<li><p>When Adding from Library, teachers can search for Lessons using the Search Bar which contains the following filter:</p>
+<li><p>When Adding from Library, you can search for Lessons using the Search Bar which contains the following filter:</p>
 <ul>
 <li>Subject</li>
 <li><p>Level</p>
@@ -20,7 +21,7 @@ image: /images/FaviconLight.png
 </li>
 <li><p>Click <strong>Apply</strong> to apply your filters.</p>
 </li>
-<li>You may use Filters for more targeted search results. To apply Filters, Click Filter. You can apply the following filters:<ul>
+	<li>You may use Filters for more targeted search results. To apply filters, click <b>Filter</b>. You can apply the following filters:<ul>
 <li>Location</li>
 <li>Subject</li>
 <li>Level</li>
@@ -31,7 +32,7 @@ image: /images/FaviconLight.png
 <li><p>By default, the Search Results are sorted according to Relevance. You can choose to sort the results by recency by selecting Latest from the Sort By dropdown list.</p>
 <p><img style="width: 100%;" src="/images/2Teacher/AU-AddExisting1.png"></p>
 </li>
-<li><p>Click on the Lesson card to view its details. You will see the following on the card:</p>
+<li><p>Click&nbsp;the View Details icon on the Lesson card to view the following on the Lesson Details subpage:</p>
 <ul>
 <li>Lesson title, cover and description (if any)</li>
 <li>View Teacher Notes toggle - You can toggle on/off to view Teacher Notes (if any)</li>
@@ -44,7 +45,7 @@ image: /images/FaviconLight.png
 </ul>
 </li>
 </ol>
-<h3 id="adding-existing-activity-section-from-library-starred-resources">Adding Existing Activity/Section From Library/Starred Resources</h3>
+<h3 id="choosing-an-existing-activity-section-from-library-starred-resources">Choosing an Existing Activity/Section From Library/Starred Resources</h3>
 <hr>
 <ol>
 <li><p>Once you have decided on the Activities/Sections to add, you can tick the box beside the Activities/Sections.</p>

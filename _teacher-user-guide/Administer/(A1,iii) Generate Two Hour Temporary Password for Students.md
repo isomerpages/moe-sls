@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/administer/generate-two-hour-temporary-password-f
 description: ""
 third_nav_title: Administer
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="generate-two-hour-temporary-password-for-students">(A1,iii) Generate Two-Hour Temporary Password for Students</h1>
 <p>Owners and Co-teachers can create a two-hour temporary password for students in their Class Groups. This password grants students temporary access to the SLS if they had forgotten their password or if their accounts had been locked.</p>
@@ -14,12 +15,11 @@ image: /images/FaviconLight.png
 <ol>
 	<p>There are multiple ways to access the Class Groups page.</p><ul>
 <li>Class Groups tab on the homepage</li>
-<li>left menu, under Class Groups</li>
+<li>Class Groups from the left menu</li>
 </ul>
 </ol>
 <h2 id="-generate-temporary-password-">Generate Temporary Password</h2>
 <hr>
-<p><u>Note</u>: Students can either use their own password or the temporary password generated to log in to SLS.</p>
 <ol>
 <li>Select the Class Group containing the student(s) you want to generate a two-hour temporary password for. Click the <strong>Admin</strong> tab to view Group Details.</li>
 <li>Below Subgroup List, click <strong>Generate Temporary Password</strong> under Password Settings.</li>
@@ -27,10 +27,14 @@ image: /images/FaviconLight.png
 	<p><u>Note</u>: The two-hour temporary password must follow the password guidelines. It should be at least 8 characters long and contain a combination of numbers and letters.</p>
 </li>
 <li><p>Click <strong>Generate Password</strong>.</p>
-<p><img style="width: 100%;" src="/images/2Teacher/A-2HrPW.png"></p>
+<p><img alt="Generate Two-Hour Temporary Password for Students" style="width: 100%;" src="/images/2Teacher/A-2HrPW.png"></p>
 </li>
 <li><p>On the confirmation prompt, verify that the correct class group has been selected.</p>
 </li>
 <li>Click <strong>Proceed</strong>.</li>
 </ol>
-<p><u>Note</u>: the 2-hour temporary password needs to be entered at the existing SLS login page and not the MIMS login page.</p>
+<p>Note:</p>
+<ul>
+<li>The 2-hour temporary password needs to be entered at the existing SLS login page and not the MIMS login page.</li>
+<li>Students can either use their own password or the temporary password generated to log in to SLS.</li>
+</ul>

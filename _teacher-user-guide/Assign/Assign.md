@@ -4,10 +4,11 @@ permalink: /teacher-user-guide/assign/index/
 description: ""
 third_nav_title: Assign
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Assign</h1>
 <p>Use SLS to assign lessons to your students for them to complete within a specific time.</p>
-<img style="width: 50%;" src="/images/2Teacher/Flow-Assign.png">
+<img alt="Assign" style="width: 80%;" src="/images/2Teacher/Flow-Assign.png">
 
 <details>
  <summary><h4>A. How to create Assignments?</h4></summary>
@@ -41,4 +42,22 @@ image: /images/FaviconLight.png
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">(C1,i) Assign Past Exam Questions</a></li>	
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/empower-students-to-be-self-directed-learners/">(C1,ii) Empower Students to be Self Directed Learners</a></li>	
 </ul>
+</details>
+<details>
+<summary>
+<h4 id="assign">D. Tech Tips for Teachers</h4>
+</summary>
+<ol>
+<li><p><strong>How do I recover a missing Assignment? (New in R19)</strong></p>
+<p> If you are unable to find an Assignment, it may have been deleted accidentally by yourself, or by one of the co-teachers in the Class Group.</p>
+<p> Deleted Assignments cannot be recovered. To avoid accidental deletion, please read the warning prompt before clicking <strong>OK</strong>.</p>
+<p> To prevent co-teachers from accidentally deleting an Assignment, you may wish to change their role to “Observer” or “Liaison Teacher”.</p>
+<p> For more information on deleting an Assignment, visit <a target="_blank" href="/teacher-user-guide/assign/delete-assignments/">Delete an Assignment</a>.</p>
+<p> For more information on the roles within a Class Group, visit <a target="_blank" href="/teacher-user-guide/organise/create-class-groups/">Create a Class Group</a>.</p>
+</li>
+<li><p><strong>Why is there a 100-assignee limit for each Assignment?</strong></p>
+<p> There is no limit to the number of users you can add to a Class Group. However, when an Assignment is assigned to a Class Group with more than 100 students, there will be 1 Assignment card, for every 100 students or part thereof.</p>
+<p> This would make the monitoring of Assignments easier and allow the system to load more efficiently without having to fetch a large amount of data per Assignment.</p>
+</li>
+</ol>
 </details>

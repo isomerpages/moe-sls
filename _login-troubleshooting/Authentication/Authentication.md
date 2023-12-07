@@ -1,9 +1,12 @@
 ---
 title: Authentication
 permalink: /login-troubleshooting/authentication/index/
-description: ""
+description: This page provides troubleshooting tips for authentication issues
+  when logging into the Learning.moe.edu.sg portal. Learn how to reset your
+  password, troubleshoot two-factor authentication, and more.
 third_nav_title: Authentication
 image: /images/FaviconLight.png
+variant: tiptap
 ---
 <h1>Authentication</h1>
 <details>

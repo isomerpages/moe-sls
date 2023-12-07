@@ -5,9 +5,10 @@ collections:
       - Explore SLS Functions.md
       - Assess/.keep
       - Assess/Assess.md
-      - Assess/(A1) Navigate an Assignment.md
+      - Assess/(A1,1) Navigate an Assignment (Enhanced).md
+      - Assess/(A1,2) Navigate Quizzes (NEW).md
       - Assess/(A2,1) Attempt a Multiple Choice Question.md
-      - Assess/(A2,2) Attempt a Fill in the Blanks Question.md
+      - Assess/(A2,2) Attempt a Fill in the Blanks Question (Enhanced).md
       - Assess/(A2,3) Attempt a Click and Drop Question.md
       - Assess/(A2,4) Attempt an Error Editing Question.md
       - Assess/(A2,5) Attempt an Audio Response Question.md
@@ -22,7 +23,7 @@ collections:
       - Assess/(A3,1) Formatting & Paragraphing.md
       - Assess/(A3,2) Insert Tables.md
       - Assess/(A3,3) Upload File.md
-      - Assess/(A3,4) Insert Drawing.md
+      - Assess/(A3,4) Insert Drawing (Enhanced).md
       - Assess/(A3,5) Insert Chinese or Tamil Text.md
       - Assess/(A3,6) Insert Mathematical or Chemical Equations.md
       - Assess/(A3,7) Insert & Edit Links.md
@@ -34,8 +35,10 @@ collections:
       - Assess/(B1) View Completed Assignments.md
       - Assess/(B2) View Quiz Results.md
       - Assess/(B3) View and Respond to Teacher Comments.md
-      - Assess/(C1) About Assessments (New).md
+      - Assess/(C1) About Assessments.md
       - Assess/(D1) About Feedback Assistant Mathematics.md
+      - Assess/(D2) About Language Feedback Assistant for English.md
+      - Assess/(D3) About Short Answer Feedback Assistant.md
       - Assign/.keep
       - Assign/Assign.md
       - Assign/About Assignments.md
@@ -47,7 +50,7 @@ collections:
       - Collaborate/(A1,2) Accept a Share Request.md
       - Collaborate/(A2) Interact in a Shared Assignment.md
       - Collaborate/(B1) Access the Forum.md
-      - Collaborate/(B2,1) Posting on a Discussion Topic (Improved).md
+      - Collaborate/(B2,1) Posting on a Discussion Topic.md
       - Collaborate/(B2,2) Create a New Poll.md
       - Collaborate/(B3,1) Comment in the Forum.md
       - Collaborate/(B3,2) Edit a Poll.md
@@ -55,7 +58,7 @@ collections:
       - Customise/Customise.md
       - Customise/(A1,i) Customise an Avatar.md
       - Customise/(A1,ii) Set Password Reset Email Address.md
-      - Customise/(A1,iii) Set Email Notifications (New).md
+      - Customise/(A1,iii) Set Email Notifications.md
       - Customise/(A1,iv) Manage Linked Account.md
       - Customise/(A1,v) Change Password.md
       - Customise/(A1,vi) Update Answers to Security Questions.md
@@ -63,18 +66,19 @@ collections:
       - Discover/Discover.md
       - Discover/About Self Study Resources (New).md
       - Discover/(A1) Access Self Study Resources (New).md
-      - Discover/(A2) Search for Self Study Resources (New).md
-      - Discover/(A3) Attempt Self Study Resources (New).md
+      - Discover/(A2) Search for Self Study Resources.md
+      - Discover/(A3) Attempt Self Study Resources.md
       - Discover/(B1) Access App Library.md
+      - Gamify/(A1) Navigate a Gamified Assignment (New).md
       - Gamify/.keep
       - Gamify/Gamify.md
       - Gamify/About Gamification.md
-      - Gamify/(A1) Attempt a Gamified Lesson.md
+      - Gamify/(A2) Attempt a Gamified Assignment.md
       - Gamify/(B1) Check Progress on Leaderboard.md
       - Notify/.keep
       - Notify/Notify.md
-      - Notify/About Notifications (New).md
-      - Notify/(A1) View Notifications (New).md
+      - Notify/About Notifications.md
+      - Notify/(A1) View Notifications.md
       - Organise/.keep
       - Organise/Organise.md
       - Organise/About Class Groups.md
@@ -92,11 +96,11 @@ collections:
       - Organise/(F1,ii) Copy to My Drive.md
       - Plan/.keep
       - Plan/Plan.md
-      - Plan/(A1) Access Planner (New).md
-      - Plan/(A2) Create a New Event (New).md
+      - Plan/(A1) Access Planner.md
+      - Plan/(A2) Create a New Event.md
       - Self Study/.keep
       - Self Study/Self Study.md
-      - Self Study/About Adaptive Learning System (ALS).md
+      - Self Study/About Adaptive Learning System.md
       - Self Study/(A1) Access Adaptive Learning System.md
       - Self Study/(B1,1) Annotate Text within Activities.md
       - Self Study/(B1,2) Add Notes to Images.md

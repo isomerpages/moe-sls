@@ -4,12 +4,13 @@ permalink: /teacher-user-guide/author/insert-tables/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="insert-tables">(A3,5) Insert Tables</h1>
 <h2 id="-insert-table-">Insert Table</h2>
 <hr>
 <ol>
-<li>When editing a Rich Text-enabled component, choose the <strong>Table</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Table.svg">.</li>
+<li>When editing a Rich Text-enabled component, click the <strong>Table</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Table.svg">.</li>
 <li>Select the number of columns and rows for the table by dragging the cursor across the grid.</li>
 <li>You may add or remove rows and columns using the floating toolbar when you click on the table.</li>
 </ol>
@@ -22,7 +23,7 @@ image: /images/FaviconLight.png
 </ol>
 <h2 id="-edit-table-background-colour-">Edit Table Background Colour</h2>
 <hr>
-<p>You can change the colour of the background or border of the entire table or selected cells, rows, or columns by choosing <strong>Table Properties</strong>, <strong>Cell Properties</strong>, <strong>Row Properties</strong> or <strong>Column Properties</strong> respectively.</p>
+<p>You can change the colour of the table background by accessing the&nbsp;<b>Advanced</b>&nbsp;tab in Table Properties.</p>
 <h2 id="-change-border-or-background-colours-">Change Border or Background Colours</h2>
 <hr>
 <ol>

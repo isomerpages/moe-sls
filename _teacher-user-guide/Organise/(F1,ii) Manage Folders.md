@@ -4,17 +4,17 @@ permalink: /teacher-user-guide/organise/manage-folders/
 description: ""
 third_nav_title: Organise
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>(F1,ii) Manage Folders</h1>
 
 <h2>Move Lessons to a Folder</h2>
 <hr>
 <p>You can move an existing Lesson from one folder to another.</p>
-
 <ol>
   <li>To move an existing Lesson into a folder, you can click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Move</strong>. You can also select the Lesson using the checkboxes on the left and then click <strong>Move</strong>. You may move two or more Lessons in one go.</li>
   <li>In the Move Lesson subpage, select the folder to move the Lesson to. You can also create a <strong>New Folder</strong> within My Lessons folder from this subpage.</li>
-<br><img style="width: 100%;" src="/images/2Teacher/O-MoveMultiple.png">
+<br><img alt="Manage Folders" style="width: 100%;" src="/images/2Teacher/O-MoveMultiple.png">
 <br><li>Click <strong>Move</strong>.</li>
 </ol>
 

@@ -1,8 +1,10 @@
 ---
 title: Explore SLS Functions
 permalink: /teacher-user-guide/index/
-description: ""
+description: Learn more about what the Singapore Student Learning Space (SLS)
+  can do with the overview of SLS functions below.
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Explore SLS Functions</h1>
 <p>Learn more about what the Singapore Student Learning Space (SLS) can do with the overview of SLS functions&nbsp;below.</p>

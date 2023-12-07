@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/administer/onboard-new-students/
 description: ""
 third_nav_title: Administer
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="onboard-new-students">(A1,i) Onboard New Students</h1>
 <p>Whenever new students enter the Singapore school system (e.g. Primary 1 intake, midstream entry), a new student account will be created based on information from School Cockpit. This page describes the steps to take for a teacher to assist new students to access SLS.</p>
@@ -15,7 +16,7 @@ image: /images/FaviconLight.png
 <li>Select a class from the dropdown list.</li>
 <li>Click the <strong>Account Status</strong> column header twice to select descending order, so that the student accounts that are not activated are shown at the top.</li>
 <li><p>Check the boxes for students whose accounts are not activated. Take note of their user IDs, then click <strong>Reset Password</strong>.</p>
-<p><img style="width: 100%;" src="/images/2Teacher/A-ActivateStudentAccount.png"></p>
+<p><img alt="Onboard New Students" style="width: 100%;" src="/images/2Teacher/A-ActivateStudentAccount.png"></p>
 </li>
 <li><p>On the confirmation prompt, verify that the correct number of students has been selected.</p>
 </li>

@@ -11,7 +11,7 @@ collections:
       - Administer/(B3) Initiate Student Account Activation.md
       - Administer/(B4) Monitor Student Activation.md
       - Administer/(C1,i) Reset Passwords.md
-      - Administer/(C1,ii) Unlock Account.md
+      - Administer/(C1,ii) Unlock SLS Accounts.md
       - Administer/About Manage Users.md
       - Administer/(D1,i) Export Full User List.md
       - Administer/(D1,ii) Verification Exercise.md
@@ -20,12 +20,12 @@ collections:
       - Administer/(G1) Generate Reports.md
       - Notify/.keep
       - Notify/Notify.md
-      - Notify/(A1) Manage School Announcements (Enhanced).md
+      - Notify/(A1) Manage School Announcements.md
       - Publish/.keep
       - Publish/Publish.md
-      - Publish/(A1) Create MOE Library Resources (Enhanced).md
+      - Publish/(A1) Create MOE Library Resources.md
       - Publish/(A2) Manage Lessons.md
       - Publish/(A3) Manage Media.md
-      - Publish/(B1,i) Generate CCPM Reports (New).md
+      - Publish/(B1,i) Generate CCPM Reports.md
       - Publish/(B1,ii) Manage Owner Groups.md
       - Publish/(B1,iii) Manage Content Maps.md

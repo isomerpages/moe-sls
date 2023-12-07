@@ -4,6 +4,7 @@ permalink: /admin-user-guide/administer/activate-teacher-accounts/
 description: ""
 third_nav_title: Administer
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="activate-teacher-accounts">(A1) Activate Teacher Accounts</h1>
 <h2 id="-setting-up-teacher-accounts-in-mims-">Setting up Teacher Accounts in MIMS</h2>
@@ -41,7 +42,6 @@ image: /images/FaviconLight.png
 <li><strong>Role</strong> - Teacher</li>
 <li><strong>SLS Account Status</strong> - Not Activated, Not Activated (Locked)</li>
 </ul>
-	<img src="/images/5Admin/A-Filter.png">
-</li>
-<li>Click <strong>Apply</strong> to proceed.</li>
-</ol>
+	<p><img alt="Activate Teacher Account" style="width: 100%;" src="/images/5Admin/A-Filter.png"></p>
+	</li></ol>
+	

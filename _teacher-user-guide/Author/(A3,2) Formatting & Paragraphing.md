@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/author/formatting-and-paragraphing/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="formatting-paragraphing">(A3,2) Formatting &amp; Paragraphing</h1>
 <h2 id="formatting-text">Formatting Text</h2>
@@ -25,13 +26,13 @@ image: /images/FaviconLight.png
 </li>
 <li>You are able to <strong>Undo</strong> and <strong>Redo</strong> your work by clicking the respective <img style="width:1.5rem; display: inline;" src="/images/Icons/Undo.svg"> and <img style="width:1.5rem; display: inline;" src="/images/Icons/Redo.svg"> icons in the Rich Text Editor.</li>
 </ol>
-<h2 id="paragraphing-text">Paragraphing Text</h2>
+<h2 id="changing-text-alignment-and-style">Changing Text Alignment and Style</h2>
 <hr>
 <ol>
 <li>In the Rich Text Editor, you are able to align your text left/center/right/justify, change the font type and paragraphing style.</li>
 <li>To adjust the text alignment, click on the <strong>Alignment</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/TextAlign.svg">and select an alignment type.</li>
-<li>Click the <strong>dropdown arrow</strong> beside “English” to change the font type.</li>
-<li><p>To change the paragraphing style, click the <strong>dropdown arrow</strong> beside “Paragraph”.</p>
-	<p><u>Note</u>: To ‘adjust’ the font size, you can select a different paragraphing style (i.e. heading style).</p>
+<li>Click the <strong>dropdown arrow</strong> beside English to change the font type.</li>
+<li><p>To change the paragraphing style, click the <strong>dropdown arrow</strong> beside Paragraph.</p>
+	<p><u>Note</u>: To adjust the font size, you can select a different paragraphing style (i.e. heading style).</p>
 </li>
 </ol>

@@ -15,10 +15,13 @@ collections:
       - Assess/(A3,1) Add Teacher Comments.md
       - Assess/(A3,2) Annotate (Underline) Students' Responses.md
       - Assess/(A3,3) Mark Google Attached Files.md
+      - Assess/(A4) Print to Scan (New).md
       - Assess/(B1) Mark Teacher Marked Quizzes.md
       - Assess/(B2,1) Release Teacher Marked Quizzes.md
       - Assess/(B2,2) Unsubmit Teacher Marked Quizzes.md
-      - Assess/(C1) Add Feedback Assistant Mathematics.md
+      - Assess/(C1,i) Add Feedback Assistant Mathematics.md
+      - Assess/(C1,ii) Add Language Feedback Assistant for English.md
+      - Assess/(C1,iii) Add Short Answer Feedback Assistant.md
       - Assess/(D1,i) View Assignments.md
       - Assess/(D1,ii) Edit Quizzes (New).md
       - Assess/(D1,iii) Set Assignments as Assessments.md
@@ -44,24 +47,26 @@ collections:
       - Assign/(B1,x) Highlight and Annotate in Teacher's Copy of Assignment.md
       - Author/.keep
       - Author/Author.md
-      - Author/Create New Lessons (New).md
+      - Author/Create New Lessons.md
       - Author/(A1,1) Add New using Templates.md
-      - Author/(A1,2) Add New Activities & Sections (Enhanced).md
+      - Author/(A1,2) Add New Activities & Sections.md
       - Author/(A1,3) Add Existing From Library & Starred Resources.md
       - Author/(A1,4) Add Introduction.md
       - Author/(A2,1) Add Components (Enhanced).md
-      - Author/(A2,2) Upload Question and Test Interoperability (QTI) Files.md
-      - Author/(A2,3) Add Multiple Choice Questions.md
-      - Author/(A2,4) Add Fill in the Blanks Questions.md
-      - Author/(A2,5) Add Click and Drop Questions.md
-      - Author/(A2,6) Add Error Editing Questions.md
-      - Author/(A2,7) Add Free Response Questions.md
-      - Author/(A2,8) Add Audio Response Questions.md
-      - Author/(A2,9) Add Multi Part Questions.md
-      - Author/(A2,10) Add Display (New).md
-      - Author/(A2,11) Add Rubrics to Audio and Free Response Questions.md
-      - Author/(A2,12) Embed YouTube Videos.md
-      - Author/(A2,13) Insert Media Objects.md
+      - Author/(A2,2) Add Split Page Media (New).md
+      - Author/(A2,3) Upload Question and Test Interoperability (QTI) Files.md
+      - Author/(A2,4) Add Multiple Choice Questions.md
+      - Author/(A2,5) Add Fill in the Blanks Questions (Enhanced).md
+      - Author/(A2,6) Add Click and Drop Questions (Enhanced).md
+      - Author/(A2,7) Add Error Editing Questions.md
+      - Author/(A2,8) Add Free Response Questions (Enhanced).md
+      - Author/(A2,9) Add Audio Response Questions.md
+      - Author/(A2,10) Add Multi Part Questions.md
+      - Author/(A2,11) Add From Existing Questions.md
+      - Author/(A2,12) Add Display.md
+      - Author/(A2,13) Add Rubrics to Audio and Free Response Questions.md
+      - Author/(A2,14) Embed YouTube Videos.md
+      - Author/(A2,15) Insert Media Objects.md
       - Author/(A3,1) About Rich Text Editor (Enhanced).md
       - Author/(A3,2) Formatting & Paragraphing.md
       - Author/(A3,3) Insert Chinese or Tamil Text.md
@@ -70,27 +75,25 @@ collections:
       - Author/(A3,6) Insert Emoticons.md
       - Author/(A3,7) Insert Drawings (Enhanced).md
       - Author/(A3,8) Insert External Links.md
-      - Author/(A3,9) Insert Links to Sections (New).md
-      - Author/(A3,10) Insert Tooltips (Enhanced).md
+      - Author/(A3,9) Insert Links to Sections.md
+      - Author/(A3,10) Insert Tooltips.md
       - Author/(A3,11) HTML5 Content Development.md
       - Author/(A3,12) Text to Speech (TTS).md
-      - Author/(A3,13) Speech Evaluation (Enhanced).md
+      - Author/(A3,13) Speech Evaluation.md
       - Author/(A3,14) Localisation and EDictionary.md
       - Author/About Templates.md
       - Author/(B1,i) Manage Lessons.md
       - Author/(B1,ii) Edit Lessons (Enhanced).md
       - Author/(B1,iii) Edit Activities & Sections (Enhanced).md
-      - Author/(B1,iv) View and Edit Lesson Plans.md
+      - Author/(B1,iv) View and Edit Lesson Plans (Enhanced).md
       - Author/(B1,v) Make a Copy of Lessons or Assignments.md
-      - Author/(B1,vi) Edit Detail Cards (New).md
+      - Author/(B1,vi) Edit Detail cards.md
       - Author/(B1,vii) Add Question Tags.md
       - Author/(B1,viii) Add Lesson Tags.md
       - Author/(B1,ix) Edit Media Objects.md
       - Author/(B1,x) Move Lessons to Trash.md
       - Author/(B1,xi) File Size Limits.md
       - Author/(C1,i) Resources.md
-      - Author/(C1,ii) Copyright FAQs.md
-      - Author/(C1,iii) Email Template for Copyright Clearance.md
       - Collaborate/.keep
       - Collaborate/Collaborate.md
       - Collaborate/About the Forum.md
@@ -111,10 +114,10 @@ collections:
       - Customise/(A1,i) Customise an Avatar.md
       - Customise/(A1,ii) Change Display Name.md
       - Customise/(A1,iii) Set an Alternate Email Address.md
-      - Customise/(A1,iv) Set Email Notifications (New).md
+      - Customise/(A1,iv) Set Email Notifications.md
       - Customise/(A1,v) Manage Linked Account.md
       - Customise/(A1,vi) Change SLS Password.md
-      - Customise/(A1,vii) Switch to Student Account.md
+      - Customise/(A1,vii) Switch to Student Account (New).md
       - Customise/(B1) Manage My Templates.md
       - Discover/.keep
       - Discover/Discover.md
@@ -122,7 +125,7 @@ collections:
       - Discover/(A1,1) Add Existing Activities from Resources.md
       - Discover/(A1,2) Add Existing Components from Resources.md
       - Discover/(A1,3) Add Existing Media Objects from Resources.md
-      - Discover/(A2) Search for Resources (New).md
+      - Discover/(A2) Search for Resources.md
       - Discover/(A3) View Lesson Details.md
       - Discover/(B1,1) View External Resources (New).md
       - Discover/(B1,2) Previously Whitelisted & Non Whitelisted Websites.md
@@ -134,6 +137,7 @@ collections:
       - Discover/(E1,i) Make a Copy of a Lesson.md
       - Discover/(E1,ii) View Print Friendly Worksheet.md
       - Discover/(E1,iii) Leave Reviews (New).md
+      - Discover/(E1,iv) About Adaptive Learning System (ALS).md
       - Differentiate/.keep
       - Differentiate/Differentiate.md
       - Differentiate/(A1) Create Subgroups.md
@@ -146,27 +150,29 @@ collections:
       - Enact/(A1) Change Access to Activities.md
       - Gamify/.keep
       - Gamify/Gamify.md
-      - Gamify/About Gamification and Leaderboard.md
-      - Gamify/(A1) Manage Gamification Settings.md
-      - Gamify/(A2) Game Stories and Achievements.md
-      - Gamify/(A3) Create Game Teams.md
-      - Gamify/(B1) Display Leaderboard for Students (Improved).md
-      - Gamify/(C1) Award XP, Game Story and Achievements Manually.md
+      - Gamify/About Gamification and Leaderboard (New).md
+      - Gamify/(A1) Manage Gamification Settings (New).md
+      - Gamify/(A2) Game Stories and Collectibles (New).md
+      - Gamify/(A3) Add Conditions to Game Story or Collectibles (New).md
+      - Gamify/(A4) Create Game Teams.md
+      - Gamify/(B1) Display Leaderboard for Students.md
+      - Gamify/(B2) Quiz Leaderboard and Ranking (New).md
+      - Gamify/(C1) Award XP, Game Story and Achievements Manually (Enhanced).md
       - Notify/.keep
       - Notify/Notify.md
-      - Notify/(A1) View and Create Announcements.md
+      - Notify/(A1) View and Create Announcements (Enhanced).md
       - Notify/(A2) Manage Announcements.md
-      - Notify/About Notifications (New).md
-      - Notify/(B1,i) View Notifications (New).md
+      - Notify/About Notifications.md
+      - Notify/(B1,i) View Notifications.md
       - Organise/.keep
       - Organise/Organise.md
       - Organise/About Class Groups (New).md
-      - Organise/(A1) Create Class Groups (New).md
+      - Organise/(A1) Create Class Groups.md
       - Organise/(A2) Add Teachers as Students to a Class Group.md
       - Organise/(B1) Manage Class Group Resources.md
       - Organise/(C1,i) Install and Launch Apps.md
       - Organise/(C1,ii) App FAQs.md
-      - Organise/(D1,i) Pin Class Groups (Enhanced).md
+      - Organise/(D1,i) Pin Class Groups.md
       - Organise/(D1,ii) Archive Class Groups.md
       - Organise/(D1,iii) View Past Class Groups.md
       - Organise/(E1) Access My Drive.md
@@ -183,15 +189,16 @@ collections:
       - Personalise/(A1) Set Optional Activities & Quizzes.md
       - Plan/.keep
       - Plan/Plan.md
-      - Plan/(A1) Access Planner (New).md
-      - Plan/(A2) Create Class Events (New).md
+      - Plan/(A1) Access Planner.md
+      - Plan/(A2) Create Class Events.md
+      - Plan/(A3) Attach Assignments and Resources to Events (New).md
       - Publish/.keep
       - Publish/Publish.md
       - Publish/(A1) Submit Lessons.md
       - Publish/(A2) Copyright Guidelines for Submission.md
       - Track Progress/.keep
       - Track Progress/Track Progress.md
-      - Track Progress/(A1,1) Access Learning Progress.md
+      - Track Progress/(A1,1) Access Learning Progress (New).md
       - Track Progress/(A1,2) View Excluded Questions.md
       - Track Progress/(A2,1) View by Topic.md
       - Track Progress/(A2,2) View by Month.md

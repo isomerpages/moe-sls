@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/discover/view-print-friendly-worksheet/
 description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
+variant: tiptap
 ---
 <h1>(E1,ii) View Print-Friendly Worksheet</h1>
 <hr>

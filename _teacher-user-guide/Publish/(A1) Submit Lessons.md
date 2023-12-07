@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/publish/submit-lessons/
 description: ""
 third_nav_title: Publish
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="-1-submit-lessons">(A1) Submit Lessons</h1>
 <p>If you have a Lesson that you would like to share with teachers on SLS, you may submit it to the Community Gallery. </p>
@@ -11,7 +12,7 @@ image: /images/FaviconLight.png
 <hr>
 <ul>
 <li>Update the Lesson Description to give other users an overview of what the Lesson is about.</li>
-<li>Tag your Lesson with the appropriate Lesson Tag. You may refer to <a target="_blank" href="/teacher-user-guide/author/add-lesson-tags/">Tag a Lesson</a> for more information.</li>
+<li>Tag your Lesson with the appropriate Lesson Tag. You may refer to <a target="_blank" href="/teacher-user-guide/author/add-lesson-tags/">Add Lesson Tags</a> for more information.</li>
 <li>Ensure collaborative features (eg. Padlet, Mentimeter, Nearpod, etc.) and documents (e.g. Google Docs, Google Slides, etc.) have read-only rights because embedded content can be viewed by all.</li>
 <li>Ensure your Lesson meets <a target="_blank" href="/teacher-user-guide/publish/copyright-guidelines-for-submission/">Copyright guidelines</a>.</li>
 </ul>
@@ -20,12 +21,12 @@ image: /images/FaviconLight.png
 <hr>
 <ol>
 <li>Open the Lesson that you wish to submit to the Community Gallery.</li>
-<li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the top right of the header, and click <strong>Check for Submission (Community Gallery)</strong>.</li>
-<li><p>You will be prompted to check that the content of the Lesson is in line with the <a target="_blank" href="/teacher-user-guide/publish/copyright-guidelines-for-submission/">Community Gallery guidelines</a>. </p>
-<p><img style="width: 100%;" src="/images/2Teacher/P-CG.png"></p>
+<li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the top right of the header, and select <strong>Check for Submission (Community Gallery)</strong>.</li>
+<li><p>You will be prompted to check that the content of the Lesson is in line with the <a target="_blank" href="/teacher-user-guide/publish/copyright-guidelines-for-submission/">Copyright guidelines</a>. </p>
+<p><img alt="Submit Lessons" style="width: 100%;" src="/images/2Teacher/P-CG.png"></p>
 </li>
-<li><p>If the <strong>Lesson is Ready for Submission</strong>, check the box to acknowledge that the content complies with SLS Terms of Use and the Copyright Guidelines. </p>
-	<p><u>Note</u>: To make any edits before submission, close the pop-up and click the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">.</p>
+<li><p>If the <strong>Lesson is ready for submission</strong>, check the box to acknowledge that the content complies with SLS Terms of Use and the Copyright Guidelines. </p>
+	<p><u>Note</u>: To make any edits before submission, close the Community Gallery Submission subpage and click the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> to enter the Lesson Editor page.</p>
 </li>
 <li><p>On the same subpage, you may wish to rename the Lesson Title, and edit the Permission Settings by selecting the checkboxes beside:</p>
 <ol style="list-style-type: lower-alpha;">
@@ -41,7 +42,7 @@ image: /images/FaviconLight.png
 <hr>
 <ol>
 <li><p>You will receive a notification if your lesson has been returned.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/P-CG1.png"></p>
+<p><img alt="Submit Lessons" style="width: 50%;" src="/images/2Teacher/P-CG1.png"></p>
 </li>
 <li><p>Click the notification to open the copy of the Lesson, which will show a banner asking you to please check feedback.</p>
 </li>

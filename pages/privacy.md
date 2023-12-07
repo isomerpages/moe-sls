@@ -1,6 +1,7 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+variant: markdown
 ---
 <h1>Privacy Statement</h1>
 <hr>
@@ -29,4 +30,4 @@ permalink: /privacy/
     </li>
     <li>Please contact us at <a href="mailto:SLS_OPS@moe.gov.sg" data-fr-linked="true">SLS_OPS@moe.gov.sg</a> for any enquiries or feedback on our data protection policies and procedures, and if you need more information on or access to data which you have provided to us in the past.</li>
 </ol>
-<p>Last updated: 12 April 2023.</p>
+<p>Last updated: 12 April 2023</p>

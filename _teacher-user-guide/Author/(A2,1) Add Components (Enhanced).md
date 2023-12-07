@@ -4,14 +4,16 @@ permalink: /teacher-user-guide/author/add-components/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="add-components-enhanced-">(A2,1) Add Components (Enhanced)</h1>
 <h2 id="add-a-text-media-component">Add a Text/Media Component</h2>
 <hr>
 <ol>
 <li>Hover over Text/Media on the Component Bar to expand the list. </li>
-<li>Click <strong>Text</strong> to open Rich Text Editor. Click <a target="_blank" href="/teacher-user-guide/author/about-rich-text-editor/">here</a> to learn more about Rich Text Editor.</li>
-<li><p>You can also directly attach File From Device, Add/Embed Google File, Add YouTube Video, Add App or Website from the dropdown menu. </p>
+	<li>Click <a target="_blank" href="/teacher-user-guide/author/about-rich-text-editor/">Split-page Media</a> to split the uploaded PowerPoint, video or audio file across pages. (NEW)</li>
+<li>Click <strong>Text</strong> to open Click <a target="_blank" href="/teacher-user-guide/author/about-rich-text-editor/">Rich Text Editor</a>.</li>
+<li><p>You can also directly attach File From Device, embed Google File, YouTube Video, App or Website from the dropdown menu. </p>
 <p> <img style="width: 50%;" src="/images/2Teacher/AU-AddComponent1.png"></p>
 </li>
 </ol>
@@ -19,7 +21,7 @@ image: /images/FaviconLight.png
 <hr>
 <ol>
 <li>Hover over Question on the Component Bar to expand the list. </li>
-<li>Click <strong>Add From Existing</strong> to add questions from your Library or Starred Resources. You can do a global search for Questions found in your Library and filter the results by Subject and Level. Click <strong>Filter</strong> for a more refined search or <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">here</a> to find out more about Search for Resources.</li>
+<li>Click <strong>Add From Existing</strong> to add questions from your <a target="_blank" href="/teacher-user-guide/author/add-existing-from-library-and-starred-resources/">Library, Starred Resources</a> or <a target="_blank" href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/">QTI file</a>. You can do a global search for Questions found in your Library and filter the results by Subject and Level. Click <strong>Filter</strong> for a more refined search or <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">here</a> to find out more about Search for Resources.</li>
 <li><p>You can add the following types of Questions:</p>
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/author/add-multiple-choice-questions/">Multiple-Choice</a></li>
@@ -52,7 +54,7 @@ image: /images/FaviconLight.png
 <ol>
 <li>Hover over Display on the Component Bar to expand the list.</li>
 <li>You can add the following types of Displays:<ul>
-<li>Page-Break (NEW)</li>
+<li>Page-Break</li>
 <li>2-Columns</li>
 <li>3-Columns</li>
 <li>Accordion</li>
@@ -64,3 +66,10 @@ image: /images/FaviconLight.png
 <u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
 <p>Three of the Last Used Components will be featured at the back of the Component Bar for easy access.</p>
 <img style="width: 50%;" src="/images/2Teacher/AU-AddComponent5.png">
+<p></p>
+	<h2 id="-edit-components-">Edit Components</h2>
+<hr><ol>
+<p></p><li>You can add a new Component by clicking the <b>+</b> button in between Components.</li>
+	<li>You can delete a Component by clicking the <b>Trash</b> icon.</li>
+<li>If there is more than 1 component, you can re-arrange the Component by clicking the up and down arrows.</li>
+	<p><img style="width: 50%;" src="/images/2Teacher/AU-AddComponent6.png"></p></ol>

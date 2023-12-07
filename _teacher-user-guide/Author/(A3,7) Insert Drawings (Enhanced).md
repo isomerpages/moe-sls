@@ -4,40 +4,62 @@ permalink: /teacher-user-guide/author/insert-drawings/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="insert-drawings-enhanced-">(A3,7) Insert Drawings (Enhanced)</h1>
-<p>When editing a Rich Text-enabled component, choose the <strong>Drawing</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Drawing.svg">. You can choose to start with a <strong>Blank Drawing</strong> or <strong>Upload Background Image</strong>.</p>
-<h2 id="-starting-with-blank-drawing-">Starting with Blank Drawing</h2>
+<p>In the Rich Text Editor, click the <strong>Drawing</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Drawing.svg">. </p>
+<ul>
+<li>By default, after clicking the Drawing icon, you will start with a blank canvas.</li>
+	<li>You can click on the <b>Image button</b> to upload an image as background from your computer.
+</li><li>You can resize the images you have uploaded.
+</li><li>You can select on drawings to Move, Delete or send them Forward/Backward.
+	</li><li>You can <b>Undo/Redo</b> steps and <b>Zoom in/out</b> of the drawings.
+	</li><li>When you click <b>Clear All</b>, all drawings and images will be deleted.
+</li><li>You can resize/rotate the final drawings/images before inserting them into the textbox.
+	</li><li>You can <b>Star</b> the final drawing as a Resource or <b>Download</b> it onto your computer.
+		<p><img style="width: 50%;" src="/images/1Student/AU_InsertDrawing1.png"></p>
+</li></ul>
+	
+<h2 id="-drawing-tools-">Drawing tools</h2>
 <hr>
-<ol>
-<li>If you choose to draw on a blank drawing, you will see a white canvas.<ul>
-<li>You may choose from 2 pen tip sizes by clicking the pencil image for a thin line or the marker image for a thick line.</li>
-<li>You may choose from 8 colours by clicking the colour palette on the left.</li>
-<li>To insert text, click the text box button and begin typing.</li>
+<ul>
+<li><b>Pen</b>: Choose from 2 pen tip sizes by clicking on the pencil image for a thin line or the marker image for a thick line.</li>
+<li><b>Colours</b>: Choose from 8 colours by clicking on the colour palette on the left.</li>
+	<ul> <li>To draw with a mouse, click and drag the cursor using your mouse.</li>
+		<li>To draw with your finger or stylus on a tablet, apply pressure on the screen while moving your finger or stylus.</li></ul>
+<li><b>Text</b>: To insert text, click on the text box button and begin typing.</li>
+	<li><b>Image</b>: To insert a background image, click on the image button and upload an image from your computer. <b>(NEW)</b></li>
+	<ul> 
+		<li>Draw/write on the background image using the pencil/marker tool or by inserting a text box.</li>
+		<li>Insert a text over the background image using the text box.</li></ul>
+	<li><b>Delete</b>: To erase any part of your drawing or text, click the <b>Select</b> icon, select the part and click&nbsp;Delete.</li>
+	<li><b>Move</b>: To move your drawing or text, click the <b>Select</b> icon, select the object or text and move it.</li>
+	<li><b>Undo/Redo</b>: Undo/redo the most recent stroke by clicking&nbsp;Undo/Redo. <b>(NEW)</b></li>
+	<li><b>Clear All</b>: Remove all drawings/images by clicking&nbsp;<b>Clear All</b>.</li>
+		<li><b>Zoom</b>: Zoom in/out of the image/drawings by clicking the respective icons. <b>(NEW)</b></li>
 </ul>
-</li>
-<li>To draw with:<ul>
-<li>a mouse, click on the mouse and drag the cursor along.</li>
-<li>your finger or stylus on a tablet, apply pressure on the screen while moving your finger or stylus.</li>
-</ul>
-</li>
-<li>To undo:<ul>
-<li>the most recent stroke, click <strong>Undo</strong>.</li>
-<li>To erase or move any part of your drawing or text, click the <strong>Cursor</strong> icon and select the lines that you have drawn and click <strong>Delete</strong>.</li>
-<li>the entire drawing, click <strong>Clear All</strong> located at the top.</li>
-</ul>
-</li>
-<li><p>Click <strong>Add</strong> if you are done with the drawing. Your drawing will be inserted into the textbox.</p>
-<img style="width: 100%;" src="/images/2Teacher/AU-AddDrawing1.png"><p></p>
-</li>
-</ol>
-<h2 id="-starting-with-background-image-">Starting with Background Image</h2>
+
+<h2 id="-resizing-rotating-the-final-drawing-">Resizing/Rotating the final drawing (NEW)</h2>
 <hr>
-<ol>
-<li>If you choose to add a background image, you can either drag the file into the box or browse to choose the file from your computer.</li>
-<li>When the background image is uploaded, it will take up the full width of the drawing canvas. You will not be able to resize the image.</li>
-<li>You may draw over the background image using the pencil or marker.</li>
-<li>You may insert a text over the background image using the text box.</li>
-<li>When using the <strong>Clear All</strong> or <strong>Delete</strong>, only the drawings/text will be removed. The original background image will not be affected.</li>
-<li>Click <strong>Add</strong> if you are done with the drawing. Your drawing will be inserted into the textbox.</li>
-</ol>
+<ul>
+	<p></p><li>Click&nbsp;<b>Next</b>&nbsp;after you are done drawing/editing.</li>
+		<li>Rotate or crop the image to your preferred dimensions before clicking <b>Done</b>.</li>
+	</ul>
+<p><img style="width: 50%;" src="/images/1Student/AU_InsertDrawing2.png"></p>
+
+<h2 id="-edit-uploaded-drawing-">Edit uploaded drawing</h2>
+<hr>
+<ul>
+<li>To edit the drawing, click the&nbsp;<b>Edit Image</b>&nbsp;icon&nbsp;<img style="width:1.5rem; display: inline;" src="/images/Icons/EditImage.svg"> to open up the drawing tool again.</li>
+	<li>To delete the entire drawing, click the&nbsp;<b>Delete</b>&nbsp;icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">.
+	</li><li>To download the entire drawing, click the <b>Download</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Download.svg">.
+</li>
+	<li>Click the&nbsp;<b>Settings</b>&nbsp;icon&nbsp;<img style="width:1.5rem; display: inline;" src="/images/Icons/Settings2.svg"> to:</li>
+	<ul><li>Edit Title
+</li><li>Edit Description
+		</li><li>Star it as a Resource
+</li><li>Set Permission for Students to download
+		</li><li>Edit Keyword Tags</li>
+</ul>
+	<li>Once done, click the&nbsp;<b>Save</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg">.</li>
+	<p><img style="width: 50%;" src="/images/1Student/AU_InsertDrawing3.png"></p></ul>

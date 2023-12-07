@@ -1,8 +1,10 @@
 ---
 title: Students
 permalink: /students/
-description: ""
+description: Take charge of your learning! Explore new features as well as our
+  growing library of resources.
 image: /images/FaviconLight.png
+variant: tiptap
 ---
 <img alt="Students" src="/images/1Student/Students%20Hero.png">
 <p>Take charge of your learning! Explore new features as well as our growing library of resources.</p>

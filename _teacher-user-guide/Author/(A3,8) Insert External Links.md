@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/author/insert-external-links/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="insert-external-links">(A3,8) Insert External Links</h1>
 <h2 id="add-external-link">Add External Link</h2>
@@ -23,6 +24,6 @@ image: /images/FaviconLight.png
 <p><img style="width: 50%;" src="/images/2Teacher/AU-AddExtLink1.png"></p>
 </li>
 </ol>
-<h2 id="edit-remove-link-enhanced-">Edit/Remove Link (Enhanced)</h2>
+<h2 id="edit-remove-link-">Edit/Remove Link</h2>
 <hr>
 <p>You can edit or remove a link by clicking on the linked text in blue and choosing either the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> or the <strong>Remove</strong> <strong>Hyperlink</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Unlink.svg">.</p>

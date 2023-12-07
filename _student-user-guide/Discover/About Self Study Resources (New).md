@@ -1,19 +1,20 @@
 ---
-title: About Self Study Resources (New)
+title: About Self Study Resources
 permalink: /student-user-guide/discover/about-self-study-resources/
 description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1>About Self-Study Resources (New)</h1>
+<h1>About Self-Study Resources</h1>
 <hr>
-<p>Self-Study List contains resources for students to access and review at their own pace. There are three ways to access Self-Study List within SLS:</p>
+<p>Self-Study List contains a list of resources that you are attempting or have attempted for Self-Study. You can access and review these resources at their own pace. There are three ways to access Self-Study resources within SLS:</p>
 <ul>
 <li>MOE Library</li>
 <li>Class Group Resources</li>
 <li>My Drive</li>
 </ul>
-<p>Self-Study List is accessible from the homepage. Open the left menu from the header and click <strong>Self-Study List</strong>.</p>
+<p>When a Lesson is attempted from one of the above three locations, it will be automatically added to the Self-Study List.</p>
 <h3>About MOE Library</h3>
 <hr>
 <p>The MOE Library contains resources created and curated by the Ministry of Education (MOE) that complement your learning in school. You have access to Lessons for all levels and subjects.</p>
