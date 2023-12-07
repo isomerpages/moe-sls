@@ -12,7 +12,7 @@ variant: markdown
 <ol>
   <li>Click the <strong>Lesson card</strong> to open the Lesson in a new tab.</li>
   <li>On the Lesson View page, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and click <strong>Make a Copy</strong>.</li>
-<img alt="CopytoMyDrive" src="/images/2Teacher/D_CopytoMyDrive.png">  
+<img alt="Make a Copy of a Lesson" src="/images/2Teacher/D-CopytoMyDrive.png">  
   <li>You will be prompted to:</li>
   <ul>
     <li>Rename the Lesson</li>
