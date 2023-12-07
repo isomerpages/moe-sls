@@ -11,15 +11,15 @@ variant: markdown
 <hr>
 <ol>
 <li>In the Lesson Editor page, hover over Question in the Component Bar.</li>
-<img style="width: 50%;" src="/images/2Teacher/AU-AddFITB.png">
+<img style="width: 50%;" src="/images/2Teacher/AU_AddFITB.png">
 <li>Select <strong>Fill-in-the-Blanks</strong>. Below are the types of Fill-in-the-Blanks questions you can choose from:</li>
 	<ul><li><b>Text Input</b>: Students will type their answer in the blank.</li>
-		<p><img style="width: 50%;" src="/images/2Teacher/AU-AddFITB1.png"></p>
+		<p><img style="width: 50%;" src="/images/2Teacher/AU_AddFITB1.png"></p>
 		<li><b>Helping Words (NEW)</b>: Students will choose the correct answer for the blank from a drop-down list.</li>
 			<p><u>Note</u>: select the checkbox “Words may be used more than once” if there are blanks with the same answer. If selected, duplicate options (if any) will only be shown once.</p>
-			<p><img style="width: 50%;" src="/images/2Teacher/AU-AddFITB2.png"></p>
+			<p><img style="width: 50%;" src="/images/2Teacher/AU_AddFITB2.png"></p>
 			<li><b>Multiple Options (NEW)</b>: Students will choose the correct answer for the blank from a drop-down list.</li>
-			<p><img style="width: 50%;" src="/images/2Teacher/AU-AddFITB3.png"></p>
+			<p><img style="width: 50%;" src="/images/2Teacher/AU_AddFITB3.png"></p>
 </ul>
 <li>In the Question Body field, enter the question.</li>
 <li>Click <strong>Add Blank</strong> to add a new blank. The blank will be added where you place your cursor.</li>
