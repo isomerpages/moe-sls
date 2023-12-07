@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/other-useful-information/index/
 description: ""
 third_nav_title: Other Useful Information
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Other Useful Information</h1>
 <h3><a id="1other-useful-information" target="_blank" href="/teacher-user-guide/other-useful-information/index/">Other Useful Information</a></h3>
@@ -18,6 +19,5 @@ image: /images/FaviconLight.png
 <details><summary><h4>Are there any other useful SLS tips?</h4></summary>
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/other-useful-information/bookmarking-tips/">Bookmarking Tips</a></li>
-<li><a target="_blank" href="/teacher-user-guide/other-useful-information/tech-tips-for-teachers/">Tech Tips for Teachers</a></li>
 </ul>
 </details>
