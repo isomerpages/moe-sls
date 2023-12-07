@@ -13,7 +13,7 @@ variant: markdown
 <ol>
 <li>On the Create/Edit Lesson subpage, you will see available templates under the Create New tab. </li>
 <li>Click <strong>View All</strong> to see all available templates.</li>
-<p><img style="width: 100%;" src="/images/2Teacher/AU-AddNewTemplate1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU_AddNewTemplate1.png"></p>
 
 	<li><p>Click&nbsp;the <b>View Details</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> on the Lesson card to view the following on the Lesson Details subpage:</p>
 <ul>
