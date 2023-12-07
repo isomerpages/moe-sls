@@ -17,11 +17,11 @@ variant: markdown
 <li>If the link has expired, you can request another by repeating the steps above.</li>
 </ul>
 </li>
-<li>On the <strong>Reset Password</strong> page, enter a new password.<img target="_blank" alt="Reset SLS Password (Teacher)”>
+<li>On the <strong>Reset Password</strong> page, enter a new password.<img alt="Reset SLS Password (Teacher)" style="width: 100%;" src="/images/4Troubleshooting/LT_ResetPassword.png">
 <ul><li>You will need to enter the new password twice to confirm that you have entered it correctly.</li></ul>
 </li><li>Click <strong>Submit</strong>.</li>
 <li>If your password reset is successful, you will be brought to the login page.</li>
-<li>Click <a href=" style="width: 100%;" src="/images/4Troubleshooting/LT_ResetPassword.png">here if you did not receive your password reset email</li>
+<li>Click <a target="_blank" href="/login-troubleshooting/authentication/password-reset-email/">here</a> if you did not receive your password reset email</li>
 </ol>
 <h2 id="-unlock-account-">Unlock Account</h2>
 <hr>
