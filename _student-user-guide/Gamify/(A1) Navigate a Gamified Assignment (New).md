@@ -13,7 +13,7 @@ third_nav_title: Gamify
 	<li>From the homepage, click the&nbsp;<strong>Assignments</strong>&nbsp;tab, followed by a gamified Assignment card. Alternatively, you can&nbsp;access&nbsp;a gamified assignment from the Assignments page&nbsp;or Class Group page under the Assignments tab.
 	</li>
 <li>In the gamified Assignment, you will be able to view your cumulative Experience Points (XP) as a progress bar and as a score, and current level. 
-	<p> <img style="width: 100%;" src="/images/1Student/G-AssignmentGame.png">
+	<p> <img alt="Navigate a Gamified Assignment" style="width: 100%;" src="/images/1Student/G_AssignmentGame.png">
 	</p></li>
 	<li>To view the game description and settings, click the&nbsp;<strong>Gamification</strong>&nbsp;icon <img style="width:1.5em; display: inline;" src="/images/Icons/Game.svg"> on the header.</li>
 	</ol>
@@ -25,17 +25,17 @@ third_nav_title: Gamify
 <li>You can also view your Avatar, XP, current level and Achievement on your student card.
 	</li>
 <li>To edit your Game Avatar, click&nbsp;Edit Game Avatar.
-	<p> <img style="width: 100%;" src="/images/1Student/G-EditGameAvatar.png">
+	<p> <img alt="Navigate a Gamified Assignment" style="width: 100%;" src="/images/1Student/G_EditGameAvatar.png">
 	</p><ul>
 	<u>Note</u>:
 		<li>Game Avatars are different from your Student Avatars. You can unlock Game Avatars as you progress through your gamified assignments.
 	</li>
 		<li>Game Avatars that are yet awarded to you will be locked.  	
-			<p> <img style="width: 100%;" src="/images/1Student/G-GameAvatar.png">
+			<p> <img alt="Navigate a Gamified Assignment" style="width: 100%;" src="/images/1Student/G-GameAvatar.png">
 		</p></li>
 	</ul>
 		</li><li><p>You can view the XP Modifiers from the&nbsp;<strong>XP and Level</strong>&nbsp;tab on the Gamification subpage. This gives you information on how bonus XP is being awarded and the number of XP required to level up (move to the next level).</p>
-<p> <img style="width: 80%;" src="/images/1Student/G-AttemptGamified1.png">
+<p> <img alt="Navigate a Gamified Assignment" style="width: 80%;" src="/images/1Student/G-AttemptGamified1.png">
 </p></li>
 <li>There are different types of XP Modifiers. The XP Modifiers are categorised into two main categories:
 	<ol style="list-style-type: lower-alpha;">
@@ -55,14 +55,14 @@ third_nav_title: Gamify
 			</ul>
 	</li></ol>
 </li><li><p>Under the <strong>Game Story</strong> tab, you will be able to view the Awarded Game Story. Game Stories with preset&nbsp;conditions will only appear after all&nbsp;conditions have been fulfilled. Click <strong>Preview</strong> to read the Game Story. </p>
-<p> <img style="width: 80%;" src="/images/1Student/G-AttemptGamified2.png"></p>
+<p> <img alt="Navigate a Gamified Assignment" style="width: 80%;" src="/images/1Student/G-AttemptGamified2.png"></p>
 </li>
 	<li><p>Under the&nbsp;<strong>Collectibles</strong>&nbsp;tab, you will be able to view&nbsp;<strong>Achievements</strong>&nbsp;and&nbsp;<strong>Avatars</strong>&nbsp;under the respective tabs. You can also filter Collectibles by status with the dropdown list. Collectibles with preset conditions will only appear after all conditions have been fulfilled. Click&nbsp;<strong>Preview</strong>&nbsp;to read the Achievement.</p>
-<p> <img style="width: 80%;" src="/images/1Student/G-AttemptGamified3.png"></p>
+<p> <img alt="Navigate a Gamified Assignment" style="width: 80%;" src="/images/1Student/G-AttemptGamified3.png"></p>
 </li>
 	<li><p>When previewing an avatar, you may click&nbsp;<strong>Use As Game Avatar</strong>&nbsp;to set the avatar as your game avatar.</p></li>
 <li><p>Under the <strong>Team Members</strong> tab (if Team Game is enabled by your teacher), you will be able to view all your team members. You can work with your team member cooperatively to unlock Game Story and Achievements. </p>
-<p> <img style="width: 80%;" src="/images/1Student/G-AttemptGamified4.png"></p>
+<p> <img alt="Navigate a Gamified Assignment" style="width: 80%;" src="/images/1Student/G-AttemptGamified4.png"></p>
 </li>
 <li><p>Click <strong>X</strong> to close the subpage.</p>
 </li>
