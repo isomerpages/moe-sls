@@ -65,7 +65,7 @@ variant: markdown
 </ol>
 
 <p><u>Note</u>: Refine your search by using <strong>Guided Search</strong>.</p>
-<img style="width: 80%;" src="/images/1Student/SS-FiltersSubpage.png">
+<img alt="Search for Self Study Resources" style="width: 80%;" src="/images/1Student/SS-FiltersSubpage.png">
 
 <h2>Add Topic Filters</h2>
 <hr>
@@ -76,7 +76,7 @@ variant: markdown
   <li>Click <strong>Apply</strong> and choose <strong>Add Topic Filters.</strong></li>
   <li>On the Add Topic Filters subpage, select the relevant <strong>Content Map</strong> dropdown list.</li>
   <li>Select the checkbox to the left of the Topic, Subtopics, or Learning Outcome to narrow down the search results. 
-<img src="/images/1Student/SS-TopicFilters.png">		
+<img alt="Search for Self Study Resources" src="/images/1Student/SS-TopicFilters.png">		
 </li></ol>
 
 <h2>View Search Results</h2>
@@ -90,7 +90,7 @@ variant: markdown
       <li>Level and Subject (for Lessons only)</li>
       <li>Type of Resource</li>
     </ul>
-<img style="width: 50%;" src="/images/1Student/SS-LessonCard1.png">
+<img alt="Search for Self Study Resources" style="width: 50%;" src="/images/1Student/SS-LessonCard1.png">
   </li>
   <li>To view the Lesson Details, click the <strong>View Details</strong> icon <img style="width:5%; display: inline;" src="/images/Icons/ViewDetails.svg"> found on the top right of the Lesson card. You will be able to view details such as Lesson Description, list of Activities and Sections (if any), Lesson creator, and when it was lasted edited. To open the Lesson in a new tab, click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg">.</li>
   <li>To enter the Lesson, click the <strong>Lesson card</strong>.</li>
