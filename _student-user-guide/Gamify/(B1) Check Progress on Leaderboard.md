@@ -17,9 +17,9 @@ variant: markdown
 	<li>If your teacher has enabled some quizzes to be competitive, you will be able to view your Quiz Rank on the Individual Quiz Leaderboard.Use the dropdown to view Individual Leaderboard for a specific Quiz in the assignment.</li>
 <li>Once the quiz ranking is finalised by the teacher, attempts at the quiz will no longer be reflected on the Quiz Leaderboard.</li>
 		
-<p> <img src="/images/1Student/G-CheckLeaderboard1.png"></p>
+<p> <img alt="Check Progress on Leaderboard" src="/images/1Student/G_CheckLeaderboard1.png"></p>
 
 <li><p>If your teacher has enabled Team Game, from the Team tab, you will be able to view the cumulative XP, current Level and Achievements on the individual Team’s card. Your Team’s card is indicated with a yellow arrow <img style="width:1.5rem; display: inline;" src="/images/Icons/YellowArrow.svg">.</p>
-<p> <img src="/images/1Student/G-CheckLeaderboard2.png"></p>
+<p> <img alt="Check Progress on Leaderboard" src="/images/1Student/G-CheckLeaderboard2.png"></p>
 </li>
 </ul></li></ol>
