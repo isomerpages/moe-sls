@@ -12,7 +12,7 @@ variant: markdown
 <ol>
 <li>Open the right menu and click <strong>Edit Profile</strong>.</li>
 	<li>On the Profile page, select <strong>Set Email Address</strong> under Account Settings.
-	<p><img src="/images/1Student/Cu-EmailAddress.png"></p>
+	<p><img alt="Set Password Reset Email Address" src="/images/1Student/Cu-EmailAddress.png"></p>
  </li><li>Enter an email address under Alternate Email.</li>
 <li>Click <strong>Save</strong>.</li>
 </ol>
