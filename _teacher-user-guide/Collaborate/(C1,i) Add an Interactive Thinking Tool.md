@@ -4,18 +4,19 @@ permalink: /teacher-user-guide/collaborate/add-an-interactive-thinking-tool/
 description: ""
 third_nav_title: Collaborate
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="add-an-interactive-thinking-tool">(C1,i) Add an Interactive Thinking Tool</h1>
 <h2 id="-create-an-interactive-thinking-tool-">Create an Interactive Thinking Tool</h2>
 <hr>
 <ol>
 <li>In the Lesson Editor page, select an <strong>Activity</strong>, hover your mouse over <strong>Interactive</strong> in the Component Bar, then select <strong>ITT</strong>. </li>
-<li>Select from either <strong>Choose from Templates</strong>, <strong>1-Column</strong>, <strong>2-Column</strong> or <strong>3-Column</strong>. </li>
+<li>Select from either <strong>Choose from Templates</strong>, <strong>1-Column</strong>, <strong>2-Columns</strong> or <strong>3-Column</strong>. </li>
 </ol>
-<p><u>Note</u>: Different Interactive Thinking Tool templates are suggested based on the Active Learning Process selected under Activity Details.</p>
+<p><u>Note</u>: Different Interactive Thinking Tool templates are suggested based on the various Active Learning Processes</p>
 <h2 id="-select-a-format-">Select a Format</h2>
 <hr>
-<p>You can create your own custom Interactive Thinking Tool (ITT) by selecting from either <strong>1-Column</strong>, <strong>2-Column</strong> or <strong>3-Column</strong>. To use an existing template, select <strong>Choose from Templates</strong>. </p>
+<p>You can create your own custom Interactive Thinking Tool (ITT) by selecting from either <strong>1-Column</strong>, <strong>2-Columns</strong> or <strong>3-Columns</strong>. To use an existing template, select <strong>Choose from Templates</strong>. </p>
 <ol>
 <li>Add text of up to 250 characters in your Column Header, which only allows plain text. The Column Header field is mandatory.</li>
 <li>You can also edit the Question Body and include a Pre-populated Student Answer. </li>
@@ -25,7 +26,7 @@ image: /images/FaviconLight.png
 <li>When students' names are hidden, they will appear as Anonymous on the Interaction Board. Students will only see their own names.</li>
 <li>To edit an ITT, hover your mouse over the ITT and click the component, or the <strong>Pencil</strong> icon.</li>
 <li><p>To delete your ITT, click the <strong>Delete</strong> icon.</p>
-<p><img style="width: 80%;" src="/images/2Teacher/C-ITTComponent.png"></p>
+<p><img alt="Add an Interactive Thinking Tool" style="width: 80%;" src="/images/2Teacher/C-ITTComponent.png"></p>
 </li>
 </ol>
 <h2 id="-preview-as-student-">Preview as Student</h2>
