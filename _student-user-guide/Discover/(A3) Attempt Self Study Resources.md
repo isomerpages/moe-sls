@@ -29,7 +29,7 @@ variant: markdown
 <li><a target="_blank" href="/student-user-guide/discover/search-for-self-study-resources/">Search for MOE Library Lessons </a> you wish to attempt.</li>
 <li>To view the Lesson Details, click the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> on the Lesson card. You will be able to view details such as Lesson Description, list of Activities and Sections (if any), Lesson creator, and when it was lasted edited. To open the Lesson in a new tab, click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg">.</li>
 <li>To begin attempting the Lesson, click the <strong>Lesson card</strong>. Within the Lesson, open the right menu to <strong>Reattempt</strong> (once you have started on the Lesson), <a target="_blank" href="/student-user-guide/organise/copy-to-my-drive/">Copy to My Drive</a> (if permissions have been enabled), or <a target="_blank" href="/student-user-guide/organise/view-print-friendly-worksheet/">View as Print-Friendly Worksheet</a>(if permissions have been enabled). 
-<img src="/images/1Student/SS-Lesson.png"></li>
+<img alt="Attempt Self Study Resources" src="/images/1Student/SS_Lesson.png"></li>
 	
 <p><u>Note</u>: Should you Reattempt the Lesson, responses from your previous attempt will be deleted. To keep a copy of your responses, make a copy of the Lesson before reattempting.</p>
     
