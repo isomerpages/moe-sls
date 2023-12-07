@@ -37,4 +37,4 @@ variant: markdown
 </li><li>Other Information - Location, Created by, Last Edited by and Keyword Tags
 		</li></ul>
 	</li><li>Click <b>Edit</b> to enter the Lesson Editor page.</li></ol>
-	<p><img style="width: 100%;" src="/images/2Teacher/AU_EditLessons1.png"></p>
+<img style="width: 80%;" src="/images/2Teacher/AU_EditLessons1.png">
