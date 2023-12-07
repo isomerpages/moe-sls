@@ -36,5 +36,4 @@ variant: markdown
 			</li><li>View in new tab - Click the <b>Expand</b> icon to view a Lesson/Activity/Section in a new tab.
 </li><li>Other Information - Location, Created by, Last Edited by and Keyword Tags
 		</li></ul>
-	</li><li>Click <b>Edit</b> to enter the Lesson Editor page.</li></ol>
-	<p><img style="width: 100%;" src="/images/2Teacher/AU_EditLessons1.png"></p>
+	</li><li>Click <b>Edit</b> to enter the Lesson Editor page.</li></ol><img style="width: 80%;" src="/images/2Teacher/AU_EditLessons1.png">

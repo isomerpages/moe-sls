@@ -95,7 +95,7 @@ odp/odg/odf/key/pps/pages/
 <p><u>Note</u>:</p>
 <ul>
 <li>The virus scan may take a few seconds if the file size is large.</li>
-<li>To view Augmented Reality files, a separate software may be required.</li>
+<li>To view Augmented Reality files, separate software may be required.</li>
 <li>File names should be kept within the 50-character limit, which excludes the extension in a file path.</li>
 </ul>
 <p>If the file has been successfully uploaded, the media object will be added to the Lesson.</p>

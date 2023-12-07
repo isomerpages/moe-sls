@@ -30,7 +30,7 @@ variant: markdown
   <li>Click <strong>Copy</strong> to proceed.</li>
 </ol>
 
-<p><u>Note</u>: From R18 onwards, you will be able to view Lessons as <a target="_blank" href="/student-user-guide/organise/view-print-friendly-worksheet/">Print-Friendly Worksheets</a>.</p>
+<p><u>Note</u>: You are also able to view Lessons as <a target="_blank" href="/student-user-guide/organise/view-print-friendly-worksheet/">Print-Friendly Worksheets</a>.</p>
 <h2>Copy from an Assignment</h2>
 <hr>
 <ol>

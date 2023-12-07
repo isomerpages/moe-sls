@@ -31,7 +31,7 @@ third_nav_title: Gamify
 		<li>Game Avatars are different from your Student Avatars. You can unlock Game Avatars as you progress through your gamified assignments.
 	</li>
 		<li>Game Avatars that are yet awarded to you will be locked.  	
-			<p> <img alt="Navigate a Gamified Assignment" style="width: 100%;" src="/images/1Student/G-GameAvatar.png">
+			<p><img alt="Navigate a Gamified Assignment" style="width: 100%;" src="/images/1Student/G_GameAvatar.png">
 		</p></li>
 	</ul>
 		</li><li><p>You can view the XP Modifiers from the&nbsp;<strong>XP and Level</strong>&nbsp;tab on the Gamification subpage. This gives you information on how bonus XP is being awarded and the number of XP required to level up (move to the next level).</p>

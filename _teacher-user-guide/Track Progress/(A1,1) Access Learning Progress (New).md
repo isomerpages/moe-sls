@@ -31,7 +31,7 @@ variant: markdown
 </ul>
 </li>
 	<li>To download the Learning Progress for the Class Group, click <b>Download Report</b>. You will receive a notification when the report is ready.
-		<p><u>Note</u>: To download the report, you will have to <a target="_blank" href="files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf">enable pop-ups</a>.</p></li>
+		<p><u>Note</u>: To download the report, you will have to <a target="_blank" href="/files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf">enable pop-ups</a>.</p></li>
 	<li><p>The overall progress of students can be viewed in three ways:</p>
 <ul>
 <li><p>Topical - To view the Awarded Marks as part of the Total Marks for questions included in Learning Progress according to their topics and sub-topics of the selected content map.</p>
@@ -55,7 +55,7 @@ variant: markdown
 </ul>
 </li>
 <li>To download the Learning Progress for the Class Group, click Download Report. You will receive a notification when the report is ready.
-	<p><u>Note</u>: To download the report, you will have to <a target="_blank" href="files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf">enable pop-ups</a>.</p></li>
+	<p><u>Note</u>: To download the report, you will have to <a target="_blank" href="/files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf">enable pop-ups</a>.</p></li>
 <li><p>The overall progress of students can be viewed in three ways:</p>
 <ul>
 <li>Topical - To view the Awarded Marks as part of the Total Marks for selected questions according to their topics and sub-topics of the selected content map.</li>
