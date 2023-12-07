@@ -13,12 +13,12 @@ variant: markdown
 <ol style="list-style-type: lower-alpha;">
 <li>Mark as PDF: Creates a new PDF copy of the file. You can do on-screen marking using touch devices through Google extensions. </li>
 <li><p>Mark as Google File: Creates a new copy of the file. You can directly edit or comment on the new copy of the file.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/ As-GoogleComment.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/ As-GoogleComment.png"></p>
 </li>
 </ol>
 </li>
 <li><p>After choosing “Mark as PDF” or “Mark as Google File”, the new file will be attached to Teacher Comments. You will be able to edit and annotate on the new file. </p>
-<p><img style="width: 50%;" src="/images/2Teacher/As-GoogleComment1.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/As-GoogleComment1.png"></p>
 </li>
 <li><p>Students can also respond to the marked Assignment to complete their corrections or to add additional comments/questions for clarification.</p>
 </li>
