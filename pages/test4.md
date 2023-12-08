@@ -1,6 +1,7 @@
 ---
 title: test4
 permalink: /permalink/
-variant: tiptap
+variant: markdown
 description: ""
 ---
+# Test 4
