@@ -3,6 +3,7 @@ title: Awards
 permalink: /about/awards/
 description: ""
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Awards</h1>
 <p>The SLS is MOE's main online learning platform used by almost 500,000 users. It has helped schools provide students with more equal access to quality resources and engaging learning experiences, improving their digital literacy and 21st century skills. Teachers also have access to a range of educational technology tools to facilitate active learning and customize lessons to different learning needs. SLS has been crucial in implementing Full Home-Based Learning and Blended Learning and will continue to be an important part of future plans for EdTech.</p>
@@ -22,4 +23,4 @@ image: /images/FaviconLight.png
 <hr>
 <h4>IDC Smart City Asia Pacific Award 2018</h4>
 <h5>Top Smart City Project for Education, July 5th, 2018</h5>
-<p>The Smart City Asia/Pacific Awards (SCAPA) is a platform where the latest innovation and transformations led by cities, local governments and their ICT suppliers across Asia/Pacific can be celebrated. The SLS won the 2018 IDC Smart City Asia Pacific Award in the Education Category.</p>
+<p>The Smart City Asia/Pacific Awards (SCAPA) is a platform where the latest innovation and transformations led by cities, local governments and their ICT suppliers across Asia/Pacific can be celebrated. The SLS won the 2018 IDC Smart City Asia Pacific Award in the Education Category.</p> 
