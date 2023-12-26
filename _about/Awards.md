@@ -3,6 +3,7 @@ title: Awards
 permalink: /about/awards/
 description: ""
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Awards</h1>
 <p>The SLS is MOE's main online learning platform used by almost 500,000 users. It has helped schools provide students with more equal access to quality resources and engaging learning experiences, improving their digital literacy and 21st century skills. Teachers also have access to a range of educational technology tools to facilitate active learning and customize lessons to different learning needs. SLS has been crucial in implementing Full Home-Based Learning and Blended Learning and will continue to be an important part of future plans for EdTech.</p>

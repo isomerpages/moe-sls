@@ -73,9 +73,9 @@ variant: markdown
 </li>
 <li><p><strong>Can a teacher provide feedback/mass feedback to questions in quizzes that are not Teacher-Marked Quizzes?</strong></p>
 <p> Yes, teachers are able to provide feedback to multiple students for a Free-Response, Audio-Response, and File-Submission question within an Activity, or a Quiz.</p>
-<p> For more information, visit Add Teacher’s Feedback.</p>
+<p> For more information, visit <a target="_blank" href="/teacher-user-guide/assess/add-teacher-comments/">Add Teacher Comments</a>.</p>
 <p> When you set any quiz as a Team Quiz, all members of the same Activity Team will also receive the same feedback.</p>
-<p> For more information, visit Create Teams.</p>
+<p> For more information, visit <a target="_blank" href="/teacher-user-guide/collaborate/create-teams/">Create Teams</a>.</p>
 <p> However, teachers can award marks to multiple students for such question types in a Teacher-Marked Quiz only.</p>
 <p> For more information, visit <a target="_blank" href="/teacher-user-guide/assess/mark-teacher-marked-quizzes/">Mark a Teacher-Marked Quiz</a>.</p>
 </li>
