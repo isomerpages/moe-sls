@@ -53,6 +53,7 @@ variant: markdown
 <p><a target="_blank" href="/files/Userguide/faqs%20on%20copyright%20issues.pdf">Click here to read the Copyright FAQs</a></p>
 
 <h2 id="email-template-for-copyright-clearance">Email Template for Copyright Clearance</h2>
+<hr>
 <p>Dear Sir/Madam</p>
 <p>(Name of School) is looking for suitable materials to use in our lesson package. We have found the following image/text/etc on your website useful and would like to know whether (Copyright Owner Name) is the copyright owner. If so, we would like to seek your permission to reproduce/ download/ modify the material.</p>
 <p>A summary of the licence we are seeking is indicated below</p>
