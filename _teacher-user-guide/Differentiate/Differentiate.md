@@ -18,7 +18,7 @@ variant: markdown
   </ul>
 </details>
 <br>
-<img alt="Differentiate" style="width: 50%;" src="/images/2Teacher/Flow-Differentiate2.svg">
+<img alt="Differentiate" style="width: 50%;" src="/images/2Teacher/Flow_Differentiate2.png">
 <details>
  <summary><h4>B. How to provide differentiated access to students?</h4></summary>
 <ul>
