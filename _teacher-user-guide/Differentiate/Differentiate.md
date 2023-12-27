@@ -22,7 +22,7 @@ variant: markdown
 <details>
  <summary><h4>B. How to provide differentiated access to students?</h4></summary>
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/differentiate/add-section-prerequisites/">(B1,i) Add Section Prerequisites</a></li>
+<li><a target="_blank" href="/teacher-user-guide/differentiate/add-activity-quiz-section-prerequisites/">(B1,i) Add Activity, Quiz or Section Prerequisites</a></li>
 <li><a target="_blank" href="/teacher-user-guide/differentiate/set-differentiated-access/">(B1,ii) Set Differentiated Access</a></li>
 </ul>
 </details>
