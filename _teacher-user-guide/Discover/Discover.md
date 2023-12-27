@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h2>Discover</h2>
 Use SLS to search for and find useful T&amp;L resources for use in your lessons.
-<img alt="Discover" style="width: 90%;" src="/images/2Teacher/Flow-Discover.png">
+<img alt="Discover" style="width: 100%;" src="/images/2Teacher/Flow-Discover.png">
 <details>
  <summary><h4>A. How to add Resources from Library?</h4></summary>
 <ul>
