@@ -36,10 +36,8 @@ variant: markdown
 </tr>
 <tr><td><strong>ClipSee (for HQ Users)</strong></td>
 <td>ClipSee is only available to MOE HQ users to access video aggregation libraries for MOE Library content curation.</td></tr>
-<!--
 <tr><td><strong>Collaborative Video Annotation and Analytics for Professional Development (CoVAAPD)</strong></td>
 <td>CoVAAPD, a video annotation and learning analytics platform, allows teachers to upload videos, invite other teachers to view them and contribute to the discourse asynchronously. It promotes teacher reflection and widens the outreach for professional learning and collaboration.</td></tr>
--->
 <tr><td><strong>Easy JavaScript Simulation (EJSS) App</strong></td>
 <td>These EJSS are a collection of virtual science labs, digital manipulatives, and captivating games designed to enhance learning experiences through learning analytics capabilities. <a target="_blank" href="https://go.gov.sg/slsejss1">Click here</a> to find out how to add EJSS in the EJSS App into your SLS assignment/lesson. <a target="_blank" href="https://go.gov.sg/slsejss2">Click here</a> to find out how to use the EJSS authoring toolkit to add these existing EJSS to have learning analytics capabilities. This EJSS App is funded by the MOE Senior Specialist Research - Development Fund (SSTRF).</td></tr>
 <tr><td><strong>Last Reserve</strong></td>
