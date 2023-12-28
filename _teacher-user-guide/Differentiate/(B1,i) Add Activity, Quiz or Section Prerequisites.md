@@ -16,7 +16,7 @@ variant: markdown
 </li>
 <li>
 <p>To ensure Activities/Quizzes are completed in sequence, select the checkbox next to “Sequential Activity Access” and click <strong>Apply</strong>.</p>
-<img alt="Add Section Prerequisites" style="width: 100%;" src="/images/2Teacher/DI_AddSectionPre.png">
+<img alt="Add Section Prerequisites" style="width: 80%;" src="/images/2Teacher/DI_AddSectionPre.png">
 </li>
 <li>
 <p>To add Custom Prerequisites to an Activity/Quiz, deselect the checkbox "Sequential Activity Access" and click <strong>Apply</strong>.</p>
@@ -29,7 +29,7 @@ variant: markdown
 </li>
 <li>
 <p>Quiz Score: For Quizzes only.</p>
-<img alt="Add Section Prerequisites" style="width: 100%;" src="/images/2Teacher/DI_AddSectionPre1.png">
+<img alt="Add Section Prerequisites" style="width: 50%;" src="/images/2Teacher/DI_AddSectionPre1.png">
 </li>
 </ol>
 </li>
