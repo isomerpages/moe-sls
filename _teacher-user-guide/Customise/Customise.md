@@ -9,7 +9,7 @@ variant: markdown
 <h2>Customise</h2>
 <hr>
 <p>Use SLS to to customise your avatar, UI and user experience based on your needs.</p>
-<img alt="Customise" style="width: 80%;" src="/images/2Teacher/Flow-Customise.png">
+<img alt="Customise" style="width: 50%;" src="/images/2Teacher/Flow-Customise.png">
 <details>
  <summary><h4>A. How to manage my SLS account?</h4></summary>
 <p>Manage Personal Account</p>
@@ -24,7 +24,7 @@ variant: markdown
 </ul>
 </details>
 <br>
-  <img style="width: 80%;" alt="Customise" src="/images/2Teacher/Flow-Customise1.png">
+  <img style="width: 50%;" alt="Customise" src="/images/2Teacher/Flow-Customise1.png">
 <details>
  <summary><h4>B. How to create/manage my own Lesson Templates?</h4></summary>
 <ul>

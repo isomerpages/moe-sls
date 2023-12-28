@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h1>Gamify</h1>
 <p>Use SLS to experience a game-like experience when going through your lesson.</p>
-<img style="width: 50%;" src="/images/1Student/Flow-Gamify1.png">
+<img style="width: 80%;" src="/images/1Student/Flow_Gamify1.png">
 
 <a target="_blank" href="/student-user-guide/gamify/about-gamification/">About Gamification</a>
 <details><summary><h4>A. How to attempt gamified resources? (New)</h4></summary>

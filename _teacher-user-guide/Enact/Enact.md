@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h1>Enact</h1>
 <p>Use to enact assigned SLS lessons as part of my synchronous teaching in-class or over Virtual Classrooms.</p>
-<img alt="Enact" style="width: 80%;" src="/images/2Teacher/Flow-Enact.png">
+<img alt="Enact" style="width: 50%;" src="/images/2Teacher/Flow-Enact.png">
 <details>
  <summary><h4>A. How to manage Activity pacing?</h4></summary>
 <ul>

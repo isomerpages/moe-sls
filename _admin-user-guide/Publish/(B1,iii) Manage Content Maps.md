@@ -4,6 +4,7 @@ permalink: /admin-user-guide/publish/manage-content-maps/
 description: ""
 third_nav_title: Publish
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="manage-content-maps">(B1,iii) Manage Content Maps</h1>
 <p>Content Approvers and Content Officers (CAs and COs) will be able to view all Content Maps from here and make edits to Content Maps tagged to their Owner Group.</p>
@@ -52,7 +53,7 @@ image: /images/FaviconLight.png
 <li>For CAs, click the <strong>Create and Publish</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Upload24.svg"> when done.</li>
 <li>For COs, click to seek approval from CA(s) to publish the content map, after creating the content map.</li>
 </ol>
-<h2 id="edit-a-content-map-for-cas-">Edit a Content Map(For CAs)</h2>
+<h2 id="edit-a-content-map-for-cas-">Edit a Content Map (For CAs)</h2>
 <hr>
 <p>You can only edit Content Maps that are tagged to your Owner Group.</p>
 <ol>
@@ -61,11 +62,4 @@ image: /images/FaviconLight.png
 <li>Click the <strong>Done</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Done.svg">  to update the Content Map.</li>
 <li>To publish ALS Content Maps, click the <strong>Publish to ALS</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Upload24.svg">.</li>
 <li>To Delete or Make a Copy of the Content Map, open <strong>Overflow</strong> (3 dots icon) in the header and select the respective buttons.</li>
-</ol>
-<h2 id="edit-a-content-map-for-cos-">Edit a Content Map (For COs)</h2>
-<hr>
-<p>CO will have to seek approval from CA to unpublish a Content Map for editing. </p>
-<ol>
-<li>Once the Content Map has been unpublished, click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> to enter the Lesson Editor.</li>
-<li>CO can submit the Content Map to CA(s) for approval after the edits are completed.</li>
 </ol>
