@@ -179,10 +179,6 @@ https://www.8world.com
 <br>
 https://www.channelnewsasia.com
 <br>
-https://channelnewsasia.com
-<br>
-https://www.seithi.mediacorp.sg
-<br>
 https://seithi.mediacorp.sg
 </td>
 </tr>
@@ -250,7 +246,7 @@ https://classroomscreen.com
 https://edition.cnn.com
 </td>
 </tr>
-<tr><td><strong>CodeCheck <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>CodeCheck</strong></td>
 <td>Coding Platform</td>
 <td>
 https://codecheck.io
@@ -380,7 +376,7 @@ https://www.ezhishi.net
 https://www.playfactile.com
 </td>
 </tr>
-<tr><td><strong>Falstad <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Falstad</strong></td>
 <td>Simulations</td>
 <td>
 https://www.falstad.com/circuit
@@ -413,7 +409,7 @@ https://www.floopedu.com
 <tr><td><strong>Flourish Studio</strong></td>
 <td>Data Visualisation Tool</td>
 <td>
-https://flourish.studio
+https://public.flourish.studio
 </td>
 </tr>
 <tr><td><strong>Footprints-Science</strong></td>
@@ -468,6 +464,12 @@ https://www.guggenheim.org/collection-online
 <td>Music Tool</td>
 <td>
 https://guitarflash3.com
+</td>
+</tr>
+<tr><td><strong>H5P <font color="#FBBC04">NEW!</font></strong></td>
+<td>Content Authoring Tool</td>
+<td>
+https://tools.learnforlife.sg/h5psites
 </td>
 </tr>
 <tr><td><strong>Heyzine</strong></td>
@@ -692,7 +694,7 @@ https://www.musicca.com
 <tr><td><strong>MyActiveSG</strong></td>
 <td>Resource site</td>
 <td>
-https://www.myactivesg.com
+https://www.activesgcircle.gov.sg
 </td>
 </tr>
 <tr><td><strong>National Council of Teachers of Mathematics</strong></td>
@@ -999,6 +1001,12 @@ https://stablediffusionweb.com
 <td>Writing Tool</td>
 <td>
 https://storybird.com
+</td>
+</tr>
+<tr><td><strong>StoryJumper <font color="#FBBC04">NEW!</font></strong></td>
+<td>Story Authoring Tool</td>
+<td>
+https://www.storyjumper.com
 </td>
 </tr>
 <tr><td><strong>Storyline Online</strong></td>
@@ -1330,7 +1338,7 @@ https://www.bandlab.com
 https://www.canva.com
 </td>
 </tr>
-<tr><td><strong>CK12 Simulations</strong> </td>
+<tr><td><strong>CK12 Simulations</strong></td>
 <td>Simulations</td>
 <td>
 https://www.ck12.org
@@ -1364,7 +1372,7 @@ https://student.desmos.com
 https://teacher.desmos.com
 </td>
 </tr>
-<tr><td><strong>Dialogflow</strong> </td>
+<tr><td><strong>Dialogflow</strong></td>
 <td>Chatbot</td>
 <td>
 https://console.dialogflow.com
@@ -1382,7 +1390,13 @@ https://edpuzzle.com
 https://video.eko.com
 </td>
 </tr>
-<tr><td><strong>Flip</strong> </td>
+<tr><td><strong>Figma <font color="#FBBC04">NEW!</font></strong></td>
+<td>Collaboration Tool</td>
+<td>
+https://www.figma.com
+</td>
+</tr>
+<tr><td><strong>Flip</strong></td>
 <td>Video Discussion Tool</td>
 <td>
 https://flipgrid.com
@@ -1390,7 +1404,7 @@ https://flipgrid.com
 https://flip.com
 </td>
 </tr>
-<tr><td><strong>Flipsnack</strong> </td>
+<tr><td><strong>Flipsnack</strong></td>
 <td>Flipbook Tool</td>
 <td>
 https://cdn.flipsnack.com
@@ -1414,14 +1428,14 @@ https://www.gamestolearnenglish.com
 https://gamma.app
 </td>
 </tr>
-<tr><td><strong>Gapminder</strong> </td>
+<tr><td><strong>Gapminder</strong></td>
 <td>Data Visualisation Tool</td>
 <td>
 https://www.gapminder.org
 </td>
 </tr>
-<tr><td><strong>Genially</strong> </td>
-<td>Interactive Content Authoring Platform</td>
+<tr><td><strong>Genially</strong></td>
+<td>Content Authoring Tool</td>
 <td>
 https://view.genial.ly
 </td>
@@ -1442,7 +1456,7 @@ https://docs.google.com
 https://docs.google.com/document
 </td>
 </tr>
-<tr><td><strong>Google Drawings</strong> </td>
+<tr><td><strong>Google Drawings</strong></td>
 <td>Productivity Tool</td>
 <td>
 https://docs.google.com/drawings
@@ -1490,6 +1504,12 @@ https://www.heyhi.sg
 <td>Jigsaw Tool</td>
 <td>
 https://www.jigsawplanet.com
+</td>
+</tr>
+<tr><td><strong>Kami <font color="#FBBC04">NEW!</font></strong></td>
+<td>Collaboration Tool</td>
+<td>
+https://kami.app
 </td>
 </tr>
 <tr><td><strong>MeWatch</strong> </td>
@@ -1603,13 +1623,15 @@ https://chr.padlet.org
 <br>
 https://corporationpri.padlet.org
 <br>
-https://crescentgirls.padlet.org <font color="#FBBC04">NEW!</font>
+https://crescentgirls.padlet.org
+<br>
+https://ctss.padlet.org <font color="#FBBC04">NEW!</font>
 <br>
 https://damaisecondary.padlet.org
 <br>
 https://dlsssg.padlet.org
 <br>
-https://dmps.padlet.org <font color="#FBBC04">NEW!</font>
+https://dmps.padlet.org
 <br>
 https://dunmanhigh.padlet.org
 <br>
@@ -1630,6 +1652,8 @@ https://greendalesecondary.padlet.org
 https://greenridgesecondary.padlet.org
 <br>
 https://henryparkprimary.padlet.org
+<br>
+https://hsc7031.padlet.org <font color="#FBBC04">NEW!</font>
 <br>
 https://huaminprimarype.padlet.org
 <br>
@@ -1677,13 +1701,17 @@ https://opss.padlet.org
 <br>
 https://pasirrissec.padlet.org
 <br>
+https://pathlightsingapore.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
+https://pcss.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://plmgsp.padlet.org
 <br>
 https://punggolpri.padlet.org
 <br>
 https://punggolsecschool.padlet.org
 <br>
-https://riedu.padlet.org <font color="#FBBC04">NEW!</font>
+https://riedu.padlet.org
 <br>
 https://riversidesec.padlet.org
 <br>
@@ -1734,7 +1762,7 @@ https://zhenghuasecondary.padlet.org
 https://zhss.padlet.org
 </td>
 </tr>
-<tr><td><strong>Panopto <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Panopto</strong></td>
 <td>Video Resource Site</td>
 <td>
 https://ri.ap.panopto.com
@@ -1771,8 +1799,6 @@ https://embed.polleverywhere.com
 <tr><td><strong>Powtoon</strong> </td>
 <td>Video and Presentation Tool</td>
 <td>
-https://powtoon.com
-<br>
 https://www.powtoon.com
 </td>
 </tr>
@@ -1880,8 +1906,7 @@ https://play.vidyard.com
 https://share.vidyard.com
 </td>
 </tr>
-<!--
-<tr><td><strong>Vimeo</strong></td>
+<tr><td><strong>Vimeo <font color="#FBBC04">NEW!</font></strong></td>
 <td>Online Video Tool</td>
 <td>
 https://player.vimeo.com
@@ -1889,7 +1914,6 @@ https://player.vimeo.com
 https://vimeo.com
 </td>
 </tr>
--->
 <tr><td><strong>Wakelet</strong> </td>
 <td>Resource Curation Tool</td>
 <td>
