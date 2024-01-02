@@ -1,6 +1,6 @@
 ---
 title: (C1,i) Add Feedback Assistant Mathematics
-permalink: /teacher-user-guide/assess/add-feedback-assistant-mathematics/
+permalink: /teacher-user-guide/assess/add-mathematics-feedback-assistant/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png

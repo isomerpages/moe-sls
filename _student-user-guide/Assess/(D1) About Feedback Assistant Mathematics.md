@@ -1,6 +1,6 @@
 ---
 title: (D1) About Feedback Assistant Mathematics
-permalink: /student-user-guide/assess/about-feedback-assistant-mathematics/
+permalink: /student-user-guide/assess/about-mathematics-feedback-assistant/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
