@@ -1,0 +1,64 @@
+title: Singapore Student Learning Space (SLS) Info-Site
+url: https://www.learning.moe.edu.sg
+favicon: /images/FaviconLight.png
+colors:
+  primary-color: "#0b233f"
+  secondary-color: "#2b63d9"
+  media-colors:
+    - title: media-color-one
+      color: "#e96a6a"
+    - title: media-color-two
+      color: "#4ecbd3"
+    - title: media-color-three
+      color: "#fbbc04"
+    - title: media-color-four
+      color: "#af75d2"
+    - title: media-color-five
+      color: "#73c235"
+description: The Singapore Student Learning Space (SLS) is MOE's core platform
+  for teaching and learning and is one of MOE’s key initiatives to transform the
+  learning experiences of Singaporean students through the purposeful use of
+  technology to enable students to engage in different learning modes.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d19lt3odqxq3m6.amplifyapp.com
+prod: https://master.d19lt3odqxq3m6.amplifyapp.com
+shareicon: /images/LogoSecondaryLight.svg
+is_government: true
+facebook-pixel: ""
+google_analytics: UA-134623204-2
+linkedin-insights: ""
+resources_name: latest-news
+google_analytics_ga4: G-8GLDNSHVL0
+google_site_verification: XHBoJ1jFO07qkfqzyKwiUy3fkGfHHScrCQzZOjTuUYQ

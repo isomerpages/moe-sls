@@ -1,0 +1,47 @@
+collections:
+  teachers:
+    output: true
+    order:
+      - Teachers.md
+      - Feature Highlights/2023 Sem 2.md
+      - Feature Highlights/2023 Sem 1.md
+      - Feature Highlights/2022 Sem 2.md
+      - Feature Highlights/2022 Sem 1.md
+      - Feature Highlights/2021 Sem 2.md
+      - Feature Highlights/.keep
+      - Build The SLS Card Game/.keep
+      - Build The SLS Card Game/Build The SLS Card Game.md
+      - Build The SLS Card Game/Background.md
+      - Build The SLS Card Game/General Rules.md
+      - Build The SLS Card Game/Quick Build Mode.md
+      - Build The SLS Card Game/Shared Build Mode.md
+      - Build The SLS Card Game/Print to Play.md
+      - Build The SLS Card Game/Facilitation Resources.md
+      - Build The SLS Card Game/Instruction Booklet.md
+      - Frequently Asked Questions.md
+      - SLS Professional Development/.keep
+      - SLS Professional Development/Teaching and Learning with SLS.md
+      - SLS Professional Development/ePedagogy One Stop Site.md
+      - SLS Professional Development/SgLDC Livestreams.md
+      - SLS Professional Development/SLS related Resources.md
+      - SLS Superhero Quiz/.keep
+      - SLS Superhero Quiz/SLS Superhero Quiz.md
+      - SLS Superhero Quiz/Assign Past Exam Questions.md
+      - SLS Superhero Quiz/Co create Lessons in Class Groups.md
+      - SLS Superhero Quiz/Conduct eAssessments in Class.md
+      - SLS Superhero Quiz/Create Professional Learning Circles.md
+      - SLS Superhero Quiz/Differentiate Learning Lessons and Activities.md
+      - SLS Superhero Quiz/Digitise Past Year Papers for Practice.md
+      - SLS Superhero Quiz/Empower Students to be Self Directed Learners.md
+      - SLS Superhero Quiz/Encourage Curiosity through Class Groups.md
+      - SLS Superhero Quiz/Facilitating Schoolwide PD.md
+      - SLS Superhero Quiz/Integrate External Sites and Applications.md
+      - SLS Superhero Quiz/Jigsaw Activities for Teamwork.md
+      - SLS Superhero Quiz/Manage In Class Teaching more Effectively.md
+      - SLS Superhero Quiz/Motivate Students with a Game like Experience.md
+      - SLS Superhero Quiz/Nurture Collaboration in Gamified Lessons.md
+      - SLS Superhero Quiz/Track Students’ Learning Progress.md
+      - SLS Events/Visit SLS@Grange.md
+      - SLS Events/.keep
+      - SLS Events/Events Calendar.md
+      - SLS Events/Friends of SLS.md
