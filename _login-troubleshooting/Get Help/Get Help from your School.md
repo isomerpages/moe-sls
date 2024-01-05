@@ -4,6 +4,7 @@ permalink: /login-troubleshooting/get-help/get-help-from-your-school/
 description: ""
 third_nav_title: Get Help
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Get Help from your School</h1>
 
@@ -176,9 +177,9 @@ Others:
 <td>Anglo-Chinese School (Independent)</td>
 <td>
 Tel: 68700355
-<br>Email: lms-admin@acsindep.edu.sg
+<br>Email: helpdesk@acsindep.edu.sg
 <br>
-Others: <a href="https://www.acsindep.moe.edu.sg/for-students/singapore-student-learning-space/">More Info</a>
+Others: 
 
 
 </td>
@@ -1220,7 +1221,7 @@ Others:
 <td>Fuhua Primary School</td>
 <td>
 Tel: 65624370
-<br>Email: sls@fuhuapri.edu.sg
+<br>Email:
 <br>
 Others: <a href="https://go.gov.sg/fhpssls">Form SG</a>
 
@@ -3408,9 +3409,9 @@ Others: <a href="https://go.gov.sg/wpssls">Form SG</a>
 <td>West Spring Secondary School</td>
 <td>
 Tel: 68920369
-<br>Email: xie_shuxian_shelia@moe.edu.sg
+<br>Email: westspringss@moe.edu.sg
 <br>
-Others: <a href="https://westspringsec.moe.edu.sg/homebasedlearning">School Website</a>
+Others: <a href="https://go.gov.sg/wsssicthelp">Google Form</a>
 
 
 </td>
