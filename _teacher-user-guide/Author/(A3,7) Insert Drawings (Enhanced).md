@@ -54,7 +54,7 @@ variant: markdown
 	<li>To delete the entire drawing, click the&nbsp;<b>Delete</b>&nbsp;icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">.
 	</li><li>To download the entire drawing, click the <b>Download</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Download.svg">.
 </li>
-	<li>Click the&nbsp;<b>Settings</b>&nbsp;icon&nbsp;<img style="width:1.5rem; display: inline;" src="/images/Icons/Settings2.svg"> to:</li>
+	<li>Click the&nbsp;<b>Settings</b>&nbsp;icon&nbsp;<img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> to:</li>
 	<ul><li>Edit Title
 </li><li>Edit Description
 		</li><li>Star it as a Resource
