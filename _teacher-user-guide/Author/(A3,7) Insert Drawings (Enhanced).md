@@ -17,7 +17,7 @@ variant: markdown
 	</li><li>When you click <b>Clear All</b>, all drawings and images will be deleted.
 </li><li>You can resize/rotate the final drawings/images before inserting them into the textbox.
 	</li><li>You can <b>Star</b> the final drawing as a Resource or <b>Download</b> it onto your computer.
-		<p><img style="width: 50%;" src="/images/1Student/AU_InsertDrawing1.png"></p>
+		<p><img alt="Insert Drawings" style="width: 50%;" src="/images/2Teacher/AU_InsertDrawing1.png"></p>
 </li></ul>
 	
 <h2 id="-drawing-tools-">Drawing tools</h2>
@@ -45,7 +45,7 @@ variant: markdown
 	<p></p><li>Click&nbsp;<b>Next</b>&nbsp;after you are done drawing/editing.</li>
 		<li>Rotate or crop the image to your preferred dimensions before clicking <b>Done</b>.</li>
 	</ul>
-<p><img style="width: 50%;" src="/images/1Student/AU_InsertDrawing2.png"></p>
+<p><img alt="Insert Drawings" style="width: 50%;" src="/images/2Teacher/AU_InsertDrawing2.png"></p>
 
 <h2 id="-edit-uploaded-drawing-">Edit uploaded drawing</h2>
 <hr>
@@ -54,7 +54,7 @@ variant: markdown
 	<li>To delete the entire drawing, click the&nbsp;<b>Delete</b>&nbsp;icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">.
 	</li><li>To download the entire drawing, click the <b>Download</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Download.svg">.
 </li>
-	<li>Click the&nbsp;<b>Settings</b>&nbsp;icon&nbsp;<img style="width:1.5rem; display: inline;" src="/images/Icons/Settings2.svg"> to:</li>
+	<li>Click the&nbsp;<b>Settings</b>&nbsp;icon&nbsp;<img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> to:</li>
 	<ul><li>Edit Title
 </li><li>Edit Description
 		</li><li>Star it as a Resource
@@ -62,4 +62,4 @@ variant: markdown
 		</li><li>Edit Keyword Tags</li>
 </ul>
 	<li>Once done, click the&nbsp;<b>Save</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg">.</li>
-	<p><img style="width: 50%;" src="/images/1Student/AU_InsertDrawing3.png"></p></ul>
+	<p><img alt="Insert Drawings" style="width: 50%;" src="/images/2Teacher/AU_InsertDrawing3.png"></p></ul>

@@ -4,16 +4,17 @@ permalink: /partners/partnership/partnership-models/
 description: ""
 third_nav_title: Partnership
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="partnership-models">Partnership Models</h1>
-<p>SLS offers the following models for companies or agencies to form partnerships with the SLS:</p>
+<p>We offer the following models for companies or agencies to partner SLS:</p>
 <ul>
 <li><p><strong>Content Development</strong></p>
 <ol>
-<li>MOE currently procures quality content through its various curricular branches or engages external content developers to develop SLS resources.</li>
+<li>MOE currently procures quality content that is aligned to its curriculum or engages external content developers to create and customise resources for use by students and teachers in SLS.</li>
 <li>MOE is looking at accelerating such external content procurement and creation, i.e. <ul>
-<li>In formal curriculum, particularly if the content is delivered through non-traditional media, e.g. video, AR/VR, games, interactives/simulations.</li>
-<li>In informal curriculum in support of student self-initiated learning, e.g. sustainability, STEAM areas, Maker education.</li>
+<li>In formal curriculum, create or procure interactive digital resources and content such as video, AR/VR, games and interactives/simulations. Where possible, to weave the digital resources and content into a digital textbook for the secondary school level, based on MOE subject-specific syllabuses.</li>
+<li>In informal curriculum, create or procure interactive digital resources and content to enable students to learn on their own in the following areas: Sustainability, STEAM and Maker Education, etc.</li>
 </ul>
 </li>
 </ol>
@@ -36,8 +37,9 @@ image: /images/FaviconLight.png
 </ol>
 </li>
 </ul>
-<p>Companies or agencies that are interested to partner with SLS can approach:</p>
+<p>Companies or agencies that are interested to partner with the SLS Office can approach:</p>
 <ul>
 <li>The <a target="_blank" href="https://www.moe.gov.sg/about-us/organisation-structure">relevant MOE divisions</a> to indicate their interest.</li>
-<li>The <a target="_blank" href="https://go.gov.sg/sls-partnerships-contact">SLS Partnerships Team.</a></li>
+<li>The Curriculum Planning and Development Division to indicate interest in resource creation and weaving the resources and content into <a target="_blank" href="https://go.gov.sg/idtcontactform">digital textbooks</a>.</li>
+<li>The <a target="_blank" href="https://go.gov.sg/sls-partnerships-contact">SLS Partnerships Team</a>.</li>
 </ul>
