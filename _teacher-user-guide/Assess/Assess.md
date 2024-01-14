@@ -21,7 +21,7 @@ variant: markdown
   </ul>
 </details>
 
-<img alt="Assess" style="width: 80%;" src="/images/2Teacher/Flow-Assess2.svg">
+<img alt="Assess" style="width: 80%;" src="/images/2Teacher/Flow_Assess2.png">
 
 <details>
  <summary><h4>B. How to assess students using Teacher-Marked Quizzes?</h4></summary>
