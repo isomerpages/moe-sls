@@ -27,5 +27,5 @@ third_nav_title: Events
 </ol>
 <h2>Event Registration</h2>
 <hr>
-<p>Registration for SLS Partners Engagement Session 2024 is done through this <a target="_blank" href="https://www.go.gov.sg/slspes2024">form submission</a> by 16 Feb (Fri). Please note that due to space constraint, a maximum of three (3) participants is allowed for each organisation.</p>
+<p>Registration for SLS Partners Engagement Session 2024 is done through this <a target="_blank" href="https://www.go.gov.sg/slspes2024">form submission</a> by <strong>16 Feb (Fri)</strong>. Please note that due to space constraint, a maximum of three (3) participants is allowed for each organisation.</p>
 <p>For further information, please email <a target="_blank" href="mailto:SLS_Partnerships@moe.gov.sg">SLS_Partnerships@moe.gov.sg</a>.</p>
