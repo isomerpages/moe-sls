@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Teachers.md
+      - Feature Highlights/2024 Sem 1.md
       - Feature Highlights/2023 Sem 2.md
       - Feature Highlights/2023 Sem 1.md
       - Feature Highlights/2022 Sem 2.md
@@ -23,7 +24,6 @@ collections:
       - SLS Professional Development/Teaching and Learning with SLS.md
       - SLS Professional Development/ePedagogy One Stop Site.md
       - SLS Professional Development/SgLDC Livestreams.md
-      - SLS Professional Development/SLS related Resources.md
       - SLS Superhero Quiz/.keep
       - SLS Superhero Quiz/SLS Superhero Quiz.md
       - SLS Superhero Quiz/Assign Past Exam Questions.md

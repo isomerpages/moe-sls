@@ -17,11 +17,12 @@ variant: markdown
     <li><a target="_blank" href="/teacher-user-guide/assess/add-teacher-comments/">(A3,1) Add Teacher Comments</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/annotate-underline-students-responses/">(A3,2) Annotate (Underline) Students' Responses</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/mark-google-attached-files/">(A3,3) Mark Google-Attached Files</a></li>
+<li><a target="_blank" href="/teacher-user-guide/assess/mark-a-copy-of-a-drawing/">(A3,4) Mark a Copy of a Drawing</a></li>
 <li><a target="_blank" href="/teacher-user-guide/assess/print-to-scan">(A4) Print-to-Scan</a></li>
   </ul>
 </details>
 
-<img alt="Assess" style="width: 80%;" src="/images/2Teacher/Flow-Assess2.svg">
+<img alt="Assess" style="width: 80%;" src="/images/2Teacher/Flow_Assess2.png">
 
 <details>
  <summary><h4>B. How to assess students using Teacher-Marked Quizzes?</h4></summary>

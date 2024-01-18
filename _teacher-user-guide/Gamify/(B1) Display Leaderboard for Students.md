@@ -24,7 +24,7 @@ variant: markdown
 <h2>Display Leaderboards for Students from Monitor Assignment page</h2>
 <hr>
 <ol>
-    <li>On the Monitor Assignment page, select the <strong>Game Experience</strong> tab.</li>
+    <li>On the <a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/"> Monitor Assignment</a> page, select the <strong>Game Experience</strong> tab.</li>
 	<li><p>You may choose to view the Individual or Team Leaderboard for the gamified Lesson.</p>
 			<p><u>Note</u>: The Individual and Team Leaderboards can be turned on/off anytime.</p>
 <ol style="list-style-type: lower-alpha;">
