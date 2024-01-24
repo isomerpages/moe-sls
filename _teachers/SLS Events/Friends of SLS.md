@@ -127,6 +127,10 @@ variant: markdown
 <td><p>Maris Stella High School</p></td>
 </tr>
 <tr>
+<td><p>Ms Chng Wan Ting Zenia</p></td>
+<td><p>Maris Stella High School</p></td>
+</tr>
+<tr>
 <td><p>Ms Ng Mei Xian Angelia</p></td>
 <td><p>Maris Stella High School</p></td>
 </tr>
@@ -153,6 +157,9 @@ variant: markdown
 </tr>
 <tr><td><p>Mr Ng Jun Lin</p></td>
 <td><p>National Junior College</p></td>
+</tr>
+<tr><td><p>Mr Kong Weng Ho Benjamin</p></td>
+<td><p>Nanyang Girls' High School</p></td>
 </tr>
 <tr>
 <td><p>Mr Yip Poh Seng</p></td>
@@ -221,6 +228,10 @@ variant: markdown
 <tr>
 <td><p>Mr Wong Chin Wei Aaron</p></td>
 <td><p>Seng Kang Primary School</p></td>
+</tr>
+<tr>
+<td><p>Mrs Vanessa Low Jing Wen</p></td>
+<td><p>Seng Kang Secondary School</p></td>
 </tr>
 <tr>
 <td><p>Mdm Chew Si Min</p></td>
@@ -307,6 +318,13 @@ variant: markdown
 <td><p>Yuhua Primary School</p></td>
 </tr>
 <tr>
+<td><p>Mr Chan Xiao Yi</p></td>
+<td><p>Yusof Ishak Secondary School</p></td>
+</tr>
+<tr>
+<td><p>Mdm Lee Kim Kim</p></td>
+<td><p>Yishun Primary School</p></td>
+</tr><tr>
 <td><p>Ms Yeo Yah Hwee June</p></td>
 <td><p>Zhonghua Secondary School</p></td>
 </tr>  
