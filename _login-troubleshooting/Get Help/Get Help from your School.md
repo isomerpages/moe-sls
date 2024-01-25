@@ -199,9 +199,9 @@ Others: <a href="https://go.gov.sg/acsjsls">https://go.gov.sg/acsjsls</a>
 <td>Anglo-Chinese School (Primary)</td>
 <td>
 Tel: 62501633
-<br>Email: vedavalli@schools.gov.sg
+<br>Email: 
 <br>
-Others:
+	Others: <a href="https://go.gov.sg/acspict-accountreset">Form SG </a>
 
 
 </td>
@@ -1157,7 +1157,7 @@ Others: <a href="https://form.gov.sg/5d65d57cd6754c0012d6d775">Form SG</a>
 Tel: 68343100
 <br>Email: admin_ferngreen_ps@moe.edu.sg
 <br>
-Others: 
+	Others: <a href="https://go.gov.sg/fgps-online-based-helpline">Form SG</a>
 
 
 </td>
@@ -1760,7 +1760,7 @@ Others: <a href="https://go.gov.sg/lakesidesls">Form SG</a>
 <td>Lianhua Primary School</td>
 <td>
 Tel: 65639502
-<br>Email: ma_su_lin@moe.edu.sg
+<br>Email: lianhua_ps@moe.edu.sg
 <br>
 Others:
 

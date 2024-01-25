@@ -4,6 +4,7 @@ permalink: /teachers/sls-events/friends-of-sls/
 description: ""
 third_nav_title: SLS Events
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <img src="/images/2Teacher/friendsofsls.png">
 <p>Launched in Oct 2022, the Friends of SLS initiative recognises educators who have significantly contributed to the SLS fraternity over the last few years. In 2023, we also welcomed teachers who have significantly impacted their students’ engagement and learning experience through their use of SLS.</p>
@@ -16,7 +17,8 @@ image: /images/FaviconLight.png
 <th>Friends of SLS 2024</th>
 <th>School</th>
 </tr>
-<tr>
+</thead>
+<tbody><tr>
 <td><p>Ms Janice Lim Hong Min</p></td>
 <td><p>Admiralty Secondary School</p></td>
 </tr>
@@ -30,10 +32,6 @@ image: /images/FaviconLight.png
 </tr>
 <tr>
 <td><p>Miss Tan Jieying</p></td>
-<td><p>Ang Mo Kio Secondary School</p></td>
-</tr>
-<tr>
-<td><p>Mr Ng Jun Lin</p></td>
 <td><p>Ang Mo Kio Secondary School</p></td>
 </tr>
 <tr>
@@ -89,10 +87,6 @@ image: /images/FaviconLight.png
 <td><p>Clementi Town Secondary School</p></td>
 </tr>
 <tr>
-<td><p>Mr Ng Guan Han, Norman</p></td>
-<td><p>Crescent Girls' School</p></td>
-</tr>
-<tr>
 <td><p>Mr Lim Wei Heng, Edwin</p></td>
 <td><p>Dazhong Primary School</p></td>
 </tr>
@@ -107,6 +101,10 @@ image: /images/FaviconLight.png
 <tr>
 <td><p>Ms Lee Hui Ning</p></td>
 <td><p>Fuchun Primary School</p></td>
+</tr>
+<tr>
+<td><p>Mdm Yeo Siok Koon</p></td>
+<td><p>Huamin Primary School</p></td>
 </tr>
 <tr>
 <td><p>Ms Mun Choy Ling Hilda</p></td>
@@ -129,8 +127,20 @@ image: /images/FaviconLight.png
 <td><p>Maris Stella High School</p></td>
 </tr>
 <tr>
+<td><p>Ms Chng Wan Ting Zenia</p></td>
+<td><p>Maris Stella High School</p></td>
+</tr>
+<tr>
 <td><p>Ms Ng Mei Xian Angelia</p></td>
 <td><p>Maris Stella High School</p></td>
+</tr>
+<tr>
+<td><p>Mr Oh Jin Sheng</p></td>
+<td><p>MOE HQ - CPDD (Sciences Branch)</p></td>
+</tr>
+<tr>
+<td><p>Mr Ng Guan Han, Norman</p></td>
+<td><p>MOE HQ - ETD (SLS Office)</p></td>
 </tr>
 <tr>
 <td><p>Ms Liu Lanying</p></td>
@@ -143,14 +153,21 @@ image: /images/FaviconLight.png
 <tr>
 <td><p>Mr Nicholas Tan Aum Yeow</p></td>
 <td><p>National Junior College</p></td>
+</tr><tr>
+</tr>
+<tr><td><p>Mr Ng Jun Lin</p></td>
+<td><p>National Junior College</p></td>
+</tr>
+<tr><td><p>Mr Kong Weng Ho Benjamin</p></td>
+<td><p>Nanyang Girls' High School</p></td>
 </tr>
 <tr>
 <td><p>Mr Yip Poh Seng</p></td>
 <td><p>North Vista Secondary School</p></td>
 </tr>
 <tr>
-<td><p>Mdm Yeo Siok Koon</p></td>
-<td><p>Northbrooks Secondary School</p></td>
+<td><p>Mdm Cher Xin Joo</p></td>
+<td><p>Palm View Primary School</p></td>
 </tr>
 <tr>
 <td><p>Ms Koh WenYu</p></td>
@@ -211,6 +228,10 @@ image: /images/FaviconLight.png
 <tr>
 <td><p>Mr Wong Chin Wei Aaron</p></td>
 <td><p>Seng Kang Primary School</p></td>
+</tr>
+<tr>
+<td><p>Mrs Vanessa Low Jing Wen</p></td>
+<td><p>Seng Kang Secondary School</p></td>
 </tr>
 <tr>
 <td><p>Mdm Chew Si Min</p></td>
@@ -277,10 +298,6 @@ image: /images/FaviconLight.png
 <td><p>West Grove Primary School</p></td>
 </tr>
 <tr>
-<td><p>Mr Oh Jin Sheng</p></td>
-<td><p>Woodlands Ring Secondary School</p></td>
-</tr>
-<tr>
 <td><p>Mdm Sim Hwee Jian</p></td>
 <td><p>Xinghua Primary School</p></td>
 </tr>
@@ -293,10 +310,6 @@ image: /images/FaviconLight.png
 <td><p>Yishun Primary School</p></td>
 </tr>
 <tr>
-<td><p>Mdm Cher Xin Joo</p></td>
-<td><p>Yishun Primary School</p></td>
-</tr>
-<tr>
 <td><p>Mdm Lu Jia</p></td>
 <td><p>Yuhua Primary School</p></td>
 </tr>
@@ -305,10 +318,17 @@ image: /images/FaviconLight.png
 <td><p>Yuhua Primary School</p></td>
 </tr>
 <tr>
+<td><p>Mr Chan Xiao Yi</p></td>
+<td><p>Yusof Ishak Secondary School</p></td>
+</tr>
+<tr>
+<td><p>Mdm Lee Kim Kim</p></td>
+<td><p>Yishun Primary School</p></td>
+</tr><tr>
 <td><p>Ms Yeo Yah Hwee June</p></td>
 <td><p>Zhonghua Secondary School</p></td>
 </tr>  
-</thead></table>
+</tbody></table>
 <br>
 <table>
 <thead>
@@ -344,6 +364,22 @@ image: /images/FaviconLight.png
 </tr>
 <tr>
 <td>
+<p>Mrs Theophilia Yong</p>
+</td>
+<td>
+<p>MOE HQ - ETD (AIEd Office)</p> 
+</td>
+</tr>
+<tr>
+<td>
+<p>Ms Li Huili</p>
+</td>
+<td>
+<p>MOE HQ - ETD (SLS Office)</p> 
+</td>
+</tr>
+<tr>
+<td>
 <p>Mr Foo Chwan Soon (Clive)</p>
 </td>
 <td>
@@ -352,26 +388,10 @@ image: /images/FaviconLight.png
 </tr>
 <tr>
 <td>
-<p>Mrs Theophilia Yong</p>
-</td>
-<td>
-<p>Teck Whye Secondary School</p> 
-</td>
-</tr>
-<tr>
-<td>
 <p>Ms Tan Si Hua</p>
 </td>
 <td>
 <p>West Grove Primary School</p> 
-</td>
-</tr>
-<tr>
-<td>
-<p>Ms Li Huili</p>
-</td>
-<td>
-<p>Westwood Primary School</p> 
 </td>
 </tr>
 <tr>
