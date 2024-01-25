@@ -64,7 +64,7 @@ variant: markdown
 <ol>
 <li><strong>Who can users contact for technical support?</strong></li>
 </ol>
-<p>For assistance on login and browser issues, users are advised to refer to the <a target="_blank" href="/login-troubleshooting/authentication/log-in-with-mims-student/">Login Self-Help for Students</a>.</p>
+<p>For assistance on login and browser issues, users are advised to refer to the <a target="_blank" href="/login-troubleshooting/authentication/login-with-mims-student/">Login Self-Help for Students</a>.</p>
 <ol>
 <li><strong>Will students need additional hardware / internet subscription to access the SLS?</strong></li>
 </ol>
