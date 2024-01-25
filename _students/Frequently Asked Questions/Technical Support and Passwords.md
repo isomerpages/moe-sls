@@ -73,7 +73,7 @@ variant: markdown
 <hr>
 <ol>
 <li><p><strong>What can students do if they forget their passwords?</strong></p>
-<p> Students can go to the <a target="_blank" href="/login-troubleshooting/authentication/log-in-with-mims-student/">Login Self-Help for Students</a> for self-help tips</p>
+<p> Students can go to the <a target="_blank" href="/login-troubleshooting/authentication/login-with-mims-student/">Login Self-Help for Students</a> for self-help tips</p>
 <p> There are steps on this page to guide students on what to do if they have forgotten their username, password, or if their account has been locked.</p>
 <p> Here is a poster for students on how to troubleshoot login issues.</p>
 </li>
