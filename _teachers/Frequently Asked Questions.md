@@ -38,7 +38,7 @@ variant: markdown
 <ol><li><p><strong>What are the technical requirements for devices to access the SLS?</strong> <br></p>
 <p> The Student Learning Space (SLS) is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices.</p>
 <p> Note: Due to the responsive nature of the site, the layout of the components on the website will appear differently on different devices.</p>
-<p> The recommended operating systems and browsers as at 7 June 2023 are as follows:</p></li>
+<p> The recommended operating systems and browsers as at 6 December 2023 are as follows:</p></li>
 <table><tbody><tr>
 <th>Operating System</th>
 <th>Browsers</th></tr>
