@@ -1210,7 +1210,7 @@ Others:
 <td>Fuchun Secondary School</td>
 <td>
 Tel: 63681984
-<br>Email: ict@fcs.edu.sg
+<br>Email: fcss@moe.edu.sg
 <br>
 Others:
 
