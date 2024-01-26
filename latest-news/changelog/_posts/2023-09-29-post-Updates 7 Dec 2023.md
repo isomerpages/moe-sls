@@ -5,6 +5,7 @@ date: 2023-09-29
 layout: post
 description: ""
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Updates 7 December 2023</h1>
 <p>This list details the changes users can expect in the upcoming SLS Release 20, which will be rolled out on 7 December 2023. Please note that SLS will be unavailable from 6 December 00:00 to 7 December 23:00 to facilitate this release.</p>
@@ -306,7 +307,7 @@ Features for All Users</h2>
 </details>
 <details><summary><h4>Password Reset</h4></summary>
 <ol>
-<li>Form Teachers are able to reset passwords for students in their form classes.</li>
+<li>Form Teachers who are teaching their form class can reset the passwords of students in their form class.</li>
 </ol>
 </details>
 <h2><img style="width:3rem; display: inline;" src="/images/Icons/Star.svg">Features for Students</h2>

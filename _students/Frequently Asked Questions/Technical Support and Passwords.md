@@ -23,7 +23,7 @@ variant: markdown
 <li><p><strong>What are the technical requirements for devices to access the SLS?</strong></p>
 <p>  The Student Learning Space (SLS) is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices.</p>
 <p>  Note: Due to the responsive nature of the site, the layout of the components on the website will appear differently on different devices.</p>
-<p>  The recommended operating systems and browsers' requirements as at 7 June 2023 are as follows:</p>
+<p>  The recommended operating systems and browsers' requirements as at 6 December 2023 are as follows:</p>
 </li>
 </ol>
 <table>
@@ -64,7 +64,7 @@ variant: markdown
 <ol>
 <li><strong>Who can users contact for technical support?</strong></li>
 </ol>
-<p>For assistance on login and browser issues, users are advised to refer to the <a target="_blank" href="/login-troubleshooting/authentication/log-in-with-mims-student/">Login Self-Help for Students</a>.</p>
+<p>For assistance on login and browser issues, users are advised to refer to the <a target="_blank" href="/login-troubleshooting/authentication/login-with-mims-student/">Login Self-Help for Students</a>.</p>
 <ol>
 <li><strong>Will students need additional hardware / internet subscription to access the SLS?</strong></li>
 </ol>
@@ -73,7 +73,7 @@ variant: markdown
 <hr>
 <ol>
 <li><p><strong>What can students do if they forget their passwords?</strong></p>
-<p> Students can go to the <a target="_blank" href="/login-troubleshooting/authentication/log-in-with-mims-student/">Login Self-Help for Students</a> for self-help tips</p>
+<p> Students can go to the <a target="_blank" href="/login-troubleshooting/authentication/login-with-mims-student/">Login Self-Help for Students</a> for self-help tips</p>
 <p> There are steps on this page to guide students on what to do if they have forgotten their username, password, or if their account has been locked.</p>
 <p> Here is a poster for students on how to troubleshoot login issues.</p>
 </li>
