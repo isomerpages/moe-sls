@@ -322,9 +322,6 @@ variant: markdown
 <td><p>Yusof Ishak Secondary School</p></td>
 </tr>
 <tr>
-<td><p>Mdm Lee Kim Kim</p></td>
-<td><p>Yishun Primary School</p></td>
-</tr><tr>
 <td><p>Ms Yeo Yah Hwee June</p></td>
 <td><p>Zhonghua Secondary School</p></td>
 </tr>  
