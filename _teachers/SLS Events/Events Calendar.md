@@ -48,7 +48,7 @@ variant: markdown
                 <p>6 Mar</p>
                 <p>8 Mar</p>
                 <p>11 Mar</p>
-                <p>11 <br>to<br> 15 Mar</p>
+                <p>11 Mar<br>to<br> 15 Mar</p>
             </td>
             <!--2nd column-->
             <td>
@@ -91,7 +91,7 @@ variant: markdown
             <!--1st column-->
             <td>
                 <p>7 Jun</p>
-                <p>17 <br>to<br> 28 Jun</p>
+                <p>17 Jun<br>to<br> 28 Jun</p>
             </td>
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
@@ -123,7 +123,7 @@ variant: markdown
         <tr>
             <!--1st column-->
             <td>
-                <p>2 <br>to<br> 6 Sep</p>
+                <p>2 Sep<br>to<br> 6 Sep</p>
                 <p>6 Sep</p>
             </td>
             <!--2nd column-->
@@ -147,7 +147,7 @@ variant: markdown
         <tr>
             <!--1st column-->
             <td>
-                <p>18 <br>to<br> 29 Nov</p>
+                <p>18 Nov<br>to<br> 29 Nov</p>
                 <p>22 Nov</p>
                 <p>27 Nov</p>
                 <p>29 Nov</p>
