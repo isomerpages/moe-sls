@@ -52,7 +52,7 @@ variant: markdown
             </td>
             <!--2nd column-->
             <td>
-                <p>External Partners Engagement Session</p>
+                <p>SLS Partners Engagement Session</p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
