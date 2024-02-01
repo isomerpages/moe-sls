@@ -156,7 +156,7 @@ variant: markdown
             <td>
                 <p><a target="_blank" href="https://go.gov.sg/sls-level1-course">SLS Level 1 Certification</a></p>
                 <p><a target="_blank" href="https://go.gov.sg/sls-level2-course-organise">SLS Level 2 – Organise Certification</a></p>
-                <p>Learning Journey at SLS@Grange (<a target="_blank" href="https://www.learning.moe.edu.sg/teachers/sls-events/visit-sls-grange/">Register here</a></p>
+                <p>Learning Journey at SLS@Grange (<a target="_blank" href="https://www.learning.moe.edu.sg/teachers/sls-events/visit-sls-grange/">Register here)</a></p>
                 <p>Release 2</p>
                 <p>Learning Journey at SLS@Grange (<a target="_blank" href="https://www.learning.moe.edu.sg/teachers/sls-events/visit-sls-grange/">Register here)</a></p>
             </td>
