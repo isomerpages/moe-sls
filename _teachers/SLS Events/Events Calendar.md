@@ -77,13 +77,11 @@ variant: markdown
             <!--1st column-->
             <td>
                 <p>3 May</p>
-                <p>19 May</p>
                 <p>May</p>
             </td>
             <!--2nd column-->
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)&nbsp;</p>
-                <p>Release 1</p>
                 <p>SgLDC Livestream: Session 3</p>
             </td>
         </tr>
@@ -92,10 +90,12 @@ variant: markdown
             <td>
                 <p>7 Jun</p>
                 <p>17 Jun<br>to<br> 28 Jun</p>
+<p>19 Jun</p>
             </td>
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p><a target="_blank" href="https://go.gov.sg/sls-level1-course">SLS Level 1 Certification</a><br><br><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/sls-level2-course-organise">SLS Level 2 - Organise Certification</a></p>
+<p>Release 1</p>
             </td>
         </tr>
         <tr>
