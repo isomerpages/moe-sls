@@ -29,5 +29,13 @@ variant: markdown
 <p>
 </p><ol><u>Supporting Resources</u>:
 <li>We are currently using an external service to power FA-Math. To learn more about creating FA-Math questions and the different question types that are supported, click on the resource link <a target="_blank" href="https://help.algebrakit.com/">here</a>.</li>
-<li>Alternatively, you may search #FA_Math in SLS Community Library for sample questions from our question bank which you can adapt for your own lessons.</li>
+	<li>View the <strong> step-by-step video guides </strong><a target="_blank" href="http://go.gov.sg/fa-math-playlist">here</a> to learn how to craft specific FA-Math question types.</li>
+	<li>A <strong> question bank </strong> comprising FA-Math sample questions is available in the SLS Community Gallery&nbsp;that teachers can readily use.</li>
+	<ul>
+<li><p> <a target="_blank" href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/a75ead9c-fa65-4eb7-a133-7b3f27f8b4fd/cover">Numbers and their Operations (Secondary)</a></p></li>
+<li><p> <a target="_blank" href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/9e62f64c-f8df-4fc2-96fc-63703ad17867/cover">Percentage (Secondary)</a></p></li>
+<li><p> <a target="_blank" href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/e411be5e-0ce1-42ac-87de-0b0684d930e6/cover">Secondary Algebraic Expressions and Formula (Secondary)</a></p></li>
+<li><p> <a target="_blank" href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3cbe52d8-729e-42e3-b188-9c0113c79103/cover">Fractions (Primary)</a></p></li></ul>
+	<p> More questions will be uploaded on Community Gallery once they are available. You may also search <strong> #FA_Math </strong> in SLS Community Library for sample questions. </p>
+
 </ol>
