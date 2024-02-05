@@ -77,7 +77,7 @@ variant: markdown
   </tbody>
 </table>
 
-<p>The lesson package will be uploaded onto a MOE learning portal, which is password-protected and accessible by employees/staff of MOE, teachers and students, as well as any other MOE authorised persons (collectively MOE’s Authorised Users). These Authorised Users may access the portal outside of Singapore.</p>
+<p>The lesson package will be uploaded onto an MOE learning portal, which is password-protected and accessible by employees/staff of MOE, teachers and students, as well as any other MOE authorised persons (collectively MOE’s Authorised Users). These Authorised Users may access the portal outside of Singapore.</p>
 <p>Please advise us on the terms and conditions for such use, as well as any preference in our acknowledgement of the materials used. We would also appreciate if you are able to send us a high-res/high quality copy of the image/video/audio, preferably at least resolution/bit rate/kbps after we have agreed on the terms of the licence. If you do not hold the rights to the image/text/etc, or if permission from other copyright owners are required before we can reproduce it, we would be grateful if you could provide us with the contact details of the copyright owner.</p>
 <p>We look forward to receiving your favourable reply. Thank you.</p>
 <p><strong>Name and Designation</strong></p>
