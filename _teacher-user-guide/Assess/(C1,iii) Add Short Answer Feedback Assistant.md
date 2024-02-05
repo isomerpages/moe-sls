@@ -36,6 +36,6 @@ third_nav_title: Assess
 </ol>
 
 <ol><u>Supporting Resources</u>:
-<li>View this <a target="_blank" href="https://youtu.be/8Hk7AWibNhI">video</a> to learn how to craft ShortAnsFA questions. </li>
+<li>View this <a target="_blank" href="https://www.youtube.com/watch?v=VK_RwJeY-Yc">video</a> to learn how to craft ShortAnsFA questions. </li>
 	<li>Tips on how to use ShortAnsFA will be made available soon.</li>
  </ol>
