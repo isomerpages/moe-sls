@@ -1958,7 +1958,7 @@ Others:
 <td>Nan Chiau High School</td>
 <td>
 Tel: 64897971
-<br>Email: support@nchs.edu.sg
+<br>Email: nchs@moe.edu.sg
 <br>
 Others:
 
