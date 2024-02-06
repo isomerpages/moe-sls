@@ -7,7 +7,7 @@ variant: markdown
 ---
 <h1 class="page-title">(B2) Embed Whitelisted Websites</h1>
 <p>To identify the newly whitelisted websites, press Ctrl+F and type "NEW!" in the search bar.</p>
-<p>Schools are advised to be mindful of age advisories (e.g. For ChatGPT, parental consent is required for children between 13 to 18) and the <a href="https://intranet.moe.gov.sg/etd/Pages/tfl_product_programmes_resources.aspx/" target="_blank">MOE AIEd Ethics Framework</a> (requires access to MOE Intranet) when using sites with AI affordances.</p>
+<p>Schools are advised to be mindful of age advisories (e.g. For ChatGPT, explicit parental consent is required for children between 13 to 18) and the <a href="https://intranet.moe.gov.sg/etd/Pages/tfl_product_programmes_resources.aspx/" target="_blank">MOE AIEd Ethics Framework</a> (requires access to MOE Intranet) when using sites with AI affordances.</p>
 <p> If you have difficulties embedding whitelisted URL(s) in SLS lessons, you may&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>.</p>
 <p><u>Note</u>: If you are unable to embed a website, the website may have been <a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">removed from whitelisting</a>.</p>
 <h2 class="section-title">Whitelisted Websites and URLs (Using Site URL)</h2>
@@ -232,6 +232,7 @@ https://classpad.net
 https://www.classpoint.app
 </td>
 </tr>
+<!--
 <tr><td><strong>Classroom Screen</strong></td>
 <td>Educational Tools and Resources</td>
 <td>
@@ -240,6 +241,7 @@ https://app.classroomscreen.com
 https://classroomscreen.com
 </td>
 </tr>
+-->
 <tr><td><strong>CNN</strong></td>
 <td>News Resources</td>
 <td>
@@ -332,12 +334,14 @@ https://www.education.com
 https://www.elementari.com
 </td>
 </tr>
+<!--
 <tr><td><strong>Elicit</strong></td>
 <td>AI Tool</td>
 <td>
 https://elicit.org
 </td>
 </tr>
+-->
 <tr><td><strong>European Environment Agency</strong></td>
 <td>Resource site</td>
 <td>
@@ -586,12 +590,14 @@ https://www.kialo-edu.com
 https://learn.genetics.utah.edu
 </td>
 </tr>
+<!--
 <tr><td><strong>Linoit</strong></td>
 <td>Collaboration Tool</td>
 <td>
 https://www.linoit.com
 </td>
 </tr>
+-->
 <tr><td><strong>Makecode</strong></td>
 <td>Coding Platform</td>
 <td>
@@ -775,12 +781,14 @@ https://iwant2study.org
 https://www.opinionstage.com
 </td>
 </tr>
+<!--
 <tr><td><strong>Ottodot</strong></td>
 <td>Gamefied Learning Tool</td>
 <td>
 https://platform.ottodot.com
 </td>
 </tr>
+-->
 <tr><td><strong>Parlay</strong></td>
 <td>Collaboration Tool</td>
 <td>
@@ -1237,12 +1245,14 @@ https://wordwall.net
 https://www.wordwall.net
 </td>
 </tr>
+<!--
 <tr><td><strong>Writeabout</strong></td>
 <td>Writing Tool</td>
 <td>
 https://www.writeabout.com
 </td>
 </tr>
+-->
 <tr><td><strong>Ximalaya</strong></td>
 <td>Audio Resources</td>
 <td>
@@ -1595,6 +1605,8 @@ https://asrjc.padlet.org
 <br>
 https://assumptionenglish.padlet.org
 <br>
+https://bartleysecondaryschool.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://beattysecondary.padlet.org
 <br>
 https://bedokgreenprimarysch.padlet.org
@@ -1848,12 +1860,14 @@ https://wall.sli.do
 https://soundcloud.com
 </td>
 </tr>
+<!--
 <tr><td><strong>Spiral</strong></td>
 <td>Integrated Teaching Tool</td>
 <td>
 https://spiral.ac
 </td>
 </tr>
+-->
 <tr><td><strong>Stornaway.io</strong></td>
 <td>Interactive Storytelling Tool</td>
 <td>
@@ -1901,8 +1915,10 @@ https://www.ventusky.com
 <tr><td><strong>Vidyard</strong></td>
 <td>Online Video Tool</td>
 <td>
+<!--
 https://play.vidyard.com
 <br>
+-->
 https://share.vidyard.com
 </td>
 </tr>
