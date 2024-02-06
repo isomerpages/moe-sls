@@ -36,6 +36,6 @@ variant: markdown
 <li><p> <a target="_blank" href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/9e62f64c-f8df-4fc2-96fc-63703ad17867/cover">Percentage (Secondary)</a></p></li>
 <li><p> <a target="_blank" href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/e411be5e-0ce1-42ac-87de-0b0684d930e6/cover">Secondary Algebraic Expressions and Formula (Secondary)</a></p></li>
 <li><p> <a target="_blank" href="https://vle.learning.moe.edu.sg/community-gallery/lesson/view/3cbe52d8-729e-42e3-b188-9c0113c79103/cover">Fractions (Primary)</a></p></li></ul>
-	<p> More questions will be uploaded on Community Gallery once they are available. You may also search <strong> #FA_Math </strong> in SLS Community Library for sample questions. </p>
+	<p> More questions will be uploaded on Community Gallery once they are available. You may also search <strong> #FA_Math </strong> in the SLS Community Library for sample questions. </p>
 
 </ol>
