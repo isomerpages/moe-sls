@@ -1346,18 +1346,6 @@ Tel: 63666158
 <br>
 Others: <a href="http://go.gov.sg/slsgwps">Google Form</a>
 
-
-</td>
-</tr>
-<tr>
-<td>Guangyang Primary School</td>
-<td>
-Tel: 62508713
-<br>Email: gypspd@yahoo.com
-<br>
-Others:
-
-
 </td>
 </tr>
 <tr>
@@ -1958,7 +1946,7 @@ Others:
 <td>Nan Chiau High School</td>
 <td>
 Tel: 64897971
-<br>Email: support@nchs.edu.sg
+<br>Email: nchs@moe.edu.sg
 <br>
 Others:
 
