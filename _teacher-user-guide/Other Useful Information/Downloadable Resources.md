@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/other-useful-information/downloadable-resources/
 description: ""
 third_nav_title: Other Useful Information
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="downloadable-resources-to-be-updated-directly-on-html-">Downloadable Resources</h1>
 
@@ -18,17 +19,7 @@ image: /images/FaviconLight.png
     <tr>
       <td><p><a target="_blank" href="/teacher-user-guide/author/manage-lessons/">Manage Lessons</a></p></td>
       <td><a download="" href="/files/Userguide/Downloadable%20Resources/Lesson-Navigation-ePoster.pdf"><img style="width: 50%;" src="/images/2Teacher/Downloadable%20Resources/Lesson-Navigation-ePoster.png"></a></td>
-    </tr>
-    <tr>
-      <td><p><a target="_blank" href="/teacher-user-guide/author/add-components/">Add Components</a></p>
-<p><a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">Create Quizzes</a></p></td>
-      <td><a download="" href="/files/Userguide/Downloadable%20Resources/LessonStructure.pdf"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/LessonStructure.png"></a></td>
-    </tr>
-    <tr>
-      <td><p><a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/">Monitor Students' Responses in an Assignment</a></p>
-<p><a target="_blank" href="/teacher-user-guide/assess/annotate-underline-students-responses/">Annotate (Underline)  Students' Responses</a></p></td>
-      <td><a download="" href="/files/Userguide/Downloadable%20Resources/MonitoringAssignmentsInfographic.pdf"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/MonitoringAssignmentsInfographic.png"></a></td>
-    </tr>
+		</tr>
     <tr>
       <td><p><a target="_blank" href="/student-user-guide/assess/attempt-an-audio-response-question/">Attempt an Audio-Response Question</a></p></td>
       <td><a download="" href="/files/Userguide/Downloadable%20Resources/AudioVideoFile-Submission.pdf"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/AudioVideoFile-Submission.png"></a></td>
@@ -36,10 +27,6 @@ image: /images/FaviconLight.png
     <tr>
       <td><p><a target="_blank" href="/teacher-user-guide/publish/copyright-guidelines-for-submission/">Copyright Guidelines for Submission</a></p></td>
       <td><a download="" href="/files/Userguide/Downloadable%20Resources/CopyrightGuidelineGraphic.pdf"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/CopyrightGuidelineGraphic.png"></a></td>
-    </tr>
-    <tr>
-      <td><p><a target="_blank" href="/teacher-user-guide/author/create-new-lessons/">Create a Lesson</a></p></td>
-      <td><a download="" href="/files/Userguide/Downloadable%20Resources/LessonCreation.pdf"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/LessonCreation.png"></a></td>
     </tr>
     <tr>
       <td><p>Enable Pop-ups</p></td>
