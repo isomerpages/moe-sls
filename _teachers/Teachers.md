@@ -28,11 +28,14 @@ Looking for new ways to support your students’ learning? Student Learning Spac
 <hr>
 <ul><li><a target="_blank" href="/teachers/sls-professional-development/teaching-and-learning-with-sls/">Teaching and Learning with SLS</a></li>
 <li><a target="_blank" href="/teachers/sls-professional-development/epedagogy-one-stop-site/">EPedagogy One Stop Site</a> (requires OPAL Login)</li>
-<li><a target="_blank" href="/teachers/sls-professional-development/sgldc-livestreams/">SgLDC Livestreams</a></li></ul>
+<li><a target="_blank" href="/teachers/sls-professional-development/sgldc-livestreams/">SgLDC Livestreams</a></li>
+<li><a target="_blank" href="/teachers/sls-professional-development/sls-subject-guides/">SLS Subject Guides</a></li></ul>
 <h2 id="sls-professional-development">SLS Superhero Quiz</h2>
 <hr>
 <ul><li><a target="_blank" href="/teachers/sls-superhero-quiz/index/">SLS Superhero Quiz</a></li></ul>
 <p></p><h2 id="sls-professional-development">SLS Events</h2>
 <hr>
-<ul><li><a target="_blank" href="/teachers/sls-events/events-calendar/">Events Calendar</a></li>
+<ul>
+<li><a target="_blank" href="/teachers/sls-events/visit-sls-grange/">Visit SLS@Grange</a></li>
+	<li><a target="_blank" href="/teachers/sls-events/events-calendar/">Events Calendar</a></li>
 <li><a target="_blank" href="/teachers/sls-events/friends-of-sls/">Friends of SLS</a></li></ul>
