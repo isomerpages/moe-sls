@@ -18,3 +18,7 @@ considerations are built into them by design, all students have equitable
 access and additional guardrails are deployed for students to have a safe
 learning experience.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="overview of AI features in SLS" src="/images/AI in Education/AI_in_SLS__overview_.png">
+</div>
+<p></p>
