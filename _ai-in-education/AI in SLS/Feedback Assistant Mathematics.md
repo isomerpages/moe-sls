@@ -7,9 +7,10 @@ image: /images/FaviconLight.png
 third_nav_title: AI in SLS
 ---
 <h1>Feedback Assistant - Mathematics</h1>
-<p>LangFA-EL supports students'&nbsp;writing process by providing feedback
-to students' writing in basic areas like spelling, grammar and syntax.</p>
-<h2>How does LangFA-EL enhance teaching and learning?</h2>
+<p>FA-Math is a rules-based engine that offers step-by-step hints and feedback
+to students’ workings, and suggested marks. It can generate randomised
+questions and support many question types including for geometry and graphs.</p>
+<h2>How does FA-Math enhance teaching and learning?</h2>
 <table>
 <tbody>
 <tr>
@@ -20,10 +21,10 @@ to students' writing in basic areas like spelling, grammar and syntax.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Provides differentiation</strong>
+<p><strong>Provides line-by-line hints and feedback</strong>
 </p>
-<p>by recommending learning modes, resources, practice questions and&nbsp;offering
-immediate feedback based on students’ readiness.</p>
+<p>by analysing each step of a student’s working and offering customised
+&nbsp;hints and feedback.</p>
 </td>
 </tr>
 <tr>
@@ -34,11 +35,10 @@ immediate feedback based on students’ readiness.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Enables self-directed learning</strong>
+<p><strong>Supports authoring of different question types</strong>
 </p>
-<p>where students can access ALS on their own to learn. They can set targets
-and ALS offers encouraging messages to motivate them based on their responses
-to questions.</p>
+<p>by allowing teachers to design a diverse range of question types for students
+to demonstrate understanding and reinforce learning.&nbsp; ​</p>
 </td>
 </tr>
 <tr>
@@ -49,25 +49,25 @@ to questions.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Supports monitoring of progress</strong>
+<p><strong>Multiplies teachers' capacities</strong>
 </p>
-<p>through the Learning Progress Dashboard which provides teachers with a
-summary of students’ concept mastery to inform their interventions which
-will help them close students' learning gaps.</p>
+<p>by allowing teachers to spend more time with students and provide targeted
+support to advance learning​, with its ability to generate questions with
+randomised variables and automate grading and provision of hints and feedback.</p>
 </td>
 </tr>
 </tbody>
 </table>
 <h2>Educator Resources</h2>
 <hr>
-<p>SLS User Guide (UG) which includes e-Pedagogy guide and e-Poster:</p>
+<p>SLS User Guide (UG) which includes e-Poster:</p>
 <ul>
 <li>
-<p><a href="https://go.gov.sg/sls-guide-about-als" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
+<p><a href="https://go.gov.sg/sls-guide-add-fa-math" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/sls-guide-access-als" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
+<p><a href="https://go.gov.sg/sls-guide-about-fa-math" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
 </p>
 </li>
 </ul>
