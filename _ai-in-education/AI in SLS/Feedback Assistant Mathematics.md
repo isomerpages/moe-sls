@@ -60,12 +60,16 @@ randomised variables and automate grading and provision of hints and feedback.</
 </table>
 <h2>Educator Resources</h2>
 <hr>
-<p>SLS User Guide (UG) which includes e-Poster:</p>
+<p>Teachers User Guide (UG) which includes step-by-step videos, sample questions
+and e-Poster:</p>
 <ul>
 <li>
 <p><a href="https://go.gov.sg/sls-guide-add-fa-math" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
 </p>
 </li>
+</ul>
+<p>Students User Guide (UG):</p>
+<ul>
 <li>
 <p><a href="https://go.gov.sg/sls-guide-about-fa-math" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
 </p>
