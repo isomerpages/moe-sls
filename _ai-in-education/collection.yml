@@ -1,4 +1,5 @@
 collections:
   ai-in-education:
     output: true
-    order: []
+    order:
+      - Responsible AI/.keep
