@@ -59,7 +59,7 @@ will help them close students' learning gaps.</p>
 </table>
 <h2>Educator Resources</h2>
 <hr>
-<p>Teachers User Guide (UG) which includes e-Pedagogy guide and e-Poster:</p>
+<p>Teachers User Guide (UG) which includes a step-by-step video and e-Poster:</p>
 <ul>
 <li>
 <p><a href="https://go.gov.sg/sls-guide-about-als" rel="noopener noreferrer nofollow" target="_blank"><u>UG for teachers</u></a>
