@@ -7,6 +7,12 @@ image: /images/FaviconLight.png
 third_nav_title: News Articles
 ---
 <h1>News Articles</h1>
+<h4><a href="https://www.channelnewsasia.com/singapore/chatgpt-schools-singapore-teachers-students-4109836" rel="noopener noreferrer nofollow" target="_blank"><u>ChatGPT is making its presence felt in classrooms. Here's how schools in Singapore are harnessing it</u></a></h4>
+<p>With a generative AI chatbot like ChatGPT, the temptation to use it to
+write the perfect essay is real. However, find out how teachers in Singapore
+steer students away from plagiarism and towards self-directed learning.</p>
+<p>Channel News Asia, Published: 12 Feb 2024</p>
+<hr>
 <h4><a href="https://www.straitstimes.com/singapore/politics/students-are-taught-to-use-ai-ethically-and-responsibly-at-different-levels-chan-chun-sing" rel="noopener noreferrer nofollow" target="_blank"><u>Students are taught to use AI ethically and responsibly at different levels: Chan Chun Sing</u></a></h4>
 <p>Beyond technical skills, schools equip students to use artificial intelligence
 (AI) ethically and give them varying levels of exposure according to their
