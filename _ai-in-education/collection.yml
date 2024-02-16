@@ -2,6 +2,7 @@ collections:
   ai-in-education:
     output: true
     order:
+      - AI in SLS/Short Answer Feedback Assistant.md
       - AI in SLS/Feedback Assistant Mathematics.md
       - AI in SLS/Language Feedback Assistant for English.md
       - AI in SLS/Adaptive Learning System.md
