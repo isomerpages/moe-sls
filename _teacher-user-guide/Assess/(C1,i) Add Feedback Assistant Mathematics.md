@@ -29,7 +29,7 @@ variant: markdown
 <p>
 </p><ol><u>Supporting Resources</u>:
 <li>We are currently using an external service to power FA-Math. To learn more about creating FA-Math questions and the different question types that are supported, click on the resource link <a target="_blank" href="https://help.algebrakit.com/">here</a>.</li>
-<li><p>This <a target="_blank" href="go.gov.sg/fa-math-eposter">e-Poster</a> highlights key features of FA-Math.</p></li>
+<li><p>This <a target="_blank" href="https://go.gov.sg/fa-math-eposter">e-Poster</a> highlights key features of FA-Math.</p></li>
 	<li>View the <strong> step-by-step video guides </strong><a target="_blank" href="http://go.gov.sg/fa-math-playlist">here</a> to learn how to craft specific FA-Math question types.</li>
 	<li>A <strong> question bank </strong> comprising FA-Math sample questions is available in the SLS Community Gallery&nbsp;that teachers can readily use.</li>
 	<ul>
