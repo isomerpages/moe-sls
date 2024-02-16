@@ -12,7 +12,7 @@ safe and responsible development, governance and deployment of AI&nbsp;systems
 for teaching and learning. The framework is organised around the four ethical
 principles of <strong>Agency</strong>, <strong>Inclusivity</strong>, <strong>Fairness</strong> and <strong>Safety</strong>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ethics principles, agency, fairness, safety, inclusivity" src="/images/AI in Education/ethics_principles.png">
+<img style="width: 100%" height="auto" width="100%" alt="ethics principles, safety, inclusivity, agency, fairness" src="/images/AI in Education/ethics_principles.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="ethics risk mitigation guidelines" src="/images/AI in Education/ethics_riskmitigation1.png">
