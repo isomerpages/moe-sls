@@ -2,5 +2,6 @@ collections:
   ai-in-education:
     output: true
     order:
+      - News Articles/.keep
       - AI in SLS/.keep
       - Responsible AI/.keep
