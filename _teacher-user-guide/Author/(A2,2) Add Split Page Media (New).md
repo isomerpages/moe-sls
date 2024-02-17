@@ -27,11 +27,12 @@ third_nav_title: Author
 <p>Each slide will be converted to an image in a page within the activity.</p>
 <ol>
 <li>After you upload the file, you may choose to split-page all the PowerPoint slides or choose a range of slides to be split.
-</li><li>Click <b>OK</b> to proceed.
-</li>
+</li><li>Click <b>OK</b> to proceed.</li>
 <li><p>Please note the following limitations:</p></li>
 <ul>
-<li>Supported Fonts:<ul>
+	<li>Chinese and Tamil characters are not supported.</li>
+<li>Supported Fonts:
+<ul>
 <li>Bitstream Charter</li>
 <li>Century Schoolbook L</li>
 <li>Courier 10 Pitch</li>
