@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Teachers.md
-      - Friends of SLS.md
       - Feature Highlights/.keep
       - Feature Highlights/2024 Sem 1.md
       - Feature Highlights/2023 Sem 2.md
