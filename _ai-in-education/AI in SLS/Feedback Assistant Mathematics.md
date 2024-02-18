@@ -15,9 +15,8 @@ questions and support many question types including for geometry and graphs.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/favicon-isomer.ico">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_marking.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -29,9 +28,8 @@ questions and support many question types including for geometry and graphs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/favicon-isomer.ico">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_files.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -43,9 +41,8 @@ to demonstrate understanding and reinforce learning.&nbsp; ​</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/favicon-isomer.ico">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_teacher.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
