@@ -20,7 +20,7 @@ and Fractions. More topics, levels and subjects will be added progressively.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_media.png">
+<img style="width: 100%" height="10" width="100%" alt="" src="/images/AI in Education/icon_media.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -33,7 +33,7 @@ immediate feedback based on students’ readiness.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_question.png">
+<img style="width: 100%" height="100" width="100%" alt="" src="/images/AI in Education/icon_question.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
