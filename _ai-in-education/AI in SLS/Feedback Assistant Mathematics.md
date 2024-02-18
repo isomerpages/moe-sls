@@ -16,12 +16,17 @@ questions and support many question types including for geometry and graphs.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_marking.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Provides line-by-line hints and feedback</strong>
 </p>
 <p>by analysing each step of a student’s working and offering customised
 &nbsp;hints and feedback.</p>
+<p></p>
+<p></p>
 </td>
 </tr>
 <tr>
