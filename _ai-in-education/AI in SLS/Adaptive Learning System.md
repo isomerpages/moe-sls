@@ -19,8 +19,9 @@ and Fractions. More topics, levels and subjects will be added progressively.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p>Image</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_media.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Provides differentiation</strong>
@@ -31,8 +32,9 @@ immediate feedback based on students’ readiness.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p>Image</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_question.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Enables self-directed learning</strong>
@@ -44,8 +46,9 @@ to questions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
-<p>Image</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_chart.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Supports monitoring of progress</strong>
