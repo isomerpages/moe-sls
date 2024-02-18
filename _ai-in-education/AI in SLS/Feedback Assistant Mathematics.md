@@ -46,7 +46,7 @@ to demonstrate understanding and reinforce learning.&nbsp; ​</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Multiplies teachers' capacities</strong>
+<p><strong>Redirects time to other T&amp;L activities</strong>
 </p>
 <p>by allowing teachers to spend more time with students and provide targeted
 support to advance learning​, with its ability to generate questions with
