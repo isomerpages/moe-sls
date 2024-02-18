@@ -21,4 +21,11 @@ variant: markdown
 <img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning05.png" style="width: 100%;">
 <li>At the end of the session, students can view their own learning progress and decide what topics to learn next.</li>
 <img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning06.png" style="width: 100%;">	
-</ol>
+
+	       
+
+<ol><u>Supporting Resources</u>:
+
+<li>View this <a target="\_blank" href="http://www.go.gov.sg/als-video-guide-student">video</a> for a step-by-step guide on accessing ALS.
+
+</li></ol></ol>
