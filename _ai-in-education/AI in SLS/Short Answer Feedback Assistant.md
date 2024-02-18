@@ -10,6 +10,9 @@ third_nav_title: AI in SLS
 <p>ShortAnsFA provides suggested grades and auto-generated content-related
 feedback for close-ended, short answer questions with well-defined mark
 schemes for any subject and level.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gQcWscdqvOw?si=LKGFYM1A7pd_tNET"></iframe>
+</div>
 <h2>How does ShortAnsFA enhance teaching and learning?</h2>
 <table>
 <tbody>
@@ -65,14 +68,14 @@ to advance learning.</p>
 step-by-step video:</p>
 <ul>
 <li>
-<p><a href="https://go.gov.sg/sls-guide-add-langfa-el" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
+<p><a href="https://go.gov.sg/sls-guide-add-shortansfa" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
 </p>
 </li>
 </ul>
 <p>Students User Guide (UG):</p>
 <ul>
 <li>
-<p><a href="https://go.gov.sg/sls-guide-about-langfa-el" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
+<p><a href="https://go.gov.sg/sls-guide-about-shortansfa" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
 </p>
 </li>
 </ul>
