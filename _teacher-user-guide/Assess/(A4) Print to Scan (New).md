@@ -45,7 +45,7 @@ third_nav_title: Assess
 <img alt="Print-to-Scan" style="width: 80%;" src="/images/2Teacher/AS_Printtoscan3.png">
 <h2>Scanning Quiz Response Sheets</h2>
 <hr>
-<p>Here are some tips for scanning: </p>
+<p><b>Important</b>: </p>
 <ul><li>
 	<p>You are encouraged to scan files in bulk using photocopiers or scanners.</p></li>
 	<li>Each sheet should be saved as an image file (e.g. jpeg, jpg or png). Do not use PDF. </li>
