@@ -36,7 +36,8 @@ third_nav_title: Assess
 <ol>
 <li>From the View as Print-to-Scan Quiz subpage, click on <strong>View Response Sheets</strong>.</li>
 <li>In the new tab, click on the Settings icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the right side.</li>
-<li>On the Response Sheets Settings subpage, you can do the following:<ol>
+<li>On the Response Sheets Settings subpage, you can do the following:
+	<ol>
 <li>Select Students to view their personalised response sheets: Click on the dropdown bar to select a student by Subgroup or Form Class. Select the subgroup you wish to add by selecting the checkbox beside each subgroup. To view the list of students within a subgroup, click the <strong>dropdown arrow</strong>. After selecting the students, their response sheets will appear on the main screen.</li>
 <li>Free-Response Question Settings: Clicking the checkbox “Include writing lines” to create writing lines for each Free-Response Question.</li>
 </ol>
@@ -44,17 +45,13 @@ third_nav_title: Assess
 <li>Click <strong>Save</strong>, followed by <strong>X</strong>.</li>
 </ol>
 <img alt="Print-to-Scan" style="width: 80%;" src="/images/2Teacher/AS_Printtoscan3.png">
-<h2>Upload Response Sheets</h2>
+<h2>Scanning Quiz Response Sheets</h2>
 <hr>
-<ol>
-<li>From the Class Group page where you have your assignment, click on <strong>Upload Response Sheets</strong>.</li>
-<li>Select a zip file with all the scanned worksheets inside and click <strong>Upload</strong>.</li>
-<li>The results will be processed in approximately 5 minutes and appear under your notifications.</li>
-<li>You may also click on the Monitoring icon&nbsp; <img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg"> on the Assignment Card to view the student responses.</li>
-</ol>
-<img alt="Print-to-Scan" style="width: 80%;" src="/images/2Teacher/AS_Printtoscan4.png">
-<h3>Recommended File Settings</h3>
-<hr>
+<p>Here are some tips for scanning: </p>
+<ul><li>
+	<p>You are encouraged to scan files in bulk using photocopiers or scanners.</p></li>
+	<li>Each sheet should be saved as an image file (e.g. jpeg, jpg or png). Do not use PDF. </li>
+	<li>The uploaded image files must be zipped in a folder (.zip) in order for it to be processed.</li></ul>
 <p>If you encounter any errors, please refer to the recommended settings below.</p>
 <table>
 <thead>
@@ -95,4 +92,15 @@ third_nav_title: Assess
 </tbody>
 </table>
 <u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg">Did You Know</u>:
-<p>You can use Print-to-Scan together with Short Answer Feedback Assistant!</p>
+<ul><li>
+	<p>You can use Print-to-Scan together with Short Answer Feedback Assistant!</p></li>
+	<li>For English and Malay language, images of text will be uploaded and converted into a machine-readable text format.</li><li>For other languages, only images of text will be uploaded. </li></ul>
+<h2>Upload Response Sheets</h2>
+<hr>
+<ol>
+<li>From the Class Group page where you have your assignment, click on <strong>Upload Response Sheets</strong>.</li>
+<li>Select a zip file with all the scanned worksheets inside and click <strong>Upload</strong>.</li>
+<li>The results will be processed in approximately 5 minutes and appear under your notifications.</li>
+<li>You may also click on the Monitoring icon&nbsp; <img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg"> on the Assignment Card to view the student responses.</li>
+</ol>
+<img alt="Print-to-Scan" style="width: 80%;" src="/images/2Teacher/AS_Printtoscan4.png">
