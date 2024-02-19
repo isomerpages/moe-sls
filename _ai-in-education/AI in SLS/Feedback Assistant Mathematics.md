@@ -64,14 +64,14 @@ randomised variables and automate grading and provision of hints and feedback.</
 and e-Poster:</p>
 <ul>
 <li>
-<p><a href="https://go.gov.sg/sls-guide-add-fa-math" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
+<p><a href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/add-mathematics-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
 </p>
 </li>
 </ul>
 <p>Students User Guide (UG):</p>
 <ul>
 <li>
-<p><a href="https://go.gov.sg/sls-guide-about-fa-math" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
+<p><a href="https://www.learning.moe.edu.sg/student-user-guide/assess/about-mathematics-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
 </p>
 </li>
 </ul>
