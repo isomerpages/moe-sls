@@ -64,8 +64,7 @@ to advance learning.</p>
 </table>
 <h2>Educator Resources</h2>
 <hr>
-<p>Teachers User Guide (UG) which includes tips on using ShortAnsFA and a
-step-by-step video:</p>
+<p>Teachers User Guide (UG) which includes a step-by-step video:</p>
 <ul>
 <li>
 <p><a href="https://go.gov.sg/sls-guide-add-shortansfa" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
