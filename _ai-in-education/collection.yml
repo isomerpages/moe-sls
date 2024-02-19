@@ -2,7 +2,6 @@ collections:
   ai-in-education:
     output: true
     order:
-      - News Articles.md
       - AI in SLS/.keep
       - AI in SLS/AI in SLS.md
       - AI in SLS/Adaptive Learning System.md
@@ -14,3 +13,4 @@ collections:
       - Responsible AI/AI in Education Ethics Framework.md
       - Responsible AI/Guidance on Generative AI.md
       - AI Literacy.md
+      - News Articles.md
