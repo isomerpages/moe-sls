@@ -32,7 +32,7 @@ based on the suggested mark scheme, which teachers can edit and build on.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_files.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_files.png">
 </div>
 <p></p>
 </td>
@@ -49,7 +49,7 @@ as it is unable to provide accurate feedback for mathematical concepts.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_teacher.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_teacher.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
