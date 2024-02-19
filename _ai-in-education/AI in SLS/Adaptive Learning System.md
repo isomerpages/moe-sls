@@ -65,14 +65,14 @@ will help them close students' learning gaps.</p>
 <p>Teachers User Guide (UG) which includes a step-by-step video and e-Poster:</p>
 <ul>
 <li>
-<p><a href="https://go.gov.sg/sls-guide-about-als" rel="noopener noreferrer nofollow" target="_blank"><u>UG for teachers</u></a>
+<p><a href="https://www.learning.moe.edu.sg/teacher-user-guide/discover/about-adaptive-learning-system/" rel="noopener noreferrer nofollow" target="_blank"><u>UG for teachers</u></a>
 </p>
 </li>
 </ul>
 <p>Students User Guide (UG):</p>
 <ul>
 <li>
-<p><a href="https://go.gov.sg/sls-guide-access-als" rel="noopener noreferrer nofollow" target="_blank"><u>UG for students</u></a>
+<p><a href="https://www.learning.moe.edu.sg/student-user-guide/self-study/access-adaptive-learning-system/" rel="noopener noreferrer nofollow" target="_blank"><u>UG for students</u></a>
 </p>
 </li>
 </ul>
