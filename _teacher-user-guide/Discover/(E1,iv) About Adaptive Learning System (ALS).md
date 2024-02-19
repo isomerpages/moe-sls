@@ -26,6 +26,6 @@ third_nav_title: Discover
 <li>At the end of the session, students can view their own learning progress and decide what topics to learn next.</li>
 <img alt="About Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning06.png" style="width: 100%;">	
 <p></p><ol><u>Supporting Resources</u>:
-<li><p>Click on this <a target="_blank" href="https://go.gov.sg/als-eposter">e-Poster</a> to view some feature highlights of ALS.</p></li>
+<li><p>Click on this <a target="_blank" href="https://www.learning.moe.edu.sg/files/Userguide/Downloadable%20Resources/als_14_feb.pdf">e-Poster</a> to view some feature highlights of ALS.</p></li>
 <li><p>View this <a target="_blank" href="https://www.youtube.com/watch?v=cWkoFG32Aho"> video </a> to understand how ALS works to benefit teachers and students.</p></li>
 </ol></ol>
