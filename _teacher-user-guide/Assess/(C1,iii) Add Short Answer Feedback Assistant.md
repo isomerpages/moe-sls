@@ -84,7 +84,7 @@ separate points with line breaks</p>
 </li>
 <li>
 <p>include the <strong>mark allocation</strong> for each point in the answer
-key in the format [1m].</p>
+key in the format [1m]</p>
 </li>
 <li>
 <p>keep each point <strong>succinct</strong>, do not over-elaborate or include
