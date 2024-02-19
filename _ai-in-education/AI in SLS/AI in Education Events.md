@@ -45,15 +45,6 @@ third_nav_title: AI in SLS
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>26 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>CTLE Webinar: Leveraging SLS AI-enabled Tools to Increase Customisation
-of Learning</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>28 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
