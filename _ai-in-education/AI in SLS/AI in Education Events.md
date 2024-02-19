@@ -23,7 +23,7 @@ third_nav_title: AI in SLS
 <p>6 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="go.gov.sg/etd-pd-intro-aied" rel="noopener noreferrer nofollow" target="_blank"><u>PD with ETD - Introduction to Artificial Intelligence</u></a>
+<p><a href="https://go.gov.sg/etd-pd-intro-aied" rel="noopener noreferrer nofollow" target="_blank"><u>PD with ETD - Introduction to Artificial Intelligence</u></a>
 </p>
 </td>
 </tr>
@@ -94,7 +94,7 @@ third_nav_title: AI in SLS
 <p>13 Sep</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="go.gov.sg/alsrecording23" rel="noopener noreferrer nofollow" target="_blank"><u>ALS Sharing Session</u></a>
+<p><a href="https://go.gov.sg/alsrecording23" rel="noopener noreferrer nofollow" target="_blank"><u>ALS Sharing Session</u></a>
 </p>
 </td>
 </tr>
