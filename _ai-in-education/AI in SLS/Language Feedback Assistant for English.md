@@ -57,8 +57,8 @@ greater attention to students who need extra help.</p>
 </table>
 <h2>Educator Resources</h2>
 <hr>
-<p>Teachers User Guide (UG) which includes ideas on T&amp;L use, step-by-step
-videos and an interactive walkthrough:</p>
+<p>Teachers User Guide (UG) which includes step-by-step videos and an interactive
+walkthrough:</p>
 <ul>
 <li>
 <p><a href="https://go.gov.sg/sls-guide-add-langfa-el" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
