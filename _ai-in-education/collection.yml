@@ -2,6 +2,7 @@ collections:
   ai-in-education:
     output: true
     order:
+      - News Articles.md
       - AI in SLS/.keep
       - AI in SLS/AI in SLS.md
       - AI in SLS/Adaptive Learning System.md
