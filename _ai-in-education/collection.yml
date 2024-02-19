@@ -2,6 +2,7 @@ collections:
   ai-in-education:
     output: true
     order:
+      - AI Literacy.md
       - AI in SLS/AI in Education Events.md
       - AI in SLS/.keep
       - AI in SLS/AI in SLS.md
