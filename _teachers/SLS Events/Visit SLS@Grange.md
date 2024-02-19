@@ -4,13 +4,14 @@ permalink: /teachers/sls-events/visit-sls-grange/
 description: ""
 image: /images/FaviconLight.png
 third_nav_title: SLS Events
+variant: markdown
 ---
 <img style="width: 100%;" src="/images/2Teacher/Marcomms/vist%20sls@grange%20banner.png">
 <p>Join us for a visit to the SLS office to explore our past, present and future. Deepen your use of SLS for Teaching &amp; Learning in our programme, differentiated based on your interests and role in school.</p>
 <p><strong>Session Details</strong></p>
 <hr>
 <p>Location: MOE HQ, Grange Road</p>
-<p>Duration: 2 hours per session</p>
+<p>Duration: 2.5-3 hours per session</p>
 <p>Note: Each session requires a minimum of 10 participants to start and allows for up to 20 participants.</p>
 <p><strong>Programme Options</strong></p>
 <hr>
