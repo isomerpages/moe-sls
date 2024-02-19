@@ -24,7 +24,7 @@ principles of <strong>Agency</strong>, <strong>Inclusivity</strong>, <strong>Fai
 <hr>
 <p>Teachers who wish to learn more about the AIEd Ethics Framework to guide
 their use of AI for teaching and learning can access this lesson on SLS:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://go.gov.sg/aied-ethics-primer" rel="noopener noreferrer nofollow" target="_blank">AIEd Ethics Primer</a>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://go.gov.sg/aied-ethics-primer" rel="noopener noreferrer nofollow" target="_blank">AIEd Ethics Primer</a>
 </p>
 <p>Teachers who are planning to deploy AIEd applications in small-scale localised
 trials in one or a few schools should complete the following checklist
