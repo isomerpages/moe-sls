@@ -36,9 +36,7 @@ third_nav_title: Assess
 <ol>
 <li>From the View as Print-to-Scan Quiz subpage, click on <strong>View Response Sheets</strong>.</li>
 <li>In the new tab, click on the Settings icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the right side.</li>
-<li>On the Response Sheets Settings subpage, you can do the following:
-	<ol>
-<li>Select Students to view their personalised response sheets: Click on the dropdown bar to select a student by Subgroup or Form Class. Select the subgroup you wish to add by selecting the checkbox beside each subgroup. To view the list of students within a subgroup, click the <strong>dropdown arrow</strong>. After selecting the students, their response sheets will appear on the main screen.</li>
+<li>On the Response Sheets Settings subpage, you can do the following:<ol style="list-style-type: lower-alpha"><li>Select Students to view their personalised response sheets: Click on the dropdown bar to select a student by Subgroup or Form Class. Select the subgroup you wish to add by selecting the checkbox beside each subgroup. To view the list of students within a subgroup, click the <strong>dropdown arrow</strong>. After selecting the students, their response sheets will appear on the main screen.</li>
 <li>Free-Response Question Settings: Clicking the checkbox “Include writing lines” to create writing lines for each Free-Response Question.</li>
 </ol>
 </li>
