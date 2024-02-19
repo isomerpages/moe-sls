@@ -67,14 +67,14 @@ to advance learning.</p>
 <p>Teachers User Guide (UG) which includes a step-by-step video:</p>
 <ul>
 <li>
-<p><a href="https://go.gov.sg/sls-guide-add-shortansfa" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
+<p><a href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/add-short-answer-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
 </p>
 </li>
 </ul>
 <p>Students User Guide (UG):</p>
 <ul>
 <li>
-<p><a href="https://go.gov.sg/sls-guide-about-shortansfa" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
+<p><a href="https://www.learning.moe.edu.sg/student-user-guide/assess/about-short-answer-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
 </p>
 </li>
 </ul>
