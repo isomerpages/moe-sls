@@ -25,13 +25,17 @@ third_nav_title: Author
 <h2 id="add-split-page-powerpoint">Add Split-page PowerPoint</h2>
 <hr>
 <p>Each slide will be converted to an image in a page within the activity.</p>
+<u>Important</u>:
+<ul><li>The converted images cannot be edited with the drawing tool or downloaded separately. </li>
+<li>Save and upload your file as PowerPoint Picture Presentation (*.pptx) for consistency.</li></ul>
 <ol>
 <li>After you upload the file, you may choose to split-page all the PowerPoint slides or choose a range of slides to be split.
-</li><li>Click <b>OK</b> to proceed.
-</li>
+</li><li>Click <b>OK</b> to proceed.</li>
 <li><p>Please note the following limitations:</p></li>
 <ul>
-<li>Supported Fonts:<ul>
+	<li>Chinese and Tamil characters are not supported.</li>
+<li>Supported Fonts:
+<ul>
 <li>Bitstream Charter</li>
 <li>Century Schoolbook L</li>
 <li>Courier 10 Pitch</li>
