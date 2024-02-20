@@ -60,14 +60,14 @@ greater attention to students who need extra help.</p>
 <p>Teachers User Guide (UG) which includes a step-by-step video:</p>
 <ul>
 <li>
-<p><a href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/add-language-feedback-assistant-for-english/" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
+<p><a href="/teacher-user-guide/assess/add-language-feedback-assistant-for-english/" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
 </p>
 </li>
 </ul>
 <p>Students User Guide (UG):</p>
 <ul>
 <li>
-<p><a href="https://www.learning.moe.edu.sg/student-user-guide/assess/about-language-feedback-assistant-for-english/" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
+<p><a href="/student-user-guide/assess/about-language-feedback-assistant-for-english/" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
 </p>
 </li>
 </ul>
