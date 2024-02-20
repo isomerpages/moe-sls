@@ -11,9 +11,8 @@ third_nav_title: AI in SLS
 student. It is currently available for Primary 5 and 6 Mathematics and
 Foundation Mathematics, for the topics of Whole Numbers, Decimals, Percentage
 and Fractions. More topics, levels and subjects will be added progressively.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/cWkoFG32Aho?si=1jTpNek6x669Rskj"></iframe>
-</div>
+<div class="bp-youtube">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/cWkoFG32Aho?si=1jTpNek6x669Rskj" title="Adaptive Learning System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h2>How does ALS enhance teaching and learning?</h2>
 <table>
 <tbody>
