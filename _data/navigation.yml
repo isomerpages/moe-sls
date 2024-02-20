@@ -1,6 +1,6 @@
 logo: /images/LogoSecondaryLight.png
 links:
-  - title: Latest News
+  - title: News
     resource_room: true
   - title: AI in Education
     collection: ai-in-education
@@ -10,7 +10,7 @@ links:
     collection: teachers
   - title: Partners
     collection: partners
-  - title: User Guides
+  - title: Guides
     url: /student-user-guide/index/
     sublinks:
       - title: Students UG
@@ -23,5 +23,5 @@ links:
         url: /login-troubleshooting/authentication/index/
   - title: About
     collection: about
-  - title: Login to SLS
+  - title: Login
     url: https://vle.learning.moe.edu.sg/login
