@@ -23,8 +23,7 @@ third_nav_title: AI in SLS
 <p>6 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/etd-pd-intro-aied" rel="noopener noreferrer nofollow" target="_blank"><u>PD with ETD - Introduction to Artificial Intelligence</u></a>
-</p>
+<p>PD with ETD - Introduction to Artificial Intelligence (CLOSED)</p>
 </td>
 </tr>
 <tr>
