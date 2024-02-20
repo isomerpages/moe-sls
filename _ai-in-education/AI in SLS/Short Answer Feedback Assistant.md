@@ -10,9 +10,9 @@ third_nav_title: AI in SLS
 <p>ShortAnsFA provides suggested grades and auto-generated content-related
 feedback for close-ended, short answer questions with well-defined mark
 schemes for any subject and level.</p>
-<div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gQcWscdqvOw?si=LKGFYM1A7pd_tNET"></iframe>
-</div>
+<div class="bp-youtube">
+<iframe width="100%" height="100%" src="https://www.youtube.com/embed/gQcWscdqvOw?si=LKGFYM1A7pd_tNET" title="Short Answer Feedback Assistant" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
+
 <h2>How does ShortAnsFA enhance teaching and learning?</h2>
 <table>
 <tbody>
