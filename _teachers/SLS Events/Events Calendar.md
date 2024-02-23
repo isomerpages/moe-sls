@@ -15,78 +15,67 @@ variant: markdown
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <!--1st column-->
+        <tr>            
             <td>
                 <p>19 Jan</p>
                 <p>31 Jan</p>
-            </td>
-            <!--2nd column-->
+            </td>            
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
             </td>
         </tr>
-        <tr>
-            <!--1st column-->
+        <tr>            
             <td>
                 <p>2 Feb</p>
                 <p>29 Feb</p>
-                <p>Feb</p>
-            </td>
-            <!--2nd column-->
+            </td>            
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
-                <p>SgLDC Livestream: Session 1</p>
             </td>
         </tr>
-        <tr>
-            <!--1st column-->
+        <tr>            
             <td>
                 <p>1 Mar</p>
                 <p>6 Mar</p>
                 <p>8 Mar</p>
                 <p>11 Mar</p>
                 <p>11 Mar<br>to<br> 15 Mar</p>
-            </td>
-            <!--2nd column-->
+                <p>Mar</p>
+            </td>            
             <td>
                 <p><a target="_blank" href="/login-troubleshooting/get-help/get-help-from-your-school/">SLS Partners Engagement Session</a></p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p><a target="_blank" href="https://go.gov.sg/sls-level1-course">SLS Level 1 Certification</a><br><br><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/sls-level2-course-organise">SLS Level 2 - Organise Certification</a></p>
+                <p>SgLDC Livestream: Session 1</p>
             </td>
         </tr>
-        <tr>
-            <!--1st column-->
+        <tr>            
             <td>
                 <p>5 Apr</p>
                 <p>15 Apr</p>
                 <p>Apr</p>
-            </td>
-            <!--2nd column-->
+            </td>            
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p>SgLDC Livestream: Session 2</p>
             </td>
         </tr>
-        <tr>
-            <!--1st column-->
+        <tr>            
             <td>
                 <p>3 May</p>
                 <p>May</p>
-            </td>
-            <!--2nd column-->
+            </td>            
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)&nbsp;</p>
                 <p>SgLDC Livestream: Session 3</p>
             </td>
         </tr>
-        <tr>
-            <!--1st column-->
+        <tr>            
             <td>
                 <p>7 Jun</p>
                 <p>17 Jun<br>to<br> 28 Jun</p>
@@ -98,61 +87,51 @@ variant: markdown
 <p>Release 1</p>
             </td>
         </tr>
-        <tr>
-            <!--1st column-->
+        <tr>            
             <td>
                 <p>5 Jul</p>
                 <p>Jul</p>
-            </td>
-            <!--2nd column-->
+            </td>            
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p>SgLDC Livestream: Session 4</p>
             </td>
         </tr>
-        <tr>
-            <!--1st column-->
+        <tr>            
             <td>
                 <p>2 Aug</p>
-            </td>
-            <!--2nd column-->
+            </td>            
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
             </td>
         </tr>
-        <tr>
-            <!--1st column-->
+        <tr>            
             <td>
                 <p>2 Sep<br>to<br> 6 Sep</p>
                 <p>6 Sep</p>
-            </td>
-            <!--2nd column-->
+            </td>            
             <td>
                 <p><a target="_blank" href="https://go.gov.sg/sls-level1-course">SLS Level 1 Certification</a><br><br><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/sls-level2-course-organise">SLS Level 2 - Organise Certification</a></p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
             </td>
         </tr>
-        <tr>
-            <!--1st column-->
+        <tr>            
             <td>
                 <p>11 Oct</p>
                 <p>Oct</p>
-            </td>
-            <!--2nd column-->
+            </td>            
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p>SgLDC Livestream: Session 5</p>
             </td>
         </tr>
-        <tr>
-            <!--1st column-->
+        <tr>            
             <td>
                 <p>18 Nov<br>to<br> 29 Nov</p>
                 <p>22 Nov</p>
                 <p>27 Nov</p>
                 <p>29 Nov</p>
-            </td>
-            <!--2nd column-->
+            </td>            
             <td>
                 <p><a target="_blank" href="https://go.gov.sg/sls-level1-course">SLS Level 1 Certification</a></p>
                 <p><a target="_blank" href="https://go.gov.sg/sls-level2-course-organise">SLS Level 2 – Organise Certification</a></p>
