@@ -230,7 +230,7 @@ third_nav_title: SLS Events
 <td><p>Seng Kang Primary School</p></td>
 </tr>
 <tr>
-<td><p>Mrs Vanessa Low Jing Wen</p></td>
+<td><p>Ms Vanessa Low Jing Wen</p></td>
 <td><p>Seng Kang Secondary School</p></td>
 </tr>
 <tr>
