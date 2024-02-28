@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Partners/.keep
-      - Partners/Others 2021.md
