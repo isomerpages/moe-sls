@@ -2,6 +2,7 @@ collections:
   hidden-pages:
     output: true
     order:
+      - Partners/Content and Resources 2021.md
       - Partners/Assessment and Analytics 2021.md
       - Partners/Featured Pitches 2021.md
       - Partners/Overview 2021.md
