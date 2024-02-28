@@ -45,7 +45,7 @@ variant: markdown
                 <p>25 Mar</p>
             </td>            
             <td>
-                <p><a target="_blank" href="/login-troubleshooting/get-help/get-help-from-your-school/">SLS Partners Engagement Session</a></p>
+                <p><a target="_blank" href="/partners/events/sls-partners-engagement-session-2024/">SLS Partners Engagement Session</a></p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
