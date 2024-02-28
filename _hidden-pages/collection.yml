@@ -2,4 +2,5 @@ collections:
   hidden-pages:
     output: true
     order:
+      - Featured Pitches 2022.md
       - Overview 2022.md
