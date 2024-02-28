@@ -1,4 +1,5 @@
 collections:
   hidden-pages:
     output: true
-    order: []
+    order:
+      - Overview 2022.md
