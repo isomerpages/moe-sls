@@ -2,5 +2,6 @@ collections:
   pitch-day-2021:
     output: true
     order:
+      - Assessment and Analytics 2021.md
       - Featured Pitches 2021.md
       - Overview 2021.md
