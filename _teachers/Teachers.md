@@ -8,6 +8,11 @@ variant: markdown
 <img alt="Teachers Hero" src="/images/2Teacher/Teachers%20Hero.png">
 <p>
 Looking for new ways to support your students’ learning? Student Learning Space (SLS) features can enhance your teaching to engage your students better!</p>
+<h2 id="feature-highlights">Friends of SLS</h2>
+<hr>
+<ul>
+<li><a target="_blank" href="/teachers/friends-of-sls/index">Friends of SLS</a></li>
+</ul>
 <h2 id="feature-highlights">Feature Highlights</h2>
 <hr>
 <ul>
@@ -38,4 +43,4 @@ Looking for new ways to support your students’ learning? Student Learning Spac
 <ul>
 <li><a target="_blank" href="/teachers/sls-events/visit-sls-grange/">Visit SLS@Grange</a></li>
 	<li><a target="_blank" href="/teachers/sls-events/events-calendar/">Events Calendar</a></li>
-<li><a target="_blank" href="/teachers/sls-events/friends-of-sls/">Friends of SLS</a></li></ul>
+</ul>
