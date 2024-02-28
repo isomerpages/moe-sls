@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Partners/.keep
-      - Partners/Assessment and Analytics 2021.md
       - Partners/Content and Resources 2021.md
       - Partners/Pedagogy and Instruction 2021.md
       - Partners/Others 2021.md
