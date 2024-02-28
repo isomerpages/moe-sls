@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Partners/.keep
-      - Partners/Overview 2021.md
       - Partners/Featured Pitches 2021.md
       - Partners/Assessment and Analytics 2021.md
       - Partners/Content and Resources 2021.md
