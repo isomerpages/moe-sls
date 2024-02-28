@@ -2,6 +2,7 @@ collections:
   hidden-pages:
     output: true
     order:
+      - Partners/.keep
       - Others 2021.md
       - Pedagogy and Instruction 2021.md
       - Content and Resources 2021.md
