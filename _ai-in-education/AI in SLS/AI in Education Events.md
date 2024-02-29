@@ -31,8 +31,7 @@ third_nav_title: AI in SLS
 <p>19 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="go.gov.sg/fa-math-webinar-1" rel="noopener noreferrer nofollow" target="_blank"><u>FA-Math Webinar 1 (Sign-up form)</u></a>
-</p>
+<p>FA-Math Webinar 1 (Sign up at go.gov.sg/fa-math-webinar-1)</p>
 </td>
 </tr>
 <tr>
@@ -40,8 +39,7 @@ third_nav_title: AI in SLS
 <p>21 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="go.gov.sg/fa-math-webinar-2" rel="noopener noreferrer nofollow" target="_blank"><u>FA-Math Webinar 2 (Sign-up form)</u></a>
-</p>
+<p>FA-Math Webinar 2 (Sign up at go.gov.sg/fa-math-webinar-2)</p>
 </td>
 </tr>
 <tr>
