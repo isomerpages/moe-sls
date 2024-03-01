@@ -2,7 +2,6 @@
 title: Overview 2021
 permalink: /partners/events/overview-2021/
 description: ""
-third_nav_title: Events
 image: /images/FaviconLight.png
 ---
 <img width="100%" src="/images/3Partners/small_slsmicrositeimage.png">           

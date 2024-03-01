@@ -2,7 +2,6 @@
 title: Assessment and Analytics 2021
 permalink: /partners/events/assessment-and-analytics-2021/
 description: ""
-third_nav_title: Events
 image: /images/FaviconLight.png
 ---
 <h1>Assessment and Analytics</h1>

@@ -42,10 +42,10 @@ variant: markdown
                 <p>8 Mar</p>
                 <p>11 Mar</p>
                 <p>11 Mar<br>to<br> 15 Mar</p>
-                <p>Mar</p>
+                <p>25 Mar</p>
             </td>            
             <td>
-                <p><a target="_blank" href="/login-troubleshooting/get-help/get-help-from-your-school/">SLS Partners Engagement Session</a></p>
+                <p><a target="_blank" href="/partners/events/sls-partners-engagement-session-2024/">SLS Partners Engagement Session</a></p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>

@@ -2,7 +2,6 @@
 title: Pedagogy and Instruction 2021
 permalink: /partners/events/pedagogy-and-instruction-2021/
 description: ""
-third_nav_title: Events
 image: /images/FaviconLight.png
 ---
 <h1>Pedagogy and Instruction</h1> <hr> 

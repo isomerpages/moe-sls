@@ -2,7 +2,6 @@
 title: Featured Pitches 2021
 permalink: /partners/events/featured-pitches-2021/
 description: ""
-third_nav_title: Events
 image: /images/FaviconLight.png
 ---
 <img src="/images/3Partners/featuredpitchsample.png">

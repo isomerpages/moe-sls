@@ -2,7 +2,6 @@
 title: Others 2021
 permalink: /partners/events/others-2021/
 description: ""
-third_nav_title: Events
 image: /images/FaviconLight.png
 ---
 <h1>Others</h1>

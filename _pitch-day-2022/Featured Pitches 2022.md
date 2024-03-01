@@ -2,7 +2,6 @@
 title: Featured Pitches 2022
 permalink: /partners/events/featured-pitches-2022/
 description: ""
-third_nav_title: Events
 image: /images/FaviconLight.png
 ---
 <img src="/images/3Partners/2022PitchDayFeaturedPitches.webp">

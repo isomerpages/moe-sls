@@ -2,7 +2,6 @@
 title: Content and Resources 2021
 permalink: /partners/events/content-and-resources-2021/
 description: ""
-third_nav_title: Events
 image: /images/FaviconLight.png
 ---
 <h1>Content and Resources</h1>

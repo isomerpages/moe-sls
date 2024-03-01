@@ -1,10 +1,9 @@
 ---
 title: Friends of SLS
-permalink: /teachers/sls-events/friends-of-sls/
+permalink: /teachers/friends-of-sls/index/
 description: ""
 image: /images/FaviconLight.png
 variant: markdown
-third_nav_title: SLS Events
 ---
 <img src="/images/2Teacher/friendsofsls.png">
 <p>Launched in Oct 2022, the Friends of SLS initiative recognises educators who have significantly contributed to the SLS fraternity over the last few years. In 2023, we also welcomed teachers who have significantly impacted their students’ engagement and learning experience through their use of SLS.</p>
@@ -230,7 +229,7 @@ third_nav_title: SLS Events
 <td><p>Seng Kang Primary School</p></td>
 </tr>
 <tr>
-<td><p>Mrs Vanessa Low Jing Wen</p></td>
+<td><p>Ms Vanessa Low Jing Wen</p></td>
 <td><p>Seng Kang Secondary School</p></td>
 </tr>
 <tr>
