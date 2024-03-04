@@ -2193,6 +2193,19 @@ Others:
 
 </td>
 </tr>
+
+<tr>
+<td>Northshore Primary School</td>
+<td>
+Tel: 62026490
+<br>Email: 
+<br>
+Others:
+
+
+</td>
+</tr>
+	
 <tr>
 <td>NUS High School of Mathematics and Science</td>
 <td>
