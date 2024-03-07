@@ -29,4 +29,6 @@ third_nav_title: Assess
 	
 <ol><u>Supporting Resources</u>:
 <li>View this <a target="_blank" href="https://youtu.be/8Hk7AWibNhI">video</a> for a step-by-step guide on adding LangFA-EL to a Teacher-Marked Quiz. </li>
+	<li>Primary EL: Teachers can refer to these <a target="_blank" href="https://go.gov.sg/elpri-langfa">sample writing lessons</a> as guides to introduce the LangFA-EL to students. </li>
+		<li>Secondary EL: SLS lessons from the <a target="_blank" href="https://vle.learning.moe.edu.sg/search?keyword=%22Reading+Up%22&amp;location=MOE&amp;resource=LESSON&amp;sortBy=modifiedDate&amp;sortByOrder=descending">Reading Up</a> series contain sections that provide students opportunities to use the LangFA-EL. More lessons with LangFA-EL will be added on an approximately monthly basis. </li>
  </ol>
