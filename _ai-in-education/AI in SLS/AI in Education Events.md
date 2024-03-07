@@ -31,8 +31,7 @@ third_nav_title: AI in SLS
 <p>19 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fa-math-webinar-1" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 1</a>
-</p>
+<p>FA-Math Webinar 1: Multistep (I) (CLOSED)</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +39,7 @@ third_nav_title: AI in SLS
 <p>21 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fa-math-webinar-2" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 2</a>
+<p><a href="https://go.gov.sg/fa-math-webinar-2" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 2: Fill-in-the-Blanks, Math Table, Written Arithmetic</a>
 </p>
 </td>
 </tr>
@@ -49,7 +48,8 @@ third_nav_title: AI in SLS
 <p>28 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FA-Math Webinar 3</p>
+<p><a href="https://go.gov.sg/fa-math-webinar-3" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 3: Arithmetic Notebook, Multistep (II)</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +57,8 @@ third_nav_title: AI in SLS
 <p>2 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FA-Math Webinar 4</p>
+<p><a href="https://go.gov.sg/fa-math-webinar-4" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 4: Geometry and Graphs</a>
+</p>
 </td>
 </tr>
 <tr>
