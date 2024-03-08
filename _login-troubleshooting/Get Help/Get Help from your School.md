@@ -2193,6 +2193,19 @@ Others:
 
 </td>
 </tr>
+
+<tr>
+<td>Northshore Primary School</td>
+<td>
+Tel: 62026490
+<br>Email: 
+<br>
+Others:
+
+
+</td>
+</tr>
+	
 <tr>
 <td>NUS High School of Mathematics and Science</td>
 <td>
@@ -2505,9 +2518,9 @@ Others:
 <td>Punggol View Primary School</td>
 <td>
 Tel: 65701588
-<br>Email: pang_teng_yen@moe.edu.sg
+<br>Email:
 <br>
-Others: iskandar_abdul_hamid@moe.edu.sg
+Others: Submit a request for unlocking of account or password reset (Refer to School Website) - (https://www.punggolviewpri.moe.edu.sg/ez-links/sls/)
 
 
 </td>
