@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 image: /images/FaviconLight.png
 ---
-<h1>Event Highlights</h1>
+<h1>Event Highlights 2024</h1>
 <ol>
 	<li><strong>SLS V2’s Direction and Areas of Focus</strong>
         <ul style="list-style-type: lower-alpha;">
