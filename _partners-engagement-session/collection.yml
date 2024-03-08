@@ -1,4 +1,5 @@
 collections:
   partners-engagement-session:
     output: true
-    order: []
+    order:
+      - Event Highlights.md
