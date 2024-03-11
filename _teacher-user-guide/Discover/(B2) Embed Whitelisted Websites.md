@@ -82,14 +82,7 @@ https://www.armoredpenguin.com
 https://www.artgallery.nsw.gov.au/collection
 </td>
 </tr>
-<!--        
-<tr><td><strong>AWW App</strong></td>
-<td>Collaboration Tool</td>
-<td>
-https://awwapp.com
-</td>
-</tr>
--->
+
 <tr><td><strong>Baamboozle</strong></td>
 <td>Educational Games and Tools</td>
 <td>
@@ -232,16 +225,7 @@ https://classpad.net
 https://www.classpoint.app
 </td>
 </tr>
-<!--
-<tr><td><strong>Classroom Screen</strong></td>
-<td>Educational Tools and Resources</td>
-<td>
-https://app.classroomscreen.com
-<br>
-https://classroomscreen.com
-</td>
-</tr>
--->
+
 <tr><td><strong>CNN</strong></td>
 <td>News Resources</td>
 <td>
@@ -334,14 +318,7 @@ https://www.education.com
 https://www.elementari.com
 </td>
 </tr>
-<!--
-<tr><td><strong>Elicit</strong></td>
-<td>AI Tool</td>
-<td>
-https://elicit.org
-</td>
-</tr>
--->
+
 <tr><td><strong>European Environment Agency</strong></td>
 <td>Resource site</td>
 <td>
@@ -360,10 +337,7 @@ https://experiments.withgoogle.com
 https://explaineverything.com
 <br>
 https://drive.explaineverything.com
-<!--
-<br>
-https://expl.ai
--->
+
 <br>
 https://whiteboard.explaineverything.com
 </td>
@@ -440,6 +414,12 @@ https://www.funbrain.com
 https://app.gather.town
 </td>
 </tr>
+<tr><td><strong>Gimkit <font color="#FBBC04">NEW!</font></strong></td>
+<td>Educational Games and Tools</td>
+<td>
+https://www.gimkit.com
+</td>
+</tr>
 <tr><td><strong>Glowscript</strong></td>
 <td>3D Animations using VPython</td>
 <td>
@@ -470,7 +450,7 @@ https://www.guggenheim.org/collection-online
 https://guitarflash3.com
 </td>
 </tr>
-<tr><td><strong>H5P <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>H5P</strong></td>
 <td>Content Authoring Tool</td>
 <td>
 https://tools.learnforlife.sg/h5psites
@@ -548,6 +528,12 @@ https://www.iorad.com
 https://jamboard.google.com
 </td>
 </tr>
+<tr><td><strong>Javalab <font color="#FBBC04">NEW!</font></strong></td>
+<td>Simulation Resource Site</td>
+<td>
+https://javalab.org/en
+</td>
+</tr>
 <tr><td><strong>Jeopardy Labs</strong></td>
 <td>Jeopardy Word Game</td>
 <td>
@@ -590,14 +576,7 @@ https://www.kialo-edu.com
 https://learn.genetics.utah.edu
 </td>
 </tr>
-<!--
-<tr><td><strong>Linoit</strong></td>
-<td>Collaboration Tool</td>
-<td>
-https://www.linoit.com
-</td>
-</tr>
--->
+
 <tr><td><strong>Makecode</strong></td>
 <td>Coding Platform</td>
 <td>
@@ -781,14 +760,7 @@ https://iwant2study.org
 https://www.opinionstage.com
 </td>
 </tr>
-<!--
-<tr><td><strong>Ottodot</strong></td>
-<td>Gamefied Learning Tool</td>
-<td>
-https://platform.ottodot.com
-</td>
-</tr>
--->
+
 <tr><td><strong>Parlay</strong></td>
 <td>Collaboration Tool</td>
 <td>
@@ -1011,7 +983,7 @@ https://stablediffusionweb.com
 https://storybird.com
 </td>
 </tr>
-<tr><td><strong>StoryJumper <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>StoryJumper</strong></td>
 <td>Story Authoring Tool</td>
 <td>
 https://www.storyjumper.com
@@ -1023,18 +995,7 @@ https://www.storyjumper.com
 https://storylineonline.net
 </td>
 </tr>
-<!--        
-<tr><td><strong>Streamlit</strong></td>
-<td>Web App Script Tool</td>
-<td>
-https://metacog.streamlit.app
-<br>
-https://student.streamlitapp.com/?embedded=true
-<br>
-https://teacher.streamlitapp.com/?embedded=true
-</td>
-</tr>
--->        
+        
 <tr><td><strong>Super Teacher Tools</strong></td>
 <td>Interactive Content</td>
 <td>
@@ -1245,14 +1206,7 @@ https://wordwall.net
 https://www.wordwall.net
 </td>
 </tr>
-<!--
-<tr><td><strong>Writeabout</strong></td>
-<td>Writing Tool</td>
-<td>
-https://www.writeabout.com
-</td>
-</tr>
--->
+
 <tr><td><strong>Ximalaya</strong></td>
 <td>Audio Resources</td>
 <td>
@@ -1279,10 +1233,7 @@ https://zbschools.sg
 https://www.zbschools.sg
 </td>
 </tr>
-<!--
-<font color="#FBBC04">NEW!</font>
-//represents new item
--->
+
 </tbody>
 </table>
             
@@ -1400,7 +1351,7 @@ https://edpuzzle.com
 https://video.eko.com
 </td>
 </tr>
-<tr><td><strong>Figma <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Figma</strong></td>
 <td>Collaboration Tool</td>
 <td>
 https://www.figma.com
@@ -1516,7 +1467,7 @@ https://www.heyhi.sg
 https://www.jigsawplanet.com
 </td>
 </tr>
-<tr><td><strong>Kami <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Kami</strong></td>
 <td>Collaboration Tool</td>
 <td>
 https://kami.app
@@ -1605,7 +1556,7 @@ https://asrjc.padlet.org
 <br>
 https://assumptionenglish.padlet.org
 <br>
-https://bartleysecondaryschool.padlet.org <font color="#FBBC04">NEW!</font>
+https://bartleysecondaryschool.padlet.org
 <br>
 https://beattysecondary.padlet.org
 <br>
@@ -1637,7 +1588,7 @@ https://corporationpri.padlet.org
 <br>
 https://crescentgirls.padlet.org
 <br>
-https://ctss.padlet.org <font color="#FBBC04">NEW!</font>
+https://ctss.padlet.org
 <br>
 https://damaisecondary.padlet.org
 <br>
@@ -1665,7 +1616,7 @@ https://greenridgesecondary.padlet.org
 <br>
 https://henryparkprimary.padlet.org
 <br>
-https://hsc7031.padlet.org <font color="#FBBC04">NEW!</font>
+https://hsc7031.padlet.org
 <br>
 https://huaminprimarype.padlet.org
 <br>
@@ -1713,9 +1664,9 @@ https://opss.padlet.org
 <br>
 https://pasirrissec.padlet.org
 <br>
-https://pathlightsingapore.padlet.org <font color="#FBBC04">NEW!</font>
+https://pathlightsingapore.padlet.org
 <br>
-https://pcss.padlet.org <font color="#FBBC04">NEW!</font>
+https://pcss.padlet.org
 <br>
 https://plmgsp.padlet.org
 <br>
@@ -1860,14 +1811,7 @@ https://wall.sli.do
 https://soundcloud.com
 </td>
 </tr>
-<!--
-<tr><td><strong>Spiral</strong></td>
-<td>Integrated Teaching Tool</td>
-<td>
-https://spiral.ac
-</td>
-</tr>
--->
+
 <tr><td><strong>Stornaway.io</strong></td>
 <td>Interactive Storytelling Tool</td>
 <td>
@@ -1915,14 +1859,11 @@ https://www.ventusky.com
 <tr><td><strong>Vidyard</strong></td>
 <td>Online Video Tool</td>
 <td>
-<!--
-https://play.vidyard.com
-<br>
--->
+
 https://share.vidyard.com
 </td>
 </tr>
-<tr><td><strong>Vimeo <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Vimeo</strong></td>
 <td>Online Video Tool</td>
 <td>
 https://player.vimeo.com
