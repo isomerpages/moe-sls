@@ -39,8 +39,8 @@ third_nav_title: AI in SLS
 <p>21 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fa-math-webinar-2" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 2: Fill-in-the-Blanks, Math Table, Written Arithmetic</a>
-</p>
+<p>FA-Math Webinar 2: Fill-in-the-Blanks, Math Table, Written Arithmetic
+(CLOSED)</p>
 </td>
 </tr>
 <tr>
@@ -75,7 +75,8 @@ third_nav_title: AI in SLS
 <p>4 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FA-Math Webinar 5</p>
+<p><a href="https://go.gov.sg/fa-math-webinar-5" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 5: Design Considerations in Lesson Preparation</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -83,7 +84,8 @@ third_nav_title: AI in SLS
 <p>9 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>FA-Math Webinar 6</p>
+<p><a href="https://go.gov.sg/fa-math-webinar-6" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 6: Pedagogical Considerations in Lesson Enactment</a>
+</p>
 </td>
 </tr>
 </tbody>
