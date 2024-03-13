@@ -75,7 +75,7 @@ third_nav_title: AI in SLS
 <p>4 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fa-math-webinar-5" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 5: Design Considerations in Lesson Preparation</a>
+<p><a href="https://go.gov.sg/fa-math-webinar-5" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 5: Design Considerations in Lesson Preparation and Group Discussion</a>
 </p>
 </td>
 </tr>
@@ -84,7 +84,7 @@ third_nav_title: AI in SLS
 <p>9 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fa-math-webinar-6" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 6: Pedagogical Considerations in Lesson Enactment</a>
+<p><a href="https://go.gov.sg/fa-math-webinar-6" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 6: Pedagogical Considerations in Lesson Enactment and Group Discussion</a>
 </p>
 </td>
 </tr>
