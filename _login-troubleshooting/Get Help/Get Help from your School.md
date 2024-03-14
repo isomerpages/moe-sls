@@ -1549,8 +1549,8 @@ Others:
 <tr>
 <td>Junyuan Secondary School</td>
 <td>
-Tel: 65873683/65873684
-<br>Email: admin@junyuansec.edu.sg
+Tel: 62858733
+<br>Email: junyuan_ss@moe.edu.sg
 <br>
 Others: <a href="https://go.gov.sg/jysls">Form SG</a>
 
