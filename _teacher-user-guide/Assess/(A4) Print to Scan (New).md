@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Assess
 ---
-<h1>(A4) Print-to-Scan (New)</h1>
+<h1>(A4) Print-to-Scan (Enhanced)</h1>
 <p>From R20, teachers can print Teacher-Marked Quizzes as physical worksheets.</p>
 <p>Students may complete the quiz on response sheets which are then scanned and uploaded to SLS, where their responses on hardcopy worksheets can be transferred to the corresponding questions in SLS for teacher marking. Marking can also be done with <a target="_blank" href="/teacher-user-guide/assess/add-language-feedback-assistant-for-english/"> Language Feedback Assistant for English</a> and <a target="_blank" href="/teacher-user-guide/assess/add-short-answer-feedback-assistant/"> Short Answer Feedback Assistant</a></p>
 <p><b>Important</b>: Only Multiple-Choice, Multiple-Response and Free-Response questions are supported, in English language. Students should be instructed to tick the options in pen or pencil in order for the scan to be read correctly. Using tables in pre-populated answers for Free-Response questions are discouraged.</p>
