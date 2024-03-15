@@ -6,10 +6,10 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Assess
 ---
-<h1>(A4) Print-to-Scan (New)</h1>
+<h1>(A4) Print-to-Scan (Enhanced)</h1>
 <p>From R20, teachers can print Teacher-Marked Quizzes as physical worksheets.</p>
 <p>Students may complete the quiz on response sheets which are then scanned and uploaded to SLS, where their responses on hardcopy worksheets can be transferred to the corresponding questions in SLS for teacher marking. Marking can also be done with <a target="_blank" href="/teacher-user-guide/assess/add-language-feedback-assistant-for-english/"> Language Feedback Assistant for English</a> and <a target="_blank" href="/teacher-user-guide/assess/add-short-answer-feedback-assistant/"> Short Answer Feedback Assistant</a></p>
-<p><b>Important</b>: Only Multiple-Choice, Multiple-Response and Free-Response questions are supported, in English language. Students should be instructed to shade the options in pen or pencil in order for the scan to be read correctly.</p>
+<p><b>Important</b>: Only Multiple-Choice, Multiple-Response and Free-Response questions are supported, in English language. Students should be instructed to tick the options in pen or pencil in order for the scan to be read correctly. Using tables in pre-populated answers for Free-Response questions are discouraged.</p>
 <h2>View as Print-to-Scan Quiz</h2>
 <hr>
 <ol>
@@ -43,6 +43,33 @@ third_nav_title: Assess
 <li>Click <strong>Save</strong>, followed by <strong>X</strong>.</li>
 </ol>
 <img alt="Print-to-Scan" style="width: 80%;" src="/images/2Teacher/AS_Printtoscan3.png">
+<h2>Printing Quiz Response Sheets</h2>
+<hr>
+<p><b>Important</b>: </p>
+<ul><li>
+	<p>You are required to print the Response Sheet in A4 size. Do check your default printer settings.</p></li>
+	<li>You can save the Response Sheet in pdf format prior to printing (8.27 x 11.69 inch)</li></ul>
+<p>If you encounter any errors, please refer to the recommended settings below.</p>
+<table>
+<tbody>
+<tr>
+<td>Image Size</td>
+<td>A4 Paper Size (8.27 x 11.69 inch)</td>
+</tr>
+<tr>
+<td>Print Colour</td>
+<td>Greyscale, Colour, Black and White</td>
+</tr>
+<tr>
+<td>Print Setting</td>
+<td>Print as a A4 PDF file</td>
+</tr>
+<tr>
+<td>Text Colour</td>
+<td>Students may use dark blue/black pen and 2B pencil to write on the response sheet.</td>
+</tr>
+</tbody>
+</table>
 <h2>Scanning Quiz Response Sheets</h2>
 <hr>
 <p><b>Important</b>: </p>
@@ -77,15 +104,15 @@ third_nav_title: Assess
 </tr>
 <tr>
 <td>Zip file settings</td>
-<td>All scanned images should be in the same folder.<br><br>Files names should not contain any special characters i.e. %.<br></td>
+<td>All scanned images should be in the same folder.<br><br>Files names should not contain any special characters i.e. %.</td>
 </tr>
 <tr>
-<td>File Size<br></td>
-<td>500 megabytes or a maximum of 1000 files<br></td>
+<td>File Size</td>
+<td>500 megabytes or a maximum of 1000 files</td>
 </tr>
 <tr>
-<td>Others<br></td>
-<td>Ensure that scanned images are straight and not slanted.<br></td>
+<td>Others</td>
+<td>Ensure that scanned images are straight and not slanted.</td>
 </tr>
 </tbody>
 </table>
