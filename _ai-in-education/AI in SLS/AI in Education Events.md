@@ -48,8 +48,8 @@ third_nav_title: AI in SLS
 <p>26 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://file.go.gov.sg/customslsposter.pdf" rel="noopener noreferrer nofollow" target="_blank">CTLE Webinar: Strengthening Customisation of Student Learning using AI-enabled Tools and Platforms in the SLS</a>
-</p>
+<p>CTLE Webinar: Strengthening Customisation of Student Learning using AI-enabled
+Tools and Platforms in the SLS (CLOSED)</p>
 </td>
 </tr>
 <tr>
