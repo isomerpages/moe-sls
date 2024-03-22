@@ -90,8 +90,10 @@ Tools and Platforms in the SLS (CLOSED)</p>
 </tr>
 </tbody>
 </table>
-<h3>Past Events in 2023</h3>
+<h3>Past Events </h3>
 <p>Check out the recordings of our past events below.</p>
+<p><strong><u>2023</u></strong>
+</p>
 <table>
 <tbody>
 <tr>
@@ -117,6 +119,29 @@ Tools and Platforms in the SLS (CLOSED)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.youtube.com/watch?v=4blj2iwMyao&amp;ab_channel=ETDtogo" rel="noopener noreferrer nofollow" target="_blank"><u>SLS Spotlight: Enhance Teaching &amp; Learning with AI!</u></a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><strong><u>2024</u></strong>
+</p>
+<table>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Dates</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Events</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>19, 21 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://intranet.moe.gov.sg/etd/edtechmp2030/Pages/Resources.aspx" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar Series</a>
 </p>
 </td>
 </tr>
