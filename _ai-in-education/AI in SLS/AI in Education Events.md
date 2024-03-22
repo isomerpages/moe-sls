@@ -92,11 +92,12 @@ Tools and Platforms in the SLS (CLOSED)</p>
 </table>
 <h3>Past Events</h3>
 <p>Check out the recordings of our past events below.</p>
-<p><strong><u>2023</u></strong>
-</p>
 <table>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Dates</p>
 </th>
@@ -105,6 +106,9 @@ Tools and Platforms in the SLS (CLOSED)</p>
 </th>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>2023</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>13 Sep</p>
 </td>
@@ -122,26 +126,15 @@ Tools and Platforms in the SLS (CLOSED)</p>
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<p><strong><u>2024</u></strong>
-</p>
-<table>
-<tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Dates</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Events</p>
-</th>
-</tr>
-<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>19, 21 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://intranet.moe.gov.sg/etd/edtechmp2030/Pages/Resources.aspx" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar Series </a>
+<p><a href="https://intranet.moe.gov.sg/etd/edtechmp2030/Pages/Resources.aspx" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar Series</a>
 </p>
 </td>
 </tr>
