@@ -90,7 +90,7 @@ Tools and Platforms in the SLS (CLOSED)</p>
 </tr>
 </tbody>
 </table>
-<h3>Past Events </h3>
+<h3>Past Events</h3>
 <p>Check out the recordings of our past events below.</p>
 <p><strong><u>2023</u></strong>
 </p>
@@ -141,7 +141,7 @@ Tools and Platforms in the SLS (CLOSED)</p>
 <p>19, 21 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://intranet.moe.gov.sg/etd/edtechmp2030/Pages/Resources.aspx" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar Series</a>
+<p><a href="https://intranet.moe.gov.sg/etd/edtechmp2030/Pages/Resources.aspx" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar Series </a>
 </p>
 </td>
 </tr>
