@@ -48,8 +48,8 @@ third_nav_title: AI in SLS
 <p>26 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://file.go.gov.sg/customslsposter.pdf" rel="noopener noreferrer nofollow" target="_blank">CTLE Webinar: Strengthening Customisation of Student Learning using AI-enabled Tools and Platforms in the SLS</a>
-</p>
+<p>CTLE Webinar: Strengthening Customisation of Student Learning using AI-enabled
+Tools and Platforms in the SLS (CLOSED)</p>
 </td>
 </tr>
 <tr>
@@ -90,11 +90,14 @@ third_nav_title: AI in SLS
 </tr>
 </tbody>
 </table>
-<h3>Past Events in 2023</h3>
+<h3>Past Events</h3>
 <p>Check out the recordings of our past events below.</p>
 <table>
 <tbody>
 <tr>
+<th rowspan="1" colspan="1">
+<p></p>
+</th>
 <th rowspan="1" colspan="1">
 <p>Dates</p>
 </th>
@@ -103,6 +106,9 @@ third_nav_title: AI in SLS
 </th>
 </tr>
 <tr>
+<td rowspan="2" colspan="1">
+<p>2023</p>
+</td>
 <td rowspan="1" colspan="1">
 <p>13 Sep</p>
 </td>
@@ -118,6 +124,18 @@ third_nav_title: AI in SLS
 <td rowspan="1" colspan="1">
 <p><a href="https://www.youtube.com/watch?v=4blj2iwMyao&amp;ab_channel=ETDtogo" rel="noopener noreferrer nofollow" target="_blank"><u>SLS Spotlight: Enhance Teaching &amp; Learning with AI!</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>2024</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>19, 21 Mar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://intranet.moe.gov.sg/etd/edtechmp2030/Pages/Resources.aspx" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar Series </a>(requires
+access to MOE intranet, S/N 2)</p>
 </td>
 </tr>
 </tbody>
