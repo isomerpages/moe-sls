@@ -31,6 +31,6 @@ variant: markdown
 </li>
 <li>Click <strong>X</strong> to exit the Lesson Plan.</li>
 </ol>
-<h2 id="-sequential-activity-section-access-new-">Sequential Activity/Section access (NEW)</h2>
+<h2 id="-sequential-activity-section-access-new-">Sequential Activity, Quiz or Section access (NEW)</h2>
 <hr>
 <p>You can  <a target="_blank" href="/teacher-user-guide/differentiate/add-activity-quiz-section-prerequisites/">Add Activity, Quiz or Section Prerequisites</a> to a Lesson. Activities/Sections indicated with Prerequisites will be locked until students complete the required activity/section.</p>
