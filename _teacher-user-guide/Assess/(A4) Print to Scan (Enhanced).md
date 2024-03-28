@@ -79,14 +79,10 @@ third_nav_title: Assess
 	<li>The uploaded image files must be zipped in a folder (.zip) in order for it to be processed.</li></ul>
 <p>If you encounter any errors, please refer to the recommended settings below.</p>
 <table>
-<thead>
-<tr>
-<th>Dots per Inch</th>
-<th>300dpi or at least 150</th>
-</tr>
-</thead>
 <tbody>
-<tr>
+<tr><td>Dots per Inch</td>
+<td>300dpi or at least 150</td>
+</tr><tr>
 <td>Image Format</td>
 <td>jpg, jpeg or png. Do not use PDF. Uploaded files have to be zipped.</td>
 </tr>
