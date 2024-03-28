@@ -7,9 +7,8 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(D2) Follow &amp; Unfollow Subjects</h1><hr>
-<ol>
-    <li>You may follow other subjects of interest beyond the ones assigned to you.</li>
-    <li>Open the right menu and click <strong>My Subjects</strong>.</li>
+<p>You may follow other subjects of interest beyond the ones assigned to you.</p>
+  <ol>  <li>Open the right menu and click <strong>My Subjects</strong>.</li>
 	<img style="width: 50%;" alt="Follow &amp; Unfollow Subjects" src="/images/2Teacher/D-FollowSubjects.png">
 <li>Select <strong>Follow More Subjects</strong>.</li>
 <img alt="Follow &amp; Unfollow Subjects" src="/images/2Teacher/D-FollowSubjects1.png">
