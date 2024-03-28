@@ -31,13 +31,6 @@ variant: markdown
 </li>
 <li>Click <strong>X</strong> to exit the Lesson Plan.</li>
 </ol>
-<h2 id="-sequential-activity-section-access-new-">Sequential Activity/Section access (NEW)</h2>
+<h2 id="-sequential-activity-section-access-new-">Sequential Activity, Quiz or Section access (NEW)</h2>
 <hr>
-<p>You can add <a target="_blank" href="/teacher-user-guide/differentiate/add-section-prerequisites/">Acitivity/Section Prerequisite</a> to a Lesson. Activities/Sections indicated with Prerequisites will be locked until students complete the required activity/section.</p>
-
-<h2 id="-activity-section-prerequisites-">Activity/Section Prerequisites</h2>
-<hr>
-<p>Activities/Sections can only be accessed after the previous activity/section is complete.</p>
-<ol><li>Select the checkbox “Sequential Activity/Section Access” and click <b>Apply</b>. Click <b>OK</b> to confirm.
-	<p><u>Note</u>: All existing activity/section prerequisites will be removed.</p>
-	</li></ol>
+<p>You can  <a target="_blank" href="/teacher-user-guide/differentiate/add-activity-quiz-section-prerequisites/">Add Activity, Quiz or Section Prerequisites</a> to a Lesson. Activities, Quizzes or Sections indicated with Prerequisites will be locked until students complete the required activity/section.</p>

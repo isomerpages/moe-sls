@@ -1,5 +1,5 @@
 ---
-title: (A4) Print to Scan (New)
+title: (A4) Print to Scan (Enhanced)
 permalink: /teacher-user-guide/assess/print-to-scan/
 variant: markdown
 description: ""
@@ -8,7 +8,7 @@ third_nav_title: Assess
 ---
 <h1>(A4) Print-to-Scan (Enhanced)</h1>
 <p>From R20, teachers can print Teacher-Marked Quizzes as physical worksheets.</p>
-<p>Students may complete the quiz on response sheets which are then scanned and uploaded to SLS, where their responses on hardcopy worksheets can be transferred to the corresponding questions in SLS for teacher marking. Marking can also be done with <a target="_blank" href="/teacher-user-guide/assess/add-language-feedback-assistant-for-english/"> Language Feedback Assistant for English</a> and <a target="_blank" href="/teacher-user-guide/assess/add-short-answer-feedback-assistant/"> Short Answer Feedback Assistant</a></p>
+<p>Students may complete the quiz on response sheets which are then scanned and uploaded to SLS, where their responses on hardcopy worksheets can be transferred to the corresponding questions in SLS for teacher marking. Marking can also be done with <a target="_blank" href="/teacher-user-guide/assess/add-short-answer-feedback-assistant/"> Short Answer Feedback Assistant</a>.</p>
 <p><b>Important</b>: Only Multiple-Choice, Multiple-Response and Free-Response questions are supported, in English language. Students should be instructed to tick the options in pen or pencil in order for the scan to be read correctly. Using tables in pre-populated answers for Free-Response questions are discouraged.</p>
 <h2>View as Print-to-Scan Quiz</h2>
 <hr>
@@ -79,14 +79,10 @@ third_nav_title: Assess
 	<li>The uploaded image files must be zipped in a folder (.zip) in order for it to be processed.</li></ul>
 <p>If you encounter any errors, please refer to the recommended settings below.</p>
 <table>
-<thead>
-<tr>
-<th>Dots per Inch</th>
-<th>300dpi or at least 150</th>
-</tr>
-</thead>
 <tbody>
-<tr>
+<tr><td>Dots per Inch</td>
+<td>300dpi or at least 150</td>
+</tr><tr>
 <td>Image Format</td>
 <td>jpg, jpeg or png. Do not use PDF. Uploaded files have to be zipped.</td>
 </tr>
