@@ -18,6 +18,7 @@ variant: markdown
 <li>Your <strong>Groups</strong>, if you are the Owner of those Class Groups</li>
 </ul>
 </li>
+<p><u>Note</u>: Students from Class Groups (Class) from School Cockpit cannot be added as a Group.</p>
 <li>You can add teacher users from your school or other schools as Students in your Class Group.
 <br><u>Note</u>: Teachers added as a Student to a Group will only be able to access this Class Group using their accounts in <a target="_blank" href="/teacher-user-guide/customise/switch-to-student-account/">Student View</a>. They will also be given the Liaison Teacher role.</li>
 <li>You can add teachers with the following roles:
