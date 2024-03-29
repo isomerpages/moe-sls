@@ -13,7 +13,7 @@ variant: markdown
 <ol>
 <li>To access the homepage, open the left menu or click the <strong>Student Learning Space</strong> icon found in the header.</li>
 <li><p>Up to 12 Assignments that are due in the next 7 days will be shown under the Assignments tab on your homepage.</p>
-
+<img src="/images/1Student/AS-AccessAssignment1.png">
 </li>
 </ol>
 <h2 id="-all-assignments-that-are-in-progress-upcoming-or-complete-">All Assignments that are In Progress, Upcoming or Complete</h2>
@@ -39,7 +39,7 @@ variant: markdown
 <li><p>You can choose to view your Assignments in Card view <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">.</p>
 </li>
 <li><p>Assignments in List view are sorted according to the latest Start Date. You may also sort the assignments according to the Assignment Title, and Due Date.</p>
-<p> <img src="/images/1Student/AS-AccessAssignment3.png"></p>
+<p><img src="/images/1Student/AS-AccessAssignment3.png"></p>
 </li>
 </ol>
 <h2 id="-assignments-for-a-specific-class-group-">Assignments for a Specific Class Group</h2>
