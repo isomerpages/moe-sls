@@ -48,6 +48,7 @@ variant: markdown
 <li><p>You will be able to delete the student's reply to Teacher Comment.</p>
 </li>
 </ol>
+<img alt="Add Teacher Comments" style="width: 70%;" src="/images/2Teacher/As-TeacherComments3.png">
 <h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
