@@ -19,6 +19,7 @@ third_nav_title: Assess
 	<li><strong>Automatic Submission</strong> - If this states “Yes”, automatic submission is turned on and the quiz will be submitted when time is up whether you have completed it or not.</li>
 	<u>Note</u>: If you do not see Automatic Submission, you can submit the quiz even if you exceed the time allocated.
 	<li><strong>Total Marks</strong> - The first mark is the total marks for questions that will be automatically marked. Marks in bracket include questions that will not be automatically marked.</li>
+	<li><strong>Start Quiz</strong> - This quiz is timed and cannot be paused after you begin. You will see a timer once you start the quiz.</li>
 	<p><img style="width: 80%;" src="/images/1Student/AS_NavigateQuizzes1.png"></p>
 </ul>
 </ol>
