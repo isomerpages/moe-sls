@@ -139,6 +139,7 @@ Group Discussion (CLOSED)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>19, 21, 28 Mar</p>
+<p>2 Apr</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
