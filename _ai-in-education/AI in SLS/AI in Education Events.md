@@ -143,7 +143,7 @@ Group Discussion (CLOSED)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://intranet.moe.gov.sg/etd/edtechmp2030/Pages/Resources.aspx" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar Series </a>(requires
-access to MOE intranet, S/N 2)</p>
+access to MOE intranet, S/N 2.4)</p>
 </td>
 </tr>
 </tbody>
