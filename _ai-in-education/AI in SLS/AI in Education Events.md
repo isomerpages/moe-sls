@@ -82,8 +82,8 @@ Discussion (CLOSED)</p>
 <p>9 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fa-math-webinar-6" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 6: Pedagogical Considerations in Lesson Enactment and Group Discussion</a>
-</p>
+<p>FA-Math Webinar 6: Pedagogical Considerations in Lesson Enactment and
+Group Discussion (CLOSED)</p>
 </td>
 </tr>
 </tbody>
