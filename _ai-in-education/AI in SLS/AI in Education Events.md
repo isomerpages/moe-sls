@@ -49,7 +49,7 @@ third_nav_title: AI in SLS
 </td>
 <td rowspan="1" colspan="1">
 <p>CTLE Webinar: Strengthening Customisation of Student Learning using AI-enabled
-Tools and Platforms in the SLS (CLOSED)</p>
+Tools and Platforms in the SLS (Session 1) (CLOSED)</p>
 </td>
 </tr>
 <tr>
@@ -84,6 +84,15 @@ Discussion (CLOSED)</p>
 <td rowspan="1" colspan="1">
 <p>FA-Math Webinar 6: Pedagogical Considerations in Lesson Enactment and
 Group Discussion (CLOSED)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/customslsposter" rel="noopener noreferrer nofollow" target="_blank">CTLE Webinar: Strengthening Customisation of Student Learning using AI-enabled Tools and Platforms in the SLS (Session 2)</a>
+</p>
 </td>
 </tr>
 </tbody>
