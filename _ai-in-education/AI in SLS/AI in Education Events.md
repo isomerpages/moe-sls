@@ -57,8 +57,7 @@ Tools and Platforms in the SLS (CLOSED)</p>
 <p>28 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fa-math-webinar-3" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 3: Arithmetic Notebook, Multistep (II)</a>
-</p>
+<p>FA-Math Webinar 3: Arithmetic Notebook, Multistep (II) (CLOSED)</p>
 </td>
 </tr>
 <tr>
@@ -66,8 +65,7 @@ Tools and Platforms in the SLS (CLOSED)</p>
 <p>2 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fa-math-webinar-4" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 4: Geometry and Graphs</a>
-</p>
+<p>FA-Math Webinar 4: Geometry and Graphs (CLOSED)</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +129,8 @@ Tools and Platforms in the SLS (CLOSED)</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19, 21 Mar</p>
+<p>19, 21, 28 Mar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://intranet.moe.gov.sg/etd/edtechmp2030/Pages/Resources.aspx" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar Series </a>(requires
