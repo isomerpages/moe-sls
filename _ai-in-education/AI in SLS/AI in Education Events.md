@@ -138,8 +138,7 @@ Group Discussion (CLOSED)</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19, 21, 28 Mar,</p>
-<p>2 Apr</p>
+<p>19, 21, 28 Mar</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
