@@ -56,7 +56,7 @@ variant: markdown
 <ul>
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">(E1,i) Assign Past Exam Questions</a></li>	
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/conduct-eassessments-in-class/">(E1,ii) Conduct e-Assessments in Class</a></li>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/als 24 jul.pdf">(E1,iii) Features for Math Learning (Adaptive Learning System)</a></li>	
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/als_14_feb.pdf">(E1,iii) Features for Math Learning (Adaptive Learning System)</a></li>	
 <li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/fa-math 10 jul.pdf">(E1,iv) Features for Math Learning (Feedback Assistant - Mathematics)</a></li>		
 <li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/using sls for dept review.pdf">(E1,v) Using SLS for Department Teaching &amp; Learning Review</a></li>
 </ul>
