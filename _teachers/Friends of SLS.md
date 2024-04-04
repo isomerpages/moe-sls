@@ -169,10 +169,6 @@ variant: markdown
 <td><p>Palm View Primary School</p></td>
 </tr>
 <tr>
-<td><p>Ms Koh WenYu</p></td>
-<td><p>Pathlight School</p></td>
-</tr>
-<tr>
 <td><p>Ms Heng Ci Pei</p></td>
 <td><p>Paya Lebar Methodist Girls' School (Secondary)</p></td>
 </tr>

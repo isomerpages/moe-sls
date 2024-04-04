@@ -13,7 +13,7 @@ variant: markdown
 <h3 id="about-assignments">About Assignments</h3>
 <hr>
 <p>Each Assignment contains the following information, reflected on each Assignment card: </p>
-
+<img src="/images/1Student/AS-AboutAssignment1.png">
 <ol>
 <li>Title - Assignment Title</li>
 <li>Class Group - Class Group to which the Assignment was given</li>

@@ -11,6 +11,7 @@ variant: markdown
 <p><u>Note</u>: Only questions that are selected by your teacher or the lesson author to be included will be shown in the Learning Progress. </p>
 <ol>
 <li><p>On the Learning Progress page, you may view your overall progress according to&nbsp;Topics&nbsp;and&nbsp;Sub-topics&nbsp;by&nbsp;selecting&nbsp;the <strong>Topical</strong> tab. Under each Topic/Sub-topic, the Awarded Marks, Total Marks, and Marks (shown in percentage) are displayed.</p>
+<img alt="View by Topic" style="width: 70%" src="/images/1Student/TP_LPTopical3.png">
 </li>
 <li><p>From the list of Topics, you may view the Subtopics by clicking on the <strong>dropdown arrow</strong> beside each Topic.</p>
 <p><u>Note</u>: The breakdown of Awarded Marks, Total Marks, and Marks (shown in percentage) are shown for each subtopic.</p>

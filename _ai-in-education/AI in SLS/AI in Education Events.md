@@ -49,7 +49,7 @@ third_nav_title: AI in SLS
 </td>
 <td rowspan="1" colspan="1">
 <p>CTLE Webinar: Strengthening Customisation of Student Learning using AI-enabled
-Tools and Platforms in the SLS (CLOSED)</p>
+Tools and Platforms in the SLS (Session 1) (CLOSED)</p>
 </td>
 </tr>
 <tr>
@@ -57,8 +57,7 @@ Tools and Platforms in the SLS (CLOSED)</p>
 <p>28 Mar</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fa-math-webinar-3" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 3: Arithmetic Notebook, Multistep (II)</a>
-</p>
+<p>FA-Math Webinar 3: Arithmetic Notebook, Multistep (II) (CLOSED)</p>
 </td>
 </tr>
 <tr>
@@ -66,8 +65,7 @@ Tools and Platforms in the SLS (CLOSED)</p>
 <p>2 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fa-math-webinar-4" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 4: Geometry and Graphs</a>
-</p>
+<p>FA-Math Webinar 4: Geometry and Graphs (CLOSED)</p>
 </td>
 </tr>
 <tr>
@@ -75,8 +73,8 @@ Tools and Platforms in the SLS (CLOSED)</p>
 <p>4 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fa-math-webinar-5" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 5: Design Considerations in Lesson Preparation and Group Discussion</a>
-</p>
+<p>FA-Math Webinar 5: Design Considerations in Lesson Preparation and Group
+Discussion (CLOSED)</p>
 </td>
 </tr>
 <tr>
@@ -84,7 +82,16 @@ Tools and Platforms in the SLS (CLOSED)</p>
 <p>9 Apr</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/fa-math-webinar-6" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar 6: Pedagogical Considerations in Lesson Enactment and Group Discussion</a>
+<p>FA-Math Webinar 6: Pedagogical Considerations in Lesson Enactment and
+Group Discussion (CLOSED)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>23 Aug</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/customslsposter" rel="noopener noreferrer nofollow" target="_blank">CTLE Webinar: Strengthening Customisation of Student Learning using AI-enabled Tools and Platforms in the SLS (Session 2)</a>
 </p>
 </td>
 </tr>
@@ -131,11 +138,12 @@ Tools and Platforms in the SLS (CLOSED)</p>
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>19, 21 Mar</p>
+<p>19, 21, 28 Mar</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://intranet.moe.gov.sg/etd/edtechmp2030/Pages/Resources.aspx" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar Series </a>(requires
-access to MOE intranet, S/N 2)</p>
+access to MOE intranet, S/N 2.4)</p>
 </td>
 </tr>
 </tbody>
