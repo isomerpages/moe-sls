@@ -2331,9 +2331,9 @@ Others: Whatsapp 9046 0803
 <td>Paya Lebar Methodist Girls' School (Secondary)</td>
 <td>
 Tel: 62816606
-<br>Email: lee_wei_te@plmgss.edu.sg
+<br>Email: it_support@plmgss.edu.sg
 <br>
-Others: <a href="https://docs.google.com/forms/d/17D1eldhpMb7m0MsAcUfTOoooZnBBS4ZlEwM2f4rTUOA/viewform?edit_requested=true">Google Form</a>
+Others: <a href="https://form.gov.sg/5e4344864c1a3300115e873c">FormSG</a>
 
 
 </td>
