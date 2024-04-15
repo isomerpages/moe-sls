@@ -76,21 +76,9 @@ would be 500 words long. The default Response Size is set to <strong>Medium</str
 </div>
 </li>
 <li>
-<p>Specify a detailed mark scheme in the <strong>Suggested Answer</strong>:</p>
-<ul>
-<li>
-<p>provide as exhaustive an answer key as possible in <strong>bullet points</strong> or
-separate points with line breaks</p>
-</li>
-<li>
-<p>include the <strong>mark allocation</strong> for each point in the answer
-key in the format [1m]</p>
-</li>
-<li>
-<p>keep each point <strong>succinct</strong>, do not over-elaborate or include
-alternative phrasings</p>
-</li>
-</ul>
+<p>Specify a detailed mark scheme in the <strong>Suggested Answer</strong>.
+Click on this <a href="https://www.learning.moe.edu.sg/files/Marcomms/Feature%20Highlights/shortansfaposter.pdf" rel="noopener noreferrer nofollow" target="_blank">e-Poster</a> to
+view tips on writing suggested answers for Short Answer Feedback Assistant.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_AddShortAnsFA04.png">
 </div>
