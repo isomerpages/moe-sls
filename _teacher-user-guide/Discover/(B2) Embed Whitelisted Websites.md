@@ -414,7 +414,7 @@ https://www.funbrain.com
 https://app.gather.town
 </td>
 </tr>
-<tr><td><strong>Gimkit <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Gimkit</strong></td>
 <td>Educational Games and Tools</td>
 <td>
 https://www.gimkit.com
@@ -528,7 +528,7 @@ https://www.iorad.com
 https://jamboard.google.com
 </td>
 </tr>
-<tr><td><strong>Javalab <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Javalab</strong></td>
 <td>Simulation Resource Site</td>
 <td>
 https://javalab.org/en
@@ -1644,6 +1644,8 @@ https://meetohschool.padlet.org
 <br>
 https://mfss.padlet.org
 <br>
+https://mgss.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://moelc.padlet.org
 <br>
 https://msh.padlet.org
@@ -1651,6 +1653,8 @@ https://msh.padlet.org
 https://nbss.padlet.org
 <br>
 https://ncpri.padlet.org
+<br>
+https://nie.padlet.org <font color="#FBBC04">NEW!</font>
 <br>
 https://northlandsec.padlet.org
 <br>
@@ -1673,6 +1677,8 @@ https://plmgsp.padlet.org
 https://punggolpri.padlet.org
 <br>
 https://punggolsecschool.padlet.org
+<br>
+https://rafflesgirlsschool.padlet.org <font color="#FBBC04">NEW!</font>
 <br>
 https://riedu.padlet.org
 <br>
