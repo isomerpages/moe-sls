@@ -67,4 +67,8 @@ variant: markdown
 <a target="_blank" href="https://youtu.be/4blj2iwMyao"><img style="width: 50%;" src="/images/2Teacher/slsspotlightenhancingteachingandlearningwithai.png"></a>
 </td>
 </tr>
-</tbody></table>
+</tbody></table>      
+<p>SLS Spotlight: Enhancing Teaching &amp; Learning with AI!</p>
+<a target="_blank" href="https://youtu.be/4blj2iwMyao"><img style="width: 50%;" src="/images/2Teacher/slsspotlightenhancingteachingandlearningwithai.png"></a>
+
+
