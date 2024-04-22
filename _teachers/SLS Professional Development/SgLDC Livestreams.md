@@ -9,7 +9,7 @@ variant: markdown
 <h1 class="page-title">SgLDC Spotlight Livestreams</h1>
 <hr>
 
-<table class="sug-datatable basic">
+SLS Spotlight: Enhancing Teaching &amp; Learning with AI!<p></p><a target="_blank" href="https://youtu.be/4blj2iwMyao"><img style="width: 50%;" src="/images/2Teacher/slsspotlightenhancingteachingandlearningwithai.png"></a><table class="sug-datatable basic">
 <thead>
 <tr>
 <th style="text-align: center; vertical-align: middle;">Links to Past Livestreams</th>
@@ -67,8 +67,8 @@ variant: markdown
 <a target="_blank" href="https://youtu.be/4blj2iwMyao"><img style="width: 50%;" src="/images/2Teacher/slsspotlightenhancingteachingandlearningwithai.png"></a>
 </td>
 </tr>
-</tbody></table>      
-<p>SLS Spotlight: Enhancing Teaching &amp; Learning with AI!</p>
-<a target="_blank" href="https://youtu.be/4blj2iwMyao"><img style="width: 50%;" src="/images/2Teacher/slsspotlightenhancingteachingandlearningwithai.png"></a>
 
 
+
+
+</tbody></table>  
