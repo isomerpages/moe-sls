@@ -88,7 +88,7 @@ variant: markdown
             </td>            
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
-                <p>SgLDC Livestream: Session 4</p>
+                <p>SgLDC Livestream: Session 1</p>
             </td>
         </tr>
         <tr>            
@@ -116,7 +116,7 @@ variant: markdown
             </td>            
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
-                <p>SgLDC Livestream: Session 5</p>
+                <p>SgLDC Livestream: Session 2</p>
             </td>
         </tr>
         <tr>            
