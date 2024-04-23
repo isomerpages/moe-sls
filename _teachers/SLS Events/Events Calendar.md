@@ -42,7 +42,6 @@ variant: markdown
                 <p>8 Mar</p>
                 <p>11 Mar</p>
                 <p>11 Mar<br>to<br> 15 Mar</p>
-                <p>25 Mar</p>
             </td>            
             <td>
                 <p><a target="_blank" href="/partners/events/sls-partners-engagement-session-2024/">SLS Partners Engagement Session</a></p>
@@ -50,29 +49,24 @@ variant: markdown
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p><a target="_blank" href="https://go.gov.sg/sls-level1-course">SLS Level 1 Certification</a><br><br><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/sls-level2-course-organise">SLS Level 2 - Organise Certification</a></p>
-                <p>SgLDC Livestream: Session 1</p>
             </td>
         </tr>
         <tr>            
             <td>
                 <p>5 Apr</p>
                 <p>15 Apr</p>
-                <p>Apr</p>
             </td>            
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
-                <p>SgLDC Livestream: Session 2</p>
             </td>
         </tr>
         <tr>            
             <td>
                 <p>3 May</p>
-                <p>May</p>
             </td>            
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)&nbsp;</p>
-                <p>SgLDC Livestream: Session 3</p>
             </td>
         </tr>
         <tr>            
