@@ -7,9 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 class="page-title">SgLDC Spotlight Livestreams</h1>
-<hr>
-
-<table class="sug-datatable basic">
+<hr><table class="sug-datatable basic">
 <thead>
 <tr>
 <th style="text-align: center; vertical-align: middle;">Links to Past Livestreams</th>
