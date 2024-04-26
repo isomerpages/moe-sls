@@ -7,9 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 class="page-title">SgLDC Spotlight Livestreams</h1>
-<hr>
-
-SLS Spotlight: Enhancing Teaching &amp; Learning with AI!<p></p><a target="_blank" href="https://youtu.be/4blj2iwMyao"><img style="width: 50%;" src="/images/2Teacher/slsspotlightenhancingteachingandlearningwithai.png"></a><table class="sug-datatable basic">
+<hr><table class="sug-datatable basic">
 <thead>
 <tr>
 <th style="text-align: center; vertical-align: middle;">Links to Past Livestreams</th>
@@ -67,8 +65,4 @@ SLS Spotlight: Enhancing Teaching &amp; Learning with AI!<p></p><a target="_blan
 <a target="_blank" href="https://youtu.be/4blj2iwMyao"><img style="width: 50%;" src="/images/2Teacher/slsspotlightenhancingteachingandlearningwithai.png"></a>
 </td>
 </tr>
-
-
-
-
-</tbody></table>  
+</tbody></table>
