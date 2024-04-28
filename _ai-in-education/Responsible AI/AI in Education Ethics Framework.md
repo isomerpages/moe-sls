@@ -48,12 +48,9 @@ as expressed in our Ethos of the Teaching Profession.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="overview of ethics principles showing agency, inclusivity, fairness and safety." src="/images/AI in Education/ResponsibleAI_Overview.png">
 </div>
-<h2>Agency</h2>
+<h2>Agency <img src="/images/AI in Education/ResponsibleAI_AgencyIcon.png" style="width:2.5rem; display: inline;"></h2>
 <hr>
-<p>AIEd systems should preserve students’ and teachers’ choice and control<strong> </strong>over
-important personal and professional decisions. Students should be able
-to decide what, when or how they wish to learn, while teachers should also
-be able to influence AI-supported decisions.&nbsp;</p>
+<p>AIEd systems should preserve students’ and teachers’ choice and control over important personal and professional decisions. Students should be able to decide what, when or how they wish to learn, while teachers should also be able to influence AI-supported decisions.&nbsp;</p>
 <h4><strong>How agency is practised</strong></h4>
 <p>To allow our teachers to remain key in designing and facilitating learning
 experiences which cater to students’ learning needs, in line with our Singapore
@@ -74,7 +71,7 @@ Competencies.</p>
 </div>
 <p><em><sup>1</sup> The <a href="https://www.moe.gov.sg/education-in-sg/student-learning-space" class="OYPEnA text-decoration-underline text-strikethrough-none" rel="noopener" target="_blank">Student Learning Space (SLS)</a> is Singapore’s national online learning platform.</em>
 </p>
-<h2>Inclusivity</h2>
+<h2>Inclusivity <img src="/images/AI in Education/ResponsibleAI_InclusivityIcon.png" style="width:2.5rem; display: inline;"></h2>
 <hr>
 <p>We believe that every child can learn and achieve. All users, regardless
 of background or abilities, should be able to reap the benefits of AIEd
@@ -93,7 +90,7 @@ students&nbsp;or deepen educational inequalities.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/ResponsibleAI_InclusivityCS.png">
 </div>
-<h2>Fairness</h2>
+<h2>Fairness <img src="/images/AI in Education/ResponsibleAI_FairnessIcon.png" style="width:3.2rem; display: inline;"></h2>
 <hr>
 <p>AIEd systems should be free from bias<strong> </strong>and be accurate.
 The use of AIEd systems should also be transparent (made known to users)
@@ -125,7 +122,7 @@ purpose and context.&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/ResponsibleAI_FairnessCS2.png">
 </div>
-<h2>Safety</h2>
+<h2>Safety <img src="/images/AI in Education/ResponsibleAI_SafetyIcon.png" style="width:2.5rem; display: inline;"></h2>
 <hr>
 <p>Learners’ interests, privacy and well-being should be protected, and measures
 should be in place to ensure the safe use of AIEd systems.</p>
@@ -148,7 +145,7 @@ learning environment, we:</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/ResponsibleAI_SafetyCS2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/ResponsibleAI_CS2.png">
 </div>
 <p><em><sup>2</sup> See usage policies or terms of service for <a href="https://openai.com/policies/usage-policies" rel="noopener noreferrer nofollow" target="_blank">ChatGPT</a>, <a href="https://ai.google/responsibility/principles/" rel="noopener noreferrer nofollow" target="_blank">Gemini</a> and <a href="https://www.anthropic.com/legal/aup" rel="noopener noreferrer nofollow" target="_blank">Claude</a>.</em>
 </p>
