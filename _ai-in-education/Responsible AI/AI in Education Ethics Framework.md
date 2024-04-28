@@ -145,7 +145,7 @@ learning environment, we:</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/ResponsibleAI_CS2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/ResponsibleAI_SafetyCS2.png">
 </div>
 <p><em><sup>2</sup> See usage policies or terms of service for <a href="https://openai.com/policies/usage-policies" rel="noopener noreferrer nofollow" target="_blank">ChatGPT</a>, <a href="https://ai.google/responsibility/principles/" rel="noopener noreferrer nofollow" target="_blank">Gemini</a> and <a href="https://www.anthropic.com/legal/aup" rel="noopener noreferrer nofollow" target="_blank">Claude</a>.</em>
 </p>
