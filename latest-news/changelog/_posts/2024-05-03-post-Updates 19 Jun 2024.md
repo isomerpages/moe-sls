@@ -26,12 +26,10 @@ variant: markdown
 <details><summary><h4>Class Groups</h4></summary>
 <ol>
     <li>Users can <strong>sort</strong> Assignments and Resources in Class Groups.</li>
-</ol>
 <ul>
     <li>For Assignments, users can sort them according to Assignment Title, Due Date and Start Date when viewing the Assignments.</li>
     <li>For Resources, users can sort according to Title, Start Date and Modified Date when viewing the Resources.</li>
 </ul>
-<ol>
     <li>Teachers can <strong>create new Modules</strong> in Class Group Resource without having to upload from My Drive.</li>
 </ol></details>
 <details><summary><h4>Lesson Authoring</h4></summary>
