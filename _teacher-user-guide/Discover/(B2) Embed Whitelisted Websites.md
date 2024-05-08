@@ -793,6 +793,12 @@ https://tracker.physlets.org/trackerJS
 https://pigeonhole.at
 </td>
 </tr>
+<tr><td><strong>Pin It</strong></td>
+<td>Learn Chinese Characters Tool</td>
+<td>
+https://pinit-nus.com <font color="#FBBC04">NEW!</font>
+</td>
+</tr>
 <tr><td><strong>Pixlr</strong></td>
 <td>AI Tool</td>
 <td>
@@ -1455,6 +1461,12 @@ https://docs.google.com/spreadsheets
 https://docs.google.com/presentation
 </td>
 </tr>
+<tr><td><strong>H5P</strong></td>
+<td>Interactive Content Authoring Tool</td>
+<td>
+https://ri-etd.h5p.com <font color="#FBBC04">NEW!</font>
+</td>
+</tr>
 <tr><td><strong>HeyHi</strong></td>
 <td>Worksheet and Meeting Tool</td>
 <td>
@@ -1517,6 +1529,12 @@ https://www.mindmeister.com
 https://authoring.concord.org
 <br>
 https://lab.concord.org
+</td>
+</tr>
+<tr><td><strong>Mural </strong></td>
+<td>Digital Whiteboard</td>
+<td>
+https://app.mural.co <font color="#FBBC04">NEW!</font>
 </td>
 </tr>
 <tr><td><strong>Nearpod</strong></td>
@@ -1632,6 +1650,8 @@ https://jvs.padlet.org
 <br>
 https://jwps.padlet.org
 <br>
+https://kcpss.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://kcs.padlet.org
 <br>
 https://kemingprimaryschool.padlet.org
@@ -1644,7 +1664,7 @@ https://meetohschool.padlet.org
 <br>
 https://mfss.padlet.org
 <br>
-https://mgss.padlet.org <font color="#FBBC04">NEW!</font>
+https://mgss.padlet.org 
 <br>
 https://moelc.padlet.org
 <br>
@@ -1654,7 +1674,7 @@ https://nbss.padlet.org
 <br>
 https://ncpri.padlet.org
 <br>
-https://nie.padlet.org <font color="#FBBC04">NEW!</font>
+https://nie.padlet.org 
 <br>
 https://northlandsec.padlet.org
 <br>
@@ -1678,7 +1698,7 @@ https://punggolpri.padlet.org
 <br>
 https://punggolsecschool.padlet.org
 <br>
-https://rafflesgirlsschool.padlet.org <font color="#FBBC04">NEW!</font>
+https://rafflesgirlsschool.padlet.org 
 <br>
 https://riedu.padlet.org
 <br>
@@ -1721,6 +1741,8 @@ https://xingnanprimary.padlet.org
 https://xnpsict.padlet.org
 <br>
 https://yijc.padlet.org
+<br>
+https://yss.padlet.org <font color="#FBBC04">NEW!</font>
 <br>
 https://yuanchingsec.padlet.org
 <br>
