@@ -32,7 +32,6 @@ variant: markdown
 <li><p>Suggested Answer - The suggested answer to the question. This is shown to students after they have submitted their answers.</p>
 </li>
 <li><p>Marks - You can set the number of marks. The default is one mark.</p>
-	<p><u>Note</u>: Marks will have to be awarded before students can view the Suggested Answer and Feedback. </p>
 </li>
 <li><p>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> for editing the Question Component Details card.</p>
 </li>
