@@ -6,13 +6,13 @@ description: ""
 image: /images/FaviconLight.png
 ---
 <h1>News Articles</h1>
-<h4><a href="https://www.bangkokpost.com/world/2789127/singapore-introduces-ai-in-classrooms" rel="noopener noreferrer nofollow" target="_blank">Singapore introduces AI in classrooms</a></h4>
+<h4><a href="https://english.kyodonews.net/news/2024/05/3424449409ec-feature-singapore-introduces-ai-in-classrooms-caters-to-individual-need.html" rel="noopener noreferrer nofollow" target="_blank">Singapore introduces AI in classrooms, caters to individual need</a></h4>
 <p>At Lakeside Primary School in Singapore, students access an Adaptive Learning
 System which uses artificial intelligence to cater to their individual
 needs in the learning of Mathematics.
 <br>
 </p>
-<p>Bangkok Post, Published: 8 May 2024</p>
+<p>Kyodo News, Published: 11 May 2024</p>
 <hr>
 <h4><a href="https://www.schoolbag.edu.sg/story/what-does-a-students-ai-enhanced-day-look-like-heres-a-peek/" rel="noopener noreferrer nofollow" target="_blank"><u>What does a student's AI-enhanced day look like? Here's a sneak peek</u></a></h4>
 <p>Parents who grew up around blackboards and overhead projectors may not
