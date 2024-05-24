@@ -10,7 +10,7 @@ variant: markdown
 <h2 id="-add-fill-in-the-blanks-question-">Add Fill-in-the-Blanks Question</h2>
 <hr>
 <ol>
-<li>In the Lesson Editor page, hover over Question in the Component Bar.</li>
+<li>In the Module Editor page, hover over Question in the Component Bar.</li>
 <img style="width: 50%;" src="/images/2Teacher/AU_AddFITB.png">
 <li>Select <strong>Fill-in-the-Blanks</strong>. Below are the types of Fill-in-the-Blanks questions you can choose from:</li>
 	<ul><li><b>Text Input</b>: Students will type their answer in the blank.</li>
