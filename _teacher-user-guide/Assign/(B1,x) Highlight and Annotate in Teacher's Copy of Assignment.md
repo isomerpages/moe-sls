@@ -9,7 +9,7 @@ variant: markdown
 <h1 id="highlight-and-annotate-in-teacher-s-copy-of-assignment">(B1,x) Highlight and Annotate in Teacher's Copy of Assignment</h1>
 <h2 id="-create-annotations-highlights-">Create Annotations (Highlights)</h2>
 <hr>
-<p>After you have assigned a Lesson to students, you are able to make annotations (highlights) in your own copy of the Assignment.</p>
+<p>After you have assigned a Module to students, you are able to make annotations (highlights) in your own copy of the Assignment.</p>
 <p><u>Note</u>: Annotations can only be done in the teacher view. Your students are not able to view these annotations.</p>
 <ol>
 <li>In an Assignment, select an <strong>Activity</strong> from the Activity List shown on the left by clicking an <strong>Activity</strong> icon (<img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityIcon.svg"> or <img style="width:1.5rem; display: inline;" src="/images/Icons/Quiz.svg">). Alternatively, you can click the <strong>Expand Activity List</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityListExpand.svg"> to view the Activity titles.</li>
