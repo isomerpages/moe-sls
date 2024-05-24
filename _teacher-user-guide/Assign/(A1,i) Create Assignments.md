@@ -29,7 +29,7 @@ variant: markdown
 <li><p>You may also adjust the Permission Settings. These permission settings will not affect your current Module in your My Drive, but subsequent copies of this Assignment.</p>
 </li>
 <li>Click <strong>Next</strong> to proceed to the Assignment Summary Page.</li>
-<li><p>Click <strong>Assign</strong>, found on the top right of the <a target="_blank" href="/teacher-user-guide/assign/manage-assignments/">Assignment Summary page</a> to assign the Lesson.</p>
+<li><p>Click <strong>Assign</strong>, found on the top right of the <a target="_blank" href="/teacher-user-guide/assign/manage-assignments/">Assignment Summary page</a> to assign the Module.</p>
 	<p><u>Note</u>: For Module with multiple Sections, it may take some time for the Assignment to appear on your Assignment List.</p>
 </li>
 </ol>
