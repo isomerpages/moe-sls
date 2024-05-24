@@ -15,7 +15,7 @@ variant: markdown
 <p><strong>Important</strong>: If lesson permissions to allow teachers to copy/assign/publish and students to copy this lesson are not checked, it will not be possible to assign the lesson.</p>
 <ol>
 <li>From the homepage, open the left menu and click Resources, followed by <strong>My Drive</strong>.</li>
-<li>Click <strong>Open</strong> under the Lesson Title.</li>
+<li>Click <strong>Open</strong> under the Module Title.</li>
 <li>On the Module View page, click the <strong>Assign</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Assign.svg"> found on the top right of the header.</li>
 <li><p>On the Assign Module subpage, you will see all the Class Groups that are assigned to you. Class Groups that you have created can be found here too. Select the Class Groups you would like to assign the Assignment to, then click <strong>Assign</strong>.</p>
 <p><img alt="Create Assignments" style="width: 50%;" src="/images/2Teacher/AS-CreateAssignment1.png"></p>
