@@ -37,7 +37,7 @@ variant: markdown
 <li><p>You may wish to rename the Resource Title, and edit the Permission Settings:</p>
 <ol style="list-style-type: lower-alpha;">
 <li>Module Permissions:<ol style="list-style-type: lower-roman;">
-<li><strong>Allow teachers to copy/assign/publish and students to copy this Lesson</strong></li>
+<li><strong>Allow teachers to copy/assign/publish and students to copy this Module</strong></li>
 <li><strong>Allow teachers and students to view print-friendly worksheet</strong></li>
 <li><strong>Allow students to reattempt Module as self-study</strong></li>
 </ol>
