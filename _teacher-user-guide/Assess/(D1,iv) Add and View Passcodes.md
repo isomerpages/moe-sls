@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="add-and-view-passcodes">(D1,iv) Add and View Passcodes</h1>
-<p>You can add a Passcode to Lessons to restrict students’ access to these resources. Students are required to enter the Passcode (case-sensitive) when they click the Assignment card.</p>
+<p>You can add a Passcode to Modules to restrict students’ access to these resources. Students are required to enter the Passcode (case-sensitive) when they click the Assignment card.</p>
 <h2 id="add-a-passcode">Add a Passcode</h2>
 <hr>
 <ol>
@@ -25,8 +25,8 @@ variant: markdown
 <h2 id="view-a-passcode">View a Passcode</h2>
 <hr>
 <ol>
-<li>You can view a Passcode from Module View (of a Lesson or while editing an Assignment).</li>
-<li>From the Lesson View, open the right menu and select <strong>View Passcode Settings</strong>. <img alt="Add and View Passcodes" style="width: 100%;" src="/images/2Teacher/As-Passcode1.png"></li>
+<li>You can view a Passcode from Module View (of a Module or while editing an Assignment).</li>
+<li>From the Module View, open the right menu and select <strong>View Passcode Settings</strong>. <img alt="Add and View Passcodes" style="width: 100%;" src="/images/2Teacher/As-Passcode1.png"></li>
 <li>From an Assignment, open the right menu and select <strong>View Passcode Settings</strong>. </li>
 <li>The Passcode Settings subpage will appear, revealing the Passcode.<img style="width: 100%;" src="/images/2Teacher/As-Passcode2.png"></li>
 <li>Click <strong>X</strong> to close the subpage.</li>
