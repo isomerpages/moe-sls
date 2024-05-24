@@ -10,7 +10,7 @@ variant: markdown
 <h2 id="-add-error-editing-question-">Add Error-Editing Question</h2>
 <hr>
 <ol>
-<li>In the Lesson Editor page, hover over Question in the Component Bar.</li>
+<li>In the Module Editor page, hover over Question in the Component Bar.</li>
 	<img style="width: 50%;" src="/images/2Teacher/AU-AddErrorEdit.png">
 <li>Click <strong>Error-Editing</strong>.</li>
 <li>In the Question Body field, enter the question.</li>
