@@ -20,7 +20,7 @@ variant: markdown
 <li>To view the Activities within a Section, click <strong>Show Activities ( )</strong>. The number in parenthesis shows the number of activities in a particular Section.</li>
 </ol>
 </li>
-<li>To access a particular Activity within a Lesson/Section, select the Activity.</li>
+<li>To access a particular Activity within a Module/Section, select the Activity.</li>
 </ol>
 <p><img style="width: 80%;" src="/images/1Student/As-LessonPlan.png"></p>
 <h2 id="-navigate-an-assignment-using-activity-list-">Navigate an Assignment using Activity List</h2>
@@ -28,7 +28,7 @@ variant: markdown
 <p>There are two different views for Activity Lists - Simplified Module Plan (collapsed) which only shows the Section alphabet and Activity number or the Simplified Module Plan (expanded) Full Activity List which shows the title of the Activities/Sections.</p>
 <p><u>Note</u>: If you do not see any alphabets or numbers, it is because your teacher has hidden the Section and Activity numbers.</p>
 <ol>
-<li>From the Simplified Lesson Plan (collapsed), toggle between Activities/Sections by clicking the respective <strong>Section</strong> icons <img style="width:1.5rem; display: inline;" src="/images/Icons/Section.svg"> and <strong>Activity</strong> icons <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityIcon.svg">.</li>
+<li>From the Simplified Module Plan (collapsed), toggle between Activities/Sections by clicking the respective <strong>Section</strong> icons <img style="width:1.5rem; display: inline;" src="/images/Icons/Section.svg"> and <strong>Activity</strong> icons <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityIcon.svg">.</li>
 <li><p>Click the <strong>Expand Activity List icon</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityListExpand.svg"> to open the Simplified Module Plan (expanded). Toggle between Activities /Sections by clicking the respective <strong>Activity/Section Titles</strong>.</p>
 	<p> <u>Note</u>: To view the Activities within a Section, click the <strong>Section</strong> icon or <strong>Title</strong>.</p>
 </li>
