@@ -12,7 +12,7 @@ variant: markdown
 <ol>
 <li>From a Class Group, click <strong>Quick Assign</strong> and select <strong>Activity</strong> or <strong>Quiz</strong>. </li>
 <li>Once selected, a paused untitled Assignment will be created in the Class Group.</li>
-<li>You will be directed to the <a target="_blank" href="/teacher-user-guide/author/add-new-activities-and-sections/">Lesson Editor page</a> of the Assignment. </li>
+<li>You will be directed to the <a target="_blank" href="/teacher-user-guide/author/add-new-activities-and-sections/">Module Editor page</a> of the Assignment. </li>
 </ol>
 <img alt="Quick Assign Activities &amp; Quizzes" style="width: 100%;" src="/images/2Teacher/AS-QuickAssign1.png">
 <h2 id="quick-assign-from-planner-event">Quick Assign from Planner Event</h2>
@@ -28,5 +28,5 @@ variant: markdown
 </li>
 <li><p>Once selected, a paused, untitled Assignment will be created in the Class Group and attached to the Event. </p>
 </li>
-<li>You will be directed to the <a target="_blank" href="/teacher-user-guide/author/add-new-activities-and-sections/">Lesson Editor page</a> of the Assignment.</li>
+<li>You will be directed to the <a target="_blank" href="/teacher-user-guide/author/add-new-activities-and-sections/">Module Editor page</a> of the Assignment.</li>
 </ol>
