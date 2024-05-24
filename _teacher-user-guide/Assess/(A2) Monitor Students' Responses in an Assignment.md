@@ -13,7 +13,7 @@ variant: markdown
 <ul>
 <li>From the Assignment card, click the <strong>Monitoring</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg">.</li>
 <li>From within the Assignment, click the <strong>Monitoring</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg"> in the header.</li>
-<li>From the <strong>Lesson Plan</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/courseplan32.svg">, click the <strong>Monitoring</strong> icon<img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg">.</li>
+<li>From the <strong>Module Plan</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/courseplan32.svg">, click the <strong>Monitoring</strong> icon<img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg">.</li>
 </ul>
 <h2 id="monitor-assignment-page">Monitor Assignment page</h2>
 <hr>
