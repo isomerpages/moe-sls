@@ -11,11 +11,11 @@ variant: markdown
 <hr>
 <p>There are multiple ways to add a new Quiz.</p>
 <ul>
-<li>On the homepage, select <strong>Create/Edit Lesson</strong>, then select <strong>Quiz</strong>.</li>
-<li>On the Lesson Editor page:<ul>
+<li>On the homepage, select <strong>Create/Edit Module</strong>, then select <strong>Quiz</strong>.</li>
+<li>On the Module Editor page:<ul>
 <li>Click <strong>Add New</strong> below the Component Bar, then select <strong>Quiz</strong>.</li>
 <li>Click <strong>+</strong> on the Collapsed Activity List, then select <strong>Quiz</strong>.</li>
-<li>Click <strong>Add New</strong> in Full Activity List or Lesson Plan, then select <strong>Quiz.</strong></li>
+<li>Click <strong>Add New</strong> in Full Activity List or Module Plan, then select <strong>Quiz.</strong></li>
 </ul>
 </li>
 <li>The default Quiz Mode is Progressive Quiz. You can choose to set the Quiz as Optional by adjusting the Optional toggle icon.</li>
