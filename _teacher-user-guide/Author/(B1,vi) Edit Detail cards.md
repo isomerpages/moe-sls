@@ -11,7 +11,7 @@ variant: markdown
 </li><li>To edit a Module/Section/Activity/Component/Quiz Detail subpage, click the&nbsp;<b>Pencil</b>&nbsp;icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> &nbsp;found at the top right of the header to enter the Module Editor page, followed by the <b>Settings</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the respective card.</li>
 <p><u>Note</u>: The Settings Drawer can be expanded/collapsed by clicking the <b>expand/collapse</b> icon.</p>	
 <img alt="" style="width: 50%;" src="/images/2Teacher/AU_EditDetailCard.png">
-<h2 id="-edit-lesson-details-subpage-">Edit Module Details subpage</h2>
+<h2 id="-edit-module-details-subpage-">Edit Module Details subpage</h2>
 <hr>
 <ol>
 <li>To edit the Module Details subpage, click the <strong>Settings</strong> icon on the card found on every page. The following optional details can be edited:<ul>
