@@ -22,7 +22,7 @@ variant: markdown
 <h2 id="make-a-copy-of-a-lesson-an-assignment-">Make a Copy of a Module/an Assignment</h2>
 <hr>
 <ol>
-<li>Enter the Module View page of the Lesson/Assignment you want to make a copy of.</li>
+<li>Enter the Module View page of the Module/Assignment you want to make a copy of.</li>
 	<li><p>Open the right menu and click <b>Make a Copy</b>. If permission has been disabled, you will not be able to copy the Module/Assignment.</p>
 	<p><u>Note</u>: This is helpful if:</p>
 <ul>
