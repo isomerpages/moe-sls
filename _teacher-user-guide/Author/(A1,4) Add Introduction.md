@@ -12,7 +12,7 @@ variant: markdown
 <ol>
 <li>You will be directed to an untitled Introduction page in a new Module.</li>
 <li>You can choose to set the Introduction page as Viewable or not by adjusting the Viewable toggle icon. However, once you have added at least two <strong>Activities/Quizzes</strong> or a <strong>Section Cover</strong>, the Introduction page will be automatically viewable.</li>
-<li><p>You can edit the Module Title, add Featured Image and Lesson Description.</p>
+<li><p>You can edit the Module Title, add Featured Image and Module Description.</p>
 	<p><u>Note</u>: </p>
 <ul>
 <li><strong>Featured Image</strong> (optional) - The thumbnail of a Module is visible on the cover page. If this Module is submitted and featured in the MOE Library or Community Gallery, it will also be visible in the MOE Library or Community Gallery listing.<ul>
