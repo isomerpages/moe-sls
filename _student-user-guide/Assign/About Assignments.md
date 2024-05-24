@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="about-assignments">About Assignments</h1>
-<p>Assignments are Lessons assigned to you by your teacher. An Assignment can contain up to 20 Sections. Each section can contain up to 20 Activities or Quizzes. </p>
+<p>Assignments are Modules assigned to you by your teacher. An Assignment can contain up to 20 Sections. Each section can contain up to 20 Activities or Quizzes. </p>
 <p>Activities contain Text/Media, Poll, Interactive Thinking Tool or questions. Quizzes are similar but release feedback in different ways, depending on which Quiz type your teacher chooses.</p>
 <p>Teachers may set Assignments as Assessments to better control assignments. In an Assessment, you cannot access non-examination material (e.g. external links) unless they have been whitelisted for use in the assessment's network. </p>
 <h3 id="about-assignments">About Assignments</h3>
@@ -27,7 +27,7 @@ variant: markdown
 <li>Gamification icon - This icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Game.svg"> will appear if your teacher has enabled Gamification for the Assignment. </li>
 <li>Colour Banner - The colour shown on the Assignment card is based on the type of subject class assigned. Each type of subject class has a unique colour.</li>
 <li>Label - Assignments that are recently assigned (up to 3 days ago) will be labelled "New". Existing Assignments that have sections added to them will be labelled “New Section”</li>
-<li>View Details icon - This icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> shows the Lesson Details subpage, which includes the Sections/Activities and Lesson Description.</li>
+<li>View Details icon - This icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> shows the Module Details subpage, which includes the Sections/Activities and Module Description.</li>
 </ol>
 <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did you know?</u>: Teachers are able to set a Passcode to an Assignment. You will be required to enter the Passcode (case-sensitive) in order to access these Assignments.</p>
 <h2 id="language-settings">Language Settings</h2>
