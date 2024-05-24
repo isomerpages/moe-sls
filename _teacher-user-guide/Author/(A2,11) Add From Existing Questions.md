@@ -10,7 +10,7 @@ third_nav_title: Author
 <h2 id="-add-an-exisiting-question-">Add an Existing Question</h2>
 <hr>
 <ol>
-<li><p>In the Lesson Editor page, hover over Question in the Component Bar.</p>
+<li><p>In the Module Editor page, hover over Question in the Component Bar.</p>
 	</li><li>Under Add From Existing, select <b>Question from Library</b> to add from MOE Library, Community Gallery, and My Drive or <b>Question from Starred Resources</b> to add from Starred Resources.</li>
 	<p><img style="width: 50%;" src="/images/2Teacher/AU_AddFromExisiting1.png"></p>
 </ol>
@@ -19,7 +19,7 @@ third_nav_title: Author
 <ol>
 	<li><p>Click&nbsp;the <b>View Details</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> on the Question card to view the following on the Question Details subpage:</p>
 		<ul><li>Question and answer (if available)</li>
-			<p><u>Note</u>: To edit a Question, you have to add it to a Lesson first.</p>
+			<p><u>Note</u>: To edit a Question, you have to add it to a Module first.</p>
 			<li>Other Information - Location, Question Type, Question Tags, Created by, Last Edited by, Keyword Tags and Used in.</li>
 				<p><img style="width: 50%;" src="/images/2Teacher/AU_AddFromExisting2.png"></p>
 		</ul>
@@ -44,7 +44,7 @@ third_nav_title: Author
 <h2 id="-choose-an-exisiting-question-from-library-starred-resources-">Choose an Existing Question From Library/Starred Resources</h2>
 <hr>
 <ol>
-	<li><p>Once you have decided on the question(s) to add to your Lesson, tick the box(s) on the Question card(s) then click <b>Select</b>. </p>
+	<li><p>Once you have decided on the question(s) to add to your Module, tick the box(s) on the Question card(s) then click <b>Select</b>. </p>
 		<p><img style="width: 50%;" src="/images/2Teacher/AU_AddFromExisiting4.png"></p>
 	</li><li>You may also click <b>Choose</b> in the Questions Detail subpage. </li>
 	<li>For Multi-part Questions, once you have decided on the question part(s) to add, tick the box beside the question in the Question Details subpage then click&nbsp;<b>Choose</b>.</li>
