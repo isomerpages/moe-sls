@@ -22,9 +22,9 @@ variant: markdown
 </li>
 <li>Click <strong>Next</strong> to continue. This will lead you to the <a target="_blank" href="/teacher-user-guide/assign/manage-assignments/">Assignment Summary</a> page where you can review the draft assignments and their settings before clicking <strong>Assign</strong> to confirm.</li>
 </ol>
-<h2 id="add-moe-lesson-as-class-group-resource">Add MOE Lesson as Class Group Resource</h2>
+<h2 id="add-moe-lesson-as-class-group-resource">Add MOE Module as Class Group Resource</h2>
 <hr>
-<p><strong>Important</strong>: If lesson permissions to allow teachers to copy/assign/publish and students to copy this lesson are not selected, it will not be possible to add the lesson as a Class Group Resource.</p>
+<p><strong>Important</strong>: If module permissions to allow teachers to copy/assign/publish and students to copy this lesson are not selected, it will not be possible to add the lesson as a Class Group Resource.</p>
 <ol>
 <li><p>Click the MOE Library <strong>Module</strong> <strong>card</strong> that you would like to view.</p>
 </li>
@@ -35,7 +35,7 @@ variant: markdown
 </li>
 <li><p>You may wish to rename the Resource Title, and edit the Permission Settings:</p>
 <ol style="list-style-type: lower-alpha;">
-<li>Lesson Permissions:<ol style="list-style-type: lower-roman;">
+<li>Module Permissions:<ol style="list-style-type: lower-roman;">
 <li><strong>Allow teachers to copy/assign/publish and students to copy this Lesson</strong></li>
 <li><strong>Allow teachers and students to view Print-Friendly worksheet</strong></li>
 <li><strong>Allow students to reattempt Lesson as Self-Study</strong></li>
