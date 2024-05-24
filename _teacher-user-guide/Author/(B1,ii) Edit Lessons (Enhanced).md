@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="edit-modules-enhanced-">(B1,ii) Edit Modules (Enhanced)</h1>
-<h2 id="-lesson-editor-page-">Lesson Editor Page</h2>
+<h2 id="-module-editor-page-">Module Editor Page</h2>
 <hr>
 <p>You can edit Modules that you have created or copied, as well as Modules that were shared with you with editing permissions.</p>
 <ol>
