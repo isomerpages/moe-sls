@@ -11,23 +11,23 @@ variant: markdown
 <hr>
 <ol>
 <li>From the homepage, click <strong>Community Gallery</strong>. Alternatively, open the left menu and click <strong>Resources</strong>, followed by <strong>Community Gallery</strong>.</li>
-<li>Click the Overflow (3 dots icon) on the Community Gallery&nbsp;<b>Lesson&nbsp;card</b> and select <b>Copy To</b>. Alternatively, open the Module then click <b>Overflow</b> (<b>3 dots</b> icon) on the header to open the right menu and <b>Copy To</b>.</li>
+<li>Click the Overflow (3 dots icon) on the Community Gallery&nbsp;<b>Module&nbsp;card</b> and select <b>Copy To</b>. Alternatively, open the Module then click <b>Overflow</b> (<b>3 dots</b> icon) on the header to open the right menu and <b>Copy To</b>.</li>
 <img alt="Assign Community Gallery Lessons" style="width: 80%;" src="/images/2Teacher/AS-AssignCommunity1.png">
-	<li>You can rename the Title and Choose a Folder to copy the Lesson to. Then click <b>Copy</b>.</li>
+	<li>You can rename the Title and Choose a Folder to copy the Module to. Then click <b>Copy</b>.</li>
 <li>A copy of the Community Gallery Module will appear in <b>My Drive</b>. From there, you can 
 <a target="_blank" href="/teacher-user-guide/assign/add-assignments-to-class-group/">Assign to your Class Groups</a></li>
 <li>You may wish to rename the Assignment Title and edit the Permission Settings. The following Module Permissions are available:
 <ol style="list-style-type: lower-alpha;">
-<li><strong>Allow teachers to copy/assign/publish and students to copy this Lesson</strong></li>
+<li><strong>Allow teachers to copy/assign/publish and students to copy this Module</strong></li>
 <li><strong>Allow teachers and students to view Print-Friendly worksheet</strong></li>
-<li><strong>Allow students to reattempt Lesson as self-study</strong></li>
+<li><strong>Allow students to reattempt Module as self-study</strong></li>
 </ol>
 </li>
 <li>Click <strong>Next</strong> to continue. This will lead you to the <a target="_blank" href="/teacher-user-guide/assign/manage-assignments/">Assignment Summary</a> page where you can review the draft assignments and their settings before clicking <strong>Assign</strong> to confirm.</li>
 </ol>
 <h2 id="add-community-gallery-module-as-class-group-resource">Add Community Gallery Module as Class Group Resource</h2>
 <hr>
-<p><strong>Important</strong>: If Module Permissions to allow teachers to copy/assign/publish and students to copy this lesson are not selected, it will not be possible to add the lesson as a Class Group Resource.</p>
+<p><strong>Important</strong>: If Module Permissions to allow teachers to copy/assign/publish and students to copy this Module are not selected, it will not be possible to add the Module as a Class Group Resource.</p>
 <ol>
 <li><p>Click the Community Gallery <strong>Module</strong> <strong>card</strong> that you would like to view.</p>
 </li>
