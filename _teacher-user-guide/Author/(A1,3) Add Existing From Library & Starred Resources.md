@@ -32,11 +32,11 @@ variant: markdown
 <li><p>By default, the Search Results are sorted according to Relevance. You can choose to sort the results by recency by selecting Latest from the Sort By dropdown list.</p>
 <p><img style="width: 100%;" src="/images/2Teacher/AU-AddExisting1.png"></p>
 </li>
-<li><p>Click&nbsp;the View Details icon on the Lesson card to view the following on the Lesson Details subpage:</p>
+<li><p>Click&nbsp;the View Details icon on the Module card to view the following on the Module Details subpage:</p>
 <ul>
-<li>Lesson title, cover and description (if any)</li>
+<li>Module title, cover and description (if any)</li>
 <li>View Teacher Notes toggle - You can toggle on/off to view Teacher Notes (if any)</li>
-<li>All Activities/Sections in the Lesson - Click <strong>Show Activities</strong> to see all Activities in a Section. The number of Activities in a Section is shown in parenthesis ( ).</li>
+<li>All Activities/Sections in the Module - Click <strong>Show Activities</strong> to see all Activities in a Section. The number of Activities in a Section is shown in parenthesis ( ).</li>
 <li><p>View in new tab - Click the <strong>Expand</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/external-link.svg"> to view a Module/Activity/Section in a new tab.</p></li></ul>
 <p><u>Note</u>: This will not create a new Module in your Drive and you will be unable to edit the Module/Activity/Section.</p>
 <ul>
