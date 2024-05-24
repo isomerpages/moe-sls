@@ -21,7 +21,7 @@ variant: markdown
 <br>
 <img alt="Mark Assignments as Complete and Incomplete" style="width: 100%;" src="/images/2Teacher/As_MarkComplete.png">
 <br>
-<li><p>Alternatively, you may mark a Section/Lesson as complete from the individual student's Assignment. On the Section/Lesson End page, select <strong>Mark as Complete</strong>.</p>
+<li><p>Alternatively, you may mark a Section/Module as complete from the individual student's Assignment. On the Section/Module End page, select <strong>Mark as Complete</strong>.</p>
 </li><br><img alt="Mark Assignments as Complete and Incomplete" style="width: 100%;" src="/images/2Teacher/As-MarkComplete1.png">
 <br>
 <li><p>You may <strong>Notify student(s)</strong> that their Assignment will be marked as “Incomplete”/”Complete” and include a custom message.</p>
