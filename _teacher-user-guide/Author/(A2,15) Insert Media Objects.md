@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h1 id="insert-media-objects">(A2,15) Insert Media Objects</h1>
 <ul>
-<li>You can incorporate Media Objects into your Lesson. Uploaded Media Objects can be reused in future Lessons.</li>
+<li>You can incorporate Media Objects into your Module. Uploaded Media Objects can be reused in future Modules.</li>
 <li>Only Media Objects from My Drive, Community Gallery and MOE Library are searchable in the global search bar.</li>
 <li>You can add upload a new Media Object or add an existing one from Library/Starred Resources.</li>
 <li>Click <a target="_blank" href="/teacher-user-guide/author/edit-media-objects/">here</a> to Edit Media Objects.</li>
@@ -53,7 +53,7 @@ variant: markdown
 <ol>
 <li>Click the <strong>Add Media</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/PaperClip.svg"> and choose <strong>Add from Library</strong>.</li>
 <li>Search and filter the Media Object that you want to add from the global search bar.</li>
-	<li><p>Click on the Media Object to it into the Lesson.</p>
+	<li><p>Click on the Media Object to it into the Module.</p>
 	</li><li>You may download the Media Object by clicking the <b>Download</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Download.svg"> (if present).
 <p><img style="width: 100%;" src="/images/2Teacher/AU_AddMedia1.png"></p>
 </li>
@@ -62,6 +62,6 @@ variant: markdown
 <hr>
 <ol>
 <li>Click the <strong>Add Media</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/PaperClip.svg"> and choose <strong>Add File from Starred Resources</strong>.</li>
-<li>Click on the Media Object to it into the Lesson.</li>
+<li>Click on the Media Object to it into the Module.</li>
 	<p><img style="width: 100%;" src="/images/2Teacher/AU_AddMedia2.png"></p>
 	</ol>
