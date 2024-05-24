@@ -6,7 +6,7 @@ third_nav_title: Assign
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="assign-moe-library-lessons">(A1,iii) Assign MOE Library Modules</h1>
+<h1 id="assign-moe-library-modules">(A1,iii) Assign MOE Library Modules</h1>
 <h2 id="assign-moe-lesson-as-assignment">Assign MOE Module as Assignment</h2>
 <hr>
 <ol>
