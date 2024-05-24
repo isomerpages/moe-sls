@@ -10,7 +10,7 @@ variant: markdown
 <h2 id="-add-audio-response-question-arq-">Add Audio-Response Question (ARQ)</h2>
 <hr>
 <ol>
-<li><p>In the Lesson Editor page, hover over Question in the Component Bar.</p>
+<li><p>In the Module Editor page, hover over Question in the Component Bar.</p>
 <img style="width: 50%;" src="/images/2Teacher/AU-AddARQ1.png">
 </li>
 <li>Select <strong>Audio-Response</strong>. Below are the types of ARQ options you can choose from:<ul>
