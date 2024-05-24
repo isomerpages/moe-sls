@@ -20,7 +20,7 @@ variant: markdown
 	<p> <u>Note</u>: </p>
 <ul>
 <li>The Introduction page is hidden by default when the first activity is created. Once you add another <strong>Activity/Quiz/Section Cover</strong>, the Introduction page will be made viewable.</li>
-<li>Lessons, by default have Sections but you can choose to set it as Viewable or not in the Module Plan by adjusting the Viewable Toggle icon.</li>
+<li>Modules, by default have Sections but you can choose to set it as Viewable or not in the Module Plan by adjusting the Viewable Toggle icon.</li>
 </ul>
 </li>
 </ol>
