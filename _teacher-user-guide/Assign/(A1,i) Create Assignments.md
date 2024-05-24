@@ -12,7 +12,7 @@ variant: markdown
 <p><u>Note</u>: For a better user experience, Assignments with over 100 assignees will need to be split into multiple assignments with a maximum of 100 students. </p>
 <h2 id="-assign-a-lesson-">Assign a Module</h2>
 <hr>
-<p><strong>Important</strong>: If Module Permissions to allow teachers to copy/assign/publish and students to copy this lesson are not checked, it will not be possible to assign the lesson.</p>
+<p><strong>Important</strong>: If Module Permissions to allow teachers to copy/assign/publish and students to copy this lesson are not checked, it will not be possible to assign the Module.</p>
 <ol>
 <li>From the homepage, open the left menu and click Resources, followed by <strong>My Drive</strong>.</li>
 <li>Click <strong>Open</strong> under the Module Title.</li>
