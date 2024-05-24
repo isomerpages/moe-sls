@@ -53,7 +53,7 @@ variant: markdown
 </ul>
 <p><img alt="Manage Assignments" style="width: 80%;" src="/images/2Teacher/AS-ManageAssignment3.png"></p>
 <ul>
-<li><p>Click <strong>Assign</strong>, found on the top right of the Assignment Summary page to assign the Lesson.</p>
-	<p><u>Note</u>: For Lessons with multiple Sections, it may take some time for the Assignment to appear on your Assignment List.</p>
+<li><p>Click <strong>Assign</strong>, found on the top right of the Assignment Summary page to assign the Module.</p>
+	<p><u>Note</u>: For Modules with multiple Sections, it may take some time for the Assignment to appear on your Assignment List.</p>
 </li>
 </ul>
