@@ -10,7 +10,7 @@ variant: markdown
 <h2 id="-add-free-response-question-frq-">Add Free-Response Question (FRQ)</h2>
 <hr>
 <ol>
-<li><p>In the Lesson Editor page, hover over Question in the Component Bar.</p>
+<li><p>In the Module Editor page, hover over Question in the Component Bar.</p>
 <p><img style="width: 50%;" src="/images/2Teacher/AU-AddFRQ1.png"></p>
 </li>
 
