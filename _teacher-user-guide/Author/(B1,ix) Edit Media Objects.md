@@ -32,6 +32,5 @@ variant: markdown
 </li>
 	<p><img style="width: 100%;" src="/images/2Teacher/AU-EditMedia1.png"></p>
 <li>Once done, click the <strong>Save</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"><strong>.</strong></li>
-	<li>In the Lesson View page, you can&nbsp;download the image by clicking the <b>Download</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Download.svg">.</li>
+	<li>In the Module View page, you can&nbsp;download the image by clicking the <b>Download</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Download.svg">.</li>
 </ol>
-
