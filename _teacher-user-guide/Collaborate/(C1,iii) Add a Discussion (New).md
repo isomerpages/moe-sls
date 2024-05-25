@@ -7,11 +7,11 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="add-a-discussion-new-">(C1,iii) Add a Discussion (New)</h1>
-<h2 id="-create-a-discussion-from-lesson-editor-page-">Create a Discussion from Lesson Editor page</h2>
+<h2 id="-create-a-discussion-from-module-editor-page-">Create a Discussion from Module Editor page</h2>
 <hr>
-<p>From R19, teachers can create Discussions in Lessons to promote conversations about certain issues.</p>
+<p>From R19, teachers can create Discussions in Modules to promote conversations about certain issues.</p>
 <ol>
-<li>In the Lesson Editor page, select an Activity and hover your mouse over <strong>Interactive</strong> in the Component Bar, followed by <strong>Discussion</strong>. </li>
+<li>In the Module Editor page, select an Activity and hover your mouse over <strong>Interactive</strong> in the Component Bar, followed by <strong>Discussion</strong>. </li>
 <li>Enter the following fields:<ul>
 <li>Topic</li>
 <li>Featured Image (optional)</li>
