@@ -42,7 +42,7 @@ variant: markdown
 <hr>
 <ol>
 	<li>To edit the Section Details subpage, click the&nbsp;<b>Settings</b> icon&nbsp;on the card found on the Section Cover page. The following optional details can be edited:<ul>
-<li>Section Notes - The Notes are visible only to Teachers with whom the Lesson is shared.</li>
+<li>Section Notes - The Notes are visible only to Teachers with whom the Module is shared.</li>
 <li>Learning Experience - <em>**</em>You can change the Learning Experience. However, your existing activities, if any, will remain unchanged.</li>
 </ul>
 </li>
