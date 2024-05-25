@@ -51,7 +51,7 @@ variant: markdown
 <h2 id="-edit-activity-details-subpage-">Edit Activity Details subpage</h2>
 <hr>
 <ol>
-	<li>To edit the Activity Details subpage, click the&nbsp;<b>Settings</b> ico&nbsp;on the card found on the activity page. The following optional details can be edited:<ul>
+	<li>To edit the Activity Details subpage, click the&nbsp;<b>Settings</b> icon&nbsp;on the card found on the activity page. The following optional details can be edited:<ul>
 <li>Activity Notes - The Notes are visible only to Teachers with whom the Module is shared.</li>
 <li>Active Learning Process - You can change the Active Learning Process. However, your existing activities, if any, will remain unchanged.</li>
 </ul>
