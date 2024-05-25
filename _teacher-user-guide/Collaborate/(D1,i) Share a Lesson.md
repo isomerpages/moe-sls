@@ -6,22 +6,22 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="share-a-lesson">(D1,i) Share a Lesson</h1>
-<h3 id="-share-a-lesson-">Share a Lesson</h3>
+<h1 id="share-a-module">(D1,i) Share a Module</h1>
+<h3 id="-share-a-module-">Share a Module</h3>
 <hr>
-<p>You can share lessons that you have created with other teachers for them to use or to co-author the lesson.</p>
+<p>You can share Modules that you have created with other teachers for them to use or to co-author the Module.</p>
 <ol>
-<li>Open the left menu. Expand the <strong>Resources</strong> dropdown list and select <strong>My Drive</strong>. By default, you will be in the My Lessons tab.</li>
+<li>Open the left menu. Expand the <strong>Resources</strong> dropdown list and select <strong>My Drive</strong>. By default, you will be in the My Modules tab.</li>
 <li>In the listing, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the resource you wish to share and click <strong>Share</strong>.</li>
-<li><p>You may also share a lesson from the View Lesson page. Open the right menu and select <strong>Share with Teachers</strong>.</p>
-<p><img alt="Share a Lesson" style="width: 25%;" src="/images/2Teacher/C-ShareLesson.png"></p>
+<li><p>You may also share a Module from the View Module page. Open the right menu and select <strong>Share with Teachers</strong>.</p>
+<p><img alt="Share a Module" style="width: 25%;" src="/images/2Teacher/C-ShareLesson.png"></p>
 </li>
 </ol>
-<p><u>Note</u>: You can only share a lesson if you are the owner of the lesson.</p>
+<p><u>Note</u>: You can only share a Module if you are the owner of the Module.</p>
 <h2 id="-add-teachers-to-share-">Add Teachers to Share</h2>
 <hr>
 <ol>
-<li>In the Share with Teachers subpage, click <strong>Add</strong> to select the teachers you wish the share the lesson with.</li>
+<li>In the Share with Teachers subpage, click <strong>Add</strong> to select the teachers you wish to share the Module with.</li>
 <li><p>Search for the teachers by name or email. You can apply the school filter to narrow the search by school.</p>
 <p><img alt="Share a Lesson" style="width: 80%;" src="/images/2Teacher/C-ShareLesson1.png"></p>
 </li>
