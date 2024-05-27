@@ -13,7 +13,7 @@ variant: markdown
 <li>Students who have forgotten their SLS passwords and are unable to reset them on their own</li>
 <li>Onboarding a new student.</li>
 </ol>
-<p><u>Note</u>: You cannot reset the passwords of students in your Class Groups created in SLS, but you can generate an Access Code to give them temporary access to the SLS.</p>
+<p><u>Note</u>: You cannot reset the passwords of students in your Class Groups created in SLS, but you can generate a Passcode (formerly known as 2-hour temporary password) to give them temporary access to the SLS.</p>
 <h2 id="access-reset-password">Access Reset Password</h2>
 <hr>
 <p>There are multiple ways to access the Reset Password page.</p>
