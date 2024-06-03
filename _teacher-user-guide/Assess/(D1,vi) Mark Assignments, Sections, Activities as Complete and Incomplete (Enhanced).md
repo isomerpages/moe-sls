@@ -7,16 +7,16 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="mark-assignments/sections/activities-as-complete-and-incomplete">(D1,vi) Mark Assignments/Sections/Activities as Complete and Incomplete</h1>
+<h1 id="mark-assignments/sections/activities-as-complete-and-incomplete">(D1,vi) Mark Assignments/Sections/Activities as Complete and Incomplete (Enhanced)</h1>
 <p><b>Important</b>:</p>
 <ul>
 <li>Assignments marked as "Complete" will appear in your student's Assignment page under the "Complete" filter. Students will no longer be able to attempt these Assignments.</li>
 <li>Assignments marked as “Incomplete” will appear in your student’s Assignment page under the “In Progress” filter. Students will be able to attempt these Assignments.</li>
 </ul>
-<h2 id="-mark-an-entire-assignment-as-complete-incomplete-">Mark an Entire Assignment as Complete/Incomplete</h2>
+<h2 id="-mark-an-entire-assignment-section-activity-as-complete-incomplete-">Mark an Entire Assignment/Section/Activity as Complete/Incomplete</h2>
 <hr>
 <ol>
-<li>You can mark an entire Assignment as "Complete", even if your students have not completed it. Similarly, you can mark it as "Incomplete", even if your students have completed it. </li>
+<li>You can mark an entire Assignment/Section/Activity as "Complete", even if your students have not completed it. Similarly, you can mark it as "Incomplete", even if your students have completed it. </li>
 <li>In the <strong>Monitor Assignment</strong> page, select the students by checking the boxes to the left of their names. To clear the selected list of students, click <strong>Clear</strong>.</li>
 <li><p>Click <strong>Mark as Complete/Mark as Incomplete</strong> found in the header of the Heatmap table.</p></li>
 <br>
