@@ -19,5 +19,8 @@ variant: markdown
 <p><img alt="Add Assignments to Class Group" style="width: 100%;" src="/images/2Teacher/AS-AddAssignment1.png"></p>
 <li>You may also add a new Category to your Class Group assignment. This can be used to organise the Assignments for your Class Group.</li>
 </ol>
-<h1 id="sort-assignments-in-class-group">(A1,v) Add Assignments to Class Group</h1>
-<ol></ol>
+<h2 id="sort-assignments-to-class-group">Sort Assignments in Class Group</h2>
+
+1.  You can sort Assignments in Class Groups to find them easily.
+2.  On the Assignment tab in the Class group, select a category from the dropdown menu. Click **Apply**.
+3.  Click **Sort By** and you can now sort the Assignments according to Assignment title, due or start date.
