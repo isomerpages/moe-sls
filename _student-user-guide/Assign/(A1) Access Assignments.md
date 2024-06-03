@@ -68,3 +68,9 @@ variant: markdown
 <li><p>Assignments in List view are sorted according to the latest Start Date. You may also sort the Assignments according to the Assignment Title, and Due Date.</p>
 </li>
 </ol>
+<h2 id="-sort-assignments-in-class-group-"> Sort Assignments in Class Group</h2>
+
+1. You can sort Assignments in Class Groups to find them easily.
+2. On the Assignment tab in the Class group, select a category from the dropdown menu. Click **Apply**.
+3. Click **Sort By** and you can now sort the Assignments according to Assignment title, due or start date.
+4.
