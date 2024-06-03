@@ -21,27 +21,27 @@ variant: markdown
 <tbody>
 <tr>
 <td>Microsoft Windows 10</td>
-<td>Google Chrome 96 and later <br>               Microsoft Edge 96 and later</td>
+<td>Google Chrome 123 and later <br>Microsoft Edge 123 and later</td>
 </tr>
 <tr>
-<td>Mac OS 10.15 and later</td>
-<td>Safari 15 and later <br> Google Chrome 96 and later</td>
+<td>Mac OS 13 and later</td>
+<td>Safari 16 and later <br> Google Chrome 123 and later</td>
 </tr>
 <tr>
-<td>iPadOS 15 and later</td>
-<td>Safari 15 and later <br>     Google Chrome 96 and later</td>
+<td>iPadOS 16 and later</td>
+<td>Safari 16 and later <br>Google Chrome 123 and later</td>
 </tr>
 <tr>
-<td>iOS 15 and later</td>
-<td>Safari 15 and later <br>                          Google Chrome 96 and later</td>
+<td>iOS 16 and later</td>
+<td>Safari 16 and later <br>Google Chrome 123 and later</td>
 </tr>
 <tr>
-<td>Android 10 and later</td>
-<td>Google Chrome 96 and later</td>
+<td>Android 13 and later</td>
+<td>Google Chrome 123 and later</td>
 </tr>
 <tr>
-<td>ChromeOS 114 and later</td>
-<td>Google Chrome 114 and later</td>
+<td>ChromeOS 123 and later</td>
+<td>Google Chrome 123 and later</td>
 </tr>
 </tbody>
 </table>
