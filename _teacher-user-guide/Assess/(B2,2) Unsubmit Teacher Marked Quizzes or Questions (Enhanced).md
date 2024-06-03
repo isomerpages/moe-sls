@@ -16,7 +16,8 @@ variant: markdown
 </p></li>
 </ol>
 <p><img alt="Unsubmit Teacher-Marked Quizzes" style="width: 80%;" src="/images/2Teacher/As_TeacherMarkedQuiz8.png"></p>
-4. To unsubmit a particular question, select the name of a student from the Heatmap and navigate to the specific question in the student's assignment. Click <strong>Unsubmit</strong>.<p></p> 
+
+4. <p>To unsubmit a particular question, select the name of a student from the Heatmap and navigate to the specific question in the student's assignment. Click <strong>Unsubmit</strong>.</p>
 
 
 <p><u>Note</u>:</p>
