@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: tiptap
 ---
-<h1>(A3,1) About Rich Text Editor (Enhanced)</h1>
+<h1>(A3,1) About Rich Text Editor</h1>
 <p>The Rich Text Editor allows you to add or edit content, images, links,
 and other components in an Activity.</p>
 <p>In the Rich Text Editor, you can:</p>
@@ -75,17 +75,14 @@ and other components in an Activity.</p>
 <ul>
 <li>
 <p>View the word count or character count at the right corner of the text
-field. Click to switch between the two views. <strong>(NEW)</strong>
-</p>
+field. Click to switch between the two views.</p>
 </li>
 <li>
 <p>Right click the select text to edit the font styling, text alignment and
-access the undo and redo function. <strong>(NEW)</strong>
-</p>
+access the undo and redo function.</p>
 </li>
 <li>
-<p>Right click to renumber the bullet points under List Properties. <strong>(NEW)</strong>
-</p>
+<p>Right click to renumber the bullet points under List Properties.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="About Rich Text" src="/images/2Teacher/AU_AboutRichText1.png">
