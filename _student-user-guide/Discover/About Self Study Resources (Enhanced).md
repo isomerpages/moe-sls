@@ -22,9 +22,14 @@ variant: markdown
 <h3>About Class Group Resources</h3>
 <hr>
 <p>Class Group Resources are Modules that are uploaded by your teachers to the Class Group. These modules are not assignments and do not have a due date.
+</p><p>
+<img src="/images/1Student/Slide_12.jpg">
+</p><p>	    
 	
+1. You can sort Resources in Class Groups to find them easily.
 	
-	
+2. On the Resource tab in the Class Group, select a category from the dropdown menu. Click **Apply**.
+3. Click **Sort By** and you can now sort the Resources according to modified date, date added or title.
 	
 </p><h3>About My Drive</h3>
 <hr>
