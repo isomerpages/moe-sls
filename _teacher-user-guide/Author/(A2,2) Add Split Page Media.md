@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Author
 ---
-<h1 id="add-split-page-media-">(A2,2) Add Split-page Media (New)</h1>
+<h1 id="add-split-page-media-">(A2,2) Add Split-page Media </h1>
 <h2 id="add-split-page-media">Add Split-page Media</h2>
 <hr>
 <ol>
