@@ -19,15 +19,12 @@ variant: markdown
 
 </p><li><p>To unsubmit a particular question, select the name of a student from the Heatmap and navigate to the specific question in the student's assignment. Click **Unsubmit**.</p>
 </li>
+<p><u>Note</u>:</p>
+<ul>
+       
+When you unsubmit a Teacher-Marked Quiz/question, feedback and annotations are retained for students to review.
+Students will receive a notification when a Teacher-Marked Quiz/question has been unsubmitted ~or released~.
 
-          
+Teachers can only unsubmit Free-Response Question (not ~AK/LFA~ enabled for Feedback Assistant \- Mathematics), Audio-Response Question (not ~SE~ enabled for Speech Evaluation) and Multi-Part Questions with at least 1 open-ended question (not ~AK/LFA/SE~ enabled for Feedback Assistant - Mathematics and ~or~ Speech Evaluation).
 
-Note:
-
-·&nbsp;&nbsp; When you unsubmit a Teacher-Marked Quiz/question, feedback and annotations are retained for students to review.
-
-·&nbsp;&nbsp; Students will receive a notification when a Teacher-Marked Quiz/question has been unsubmitted ~or released~.
-
-Teachers can only unsubmit Free-Response Question (not ~AK/LFA~ enabled for Feedback Assistant \- Mathematics), Audio-Response Question (not ~SE~ enabled for Speech Evaluation) and Multi-Part Questions with at least 1 open-ended question (not ~AK/LFA/SE~ enabled for Feedback Assistant - Mathematics and ~or~ Speech Evaluation).[\[G(1\]](#_msocom_1)&nbsp;
-
-* * *
+* * *</ul>
