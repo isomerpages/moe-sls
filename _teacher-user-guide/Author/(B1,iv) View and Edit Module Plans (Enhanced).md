@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="view-edit-module-plans-enhanced">(B1,iv) View &amp; Edit Module Plans (Enhanced)</h1>
+<h1 id="view-edit-module-plans-enhanced">(B1,iv) View &amp; Edit Module Plans</h1>
 <h2 id="-view-a-module-plan-">View a Module Plan</h2>
 <hr>
 <ol>
@@ -31,6 +31,6 @@ variant: markdown
 </li>
 <li>Click <strong>X</strong> to exit the Lesson Plan.</li>
 </ol>
-<h2 id="-sequential-activity-section-access-new-">Sequential Activity, Quiz or Section access (NEW)</h2>
+<h2 id="-sequential-activity-section-access-new-">Sequential Activity, Quiz or Section access</h2>
 <hr>
 <p>You can  <a target="_blank" href="/teacher-user-guide/differentiate/add-activity-quiz-section-prerequisites/">Add Activity, Quiz or Section Prerequisites</a> to a Lesson. Activities, Quizzes or Sections indicated with Prerequisites will be locked until students complete the required activity/section.</p>
