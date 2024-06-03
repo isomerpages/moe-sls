@@ -24,8 +24,9 @@ variant: markdown
 <ul>
        
 When you unsubmit a Teacher-Marked Quiz/question, feedback and annotations are retained for students to review.
+
 Students will receive a notification when a Teacher-Marked Quiz/question has been unsubmitted ~or released~.
 
 Teachers can only unsubmit Free-Response Question (not ~AK/LFA~ enabled for Feedback Assistant \- Mathematics), Audio-Response Question (not ~SE~ enabled for Speech Evaluation) and Multi-Part Questions with at least 1 open-ended question (not ~AK/LFA/SE~ enabled for Feedback Assistant - Mathematics and ~or~ Speech Evaluation).
 
-* * *</ul>
+*</ul>
