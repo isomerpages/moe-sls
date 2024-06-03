@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Assess
 ---
-<h1 id="-1-navigate-quizzes">(A1,2) Navigate Quizzes (NEW)</h1>
+<h1 id="-1-navigate-quizzes">(A1,2) Navigate Quizzes</h1>
 <ol><p>There are multiple Quiz settings in SLS that your teacher can set, including Timed Quiz, Retry a Quiz and Randomised Quiz.</p>
 <p>You may see a combination of the various settings. E.g. A Timed Randomised Quiz or a Randomised Quiz with Option to Retry.</p>
 </ol>
