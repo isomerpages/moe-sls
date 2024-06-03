@@ -76,4 +76,3 @@ variant: markdown
 3. Click **Sort By** and you can now sort the Assignments according to Assignment title, due or start date.
 <p></p>
 <img src="/images/1Student/Slide_11.jpg">
-
