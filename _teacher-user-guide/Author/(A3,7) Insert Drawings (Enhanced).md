@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="insert-drawings-enhanced-">(A3,7) Insert Drawings (Enhanced)</h1>
+<h1 id="insert-drawings-">(A3,7) Insert Drawings</h1>
 <p>In the Rich Text Editor, click the <strong>Drawing</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Drawing.svg">. </p>
 <ul>
 <li>By default, after clicking the Drawing icon, you will start with a blank canvas.</li>
@@ -39,7 +39,7 @@ variant: markdown
 		<li><b>Zoom</b>: Zoom in/out of the image/drawings by clicking the respective icons. <b>(NEW)</b></li>
 </ul>
 
-<h2 id="-resizing-rotating-the-final-drawing-">Resizing/Rotating the final drawing (NEW)</h2>
+<h2 id="-resizing-rotating-the-final-drawing-">Resizing/Rotating the final drawing</h2>
 <hr>
 <ul>
 	<p></p><li>Click&nbsp;<b>Next</b>&nbsp;after you are done drawing/editing.</li>
