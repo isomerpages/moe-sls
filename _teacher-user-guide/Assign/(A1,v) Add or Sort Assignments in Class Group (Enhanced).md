@@ -19,3 +19,5 @@ variant: markdown
 <p><img alt="Add Assignments to Class Group" style="width: 100%;" src="/images/2Teacher/AS-AddAssignment1.png"></p>
 <li>You may also add a new Category to your Class Group assignment. This can be used to organise the Assignments for your Class Group.</li>
 </ol>
+<h1 id="sort-assignments-in-class-group">(A1,v) Add Assignments to Class Group</h1>
+<ol></ol>
