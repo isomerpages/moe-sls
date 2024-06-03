@@ -25,7 +25,7 @@ variant: markdown
 <li><p>Alternatively, you may mark an Assignment/Section/Activity as complete from the individual student's Assignment. On the respective End pages, click <strong>Mark Assignment/Section/Activity as Complete</strong>.</p>
 </li><br><img alt="Mark Assignments as Complete and Incomplete" style="width: 100%;" src="/images/2Teacher/As-MarkComplete1.png">
 <br>
-<li><p>You may <strong>Notify student(s)</strong> that their Assignment/Section/Activity has been marked as “Incomplete”/”Complete” and include a custom message.</p>
+<li><p>You may <strong>Notify student(s)</strong> that their Assignment/Section/Activity has been marked as Incomplete/Complete and include a custom message.</p>
 </li>
 <li><p>Click <strong>OK</strong> to proceed.</p>
 
