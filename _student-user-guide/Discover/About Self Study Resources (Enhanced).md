@@ -21,7 +21,11 @@ variant: markdown
 <p><u>Note</u>: Due to certain licensing agreements, you may be unable to load some images, audio files, videos and documents if you are not taking a subject or are accessing the SLS outside Singapore.</p>
 <h3>About Class Group Resources</h3>
 <hr>
-<p>Class Group Resources are Lessons that are uploaded by your teachers to the Class Group. These Lessons are not assignments and do not have a due date.</p>
-<h3>About My Drive</h3>
+<p>Class Group Resources are modules that are uploaded by your teachers to the Class Group. These modules are not assignments and do not have a due date.
+	
+	
+	
+	
+</p><h3>About My Drive</h3>
 <hr>
 <p>The My Drive is a folder containing Lessons you have copied from MOE Library, Class Group Resources, and Assignments. You can reattempt Assignments that have been assigned as part of revision.</p>
