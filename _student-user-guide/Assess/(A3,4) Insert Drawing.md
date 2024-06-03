@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="insert-drawing">(A3,4) Insert Drawing (Enhanced)</h1>
+<h1 id="insert-drawing">(A3,4) Insert Drawing</h1>
 <h2 id="-respond-on-drawing-">Respond on Drawing</h2>
 <hr>
 <p>If your teacher has provided an image for you to edit on, click on the <b>Pencil</b> icon.</p>
