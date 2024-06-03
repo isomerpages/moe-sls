@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="edit-modules-enhanced-">(B1,ii) Edit Modules (Enhanced)</h1>
+<h1 id="edit-modules-">(B1,ii) Edit Modules</h1>
 <h2 id="-module-editor-page-">Module Editor Page</h2>
 <hr>
 <p>You can edit Modules that you have created or copied, as well as Modules that were shared with you with editing permissions.</p>
@@ -24,7 +24,7 @@ variant: markdown
 </ol>
 <p><u>Note</u>: If the Module was shared with you as view-only, you will have to make a copy of the Module before you can make changes.</p>
 
-<h2 id="-edit-module-from-homepage-new-">Edit Module from homepage (NEW)</h2>
+<h2 id="-edit-module-from-homepage--">Edit Module from homepage</h2>
 <hr>
 <ol>
 	<li>On the homepage, select&nbsp;<b>Create/Edit Module</b>. Then under the&nbsp;Edit Latest tab, you will see a list of Modules you have been working on.
