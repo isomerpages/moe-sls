@@ -54,7 +54,7 @@ variant: markdown
 <li>After you have completed a Section Prerequisite, you will see the Section Prerequisite Unlocked in the Section End page. Click <strong>Unlocked Sections ( )</strong> to view the Sections you can now access.</li>
 </ol>
 
-<h2 id="activity-prerequisites">Activity Prerequisites (NEW)</h2>
+<h2 id="activity-prerequisites">Activity Prerequisites</h2>
 <hr>
 <ol>
 	<li>For some Assignments, your teacher may set prerequisites for each activity to be unlocked. An assignment with Activity Prerequisites will have a Restricted Activity Status and a <strong>Lock</strong> icon  <img style="width:1.5rem; display: inline;" src="/images/Icons/Lock.png"> displayed on the Activity page.</li>
