@@ -20,37 +20,29 @@ variant: markdown
 <li>In the <strong>Monitor Assignment</strong> page, select the students by checking the boxes to the left of their names. To clear the selected list of students, click <strong>Clear</strong>.</li>
 <li><p>Click <strong>Mark as Complete/Mark as Incomplete</strong> found in the header of the Heatmap table.</p></li>
 <br>
-<img alt="Mark Assignments as Complete and Incomplete" style="width: 100%;" src="/images/2Teacher/As_MarkComplete.png">
+<img style="width: 100%;" src="/images/Slide1.jpg">
 <br>
-<li><p>Alternatively, you may mark a Section/Module as complete from the individual student's Assignment. On the Section/Module End page, select <strong>Mark as Complete</strong>.</p>
+<li><p>Alternatively, you may mark an Assignment/Section/Activity as complete from the individual student's Assignment. On the respective End pages, click <strong>Mark Assignment/Section/Activity as Complete</strong>.</p>
 </li><br><img alt="Mark Assignments as Complete and Incomplete" style="width: 100%;" src="/images/2Teacher/As-MarkComplete1.png">
 <br>
-<li><p>You may <strong>Notify student(s)</strong> that their Assignment will be marked as “Incomplete”/”Complete” and include a custom message.</p>
+<li><p>You may <strong>Notify student(s)</strong> that their Assignment/Section/Activity has been marked as “Incomplete”/”Complete” and include a custom message.</p>
 </li>
 <li><p>Click <strong>OK</strong> to proceed.</p>
-<p> <u>Note</u>:</p>
-<ul>
-<li>You will not be able to undo this action.</li>
-<li>You are not able to mark an individual Activity as Complete.</li>
-<li>Student's draft responses in the quiz, if any, will be deleted.</li>
-</ul>
+
 </li>
 </ol>
-<h2 id="-mark-a-particular-section-as-complete-">Mark a Particular Section as Complete</h2>
+<h2 id="-mark-a-particular-section-activity-as-complete-incomplete-">Mark a Particular Section/Activity as Complete/Incomplete</h2>
 <hr>
 <ol>
-<li>From the <strong>Monitor Assignment</strong> page, select a Section from the <strong>Viewing</strong> dropdown list. Alternatively, click the <strong>Filter</strong> icon in the Section header or the <strong>Filter</strong> icon in the table header to view the filtered Heatmap containing the selected Section.</li>
+<li>From the <strong>Monitor Assignment</strong> page, select a Section from the <strong>Viewing</strong> dropdown list. Alternatively, click the <strong>Filter</strong> icon in the Section header or the <strong>Filter</strong> icon in the table header to view the filtered Heatmap containing the selected Section/Activity.</li>
 <li>Select the students by checking the boxes to the left of their names. To clear the selected list of students, click <strong>Clear</strong>.</li>
-<li><p>Click <strong>Mark as Complete</strong> found in the header of the Heatmap table.</p>
+<li><p>Click <strong>Mark as Complete/Mark as Incomplete</strong> found in the header of the Heatmap table.</p>
 <p><img alt="Mark Assignments as Complete and Incomplete" style="width: 100%;" src="/images/2Teacher/As_MarkComplete2.png"></p>
 </li>
-<li><p>You may <strong>Notify student(s)</strong> that their Assignment will be marked as “Incomplete” and include a custom message.</p>
+<li><p>You may <strong>Notify student(s)</strong> that a particular Section/Activity has been marked as Complete/Incomplete and include a custom message.</p>
 </li>
 <li><p>Click <strong>OK</strong> to proceed.</p>
-<p><u>Note</u>:</p>
-<ul>
-<li>You will not be able to undo this action.</li>
-<li>You are not able to mark an individual Activity as "Complete".</li>
-</ul>
+
+
 </li>
 </ol>
