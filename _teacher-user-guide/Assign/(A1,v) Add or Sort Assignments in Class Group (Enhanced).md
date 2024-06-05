@@ -35,4 +35,4 @@ variant: markdown
 2. On the Resource tab in the Class Group, select a category from the dropdown menu. Click **Apply**.
 3. Click **Sort By** and you can now sort the Resources according to modified date, date added or title.
 
-<p><img style="width: 100%;" src="/images/2Teacher/Slide4.jpg"></p>
+<p><img alt="Sort Resources in Class Group" style="width: 100%;" src="/images/2Teacher/assign_sortresources.jpg"></p>
