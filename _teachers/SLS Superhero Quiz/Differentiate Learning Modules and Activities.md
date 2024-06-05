@@ -55,7 +55,7 @@ variant: markdown
     </li>
     <li><a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">Progressive quiz</a>
         <ol style="list-style-type: lower-roman;">
-            <li>In your lesson, create a progressive quiz so that students receive marks and feedback after each question within.</li>
+            <li>In your Module, create a progressive quiz so that students receive marks and feedback after each question within.</li>
         </ol>
     </li>
 </ol>
