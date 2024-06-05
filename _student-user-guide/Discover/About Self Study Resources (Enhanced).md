@@ -23,7 +23,7 @@ variant: markdown
 <hr>
 <p>Class Group Resources are Modules that are uploaded by your teachers to the Class Group. These modules are not assignments and do not have a due date.
 </p><p>
-<img src="/images/1Student/Slide_12.jpg">
+<img src="/images/1Student/access_sortresources1.jpg">
 </p><p>	    
 	
 1. You can sort Resources in Class Groups to find them easily.
