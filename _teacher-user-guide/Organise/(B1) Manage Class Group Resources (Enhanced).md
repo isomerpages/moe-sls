@@ -52,9 +52,6 @@ R1), My Drive, Library (MOE Library and Community Gallery), Starred Resources.</
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/organize_addnewmodule1.jpg">
 </div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/Slide10.jpg">
-</div>
 </li>
 <li>
 <p>For resources found in My Drive or Starred Resources, navigate to the
