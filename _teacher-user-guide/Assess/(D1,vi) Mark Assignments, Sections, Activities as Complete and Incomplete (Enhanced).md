@@ -20,7 +20,7 @@ variant: markdown
 <li>In the <strong>Monitor Assignment</strong> page, select the students by checking the boxes to the left of their names. To clear the selected list of students, click <strong>Clear</strong>.</li>
 <li><p>Click <strong>Mark as Complete/Mark as Incomplete</strong> found in the header of the Heatmap table.</p></li>
 <br>
-<img alt="Mark Assignments/Sections/Activities as Complete and Incomplete" style="width: 100%;" src="/images/2Teacher/As_MarkComplete1.jpg">
+<img alt="Mark Assignments/Sections/Activities as Complete and Incomplete" style="width: 100%;" src="/images/2Teacher/as_markcomplete1.jpg">
 <br>
 <li><p>Alternatively, you may mark an Assignment/Section/Activity as complete from the individual student's Assignment. On the respective End pages, click <strong>Mark Assignment/Section/Activity as Complete</strong>.</p>
 </li><br><img alt="Mark Assignments as Complete and Incomplete" style="width: 100%;" src="/images/2Teacher/As-MarkComplete1.png">
