@@ -47,12 +47,12 @@ collections:
       - Assign/(B1,viii) Allow Students to Copy Assignments.md
       - Assign/(B1,ix) Allow Students to Share Assignments.md
       - Assign/(B1,x) Highlight and Annotate in Teacher's Copy of Assignment.md
-      - Author/Use Authoring Copilot to create New Activities & Components
-        (New).md
-      - Author/Use Authoring Copilot to create New Sections (New).md
       - Author/.keep
       - Author/Author.md
       - Author/Create New Modules.md
+      - Author/Use Authoring Copilot to create New Sections (New).md
+      - Author/Use Authoring Copilot to create New Activities & Components
+        (New).md
       - Author/(A1,1) Add New using Templates.md
       - Author/(A1,2) Add New Activities & Sections.md
       - Author/(A1,3) Add Existing From Library & Starred Resources.md
