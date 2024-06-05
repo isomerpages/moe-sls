@@ -27,9 +27,9 @@ variant: markdown
 3.  Click **Sort By** and you can now sort the Assignments according to Assignment title, due or start date.
 
 
-<p><img style="width: 100%;" src="/images/2Teacher/Slide3.jpg">
+<p><img alt="Sort Assignments in Class Group" style="width: 100%;" src="/images/2Teacher/assign_sortassignments.jpg"></p>
 	
-</p><h2 id="sort-resources-in-class-group">Sort Resources in Class Group (Enhanced)</h2>
+<p></p><h2 id="sort-resources-in-class-group">Sort Resources in Class Group (Enhanced)</h2>
 
 1. You can sort Resources in Class Groups to find them easily.
 2. On the Resource tab in the Class Group, select a category from the dropdown menu. Click **Apply**.
