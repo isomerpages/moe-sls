@@ -75,4 +75,4 @@ variant: markdown
 2. On the Assignment tab in the Class group, select a category from the dropdown menu. Click **Apply**.
 3. Click **Sort By** and you can now sort the Assignments according to Assignment title, due or start date.
 <p></p>
-<img src="/images/1Student/acess_sortresources1_11.jpg">
+<img src="/images/1Student/access_sortassignments1.jpg">
