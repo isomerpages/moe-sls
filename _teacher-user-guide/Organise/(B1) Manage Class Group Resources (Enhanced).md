@@ -50,6 +50,9 @@ organise and filter the resources.</p>
 <p>Select where the resource is located: New Module (enhancement from V2
 R1), My Drive, Library (MOE Library and Community Gallery), Starred Resources.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/organize_addnewmodule1.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/Slide10.jpg">
 </div>
 </li>
