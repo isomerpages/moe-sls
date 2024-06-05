@@ -4,8 +4,9 @@ permalink: /teachers/sls-superhero-quiz/nurture-collaboration-in-gamified-lesson
 description: ""
 third_nav_title: SLS Superhero Quiz
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1 class="page-title">Nurture collaboration in Gamified Lessons (#Gamify_with_SLS)</h1>
+<h1 class="page-title">Nurture collaboration in Gamified Modules (#Gamify_with_SLS)</h1>
   <h2>What it is</h2>
   <hr>
   <p>Game Teams encourage students to have fun in a group setting. In groups, students build on content mastery while practicing teamwork and communication skills.</p>
@@ -20,7 +21,7 @@ image: /images/FaviconLight.png
   <h2>How to do it</h2>
   <hr>
   <ol>
-    <li>Assign your Gamified lesson.</li>
+    <li>Assign your Gamified Module.</li>
     <li>At the Assignment Summary page, edit the Gamification Settings and <a target="_blank" href="/teacher-user-guide/gamify/create-game-teams/">assign students to Game Teams</a>.</li>
 <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture.png"> <img style="width: 100%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture.png"></a>
 <br>
@@ -31,7 +32,7 @@ image: /images/FaviconLight.png
 </ul>
 <br><a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture2.png"> <img style="width: 100%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Nurture2.png"></a>
 
-<li>Assign the lesson and  <a target="_blank" href="/teacher-user-guide/gamify/display-leaderboard-for-students/">watch your students vie to be at the top of the Leaderboard</a>!</li>
+<li>Assign the Module and  <a target="_blank" href="/teacher-user-guide/gamify/display-leaderboard-for-students/">watch your students vie to be at the top of the Leaderboard</a>!</li>
 </ol>
 <h2>Related articles</h2>
 <hr>
