@@ -10,10 +10,10 @@ variant: markdown
 <p>Use SLS to design lesson resources aligned to the e-pedagogical principles.</p>
 <br>
 <img alt="Author" style="width: 100%;" src="/images/2Teacher/Flow-Author.png">
-<details><summary><h4>A. How to create Lessons?</h4></summary>
+<details><summary><h4>A. How to create Modules?</h4></summary>
 <ul>
-<li><a href="/teacher-user-guide/author/create-new-lessons/" target="_blank">Create Lessons</a></li><li><a href="/teacher-user-guide/author/create-new-lessons/" target="_blank">Use Authoring Copilot to create New Sections (New)</a></li>
-<li><a href="/teacher-user-guide/author/create-new-lessons/" target="_blank">Use Authoring Copilot to create New Activities / Components (New)</a></li></ul>
+<li><a href="/teacher-user-guide/author/create-new-lessons/" target="_blank">Create New Modules</a></li><li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" target="_blank">Use Authoring Copilot to create New Sections (New)</a></li>
+<li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/" target="_blank">Use Authoring Copilot to create New Activities &amp; Components (New)</a></li></ul>
 
 <p>A1. Activities and Templates</p>	
 <ul>
@@ -59,19 +59,19 @@ variant: markdown
 </ul>
 </details>
 
-<details><summary><h4>B. More about Lessons</h4></summary>
+<details><summary><h4>B. More about Modules</h4></summary>
 <ul>
 <li><a href="/teacher-user-guide/author/about-templates/" target="_blank">About Templates</a></li>
-<li><a href="/teacher-user-guide/author/manage-lessons/" target="_blank">(B1,i) Manage Lessons</a></li>
-<li><a href="/teacher-user-guide/author/edit-lessons/" target="_blank">(B1,ii) Edit Lessons</a></li>
+<li><a href="/teacher-user-guide/author/manage-modules/" target="_blank">(B1,i) Manage Modules</a></li>
+<li><a href="/teacher-user-guide/author/edit-modules/" target="_blank">(B1,ii) Edit Modules</a></li>
 <li><a href="/teacher-user-guide/author/edit-activities-and-sections/" target="_blank">(B1,iii) Edit Activities &amp; Sections</a></li>	
-<li><a href="/teacher-user-guide/author/view-and-edit-lesson-plans/" target="_blank">(B1,iv) View and Edit Lesson Plans</a></li>
-<li><a href="/teacher-user-guide/author/make-a-copy-of-lessons-or-assignments/" target="_blank">(B1,v) Make a Copy of Lessons &amp; Assignments</a></li>
+<li><a href="/teacher-user-guide/author/view-and-edit-module-plans/" target="_blank">(B1,iv) View and Edit Modules Plans</a></li>
+<li><a href="/teacher-user-guide/author/make-a-copy-of-modules-or-assignments/" target="_blank">(B1,v) Make a Copy of Modules &amp; Assignments</a></li>
 <li><a href="/teacher-user-guide/author/edit-detail-cards/" target="_blank">(B1,vi) Edit Detail cards</a></li>
 <li><a href="/teacher-user-guide/author/add-question-tags/" target="_blank">(B1,vii) Add Question Tags</a></li>
-<li><a href="/teacher-user-guide/author/add-lesson-tags/" target="_blank">(B1,viii) Add Lesson Tags</a></li>
+<li><a href="/teacher-user-guide/author/add-module-tags/" target="_blank">(B1,viii) Add Module Tags</a></li>
 <li><a href="/teacher-user-guide/author/edit-media-objects/" target="_blank">(B1,ix) Edit Media Objects</a></li>
-<li><a href="/teacher-user-guide/author/move-lessons-to-trash/" target="_blank">(B1,x) Move Lessons to Trash</a></li>
+<li><a href="/teacher-user-guide/author/move-modules-to-trash/" target="_blank">(B1,x) Move Modules to Trash</a></li>
 <li><a href="/teacher-user-guide/author/file-size-limits/" target="_blank">(B1,xi) File Size Limits</a></li>
 </ul>
 </details>
@@ -84,7 +84,7 @@ variant: markdown
 <details>
 <summary><h4>D. Ideas for Teaching &amp; Learning</h4></summary>
 <ul>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-lessons-in-class-groups/">(D1,i) Co-create Lessons in Class Groups</a></li>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-modules-in-class-groups/">(D1,i) Co-create Modules in Class Groups</a></li>
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">(D1,ii) Digitise Past Year Papers for Practice</a></li>
 <li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/R18_Enhanced_Lesson_Authoring_navigation.pdf">(D1,iii) Enhanced Lesson Authoring and Navigation</a></li>
 <li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/Phygital_learning.pdf">(D1,iv) Let's get Phygital with SLS</a></li>	
@@ -95,12 +95,12 @@ variant: markdown
 </summary>
 <ol>
 <li><p><strong>How do I copy a Rubric to use in another question?</strong></p>
-<p> You cannot copy a rubric directly but you can add the question with rubrics from Add Existing questions from Library. You might wish to add a unique keyword in the keyword tags of the question (e.g. 01rubric) so that it is easy to search when you Add Questions from Library or Questions from Starred Resources during Lesson design.</p>
-<p> Tip: Star the question with rubrics so that you can easily add it to your Lesson</p>
+<p> You cannot copy a rubric directly but you can add the question with rubrics from Add Existing questions from Library. You might wish to add a unique keyword in the keyword tags of the question (e.g. 01rubric) so that it is easy to search when you Add Questions from Library or Questions from Starred Resources during Module design.</p>
+<p> Tip: Star the question with rubrics so that you can easily add it to your Module</p>
 <p> For more information, visit <a target="_blank" href="/teacher-user-guide/discover/add-existing-components-from-resources/">Add Existing Components from Resources</a> or <a target="_blank" href="/teacher-user-guide/organise/star-resources/">Star Resources</a>.</p>
 </li>
-<li><p><strong>If an existing Activity from the MOE Library is added to a Lesson, will the Lesson be automatically updated if the Activity has been updated in MOE Library?</strong></p>
-<p> No, the newly created Lesson is considered a separate Lesson. However, if the student accesses the MOE Library Lesson directly, he/she will receive a banner notification indicating that there is an updated version of the Lesson.</p>
+<li><p><strong>If an existing Activity from the MOE Library is added to a Module, will the Module be automatically updated if the Activity has been updated in MOE Library?</strong></p>
+<p> No, the newly created Module is considered a separate Module. However, if the student accesses the MOE Library Module directly, he/she will receive a banner notification indicating that there is an updated version of the Module.</p>
 </li>
 <li><p><strong>How do I easily add superscript and subscript in the Rich Text Editor?</strong></p>
 <p> The best way is to use the handwriting tool in the new equation (WIRIS) editor, which can be accessed by clicking the icon that looks like a “C” and subsequently clicking on the handwriting bar on the right of the subpage that pops up. As you write, you can confirm that the editor is reading your handwriting correctly by checking the bottom right of the editor.</p>
