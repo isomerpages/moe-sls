@@ -5,7 +5,7 @@ collections:
       - Authentication/Authentication.md
       - Authentication/Log in to SLS (Teacher).md
       - Authentication/Reset SLS Password (Teacher).md
-      - Authentication/Password Reset Email.md
+      - Authentication/SLS Password Reset Email.md
       - Authentication/Locked Account.md
       - Authentication/.keep
       - Authentication/Log in to SLS (Student).md
