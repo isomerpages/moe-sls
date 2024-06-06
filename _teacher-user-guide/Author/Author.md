@@ -40,6 +40,7 @@ variant: markdown
 <li><a href="/teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/" target="_blank">(A2,13) Add Rubrics to Audio- and Free-Response Questions</a></li>	
 <li><a href="/teacher-user-guide/author/embed-youtube-videos/" target="_blank">(A2,14) Embed YouTube Videos</a></li>
 <li><a href="/teacher-user-guide/author/insert-media-objects/" target="_blank">(A2,15) Insert Media Objects</a></li>
+<li><a href="/teacher-user-guide/author/insert-transcript-for-video-audio" target="_blank">(A2,16) Insert Transcript for Video &amp; Audio (New)</a></li>
 </ul>
 <p>A3. Use Rich Text</p>	
 <ul>
