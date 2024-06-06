@@ -51,7 +51,7 @@ variant: markdown
 </ul>
 <li><p><strong>Events that will not be imported:</strong> </p>
 </li>
-<ul><li>Events outside of the date range: 16 Dec 2023 to 13 Dec 2024</li>
+<ul><li>Events outside of the date range</li>
 <li><p>Recurring events lasting more than one day</p>
 </li></ul>
 </ol>
