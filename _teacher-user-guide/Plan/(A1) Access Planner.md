@@ -51,7 +51,7 @@ variant: markdown
 </ul>
 <li><p><strong>Events that will not be imported:</strong> </p>
 </li>
-<ul><li>Events outside of the date range</li>
+<ul><li>Events outside of the SLS calendar year</li>
 <li><p>Recurring events lasting more than one day</p>
 </li></ul>
 </ol>
