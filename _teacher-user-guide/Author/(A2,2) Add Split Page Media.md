@@ -224,5 +224,5 @@ pages.</p>
 <p></p>
 <h2>Generate Transcript for Video/Audio (New)</h2>
 <hr>
-<p>You can generate transcript for video/audio. Refer to Generate Transcript
-for Video/Audio (hyperlink)</p>
+<p>You can generate transcript for video/audio. Refer to <a href="https://www.learning.moe.edu.sg/teacher-user-guide/author/insert-transcript-for-video-audio/" rel="noopener noreferrer nofollow" target="_blank">Insert Transcript for Video/Audio</a>.</p>
+<p></p>
