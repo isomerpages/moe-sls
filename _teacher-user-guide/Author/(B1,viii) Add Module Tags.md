@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-Module-tags">(B1,viii) Add Module Tags</h1>
+<h1 id="add-Module-tags">(B1,viii) Add Module Tags (Enhancement)</h1>
 <p>Modules can be tagged to Subject, Level, Topics, and Sub-topics in the MOE Content Map so as to improve searchability in MOE Library, Community Gallery, and My Drive.</p>
 <p>If Modules are submitted to the Community Gallery, tags will allow teachers to find the Module using filters and relevant search terms.</p>
 <h2 id="-add-module-tags-">Add Module Tags</h2>
@@ -21,7 +21,7 @@ variant: markdown
 <li>Select the <strong>Content Map</strong> (previously known as Syllabus).</li>
 <li>Select the checkboxes next to the <strong>Topics</strong> or <strong>Sub-topics</strong> that are relevant to this Module. You can click the <strong>downward arrow</strong> to expand the topics in order to see the Sub-topics.</li>
 <li>Click the upward arrow on the Module Tag field to close the selection.</li>
-<li><p>Click the <strong>Save</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed.</p>
+<li><p>Click <strong>Save</strong>  <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed.</p>
 <p><img style="width: 100%;" src="/images/2Teacher/AU-AddLessonTag1.png"></p>
 </li>
 </ol>
@@ -29,7 +29,7 @@ variant: markdown
 <hr>
 <ol>
 <li>To add more Module Tags, click <strong>Add Module Tag</strong>.</li>
-<li>Multiple Module Tags will be displayed in an accordion format.</li>
+<li>Multiple Module Tags will be displayed in an accordion.</li>
 <li>To expand or collapse the tag details for viewing, click the <strong>Module Tag Title</strong> or on the upward/downward arrow. To remove the tag, click the <strong>Trash</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">.</li>
-<li>Click the <strong>Save</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed.</li>
+<li>Click <strong>Save</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed.</li>
 </ol>
