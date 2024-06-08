@@ -69,14 +69,14 @@ and reupload the image that you just downloaded.</p>
 times (for video/audio files)</p>
 </li>
 <li>
-<p>View and edit transcript (insert link)</p>
+<p><a href="https://www.learning.moe.edu.sg/teacher-user-guide/author/insert-transcript-for-video-audio/" rel="noopener noreferrer nofollow" target="_blank">View and edit transcript</a> 
+</p>
 </li>
 <li>
 <p>Set Permission for students to download</p>
 </li>
 <li>
-<p><a href="https://www.learning.moe.edu.sg/teacher-user-guide/author/insert-transcript-for-video-audio/" rel="noopener noreferrer nofollow" target="_blank">View and edit transcript</a> (for
-video/audio files)</p>
+<p>Show transcript and caption (for video/audio files)</p>
 </li>
 <li>
 <p>Keyword Tags</p>
