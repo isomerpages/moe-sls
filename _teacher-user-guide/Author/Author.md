@@ -76,7 +76,6 @@ variant: markdown
 <li><a href="/teacher-user-guide/author/file-size-limits/" target="_blank">(B1,xi) File Size Limits</a></li>
 </ul>
 </details>
-
 <details><summary><h4>C. What are the copyright guidelines for resources?</h4></summary>
 <ul>
   <li><a href="/teacher-user-guide/author/copyright-resources/" target="_blank">(C1,i) Copyright Resources</a></li>
