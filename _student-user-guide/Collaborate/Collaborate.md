@@ -23,7 +23,7 @@ variant: markdown
 <details><summary><h4>B. How to use the Forum?</h4></summary>
  <ul>
     <li><a target="_blank" href="/student-user-guide/collaborate/access-the-forum/">(B1) Access the Forum</a></li>
-    <li><a target="_blank" href="/student-user-guide/collaborate/posting-on-a-discussion-topic/">(B2,1) Posting on a Discussion Topic (Improved)</a></li>
+    <li><a target="_blank" href="/student-user-guide/collaborate/posting-on-a-discussion-topic/">(B2,1) Posting on a Discussion Topic</a></li>
     <li><a target="_blank" href="/student-user-guide/collaborate/create-a-new-poll/">(B2,2) Create a New Poll</a></li>
 	 <li><a target="_blank" href="/student-user-guide/collaborate/comment-in-the-forum/">(B3,1) Comment in the Forum</a></li>
     <li><a target="_blank" href="/student-user-guide/collaborate/edit-a-poll/">(B3,2) Edit a Poll</a></li>
