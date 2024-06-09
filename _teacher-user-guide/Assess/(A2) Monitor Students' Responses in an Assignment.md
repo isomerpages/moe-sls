@@ -42,13 +42,13 @@ variant: markdown
 <hr>
 <p>From R1, you can monitor your students’ draft responses in the following question types:</p>
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">Multiple-Choice Questions</a> [hyperlink (A2,4) Add Multiple-Choice Questions]</li>
-<li>Fill-in-the-Blank Questions [hyperlink (A2,5) Add Fill-in-the-Blank Questions]</li>
-<li>Click-and-Drop Questions [hyperlink (A2,6) Add Click-and-Drop Questions]</li>
-<li>Error-Editing Questions [hyperlink (A2,7) Add Error-Editing Questions]</li>
-<li>Free-Response Questions [hyperlink (A2,8) Add Free-Response Questions]</li>
-<li>Audio-Response Questions [hyperlink (A2,9) Add Audio-Response Questions]</li>
-<li>Multi-Part Questions [hyperlink (A2,10) Add Multi-Part Questions]</li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-multiple-choice-questions/">Multiple-Choice Questions</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-fill-in-the-blanks-questions/">Fill-in-the-Blank Questions</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-click-and-drop-questions/">Click-and-Drop Questions</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-error-editing-questions/">Error-Editing Questions</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-free-response-questions/">Free-Response Questions</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-audio-response-questions/">Audio-Response Questions</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-multi-part-questions/">Multi-Part Questions Questions</a></li>
 </ul>
 <p>To view your students’ responses:</p>
 <ol>
