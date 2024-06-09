@@ -26,6 +26,30 @@ variant: markdown
 <hr>
 <h2 id="mark-drawing">Mark a Copy of a Drawing</h2>
 <hr>
+<ol>
+<li>
+<p>After students submit their drawing or image, click on the <b>Pen</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pen.svg"> to Mark a Copy of the Drawing.</p>
+</li>
+<img alt="Mark a Copy of a Drawing" style="width: 80%;" src="/images/2Teacher/AS_MarkACopy.png">
+
+<li>
+<p>You can use the <a target="_blank" href="/teacher-user-guide/author/insert-drawings/">Drawing tools</a> to mark a copy of the drawing.</p>
+</li>
+<li>
+<p>Click <strong>Next</strong> after you are done drawing/editing.</p>
+</li>
+<li>
+<p>Rotate or crop the image to your preferred dimensions before clicking <strong>Done</strong>.</p>
+</li>
+<li>
+<p>The image will appear under Teacher Comments. You may check the box beside Notify student(s) about comment, then click <strong>Post</strong>.</p>
+</li>
+<li>
+<p>Your student may reply to your marked image in the Teacher Comments tab.</p>
+</li>
+</ol>
+<img alt="Mark a Copy of a Drawing" style="width: 80%;" src="/images/2Teacher/AS_MarkACopy1.png">
+<p><u>Note</u>: Replies to the marked image using “Reply” on the image bar will update all the images in the comment thread. This will override previous images and only the latest version will be shown.</p>
 <h2 id="mark-student">Mark Student Responses as Google PDF Copy</h2>
 <hr>
 <h2 id="mark-google">Mark Google-Attached Files</h2>
