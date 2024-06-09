@@ -140,11 +140,10 @@ that can be used on SSOE2 ACAD device with ITD lock down mode.</p>
 <li><strong>Is there a timer function in SLS that limits the time that students spend on a particular question/task, or on the assssment as a whole?</strong>
 <p>To use the timer function in quizzes, please refer to <a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">Quiz Settings</a>.</p>
 <p>As with normal assessment practices, the school may make use of a classroom clock along with the pause/resume button in SLS assignments to coordinate the starting and stopping time of the exams. This would facilitate students’ tracking of time during exams through the classroom clock.&nbsp;</p>
-<p>Schools may also consider making use of the passcode feature available in SLS (see links below) to coordinate the start time of the assessment.&nbsp;</p>
-<p>For example, the passcode can be announced/made known to candidates only at the starting time of the exam. At the end of the exam (based on the class clock), the assessment can be paused.&nbsp;</p>
-<p>Click on these links for more information on  <a target="_blank" href="/teacher-user-guide/assess/add-and-view-passcodes/">Passcodes</a> and 
+<p>Schools may also consider making use of the <a target="_blank" href="/teacher-user-guide/assess/add-and-view-access-codes/">Access Code</a> feature available in SLS (see links below) to coordinate the start time of the assessment.&nbsp;</p>
+<p>For example, the Access Code can be announced/made known to candidates only at the starting time of the exam. At the end of the exam (based on the class clock), the assessment can be paused.&nbsp;</p>
+<p>Click on these links for more information on  <a target="_blank" href="/teacher-user-guide/assess/add-and-view-access-codes/">Access Codes</a> and 
 <a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">Setting Assignments as Assessments</a>.</p></li>
-
 <li><strong>Do we need to obtain consent for students to upload their videos/audio clips to SLS for Teaching and Learning purposes?</strong>
 <p>No further consent is needed as it is deemed to be provided under Para 14 of the <a target="_blank" href="https://vle.learning.moe.edu.sg/termsofuse">SLS Terms of Use</a></p></li>
 </ol>
