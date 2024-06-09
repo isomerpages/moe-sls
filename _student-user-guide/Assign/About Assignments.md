@@ -78,9 +78,9 @@ and Module Description.</p>
 <div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Bulb32.svg">
 </div>
-<p><u>Did you know?</u>: Teachers are able to set a Passcode to an Assignment.
-You will be required to enter the Passcode (case-sensitive) in order to
-access these Assignments.</p>
+<p><u>Did you know?</u>: Teachers are able to set a Access Code to an Assignment.
+You will be required to enter the Access Code (case-sensitive) in order
+to access these Assignments.</p>
 <h2>Language Settings</h2>
 <hr>
 <p>By default, your Assignments are displayed in English. However, your teacher
