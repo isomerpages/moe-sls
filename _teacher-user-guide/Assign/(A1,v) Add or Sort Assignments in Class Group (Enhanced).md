@@ -6,7 +6,7 @@ third_nav_title: Assign
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-assignments-to-class-group">(A1,v) Add Assignments to Class Group</h1>
+<h1 id="add-assignments-to-class-group">(A1,v) Add or Sort Assignments in Class Group (Enhanced)</h1>
 <ol>
 <li>You can add assignments to the Class Group from the Class Group page. </li>
 <li>Access Class Groups from the left menu or by selecting the Class Group (if pinned) on your homepage. On the Class Group page, click <strong>Add Assignment</strong> to add the assignment:<ol style="list-style-type: lower-alpha;">
@@ -20,6 +20,7 @@ variant: markdown
 <li>You may also add a new Category to your Class Group assignment. This can be used to organise the Assignments for your Class Group.</li>
 </ol>
 <h2 id="sort-assignments-to-class-group">Sort Assignments in Class Group (Enhanced)</h2>
+<hr>
 <ol>
     <li>You can sort Assignments in Class Groups to find them easily.</li>
     <li>On the Assignment tab in the Class group, select a category from the dropdown menu. Click <strong>Apply</strong>.</li>
@@ -27,6 +28,7 @@ variant: markdown
 </ol>
 <p><img alt="Sort Assignments in Class Group" style="width: 100%;" src="/images/2Teacher/as_addassignment2.jpg"></p>
 <h2 id="sort-resources-in-class-group">Sort Resources in Class Group (Enhanced)</h2>
+<hr>
 <ol>
     <li>You can sort Resources in Class Groups to find them easily.&nbsp;</li>
     <li>On the Resource tab in the Class Group, select a category from the dropdown menu. Click <strong>Apply</strong>.&nbsp;</li>
