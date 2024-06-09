@@ -14,7 +14,7 @@ variant: markdown
 <li><p>You can enable auto-marking in an <strong>Audio-Response Question</strong> by selecting the Audio-Response under Question dropdown in the Component Bar. </p>
 	<p> <u>Note</u>: The Speech Evaluation feature is only available for Audio-Response Question types. </p>
 </li>
-<li><p>Check the box next to Use and select the relevant Language for Speech Evaluation</p>
+<li><p>Check the box next to "Use" and select the relevant Language for Speech Evaluation</p>
 <img alt="Speech Evaluation" style="width: 100%;" src="/images/2Teacher/AU_SpeechEvaluate4.png">
 </li><li><p>Then click the <strong>Speech Evaluation</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/SE.svg"> in the Rich Text editor.</p>
 </li>
@@ -30,7 +30,7 @@ variant: markdown
 </li>
 <li><p>If there are no further changes to the question, click <strong>Save</strong>.</p>
 </li>
-	<p><u>Note</u>: From R1, an audio recording of the text for speech evaluation will be automatically created for Suggested Answer.</p>
+	<p><u>Note</u>: From R1, an audio recording of the text for speech evaluation will be automatically created under the Suggested Answer tab.</p>
 </ol>
 <h2>View Speech Evaluation Feedback</h2>
 <hr>
@@ -39,7 +39,7 @@ variant: markdown
 <li>Navigate to the activity or quiz with the Speech Evaluation Tool.</li>
 <li>You will be able to see the student’s personalised feedback from the Speech Evaluation Tool.</li>
 </ol>
-<p>The Speech Evaluation Tool will generate a transcript of the submitted audio recording. The transcript will be automatically annotated for errors such as mispronunciation, inserts and omissions.</p>
+<p>The Speech Evaluation Tool will generate a transcript of the submitted audio recording. The transcript will be automatically annotated for errors such as mispronunciation, inserts and omissions for English, Chinese and Tamil Language only. Support for Malay Language will be implemented in future updates.</p>
 <p><span style="text-decoration: underline;">Note</span>: You can play the correct audio for mispronunciation or omission errors by clicking on the respective words in the transcript.</p>
 <img alt="Speech Evaluation" style="width: 100%;" src="/images/2Teacher/AU_SpeechEvaluate5.png">
 <p><span data-token-index="0" class="notion-enable-hover">You will see the marks awarded by the Speech Evaluation tool based on the bands and mark range allocated.</span></p>
