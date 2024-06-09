@@ -12,7 +12,7 @@ variant: markdown
 <img alt="Author" style="width: 100%;" src="/images/2Teacher/Flow-Author.png">
 <details><summary><h4>A. How to create Modules?</h4></summary>
 <ul>
-<li><a href="/teacher-user-guide/author/create-new-lessons/" target="_blank">Create New Modules</a></li><li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" target="_blank">Use Authoring Copilot to create New Sections (New)</a></li>
+<li><a href="/teacher-user-guide/author/create-new-modules/" target="_blank">Create New Modules</a></li><li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" target="_blank">Use Authoring Copilot to create New Sections (New)</a></li>
 <li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/" target="_blank">Use Authoring Copilot to create New Activities &amp; Components (New)</a></li></ul>
 
 <p>A1. Activities and Templates</p>	
@@ -79,7 +79,7 @@ variant: markdown
 
 <details><summary><h4>C. What are the copyright guidelines for resources?</h4></summary>
 <ul>
-  <li><a href="/teacher-user-guide/author/resources/" target="_blank">(C1,i) Resources</a></li>
+  <li><a href="/teacher-user-guide/author/copyright-resources/" target="_blank">(C1,i) Copyright Resources</a></li>
 </ul>
 </details>
 <details>
