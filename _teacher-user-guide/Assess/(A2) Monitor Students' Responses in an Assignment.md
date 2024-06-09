@@ -30,13 +30,37 @@ variant: markdown
 <li><b>Toggle on/off to show marks under Setting</b> <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> : to show/hide marks on the Heatmap.</li>
 <li><b>Legend</b> <img style="width:1.5rem; display: inline;" src="/images/Icons/Legend.svg">: legend for the colours and icons used in the Heatmap.</li>
 <li><p><b>Heatmap</b>: table of students and their response data. All questions will be indicated in this table. Click the <strong>Section</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Section.svg"> to navigate to a Section. Within a Section, click the <strong>Activity</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityIcon.svg">, <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityOptional32.svg"> or <img style="width:1.5rem; display: inline;" src="/images/Icons/Quiz.svg"> to navigate to an Activity. Team Quizzes will be indicated with the <strong>Team</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/TeamSubmission.svg">. Alternatively, click the <strong>Filter</strong> icon  <img style="width:1.5rem; display: inline;" src="/images/Icons/FilterTo.svg"> beside a Section or Activity icon to filter a Section or an Activity. Within an Activity, click the <strong>Question Number</strong> in the table header to view the aggregated students' responses for that particular question.</p>
-	<p> <u>Note</u>:</p>
+<p> <u>Note</u>:</p>
 <ul>
 <li>Clicking the Question Number on the Heatmap will redirect you to the Aggregated Student Responses.</li>
 <li>To exit the filtered view, click the <strong>X</strong> beside the <strong>Filter</strong> icon.</li>
 <li>Drawings, files, audio clips submitted to an Interactive Thinking Tool will not be downloaded.</li>
 </ul>
 </li>
+</ul>
+<h2>Monitor Student Responses</h2>
+<hr>
+<p>From R1, you can monitor your students’ draft responses in the following question types:</p>
+<ul>
+<li>Multiple-Choice Questions [hyperlink (A2,4) Add Multiple-Choice Questions]</li>
+<li>Fill-in-the-Blank Questions [hyperlink (A2,5) Add Fill-in-the-Blank Questions]</li>
+<li>Click-and-Drop Questions [hyperlink (A2,6) Add Click-and-Drop Questions]</li>
+<li>Error-Editing Questions [hyperlink (A2,7) Add Error-Editing Questions]</li>
+<li>Free-Response Questions [hyperlink (A2,8) Add Free-Response Questions]</li>
+<li>Audio-Response Questions [hyperlink (A2,9) Add Audio-Response Questions]</li>
+<li>Multi-Part Questions [hyperlink (A2,10) Add Multi-Part Questions]</li>
+</ul>
+<p>To view your students’ responses:</p>
+<ol>
+<li>On the&nbsp;<strong>Monitor Assignment</strong>&nbsp;page, select the student's name.</li>
+<li>From the Activity List on the left, select the Activity that contains the response(s).</li>
+<li>You will be able to see the draft answer.</li>
+</ol>
+<p><u>Note</u>:</p>
+<ul>
+<li>You cannot edit your students’ draft responses.</li>
+<li>If the responses are in a quiz, you can submit them on your students’ behalf.</li>
+<li>For draft and submitted answers, you will also be able to see the name of the student who saved the draft and the time it was saved.</li>
 </ul>
 <h2 id="monitor-an-interactive-thinking-tool">Monitor an Interactive Thinking Tool</h2>
 <hr>
