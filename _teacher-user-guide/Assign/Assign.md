@@ -15,9 +15,9 @@ variant: markdown
 <ul>
     <li><a target="_blank" href="/teacher-user-guide/assign/create-assignments/">(A1,i) Create Assignments</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assign/quick-assign-activities-and-quizzes/">(A1,ii) Quick Assign Activities &amp; Quizzes (New)</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assign/assign-moe-library-lessons/">(A1,iii) Assign MOE Library Lessons</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assign/assign-community-gallery-lessons/">(A1,iv) Assign Community Gallery Lessons</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assign/add-assignments-to-class-group/">(A1,v) Add Assignments to Class Group</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assign/assign-moe-library-modules/">(A1,iii) Assign MOE Library Modules</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assign/assign-community-gallery-modules/">(A1,iv) Assign Community Gallery Modules</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assign/add-or-sort-assignments-in-class-group/">(A1,v) Add or Sort Assignments in Class Group (Enhanced)</a></li>
   </ul>
 </details>
 
