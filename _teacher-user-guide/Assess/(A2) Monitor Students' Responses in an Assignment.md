@@ -42,7 +42,7 @@ variant: markdown
 <hr>
 <p>From R1, you can monitor your students’ draft responses in the following question types:</p>
 <ul>
-<li>Multiple-Choice Questions [hyperlink (A2,4) Add Multiple-Choice Questions]</li>
+<li><a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">Multiple-Choice Questions</a> [hyperlink (A2,4) Add Multiple-Choice Questions]</li>
 <li>Fill-in-the-Blank Questions [hyperlink (A2,5) Add Fill-in-the-Blank Questions]</li>
 <li>Click-and-Drop Questions [hyperlink (A2,6) Add Click-and-Drop Questions]</li>
 <li>Error-Editing Questions [hyperlink (A2,7) Add Error-Editing Questions]</li>
