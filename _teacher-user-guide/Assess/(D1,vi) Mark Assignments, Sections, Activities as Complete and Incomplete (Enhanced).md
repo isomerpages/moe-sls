@@ -42,7 +42,6 @@ variant: markdown
 <li><p>You may <strong>Notify student(s)</strong> that a particular Section/Activity has been marked as Complete/Incomplete and include a custom message.</p>
 </li>
 <li><p>Click <strong>OK</strong> to proceed.</p>
-
-
+<p><u>Note</u>: You will not be able to undo this action.</p>
 </li>
 </ol>
