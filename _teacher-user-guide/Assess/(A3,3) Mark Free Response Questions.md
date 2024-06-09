@@ -10,19 +10,19 @@ variant: markdown
 <p>With the integration of Google’s suite of tools, you can leverage Google extensions such as Kami or Lumin to mark Free-Response Questions and provide personalised feedback on the Free-Response Questions.</p>
 <p><u>Important</u>: A <a target="_blank" href="/teacher-user-guide/customise/manage-linked-account/"> Linked Account</a> with Google is required to mark a Google PDF Copy or Google-attached files</p>
 <ol>
-<li>From the Monitor Assignment page [hyperlink to (A2) Monitor Students' Responses in an Assignment], click on a student’s name to navigate within the student's Assignment to begin marking.</li>
-<li>Alternatively, click the Question number in the Monitor Assignment page [hyperlink to (A2) Monitor Students' Responses in an Assignment] to view all responses. You can also click on a student’s name to navigate to the particular Activity for the entire Class Group, starting with the student you clicked.</li>
+<li>From the <a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/"> Monitor Assignment</a> page, click on a student’s name to navigate within the student's Assignment to begin marking.</li>
+<li>Alternatively, click the Question number in the <a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/"> Monitor Assignment</a> page to view all responses. You can also click on a student’s name to navigate to the particular Activity for the entire Class Group, starting with the student you clicked.</li>
 <li>From here, you may perform the following:
 <ol style="list-style-type: lower-alpha;">
-<li>Allocate Marks</li>
-<li>Mark a Copy of a Drawing</li>
-<li>Mark Student Responses as Google PDF Copy</li>
-<li>Mark Google-Attached Files</li>
-<li>Edit Marked PDF Copies</li>
+<li><a href="#allocate-marks">Allocate marks</a></li>
+<li><a href="#mark-drawing">Mark a Copy of a Drawing</a></li>
+<li><a href="#mark-student">Mark Student Responses as Google PDF Copy</a></li>
+<li><a href="#mark-google">Mark Google-Attached Files</a></li>
+<li><a href="#mark-pdf">Edit Marked PDF Copies</a></li>
 </ol>
 </li>
 </ol>
-<h2>Allocate Marks</h2>
+<h2 id="allocate-marks">Allocate marks</h2>
 <hr>
 <ol>
 <li><p>After students submit their Google File, you can choose to mark the file as a PDF or a Google File. </p>
