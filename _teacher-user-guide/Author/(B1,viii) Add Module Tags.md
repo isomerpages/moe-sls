@@ -30,6 +30,6 @@ variant: markdown
 <ol>
 <li>To add more Module Tags, click <strong>Add Module Tag</strong>.</li>
 <li>Multiple Module Tags will be displayed in an accordion.</li>
-<li>To expand or collapse the tag details for viewing, click the <strong>Module Tag Title</strong> or on the upward/downward arrow. To remove the tag, click the <strong>Trash</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">.</li>
+<li>To expand or collapse the tag details for viewing, click the <strong>Module Tag Title</strong> or on the <b>upward/downward arrow</b>. To remove the tag, click the <strong>Trash</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">.</li>
 <li>Click <strong>Save</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed.</li>
 </ol>
