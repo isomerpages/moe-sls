@@ -42,19 +42,11 @@ Paused, Complete, Incomplete, Upcoming or Overdue.</p>
 <p><u>Note</u>: Overdue assignments can still be attempted.</p>
 </li>
 <li>
-<p>Assignment Sharing icon - This icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/SharingEnabled.svg">
-</div>
-<p>will appear if your teacher has enabled sharing of the Assignment with
+<p>Assignment Sharing icon - This icon <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/SharingEnabled.svg"> will appear if your teacher has enabled sharing of the Assignment with
 your classmates.</p>
 </li>
 <li>
-<p>Gamification icon - This icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Game.svg">
-</div>
-<p>will appear if your teacher has enabled Gamification for the Assignment.</p>
+<p>Gamification icon - This icon <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Game.svg"> will appear if your teacher has enabled Gamification for the Assignment.</p>
 </li>
 <li>
 <p>Colour Banner - The colour shown on the Assignment card is based on the
@@ -67,20 +59,14 @@ be labelled "New". Existing Assignments that have sections added to them
 will be labelled “New Section”</p>
 </li>
 <li>
-<p>View Details icon - This icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/ViewDetails.svg">
-</div>
-<p>shows the Module Details subpage, which includes the Sections/Activities
+<p>View Details icon - This icon 
+<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/ViewDetails.svg"> shows the Module Details subpage, which includes the Sections/Activities
 and Module Description.</p>
 </li>
 </ol>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Bulb32.svg">
-</div>
-<p><u>Did you know?</u>: Teachers are able to set a Access Code to an Assignment.
+<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Bulb32.svg"><u>Did you know?</u>: Teachers are able to set a Access Code to an Assignment.
 You will be required to enter the Access Code (case-sensitive) in order
-to access these Assignments.</p>
+to access these Assignments.<p></p>
 <h2>Language Settings</h2>
 <hr>
 <p>By default, your Assignments are displayed in English. However, your teacher
@@ -125,9 +111,5 @@ to give you an idea of how long each Activity is expected supposed to take.
 <h3>Optional Activities</h3>
 <hr>
 <p>Some Activities may be indicated as “Optional” within an Assignment. Optional
-Activities can be identified through the</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/ActivityOptional32.svg">
-</div>
-<p>icon in the Activity List. You do not need to complete them to gain a
+Activities can be identified through the <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/ActivityOptional32.svg"> icon in the Activity List. You do not need to complete them to gain a
 “Complete” status for the Assignment.</p>
