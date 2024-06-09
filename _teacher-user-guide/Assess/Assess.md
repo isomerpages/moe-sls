@@ -28,7 +28,7 @@ variant: markdown
 <ul>
     <li><a target="_blank" href="/teacher-user-guide/assess/mark-teacher-marked-quizzes/">(B1) Mark Teacher-Marked Quizzes</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/release-teacher-marked-quizzes/">(B2,1) Release Teacher-Marked Quizzes</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assess/unsubmit-teacher-marked-quizzes/">(B2,2) Unsubmit Teacher-Marked Quizzes</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/unsubmit-teacher-marked-quizzes-or-questions/">(B2,2) Unsubmit Teacher-Marked Quizzes or Questions</a></li>
   </ul>
 </details>
 <details>
