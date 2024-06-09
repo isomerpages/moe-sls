@@ -24,6 +24,11 @@ variant: markdown
 </ol>
 <h2 id="allocate-marks">Allocate marks</h2>
 <hr>
+<ol>
+<li>After students submit their response, you can choose to allocate marks. Click the <strong>Save</strong>&nbsp;icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to save.</li>
+<li>To Add Teacher Comments, click <a target="_blank" href="/teacher-user-guide/assess/add-teacher-comments/"> here</a>.</li>
+<img alt="Mark Free-Response Questions" style="width: 80%;" src="/images/2Teacher/As_MarkFRQ1.png">
+</ol>
 <h2 id="mark-drawing">Mark a Copy of a Drawing</h2>
 <hr>
 <ol>
