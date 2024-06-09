@@ -17,7 +17,7 @@ variant: markdown
 <li>You can rename the Module Title by clicking on the Title on the top menu bar and save by clicking outside of it.</li>
 <li>Click the <strong>Overflow</strong> (<strong>3-dots</strong> icon) found at the top right of the header to:<ul>
 <li>Manage Gamification Settings</li>
-<li>Manage Passcode Settings</li>
+<li>Manage Access Code Settings</li>
 </ul>
 </li>
 <li>Make the necessary changes to your Module. Click the <strong>Done</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Done.svg"> found at the top right of the header to save your changes.</li>
