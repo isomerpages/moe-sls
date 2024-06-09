@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: SLS Card Games
 ---
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/Marcomms/Superhero_Academy.png">
+<img style="width: 100%" height="auto" width="100%" alt="Superhero Academy" src="/images/2Teacher/Marcomms/Superhero_Academy.png">
 
 <h3>Game Objective</h3>
 <hr>
