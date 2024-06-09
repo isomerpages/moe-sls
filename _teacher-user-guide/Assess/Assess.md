@@ -12,7 +12,7 @@ variant: markdown
 <details>
  <summary><h4>A. How to assess students?</h4></summary>
  <ul>
-    <li><a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">(A1) Create Quizzes (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">(A1) Create Quizzes</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/">(A2) Monitor Students' Responses in an Assignment</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/add-teacher-comments/">(A3,1) Add Teacher Comments</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/annotate-underline-students-responses/">(A3,2) Annotate (Underline) Students' Responses</a></li>
@@ -44,11 +44,12 @@ variant: markdown
  <summary><h4>D. More about Quizzes and Assessments</h4></summary>
 <ul>
     <li><a target="_blank" href="/teacher-user-guide/assess/view-assignments/">(D1,i) View Assignments</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">(D1,ii) Edit Quizzes (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">(D1,ii) Edit Quizzes</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">(D1,iii) Set Assignments as Assessments</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/add-and-view-access-codes/">(D1,iv) Add and View Access Codes</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/view-students-notes/">(D1,v) View Students' Notes</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/mark-assignments-as-complete-and-incomplete/">(D1,vi) Mark Assignments as Complete and Incomplete</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/submit-quizzes/">(D1,vii) Submit Quizzes (New)</a></li>
   </ul>
 </details>
 <details>
