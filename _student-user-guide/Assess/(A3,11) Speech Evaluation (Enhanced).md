@@ -24,6 +24,6 @@ variant: markdown
 <p>You will see the marks awarded by the Speech Evaluation tool based on the bands and mark range allocated.</p>
 <img alt="Speech Evaluation" style="width: 100%;" src="/images/2Teacher/AU_SpeechEvaluate6.png">
 <p>A correct reading of the text will be generated under the Suggested Answer.</p>
-<img alt="Speech Evaluation" style="width: 100%;" src="images/1Student/As_SE1.png">
+<img alt="Speech Evaluation" style="width: 100%;" src="/images/1Student/As_SE1.png">
 <p>Under Teacher Comments, the Accuracy and Fluency Scores as well as the Words Correct Per Minute will be displayed.</p>
 <img alt="Speech Evaluation" style="width: 100%;" src="/images/2Teacher/AU_SpeechEvaluate7.png">
