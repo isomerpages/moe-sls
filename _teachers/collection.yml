@@ -2,9 +2,6 @@ collections:
   teachers:
     output: true
     order:
-      - SLS Card Games/Superhero Academy.md
-      - SLS Card Games/Build It Right.md
-      - SLS Card Games/.keep
       - Teachers.md
       - Friends of SLS.md
       - Feature Highlights/.keep
@@ -14,6 +11,9 @@ collections:
       - Feature Highlights/2022 Sem 2.md
       - Feature Highlights/2022 Sem 1.md
       - Feature Highlights/2021 Sem 2.md
+      - SLS Card Games/.keep
+      - SLS Card Games/Superhero Academy.md
+      - SLS Card Games/Build It Right.md
       - Frequently Asked Questions.md
       - SLS Professional Development/.keep
       - SLS Professional Development/Teaching and Learning with SLS.md
