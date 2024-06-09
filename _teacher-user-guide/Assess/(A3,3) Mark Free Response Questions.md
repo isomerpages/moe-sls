@@ -24,18 +24,33 @@ variant: markdown
 </ol>
 <h2 id="allocate-marks">Allocate marks</h2>
 <hr>
+<h2 id="mark-drawing">Mark a Copy of a Drawing</h2>
+<hr>
+<h2 id="mark-student">Mark Student Responses as Google PDF Copy</h2>
+<hr>
+<h2 id="mark-google">Mark Google-Attached Files</h2>
+<hr>
 <ol>
 <li><p>After students submit their Google File, you can choose to mark the file as a PDF or a Google File. </p>
 <ol style="list-style-type: lower-alpha;">
-<li>Mark as PDF: Creates a new PDF copy of the file. You can do on-screen marking using touch devices through Google extensions. </li>
+<li>Mark as PDF: Creates a new PDF copy of the file. You can do on-screen marking using Google extensions on touch devices. </li>
 <li><p>Mark as Google File: Creates a new copy of the file. You can directly edit or comment on the new copy of the file.</p>
-<p><img alt="Mark Google-Attached Files" style="width: 80%;" src="/images/2Teacher/ As-GoogleComment.png"></p>
+<p><img alt="Mark Free-Response Questions" style="width: 80%;" src="/images/2Teacher/ As-GoogleComment.png"></p>
 </li>
 </ol>
 </li>
-<li><p>After choosing “Mark as PDF” or “Mark as Google File”, the new file will be attached to Teacher Comments. You will be able to edit and annotate on the new file. </p>
-<p><img alt="Mark Google-Attached Files" style="width: 80%;" src="/images/2Teacher/As-GoogleComment1.png"></p>
+<li><p>After choosing “Mark as PDF” or “Mark as Google File”, the new file will be attached to Teacher Comments. You will be able to edit and annotate on the new file by clicking on the <b>Pen</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pen.svg">.</p>
+<p><img alt="Mark Free-Response Questions" style="width: 80%;" src="/images/2Teacher/As-GoogleComment1.png"></p>
 </li>
-<li><p>Students can also respond to the marked Assignment to complete their corrections or to add additional comments/questions for clarification.</p>
+<li><p>Students can also respond to the Marked Response to complete their corrections by clicking the Overflow (3-dot icon) and selecting <b>Edit A Copy</b>. This will create a new copy of the Marked Response that they can mark with Google extensions. Alternatively, they can click <b>Add</b> to write additional comments/questions for clarification.</p>
+<img alt="Mark Free-Response Questions" style="width: 80%;" src="/images/2Teacher/As_MarkFRQ4.png">
 </li>
+</ol>
+<h2 id="mark-pdf">Edit Marked PDF Copies</h2>
+<hr>
+<p><u>Important</u>: If the PDF file is opened directly from the Teacher Comments and edited, any edits made will not be saved.</p>
+<ol>
+<li>Click the Overflow (3-dot icon) and select Edit.</li>
+<img alt="Mark Free-Response Questions" style="width: 80%;" src="/images/2Teacher/As_MarkFRQ5.png">
+<li>Click on the <b>Pen</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pen.svg"> to edit the Marked PDF copy.</li>
 </ol>
