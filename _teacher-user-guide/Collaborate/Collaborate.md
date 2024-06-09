@@ -44,8 +44,8 @@ variant: markdown
 <details>
  <summary><h4>D. How can teachers collaborate in SLS?</h4></summary>
 <ul>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/share-a-lesson/">(D1,i) Share a Lesson</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/access-a-shared-lesson/">(D1,ii) Access a Shared Lesson</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/share-a-module/">(D1,i) Share a Module</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/access-a-shared-module/">(D1,ii) Access a Shared Module</a></li>
   </ul>
 </details>
 <details>
