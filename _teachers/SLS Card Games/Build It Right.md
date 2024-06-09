@@ -6,8 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: SLS Card Games
 ---
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/Marcomms/Build_it_right.png">
-
+<img style="width: 100%" height="auto" width="100%" alt="Build It Right" src="/images/2Teacher/Marcomms/Build_it_right.png">
 <h3>Game Objective</h3>
 <hr>
 <p>In Build It Right, teamwork is key as you and your fellow players collaborate
