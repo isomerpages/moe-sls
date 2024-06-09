@@ -8,7 +8,6 @@ collections:
       - Administer/(A1,i) Onboard New Students.md
       - Administer/(A1,ii) Reset Student Passwords for Classes.md
       - Administer/(A1,iii) Generate Passcode for Students.md
-      - Assess/(D1,vii) Submit Quizzes (New).md
       - Assess/.keep
       - Assess/Assess.md
       - Assess/(A1) Create Quizzes.md
@@ -31,6 +30,7 @@ collections:
       - Assess/(D1,v) View Students' Notes.md
       - Assess/(D1,vi) Mark Assignments, Sections, Activities as Complete and
         Incomplete (Enhanced).md
+      - Assess/(D1,vii) Submit Quizzes (New).md
       - Assign/.keep
       - Assign/Assign.md
       - Assign/(A1,i) Create Assignments.md
