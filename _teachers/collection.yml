@@ -2,6 +2,7 @@ collections:
   teachers:
     output: true
     order:
+      - SLS Card Games/Superhero Academy.md
       - SLS Card Games/Build It Right.md
       - SLS Card Games/.keep
       - Teachers.md
