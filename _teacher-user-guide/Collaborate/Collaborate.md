@@ -13,7 +13,7 @@ variant: markdown
  <summary><h4>A. How to use the Class Group Forum?</h4></summary>
 <ul>
     <li><a target="_blank" href="/teacher-user-guide/collaborate/about-the-forum/">About the Forum</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-topic/">(A1,1) Add a Topic (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-topic/">(A1,1) Add a Topic</a></li>
     <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-poll/">(A1,2) Add a Poll</a></li>
     <li><a target="_blank" href="/teacher-user-guide/collaborate/change-forum-settings/">(A2) Change Forum Settings</a></li>
     <li><a target="_blank" href="/teacher-user-guide/collaborate/post-and-comment-in-the-forum/">(A3) Post and Comment in the Forum</a></li>
@@ -24,7 +24,7 @@ variant: markdown
 <details>
  <summary><h4>B. How to create Team Activities?</h4></summary>
  <ul>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/create-team-activities/">(B1) Create Team Activities (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/create-team-activities/">(B1) Create Team Activities</a></li>
     <li><a target="_blank" href="/teacher-user-guide/collaborate/create-teams/">(B2) Create Teams</a></li>
   </ul>
 </details>
@@ -35,8 +35,8 @@ variant: markdown
 <ul>
     <li><a target="_blank" href="/teacher-user-guide/collaborate/add-an-interactive-thinking-tool/">(C1,i) Add an Interactive Thinking Tool</a></li>
     <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-poll2">(C1,ii) Add a Poll</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-discussion/">(C1,iii) Add a Discussion (New)</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/attach-google-files/">(C1,iv) Attach Google Files</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-discussion/">(C1,iii) Add a Discussion</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/attach-google-files/">(C1,iv) Attach Google Files (Enhanced)</a></li>
   </ul>
 </details>
 <br>
@@ -65,8 +65,8 @@ variant: markdown
 <h4>F. Tech Tips for Teachers</h4>
 </summary>
 <ol>
-<li><p><strong>Can I share the URL to a particular Section (e.g. section B) with other teachers? (New in R19)</strong></p>
-<p> Yes, from R19 you are able to share the URL to a particular Section with other teachers. You can also add links to Sections within your Lesson.</p>
+<li><p><strong>Can I share the URL to a particular Section (e.g. section B) with other teachers? </strong></p>
+<p> Yes, you are able to share the URL to a particular Section with other teachers. You can also add links to Sections within your Lesson.</p>
 <p> If the Lesson is in My Drive, you will need to Share the Lesson with the other teacher before the teacher can access the Section URL.</p>
 <p> If you are sharing a Section URL from a Lesson in MOE Library/Community Gallery, teachers will be able to access the Section via the Section URL.</p>
 <p> Note: You cannot share a Section URL from MOE Library with students. The Section URL will redirect students to the cover page of the Lesson.</p>
@@ -82,8 +82,8 @@ variant: markdown
 <li><p><strong>Is it possible to select a student (i.e team leader) to submit a Team Quiz response?</strong></p>
 <p> For now, any student from the team can submit the Team Quiz response.</p>
 </li>
-<li><p><strong>Will there be a forum feature in SLS for students to collaborate? (New in R19)</strong></p>
-<p> Yes, there already is! Within each Class Group is a Forum tab for collaboration. From R19, it has been enhanced to allow teachers to create Discussion Topics and Polls. Students can also be granted permission to create Posts and Polls.  </p>
+<li><p><strong>Will there be a forum feature in SLS for students to collaborate?</strong></p>
+<p> Yes, there already is! Within each Class Group is a Forum tab for collaboration. Teachers can create Discussion Topics and Polls. Students can also be granted permission to create Posts and Polls.  </p>
 <p> For more information on Class Group Forums, visit <a target="_blank" href="/teacher-user-guide/collaborate/about-the-forum/">About the Forum</a> </p>
 </li>
 <li><strong>Can there be a function to share folders in My Drive to other colleagues?</strong>
