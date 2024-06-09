@@ -31,7 +31,6 @@ variant: markdown
 <p>After students submit their drawing or image, click on the <b>Pen</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pen.svg"> to Mark a Copy of the Drawing.</p>
 </li>
 <img alt="Mark a Copy of a Drawing" style="width: 80%;" src="/images/2Teacher/AS_MarkACopy.png">
-
 <li>
 <p>You can use the <a target="_blank" href="/teacher-user-guide/author/insert-drawings/">Drawing tools</a> to mark a copy of the drawing.</p>
 </li>
@@ -52,6 +51,28 @@ variant: markdown
 <p><u>Note</u>: Replies to the marked image using “Reply” on the image bar will update all the images in the comment thread. This will override previous images and only the latest version will be shown.</p>
 <h2 id="mark-student">Mark Student Responses as Google PDF Copy</h2>
 <hr>
+<ol>
+<li>
+<p>After students submit their response, you can choose to mark their response as a Google PDF Copy.</p>
+</li>
+<li>
+<p>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select Make a Google PDF Copy to Mark</p>
+<img alt="Mark Free-Response Questions" style="width: 80%;" src="/images/2Teacher/As_MarkFRQ2.png">
+</li>
+<li>
+<p>The new file will be attached to Teacher Comments. You will be able to edit and annotate on the new file by clicking on the <b>Pen</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pen.svg">.</p>
+</li>
+<li>
+<p>You will then be brought to a new tab where they can choose which Google extension to mark the PDF with.</p>
+</li>
+<li>
+<p>Click on <strong>Post</strong> to save.</p>
+</li>
+<img alt="Mark Free-Response Questions" style="width: 80%;" src="/images/2Teacher/As_MarkFRQ3.png">
+<li>
+<p>Students can also respond to the Marked Response to complete their corrections by clicking the&nbsp;<strong>Overflow</strong>&nbsp;(<strong>3-dot</strong>&nbsp;icon) and selecting <strong>Edit A Copy</strong>. This will create a new copy of the Marked Response that they can annotate on with Google extensions. Alternatively, they can click <strong>Add</strong> to write additional comments/questions for clarification.</p>
+</li>
+</ol>
 <h2 id="mark-google">Mark Google-Attached Files</h2>
 <hr>
 <ol>
@@ -66,7 +87,7 @@ variant: markdown
 <li><p>After choosing “Mark as PDF” or “Mark as Google File”, the new file will be attached to Teacher Comments. You will be able to edit and annotate on the new file by clicking on the <b>Pen</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pen.svg">.</p>
 <p><img alt="Mark Free-Response Questions" style="width: 80%;" src="/images/2Teacher/As-GoogleComment1.png"></p>
 </li>
-<li><p>Students can also respond to the Marked Response to complete their corrections by clicking the Overflow (3-dot icon) and selecting <b>Edit A Copy</b>. This will create a new copy of the Marked Response that they can mark with Google extensions. Alternatively, they can click <b>Add</b> to write additional comments/questions for clarification.</p>
+<li><p>Students can also respond to the Marked Response to complete their corrections by clicking the&nbsp;<strong>Overflow</strong>&nbsp;(<strong>3-dot</strong>&nbsp;icon) and selecting <b>Edit A Copy</b>. This will create a new copy of the Marked Response that they can mark with Google extensions. Alternatively, they can click <b>Add</b> to write additional comments/questions for clarification.</p>
 <img alt="Mark Free-Response Questions" style="width: 80%;" src="/images/2Teacher/As_MarkFRQ4.png">
 </li>
 </ol>
@@ -74,7 +95,7 @@ variant: markdown
 <hr>
 <p><u>Important</u>: If the PDF file is opened directly from the Teacher Comments and edited, any edits made will not be saved.</p>
 <ol>
-<li>Click the Overflow (3-dot icon) and select Edit.</li>
+<li>Click the&nbsp;<strong>Overflow</strong>&nbsp;(<strong>3-dot</strong>&nbsp;icon) and select Edit.</li>
 <img alt="Mark Free-Response Questions" style="width: 80%;" src="/images/2Teacher/As_MarkFRQ5.png">
 <li>Click on the <b>Pen</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pen.svg"> to edit the Marked PDF copy.</li>
 </ol>
