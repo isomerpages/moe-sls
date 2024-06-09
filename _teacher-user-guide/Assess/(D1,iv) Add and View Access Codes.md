@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="add-and-view-passcodes">(D1,iv) Add and View Access Codes</h1>
-<p>You can add a Access Code (formerly known as Passcode)to Modules to restrict students’ access to these resources. Students are required to enter the Access Code (case-sensitive) when they click the Assignment card.</p>
+<p>You can add a Access Code (formerly known as Passcode) to Modules to restrict students’ access to these resources. Students are required to enter the Access Code (case-sensitive) when they click the Assignment card.</p>
 <h2 id="add-a-passcode">Add a Access Code</h2>
 <hr>
 <ol>
