@@ -1,0 +1,13 @@
+collections:
+  students:
+    output: true
+    order:
+      - Students.md
+      - Feature Highlights/2022 Sem 2.md
+      - Feature Highlights/2022 Sem 1.md
+      - Feature Highlights/2021 Sem 2.md
+      - Feature Highlights/.keep
+      - Student Initiated Learning.md
+      - Frequently Asked Questions/.keep
+      - Frequently Asked Questions/Young Overseas Singaporeans.md
+      - Frequently Asked Questions/Technical Support and Passwords.md

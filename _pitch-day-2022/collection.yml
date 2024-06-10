@@ -1,0 +1,6 @@
+collections:
+  pitch-day-2022:
+    output: true
+    order:
+      - Overview 2022.md
+      - Featured Pitches 2022.md

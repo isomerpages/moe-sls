@@ -1,0 +1,5 @@
+collections:
+  partners-engagement-session:
+    output: true
+    order:
+      - Event Highlights 2024.md
