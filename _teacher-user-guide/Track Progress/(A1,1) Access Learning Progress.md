@@ -18,7 +18,7 @@ variant: markdown
 <p><u>Note</u>: Only Class Groups with a Subject tagged to it will have Learning Progress. Such Class Groups are indicated with coloured banners.</p>	
 <li>On the Learning Progress page, you can select your Class Group below the banner from the Class Group dropdown list. Class Groups that are tagged to the same Subject and Level will appear in the list.</li>
 <li>Select the <strong>Assignment</strong> tab to view the Class Group’s Learning Progress for Assignments assigned to the Class Group. </li>
-<li>Select the <strong>Self-Study</strong> tab to view the Class Group’s Learning Progress for questions attempted by students in their Self-Study Lessons that are tagged to the same Subject and Level as the Class Group. </li>
+<li>Select the <strong>Self-Study</strong> tab to view the Class Group’s Learning Progress for questions attempted by students in their Self-Study Modules that are tagged to the same Subject and Level as the Class Group. </li>
 	<p>Select the <strong>ALS</strong> tab to view the Class Group’s Learning Progress for mastery of concepts within ALS. Topical view provides you with a class overview at the topic and subtopic levels while Student view allows you to view each student’s individual progress at the topic and subtopic levels. </p>
 <li><p>In the <strong>Assignment</strong> tab, </p>
 <ol style="list-style-type: lower-alpha;">

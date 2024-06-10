@@ -16,7 +16,7 @@ variant: markdown
 <li>On the Learning Progress page, you can view your Class Group from the&nbsp;<strong>Selection dropdown list</strong>.</li>
 <li>Under <strong>Selection</strong> you may choose to view the Learning Progress for the following:<ul>
 <li>All - Assignments from both Self-Study and Class Group.</li>
-<li>Self-Study - Lessons attempted from MOE Library and My Drive.</li>
+<li>Self-Study - Modules attempted from MOE Library and My Drive.</li>
 <li>Class Group - Assignments assigned to you by your subject teacher.</li>
 </ul>
 	<u>Note</u>: When Self-Study is selected, you will be able to view your Learning Progress across the years by selecting the year from the&nbsp;<strong>Academic Year dropdown list</strong>.

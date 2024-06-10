@@ -12,9 +12,9 @@ variant: markdown
 <img alt="Publish" src="/images/2Teacher/Flow-Publish.svg">
 
 <details>
- <summary><h4>A. How to submit Lessons to Community Gallery?</h4></summary>
+ <summary><h4>A. How to submit Modules to Community Gallery?</h4></summary>
 <ul>
-    <li><a target="_blank" href="/teacher-user-guide/publish/submit-lessons/">(A1) Submit Lessons</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/publish/submit-lessons/">(A1) Submit Modules</a></li>
     <li><a target="_blank" href="/teacher-user-guide/publish/copyright-guidelines-for-submission/">(A2) Copyright Guidelines for Submission</a></li>
   </ul>
 </details>

@@ -11,7 +11,7 @@ variant: tiptap
 <hr>
 <ol data-tight="true" class="tight">
 <li>
-<p>Class Group Resources are Lessons that are uploaded to the Class Group
+<p>Class Group Resources are Modules that are uploaded to the Class Group
 without assignment and do not have a due date. Teachers may use this feature
 to curate and share supplementary resources with students, for them to
 attempt on their own as self-study or meet different learner profiles.</p>
@@ -67,7 +67,7 @@ can <a href="/teacher-user-guide/discover/search-for-resources/" rel="noopener n
 entering the title of the resource into the search field.</p>
 </li>
 <li>
-<p>Click the Lesson card to add the Lesson as a Class Group Resource.</p>
+<p>Click the Module card to add the Module as a Class Group Resource.</p>
 </li>
 <li>
 <p>From the Resource Title subpage, teachers can edit the Resource Title

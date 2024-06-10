@@ -25,5 +25,5 @@ variant: markdown
 </li>
 <li><p>To open the Assignment, click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg">. </p>
 </li>
-<li>For Self-Study, questions in Lesson can be attempted multiple times. Marks of the attempts can be viewed by clicking the dropdown arrow.</li>
+<li>For Self-Study, questions in Module can be attempted multiple times. Marks of the attempts can be viewed by clicking the dropdown arrow.</li>
 </ol>

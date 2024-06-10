@@ -10,7 +10,7 @@ variant: markdown
 <h2 id="leave-comments-on-notes">Leave Comments on Notes</h2>
 <hr>
 <ol>
-<li>You can access Notes from within a Lesson. Expand the Annotation Drawer by clicking <strong>Notepad</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Note.svg" alt="Comment on Notes #1">.</li>
+<li>You can access Notes from within a Module. Expand the Annotation Drawer by clicking <strong>Notepad</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Note.svg" alt="Comment on Notes #1">.</li>
 <li>To leave or view a comment, click the <strong>Comment</strong> icon on a Notes card. <img style="width: 25%;" src="/images/1Student/SS-Notes.png" alt="Comment on Notes #2"></li>
 <li><p>If commenting has been turned on, click <strong>Add</strong> and type your desired text.</p>
 <p> <img src="/images/1Student/SS-Notes6.png" alt="Comment on Notes #3"></p>

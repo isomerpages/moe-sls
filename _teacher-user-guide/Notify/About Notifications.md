@@ -10,15 +10,15 @@ variant: markdown
 <p>From R19, you can view Notifications sorted under <strong>For Me</strong> and <strong>Created By Me</strong> tabs. Under the <strong>For Me</strong> tab, you can further sort your listing by <strong>All, Unread</strong> and <strong>Flagged</strong>. You can also filter your listing using the <strong>Viewing</strong> and <strong>Type</strong> dropdown list.</p>
 <ul>
 <li>Viewing: All, General, Pinned Class Groups (if applicable), My Class Groups, Admin Roles (if applicable)</li>
-<li>Type: All, Announcements (Class Group Announcement, System Announcement), Others (Resource Status, Transcoding, Others, Forum, Assignment, Resource, Lesson, Media, Reports)</li>
+<li>Type: All, Announcements (Class Group Announcement, System Announcement), Others (Resource Status, Transcoding, Others, Forum, Assignment, Resource, Module, Media, Reports)</li>
 </ul>
 <ol>
 <li>You will receive Notifications when:
 <ul>
 <li>System, School and Class Group Announcements are created or updated.</li>
-<li>Lesson resources are shared with you.</li>
+<li>Module resources are shared with you.</li>
 <li>a Discussion Topic or Poll has been posted in the Class Group Forum.</li>
-<li>status of a Lesson that has been sent to the Community Gallery is updated.</li>
+<li>status of a Module that has been sent to the Community Gallery is updated.</li>
 <li>status of a Media Object that is in the process of transcoding is updated.</li>
 <li>students’ marks and responses for an Assignment are ready to be downloaded.</li>
 </ul>

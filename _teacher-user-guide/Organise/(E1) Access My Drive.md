@@ -12,12 +12,12 @@ image: /images/FaviconLight.png
 <li>
 <p>In My Drive, you will see three tabs:</p>
 <ol style="list-style-type: lower-alpha;">
-<li><strong>My Lessons</strong> - where Lessons created or copied by you are stored and organised.</li>
-<li><strong>My Templates</strong> - where you can find your personal Lesson Templates.</li>
+<li><strong>My Modules</strong> - where Modules created or copied by you are stored and organised.</li>
+<li><strong>My Templates</strong> - where you can find your personal Module Templates.</li>
 <li><strong>Trash</strong> - where deleted Resources are listed.</li>
 </ol>
 </li>
-<li>You can view Lessons shared with you from the <strong>Shared With Me</strong> page.</li>
-<li>By default, you will be on <strong>My Lessons</strong> tab.</li>
+<li>You can view Modules shared with you from the <strong>Shared With Me</strong> page.</li>
+<li>By default, you will be on <strong>My Modules</strong> tab.</li>
 </ol>
 </div>

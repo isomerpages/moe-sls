@@ -7,12 +7,12 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(B3) Delete Resources</h1>
-<p>Resources (Lessons or Folders) found under My Lessons tab can be deleted if you no longer need them.</p>
+<p>Resources (Modules or Folders) found under My Modules tab can be deleted if you no longer need them.</p>
 		
 <h2>Move Resources to Trash</h2>
 <hr>
 <ol>
-  <li>From the homepage, click <strong>My Drive</strong>. Alternatively, open the left menu from the header on the homepage. Click <strong>Resources</strong>, followed by <strong>My Drive</strong>. By default, you will be in the My Lessons tab.</li>
+  <li>From the homepage, click <strong>My Drive</strong>. Alternatively, open the left menu from the header on the homepage. Click <strong>Resources</strong>, followed by <strong>My Drive</strong>. By default, you will be in the My Modules tab.</li>
   <li>Select the Resource you want to delete using the checkbox on the left.</li>
   <li>Alternatively, you can click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and click <strong>Move to Trash</strong> to delete the resource individually.</li>
   <li>To delete multiple Resources, select the checkbox on the left and click <strong>Move to Trash</strong>.</li>

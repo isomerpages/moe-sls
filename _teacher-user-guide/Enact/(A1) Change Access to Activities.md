@@ -32,4 +32,4 @@ image: /images/FaviconLight.png
 <li>You can also toggle off selected activities in the Assignment.</li>
 </ol>
 <p><img style="width: 80%;" src="/images/2Teacher/EN-ChangeAccess2.png"></p>
-<p><u>Note</u>: You can also toggle on/off the Activities access on the Lesson Plan.</p>
+<p><u>Note</u>: You can also toggle on/off the Activities access on the Module Plan.</p>

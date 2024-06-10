@@ -12,7 +12,7 @@ variant: markdown
 <hr>
 <ol>
 <li>Open the left menu and select <strong>Administration</strong>, followed by <strong>Manage Content Maps</strong>.</li>
-<li>The list of Lessons will be reflected in the table, indicating the following:<ul>
+<li>The list of Modules will be reflected in the table, indicating the following:<ul>
 <li>Title</li>
 <li>Type</li>
 <li>Subject</li>

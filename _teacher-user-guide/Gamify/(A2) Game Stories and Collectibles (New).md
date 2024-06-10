@@ -36,7 +36,7 @@ variant: markdown
 <p>You will find two types of Collectibles:</p>
 <ol style="list-style-type: lower-alpha;">
 <li><strong>Achievement</strong> - Achievements awarded to students will be displayed on the leaderboard.</li>
-<li><strong>Avatar</strong> - Avatar awarded to students can be used to replace their SLS Avatar within the Lesson.</li>
+<li><strong>Avatar</strong> - Avatar awarded to students can be used to replace their SLS Avatar within the Module.</li>
 </ol>
 </li>
 <li>

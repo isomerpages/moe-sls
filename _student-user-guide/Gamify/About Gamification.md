@@ -7,8 +7,8 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="about-gamification-to-include-leaderboard-">About Gamification</h1>
-<p>Gamification allows game-based elements to be introduced in your Lesson. The game-based elements introduced include Experience Points (XP) and Levels, Game Stories, and Achievements. </p>
-<p>You can earn bonus XP or receive lesser XP as you attempt the Lesson based on XP modifiers set by your teacher.</p>
+<p>Gamification allows game-based elements to be introduced in your Module. The game-based elements introduced include Experience Points (XP) and Levels, Game Stories, and Achievements. </p>
+<p>You can earn bonus XP or receive lesser XP as you attempt the Module based on XP modifiers set by your teacher.</p>
 <h3 id="-glossary-of-terms-">Glossary of Terms</h3>
 <hr>
 <p><strong>Experience Points (XP)</strong> - XP is awarded to you to measure your progress within the game. XP is converted from marks awarded from your Assignment/Assessment.</p>
@@ -21,5 +21,5 @@ variant: markdown
 		</ul>
 		
 <img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did You Know</u>:
-<p>Gamified Lessons are indicated with the Gamification icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Game.svg"> on Assignment cards.</p>
+<p>Gamified Modules are indicated with the Gamification icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Game.svg"> on Assignment cards.</p>
  <img alt="About Gamification" style="width: 50%;" src="/images/1Student/G-AboutGamification1.png">

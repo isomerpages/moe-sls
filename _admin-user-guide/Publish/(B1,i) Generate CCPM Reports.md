@@ -9,7 +9,7 @@ variant: markdown
 <h1 id="generate-ccpm-reports-new-">(B1,i) Generate CCPM Reports</h1>
 <ol>
 <li>Open the left menu and select <strong>Administration</strong>, followed by <strong>Generate CCPM Reports</strong>.</li>
-	<li>Drop the Report dropdown list, select between&nbsp;<strong>Lesson Utilisation Report</strong>&nbsp;and&nbsp;Media Utilisation Report.</li>
+	<li>Drop the Report dropdown list, select between&nbsp;<strong>Module Utilisation Report</strong>&nbsp;and&nbsp;Media Utilisation Report.</li>
 <li>Click <strong>Generate</strong> beside the Report dropdown list to enter the respective Utilisation Report subpage.</li>
 <li>Select the <strong>Owner Group</strong> and <strong>Month</strong> from the dropdown list.</li>
 <li><p>Click <strong>Generate</strong>. </p>

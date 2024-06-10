@@ -14,7 +14,7 @@ variant: markdown
 <hr>
 <p>To embed a whitelisted website using site URL:</p>
 <ol>
-<li>In Lesson Editor page, hover over Text/Media found within the Component Bar and select Website.</li>
+<li>In Module Editor page, hover over Text/Media found within the Component Bar and select Website.</li>
 <li>On the Embed Website subpage, select the radio button side Enter URL or Enter Code.</li>
 <p><u>Note</u>: Search in the tables below to determine if a whitelisted website can be embedded via URL or Code.</p>
 <li>Alternatively, click <strong>Choose From Approved Websites</strong> to select a whitelisted website. Click the <strong>Website card</strong>, followed by <strong>Choose</strong> to proceed.</li>
@@ -265,7 +265,7 @@ https://www.craiyon.com
 </td>
 </tr>
 <tr><td><strong>Developers</strong></td>
-<td>Lesson Tool for Experiments and Simulations</td>
+<td>Module Tool for Experiments and Simulations</td>
 <td>
 https://developers.google.com
 </td>
@@ -326,7 +326,7 @@ https://www.eea.europa.eu
 </td>
 </tr>
 <tr><td><strong>Experiments with Google</strong></td>
-<td>Lesson Tool for Experiments and Simulations</td>
+<td>Module Tool for Experiments and Simulations</td>
 <td>
 https://experiments.withgoogle.com
 </td>
@@ -379,7 +379,7 @@ https://www.flippity.net
 </td>
 </tr>
 <tr><td><strong>Floop</strong></td>
-<td>Lesson Tool for Feedback</td>
+<td>Module Tool for Feedback</td>
 <td>
 https://www.floopedu.com
 </td>
@@ -565,7 +565,7 @@ https://www.khanacademy.org
 </td>
 </tr>
 <tr><td><strong>Kialo Edu</strong></td>
-<td>Lesson Tool for Critical Thinking</td>
+<td>Module Tool for Critical Thinking</td>
 <td>
 https://www.kialo-edu.com
 </td>
@@ -1027,7 +1027,7 @@ https://www.tate.org.uk
 </td>
 </tr>
 <tr><td><strong>Teachable</strong></td>
-<td>Lesson Tool for Experiments and Simulations</td>
+<td>Module Tool for Experiments and Simulations</td>
 <td>
 https://teachablemachine.withgoogle.com
 </td>
@@ -1246,7 +1246,7 @@ https://www.zbschools.sg
 <h2 class="section-title">Whitelisted Websites and URLs (Using Embed Code)</h2>
 <hr>
 <p>To embed a whitelisted website using embed code:</p>
-<ol><li><p>In Lesson Editor, click <strong>Add Component</strong> and select the component of your choice.</p></li>
+<ol><li><p>In Module Editor, click <strong>Add Component</strong> and select the component of your choice.</p></li>
 <li><p>In the Rich Text Editor, click the <strong>Embed</strong> icon and select the <strong>Enter code to embed</strong> radio button.</p>
 </li>
 <li><p>Insert the URL in the Embed Subpage and click the <strong>Add</strong> button.

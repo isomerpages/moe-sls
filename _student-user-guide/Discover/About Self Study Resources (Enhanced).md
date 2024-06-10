@@ -14,10 +14,10 @@ variant: markdown
 <li>Class Group Resources</li>
 <li>My Drive</li>
 </ul>
-<p>When a Lesson is attempted from one of the above three locations, it will be automatically added to the Self-Study List.</p>
+<p>When a Module is attempted from one of the above three locations, it will be automatically added to the Self-Study List.</p>
 <h3>About MOE Library</h3>
 <hr>
-<p>The MOE Library contains resources created and curated by the Ministry of Education (MOE) that complement your learning in school. You have access to Lessons for all levels and subjects.</p>
+<p>The MOE Library contains resources created and curated by the Ministry of Education (MOE) that complement your learning in school. You have access to Modules for all levels and subjects.</p>
 <p><u>Note</u>: Due to certain licensing agreements, you may be unable to load some images, audio files, videos and documents if you are not taking a subject or are accessing the SLS outside Singapore.</p>
 <h3>About Class Group Resources (Enhanced)</h3>
 <hr>
@@ -33,4 +33,4 @@ variant: markdown
 	
 </p><h3>About My Drive</h3>
 <hr>
-<p>The My Drive is a folder containing Lessons you have copied from MOE Library, Class Group Resources, and Assignments. You can reattempt Assignments that have been assigned as part of revision.</p>
+<p>The My Drive is a folder containing Modules you have copied from MOE Library, Class Group Resources, and Assignments. You can reattempt Assignments that have been assigned as part of revision.</p>

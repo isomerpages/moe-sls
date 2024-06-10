@@ -10,7 +10,7 @@ variant: markdown
 <p>SLS allows system capabilities to be extended via integration with external applications. This accelerates the adoption and integration of new digital learning tools and resources complementary to SLS. While most available Apps can be browsed from the App Library, some of them can only be launched via iframe embedding within a lesson.</p>
 <p>To embed an integrated App:</p>
 <ol>
-<li>In Lesson Editor page, hover over Text/Media found within the Component Bar and select App.</li>
+<li>In Module Editor page, hover over Text/Media found within the Component Bar and select App.</li>
 <img src="/images/2Teacher/d-apps1.JPG" alt="Apps" style="width: 50%;">
 <li>On the Browse Apps subpage, select the App to be embedded.</li>
 <img src="/images/2Teacher/d-apps2.JPG" alt="Apps" style="width: 100%;">

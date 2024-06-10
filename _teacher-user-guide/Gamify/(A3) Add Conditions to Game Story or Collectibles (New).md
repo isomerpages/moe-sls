@@ -20,19 +20,19 @@ third_nav_title: Gamify
 </thead>
 <tbody>
 <tr>
-<td>Lesson Start*</td>
-<td>when students enter the Lesson (any Section/Activity in the Lesson)</td>
+<td>Module Start*</td>
+<td>when students enter the Module (any Section/Activity in the Module)</td>
 </tr>
 <tr>
-<td>Lesson Progress (Start)<br>a. Section<br>b. Section + Activity<br></td>
+<td>Module Progress (Start)<br>a. Section<br>b. Section + Activity<br></td>
 <td>a. after students enter the Section or any Activity in the Section<br>b. after students enter the Activity<br></td>
 </tr>
 <tr>
-<td>Lesson Progress (Completion)<br>a. Section<br>b. Section + Activity<br></td>
+<td>Module Progress (Completion)<br>a. Section<br>b. Section + Activity<br></td>
 <td>a. after students complete the Section<br>b. after students complete the Activity<br></td>
 </tr>
 <tr>
-<td>Lesson Progress (Quiz Score)<br>a. Section + Auto-Graded Quiz or Progressive Quiz<br>b. Section + Teacher-Marked Quiz<br></td>
+<td>Module Progress (Quiz Score)<br>a. Section + Auto-Graded Quiz or Progressive Quiz<br>b. Section + Teacher-Marked Quiz<br></td>
 <td>a. after students complete the Quiz and meet the specified marks<br>b. after teachers release the Quiz to students and students meet the specified marks<br></td>
 </tr>
 <tr>
@@ -75,10 +75,10 @@ third_nav_title: Gamify
 <p>On the pop-up, click <strong>Add New Conditions</strong> and select</p>
 <ol style="list-style-type: lower-alpha;">
 <li>
-<p><strong>Lesson Start</strong></p>
+<p><strong>Module Start</strong></p>
 </li>
 <li>
-<p><strong>Lesson Progress</strong> - Select a Section, an Activity/Quiz (optional), and specify the type of condition to be fulfilled.</p>
+<p><strong>Module Progress</strong> - Select a Section, an Activity/Quiz (optional), and specify the type of condition to be fulfilled.</p>
 <ol style="list-style-type: lower-roman;">
 <li>Types of condition: Start, Completion, Quiz Score (if a Quiz has been selected)</li>
 </ol>

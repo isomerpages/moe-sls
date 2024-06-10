@@ -44,9 +44,9 @@ third_nav_title: Plan
 <li>On the Personal Event card, click the <strong>Plus</strong> icon and select <strong>From My Drive</strong>, <strong>From Library</strong>, or <strong>From Starred Resources</strong> under Attach Resources.</li>
 <li>Alternatively, click the <strong>Event</strong> card to open the Event Details subpage. Click <strong>Attach</strong> and select a resource location - <strong>From My Drive</strong>, <strong>From Library</strong>, <strong>From Starred Resources</strong>.
 	<ol style="list-style-type: lower-alpha;">
-<li>From My Drive: select between My Lessons and Shared with Me by clicking <strong>Open</strong> below the respective folder title. Select a Lesson by clicking the radio button, followed by <strong>Choose</strong>.</li>
-<li>From Library: <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">search for a Lesson</a> from MOE Library or Community Gallery. Select a <strong>Lesson card</strong> to add that particular lesson as a resource. Click the <strong>View Details</strong> icon to view the lesson details. You may select <strong>Choose</strong> to add the Lesson as a resource, or <strong>Back to Attach Resources</strong> to select a different Lesson.</li>
-<li>From Starred Resources: Select a <strong>Lesson card</strong> to add that particular lesson as a resource.</li>
+<li>From My Drive: select between My Modules and Shared with Me by clicking <strong>Open</strong> below the respective folder title. Select a Module by clicking the radio button, followed by <strong>Choose</strong>.</li>
+<li>From Library: <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">search for a Module</a> from MOE Library or Community Gallery. Select a <strong>Module card</strong> to add that particular lesson as a resource. Click the <strong>View Details</strong> icon to view the lesson details. You may select <strong>Choose</strong> to add the Module as a resource, or <strong>Back to Attach Resources</strong> to select a different Module.</li>
+<li>From Starred Resources: Select a <strong>Module card</strong> to add that particular lesson as a resource.</li>
 <li>After selecting a resource, you will be brought back to the Event Details subpage, with the selected resource attached.</li>
 </ol>
 <h2>Attaching Resources to a Class Group Event</h2>
@@ -55,16 +55,16 @@ third_nav_title: Plan
 <li>Enter the Planner page or the Planner tab from a selected Class Group.</li>
 <li>On the Class Group Event card, click the <strong>Plus</strong> icon and select <strong>Attach Resources</strong>.</li>
 <li>Alternatively, click the <strong>Event</strong> card to open the Event Details subpage. Any Class Group Resources will be listed here. You can search for Assignments based on title, Class Group Resource Status, and/or Category.</li>
-<li>From the Attach Class Group Resources subpage, you can also view the details, make a copy, move the Lesson to a different Class Group or to a Class Group category.</li>
-<li>Select a <strong>Lesson card</strong> to attach as a Class Group Resource. This will bring your back to the Event Details subpage, with the selected resource attached.</li>
+<li>From the Attach Class Group Resources subpage, you can also view the details, make a copy, move the Module to a different Class Group or to a Class Group category.</li>
+<li>Select a <strong>Module card</strong> to attach as a Class Group Resource. This will bring your back to the Event Details subpage, with the selected resource attached.</li>
 <li>To attach a resource from other locations, click <strong>Add Resource</strong> and select a resource location - <strong>From My Drive</strong>, <strong>From Library</strong>, <strong>From Starred Resources</strong>.
 	<ol style="list-style-type: lower-alpha;">
-<li>From My Drive: select between My Lessons and Shared with Me by clicking <strong>Open</strong> below the respective folder title. Select a Lesson by clicking the radio button, followed by <strong>Choose</strong>.</li>
-<li>From Library: <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">search for a Lesson</a> from MOE Library or Community Gallery. Select a <strong>Lesson card</strong> to add that particular lesson as a resource. Click the <strong>View Details</strong> icon to view the lesson details. You may select <strong>Choose</strong> to add the Lesson as a resource, or <strong>Back to Add from Library</strong> to select a different Lesson.</li>
-<li>From Starred Resources: Select a <strong>Lesson card</strong> to add that particular lesson as a resource.</li>
+<li>From My Drive: select between My Modules and Shared with Me by clicking <strong>Open</strong> below the respective folder title. Select a Module by clicking the radio button, followed by <strong>Choose</strong>.</li>
+<li>From Library: <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">search for a Module</a> from MOE Library or Community Gallery. Select a <strong>Module card</strong> to add that particular lesson as a resource. Click the <strong>View Details</strong> icon to view the lesson details. You may select <strong>Choose</strong> to add the Module as a resource, or <strong>Back to Add from Library</strong> to select a different Module.</li>
+<li>From Starred Resources: Select a <strong>Module card</strong> to add that particular lesson as a resource.</li>
 </ol>
 </li>
-<li>Resource that is selected from My Drive, MOE Library, Community Gallery, and Starred Resources will redirect you to the Resource Title subpage. Enter the Lesson Title, select a Category (optional), adjust the Permission Settings (optional), and click <strong>Create</strong>.</li>
+<li>Resource that is selected from My Drive, MOE Library, Community Gallery, and Starred Resources will redirect you to the Resource Title subpage. Enter the Module Title, select a Category (optional), adjust the Permission Settings (optional), and click <strong>Create</strong>.</li>
 <li>Click <strong>OK</strong> to the confirmation prompt. Click <strong>Back to Planner</strong> to return to the Planner page or Planner tab within your selected Class Group.</li>
 </ol>
 <h2>Detaching an Assignment or Resource from an Event</h2>

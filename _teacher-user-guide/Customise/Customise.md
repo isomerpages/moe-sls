@@ -26,7 +26,7 @@ variant: markdown
 <br>
   <img style="width: 50%;" alt="Customise" src="/images/2Teacher/Flow-Customise1.png">
 <details>
- <summary><h4>B. How to create/manage my own Lesson Templates?</h4></summary>
+ <summary><h4>B. How to create/manage my own Module Templates?</h4></summary>
 <ul>
   <li><a target="_blank" href="/teacher-user-guide/customise/manage-my-templates/">(B1) Manage My Templates</a></li>
 </ul>

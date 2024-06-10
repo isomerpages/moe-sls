@@ -47,12 +47,12 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <br>
 <img alt="Organise" style="width: 100%;" src="/images/2Teacher/Flow-Organise2.png">
 <details>
-<summary><h4>E. How to organise My Lessons in My Drive?</h4></summary>
+<summary><h4>E. How to organise My Modules in My Drive?</h4></summary>
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/organise/access-my-drive/">(E1) Access My Drive</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/search-in-my-drive/">(E2) Search in My Drive</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/create-new-folders/">(E3,1) Create New Folders</a></li>
-<li><a target="_blank" href="/teacher-user-guide/organise/view-lessons-shared-with-me/">(E3,2) View Lessons Shared with Me</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/view-lessons-shared-with-me/">(E3,2) View Modules Shared with Me</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/delete-resources/">(E4) Delete Resources</a></li>
 </ul>
 </details>
@@ -61,7 +61,7 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <summary><h4>F. More about My Drive</h4></summary>
 
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/organise/copy-lessons-within-my-drive/">(F1,i) Copy Lessons within My Drive</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/copy-lessons-within-my-drive/">(F1,i) Copy Modules within My Drive</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/manage-folders/">(F1,ii) Manage Folders</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/restore-resources-from-trash/">(F1,iii) Restore Resources from Trash</a></li>
 </ul>

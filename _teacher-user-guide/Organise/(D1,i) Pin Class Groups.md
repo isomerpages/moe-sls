@@ -19,7 +19,7 @@ variant: markdown
             <li>appear first under the Class Groups tab on the homepage.</li>
       <li>appear under Class Groups from the left menu.</li>
       <li>appear at the top of the list of Class Groups on the Class Groups page.</li>
-      <li>appear at the top of the list of Class Groups when assigning a Lesson.</li>
+      <li>appear at the top of the list of Class Groups when assigning a Module.</li>
       <li>appear at the top of the list in dropdown fields involving Class Groups (e.g. when viewing Class Group Notifications).</li>      
 <li>appear by default in the Planner.</li>      
     </ul>

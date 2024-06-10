@@ -21,6 +21,6 @@ variant: markdown
 	</li>
 <li>Should you wish to filter your search results by specific Class Groups, click <strong>Filter</strong>. Under the Location dropdown list, select <strong>Class Group</strong> and select the Class Groups from the <strong>Class Group</strong> dropdown list. Click <strong>Apply</strong> to confirm. 
 <img alt="Access Self-Study Resources" style="width: 80%;" src="/images/1Student/SS-Filters.png">
-</li><li>To continue your attempt with your Self-Study Resource, click the Lesson card.</li>
-<li>To view the Lesson Details, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>View Details</strong>. To delete an Attempt, select <strong>Delete Attempt</strong>. The Lesson card will be removed from the Self-Study List. <img alt="Access Self-Study Resources" style="width: 50%;" src="/images/1Student/SS-LessonCard.png"></li>
+</li><li>To continue your attempt with your Self-Study Resource, click the Module card.</li>
+<li>To view the Module Details, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>View Details</strong>. To delete an Attempt, select <strong>Delete Attempt</strong>. The Module card will be removed from the Self-Study List. <img alt="Access Self-Study Resources" style="width: 50%;" src="/images/1Student/SS-LessonCard.png"></li>
 </ol>

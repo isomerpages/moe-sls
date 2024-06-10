@@ -17,7 +17,7 @@ variant: markdown
   </thead>
   <tbody>
     <tr>
-      <td><p><a target="_blank" href="/teacher-user-guide/author/manage-lessons/">Manage Lessons</a></p></td>
+      <td><p><a target="_blank" href="/teacher-user-guide/author/manage-lessons/">Manage Modules</a></p></td>
       <td><a download="" href="/files/Userguide/Downloadable%20Resources/Lesson-Navigation-ePoster.pdf"><img style="width: 50%;" src="/images/2Teacher/Downloadable%20Resources/Lesson-Navigation-ePoster.png"></a></td>
 		</tr>
     <tr>
@@ -46,7 +46,7 @@ variant: markdown
     </tr>
     <tr>
       <td><p><a target="_blank" href="/teacher-user-guide/organise/create-class-groups/">Create Class Groups</a></p><p><a target="_blank" href="/teacher-user-guide/author/add-question-tags/">Add Question Tags</a></p>
-<p><a target="_blank" href="/teacher-user-guide/author/add-lesson-tags/">Add Lesson Tags</a></p></td>
+<p><a target="_blank" href="/teacher-user-guide/author/add-lesson-tags/">Add Module Tags</a></p></td>
       <td><a download="" href="/files/Userguide/Downloadable%20Resources/Monitor-Learning-Progress.pdf"><img style="width: 50%" src="/images/2Teacher/Downloadable%20Resources/MonitorLearningProgress.png"></a></td>
     </tr>
     <tr>

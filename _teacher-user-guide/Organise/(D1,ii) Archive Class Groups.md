@@ -16,7 +16,7 @@ variant: markdown
 <li>Archiving the Group cannot be undone. Once a Class Group is archived, it will appear under the Past tab which will still be accessible to both teachers and students. Assignments and other records associated with this Class Group will also be accessible.</li>
 <li>For an archived Class Group,
 <ul>
-<li>teachers will no longer be able to assign Lessons to it, and</li>
+<li>teachers will no longer be able to assign Modules to it, and</li>
 <li>all users will not be able to create new Forum Posts and Polls.</li>
 </ul>
 </li>

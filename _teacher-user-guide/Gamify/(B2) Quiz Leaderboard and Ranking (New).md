@@ -10,7 +10,7 @@ third_nav_title: Gamify
 <p>Game Leaderboards can be turned on/off from the Assignment Settings subpage and from the Monitor Assignment page.</p>
 <p><u>Note</u>:</p>
 <ul>
-    <li>Please ensure that <a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/"> Gamification</a> has been turned on for the Lesson.</li>
+    <li>Please ensure that <a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/"> Gamification</a> has been turned on for the Module.</li>
 </ul>
 <h2>View Quiz Leaderboard and Confirm Quiz Ranking</h2>
 <hr>
@@ -20,7 +20,7 @@ third_nav_title: Gamify
         <p>On the Monitor Assignment page, select the <strong>Game Experience</strong> tab.</p>
     </li>
     <li>
-        <p>From the <strong>Individual</strong> tab, select a Quiz in the Lesson from the Viewing dropdown list.</p>
+        <p>From the <strong>Individual</strong> tab, select a Quiz in the Module from the Viewing dropdown list.</p>
         <p><u>Note</u>: Only Quizzes with Quiz Rank conditions will be shown in the Viewing dropdown list.</p>
     </li>
     <li>

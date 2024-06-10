@@ -7,15 +7,15 @@ image: /images/FaviconLight.png
 ---
 <h1>(E4) Delete Resources</h1>
 
-<p><strong>Resources</strong> (Lessons and Folders) found under My Lessons tab can be deleted if you no longer need them.</p>
+<p><strong>Resources</strong> (Modules and Folders) found under My Modules tab can be deleted if you no longer need them.</p>
 
 <h2>Move Resources to Trash</h2>
 <hr>
 <ol>
-<li>Open the left menu from the header on the homepage. Click <strong>Resources</strong>, followed by <strong>My Drive</strong>. By default, you will be in the My Lessons tab.</li>
+<li>Open the left menu from the header on the homepage. Click <strong>Resources</strong>, followed by <strong>My Drive</strong>. By default, you will be in the My Modules tab.</li>
 <li>In the listing, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) followed by <strong>Move to Trash</strong>.</li>
 <li>To move multiple Resources to trash at once, select the checkboxes beside the Resource Title. Click <strong>Move to Trash</strong> through the header.</li>
-<li>You may also click <strong>Move to Trash</strong> after opening up a Lesson. From the Lesson View page, open the right menu and select <strong>Move to Trash</strong>.</li>
+<li>You may also click <strong>Move to Trash</strong> after opening up a Module. From the Module View page, open the right menu and select <strong>Move to Trash</strong>.</li>
 <li>To restore a Resource that was deleted by accident, click <a target="_blank" href="/teacher-user-guide/organise/restore-resources-from-trash/">Restore from the Trash tab</a>.</li>
 </ol>
 

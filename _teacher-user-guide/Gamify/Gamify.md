@@ -13,7 +13,7 @@ variant: markdown
 <a target="_blank" href="/teacher-user-guide/gamify/about-gamification-and-leaderboard/">About Gamification and Leaderboard</a>
 
 <details>
-<summary><h4>A. How to gamify Lessons?</h4></summary>
+<summary><h4>A. How to gamify Modules?</h4></summary>
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">(A1) Manage Gamification Settings (New)</a></li>
 <li><a target="_blank" href="/teacher-user-guide/gamify/game-stories-and-collectibles/">(A2) Game Stories and Collectibles (New)</a></li>
