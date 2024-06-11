@@ -35,3 +35,14 @@ Add Keyword Tags.
 * If Modules are submitted to the Community Gallery, tags will allow teachers to find the Module using filters and relevant search terms.
 <img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP6.png">
 <br>
+In the Additional Details field, add broad pedagogical considerations for specific curricular outcomes. This can include specifying learning experience(s) with their description(s), incorporating 21CC and Digital Competencies, and directing the ACP to create success criteria from the learning outcomes.  
+
+<u>Note:</u> 
+* An example set of Additional Details:
+<img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP7.png">
+<br>
+Click the <b>Up/Down</b> arrows to set the Number of sections to generate in the Module. 
+
+The number of Sections can depend on the number of Topics or Sub-topics covered in the Module, or the number of lessons you have to cover the Module content. 
+<u>Note:</u>
+A maximum of 20 Sections can be created in a Module. 
