@@ -5,12 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: Assess
 ---
-<h1>(C1,iii) Add Short Answer Feedback Assistant (ShortAnsFA)</h1>
 <p>The Short Answer Feedback Assistant (ShortAnsFA) provides suggested marks
-and auto-generated content-related feedback for close-ended, short answer
-questions for any subject and level.</p>
+and auto-generated content-related feedback for free-response questions for any subject and level.</p>
 <p><u>Important</u>:</p>
-<ul data-tight="true" class="tight">
+<ul>
 <li>
 <p>As ShortAnsFA uses generative AI, its response is probabilistic in nature.
 Thus, it may not be suitable for questions involving mathematical computation
@@ -20,12 +18,7 @@ improved over time and schools can keep a lookout for the latest improvements
 via the Singapore Learning Designers Circle (SgLDC) Facebook group.</p>
 </li>
 <li>
-<p>Use ShortAnsFA for questions with answers which have short phrases or
-clearly defined marking points.</p>
-</li>
-<li>
-<p>ShortAnsFA can only be added in a Free-Response Question as part of a
-Teacher-Marked Quiz.</p>
+<p>From June 2024 (R1), ShortAnsFA can provide feedback on a wider variety of responses, including more open-ended responses such as composition writing or reflections. </p>
 </li>
 <li>
 <p>File Submission is disabled when using ShortAnsFA.</p>
@@ -34,7 +27,18 @@ Teacher-Marked Quiz.</p>
 <h2><strong>Create a ShortAnsFA question</strong></h2>
 <hr>
 <ol>
-<li>
+<li><p>From June 2024 (R1), ShortAnsFA can be used in standalone questions and other types of quizzes. Depending on the selected mode (i.e. standalone question or quiz), teachers determine how students will receive the feedback from ShortAnsFA.</p>
+<table>
+<tbody><tr><th>Mode </th><th>Feedback</th></tr>
+<tr><td>Teacher Marked Quiz* </td><td>Students receive feedback after teacher marks and releases the quiz</td></tr>
+<tr><td>1. Progressive Quiz*<br>2. Auto-Graded Quiz*<br>3. Standalone Question*</td><td>Students receive feedback automatically after submitting each question</td>
+	</tr></tbody></table>
+	*To learn more about the different quiz modes, click 
+<a target="_blank" href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/create-quizzes/">here</a>.
+	<ul><li>To use ShortAnsFA in a quiz, click <strong>Add New</strong> on the Module Editor page, then select <strong>Quiz</strong>. Proceed to Step 2 to continue creating a quiz. </li>
+<li>To use ShortAnsFA in a standalone question, click <strong>Add New</strong> on the Module Editor page then select <strong>Activity</strong>. Proceed to Step 3 to continue creating a standalone question. </li></ul></li>
+	
+	
 <p>On the Lesson Editor page, click <strong>Add New</strong> below the Component
 Bar, then select <strong>Quiz</strong>. Click the Pencil icon</p>
 <div class="isomer-image-wrapper">
@@ -42,7 +46,7 @@ Bar, then select <strong>Quiz</strong>. Click the Pencil icon</p>
 </div>
 <p>on the right and select <strong>Teacher-Marked Quiz</strong> from the Quiz
 Mode dropdown list.</p>
-</li>
+
 <li>
 <p>From the Teacher-Marked Quiz page, select <strong>Short Answer Feedback Assistant</strong> under
 Free-Response Questions from the Component Bar. The Create New Question
