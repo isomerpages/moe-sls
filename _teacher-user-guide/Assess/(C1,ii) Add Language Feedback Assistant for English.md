@@ -5,18 +5,27 @@ variant: markdown
 description: ""
 third_nav_title: Assess
 ---
-<h1>(C1,ii) Add Language Feedback Assistant for English (LangFA-EL)</h1>
 <p>The Language Feedback Assistant for English (LangFA-EL) provides basic feedback on students’ writing in areas such as spelling and grammar.</p>
 <p><u>Important</u>:</p>
 <ul>
-<li>LangFA-EL can only be added to a Free-Response Question as part of a Teacher-Marked Quiz.</li>
 <li>Marks and File Submission are disabled when using LangFA-EL.</li>
 </ul>
 <h2><strong>Create a LangFA-EL question</strong></h2>
 <hr>
 <ol>
-<li><p>On the Lesson Editor page, click <strong>Add New</strong> below the Component Bar, then select <strong>Quiz</strong>. Click the Pencil icon <img src="/images/Icons/Pencil.svg" style="width:1.5rem; display: inline;"> on the right and select <strong>Teacher-Marked Quiz</strong> from the Quiz Mode dropdown list.</p>
-</li><li><p>From the Teacher-Marked Quiz page, select <strong>Language Feedback Assistant for English</strong> under Free-Response Questions from the Component Bar. The Create New Question subpage will open.
+<li><p>From June 2024 (R1), LangFA-EL can be used in standalone questions and other types of quizzes. Depending on the selected mode (i.e. standalone question or quiz), teachers determine how students will receive the feedback from LangFA-EL:</p>
+<table>
+<tbody><tr><th>Mode </th><th>Feedback</th></tr>
+<tr><td>Teacher Marked Quiz* </td><td>Students receive feedback after teacher marks and releases the quiz</td></tr>
+<tr><td><ol><li>Progressive Quiz*</li><li>Auto-Graded Quiz*</li><li>Standalone Question*</li></ol></td><td>Students receive feedback automatically after submitting each question</td>
+	</tr></tbody></table>
+*To learn more about the different quiz modes, click 
+<a target="_blank" href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/create-quizzes/">here</a>.
+	<ul><li>To use LangFA-EL in a quiz, click Add New on the Module Editor page, then select Quiz. Proceed to Step 2 to continue creating a quiz.</li>
+<li>To use LangFA-EL in a standalone question, click Add New on the Module Editor page then select Activity. Proceed to Step 3 to continue creating a standalone question.</li></ul></li>
+<li>After selecting <strong>Quiz</strong>, you will see that the default Quiz Mode is Progressive Quiz. You can change the Quiz Mode, add Description and Instructions to students by clicking on the Quiz Component. To add a question, click + on the collapsed question list.</li>
+	<img alt="(C1,ii) Add Language Feedback Assistant for English (LangFA-EL)" src="/images/2Teacher/AS_SAFA2.png" style="width: 100%;">
+<li><p>From the Teacher-Marked Quiz page, select <strong>Language Feedback Assistant for English</strong> under Free-Response Questions from the Component Bar. The Create New Question subpage will open.
 </p><ul>
 <li><p>Alternatively, you can choose Default Free-Response then click the checkbox next to <strong>Use</strong> and select <strong>Language Feedback Assistant for English</strong>.</p>
 </li>
