@@ -13,7 +13,7 @@ third_nav_title: Author
 On the homepage, click <b>Create New/Edit Module</b>. Click <b>Module</b>.
 <img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP1.png">
 <br>
-Click the orange Pencil icon <img alt="Icon_Pencil" style="width:1.5rem; display: inline;" src="/images/2Teacher/Icon_Pencil.png">to open Authoring Copilot.
+Click the orange Pencil icon <img alt="Icon_Pencil" style="width:1.5rem; display: inline;" src="/images/2Teacher/Icon_Pencil.png"> to open Authoring Copilot.
 <img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP2.png">
 <br>
 Add the Module Title.
@@ -35,7 +35,7 @@ Add Keyword Tags.
 * If Modules are submitted to the Community Gallery, tags will allow teachers to find the Module using filters and relevant search terms.
 <img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP6.png">
 <br>
-In the Additional Details field, add broad pedagogical considerations for specific curricular outcomes. This can include specifying learning experience(s) with their description(s), incorporating 21CC and Digital Competencies, and directing the ACP to create success criteria from the learning outcomes.  
+In the Additional Details field, add broad pedagogical considerations for specific curricular outcomes. This can include specifying learning experience(s) with their description(s), incorporating 21CC and Digital Competencies, and directing the ACP to create success criteria from the learning outcomes. 
 
 <u>Note:</u> 
 * An example set of Additional Details:
@@ -45,4 +45,17 @@ Click the <b>Up/Down</b> arrows to set the Number of sections to generate in the
 
 The number of Sections can depend on the number of Topics or Sub-topics covered in the Module, or the number of lessons you have to cover the Module content. 
 <u>Note:</u>
-A maximum of 20 Sections can be created in a Module. 
+A maximum of 20 Sections can be created in a Module.
+<br>
+Click <b>Create</b> to generate the Section(s) in the Module.
+<br>
+Authoring Copilot will create a Suggested Module Plan with Module description and Section notes. Click the checkboxes next to the generated content you wish to include in the module. Click <b>Add</b> to autogenerate Section(s) within the Module.
+<img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP10.png">
+<br>
+You can edit the Module and Section(s) generated in the Module Editor page, as you would for a normal lesson.
+<br>
+To regenerate the Module and Section(s), click <b>Back to Generate Module</b> to edit the Module Details and regenerate the Module and Section(s).
+<img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP12a.png">
+Alternatively, you can regenerate the Module and Section by clicking the orange Pencil icon <img alt="Icon_Pencil" style="width:1.5rem; display: inline;" src="/images/2Teacher/Icon_Pencil.png"> on the respective cards to reopen Authoring Copilot. Newly generated Sections will be appended to the end of the existing set of Sections.
+<img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP12b.png">
+
