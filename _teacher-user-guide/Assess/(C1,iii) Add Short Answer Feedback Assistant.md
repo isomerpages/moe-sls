@@ -76,10 +76,14 @@ would be 500 words long. The default Response Size is set to <strong>Medium</str
 <li>Alternatively, to mark more open-ended responses based on rubrics, click <strong>Add Rubrics</strong>.<br>
 	<u>Note:</u><br>For each question, feedback from ShortAnsFA can only be provided using either Suggested Answer or Rubrics at a time.</li>
 	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_SAFA6.png">
-	<li>Enter the following fields: 
-<ul><li>Title</li><li>Band Descriptor</li><li>Criterion</li><li>Mark Range</li><ul>
+	<li>Enter the following fields:
+<ul><li>Title</li><li>Band Descriptor</li><li>Criterion</li><li>Mark Range</li></ul>
 <p><u>Note:</u> A maximum of 6 bands (columns) and 6 criteria (rows) can be added in a Rubrics. Click the Overflow (3-dot icon) to Add Band, Add Criterion, Delete Band, or Delete Criterion.</p>
-
+		<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_SAFA7.png"></li>
+<li>Click outside the Component to save.</li>
+<li>Click the <strong>Up/Down</strong> arrows to set the Marks for the question. </li>
+<li><strong>Tag the question to the Subject/ Level/ Learning Outcome</strong> or Content Map to increase accuracy or the response.<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_SAFA10.png">When you are done editing, click outside the Component to save. </li>
+	<li></li>		
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_AddShortAnsFA04.png">
 </div>
@@ -111,5 +115,5 @@ learn how to craft ShortAnsFA questions.</p>
 </ol>
 <p></p>
 </li>
-</ul></ul></li></ol>
+</ol>
 <p></p>
