@@ -16,3 +16,5 @@ On the homepage, click <b>Create New/Edit Module</b>. Click <b>Module</b>.
 Click the orange Pencil icon <img alt="Icon_Pencil" style="width:1.5rem; display: inline;" src="/images/2Teacher/Icon_Pencil.png">to open Authoring Copilot.
 <img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP2.png">
 <br>
+Add the Module Title.
+<img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP3.png">
