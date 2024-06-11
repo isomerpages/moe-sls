@@ -58,3 +58,16 @@ Click <b>Create</b> to autogenerate the Activities/ Component(s) in the Module.
 
 Authoring Copilot will create a Suggested Section/ Activity Plan with Section/ Activity Title and Section/ Activity Notes. Click the checkbox next to Split into pages (only for Activity Plan) if you want the content to be populated across different pages of the Section/ Activity. Click the checkboxes next to the generated content you wish to include in the module. Click <b>Add</b> to autogenerate the Section and Activities/ Activity and Component(s) selected.
 <img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/AU_ACP_Component9.png">
+
+You can edit the Section and Activities/ Activities and Components generated in the Module Editor page, as you would for a normal lesson.
+
+To regenerate the Section and Activities, click <b>Back to Generate Section</b> to edit the Section Details and regenerate the Activities. 
+
+<u>Note:</u>
+* Currently in R1, components in an Activity cannot be regenerated.
+
+<img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/AU_ACP_Component11a.png">
+
+Alternatively, you can regenerate the Section and Activities by clicking the orange Pencil icon <img alt="Icon_Pencil" style="width:1.5rem; display: inline;" src="/images/2Teacher/Icon_Pencil.png"> on the respective cards to reopen Authoring Copilot. Newly generated Activities will be appended to the end of the existing set of Activities.
+<img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/AU_ACP_Component11b.png">
+
