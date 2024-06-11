@@ -17,7 +17,7 @@ third_nav_title: Assess
 <table>
 <tbody><tr><th>Mode </th><th>Feedback</th></tr>
 <tr><td>Teacher Marked Quiz* </td><td>Students receive feedback after teacher marks and releases the quiz</td></tr>
-<tr><td><ol><li>Progressive Quiz*</li><li>Auto-Graded Quiz*</li><li>Standalone Question*</li></ol></td><td>Students receive feedback automatically after submitting each question</td>
+<tr><td>1. Progressive Quiz*<br>2. Auto-Graded Quiz*<br>3. Standalone Question*</td><td>Students receive feedback automatically after submitting each question</td>
 	</tr></tbody></table>
 *To learn more about the different quiz modes, click 
 <a target="_blank" href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/create-quizzes/">here</a>.
@@ -39,9 +39,8 @@ third_nav_title: Assess
 <li>For standalone questions, Progressive Quiz and Auto-graded quiz, feedback from LangFA-EL will be shown immediately after students have completed the question. For Teacher Marked Quiz, feedback will be shown after you have marked and released the quiz. Click <a target="_blank" href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/release-teacher-marked-quizzes/">here</a> for more information on how to return the feedback for Teacher Marked Quiz.</li>
 <li>You may still review and edit the annotated feedback of the errors detected by LangFA-EL under the <strong>Monitor Assignment</strong> page and clicking the annotation cards. To add a comment, click <strong>Teacher Comments</strong>. You are encouraged to check that the annotations and feedback are accurate and appropriate; and engage in further discussions with your students.</li>
 </ol>
-	
+
 <ol><u>Supporting Resources</u>:
-<li>View this <a target="_blank" href="https://youtu.be/8Hk7AWibNhI">video</a> for a step-by-step guide on adding LangFA-EL to a Teacher-Marked Quiz. </li>
 	<li>Primary EL: Teachers can refer to these <a target="_blank" href="https://go.gov.sg/elpri-langfa">sample writing lessons</a> as guides to introduce the LangFA-EL to students. </li>
 		<li>Secondary EL: SLS lessons from the <a target="_blank" href="https://vle.learning.moe.edu.sg/search?keyword=%22Reading+Up%22&amp;location=MOE&amp;resource=LESSON&amp;sortBy=modifiedDate&amp;sortByOrder=descending">Reading Up</a> series contain sections that provide students opportunities to use the LangFA-EL. More lessons with LangFA-EL will be added on an approximately monthly basis. </li>
  </ol>
