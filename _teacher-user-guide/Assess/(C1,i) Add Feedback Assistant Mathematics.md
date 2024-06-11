@@ -39,4 +39,3 @@ variant: markdown
 	<li>Resources from the FA-Math webinar, including video recordings and sample questions, can be found <a target="_blank" href="https://go.gov.sg/fa-math-sls-package">here</a>.</li>
 	<li>For more information on creating FA-Math questions and the different question types that are supported, click on the resource <a target="_blank" href="https://help.algebrakit.com/">link</a> provided by the external service provider of FA-Math.</li></ol>
 <hr>
-
