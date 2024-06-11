@@ -25,8 +25,9 @@ third_nav_title: Assess
 <li>To use LangFA-EL in a standalone question, click Add New on the Module Editor page then select Activity. Proceed to Step 3 to continue creating a standalone question.</li></ul></li>
 <li>After selecting <strong>Quiz</strong>, you will see that the default Quiz Mode is Progressive Quiz. You can change the Quiz Mode, add Description and Instructions to students by clicking on the Quiz Component. To add a question, click + on the collapsed question list.</li>
 	<img alt="(C1,ii) Add Language Feedback Assistant for English (LangFA-EL)" src="/images/2Teacher/AS_SAFA2.png" style="width: 100%;">
-<li><p>From the Teacher-Marked Quiz page, select <strong>Language Feedback Assistant for English</strong> under Free-Response Questions from the Component Bar. The Create New Question subpage will open.
-</p><ul>
+<li><p>Select <strong>Language Feedback Assistant for English</strong> under <strong>Free-Response Questions</strong> from the Component Bar. The Create New Question subpage will open.
+</p>
+<ul>
 <li><p>Alternatively, you can choose Default Free-Response then click the checkbox next to <strong>Use</strong> and select <strong>Language Feedback Assistant for English</strong>.</p>
 </li>
 </ul>
@@ -34,7 +35,10 @@ third_nav_title: Assess
 <img alt="(C1,ii) Add Language Feedback Assistant for English (LangFA-EL)" src="/images/2Teacher/AS_AddLangFA_EL01.png" style="width: 100%;">
 <li><p>From the Response Size dropdown list, select the response size, or estimated length of students’ response. A short response would be approximately 300 words long, and a long response would be 500 words long. The default Response Size is set to <strong>Medium</strong>.</p></li>
 <img alt="(C1,ii) Add Language Feedback Assistant for English (LangFA-EL)" src="/images/2Teacher/AS_AddLangFA_EL02.png" style="width: 100%;">
-	<li><p>When you are done editing, click outside the Quiz component to save.</p></li></ol>
+<li><p>When you are done editing, click outside the Component to save.</p></li>
+<li>For standalone questions, Progressive Quiz and Auto-graded quiz, feedback from LangFA-EL will be shown immediately after students have completed the question. For Teacher Marked Quiz, feedback will be shown after you have marked and released the quiz. Click <a target="_blank" href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/release-teacher-marked-quizzes/">here</a> for more information on how to return the feedback for Teacher Marked Quiz.</li>
+<li>You may still review and edit the annotated feedback of the errors detected by LangFA-EL under the <strong>Monitor Assignment</strong> page and clicking the annotation cards. To add a comment, click <strong>Teacher Comments</strong>. You are encouraged to check that the annotations and feedback are accurate and appropriate; and engage in further discussions with your students.</li>
+</ol>
 	
 <ol><u>Supporting Resources</u>:
 <li>View this <a target="_blank" href="https://youtu.be/8Hk7AWibNhI">video</a> for a step-by-step guide on adding LangFA-EL to a Teacher-Marked Quiz. </li>
