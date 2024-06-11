@@ -36,7 +36,7 @@ Add Keyword Tags.
 * If Modules are submitted to the Community Gallery, tags will allow teachers to find the Module using filters and relevant search terms.
 <img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP6.png">
 <br>
-In the Additional Details field, add broad pedagogical considerations for specific curricular outcomes. This can include specifying learning experience(s) with their description(s), incorporating 21CC and Digital Competencies, and directing the ACP to create success criteria from the learning outcomes. 
+In the Additional Details field, add broad pedagogical considerations for specific curricular outcomes. This can include specifying <a target="_blank" href="https://sites.google.com/moe.edu.sg/guide-to-e-pedagogy/edtech-ps/learning-experiences/e-pedagogy-learning-experiences">learning experience(s)</a> with their description(s), incorporating 21CC and Digital Competencies, and directing the ACP to create success criteria from the learning outcomes. 
 
 <u>Note:</u> 
 * An example set of Additional Details:
