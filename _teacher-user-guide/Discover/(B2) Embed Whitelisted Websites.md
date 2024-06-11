@@ -414,6 +414,12 @@ https://www.funbrain.com
 https://app.gather.town
 </td>
 </tr>
+<tr><td><strong>Google Gemini</strong></td> 
+<td>AI chatbot and conversational search engine</td>
+<td>
+https://gemini.google.com <font color="#FBBC04">NEW!</font>
+</td>
+</tr>
 <tr><td><strong>Gimkit</strong></td>
 <td>Educational Games and Tools</td>
 <td>
@@ -646,6 +652,12 @@ https://www.mha.gov.sg
 https://miro.com
 </td>
 </tr>
+<tr><td><strong>Mizou</strong></td> 
+<td>AI tool for custom chatbot creation</td>
+<td>
+https://mizou.com <font color="#FBBC04">NEW!</font>
+</td>
+</tr>
 <tr><td><strong>Momento360</strong></td>
 <td>Interactive Media</td>
 <td>
@@ -773,6 +785,12 @@ https://parlayideas.com
 https://app.peardeck.com
 </td>
 </tr>
+<tr><td><strong>Perplexity AI</strong></td> 
+<td>AI chatbot and conversational search engine</td>
+<td>
+https://www.perplexity.ai <font color="#FBBC04">NEW!</font>
+</td>
+</tr>
 <tr><td><strong>Perusall</strong></td>
 <td>Reading and Notes Tool</td>
 <td>
@@ -796,7 +814,7 @@ https://pigeonhole.at
 <tr><td><strong>Pin It</strong></td>
 <td>Learn Chinese Characters Tool</td>
 <td>
-https://pinit-nus.com <font color="#FBBC04">NEW!</font>
+https://pinit-nus.com
 </td>
 </tr>
 <tr><td><strong>Pixlr</strong></td>
@@ -859,6 +877,12 @@ https://www.roots.gov.sg
 <td>Art Resource Website</td>
 <td>
 https://saatchigallery.com
+</td>
+</tr>
+<tr><td><strong>SchoolAI</strong></td> 
+<td>AI-enabled learning activities</td>
+<td>
+https://app.schoolai.com <font color="#FBBC04">NEW!</font>
 </td>
 </tr>
 <tr><td><strong>Science Kids</strong></td>
@@ -1464,7 +1488,7 @@ https://docs.google.com/presentation
 <tr><td><strong>H5P</strong></td>
 <td>Interactive Content Authoring Tool</td>
 <td>
-https://ri-etd.h5p.com <font color="#FBBC04">NEW!</font>
+https://ri-etd.h5p.com 
 </td>
 </tr>
 <tr><td><strong>HeyHi</strong></td>
@@ -1534,7 +1558,7 @@ https://lab.concord.org
 <tr><td><strong>Mural </strong></td>
 <td>Digital Whiteboard</td>
 <td>
-https://app.mural.co <font color="#FBBC04">NEW!</font>
+https://app.mural.co 
 </td>
 </tr>
 <tr><td><strong>Nearpod</strong></td>
@@ -1646,11 +1670,13 @@ https://hyss.padlet.org
 <br>
 https://jurongsecondaryschool.padlet.org
 <br>
+https://jurongwestsec.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://jvs.padlet.org
 <br>
 https://jwps.padlet.org
 <br>
-https://kcpss.padlet.org <font color="#FBBC04">NEW!</font>
+https://kcpss.padlet.org 
 <br>
 https://kcs.padlet.org
 <br>
@@ -1702,11 +1728,15 @@ https://rafflesgirlsschool.padlet.org
 <br>
 https://riedu.padlet.org
 <br>
+https://riversidepri.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://riversidesec.padlet.org
 <br>
 https://rivervalleyps.padlet.org
 <br>
 https://sgss.padlet.org
+<br>
+https://sst-sg.padlet.org <font color="#FBBC04">NEW!</font>
 <br>
 https://stanthonyscanossiansec.padlet.org
 <br>
@@ -1742,7 +1772,7 @@ https://xnpsict.padlet.org
 <br>
 https://yijc.padlet.org
 <br>
-https://yss.padlet.org <font color="#FBBC04">NEW!</font>
+https://yss.padlet.org
 <br>
 https://yuanchingsec.padlet.org
 <br>
