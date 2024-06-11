@@ -37,6 +37,24 @@ Click the <b>Up/Down</b> arrows to set the Number of Activities/ Quizzes/ Compon
 
 The number of Activities/ Components can depend on the number of Topics or Sub-topics covered in the Section/ Activity, or the duration you have to cover the Section/ Activity content.&nbsp;
 
-<u>Note:
-*   A maximum of 20 Activities/ Quizzes can be created in a Section.&nbsp;
-*   A maximum of 10 components that can be created in an Activity.</u>
+<u>Note:</u>
+*   A maximum of 20 Activities/ Quizzes can be created in a Section.
+*   A maximum of 10 components that can be created in an Activity.
+
+You can add a knowledge base by clicking the checkbox next to Use Knowledge Base, followed by clicking <b>Add Knowledge Base</b>. 
+
+<u>Note:</u>
+* Adding a knowledge base will anchor the generation of content by Authoring Copilot to information which can be added by teachers, e.g. a syllabus document, a comprehension passage or an excerpt from MOE’s interactive digital textbooks. 
+* The Knowledge Base added to the Section would appear as the Knowledge Base for activities in the Section. Teachers can enter each activity and uncheck the checkbox if they do not wish to use the Knowledge Base for that particular activity. 
+* Currently in R1, the knowledge base can only take in plain text input.  
+* A maximum of 30 000 characters can be input into this field.
+<img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/AU_ACP_Component7a.png">
+
+Add the knowledge base into the field and click <b>Add</b>.
+<img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/AU_ACP_Component7b.png">
+
+Click <b>Create</b> to autogenerate the Activities/ Component(s) in the Module.
+<img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/AU_ACP_Component8.png">
+
+Authoring Copilot will create a Suggested Section/ Activity Plan with Section/ Activity Title and Section/ Activity Notes. Click the checkbox next to Split into pages (only for Activity Plan) if you want the content to be populated across different pages of the Section/ Activity. Click the checkboxes next to the generated content you wish to include in the module. Click <b>Add</b> to autogenerate the Section and Activities/ Activity and Component(s) selected.
+<img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/AU_ACP_Component9.png">
