@@ -37,19 +37,9 @@ via the Singapore Learning Designers Circle (SgLDC) Facebook group.</p>
 <a target="_blank" href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/create-quizzes/">here</a>.
 	<ul><li>To use ShortAnsFA in a quiz, click <strong>Add New</strong> on the Module Editor page, then select <strong>Quiz</strong>. Proceed to Step 2 to continue creating a quiz. </li>
 <li>To use ShortAnsFA in a standalone question, click <strong>Add New</strong> on the Module Editor page then select <strong>Activity</strong>. Proceed to Step 3 to continue creating a standalone question. </li></ul></li>
-	
-	
-<p>On the Lesson Editor page, click <strong>Add New</strong> below the Component
-Bar, then select <strong>Quiz</strong>. Click the Pencil icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pencil.svg">
-</div>
-<p>on the right and select <strong>Teacher-Marked Quiz</strong> from the Quiz
-Mode dropdown list.</p>
-
-<li>
-<p>From the Teacher-Marked Quiz page, select <strong>Short Answer Feedback Assistant</strong> under
-Free-Response Questions from the Component Bar. The Create New Question
+	<li>After selecting <strong>Quiz</strong>, you will see that the default Quiz Mode is Progressive Quiz. You can change the Quiz Mode, add Description and Instruction to Students by clicking on the Quiz Component. To add a question, click + on the collapsed question list.</li>
+	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_SAFA2.png">
+<li><p>Select <strong>Short Answer Feedback Assistant</strong> under <strong>Free-Response Questions</strong> from the Component Bar. The Create New Question
 subpage will open.</p>
 <ul>
 <li>
@@ -78,11 +68,11 @@ would be 500 words long. The default Response Size is set to <strong>Medium</str
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_AddShortAnsFA03.png">
 </div>
-</li>
-<li>
-<p>Specify a detailed mark scheme in the <strong>Suggested Answer</strong>.
-Click on this <a href="https://www.learning.moe.edu.sg/files/Marcomms/Feature%20Highlights/shortansfaposter.pdf" rel="noopener noreferrer nofollow" target="_blank">e-Poster</a> to
-view tips on writing suggested answers for Short Answer Feedback Assistant.</p>
+	<p>Specify a detailed mark scheme in the <strong>Suggested Answer</strong>.</p>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_AddShortAnsFA04.png">
+	<p>Some helpful tips on writing the suggested answer:  </p>
+	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_SAFA5.png">
+	<p>To learn more about writing the suggested answer, click on this <a href="https://www.learning.moe.edu.sg/files/Marcomms/Feature%20Highlights/shortansfaposter.pdf" rel="noopener noreferrer nofollow" target="_blank">e-Poster</a>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_AddShortAnsFA04.png">
 </div>
