@@ -24,7 +24,7 @@ variant: markdown
 </ul>
 </details>
 <br>
-  <img style="width: 50%;" alt="Customise" src="/images/2Teacher/Flow-Customise1.png">
+  <img style="width: 50%;" alt="Customise" src="/images/2Teacher/Flow_Customise1.svg">
 <details>
  <summary><h4>B. How to create/manage my own Module Templates?</h4></summary>
 <ul>
