@@ -15,9 +15,9 @@ variant: markdown
 <details>
 <summary><h4>A. How to gamify Modules?</h4></summary>
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">(A1) Manage Gamification Settings (New)</a></li>
-<li><a target="_blank" href="/teacher-user-guide/gamify/game-stories-and-collectibles/">(A2) Game Stories and Collectibles (New)</a></li>
-<li><a target="_blank" href="/teacher-user-guide/gamify/add-conditions-to-game-story-or-collectibles/">(A3) Add Conditions to Game Story or Collectibles (New)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">(A1) Manage Gamification Settings</a></li>
+<li><a target="_blank" href="/teacher-user-guide/gamify/game-stories-and-collectibles/">(A2) Game Stories and Collectibles</a></li>
+<li><a target="_blank" href="/teacher-user-guide/gamify/add-conditions-to-game-story-or-collectibles/">(A3) Add Conditions to Game Story or Collectibles</a></li>
 <li><a target="_blank" href="/teacher-user-guide/gamify/create-game-teams/">(A4) Create Game Teams</a></li>
 </ul>
 </details>
@@ -25,7 +25,7 @@ variant: markdown
 <details>
 <summary><h4>B. Where to find game Leaderboard?</h4></summary>
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/gamify/display-leaderboard-for-students/">(B1) Display Leaderboard for Students (Improved)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/gamify/display-leaderboard-for-students/">(B1) Display Leaderboard for Students</a></li>
 <li><a target="_blank" href="/teacher-user-guide/gamify/quiz-leaderboard-and-ranking/">(B2) Quiz Leaderboard and Ranking</a></li>
 </ul>
 </details>
