@@ -16,7 +16,7 @@ variant: markdown
     <li><a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/">(A2) Monitor Students' Responses in an Assignment</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/add-teacher-comments/">(A3,1) Add Teacher Comments</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/annotate-underline-students-responses/">(A3,2) Annotate (Underline) Students' Responses</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assess/mark-free-response-questions/">(A3,3) Mark Free Response Questions</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/mark-free-response-questions/">(A3,3) Mark Free Response Questions (New)</a></li>
 <li><a target="_blank" href="/teacher-user-guide/assess/print-to-scan">(A4) Print-to-Scan</a></li>
   </ul>
 </details>
