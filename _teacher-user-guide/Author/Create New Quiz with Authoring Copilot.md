@@ -27,7 +27,7 @@ In the Additional Details field, you can include information about the question 
 * Make sure that the information given about the number of questions in Additional Details corresponds to the Number of Components field.
 * Authoring Copilot is unable to generate suggested answers for Free Response Questions.
 
-You can add a knowledge base by clicking the checkbox next to Use Knowledge Base, followed by clicking Add Knowledge Base. 
+You can add a knowledge base by clicking the checkbox next to Use Knowledge Base, followed by clicking <b>Add Knowledge Base</b>. 
 
 <u>Note:</u>
 * Adding a knowledge base will anchor the generation of content by Authoring Copilot to information which can be added by teachers, e.g. a syllabus document, a comprehension passage or an excerpt from MOE’s interactive digital textbooks. 
