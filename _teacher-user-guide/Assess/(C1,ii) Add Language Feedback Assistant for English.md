@@ -21,8 +21,8 @@ third_nav_title: Assess
 	</tr></tbody></table>
 *To learn more about the different quiz modes, click 
 <a target="_blank" href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/create-quizzes/">here</a>.
-	<ul><li>To use LangFA-EL in a quiz, click Add New on the Module Editor page, then select Quiz. Proceed to Step 2 to continue creating a quiz.</li>
-<li>To use LangFA-EL in a standalone question, click Add New on the Module Editor page then select Activity. Proceed to Step 3 to continue creating a standalone question.</li></ul></li>
+	<ul><li>To use LangFA-EL in a quiz, click <strong>Add New</strong> on the Module Editor page, then select <strong>Quiz</strong>. Proceed to Step 2 to continue creating a quiz.</li>
+<li>To use LangFA-EL in a standalone question, click <strong>Add New</strong> on the Module Editor page then select <strong>Activity</strong>. Proceed to Step 3 to continue creating a standalone question.</li></ul></li>
 <li>After selecting <strong>Quiz</strong>, you will see that the default Quiz Mode is Progressive Quiz. You can change the Quiz Mode, add Description and Instructions to students by clicking on the Quiz Component. To add a question, click + on the collapsed question list.</li>
 	<img alt="(C1,ii) Add Language Feedback Assistant for English (LangFA-EL)" src="/images/2Teacher/AS_SAFA2.png" style="width: 100%;">
 <li><p>Select <strong>Language Feedback Assistant for English</strong> under <strong>Free-Response Questions</strong> from the Component Bar. The Create New Question subpage will open.
