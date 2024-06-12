@@ -6,7 +6,7 @@ third_nav_title: Gamify
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-2-game-stories-and-collectibles-">(A2) Game Stories and Collectibles (New)</h1>
+<h1 id="-2-game-stories-and-collectibles-">(A2) Game Stories and Collectibles</h1>
 <h2 id="add-a-game-story">Add a Game Story</h2>
 <hr>
 <p>On the Gamification subpage, select the <strong>Game Story</strong> tab:</p>
@@ -28,7 +28,7 @@ variant: markdown
 <li>After creating a Game Story, you may click <a target="_blank" href="/teacher-user-guide/gamify/add-conditions-to-game-story-or-collectibles/">Add Conditions</a> to determine when the Game Story will appear during the lesson. All Game Stories are hidden by default until they are awarded to the students.</li>
 <li>To add, reorder, or delete a Game Story, click the <b>Overflow</b> (<b>3-dot</b> icon) on the Game Story card and select the respective options. </li>
 </ol>
-<h2>Add a Collectible (New)</h2>
+<h2>Add a Collectible</h2>
 <hr>
 <p>On the Gamification subpage, select the Collectibles tab:</p>
 <ol>
