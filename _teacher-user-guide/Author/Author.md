@@ -9,7 +9,7 @@ variant: markdown
 <h1>Author</h1>
 <p>Use SLS to design lesson resources aligned to the e-pedagogical principles.</p>
 <br>
-<img alt="Author" style="width: 100%;" src="/images/2Teacher/Flow-Author.png">
+<img alt="Author" style="width: 100%;" src="/images/2Teacher/Flow_Author.svg">
 <details><summary><h4>A. How to create Modules?</h4></summary>
 <ul>
 <li><a href="/teacher-user-guide/author/create-new-modules/" target="_blank">Create New Modules</a></li><li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" target="_blank">Use Authoring Copilot to create New Sections (New)</a></li>
