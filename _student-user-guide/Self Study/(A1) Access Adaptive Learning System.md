@@ -19,7 +19,6 @@ variant: markdown
 <img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning04.png" style="width: 100%;">
 	
 <li>From June 2024 (R1), there will be four learning modes in ALS.
-
 <table>
 <tbody><tr><th>Learning mode</th><th> Which mode should you choose?</th></tr>
 <tr><td>Guided Learning</td><td>Choose this mode if you feel that the topic might be challenging, and you will need guiding materials to help you as you learn step by step.</td></tr>
@@ -29,12 +28,7 @@ variant: markdown
 </tbody></table>
 After selecting a Topic/Subtopic, the learning mode best suited to your learning profile will be labelled with a ‘Recommended’ tag. You can follow the recommendation or choose another mode. You can also change to a more suitable learning mode later on.
 </li>
-	
-	
-
 <li>At the end of the session, you can view your learning progress and decide what topics to learn next.</li>
 <img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning06.png" style="width: 100%;">	
-
-	       
 
 <hr></ol>
