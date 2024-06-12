@@ -40,7 +40,7 @@ variant: markdown
   </ul>
 </details>
 <br>
-<img alt="Collaborate" style="width: 50%;" src="/images/2Teacher/Flow-Collaborate4.png">
+<img alt="Collaborate" style="width: 50%;" src="/images/2Teacher/Flow_Collaborate4.svg">
 <details>
  <summary><h4>D. How can teachers collaborate in SLS?</h4></summary>
 <ul>
