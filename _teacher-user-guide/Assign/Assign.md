@@ -14,10 +14,10 @@ variant: markdown
  <summary><h4>A. How to create Assignments?</h4></summary>
 <ul>
     <li><a target="_blank" href="/teacher-user-guide/assign/create-assignments/">(A1,i) Create Assignments</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assign/quick-assign-activities-and-quizzes/">(A1,ii) Quick Assign Activities &amp; Quizzes (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assign/quick-assign-activities-and-quizzes/">(A1,ii) Quick Assign Activities &amp; Quizzes</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assign/assign-moe-library-modules/">(A1,iii) Assign MOE Library Modules</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assign/assign-community-gallery-modules/">(A1,iv) Assign Community Gallery Modules</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assign/add-or-sort-assignments-in-class-group/">(A1,v) Add or Sort Assignments in Class Group (Enhanced)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assign/add-or-sort-assignments-in-class-group/">(A1,v) Add or Sort Assignments in Class Group</a></li>
   </ul>
 </details>
 
@@ -25,7 +25,7 @@ variant: markdown
  <summary><h4>B. More about Assignments</h4></summary>
 <ul>
     <li><a target="_blank" href="/teacher-user-guide/assign/manage-assignments/">(B1,i) Manage Assignments</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assign/schedule-assignments/">(B1,ii)Schedule Assignments</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assign/schedule-assignments/">(B1,ii) Schedule Assignments</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assign/edit-assignments/">(B1,iii) Edit Assignments</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assign/pause-and-resume-assignments/">(B1,iv) Pause &amp; Resume Assignments</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assign/move-assignments/">(B1,v) Move Assignments</a></li>
