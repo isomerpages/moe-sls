@@ -119,8 +119,4 @@ confirm your action.</p>
 </ol>
 <h2>Save New Module</h2>
 <hr>
-<p>Click the <strong>Done</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Done.svg">
-</div>
-<p>found at the top right of the page to save your new Module.</p>
+<p>Click the <strong>Done</strong> icon <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Done.svg"> found at the top right of the page to save your new Module.</p>
