@@ -74,11 +74,11 @@ would be 500 words long. The default Response Size is set to <strong>Medium</str
 	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_SAFA5.jpg">
 	<p>To learn more about writing the suggested answer, click on this <a href="https://www.learning.moe.edu.sg/files/Marcomms/Feature%20Highlights/shortansfaposter.pdf" rel="noopener noreferrer nofollow" target="_blank">e-Poster</a>.</p></li>
 <li>Alternatively, to mark more open-ended responses based on rubrics, click <strong>Add Rubrics</strong>.<br>
-	<u>Note:</u><br>For each question, feedback from ShortAnsFA can only be provided using either Suggested Answer or Rubrics at a time.</li>
+	<u>Note</u>:<br>For each question, feedback from ShortAnsFA can only be provided using either Suggested Answer or Rubrics at a time.</li>
 	<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_SAFA6.png">
 	<li>Enter the following fields:
 <ul><li>Title</li><li>Band Descriptor</li><li>Criterion</li><li>Mark Range</li></ul>
-<p><u>Note:</u> A maximum of 6 bands (columns) and 6 criteria (rows) can be added in a Rubrics. Click the Overflow (3-dot icon) to Add Band, Add Criterion, Delete Band, or Delete Criterion.</p>
+<p><u>Note</u>: A maximum of 6 bands (columns) and 6 criteria (rows) can be added in a Rubrics. Click the Overflow (3-dot icon) to Add Band, Add Criterion, Delete Band, or Delete Criterion.</p>
 		<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_SAFA7.png"></li>
 <li>Click outside the Component to save.</li>
 <li>Click the <strong>Up/Down</strong> arrows to set the Marks for the question. </li>
@@ -129,3 +129,4 @@ would be 500 words long. The default Response Size is set to <strong>Medium</str
 <li>This <a target="_blank" href="https://www.google.com/search?q=shortansfa+feature+higlight&amp;sca_esv=dbee7c48f4c3b6c5&amp;sca_upv=1&amp;ei=toM0Zqm7EdCO4-EPhLyvmAI&amp;ved=0ahUKEwip7pD27PCFAxVQxzgGHQTeCyMQ4dUDCBA&amp;uact=5&amp;oq=shortansfa+feature+higlight&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiG3Nob3J0YW5zZmEgZmVhdHVyZSBoaWdsaWdodDIFECEYoAEyBRAhG">e-poster</a> summarises the tips for writing Suggested Answers for ShortAnsFA.
 </li>
 </ul>
+<hr>
