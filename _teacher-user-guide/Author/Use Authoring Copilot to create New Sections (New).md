@@ -62,3 +62,4 @@ To regenerate the Module and Section(s), click <b>Back to Generate Module</b> to
 
 Alternatively, you can regenerate the Module and Section by clicking the orange Pencil icon <img alt="Icon_Pencil" style="width:1.5rem; display: inline;" src="/images/2Teacher/Icon_Pencil.png"> on the respective cards to reopen Authoring Copilot. Newly generated Sections will be appended to the end of the existing set of Sections.
 <img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP12b.png">
+<hr>
