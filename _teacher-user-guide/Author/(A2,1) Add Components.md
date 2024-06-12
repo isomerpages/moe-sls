@@ -11,7 +11,7 @@ variant: markdown
 <hr>
 <ol>
 <li>Hover over Text/Media on the Component Bar to expand the list. </li>
-	<li>Click <a target="_blank" href="/teacher-user-guide/author/about-rich-text-editor/">Split-page Media</a> to split the uploaded PowerPoint, video or audio file across pages. (NEW)</li>
+	<li>Click <a target="_blank" href="/teacher-user-guide/author/about-rich-text-editor/">Split-page Media</a> to split the uploaded PowerPoint, video or audio file across pages.</li>
 <li>Click <strong>Text</strong> to open Click <a target="_blank" href="/teacher-user-guide/author/about-rich-text-editor/">Rich Text Editor</a>.</li>
 <li><p>You can also directly attach File From Device, embed Google File, YouTube Video, App or Website from the dropdown menu. </p>
 <p> <img style="width: 50%;" src="/images/2Teacher/AU_AddComponent1.png"></p>
