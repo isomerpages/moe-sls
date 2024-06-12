@@ -13,8 +13,8 @@ variant: markdown
 <a target="_blank" href="/student-user-guide/gamify/about-gamification/">About Gamification</a>
 <details><summary><h4>A. How to attempt gamified resources? (New)</h4></summary>
 <ul>
-<li><a target="_blank" href="/student-user-guide/gamify/navigate-a-gamified-lesson/">(A1) Navigate a Gamified Assignment (New)</a></li>
-	<li><a target="_blank" href="/student-user-guide/gamify/attempt-a-gamified-lesson/">(A2) Attempt a Gamified Assignment</a></li>
+<li><a target="_blank" href="/student-user-guide/gamify/navigate-a-gamified-assignment/">(A1) Navigate a Gamified Assignment</a></li>
+	<li><a target="_blank" href="/student-user-guide/gamify/attempt-a-gamified-assignment/">(A2) Attempt a Gamified Assignment</a></li>
     </ul>
   </details>	
 <img style="width: 50%;" src="/images/1Student/Flow-Gamify2.png">
