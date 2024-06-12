@@ -32,10 +32,10 @@ audio plays.</p>
 <hr>
 <ol data-tight="true" class="tight">
 <li>
-<p>Click the <strong>Add Media</strong> icon and choose Upload File.</p>
+<p>Click the <strong>Add Media</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/PaperClip.svg"> and choose Upload File.</p>
 </li>
 <li>
-<p>Click on the <strong>Settings </strong>icon.</p>
+<p>Click on the <strong>Settings </strong>icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg">.</p>
 </li>
 <li>
 <p>Click <strong>View and Edit Transcript</strong>.</p>
@@ -58,7 +58,7 @@ allow for students’ viewing.</p>
 </li>
 </ol>
 <p></p>
-<p>Did you know:</p>
+<p><u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>You can generate transcripts in 4 languages; EL, CL, ML and TL.</p>
