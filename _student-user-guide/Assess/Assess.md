@@ -11,8 +11,8 @@ variant: markdown
 <img style="width: 100%;" src="/images/1Student/Flow-Assess1.png">
 <details><summary><h4>A. How to complete my Assignments?</h4></summary>
 <ul>
-<li><a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">(A1,1)  Navigate an Assignment</a></li>
-	<li><a target="_blank" href="/student-user-guide/assess/navigate-quizzes/">(A1,2)  Navigate Quizzes</a></li></ul>
+<li><a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">(A1,1) Navigate an Assignment</a></li>
+	<li><a target="_blank" href="/student-user-guide/assess/navigate-quizzes/">(A1,2) Navigate Quizzes</a></li></ul>
 <p>A2. Attempt different Question types</p>
 <ul><li><a target="_blank" href="/student-user-guide/assess/attempt-a-multiple-choice-question/">(A2,1) Attempt a Multiple-Choice Question</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/attempt-a-fill-in-the-blanks-question/">(A2,2) Attempt a Fill-in-the-Blanks Question</a></li>
