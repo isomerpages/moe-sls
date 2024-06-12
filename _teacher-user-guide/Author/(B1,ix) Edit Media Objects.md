@@ -29,25 +29,13 @@ and reupload the image that you just downloaded.</p>
 <p>Media Objects that have been uploaded from File will be editable.</p>
 <ol>
 <li>
-<p>Click the <strong>Pencil</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pencil.svg">
-</div>
-<p>to edit the image.</p>
+<p>Click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pencil.svg"> to edit the image.</p>
 </li>
 <li>
-<p>Click the <strong>Trash</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Trash.svg">
-</div>
-<p>to delete the Media Object.</p>
+<p>Click the <strong>Trash</strong> icon <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Trash.svg"> to delete the Media Object.</p>
 </li>
 <li>
-<p>Click the <strong>Settings</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Settings24.svg">
-</div>
-<p>to edit the Media Object's:</p>
+<p>Click the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Settings24.svg"> to edit the Media Object's:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Title</p>
@@ -56,10 +44,7 @@ and reupload the image that you just downloaded.</p>
 <p>Description</p>
 </li>
 <li>
-<p>Star it as a Resource</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/AddStar.svg">
-</div>
+<p>Star it as a Resource<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/AddStar.svg"> </p>
 </li>
 <li>
 <p>Capture video start and end (for video/audio files)</p>
@@ -86,19 +71,11 @@ times (for video/audio files)</p>
 edited by drawing or from its settings.</p>
 </li>
 <li>
-<p>Once done, click the <strong>Save</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Save.svg">
-</div>
-<p><strong>.</strong>
+<p>Once done, click <strong>Save</strong> <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Save.svg">.
 </p>
 </li>
 <li>
-<p>In the Module View page, you can&nbsp;download the image by clicking the <strong>Download</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Download.svg">
-</div>
-<p>.</p>
-</li>
+<p>In the Module View page, you can download the image by clicking the <strong>Download</strong> icon <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Download.svg">.
+</p></li>
 </ol>
 <p></p>
