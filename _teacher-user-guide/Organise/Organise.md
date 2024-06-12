@@ -50,7 +50,7 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <li><a target="_blank" href="/teacher-user-guide/organise/access-my-drive/">(E1) Access My Drive</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/search-in-my-drive/">(E2) Search in My Drive</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/create-new-folders/">(E3,1) Create New Folders</a></li>
-<li><a target="_blank" href="/teacher-user-guide/organise/view-lessons-shared-with-me/">(E3,2) View Modules Shared with Me</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/view-modules-shared-with-me/">(E3,2) View Modules Shared with Me</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/delete-resources/">(E4) Delete Resources</a></li>
 </ul>
 </details>
