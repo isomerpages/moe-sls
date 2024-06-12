@@ -14,7 +14,7 @@ variant: markdown
  <summary><h4>A. How to create and manage MOE Library resources?</h4></summary>
 <ul>
   <li><a target="_blank" href="/admin-user-guide/publish/create-moe-library-resources/">(A1) Create MOE Library Resources (Enhanced)</a></li>
-  <li><a target="_blank" href="/admin-user-guide/publish/manage-lessons/">(A2) Manage Lessons</a></li>
+  <li><a target="_blank" href="/admin-user-guide/publish/manage-modules/">(A2) Manage Modules</a></li>
   <li><a target="_blank" href="/admin-user-guide/publish/manage-media/">(A3) Manage Media</a></li>
 </ul>
 </details>	
