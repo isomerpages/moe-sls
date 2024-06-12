@@ -118,13 +118,13 @@ would be 500 words long. The default Response Size is set to <strong>Medium</str
 <th>Add Marks</th>
 <th>Edit Marks</th>
 </tr>
-<tr><td>Standalone Free-Response Question</td><td>✓</td><td>✓</td><td>NA</td><td>NA</td><td>✓</td><td>✗</td></tr>
-<tr><td>Progressive Quiz</td><td>✓</td><td>✓</td><td>NA</td><td>NA</td><td>✓</td><td>✗</td></tr>
-<tr><td>Auto-Graded Quiz</td><td>✓</td><td>✓</td><td>NA</td><td>NA</td><td>✓</td><td>ઝ</td></tr>
-<tr><td>Teacher Marked Quiz (before release)</td><td>✓</td><td>✓</td><td>NA</td><td>NA</td><td>✓</td><td>✓</td></tr>
-<tr><td> Teacher Marked Quiz (after release) </td><td>✓</td><td>✓</td><td>NA</td><td>NA</td><td>✗</td><td>✗</td></tr>
+<tr><td><strong>Standalone Free-Response Question</strong></td><td>✓</td><td>✓</td><td>NA</td><td>NA</td><td>✓</td><td>✗</td></tr>
+<tr><td><strong>Progressive Quiz</strong></td><td>✓</td><td>✓</td><td>NA</td><td>NA</td><td>✓</td><td>✗</td></tr>
+<tr><td><strong>Auto-Graded Quiz</strong></td><td>✓</td><td>✓</td><td>NA</td><td>NA</td><td>✓</td><td>✗</td></tr>
+<tr><td><strong>Teacher Marked Quiz (before release)</strong></td><td>✓</td><td>✓</td><td>NA</td><td>NA</td><td>✓</td><td>✓</td></tr>
+<tr><td><strong>Teacher Marked Quiz (after release)</strong></td><td>✓</td><td>✓</td><td>NA</td><td>NA</td><td>✗</td><td>✗</td></tr>
 </tbody></table>
-
+<hr>
 
 <p><u>Supporting Resource</u>:</p>
 <ul data-tight="true" class="tight">
