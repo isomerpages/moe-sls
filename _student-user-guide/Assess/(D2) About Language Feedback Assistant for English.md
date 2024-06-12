@@ -5,6 +5,8 @@ variant: markdown
 description: ""
 third_nav_title: Assess
 ---
+<h1>(D2) About Language Feedback Assistant for English</h1>
+
 <p>The Language Feedback Assistant for English (LangFA-EL) provides basic feedback on students’ writing in areas such as spelling and grammar.</p>
 <ol>
 	<li>Your teacher may add the tool in a Free-Response Question.</li>
