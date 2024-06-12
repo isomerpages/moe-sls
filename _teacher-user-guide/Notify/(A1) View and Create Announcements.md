@@ -6,7 +6,7 @@ third_nav_title: Notify
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A1) View and Create Announcements (Enhanced)</h1>
+<h1>(A1) View and Create Announcements</h1>
 <h2>View Announcements</h2>
 <hr>
 <p>All Announcements can be found under the Notifications page. Announcements can be accessed from two locations:</p>
