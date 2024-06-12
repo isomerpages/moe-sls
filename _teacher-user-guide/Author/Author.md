@@ -13,7 +13,8 @@ variant: markdown
 <details><summary><h4>A. How to create Modules?</h4></summary>
 <ul>
 <li><a href="/teacher-user-guide/author/create-new-modules/" target="_blank">Create New Modules</a></li><li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" target="_blank">Use Authoring Copilot to create New Sections (New)</a></li>
-<li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/" target="_blank">Use Authoring Copilot to create New Activities &amp; Components (New)</a></li></ul>
+<li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/" target="_blank">Use Authoring Copilot to create New Activities &amp; Components (New)</a></li>
+<li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-quizzes/" target="_blank">Use Authoring Copilot to create New Quizzes (New)</a></li></ul>
 
 <p>A1. Activities and Templates</p>	
 <ul>
