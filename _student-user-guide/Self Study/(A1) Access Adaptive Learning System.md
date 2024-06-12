@@ -15,17 +15,26 @@ variant: markdown
 <img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning02.png" style="width: 100%;">
 <br>
 <img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning03.png" style="width: 100%;">
-<li>Every subject will be organised on a shelf. Students can easily track their learning progress for a topic using the progress bar on the Topic cards.</li>
-<img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning04.png" style="width: 100%;">	
-<li>After selecting a Topic/Subtopic, ALS will provide 3 learning modes for each Topic/Subtopic. The learning mode best suited to the student’s learning profile will be labelled with a ‘Recommended’ tag.</li>
-<img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning05.png" style="width: 100%;">
-<li>At the end of the session, students can view their own learning progress and decide what topics to learn next.</li>
+<li>Every subject will be organised on a shelf. You can easily track your learning progress for a topic using the progress bar on the Topic cards.</li>
+<img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning04.png" style="width: 100%;">
+	
+<li>From June 2024 (R1), there will be four learning modes in ALS.
+
+<table>
+<tbody><tr><th>Learning mode</th><th> Which mode should you choose?</th></tr>
+<tr><td>Guided Learning</td><td>Choose this mode if you feel that the topic might be challenging, and you will need guiding materials to help you as you learn step by step.</td></tr>
+<tr><td>Mastery Check</td><td>Choose this mode if you feel confident, have no issues in this topic, and wish to check your understanding.</td></tr>
+<tr><td>Revision </td><td> Choose this mode if you want to revise a previously learned topic.</td></tr>
+<tr><td>Test Myself</td><td>Choose this mode if you want to test yourself on certain topics and/or sub-topics. Up to 40 questions from your current level of learning can be selected. For a video walk-through of the Test Myself mode, click <a target="_blank" href="https://drive.google.com/drive/folders/1Co101kq-a2EuRZjJ9Cu2dScbpvKc-0K6">here</a>.</td></tr>
+</tbody></table>
+After selecting a Topic/Subtopic, the learning mode best suited to your learning profile will be labelled with a ‘Recommended’ tag. You can follow the recommendation or choose another mode. You can also change to a more suitable learning mode later on.
+</li>
+	
+	
+
+<li>At the end of the session, you can view your learning progress and decide what topics to learn next.</li>
 <img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning06.png" style="width: 100%;">	
 
 	       
 
-<ol><u>Supporting Resources</u>:
-
-<li>View this <a target="\_blank" href="http://www.go.gov.sg/als-video-guide-student">video</a> for a step-by-step guide on accessing ALS.
-
-</li></ol></ol>
+<hr></ol>
