@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h1>Organise</h1>
 Use SLS to to organise your personal and class group resources, assignments and notifications.
-<img alt="Organise" style="width: 70%;" src="/images/2Teacher/Flow-Organise.png">
+<img alt="Organise" style="width: 70%;" src="/images/2Teacher/Flow_Organise.svg">
 
 <details>
 <summary><h4>A. How to create Class Groups in SLS?</h4></summary>
