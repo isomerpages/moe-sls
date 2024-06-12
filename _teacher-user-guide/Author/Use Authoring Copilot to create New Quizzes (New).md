@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
 ---
-<h1>Create New Quiz with Authoring Copilot</h1>
+<h1>Use Authoring Copilot to create New Quizzes (New)</h1>
 
 <u>Important:</u>
 * As Authoring Copilot uses generative AI, its response is probabilistic in nature. Thus, it may at times generate a different number of Sections, Activities and Components than expected.
