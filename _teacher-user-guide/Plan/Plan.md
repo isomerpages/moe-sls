@@ -12,9 +12,9 @@ Use SLS to plan personal and class group events.
 <details>
  <summary><h4>A. How to use SLS Planner?</h4></summary>
 <ul>
-    <li><a target="_blank" href="/teacher-user-guide/plan/access-planner/">(A1) Access Planner (New)</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/plan/create-class-events/">(A2) Create Class Events (New)</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/plan/attach-assignments-and-resources-to-events/">(A3) Attach Assignments and Resources to Events (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/plan/access-planner/">(A1) Access Planner</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/plan/create-class-events/">(A2) Create Class Events</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/plan/attach-assignments-and-resources-to-events/">(A3) Attach Assignments and Resources to Events</a></li>
 </ul>
 </details>
 <details><summary>
