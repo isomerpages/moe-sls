@@ -85,4 +85,5 @@ To regenerate the Section and Activities, click <b>Back to Generate Section</b> 
 
 Alternatively, you can regenerate the Section and Activities by clicking the orange Pencil icon <img alt="Icon_Pencil" style="width:1.5rem; display: inline;" src="/images/2Teacher/Icon_Pencil.png"> on the respective cards to reopen Authoring Copilot. Newly generated Activities will be appended to the end of the existing set of Activities.
 <img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/AU_ACP_Component11b.png">
-<hr></li></ol>
+</li></ol>
+<hr>
