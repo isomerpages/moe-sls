@@ -124,8 +124,6 @@ would be 500 words long. The default Response Size is set to <strong>Medium</str
 <tr><td><strong>Teacher Marked Quiz (before release)</strong></td><td>✓</td><td>✓</td><td>NA</td><td>NA</td><td>✓</td><td>✓</td></tr>
 <tr><td><strong>Teacher Marked Quiz (after release)</strong></td><td>✓</td><td>✓</td><td>NA</td><td>NA</td><td>✗</td><td>✗</td></tr>
 </tbody></table>
-<hr>
-
 <p><u>Supporting Resource</u>:</p>
 <ul data-tight="true" class="tight">
 <li>This <a target="_blank" href="https://www.google.com/search?q=shortansfa+feature+higlight&amp;sca_esv=dbee7c48f4c3b6c5&amp;sca_upv=1&amp;ei=toM0Zqm7EdCO4-EPhLyvmAI&amp;ved=0ahUKEwip7pD27PCFAxVQxzgGHQTeCyMQ4dUDCBA&amp;uact=5&amp;oq=shortansfa+feature+higlight&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiG3Nob3J0YW5zZmEgZmVhdHVyZSBoaWdsaWdodDIFECEYoAEyBRAhG">e-poster</a> summarises the tips for writing Suggested Answers for ShortAnsFA.
