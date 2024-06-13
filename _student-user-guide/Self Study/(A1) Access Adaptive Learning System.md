@@ -14,9 +14,9 @@ variant: markdown
 <li>When you first access the ALS, you will be presented with some questions for the system to understand your learning profile and goals. You will be prompted to complete the questions again at the start of each week to capture your weekly Learning Goals. These goals can be set and edited on the main Adaptive Learning page.</li>
 <img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning02.png" style="width: 100%;">
 <br>
-<img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning03.png" style="width: 100%;">
+<img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS_AS_ALS3.png" style="width: 100%;">
 <li>Every subject will be organised on a shelf. You can easily track your learning progress for a topic using the progress bar on the Topic cards.</li>
-<img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning04.png" style="width: 100%;">
+<img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS_AS_ALS4.png" style="width: 100%;">
 	
 <li>From June 2024 (R1), there will be four learning modes in ALS.
 <table>
