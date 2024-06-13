@@ -25,7 +25,21 @@ third_nav_title: Track Progress
 	<li>The overall progress of students can be viewed in two ways:
 	<ol style="list-style-type:lower-alpha">
 		<li><strong>Topical</strong> – Provides an overview of concepts mastered and time spent by the entire class group, categorised by topics</li>
-		<li>Student – Provides an overview of concepts mastered and time spent by individual students </li></ol>
+		<li><strong>Student</strong> – Provides an overview of concepts mastered and time spent by individual students </li></ol>
 	</li>
+	<li>For a visualisation of the curriculum map indicating the concepts and their connections, click on <strong>View Details</strong> under a concept.
+	<img alt="(A2,4) View ALS Learning Progress" style="width: 100%;" src="/images/2Teacher/T_View_LP5a.png">
+	<ol style="list-style-type:lower-alpha">
+		<li>For more details on the number of students who have and have not mastered the concept, click on the concept within the curriculum map.
+		<img alt="(A2,4) View ALS Learning Progress" style="width: 100%;" src="/images/2Teacher/T_View_LP5b.png"><br>
+		<img alt="(A2,4) View ALS Learning Progress" style="width: 100%;" src="/images/2Teacher/T_View_LP5c.png"></li>
+	</ol>
+	</li>
+</ol>
+<h2>Tracking using Reports on ALS Assessment &amp; Content Items</h2>
+<ol>
+	<li>From your Class Groups page, select a <strong>Class Group</strong> from your Subjects.
+	<img alt="(A2,4) View ALS Learning Progress" style="width: 100%;" src="/images/2Teacher/T_View_LP1.png"></li>
+	<li>Click the <strong>Resources</strong> tab.</li>
 	<li></li>
 </ol>
