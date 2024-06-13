@@ -68,7 +68,7 @@ third_nav_title: Discover
 </li>
 	<li>Click the Save icon <img alt="Icon_Save" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Save.png"> and proceed to tag the rest of the questions in the Progressive Quiz.</li>
 	<li>Click the Done icon<img alt="Icon_Done" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Done.png"> to save your changes.</li>
-	<li></li>
+	<li>To enable ALS to suggest Activities in the Section you have created, navigate to the class group where you want the content to be recommended. Click the <strong>Resources</strong> tab. Click <strong>Add Resource</strong> and select From My Drive. </li>
 	<li></li>
 	<li></li>
 	<li></li>
