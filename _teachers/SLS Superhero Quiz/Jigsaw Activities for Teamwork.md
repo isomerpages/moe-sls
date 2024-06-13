@@ -4,6 +4,7 @@ permalink: /teachers/sls-superhero-quiz/jigsaw-activities-for-teamwork/
 description: ""
 third_nav_title: SLS Superhero Quiz
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 class="page-title">Jigsaw Activities for Teamwork (#Collaborate_With_SLS)</h1>
   <h2>What it is</h2>
@@ -21,7 +22,7 @@ image: /images/FaviconLight.png
   <hr>
   <ol>
     <li>Create an engaging Team Quiz by applying strategies that encourage team spirit. In this example, we will apply the Jigsaw Technique.</li>
-    <li>Create Activities in a lesson with preselected reading materials for each member of the team. For example, all team members A to read materials in Activity A and so forth. 
+    <li>Create Activities in a Module with preselected reading materials for each member of the team. For example, all team members A to read materials in Activity A and so forth. 
       <a target="_blank" href="/teacher-user-guide/enact/change-access-to-activities/">Edit the Activity Access so that students can only see materials for their role</a>.
     </li>
     <div style="text-align:center;">
