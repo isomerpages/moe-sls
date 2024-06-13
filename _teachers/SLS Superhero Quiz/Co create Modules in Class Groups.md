@@ -22,11 +22,11 @@ and co-edit Modules collaboratively.</p>
 <hr>
 <ul data-tight="true" class="tight">
 <li>
-<p>By working on a single lesson in SLS, you and your colleagues do not have
+<p>By working on a single Module in SLS, you and your colleagues do not have
 to shuffle between different documents and resources to co-create a Module.</p>
 </li>
 <li>
-<p>Parking this lesson in a Class Group helps you and your colleagues to
+<p>Parking this Module in a Class Group helps you and your colleagues to
 save time as Teachers within the Class Group will be able to access this
 Module.</p>
 </li>
@@ -48,7 +48,7 @@ Student roles or both.</p>
 an existing Resource.</p>
 </li>
 <li>
-<p>Open the lesson you wish to co-create or co-edit and begin editing.</p>
+<p>Open the Module you wish to co-create or co-edit and begin editing.</p>
 </li>
 <li>
 <p>If you wish to adapt an existing Module for your personal use, copy it
