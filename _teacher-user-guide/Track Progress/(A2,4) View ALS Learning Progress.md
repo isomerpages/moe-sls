@@ -5,3 +5,18 @@ variant: markdown
 description: ""
 third_nav_title: Track Progress
 ---
+<h1>(A2,4) View ALS Learning Progress</h1>
+<p>Teachers can track students’ learning progress for ALS using two ways, the Learning Progress Dashboard and Reports generated on ALS Content &amp; Assessment Items.</p>
+<h2>Tracking using the Learning Progress Dashboard</h2>
+<ol>
+	<li>From your Class Groups page, select a <strong>Class Group</strong> from your Subjects.
+		<img alt="(A2,4) View ALS Learning Progress" style="width: 100%;" src="/images/2Teacher/T_View_LP1.png">
+	</li>
+	<li>Click <strong>View Learning Progress</strong> found on the top right of the page. You can also access the Learning Progress page for your Assigned Subjects and Followed Subjects from the My Subjects page. 
+
+<u>Note</u>: Only Class Groups with a Subject tagged to it will have Learning Progress. Such Class Groups are indicated with coloured banners.
+	<img alt="(A2,4) View ALS Learning Progress" style="width: 100%;" src="/images/2Teacher/T_View_LP2.png"></li>
+	<li></li>
+	<li></li>
+	<li></li>
+</ol>
