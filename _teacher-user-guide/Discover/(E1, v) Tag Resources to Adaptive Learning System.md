@@ -19,22 +19,32 @@ third_nav_title: Discover
 	<li>Click on the Setting icon <img alt="Icon_Setting" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Setting.png"> on the Module card.
 		<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS2.png"></li>
 	<li>Click <strong>Add Module Tag</strong>.</li>
-	<li>Select the Subject and Level. From the Content Map dropdown list, select the content map with ‘(ALS)’ indicated. Select the checkboxes with the orange Learning Outcome <img alt="Icon_Setting" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_LO.png"> next to the intended learning outcomes of the subtopic.
+	<li>Select the Subject and Level. From the Content Map dropdown list, select the content map with ‘(ALS)’ indicated. Select the checkboxes with the orange Learning Outcome <img alt="Icon_LO" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_LO.png"> next to the intended learning outcomes of the subtopic.
 <u>Note</u>:
 <ul><li>If there is no content map with ‘(ALS)’ indicated, the selected subject and level is currently unavailable on ALS.</li> 
-<li>Only learning outcomes with the orange Learning Outcome <img alt="Icon_Setting" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_LO.png"> are available for recommendation in ALS.
+<li>Only learning outcomes with the orange Learning Outcome <img alt="Icon_LO" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_LO.png"> are available for recommendation in ALS.
 	</li><li>Select the learning outcomes which correspond to the subtopic.</li></ul>
 	<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS4.png"></li>
 	<li>Click the Setting icon <img alt="Icon_Setting" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Setting.png"> on the Section card.
 		<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS5.png"></li>
 	<li>Click <strong>Add Section Tag</strong>.
 		<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS6.png"></li>
-	<li>Select the Subject and Level. From the Content Map dropdown list, select the content map with ‘(ALS)’ indicated. Select the checkbox with the orange Learning Outcome icon <img alt="Icon_Setting" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_LO.png"> next to 1 intended learning outcome.
+	<li>Select the Subject and Level. From the Content Map dropdown list, select the content map with ‘(ALS)’ indicated. Select the checkbox with the orange Learning Outcome icon <img alt="Icon_LO" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_LO.png"> next to 1 intended learning outcome.
 	<u>Note</u>:
 		<ul>
-		<li></li>
-		<li></li>
-		<li></li>
-		</ul>
+		<li>If there is no content map with ‘(ALS)’ indicated, the selected subject and level is currently unavailable on ALS.</li>
+		<li>Only learning outcomes with the orange Learning Outcome icon <img alt="Icon_Setting" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_LO.png"> are available for recommendation in ALS.</li>
+		<li>Select only 1 learning outcome for each section. If more than 1 learning outcomes are selected, the student may experience the same content being recommended across different learning outcomes.</li></ul>
+		<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS7.png">
 	</li>
+	<li>Click the <strong>Save</strong> icon <img alt="Icon_Save" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Save.png"> to proceed.</li>
+	<li>Create new activities in the Section by clicking <strong>Add New</strong> and selecting Activity.<u>Note</u>:
+	<ol>
+		<li>For each Section, it is recommended to have 3 activities and 1 progressive quiz. These activities should correspond to the <a target="_blank" href="https://sites.google.com/moe.edu.sg/guide-to-e-pedagogy/edtech-ps/learning-experiences/active-learning-processes?authuser=0">Active Learning Processes (ALPs)</a>.</li>
+		<li></li>
+	</ol>
+	</li>
+	<li></li>
+	<li></li>
+	
 </ol>
