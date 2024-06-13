@@ -14,8 +14,8 @@ third_nav_title: Self Study
 	<li>Click on the concept within the curriculum map to view more details on your level of mastery and time spent.
 		<img alt="(A2,4) View ALS Learning Progress" src="/images/1Student/SS_V_LP3a" style="width: 100%;"><br>
 		<img alt="(A2,4) View ALS Learning Progress" src="/images/1Student/SS_V_LP3b" style="width: 100%;"></li></ol>
-		<ol>
-	
+		
+<ol>
 <u>Supporting Resource</u>:
 <li>Watch this <a target="_blank" href="https://drive.google.com/drive/folders/1x0gGvch2IQ5Zu9gaGOu3xqVqAc__H9xq">video</a> for a demonstration on how to access the learning progress dashboard for ALS.</li></ol>
 
