@@ -28,6 +28,7 @@ variant: markdown
 </tbody></table>
 
 After selecting a Topic/Subtopic, the learning mode best suited to your learning profile will be labelled with a ‘Recommended’ tag. You can follow the recommendation or choose another mode. You can also change to a more suitable learning mode later on.
+	<img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS_AS_ALS5b.png" style="width: 100%;"><br>
 	<img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS_AS_ALS5b.png" style="width: 100%;">
 </li>
 <li>At the end of the session, you can view your learning progress and decide what topics to learn next.
