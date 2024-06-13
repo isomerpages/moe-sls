@@ -35,5 +35,4 @@ After selecting a Topic/Subtopic, the learning mode best suited to your learning
 <img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS_View_LP2.png" style="width: 100%;">	
 </li>
 </ol>
-
 <hr>
