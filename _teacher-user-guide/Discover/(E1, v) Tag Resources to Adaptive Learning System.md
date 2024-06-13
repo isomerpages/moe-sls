@@ -39,10 +39,10 @@ third_nav_title: Discover
 	</li>
 	<li>Click the <strong>Save</strong> icon <img alt="Icon_Save" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Save.png"> to proceed.</li>
 	<li>Create new activities in the Section by clicking <strong>Add New</strong> and selecting Activity.<u>Note</u>:
-	<ol>
+	<ul>
 		<li>For each Section, it is recommended to have 3 activities and 1 progressive quiz. These activities should correspond to the <a target="_blank" href="https://sites.google.com/moe.edu.sg/guide-to-e-pedagogy/edtech-ps/learning-experiences/active-learning-processes?authuser=0">Active Learning Processes (ALPs)</a>.</li>
-		<li></li>
-	</ol>
+		<li>Each activity should be designed to be completed independently, as the recommended activities by ALS may not follow a specific sequence.</li>
+	</ul>
 	</li>
 	<li></li>
 	<li></li>
