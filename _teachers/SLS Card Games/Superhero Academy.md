@@ -15,7 +15,7 @@ technology-driven society. Together, overcome ever-evolving dangers and
 prepare your students to thrive in today's world!</p>
 <h3>Resources</h3>
 <hr>
-<p><a href="www.google.com" rel="noopener noreferrer nofollow" target="_blank">Superhero Academy Cards (for Printing)</a>
+<p><a href="https://go.gov.sg/superheroacademy1" target="_blank">Superhero Academy Cards (for Printing)</a>
 </p>
-<p><a href="www.google.com" rel="noopener noreferrer nofollow" target="_blank">Game Rules</a>
+<p><a href="https://go.gov.sg/superheroacademy" target="_blank">Game Rules</a>
 </p>
