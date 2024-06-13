@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Plan
 ---
-<h1>(A3) Attach Assignments and Resources to Events (New)</h1>
+<h1>(A3) Attach Assignments and Resources to Events</h1>
 <p>You can attach Assignments and Resources from My Drive, Library and Starred Resources to an Event in your Planner. The total number of Assignments and Resources attached is indicated below the Event title.</p>
 <h3>Attaching Assignments to an Event</h3>
 <hr>
