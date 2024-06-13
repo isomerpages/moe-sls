@@ -41,5 +41,8 @@ third_nav_title: Track Progress
 	<li>From your Class Groups page, select a <strong>Class Group</strong> from your Subjects.
 	<img alt="(A2,4) View ALS Learning Progress" style="width: 100%;" src="/images/2Teacher/T_View_LP1.png"></li>
 	<li>Click the <strong>Resources</strong> tab.</li>
-	<li></li>
+	<li>Click <strong>Download Report</strong> and choose the assessment or content item which you would like to download the report for.
+		<img alt="(A2,4) View ALS Learning Progress" style="width: 100%;" src="/images/2Teacher/T_View_LP_DL3.png"></li>
 </ol>
+
+<hr>
