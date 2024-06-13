@@ -64,13 +64,24 @@ third_nav_title: Discover
 <u>Note</u>:
 	<ul>
 <li>Skill Level 1 denotes an easy question while Skill Level 3 denotes a challenging question.</li>
-<li>Ensure that you select only from the orange Learning Outcome icon <img alt="Icon_LO" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_LO.png">, and a maximum of 1 learning outcome for each question.</li></ul><img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS16.png">
+<li>Ensure that you select only from the orange Learning Outcome icon <img alt="Icon_LO" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_LO.png">, and a maximum of 1 learning outcome for each question.</li></ul>
+		<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS16.png">
 </li>
 	<li>Click the Save icon <img alt="Icon_Save" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Save.png"> and proceed to tag the rest of the questions in the Progressive Quiz.</li>
-	<li>Click the Done icon<img alt="Icon_Done" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Done.png"> to save your changes.</li>
-	<li>To enable ALS to suggest Activities in the Section you have created, navigate to the class group where you want the content to be recommended. Click the <strong>Resources</strong> tab. Click <strong>Add Resource</strong> and select From My Drive. </li>
-	<li></li>
-	<li></li>
-	<li></li>
-	<li></li>
+	<li>Click the Done icon <img alt="Icon_Done" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Done.png"> to save your changes.</li>
+	<li>To enable ALS to suggest Activities in the Section you have created, navigate to the class group where you want the content to be recommended. Click the <strong>Resources</strong> tab. Click <strong>Add Resource</strong> and select From My Drive.
+	<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS19.png"></li>
+	<li>Select the resource you have created and click <strong>Choose</strong>.
+	<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS20.png"></li>
+	<li>Click <strong>Create</strong>to add the resource to the Class Group.
+
+<u>Note</u>: 
+<ul>
+<li>Resources tagged to ALS will be paused by default. Ensure you carry out the next step to resume the resource and activities in the resource to be recommended by ALS.</li>
+</ul>
+<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS21.png">
+</li>
+	<li>Click to enter the resource. Click the Resume icon.<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS22.png"></li>
+	<li>Click <strong>Ok</strong>. Resources tagged to ALS Content Map will now be available for ALS recommendations.<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS23.png"></li>
 </ol>
+<hr>
