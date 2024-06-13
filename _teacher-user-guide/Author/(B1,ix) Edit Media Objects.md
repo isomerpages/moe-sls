@@ -67,7 +67,7 @@ times (for video/audio files)</p>
 <p>Keyword Tags</p>
 </li>
 </ul>
-	<img height="auto" width="100%" src="/images/AU_EditMediaObjects1.png">
+	<img height="auto" width="100%" src="/images/2Teacher/AU_EditMediaObjects1.png">
 <p><u>Note</u>: Media Objects from MOE Library/Community Gallery cannot be
 edited by drawing or from its settings.</p>
 </li>
