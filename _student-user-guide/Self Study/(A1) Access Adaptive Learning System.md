@@ -26,9 +26,10 @@ variant: markdown
 <tr><td>Revision </td><td> Choose this mode if you want to revise a previously learned topic.</td></tr>
 <tr><td>Test Myself</td><td>Choose this mode if you want to test yourself on certain topics and/or sub-topics. Up to 40 questions from your current level of learning can be selected. For a video walk-through of the Test Myself mode, click <a target="_blank" href="https://drive.google.com/drive/folders/1Co101kq-a2EuRZjJ9Cu2dScbpvKc-0K6">here</a>.</td></tr>
 </tbody></table>
+
 After selecting a Topic/Subtopic, the learning mode best suited to your learning profile will be labelled with a ‘Recommended’ tag. You can follow the recommendation or choose another mode. You can also change to a more suitable learning mode later on.
 </li>
-<li>At the end of the session, you can view your learning progress and decide what topics to learn next.</li>
+<li>At the end of the session, you can view your learning progress and decide what topics to learn next.
 <img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning06.png" style="width: 100%;">	
-
-<hr></ol>
+</li>
+</ol>
