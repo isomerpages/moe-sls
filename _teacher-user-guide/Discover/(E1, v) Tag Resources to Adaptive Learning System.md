@@ -60,9 +60,14 @@ third_nav_title: Discover
 	<li>Click the Settings icon <img alt="Icon_Setting" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Setting.png"> on the Question card.<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS14.png"></li>
 	<li>Click <strong>Add Question Tag</strong>. <img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS15.png"></li>
 	<li>Select the Subject and Level. From the Content Map dropdown list, select the content map with ‘(ALS)’ indicated. Select the Skill Level of the question. Select the checkbox with the orange Learning Outcome icon <img alt="Icon_LO" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_LO.png"> next to the learning outcome assessed by the question.
-		<u>Note</u>:</li>
-	<li></li>
-	<li></li>
+		
+<u>Note</u>:
+	<ul>
+<li>Skill Level 1 denotes an easy question while Skill Level 3 denotes a challenging question.</li>
+<li>Ensure that you select only from the orange Learning Outcome icon <img alt="Icon_LO" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_LO.png">, and a maximum of 1 learning outcome for each question.</li></ul><img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS16.png">
+</li>
+	<li>Click the Save icon <img alt="Icon_Save" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Save.png"> and proceed to tag the rest of the questions in the Progressive Quiz.</li>
+	<li>Click the Done icon<img alt="Icon_Done" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Done.png"> to save your changes.</li>
 	<li></li>
 	<li></li>
 	<li></li>
