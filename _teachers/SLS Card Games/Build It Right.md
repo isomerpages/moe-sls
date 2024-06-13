@@ -15,7 +15,7 @@ as many of the given conditions as you can while constructing your creation,
 mirroring real-world considerations in the design and development of SLS!</p>
 <h3>Resources</h3>
 <hr>
-<p><a href="www.google.com" rel="noopener noreferrer nofollow" target="_blank">Build it Right Cards (for Printing)</a>
+<p><a href="https://go.gov.sg/builditright1" target="_blank">Build it Right Cards (for Printing)</a>
 </p>
-<p><a href="www.google.com" rel="noopener noreferrer nofollow" target="_blank">Game Rules</a>
+<p><a href="https://go.gov.sg/builditright" target="_blank">Game Rules</a>
 </p>
