@@ -4,6 +4,7 @@ permalink: /teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/
 description: ""
 third_nav_title: SLS Superhero Quiz
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 class="page-title">Digitise Past Year Papers for Practice (#Author_with_SLS)</h1>
   <h2>What it is</h2>
@@ -24,7 +25,7 @@ image: /images/FaviconLight.png
   <ol>
     <li>Upload your past year paper (in Word or PDF format) to a QTI converter tool.</li>
     <li>Download the converted file as a QTI 2.1 format.</li>
-    <li><a target="_blank" href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/">Navigate to the lesson editor to upload the QTI 2.1 file</a>.</li>
-    <li>Your questions will be automatically populated in the lesson.</li>
-    <li>When assigning or managing the lesson, <a target="_blank" href="/teacher-user-guide/assign/allow-students-to-copy-assignments/">allow students to copy the Assignment</a> to their My Drive folder to enable self-study.</li>
+    <li><a target="_blank" href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/">Navigate to the Module editor to upload the QTI 2.1 file</a>.</li>
+    <li>Your questions will be automatically populated in the Module.</li>
+    <li>When assigning or managing the Module, <a target="_blank" href="/teacher-user-guide/assign/allow-students-to-copy-assignments/">allow students to copy the Assignment</a> to their My Drive folder to enable self-study.</li>
   </ol>
