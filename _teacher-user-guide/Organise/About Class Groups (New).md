@@ -6,8 +6,8 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>About Class Groups (New)</h1>
-<p><strong>Important:</strong> From Release 19, Owners and Co-teachers of Class Groups imported from School Cockpit may edit the Class Group Description and add Students to the Class.</p>
+<h1>About Class Groups</h1>
+<p><strong>Important:</strong> Owners and Co-teachers of Class Groups imported from School Cockpit may edit the Class Group Description and add Students to the Class.</p>
 <p>There are two types of Class Groups in SLS:</p>
 <ol>
     <li>Class Groups (Class) are created using subject class and teaching group information imported from School Cockpit. Class Groups are assigned a specific colour based on the subject type e.g. green for Sciences, orange for Mathematics.</li>
