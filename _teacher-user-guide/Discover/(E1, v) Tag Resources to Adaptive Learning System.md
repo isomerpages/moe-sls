@@ -16,6 +16,9 @@ third_nav_title: Discover
 <ol>
 	<li>On the homepage, click Create New/Edit Module. Click Module.
 		<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS1.png"></li>
-	<li>Click on the Setting icon <img alt="Icon_Setting" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Setting.png">on the Module card.
+	<li>Click on the Setting icon <img alt="Icon_Setting" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Setting.png"> on the Module card.
 		<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS2.png"></li>
+	<li>Click <strong>Add Module Tag</strong>.</li>
+	<li>Select the Subject and Level. From the Content Map dropdown list, select the content map with ‘(ALS)’ indicated. Select the checkboxes with the orange Learning Outcome <img alt="Icon_Setting" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Setting.png"> next to the intended learning outcomes of the subtopic.  </li>
+	<li></li>
 </ol>
