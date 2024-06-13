@@ -40,11 +40,20 @@ third_nav_title: Discover
 	<li>Click the <strong>Save</strong> icon <img alt="Icon_Save" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Save.png"> to proceed.</li>
 	<li>Create new activities in the Section by clicking <strong>Add New</strong> and selecting Activity.<u>Note</u>:
 	<ul>
-		<li>For each Section, it is recommended to have 3 activities and 1 progressive quiz. These activities should correspond to the <a target="_blank" href="https://sites.google.com/moe.edu.sg/guide-to-e-pedagogy/edtech-ps/learning-experiences/active-learning-processes?authuser=0">Active Learning Processes (ALPs)</a>.</li>
-		<li>Each activity should be designed to be completed independently, as the recommended activities by ALS may not follow a specific sequence.</li>
-	</ul>
-	</li>
-	<li></li>
+		<li>For each Section, it is recommended to have 3 activities and 1 progressive quiz. These activities should correspond to the <a target="_blank" href="https://sites.google.com/moe.edu.sg/guide-to-e-pedagogy/edtech-ps/learning-experiences/active-learning-processes?authuser=0">Active Learning Processes (ALPs)</a>.
+		<table>
+<tbody><tr><th> Activities in Section</th><th>Active Learning Process </th><th>Suggested Content</th></tr>
+<tr><td>Activity 1</td><td>ALP 1: Activate Learning</td><td>Videos, interactive tools, open-ended questions to activate students’ prior knowledge</td></tr>
+<tr><td>Activity 2</td><td>ALP 2: Promote Thinking and Discussion </td><td>Text/ Media objects to present new knowledge and guide students in deepening their learning </td></tr>
+<tr><td>Activity 3</td><td>ALP 3: Facilitate Demonstration of Learning </td><td>Multiple choice questions, free response questions to allow students to consolidate and apply their knowledge, and receive feedback.</td></tr>
+<tr><td>Activity 4</td><td>ALP: Monitor and Provide Feedback </td><td>Multiple choice questions, ShortAnsFA-enabled free response questions to assess students’ mastery level.</td></tr>
+</tbody></table>
+</li>
+		<li>Each activity should be designed to be completed independently, as the recommended activities by ALS may not follow a specific sequence.
+			<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS9.png"></li>
+	</ul></li>
+	<li>Click the Settings icon <img alt="Icon_Setting" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Setting.png"> from the Activity card.
+	<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS10.png"></li>
 	<li></li>
 	
 </ol>
