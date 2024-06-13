@@ -30,5 +30,11 @@ third_nav_title: Discover
 	<li>Click <strong>Add Section Tag</strong>.
 		<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS6.png"></li>
 	<li>Select the Subject and Level. From the Content Map dropdown list, select the content map with ‘(ALS)’ indicated. Select the checkbox with the orange Learning Outcome icon <img alt="Icon_Setting" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_LO.png"> next to 1 intended learning outcome.
+	<u>Note</u>:
+		<ul>
+		<li></li>
+		<li></li>
+		<li></li>
+		</ul>
 	</li>
 </ol>
