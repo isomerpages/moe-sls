@@ -54,6 +54,17 @@ third_nav_title: Discover
 	</ul></li>
 	<li>Click the Settings icon <img alt="Icon_Setting" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Setting.png"> from the Activity card.
 	<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS10.png"></li>
+	<li>Select the appropriate Active Learning Process for each Activity from the dropdown list. Click the Save icon<img alt="Icon_Save" style="width:1.5rem; display: inline;" src="/images/Icons/Icon_Save.png"> to proceed to populate the content for the Activity.<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS11.png"></li>
 	<li></li>
-	
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
+	<li></li>
 </ol>
