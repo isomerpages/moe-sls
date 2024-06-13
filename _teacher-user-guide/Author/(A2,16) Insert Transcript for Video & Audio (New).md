@@ -39,22 +39,26 @@ audio plays.</p>
 </li>
 <li>
 <p>Click <strong>View and Edit Transcript</strong>.</p>
+	<img height="auto" width="100%" src="/images/2Teacher/AU_InsertTranscription1.png">
 </li>
 <li>
 <p>Click <strong>Generate Transcript.</strong>
+		<img height="auto" width="100%" src="/images/2Teacher/AU_InsertTranscription2.png">
 </p>
 </li>
 <li>
-<p>You may edit the transcript and click<strong> Save </strong>when done.
+<p>You may edit the transcript, regenerate transcript and click<strong> Save </strong>when done.
 Click<strong> Back to Audio/Video Settings.</strong>
+		<img height="auto" width="100%" src="/images/2Teacher/AU_InsertTranscription3.png">
 </p>
 </li>
 <li>
 <p>Check the box next to <strong>Show Transcript and caption (for video)/Show Transcript (for audio) </strong>to
 allow for students’ viewing.</p>
+		<img height="auto" width="100%" src="/images/2Teacher/AU_InsertTranscription4.png">
 </li>
 <li>
-<p>Once done, click Save to proceed.</p>
+	<p>Once done, click <b>Save</b> to proceed.</p>
 </li>
 </ol>
 <p></p>
@@ -75,6 +79,3 @@ restrictions.</p>
 end time.</p>
 </li>
 </ol>
-<p></p>
-<p></p>
-<p></p>
