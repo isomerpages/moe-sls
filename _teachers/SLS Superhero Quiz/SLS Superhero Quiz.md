@@ -4,6 +4,7 @@ permalink: /teachers/sls-superhero-quiz/index/
 description: ""
 third_nav_title: SLS Superhero Quiz
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h3>Introduction</h3>
 <hr>
@@ -66,7 +67,7 @@ image: /images/FaviconLight.png
         <a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/The%20Explorer.pdf"> <img width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Explorer.png"></a> <br>      </td>        
         <td style="text-align: left; vertical-align: middle;">  
           <ul>
-            <li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-lessons-in-class-groups/">Co-create Lessons in Class Groups</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-modules-in-class-groups/">Co-create Modules in Class Groups</a>
             </li>
             <li><a target="_blank" href="/teachers/sls-superhero-quiz/facilitating-schoolwide-pd/">Facilitating School-wide PD</a>
             </li>
@@ -106,7 +107,7 @@ image: /images/FaviconLight.png
 			</td>   
         <td style="text-align: left; vertical-align: middle;">  
           <ul>
-            <li><a target="_blank" href="/teachers/sls-superhero-quiz/differentiate-learning-lessons-and-activities/">Differentiate Learning Lessons and Activities</a>
+            <li><a target="_blank" href="/teachers/sls-superhero-quiz/differentiate-learning-modules-and-activities/">Differentiate Learning Modules and Activities</a>
             </li>
             <li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">Assign Past Exam Questions </a>
             </li>
@@ -147,11 +148,11 @@ image: /images/FaviconLight.png
       </td>
       <td style="text-align: left; vertical-align: middle;">  
         <ul>
-          <li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-lessons-in-class-groups/">Co-create Lessons in Class Groups</a>
-          </li>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-modules-in-class-groups/">Co-create Modules in Class Groups</a>
+            </li>
           <li><a target="_blank" href="/teachers/sls-superhero-quiz/motivate-students-with-a-game-like-experience/">Motivate Students with a Game-like Experience</a>
           </li>
-          <li><a target="_blank" href="/teachers/sls-superhero-quiz/nurture-collaboration-in-gamified-lessons/">Nurture Collaboration in Gamified Lessons</a>
+          <li><a target="_blank" href="/teachers/sls-superhero-quiz/nurture-collaboration-in-gamified-modules/">Nurture Collaboration in Gamified Modules</a>
           </li>
           <li><a target="_blank" href="/teachers/sls-superhero-quiz/assign-past-exam-questions/">Assign Past Exam Questions</a>
           </li>
@@ -185,8 +186,8 @@ image: /images/FaviconLight.png
       </td>
       <td style="text-align: left; vertical-align: middle;">  
         <ul>
-          <li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-lessons-in-class-groups/">Co-create Lessons in Class Groups</a>
-          </li>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-modules-in-class-groups/">Co-create Modules in Class Groups</a>
+            </li>
           <li><a target="_blank" href="/teachers/sls-superhero-quiz/create-professional-learning-circles/">Create Professional Learning Circles</a>
           </li>
           <li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">Digitise Past Year Papers for Practice</a>
