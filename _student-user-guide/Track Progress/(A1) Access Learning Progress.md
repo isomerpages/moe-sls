@@ -46,5 +46,4 @@ variant: markdown
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Introduce Learning Progress (Student)" src="https://www.youtube.com/embed/V84eUpTn8jc" height="100%" width="100%"></iframe>
 </div>
-
-<p style="font-size:0.5rem;">Please note the following update(s):</p> <div style="font-size:0.5rem;"> 1. the donut chart at 00:36 has been shifted below the Content Map dropdown from R20.<br> 2. the Content Map dropdown at feature/button at 00:45 has been shifted above the donut chart from R20. <br> </div>
+Please note the following update(s):<br> 1. the donut chart at 00:36 has been shifted below the Content Map dropdown from R20.<br> 2. the Content Map dropdown at feature/button at 00:45 has been shifted above the donut chart from R20. <br> 
