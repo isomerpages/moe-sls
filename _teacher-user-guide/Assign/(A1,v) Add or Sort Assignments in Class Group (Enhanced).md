@@ -26,7 +26,7 @@ variant: markdown
     <li>On the Assignment tab in the Class group, select a category from the dropdown menu. Click <strong>Apply</strong>.</li>
     <li>Click <strong>Sort By</strong> and you can now sort the Assignments according to Assignment title, due or start date.</li>
 </ol>
-<p><img alt="Sort Assignments in Class Group" style="width: 100%;" src="/images/2Teacher/as_addassignment2.jpg"></p>
+<p><img alt="Sort Assignments in Class Group" style="width: 100%;" src="/images/2Teacher/as_addassignment3.jpg"></p>
 <h2 id="sort-resources-in-class-group">Sort Resources in Class Group (Enhanced)</h2>
 <hr>
 <ol>
@@ -34,4 +34,4 @@ variant: markdown
     <li>On the Resource tab in the Class Group, select a category from the dropdown menu. Click <strong>Apply</strong>.&nbsp;</li>
     <li>Click <strong>Sort By</strong> and you can now sort the Resources according to modified date, date added or title.</li>
 </ol>
-<p><img alt="Sort Resources in Class Group" style="width: 100%;" src="/images/2Teacher/as_addassignment3.jpg"></p>
+<p><img alt="Sort Resources in Class Group" style="width: 100%;" src="/images/2Teacher/as_addassignment2.jpg"></p>
