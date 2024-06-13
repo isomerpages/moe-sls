@@ -62,7 +62,7 @@ variant: markdown
 <li>Topical - To view the Awarded Marks as part of the Total Marks for selected questions according to their topics and sub-topics of the selected content map.</li>
 <li>Monthly - To view the monthly trend of the Awarded Marks as a part of the Total Marks.</li>
 <li><p>Student - To view the Awarded Marks as part of the Total Marks by individual students.</p>
-<p><img alt="Access Learning Progress" style="width: 100%;" src="/images/2Teacher/TP-LP.png"></p>
+
 </li>
 </ul>
 </li>
