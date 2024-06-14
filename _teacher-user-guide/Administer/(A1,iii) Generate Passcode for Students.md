@@ -27,7 +27,7 @@ variant: markdown
 	<p><u>Note</u>: The Passcode must follow the password guidelines. It should be at least 8 characters long and contain a combination of numbers and letters.</p>
 </li>
 <li><p>Click <strong>Generate Passcode</strong>.</p>
-<p><img alt="Generate Two-Hour Temporary Password for Students" style="width: 100%;" src="/images/2Teacher/A-2HrPW.png"></p>
+<p><img alt="Generate Two-Hour Temporary Password for Students" style="width: 100%;" src="/images/2Teacher/A_passcode.jpg"></p>
 </li>
 <li><p>On the confirmation prompt, verify that the correct class group has been selected.</p>
 </li>
