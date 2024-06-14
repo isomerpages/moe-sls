@@ -8,8 +8,11 @@ third_nav_title: Track Progress
 ---
 <h1>(A2,4) View ALS Learning Progress (New)</h1>
 <ol>
-<br>Teachers can track students’ learning progress for ALS using two ways, the Learning Progress Dashboard and Reports generated on ALS Content &amp; Assessment Items. <br>
-	<br>Tracking using the Learning Progress Dashboard<br>
+	
+<p>Teachers can track students’ learning progress for ALS using two ways, the Learning Progress Dashboard and Reports generated on ALS Content &amp; Assessment Items. </p>
+<h3 id="tracking-using-the-learning-progress-dashboard">Tracking using the Learning Progress Dashboard</h3>
+<hr>
+<ol>
 	<li> From your Class Groups page, select a <strong>Class Group</strong> from your Subjects. 
 	<img alt="(A2,4) View ALS Learning Progress" src="/images/2Teacher/T_View_LP1.png" style="width: 100%;"></li>
 <li> Click <strong>View Learning Progress</strong> found on the top right of the page. You can also access the Learning Progress page for your Assigned Subjects and Followed Subjects from the My Subjects page. 
@@ -28,8 +31,11 @@ third_nav_title: Track Progress
 <ul><li>Click on the concept node within the curriculum map to view more details such as the number of students who have and have not mastered the concept. 
 		<img alt="(A2,4) View ALS Learning Progress" src="/images/2Teacher/T_View_LP5b.png" style="width: 100%;">
 			<img alt="(A2,4) View ALS Learning Progress" src="/images/2Teacher/T_View_LP5c.png" style="width: 100%;"></li> 
-	<p> Tracking using Reports on ALS Assessment &amp; Content Items</p>
+	
+	<h3 id="tracking-using-reports-on-als-assessment-and-content-Items">Tracking using Reports on ALS Assessment and Content Items</h3>
+<hr>
+<ol>
 	<li> From your Class Groups page, select a <strong>Class Group</strong> from your Subjects
 				<img alt="(A2,4) View ALS Learning Progress" src="/images/2Teacher/T_View_LP1.png" style="width: 100%;"></li> 
 	<li>Click the <strong>Resources</strong> tab.</li>
-	<li> Click <strong>Download Report</strong> and choose the assessment or content item which you would like to download the report for.</li></ul></ol>
+	<li> Click <strong>Download Report</strong> and choose the assessment or content item which you would like to download the report for.</li></ol></ul></ol></ol>
