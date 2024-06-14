@@ -26,8 +26,8 @@ variant: markdown
 <hr>
 <ol>
 <li>You can view a Access Code from Module View (of a Module or while editing an Assignment).</li>
-<li>From the Module View, open the right menu and select <strong>View Access Code Settings</strong>. <img alt="Add and View Access Codes" style="width: 100%;" src="/images/2Teacher/As-Passcode1.png"></li>
+<li>From the Module View, open the right menu and select <strong>View Access Code Settings</strong>. <img alt="Add and View Access Codes" style="width: 100%;" src="/images/2Teacher/As_Accesscode2.jpg"></li>
 <li>From an Assignment, open the right menu and select <strong>View Access Code Settings</strong>. </li>
-<li>The Access Code Settings subpage will appear, revealing the Access Code.<img style="width: 100%;" src="/images/2Teacher/As-Passcode2.png"></li>
+<li>The Access Code Settings subpage will appear, revealing the Access Code.<img style="width: 100%;" src="/images/2Teacher/As_Accesscode3.jpg"></li>
 <li>Click <strong>X</strong> to close the subpage.</li>
 </ol>
