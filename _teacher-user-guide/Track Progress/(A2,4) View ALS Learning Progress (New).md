@@ -10,13 +10,13 @@ third_nav_title: Track Progress
 <ol>
 	
 <p>Teachers can track students’ learning progress for ALS using two ways, the Learning Progress Dashboard and Reports generated on ALS Content &amp; Assessment Items. </p>
-<h3 id="tracking-using-the-learning-progress-dashboard">Tracking using the Learning Progress Dashboard</h3>
+<h3>Tracking using the Learning Progress Dashboard</h3>
 <hr>
 <ol>
 	<li> From your Class Groups page, select a <strong>Class Group</strong> from your Subjects. 
 	<img alt="(A2,4) View ALS Learning Progress" src="/images/2Teacher/T_View_LP1.png" style="width: 100%;"></li>
 <li> Click <strong>View Learning Progress</strong> found on the top right of the page. You can also access the Learning Progress page for your Assigned Subjects and Followed Subjects from the My Subjects page. 
-<p><u>Note:</u> Only Class Groups with a Subject tagged to it will have Learning Progress. Such Class Groups are indicated with coloured banners. </p>
+<p><u>Note</u>: Only Class Groups with a Subject tagged to it will have Learning Progress. Such Class Groups are indicated with coloured banners. </p>
 	<img alt="(A2,4) View ALS Learning Progress" src="/images/2Teacher/T_View_LP2.png" style="width: 100%;"></li> 
 <li>On the Learning Progress page, you can select your Class Group below the banner from the Class Group dropdown list. Class Groups that are tagged to the same Subject and Level will appear in the list. 
 	<ul><li> Select the <strong>Assignment</strong> tab to view the Class Group's Learning Progress for Assignments assigned to the Class Group. </li>
@@ -32,7 +32,7 @@ third_nav_title: Track Progress
 		<img alt="(A2,4) View ALS Learning Progress" src="/images/2Teacher/T_View_LP5b.png" style="width: 100%;">
 			<img alt="(A2,4) View ALS Learning Progress" src="/images/2Teacher/T_View_LP5c.png" style="width: 100%;"></li>
 	
-	<h3 id="tracking-using-reports-on-als-assessment-and-content-Items">Tracking using Reports on ALS Assessment and Content Items</h3>
+<h3>Tracking using Reports on ALS Assessment and Content Items</h3>
 <hr>
 <ol>
 	<li> From your Class Groups page, select a <strong>Class Group</strong> from your Subjects
