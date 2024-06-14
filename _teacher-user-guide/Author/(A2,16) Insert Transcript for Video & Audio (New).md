@@ -72,6 +72,7 @@ Transcription service returns an error.
 	<li>
 No error returned from transcription service, but it returns an empty transcript.
 </li></ol>
+<p>If you encounter any of the issues above, you can check the file for errors and resubmit it.</p>
 <hr>
 <p></p>
 <p><u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:</p>
