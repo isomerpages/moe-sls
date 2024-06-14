@@ -49,7 +49,7 @@ Add the knowledge base into the field and click <b>Add</b>.
 </li>
 <li>
 Authoring Copilot will create a Suggested Quiz Plan with Quiz Description and Question(s). Click the checkbox next to Split into pages if you want the content to be populated across different pages of the Quiz. Click the checkboxes next to the generated content you wish to include in the Quiz. Click <b>Add</b> to autogenerate the Quiz Description and Question(s) selected.
-<img alt="Create New Quiz with Authoring Copilot" style="width: 100%;" src="/images/2Teacher/AU_ACP_Quiz6.png">
+<img alt="Create New Quiz with Authoring Copilot" style="width: 70%;" src="/images/2Teacher/AU_ACP_Quiz6.png">
 </li>
 <li>
 <p>You can edit the Quiz and Questions generated in the Module Editor page, as you would for a normal quiz.</p>  
