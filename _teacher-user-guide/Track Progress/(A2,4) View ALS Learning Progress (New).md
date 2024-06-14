@@ -38,6 +38,7 @@ third_nav_title: Track Progress
 	</li>
 </ol>
 <h2>Tracking using Reports on ALS Assessment &amp; Content Items</h2>
+<hr>
 <ol>
 	<li>From your Class Groups page, select a <strong>Class Group</strong> from your Subjects.
 	<img alt="(A2,4) View ALS Learning Progress" style="width: 100%;" src="/images/2Teacher/T_View_LP1.png"></li>
