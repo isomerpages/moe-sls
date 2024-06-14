@@ -64,7 +64,7 @@ allow for students’ viewing.</p>
 <h2>Possible Reasons for Transcription Error</h2>
 <ol>
 	<li>
-Video/audio file uploade has no verbal audio.
+Video/audio file uploaded has no verbal audio.
 </li>
 	<li>
 Transcription service returns an error.
