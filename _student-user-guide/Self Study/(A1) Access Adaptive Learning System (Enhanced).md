@@ -9,7 +9,7 @@ variant: markdown
 <h1 id="access-adaptive-learning-system-als-">(A1) Access Adaptive Learning System (ALS) (Enhanced)</h1>
 <ol>
 <li>To access ALS, open the left menu from the header at the homepage and click <strong>Resources</strong>, followed by <strong>Adaptive Learning</strong>.</li>
-<li>Access to Adaptive Learning is based on level and subject. </li>
+<li>Access to Adaptive Learning is based on level and subject. Currently, it is available for selected topics in Mathematics (Primary) and Geography (Secondary). More subjects and topics will be added progressively. </li>
 <img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning01.png" style="width: 100%;">
 <li>When you first access the ALS, you will be presented with some questions for the system to understand your learning profile and goals. You will be prompted to complete the questions again at the start of each week to capture your weekly Learning Goals. These goals can be set and edited on the main Adaptive Learning page.</li>
 <img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning02.png" style="width: 100%;">
@@ -27,12 +27,11 @@ variant: markdown
 <tr><td>Test Myself</td><td>Choose this mode if you want to test yourself on certain topics and/or sub-topics. </td></tr>
 </tbody></table>
 
-For Guided Learning, Mastery Check and Revision mode, after selecting a Topic/Subtopic, the learning mode best suited to your learning profile will be labelled with a ‘Recommended’ tag. You can follow the recommendation or choose another mode. You can also change to a more suitable learning mode later on.
-	<img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS_AccessAdaptiveLearning05.png" style="width: 100%;"><br>
-For Test Myself mode, up to 40 questions from your current level of learning can be selected. For a video walk-through of the Test Myself mode, click <a target="_blank" href="https://drive.google.com/drive/folders/1Co101kq-a2EuRZjJ9Cu2dScbpvKc-0K6">here</a>.
-	<img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS_AS_ALS5b.png" style="width: 100%;">
-</li>
-<li>At the end of the session, you can view your learning progress and decide what topics to learn next.
+For Guided Learning, Mastery Check and Revision mode, after selecting a Topic/Subtopic, the learning mode best suited to your learning profile will be labelled with a ‘Recommended’ tag. You can follow the recommendation or choose another mode. You can also change to a more suitable learning mode later on. 
+<img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS_AccessAdaptiveLearning05.png" style="width: 100%;">
+For Test Myself mode, up to 40 questions from your current level of learning can be selected. To learn more, watch a <a target="_blank" href="https://drive.google.com/drive/folders/1Co101kq-a2EuRZjJ9Cu2dScbpvKc-0K6">video walk-through of the Test Myself mode</a>.
+<img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS_AS_ALS5b.png" style="width: 100%;">
+</li><li>At the end of the session, you can view your learning progress and decide what topics to learn next.
 <img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS_View_LP2.png" style="width: 100%;">	
 </li>
 </ol>
