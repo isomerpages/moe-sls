@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/author/text-to-speech-tts/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="text-to-speech-tts-">(A3,12) Text-to-Speech (TTS)</h1>
 <h2 id="create-text-to-speech-audio-clip">Create Text-to-Speech audio clip</h2>
@@ -17,5 +18,6 @@ image: /images/FaviconLight.png
 <p><img style="width: 100%;" src="/images/2Teacher/AU-TextToSpeech2.png"></p>
 </li>
 <li><p>If there are no further changes to the audio clip, click <strong>Save</strong>.</p>
-</li>
+</li><li><p>Text-to-Speech supports EL and MTL (enhancement from V2 R1).	
+</p></li>
 </ol>
