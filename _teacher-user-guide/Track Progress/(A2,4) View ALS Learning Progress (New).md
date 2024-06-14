@@ -24,13 +24,13 @@ third_nav_title: Track Progress
 	<img alt="(A2,4) View ALS Learning Progress" src="/images/2Teacher/T_View_LP3.png" style="width: 100%;"></li> 
 	</ul>
 	</li><li>The overall progress of students can be viewed in two ways: </li>
-	<ul><li><strong>Topical</strong> - Provides an overview of concepts mastered and time spent by the entire class group, categorised by topics</li></ul>
-	<ul><li><strong>Student</strong>- Provides an overview of concepts mastered and time spent by individual students</li></ul>
+	<ul><li><strong>Topical</strong> - Provides an overview of concepts mastered and time spent by the entire class group, categorised by topics</li>
+	<li><strong>Student</strong>- Provides an overview of concepts mastered and time spent by individual students</li></ul>
 	<li>For a visualisation of the curriculum map indicating the concepts and their connections, click on <strong>View Details</strong> under a concept.
 		<img alt="(A2,4) View ALS Learning Progress" src="/images/2Teacher/T_View_LP5a.png" style="width: 100%;"></li> 
-<ul><li>Click on the concept node within the curriculum map to view more details such as the number of students who have and have not mastered the concept. 
+<li>Click on the concept node within the curriculum map to view more details such as the number of students who have and have not mastered the concept. 
 		<img alt="(A2,4) View ALS Learning Progress" src="/images/2Teacher/T_View_LP5b.png" style="width: 100%;">
-			<img alt="(A2,4) View ALS Learning Progress" src="/images/2Teacher/T_View_LP5c.png" style="width: 100%;"></li> 
+			<img alt="(A2,4) View ALS Learning Progress" src="/images/2Teacher/T_View_LP5c.png" style="width: 100%;"></li>
 	
 	<h3 id="tracking-using-reports-on-als-assessment-and-content-Items">Tracking using Reports on ALS Assessment and Content Items</h3>
 <hr>
@@ -38,4 +38,6 @@ third_nav_title: Track Progress
 	<li> From your Class Groups page, select a <strong>Class Group</strong> from your Subjects
 				<img alt="(A2,4) View ALS Learning Progress" src="/images/2Teacher/T_View_LP1.png" style="width: 100%;"></li> 
 	<li>Click the <strong>Resources</strong> tab.</li>
-	<li> Click <strong>Download Report</strong> and choose the assessment or content item which you would like to download the report for.</li></ol></ul></ol></ol>
+	<li> Click <strong>Download Report</strong> and choose the assessment or content item which you would like to download the report for.
+	<img alt="(A2,4) View ALS Learning Progress" src="/images/2Teacher/T_View_LP_DL3.png" style="width: 100%;"></li> 
+	</ol></ol></ol>
