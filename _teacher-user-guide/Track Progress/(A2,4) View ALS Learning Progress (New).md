@@ -31,7 +31,7 @@ third_nav_title: Track Progress
 	<li>For a visualisation of the curriculum map indicating the concepts and their connections, click on <strong>View Details</strong> under a concept.
 	<img alt="(A2,4) View ALS Learning Progress" style="width: 100%;" src="/images/2Teacher/T_View_LP5a.png">
 	<ol style="list-style-type:lower-alpha">
-		<li>For more details on the number of students who have and have not mastered the concept, click on the concept within the curriculum map.
+		<li>Click on the concept within the curriculum map to view more details such as the number of students who have and have not mastered the concept.
 		<img alt="(A2,4) View ALS Learning Progress" style="width: 100%;" src="/images/2Teacher/T_View_LP5b.png"><br>
 		<img alt="(A2,4) View ALS Learning Progress" style="width: 100%;" src="/images/2Teacher/T_View_LP5c.png"></li>
 	</ol>
