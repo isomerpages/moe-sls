@@ -61,6 +61,18 @@ allow for students’ viewing.</p>
 	<p>Once done, click <b>Save</b> to proceed.</p>
 </li>
 </ol>
+<h2>Possible Reasons for Transcription Error</h2>
+<ol>
+	<li>
+Video/audio file uploade has no verbal audio.
+</li>
+	<li>
+Transcription service returns an error.
+</li>
+	<li>
+No error returned from transcription service, but it returns an empty transcript.
+</li></ol>
+<hr>
 <p></p>
 <p><u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:</p>
 <ol data-tight="true" class="tight">
