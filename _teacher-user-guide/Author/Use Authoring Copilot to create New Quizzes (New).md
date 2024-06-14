@@ -29,9 +29,10 @@ Click the <b>Up/Down</b> arrows to set the Quiz Duration. This duration will be 
 In the Additional Details field, you can include information about the question types and number of questions in the Quiz.
 
 <u>Note:</u>
-* For example, “Create 3 Free Response Questions and 4 Multiple Choice Questions”. 
-* Make sure that the information given about the number of questions in Additional Details corresponds to the Number of Components field.
-* Authoring Copilot is unable to generate suggested answers for Free Response Questions.
+<ul>
+<li>For example, “Create 3 Free Response Questions and 4 Multiple Choice Questions”.</li>
+<li>Make sure that the information given about the number of questions in Additional Details corresponds to the Number of Components field.</li>
+	<li>Authoring Copilot is unable to generate suggested answers for Free Response Questions.</li></ul>
 
 </li>
 <li>
