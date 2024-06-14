@@ -12,7 +12,7 @@ third_nav_title: Track Progress
 	<img alt="(A2,4) View ALS Learning Progress" src="/images/1Student/SS_View_LP1.jpg" style="width: 100%;"></li>
 	<li>The learning progress dashboard provides information on your level of mastery, average time spent, and last accessed date for all topics and sub-topics. To view the curriculum map indicating the concepts and their connections, click <strong>View Details</strong>.
 		<img alt="(A2,4) View ALS Learning Progress" src="/images/1Student/SS_View_LP2.png" style="width: 100%;"></li>
-	<li>Click on the concept within the curriculum map to view more details on your level of mastery and time spent.
+	<li>Click on the concept node within the curriculum map to view more details on your level of mastery and time spent.
 		<img alt="(A2,4) View ALS Learning Progress" src="/images/1Student/SS_View_LP3a.png" style="width: 100%;"><br>
 		<img alt="(A2,4) View ALS Learning Progress" src="/images/1Student/SS_View_LP3b.png" style="width: 100%;"></li></ol>
 <ol>
