@@ -12,7 +12,7 @@ variant: markdown
 <hr>
 <ol>
 <li>Click the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> to enter the Module Editor page.</li>
-<li>Open the right menu and select <strong>Manage Access Code Settings</strong>.<img alt="Add and View Access Codes" style="width: 100%;" src="/images/2Teacher/As-Passcode.png"></li>
+<li>Open the right menu and select <strong>Manage Access Code Settings</strong>.<img alt="Add and View Access Codes" style="width: 100%;" src="/images/2Teacher/As_Accesscode1.jpg"></li>
 <li><p>In the Access Code Settings subpage, select the checkbox beside <strong>Enable Access Code for this Module</strong> and enter the Access Code in the text box field.</p>
 	<p><u>Note</u>: </p>
 <ul>
