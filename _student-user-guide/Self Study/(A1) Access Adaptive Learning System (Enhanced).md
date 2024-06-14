@@ -6,7 +6,7 @@ third_nav_title: Self Study
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="access-adaptive-learning-system-als-">(A1) Access Adaptive Learning System (ALS)</h1>
+<h1 id="access-adaptive-learning-system-als-">(A1) Access Adaptive Learning System (ALS) (Enhanced)</h1>
 <ol>
 <li>To access ALS, open the left menu from the header at the homepage and click <strong>Resources</strong>, followed by <strong>Adaptive Learning</strong>.</li>
 <li>Access to Adaptive Learning is based on level and subject. </li>
