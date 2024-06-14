@@ -22,4 +22,3 @@ variant: markdown
 <li>Once the work has been completed, you may submit your response to the question, by clicking <strong>Submit</strong>.</li>
 <img alt="(D1) About Feedback Assistant - Mathematics (FA-Math)" src="/images/1Student/AS_FA_Math5.png" style="width: 100%;">
 	</ol>
-	<hr>
