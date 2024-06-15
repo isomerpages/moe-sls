@@ -24,7 +24,7 @@ variant: markdown
 </ol>
 <h2 id="add-moe-lesson-as-class-group-resource">Add MOE Module as Class Group Resource</h2>
 <hr>
-<p><strong>Important</strong>: If module permissions to allow teachers to copy/assign/publish and students to copy this Module are not selected, it will not be possible to add the Module as a Class Group Resource.</p>
+<p><u>Important</u>: If module permissions to allow teachers to copy/assign/publish and students to copy this Module are not selected, it will not be possible to add the Module as a Class Group Resource.</p>
 <ol>
 <li><p>Click the MOE Library <strong>Module</strong> <strong>card</strong> that you would like to view.</p>
 </li>
