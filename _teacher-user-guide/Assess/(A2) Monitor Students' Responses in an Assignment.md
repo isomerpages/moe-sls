@@ -60,7 +60,8 @@ variant: markdown
 <ul>
 <li>You cannot edit your students’ draft responses.</li>
 <li>If the responses are in a quiz, you can submit them on your students’ behalf.</li>
-<li>For draft and submitted answers, you will also be able to see the name of the student who saved the draft and the time it was saved.</li>
+<li>For draft answers, you will be able to see the name of the student or teacher who saved the draft and the time it was saved.</li>
+<li>For submitted and unsubmitted answers, you will be able to see the name of the student or teacher who submitted/unsubmitted the answer and the time it was submitted/unsubmitted.</li>
 </ul>
 <h2 id="monitor-an-interactive-thinking-tool">Monitor an Interactive Thinking Tool</h2>
 <hr>
