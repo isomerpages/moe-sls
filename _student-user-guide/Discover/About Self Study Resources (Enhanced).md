@@ -28,8 +28,8 @@ variant: markdown
 	
 1. You can sort Resources in Class Groups to find them easily.
 	
-2. On the Resource tab in the Class Group, select a category from the dropdown menu. Click **Apply**.
-3. Click **Sort By** and you can now sort the Resources according to modified date, date added or title.
+2. On the Resource tab in the Class Group, select a category from the dropdown menu. Click <b>Apply</b>.
+3. Click <b>Sort By</b> and you can now sort the Resources according to modified date, date added or title.
 	
 </p><h3>About My Drive</h3>
 <hr>
