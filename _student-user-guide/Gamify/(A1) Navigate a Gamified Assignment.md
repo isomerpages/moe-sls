@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Gamify
 ---
-<h1>(A1) Navigate a Gamified Assignment (New)</h1>
+<h1>(A1) Navigate a Gamified Assignment</h1>
 
 <h2 id="navigate-a-gamified-assignment">Navigate a Gamified Assignment</h2>
 <hr>
