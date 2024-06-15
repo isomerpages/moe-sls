@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="external-engines">External Engines</h1>
-<p>Beyond the integrated apps, SLS is able to make API calls to external engines that would enhance SLS capabilities. Some examples of such engines which have previously been integrated are <a target="_blank" href="/teacher-user-guide/author/text-to-speech-tts/">Text-to-Speech</a> and <a target="_blank" href="/teacher-user-guide/author/speech-evaluation/">Speech Evaluation</a>.</p>
+<p>Beyond the integrated apps, SLS is able to make API calls to external engines that would enhance SLS capabilities. Some examples of such engines which have previously been integrated are <a target="_blank" href="/teacher-user-guide/author/text-to-speech/">Text-to-Speech</a> and <a target="_blank" href="/teacher-user-guide/author/speech-evaluation/">Speech Evaluation</a>.</p>
 <p>SLS also builds proprietary integrations with upstream authentication and admin systems such as MOE Identity Management System (MIMS), School Cockpit, Resource Management System, other tools such as Google Suite, and downstream data systems such as the SLS Learning Record Store.</p>
 <p>We are interested in solutions that are:</p>
 <ul>
