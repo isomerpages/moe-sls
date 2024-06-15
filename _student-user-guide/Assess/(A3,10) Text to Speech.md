@@ -21,25 +21,13 @@ an audio clip in your Assignment. The text to the audio clip is found below.</p>
 </div>
 </li>
 <li>
-<p>You can also <strong>Pause</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:1rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pause.svg">
-</div>
-<p>and <strong>Restart</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:1rem; display: inline;" height="auto" width="100%" src="/images/Icons/Refresh.svg">
-</div>
-<p>the clip by selecting the respective icons.</p>
+<p>You can also <strong>Pause</strong> <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pause.svg">and <strong>Restart</strong>
+<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Refresh.svg">the clip by selecting the respective icons.</p>
 </li>
 <li>
 <p>You can also listen to a line-by-line reading of the audio clip. To do
-so, click the <strong>Expand</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.2rem; display: inline;" height="auto" width="100%" src="/images/Icons/external-link.svg">
-</div>
-<p>and select the sentence to begin.</p>
+so, click the <strong>Expand</strong> icon 
+<img style="width:1.2rem; display: inline;" height="auto" width="100%" src="/images/Icons/external-link.svg"> and select the sentence to begin.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/1Student/As-TTS1.png">
 </div>
