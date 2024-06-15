@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Author
 ---
-<h1>Insert Transcript for Video &amp; Audio (New)</h1>
+<h1>(A2,16) Insert Transcript for Video &amp; Audio (New)</h1>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
@@ -81,7 +81,7 @@ No error returned from transcription service, but it returns an empty transcript
 <p>You can generate transcripts in 4 languages; EL, CL, ML and TL.</p>
 </li>
 <li>
-<p>You can generate transcripts for video/audio when using <a href="https://www.learning.moe.edu.sg/teacher-user-guide/author/add-split-page-media/" rel="noopener noreferrer nofollow" target="_blank">Split-page Media</a>.</p>
+<p>You can generate transcripts for video/audio when using <a href="/teacher-user-guide/author/add-split-page-media/" rel="noopener noreferrer nofollow" target="_blank">Split-page Media</a>.</p>
 </li>
 <li>
 <p>You cannot create transcripts for videos/audios in MOE Library due to&nbsp;IP
