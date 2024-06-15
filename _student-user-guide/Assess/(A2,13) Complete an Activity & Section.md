@@ -19,5 +19,4 @@ variant: markdown
 <li><p>If you have difficulty accessing an Activity/Section, seek assistance from your Teacher.</p>
 </li>
 </ol>
-<img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"><u>Did you know</u>: 
-<p>Activities/Sections with prerequisites will be restricted until you have completed all the <a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">Activities/Section Prerequisites</a>.</p>
+<p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"><u>Did you know</u>:  Activities/Sections with prerequisites will be restricted until you have completed all the <a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">Activities/Section Prerequisites</a>.</p>
