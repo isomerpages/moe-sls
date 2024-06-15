@@ -67,7 +67,7 @@ and other components in an Activity.</p>
 </p>
 </li>
 <li>
-<p><a href="/teacher-user-guide/author/text-to-speech-tts/" rel="noopener noreferrer nofollow" target="_blank">Generate Text-to-Speech Files</a>
+<p><a href="/teacher-user-guide/author/text-to-speech/" rel="noopener noreferrer nofollow" target="_blank">Generate Text-to-Speech Files</a>
 </p>
 </li>
 </ol>
