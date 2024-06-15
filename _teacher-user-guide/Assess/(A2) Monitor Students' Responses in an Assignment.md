@@ -38,7 +38,7 @@ variant: markdown
 </ul>
 </li>
 </ul>
-<h2>Monitor Student Responses</h2>
+<h2>Monitor Student Draft Responses</h2>
 <hr>
 <p>From R1, you can monitor your students’ draft responses in the following question types:</p>
 <ul>
