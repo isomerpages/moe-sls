@@ -9,8 +9,8 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>Authentication</h1>
-<details class="isomer-details">
-<summary>Teacher Login Issues</summary>
+<details>
+	<summary><h4>Teacher Login Issues</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
@@ -32,8 +32,8 @@ variant: markdown
 </ul>
 </div>
 </details>
-<details class="isomer-details">
-<summary>Student Login Issues</summary>
+<details>
+	<summary><h4>Student Login Issues</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
