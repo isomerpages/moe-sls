@@ -55,7 +55,7 @@ variant: markdown
 <li><a target="_blank" href="/teacher-user-guide/author/insert-links-to-sections/">(A3,9) Insert Links to Sections</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-tooltips/">(A3,10) Insert Tooltips</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/html5-content-development/">(A3,11) HTML5 Content Development</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/text-to-speech/">(A3,12) Text-to-Speech (TTS)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/text-to-speech/">(A3,12) Text-to-Speech (TTS) (Enhanced)</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/speech-evaluation/">(A3,13) Speech Evaluation (Enhanced)</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/localisation-and-edictionary/">(A3,14) Localisation and E-Dictionary</a></li>
 </ul>
