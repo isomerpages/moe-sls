@@ -59,8 +59,11 @@ variant: markdown
       <td style="text-align: left;"><p>You may refer to these subject specific guides (requires iCON account):</p>
 <ul><li><a target="_blank" href="https://go.gov.sg/esba-userguide-el">2023 N(T) English Language Paper 1</a></li>
 <li><a target="_blank" href="https://drive.google.com/drive/folders/1jJnA7KwsU-JKShaays224Mi7hCC9a6wI">2024 Basic MTL Paper 1</a></li>
-<li><a target="_blank" href="https://drive.google.com/drive/folders/1O6IIoTTokPiWmb_Ekz4ZbQvA1k3rJ66z?usp=drive_link">2024 N(A) Social Studies</a></li>
-</ul></td>
+<li><a target="_blank" href="https://drive.google.com/drive/folders/1O6IIoTTokPiWmb_Ekz4ZbQvA1k3rJ66z?usp=drive_link">2024 N(A) Social Studies</a></li></ul>
+<p><u>Supporting Resource</u>:</p>
+<li>This <a href="google.com">video</a> shows how you can check the eSBA url.
+</li>
+</td>
     </tr>
     <tr>
       <td><p>Eliciting Voices of Students with Diverse Learning Needs – A Resource Guide</p></td>
