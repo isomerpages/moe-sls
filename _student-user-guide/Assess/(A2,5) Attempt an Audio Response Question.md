@@ -26,6 +26,11 @@ variant: markdown
 
 <li>In an Auto-Graded Quiz and a Teacher-Marked Quiz, you can only submit your response after attempting the last question.</li>
 </ol>
+<u>Note</u>: 
+<ul>
+	<li>For draft answers, you will be able to see the name of the student or teacher who saved the draft and the time it was saved.</li>
+<li>For submitted and unsubmitted answers, you will be able to see the name of the student or teacher who submitted/unsubmitted the answer and the time it was submitted/unsubmitted.</li>
+</ul>
 <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did You Know</u>:</p>
 <ul>
 <li>If your teacher has set a recommended time, you will be able to see it below the Question number.</li>
