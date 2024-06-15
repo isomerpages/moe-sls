@@ -15,7 +15,7 @@ variant: markdown
 </li>
 <li>Select <strong>Audio-Response</strong>. Below are the types of ARQ options you can choose from:<ul>
 	<li><b>Default</b>: You will evaluate students’ submission and provide Marks and/or Feedback.</li>
-	<li><b><a target="_blank" href="/teacher-user-guide/author/speech-evaluation/">Chinese/Malay/Tamil Language Speech Evaluation</a></b>: The system will provide Marks and/or Feedback.</li>
+	<li><b><a target="_blank" href="/teacher-user-guide/author/speech-evaluation/">Speech Evaluation</a></b>: The system will provide Marks and/or Feedback.</li>
 </ul>
 </li>
 <li>In the Question Body field, enter the question.</li>
