@@ -3,6 +3,7 @@ title: Overview 2021
 permalink: /partners/events/overview-2021/
 description: ""
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <img width="100%" src="/images/3Partners/small_slsmicrositeimage.png">           
 <h1 class="section-title">Welcome to SLS Pitch Day</h1>
@@ -84,7 +85,7 @@ image: /images/FaviconLight.png
     </tr>
      <tr><td>15 September</td>
       <td>Pitch Day</td>
-       <td>Pitch by selected proposals. More details <a target="_blank" href="https://go.gov.sg/featuredpitches">here</a>.</td>
+       <td>Pitch by selected proposals. More details <a target="_blank" href="/partners/events/featured-pitches-2021/">here</a>.</td>
     </tr>
     <tr><td>30 September</td>
       <td>Results</td>
