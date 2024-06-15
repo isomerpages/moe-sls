@@ -31,7 +31,7 @@ variant: markdown
 <h2>How to do it</h2>
 <hr>
 <ol>
-  <li>In the <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">Community Gallery</a>, search for digitised exam papers (as Modules) using keywords (“Examinations” or “Assessment”), subject and level filters.</li>
+  <li>In the <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">Community Gallery</a>, search for digitised exam papers (as Modules) using "SBA" as the keyword together with subject and level filters.</li>
   <li><a target="_blank" href="/teacher-user-guide/discover/make-a-copy-of-a-module/">Copy to My Drive</a> and assign it to your students for practice or edit it to cater to your students’ learning needs.</li>
 </ol>
 
