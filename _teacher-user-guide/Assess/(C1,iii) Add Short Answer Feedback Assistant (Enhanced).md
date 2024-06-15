@@ -126,7 +126,5 @@ would be 500 words long. The default Response Size is set to <strong>Medium</str
 <tr><td><strong>Teacher Marked Quiz (after release)</strong></td><td>✓</td><td>✓</td><td>NA</td><td>NA</td><td>✗</td><td>✗</td></tr>
 </tbody></table>
 <p><u>Supporting Resource</u>:</p>
-<ul data-tight="true" class="tight">
 <li>This <a target="_blank" href="/files/Marcomms/Feature%20Highlights/shortansfaposter.pdf">e-poster</a> summarises the tips for writing Suggested Answers for ShortAnsFA.
 </li>
-</ul>
