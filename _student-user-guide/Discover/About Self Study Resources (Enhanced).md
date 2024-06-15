@@ -15,21 +15,20 @@ variant: markdown
 <li>My Drive</li>
 </ul>
 <p>When a Module is attempted from one of the above three locations, it will be automatically added to the Self-Study List.</p>
-<h3>About MOE Library</h3>
+<h2>About MOE Library</h2>
 <hr>
 <p>The MOE Library contains resources created and curated by the Ministry of Education (MOE) that complement your learning in school. You have access to Modules for all levels and subjects.</p>
 <p><u>Note</u>: Due to certain licensing agreements, you may be unable to load some images, audio files, videos and documents if you are not taking a subject or are accessing the SLS outside Singapore.</p>
-<h3>About Class Group Resources (Enhanced)</h3>
+<h2>About Class Group Resources (Enhanced)</h2>
 <hr>
 <p>Class Group Resources are Modules that are uploaded by your teachers to the Class Group. These modules are not assignments and do not have a due date.
 </p><p>
 <img src="/images/1Student/d_selfstudyresources1.jpg">
-</p><p>	    
-	
-1. You can sort Resources in Class Groups to find them easily.
-2. On the Resource tab in the Class Group, select a category from the dropdown menu. Click <b>Apply</b>.
-3. Click <b>Sort By</b> and you can now sort the Resources according to modified date, date added or title.
-	
-</p><h3>About My Drive</h3>
+</p>  
+<ol><li>
+	You can sort Resources in Class Groups to find them easily.</li>
+<li>On the Resource tab in the Class Group, select a category from the dropdown menu. Click <b>Apply</b>.</li>
+<li>Click <b>Sort By</b> and you can now sort the Resources according to modified date, date added or title.</li></ol>
+<h2>About My Drive</h2>
 <hr>
 <p>The My Drive is a folder containing Modules you have copied from MOE Library, Class Group Resources, and Assignments. You can reattempt Assignments that have been assigned as part of revision.</p>
