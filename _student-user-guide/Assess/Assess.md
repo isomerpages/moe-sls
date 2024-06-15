@@ -37,7 +37,7 @@ variant: markdown
 <li><a target="_blank" href="/student-user-guide/assess/insert-and-edit-links/">(A3,7) Insert &amp; Edit Links</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/insert-emoticon/">(A3,8) Insert Emoticon</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/insert-tooltip/">(A3,9) Insert Tooltip</a></li>
-<li><a target="_blank" href="/student-user-guide/assess/text-to-speech/">(A3,10) Text-to-Speech (TTS)</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/text-to-speech/">(A3,10) Text-to-Speech (TTS) (Enhanced)</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/speech-evaluation/">(A3,11) Speech Evaluation (Enhanced)</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/edictionary/">(A3,12) E-Dictionary</a></li>
 </ul>
