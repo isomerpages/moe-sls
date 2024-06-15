@@ -17,13 +17,14 @@ variant: markdown
 <li>In the Question Body field, enter the main question stem. This question stem will serve as the context for all subsequent sub-questions in this multipart question.</li>
 <li><p>Click <strong>+</strong> button to add sub-questions which can be: </p>
 <ul>
-<li>Multiple Choice</li>
-<li>Fill-in-the-Blanks</li>
-<li>Click-and-Drop</li>
-<li>Error-Editing</li>
-<li>Free-Response</li>
-<li>Audio-Response</li>
-<li><p>Multi-Part Question</p></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-multiple-choice-questions/">Multiple-Choice</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-fill-in-the-blanks-questions/">Fill-in-the-Blanks</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-click-and-drop-questions/">Click-and-Drop</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-error-editing-questions/">Error-Editing</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-free-response-questions/">Free-Response</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-audio-response-questions/">Audio-Response</a></li>
+<li><p><a target="_blank" href="/teacher-user-guide/author/add-multi-part-questions/">Multi-part Question</a></p>
+</li>
 </ul>
 </li>
 <p><u>Note</u>: Multi-Part Questions can be added for a maximum of two sub-levels. This will result in questions bearing the following numbering system - Q1 a.i. and 1 a.ii.</p>
