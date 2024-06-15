@@ -127,7 +127,6 @@ would be 500 words long. The default Response Size is set to <strong>Medium</str
 </tbody></table>
 <p><u>Supporting Resource</u>:</p>
 <ul data-tight="true" class="tight">
-<li>This <a target="_blank" href="https://www.google.com/search?q=shortansfa+feature+higlight&amp;sca_esv=dbee7c48f4c3b6c5&amp;sca_upv=1&amp;ei=toM0Zqm7EdCO4-EPhLyvmAI&amp;ved=0ahUKEwip7pD27PCFAxVQxzgGHQTeCyMQ4dUDCBA&amp;uact=5&amp;oq=shortansfa+feature+higlight&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiG3Nob3J0YW5zZmEgZmVhdHVyZSBoaWdsaWdodDIFECEYoAEyBRAhG">e-poster</a> summarises the tips for writing Suggested Answers for ShortAnsFA.
+<li>This <a target="_blank" href="/files/Marcomms/Feature%20Highlights/shortansfaposter.pdf">e-poster</a> summarises the tips for writing Suggested Answers for ShortAnsFA.
 </li>
 </ul>
-<hr>
