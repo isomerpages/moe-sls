@@ -66,8 +66,7 @@ variant: markdown
 <u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
 <p>Three of the Last Used Components will be featured at the back of the Component Bar for easy access.</p>
 <img style="width: 50%;" src="/images/2Teacher/AU-AddComponent5.png">
-<p></p>
-	<h2 id="-edit-components-">Edit Components</h2>
+<p></p><h2 id="-edit-components-">Edit Components</h2>
 <hr><ol>
 <p></p><li>You can add a new Component by clicking the <b>+</b> button in between Components.</li>
 	<li>You can delete a Component by clicking the <b>Trash</b> icon.</li>
