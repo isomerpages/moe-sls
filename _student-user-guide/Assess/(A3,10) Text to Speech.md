@@ -8,8 +8,7 @@ variant: markdown
 ---
 <h1>(A3,10) Text-to-Speech</h1>
 <p><u>Note</u>: Text-to-Speech is only available in Chinese, Malay and Tamil.</p>
-<hr>
-<ol data-tight="true" class="tight">
+<ol>
 <li>
 <p>If Text-to-Speech (TTS) has been enabled by your teacher, you will see
 an audio clip in your Assignment. The text to the audio clip is found below.</p>
