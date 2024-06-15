@@ -39,6 +39,9 @@ variant: markdown
 <li><a target="_blank" href="https://drive.google.com/drive/folders/1O6IIoTTokPiWmb_Ekz4ZbQvA1k3rJ66z?usp=drive_link">2024 N(A) Social Studies</a></li>
 </ul>
 </ul>
+<p><u>Supporting Resource</u>:</p>
+<li>This <a href="google.com">video</a> shows how you can check the eSBA url.
+</li>
 <h2>Related articles</h2>
 <hr>
 <ul>
