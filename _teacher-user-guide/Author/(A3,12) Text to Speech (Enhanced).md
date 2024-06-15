@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="text-to-speech-tts-">(A3,12) Text-to-Speech</h1>
+<p><u>Important</u>: From R1, Text-to-Speech is available in English, Chinese, Malay and Tamil.</p>
 <h2 id="create-text-to-speech-audio-clip">Create Text-to-Speech audio clip</h2>
 <hr>
 <ol>
@@ -18,6 +19,5 @@ variant: markdown
 <p><img style="width: 100%;" src="/images/2Teacher/AU-TextToSpeech2.png"></p>
 </li>
 <li><p>If there are no further changes to the audio clip, click <strong>Save</strong>.</p>
-</li><li><p>Text-to-Speech supports EL and MTL (enhancement from V2 R1).	
-</p></li>
+</li>
 </ol>
