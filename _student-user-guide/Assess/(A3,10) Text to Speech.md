@@ -16,9 +16,7 @@ an audio clip in your Assignment. The text to the audio clip is found below.</p>
 </li>
 <li>
 <p>Click the <strong>Play</strong> icon to begin the clip.</p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/1Student/As-TTS.png">
-</div>
 </li>
 <li>
 <p>You can also <strong>Pause</strong> <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pause.svg">and <strong>Restart</strong>
@@ -28,9 +26,7 @@ an audio clip in your Assignment. The text to the audio clip is found below.</p>
 <p>You can also listen to a line-by-line reading of the audio clip. To do
 so, click the <strong>Expand</strong> icon 
 <img style="width:1.2rem; display: inline;" height="auto" width="100%" src="/images/Icons/external-link.svg"> and select the sentence to begin.</p>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" src="/images/1Student/As-TTS1.png">
-</div>
 </li>
 <li>
 <p>When you are done, click <strong>X</strong> to close the Text-to-Speech
