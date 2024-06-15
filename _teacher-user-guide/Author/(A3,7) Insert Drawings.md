@@ -28,15 +28,15 @@ variant: markdown
 	<ul> <li>To draw with a mouse, click and drag the cursor using your mouse.</li>
 		<li>To draw with your finger or stylus on a tablet, apply pressure on the screen while moving your finger or stylus.</li></ul>
 <li><b>Text</b>: To insert text, click on the text box button and begin typing.</li>
-	<li><b>Image</b>: To insert a background image, click on the image button and upload an image from your computer. <b>(NEW)</b></li>
+	<li><b>Image</b>: To insert a background image, click on the image button and upload an image from your computer. <b></b></li>
 	<ul> 
 		<li>Draw/write on the background image using the pencil/marker tool or by inserting a text box.</li>
 		<li>Insert a text over the background image using the text box.</li></ul>
 	<li><b>Delete</b>: To erase any part of your drawing or text, click the <b>Select</b> icon, select the part and click&nbsp;Delete.</li>
 	<li><b>Move</b>: To move your drawing or text, click the <b>Select</b> icon, select the object or text and move it.</li>
-	<li><b>Undo/Redo</b>: Undo/redo the most recent stroke by clicking&nbsp;Undo/Redo. <b>(NEW)</b></li>
+	<li><b>Undo/Redo</b>: Undo/redo the most recent stroke by clicking&nbsp;Undo/Redo.</li>
 	<li><b>Clear All</b>: Remove all drawings/images by clicking&nbsp;<b>Clear All</b>.</li>
-		<li><b>Zoom</b>: Zoom in/out of the image/drawings by clicking the respective icons. <b>(NEW)</b></li>
+		<li><b>Zoom</b>: Zoom in/out of the image/drawings by clicking the respective icons.</li>
 </ul>
 
 <h2 id="-resizing-rotating-the-final-drawing-">Resizing/Rotating the final drawing</h2>
