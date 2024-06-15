@@ -15,7 +15,7 @@ variant: markdown
 <img alt="Assign Community Gallery Lessons" style="width: 80%;" src="/images/2Teacher/AS-AssignCommunity1.png">
 	<li>You can rename the Title and Choose a Folder to copy the Module to. Then click <b>Copy</b>.</li>
 <li>A copy of the Community Gallery Module will appear in <b>My Drive</b>. From there, you can 
-<a target="_blank" href="/teacher-user-guide/assign/add-assignments-to-class-group/">Assign to your Class Groups</a></li>
+<a target="_blank" href="/teacher-user-guide/assign/add-or-sort-assignments-in-class-group/">Assign to your Class Groups</a></li>
 <li>You may wish to rename the Assignment Title and edit the Permission Settings. The following Module Permissions are available:
 <ol style="list-style-type: lower-alpha;">
 <li><strong>Allow teachers to copy/assign/publish and students to copy this Module</strong></li>
