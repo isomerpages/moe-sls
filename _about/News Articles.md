@@ -24,7 +24,7 @@ variant: markdown
 <p>There has been a sizeable shift towards digital learning in secondary schools, with more lessons conducted in the Singapore Student Learning Space (SLS), MOE’s online learning portal.</p>
 <p>Straits Times, Published: 2nd October, 2023</p>
 <hr>
-<h4><a href="https://sbr.com.sg/economy/news/moe-implement-more-ai-tools-detailed-education">MOE to implement more AI tools for detailed education</a></h4>
+<h4><a href="https://sbr.com.sg/economy/news/moe-implement-more-ai-tools-detailed-education" target="_blank">MOE to implement more AI tools for detailed education</a></h4>
 <p>The Ministry of Education (MOE) is set to introduce more AI features into the Singapore Student Learning Space (SLS) to enhance students' learning experiences and complement teacher guidance.</p>
 <p>Singapore Business Review, Published: 21st September 2023</p>
 <hr>
