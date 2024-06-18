@@ -4,13 +4,14 @@ permalink: /teacher-user-guide/enact/change-access-to-activities/
 description: ""
 third_nav_title: Enact
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="change-access-to-activities">(A1) Change Access to Activities</h1>
 <p>There are 3 ways to give students access to an Assignment:</p>
 <ol>
-<li>Managing Students Assigned</li>
-<li>Controlling Activity Access</li>
-<li><a target="_blank" href="/teacher-user-guide/differentiate/add-section-prerequisites/">Setting Prerequisite Sections</a></li>
+<li>Manage Students Assigned</li>
+<li>Control Activity Access</li>
+<li><a target="_blank" href="/differentiate/add-activity-quiz-section-prerequisites/">Add Activity, Quiz or Section Prerequisites</a></li>
 </ol>
 <h2 id="managing-students-assigned">Managing Students Assigned</h2>
 <hr>
