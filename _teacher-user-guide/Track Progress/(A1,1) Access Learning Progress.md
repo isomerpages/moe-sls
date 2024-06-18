@@ -69,7 +69,7 @@ variant: markdown
 </ol>
 </li>
 </ol>
-<p><u>Note</u>: You can also search for subject resources from MOE Library, Community Gallery, and My Drive. Refer to <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">Search for Resources</a> to find out how to search for resources.</p>
+<p><u>Note</u>: You can also search for subject resources from <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">MOE Library, Community Gallery, and My Drive</a>.</p>
 
 <h2>Video Tutorial</h2>
 <hr>
