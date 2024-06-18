@@ -14,7 +14,7 @@ variant: markdown
   <li>Open the left menu from the header on the homepage. Click <strong>Resources</strong>, followed by <strong>My Drive</strong>. By default, you will be in the My Modules tab.</li>
   <li>Select <strong>My Templates</strong> to view your saved Module Templates.</li>
   <li>To add a new template, click <strong>Add New Template</strong>.</li>
-  <li><a target="_blank" href="/teacher-user-guide/author/create-new-lessons/">Design a Module</a> as per usual. Module Templates will be indicated with a grey banner on the Module Editor and Module View page.</li>
+  <li><a target="_blank" href="/teacher-user-guide/author/create-new-modules/">Design a Module</a> as per usual. Module Templates will be indicated with a grey banner on the Module Editor and Module View page.</li>
 </ol>
 <br><img alt="Manage My Templates" style="width: 80%;" src="/images/2Teacher/Cu-LessonTemplate.png">
 <p><u>Note</u>: Instead of creating a new Template from scratch, you can also set an existing Module as a Template by selecting <strong>Set as Template</strong> from the right menu.</p>
