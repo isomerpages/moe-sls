@@ -42,7 +42,7 @@ third_nav_title: Discover
 	<li>Create new activities in the Section by clicking <strong>Add New</strong> and selecting Activity.
 		<br><u>Note</u>:
 	<ul>
-		<li>For each Section, it is recommended to have 3 activities and 1 progressive quiz. These activities should correspond to the <a target="_blank" href="https://sites.google.com/moe.edu.sg/guide-to-e-pedagogy/edtech-ps/learning-experiences/active-learning-processes?authuser=0">Active Learning Processes (ALPs)</a> (<strong>iCON login is required</strong>).
+		<li>For each Section, it is recommended to have 3 activities and 1 progressive quiz. These activities should correspond to the <a target="_blank" href="https:/go.gov.sg/epedagogyguide">Active Learning Processes (ALPs) outlined in the e-Pedagogy Guide </a>.
 		<table>
 <tbody><tr><th> Activities in Section</th><th>Active Learning Process </th><th>Suggested Content</th></tr>
 <tr><td>Activity 1</td><td>ALP 1: Activate Learning</td><td>Videos, interactive tools, open-ended questions to activate students’ prior knowledge</td></tr>
@@ -59,7 +59,7 @@ third_nav_title: Discover
 	<li>Select the appropriate Active Learning Process for each Activity from the dropdown list. Click the Save icon<img alt="save" style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed to populate the content for the Activity.<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS11.png"></li>
 	<li>Create a Progressive Quiz in the Section by clicking <strong>Add New</strong> and selecting <strong>Quiz</strong>. The default Quiz Mode is Progressive Quiz.<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS12.png"></li>
 	<li>ALS can support a range of question types: Multiple-Choice, Fill-in-the-Blanks, Click-and-Drop, Error Editing, Free-Response, and Multi-Part Questions. AI-enabled questions, such as FA-Math or ShortAnsFA questions can also be added to the quiz. Each question should be on a separate page.<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS13z.png"></li>
-	<li>Click the Settings icon <img alt="Setting" style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the Question card.<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS14.png"></li>
+	<li>Click the Settings icon <img alt="Setting" style="width:1.5rem; display: inline;" src="/images/Icons/setting.svg"> on the Question card.<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS14.png"></li>
 	<li>Click <strong>Add Question Tag</strong>. <img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS15.png"></li>
 	<li>Select the Subject and Level. From the Content Map dropdown list, select the content map with ‘(ALS)’ indicated. Select the Skill Level of the question. Select the checkbox with the orange Learning Outcome icon <img alt="learningoutcome" style="width:1.5rem; display: inline;" src="/images/Icons/learningoutcome.svg"> next to the learning outcome assessed by the question.
 <br>
