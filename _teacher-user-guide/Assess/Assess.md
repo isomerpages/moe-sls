@@ -96,9 +96,9 @@ that can be used on SSOE2 ACAD device with ITD lock down mode.</p>
 </li>
 <li><strong>How can schools best prepare their students for e-School Based Assessment (e-SBA) in terms of processes to put in place to trial (e.g. as a class test) before the actual use of SLS for national examinations?</strong>
 <p>Schools can refer to the two emails sent by the English Language and Literature Branch (ELLB) in Nov 2022 and Humanities Branch (HUMB) in Jan 2023 regarding preparation for e-assessment. The emails were addressed to the respective subject HODs.</p>
-<p>The SLS Office had conducted briefings on e-SBA at the Oct 2022 and Oct 2023 HOD/ICT meetings. The slides can be accessed on the <a target="_blank" href="https://intranet.moe.gov.sg/itd/Pages/itepm.aspx">MOE intranet - IT Education Programme for MOE</a>.</p> 
+<p>The SLS Office had conducted briefings on e-SBA at the Oct 2022 and Oct 2023 HOD/ICT meetings. The slides can be accessed on the <a target="_blank" href="https://intranet.moe.gov.sg/itd/Pages/itepm.aspx">MOE intranet - IT Education Programme for MOE</a> (requires Intranet access).</p> 
 <p>Schools may also refer to <a target="_blank" href="/teachers/sls-superhero-quiz/conduct-eassessments-in-class/">Subject-Specific guides</a>.</p>
-<p>Schools are also advised to access the following documents in guiding the school to trial the processes prior to national examinations on the Intranet website. The information is as follows: Briefing to HODs ICT (11 and 12 Oct 2022), Item 5. School based e-Assessment (e-SBA) in SLS.​</p></li>
+<p>Schools are also advised to access the following documents in guiding the school to trial the processes prior to national examinations on the <a target="_blank" href="https://intranet.moe.gov.sg/itd/Pages/itepm.aspx">Intranet</a> website. The information can be accessed within Briefing to HODs ICT (11 and 12 Oct 2022), Item 5. School based e-Assessment (e-SBA) in SLS.​</p></li>
 
 <li><strong>Can students edit their answers in SLS after they have submitted their response? Is there a plan for such a feature in the pipeline?</strong>
 <p>Currently, for standalone question components that are not in quizzes such as Multiple Choice Questions (MCQ), Fill-in-the-Blanks, Click-and-Drop and Error-Editing, students are unable to edit their answers after they have submitted their responses.&nbsp;</p>
