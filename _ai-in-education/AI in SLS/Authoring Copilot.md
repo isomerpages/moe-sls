@@ -37,7 +37,7 @@ teacher.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Autogenerates components </strong>
+<p><strong>Autogenerates components</strong>
 </p>
 <p>Creates suitable components and suggested activities, providing teachers
 with a more accessible way to use SLS authoring features.</p>
