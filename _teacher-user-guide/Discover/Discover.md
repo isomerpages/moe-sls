@@ -79,7 +79,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your Modules.
 <p></p><p>Schools are highly encouraged to first check in with their respective Cluster ETOs. As ALS is already rolled out to all schools for Primary 5 students for three topics - Decimals, Whole Numbers and Percentages, schools may refer to the following resources below.</p>
 <ol>
 <li><a target="_blank" href="https://go.gov.sg/als-eped">ALS e-Pedagogy Guide</a></li>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/als%2024%20jul.pdf">ALS e-poster</a></li>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/als_14_feb.pdf">ALS e-poster</a></li>
 <li><a target="_blank" href="https://www.youtube.com/watch?v=VOLmizePspE">Detailed video walkthrough</a></li>
 <li><a target="_blank" href="/student-user-guide/self-study/access-adaptive-learning-system/">Information on SLS Info guide</a></li>
 </ol><p></p></li>
