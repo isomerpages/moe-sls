@@ -54,7 +54,7 @@ third_nav_title: Discover
 		<li>Each activity should be designed to be completed independently, as the recommended activities by ALS may not follow a specific sequence.
 			<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS9.png"></li>
 	</ul></li>
-	<li>Click the Settings icon <img alt="setting" style="width:1.5rem; display: inline;" src="/images/Icons/Setting.svg"> from the Activity card.
+	<li>Click the Settings icon <img alt="setting" style="width:1.5rem; display: inline;" src="/images/Icons/setting.svg"> from the Activity card.
 	<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS10.png"></li>
 	<li>Select the appropriate Active Learning Process for each Activity from the dropdown list. Click the Save icon<img alt="save" style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed to populate the content for the Activity.<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS11.png"></li>
 	<li>Create a Progressive Quiz in the Section by clicking <strong>Add New</strong> and selecting <strong>Quiz</strong>. The default Quiz Mode is Progressive Quiz.<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS12.png"></li>
