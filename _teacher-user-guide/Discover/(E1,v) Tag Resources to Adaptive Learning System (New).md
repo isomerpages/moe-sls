@@ -42,7 +42,7 @@ third_nav_title: Discover
 	<li>Create new activities in the Section by clicking <strong>Add New</strong> and selecting Activity.
 		<br><u>Note</u>:
 	<ul>
-		<li>For each Section, it is recommended to have 3 activities and 1 progressive quiz. These activities should correspond to the <a target="_blank" href="https://sites.google.com/moe.edu.sg/guide-to-e-pedagogy/edtech-ps/learning-experiences/active-learning-processes?authuser=0">Active Learning Processes (ALPs)</a>.
+		<li>For each Section, it is recommended to have 3 activities and 1 progressive quiz. These activities should correspond to the <a target="_blank" href="https://sites.google.com/moe.edu.sg/guide-to-e-pedagogy/edtech-ps/learning-experiences/active-learning-processes?authuser=0">Active Learning Processes (ALPs)</a> (<strong>iCON login is required</strong>).
 		<table>
 <tbody><tr><th> Activities in Section</th><th>Active Learning Process </th><th>Suggested Content</th></tr>
 <tr><td>Activity 1</td><td>ALP 1: Activate Learning</td><td>Videos, interactive tools, open-ended questions to activate students’ prior knowledge</td></tr>
