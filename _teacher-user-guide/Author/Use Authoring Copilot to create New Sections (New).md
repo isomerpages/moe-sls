@@ -51,7 +51,7 @@ Click the dropdown arrow located on the right of the Module Tag field to select 
 </ul>
 </li>
 <li>
-In the Additional Details field, add broad pedagogical considerations for specific curricular outcomes. This can include specifying <a target="_blank" href="https://sites.google.com/moe.edu.sg/guide-to-e-pedagogy/edtech-ps/learning-experiences/e-pedagogy-learning-experiences">learning experience(s)</a> (requires iCON account) with their description(s), incorporating <a target="_blank" href="https://go.gov.sg/21cc">21CC</a> and <a target="_blank" href="https://for.edu.sg/dl-guide">Digital Competencies</a>, and directing the ACP to create success criteria from the learning outcomes. 
+In the Additional Details field, add broad pedagogical considerations for specific curricular outcomes. This can include specifying <a target="_blank" href="https://sites.google.com/moe.edu.sg/guide-to-e-pedagogy/edtech-ps/learning-experiences/e-pedagogy-learning-experiences">learning experience(s)</a> (requires iCON login) with their description(s), incorporating <a target="_blank" href="https://go.gov.sg/21cc">21CC</a> and <a target="_blank" href="https://for.edu.sg/dl-guide">Digital Competencies</a>, and directing the ACP to create success criteria from the learning outcomes. 
 
 <u>Note</u>: 
 <ul>
