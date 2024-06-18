@@ -59,7 +59,7 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <summary><h4>F. More about My Drive</h4></summary>
 
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/organise/copy-lessons-within-my-drive/">(F1,i) Copy Modules within My Drive</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/copy-modules-within-my-drive/">(F1,i) Copy Modules within My Drive</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/manage-folders/">(F1,ii) Manage Folders</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/restore-resources-from-trash/">(F1,iii) Restore Resources from Trash</a></li>
 </ul>
