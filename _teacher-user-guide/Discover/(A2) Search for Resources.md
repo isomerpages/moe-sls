@@ -93,7 +93,7 @@ variant: markdown
 
 <li>To view the Module Details, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Module card, followed by <strong>View Details</strong>. Click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg"> to open the Module in a new tab.</li>
 <li>To view the Module Reviews, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Module card, followed by <strong>See Reviews</strong>. Click <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">here</a> to learn how to leave a Review.</li>
-<li>To make a copy of the Module, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Module card, followed by <strong>Copy To</strong>. Click <a target="_blank" href="/teacher-user-guide/organise/copy-lessons-within-my-drive/">here</a> to learn how to copy a resource to My Drive.</li>
+<li>To make a copy of the Module, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Module card, followed by <strong>Copy To</strong>. Click <a target="_blank" href="/teacher-user-guide/organise/copy-modules-within-my-drive/">here</a> to learn how to copy a resource to My Drive.</li>
 </ol>
 
 <h2>Video Tutorial</h2>
