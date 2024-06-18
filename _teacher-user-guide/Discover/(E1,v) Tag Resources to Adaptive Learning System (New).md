@@ -39,7 +39,8 @@ third_nav_title: Discover
 		<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS7.png">
 	</li>
 	<li>Click the <strong>Save</strong> icon <img alt="save" style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed.</li>
-	<li>Create new activities in the Section by clicking <strong>Add New</strong> and selecting Activity.<u>Note</u>:
+	<li>Create new activities in the Section by clicking <strong>Add New</strong> and selecting Activity.
+		<br><u>Note</u>:
 	<ul>
 		<li>For each Section, it is recommended to have 3 activities and 1 progressive quiz. These activities should correspond to the <a target="_blank" href="https://sites.google.com/moe.edu.sg/guide-to-e-pedagogy/edtech-ps/learning-experiences/active-learning-processes?authuser=0">Active Learning Processes (ALPs)</a>.
 		<table>
