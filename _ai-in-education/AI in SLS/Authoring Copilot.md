@@ -63,7 +63,7 @@ on a Knowledge Base that is appended by the teacher.</p>
 <p>Teachers User Guide (UG) which includes step-by-step guidance:</p>
 <ul>
 <li>
-<p><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections//" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
+<p><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
 </p>
 </li>
 </ul>
