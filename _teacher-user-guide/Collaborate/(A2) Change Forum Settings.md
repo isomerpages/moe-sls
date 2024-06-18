@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="-2-change-forum-settings">(A2) Change Forum Settings</h1>
-<h3 id="topics-settings">Topics Settings</h3>
+<h2 id="topics-settings">Topics Settings</h2>
 <hr>
 <p>Teachers are able to change the permission settings to allow or disallow Observers and Students to create posts within a topic.</p>
 <ol>
@@ -17,7 +17,7 @@ variant: markdown
 <li>Select or deselect the checkbox “Allow Observers and Students to create Posts”.</li>
 </ol>
 <p><img alt="Change Forum Settings" style="width: 80%;" src="/images/2Teacher/C-TopicPermission.png"></p>
-<h3 id="poll-settings">Poll Settings</h3>
+<h2 id="poll-settings">Poll Settings</h2>
 <hr>
 <p>Teachers are able to change the permission settings to allow or disallow Observers and students to create a poll.</p>
 <ol>
@@ -25,7 +25,7 @@ variant: markdown
 <p><img alt="Change Forum Settings" style="width: 100%;" src="/images/2Teacher/C-Poll1.png"></p>
 <li>Click <strong>Save</strong> to confirm.</li>
 </ol>
-<h3 id="comment-settings">Comment Settings</h3>
+<h2 id="comment-settings">Comment Settings</h2>
 <hr>
 <p>The owners of posts and teachers who are Owners/Co-teachers are able to change commenting permission by turning it off or on.</p>
 <ol>
