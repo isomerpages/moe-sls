@@ -8,9 +8,7 @@ third_nav_title: AI in SLS
 ---
 <h1>Adaptive Learning System</h1>
 <p>The ALS provides a&nbsp;personalised&nbsp;learning pathway for&nbsp;each
-student. It is currently available for Primary 5 and 6 Mathematics and
-Foundation Mathematics, for the topics of Whole Numbers, Decimals, Percentage
-and Fractions. More topics, levels and subjects will be added progressively.</p>
+student. It is currently available for Mathematics (Upper Primary) and Geography (Upper Secondary). More topics, levels and subjects will be added progressively.</p>
 <div class="bp-youtube">
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/cWkoFG32Aho?si=1jTpNek6x669Rskj" title="Adaptive Learning System" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 <h2>How does ALS enhance teaching and learning?</h2>
