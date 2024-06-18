@@ -13,7 +13,7 @@ variant: markdown
 <li>Control Activity Access</li>
 <li><a target="_blank" href="/differentiate/add-activity-quiz-section-prerequisites/">Add Activity, Quiz or Section Prerequisites</a></li>
 </ol>
-<h2 id="managing-students-assigned">Managing Students Assigned</h2>
+<h2 id="managing-students-assigned">Manage Students Assigned</h2>
 <hr>
 <ol>
 <li>For new Assignments, from the Assignment Summary page, click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> on the card to open the Assignment Settings subpage. </li>
@@ -25,7 +25,7 @@ variant: markdown
 </li>
 </ol>
 <p><img style="width: 80%;" src="/images/2Teacher/EN-ChangeAccess1.png"></p>
-<h2 id="controlling-activity-access">Controlling Activity Access</h2>
+<h2 id="controlling-activity-access">Control Activity Access</h2>
 <hr>
 <ol>
 <li>On the Assignment Settings subpage, select the <strong>Activity Assignment</strong> tab to control access to the activity for the different Teams. This function allows activities to be attempted by different groups of students. Click <a target="_blank" href="/teacher-user-guide/collaborate/create-teams/">here</a> to find out more about Teams.</li>
