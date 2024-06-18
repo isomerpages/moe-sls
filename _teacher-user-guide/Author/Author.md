@@ -26,8 +26,8 @@ variant: markdown
 
 <p>A2. Add Components</p>	
 <ul>
-<li><a href="/teacher-user-guide/author/add-components/" target="_blank">(A2,1) Add Components (Enhanced)</a></li>
-<li><a href="/teacher-user-guide/author/add-split-page-media/" target="_blank">(A2,2) Add Split-page Media (New)</a></li>
+<li><a href="/teacher-user-guide/author/add-components/" target="_blank">(A2,1) Add Components</a></li>
+<li><a href="/teacher-user-guide/author/add-split-page-media/" target="_blank">(A2,2) Add Split-page Media</a></li>
 <li><a href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/" target="_blank">(A2,3) Upload Question and Test Interoperability (QTI) Files</a></li>
 <li><a href="/teacher-user-guide/author/add-multiple-choice-questions/" target="_blank">(A2,4) Add Multiple-Choice Questions</a></li>
 <li><a href="/teacher-user-guide/author/add-fill-in-the-blanks-questions/" target="_blank">(A2,5) Add Fill-in-the-Blank Questions</a></li>
