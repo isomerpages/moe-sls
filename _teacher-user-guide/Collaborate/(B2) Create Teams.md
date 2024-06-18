@@ -73,7 +73,7 @@ variant: markdown
 <p>Click <strong>Back to Assignment Settings</strong> to return to the Assignment Settings subpage.</p>
 </li>
 <li>
-<p>To delete a team, click the <strong>Overflow</strong> <strong>(3-dot</strong> icon**)**, followed by <strong>Delete</strong>. Click <strong>OK</strong> to confirm.</p>
+<p>To delete a team, click the <strong>Overflow</strong>(<strong>3-dot</strong> icon), followed by <strong>Delete</strong>. Click <strong>OK</strong> to confirm.</p>
 </li>
 <li>
 <p>Click <strong>Save</strong>, followed by <strong>X</strong>.</p>
