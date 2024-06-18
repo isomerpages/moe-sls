@@ -12,7 +12,7 @@ variant: markdown
 <hr>
 <ul>
 <li>Update the Module Description to give other users an overview of what the Module is about.</li>
-<li>Tag your Module with the appropriate Module Tag. You may refer to <a target="_blank" href="/teacher-user-guide/author/add-lesson-tags/">Add Module Tags</a> for more information.</li>
+<li>Tag your Module with the appropriate Module Tag. You may refer to <a target="_blank" href="/teacher-user-guide/author/add-module-tags/">Add Module Tags</a> for more information.</li>
 <li>Ensure collaborative features (eg. Padlet, Mentimeter, Nearpod, etc.) and documents (e.g. Google Docs, Google Slides, etc.) have read-only rights because embedded content can be viewed by all.</li>
 <li>Ensure your Module meets <a target="_blank" href="/teacher-user-guide/publish/copyright-guidelines-for-submission/">Copyright guidelines</a>.</li>
 </ul>
