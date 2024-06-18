@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: AI in SLS
 ---
-<h1>Authoring Copilot (ACP)</h1>
+<h1>Authoring Copilot </h1>
 <p>ACP is an AI-enabled feature in SLS that supports lesson planning for
 all subjects and levels by generating a module and its corresponding sections,
 activities and components based on a teacher's inputs.</p>
