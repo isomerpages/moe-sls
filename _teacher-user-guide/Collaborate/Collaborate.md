@@ -56,9 +56,9 @@ variant: markdown
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/jigsaw-activities-for-teamwork/">(E1,iii) Jigsaw Activities for Teamwork</a></li>
 <li><a target="_blank" href="/files/Marcomms/Feature%20Highlights/move existing resources to sls.pdf">(E1,iv) Move Existing Resources to SLS</a></li>	
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/manage-in-class-teaching-more-effectively/">(E1,v) Manage In-Class Teaching more Effectively</a></li>
-	<li><a target="_blank" href="/teachers/sls-superhero-quiz/nurture-collaboration-in-gamified-lessons/">(E1,v) Nurture Collaboration in Gamified Lessons</a></li>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/R18_TeamQuiz.pdf">(E1,vi) Team Quiz + Google</a></li>	
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/TeamsvsSubgroups.pdf">(E1,vii) Teams vs Subgroups</a></li>
+	<li><a target="_blank" href="/teachers/sls-superhero-quiz/nurture-collaboration-in-gamified-modules/">(E1,vi) Nurture Collaboration in Gamified Modules</a></li>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/R18_TeamQuiz.pdf">(E1,vii) Team Quiz + Google</a></li>	
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/TeamsvsSubgroups.pdf">(E1,viii) Teams vs Subgroups</a></li>
 </ul>
 </details>
 <details><summary>
