@@ -11,7 +11,7 @@ variant: markdown
 <p><u>Note</u>:</p>
 <h2>Display Leaderboards for Students from Assignment Settings subpage</h2>
 <hr>
-<p>There are two ways to access the Assignment Settings subpage - when <a target="_blank" href="/teacher-user-guide/assign/create-assignments/">assigning a Lesson</a> and when <a target="_blank" href="/teacher-user-guide/assign/manage-assignments/">managing an Assignment</a>.
+<p>There are two ways to access the Assignment Settings subpage - when <a target="_blank" href="/teacher-user-guide/assign/create-assignments/">assigning a Module</a> and when <a target="_blank" href="/teacher-user-guide/assign/manage-assignments/">managing an Assignment</a>.
 </p><ol>
     <li>
         <p>In the Assignment Settings subpage, click the <strong>Gamification</strong> tab.</p>
@@ -25,7 +25,7 @@ variant: markdown
 <hr>
 <ol>
     <li>On the <a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/"> Monitor Assignment</a> page, select the <strong>Game Experience</strong> tab.</li>
-	<li><p>You may choose to view the Individual or Team Leaderboard for the gamified Lesson.</p>
+	<li><p>You may choose to view the Individual or Team Leaderboard for the gamified Module.</p>
 			<p><u>Note</u>: The Individual and Team Leaderboards can be turned on/off anytime.</p>
 <ol style="list-style-type: lower-alpha;">
             <li>

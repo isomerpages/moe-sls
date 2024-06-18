@@ -56,5 +56,5 @@ variant: markdown
 </ol>
 <h2 id="-get-temporary-access-to-sls-">Get Temporary Access to SLS</h2>
 <hr>
-<p>If you need to log in to the SLS during class and have forgotten your password, your&nbsp;subject&nbsp;teacher can generate a 2-Hour Temporary Password (2HTP).&nbsp;The 2HTP will grant you full access to your account, with the exception of managing your profile settings.</p>
+<p>If you need to log in to the SLS during class and have forgotten your password, your&nbsp;subject&nbsp;teacher can generate a <a href="/teacher-user-guide/administer/generate-passcode-for-students/" target="_blank">Passcode</a> (formerly known as 2-Hour Temporary Password).&nbsp;The <a href="/teacher-user-guide/administer/generate-passcode-for-students/" target="_blank">Passcode</a> will grant you full access to your account, with the exception of managing your profile settings.</p>
 <p>This is only a temporary solution. If you have forgotten your password, you should try to reset it by following the steps above.</p>

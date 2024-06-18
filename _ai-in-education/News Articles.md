@@ -1,7 +1,7 @@
 ---
 title: News Articles
 permalink: /ai-in-education/news-articles/news-articles/
-variant: tiptap
+variant: markdown
 description: ""
 image: /images/FaviconLight.png
 ---

@@ -13,10 +13,10 @@ variant: markdown
 <br>
 <details><summary><h4>A. Where to find Self-Study resources?</h4></summary>
 <ul>
-<li><a target="_blank" href="/student-user-guide/discover/about-self-study-resources/">About Self-Study Resources (New)</a></li>
-<li><a target="_blank" href="/student-user-guide/discover/access-self-study-resources/">(A1) Access Self-Study Resources (New)</a></li>
-	<li><a target="_blank" href="/student-user-guide/discover/search-for-self-study-resources/">(A2) Search for Resources (New)</a></li>
-<li><a target="_blank" href="/student-user-guide/discover/attempt-self-study-resources/">(A3) Attempt Self-Study Resources (New)</a></li>
+<li><a target="_blank" href="/student-user-guide/discover/about-self-study-resources/">About Self-Study Resources (Enhanced)</a></li>
+<li><a target="_blank" href="/student-user-guide/discover/access-self-study-resources/">(A1) Access Self-Study Resources</a></li>
+	<li><a target="_blank" href="/student-user-guide/discover/search-for-self-study-resources/">(A2) Search for Resources</a></li>
+<li><a target="_blank" href="/student-user-guide/discover/attempt-self-study-resources/">(A3) Attempt Self-Study Resources</a></li>
 </ul>
 </details>
 <details><summary><h4>B. How to use App Library?</h4></summary>

@@ -16,7 +16,7 @@ variant: markdown
 <li>On the Learning Progress page, you can view your Class Group from the&nbsp;<strong>Selection dropdown list</strong>.</li>
 <li>Under <strong>Selection</strong> you may choose to view the Learning Progress for the following:<ul>
 <li>All - Assignments from both Self-Study and Class Group.</li>
-<li>Self-Study - Lessons attempted from MOE Library and My Drive.</li>
+<li>Self-Study - Modules attempted from MOE Library and My Drive.</li>
 <li>Class Group - Assignments assigned to you by your subject teacher.</li>
 </ul>
 	<u>Note</u>: When Self-Study is selected, you will be able to view your Learning Progress across the years by selecting the year from the&nbsp;<strong>Academic Year dropdown list</strong>.
@@ -46,5 +46,4 @@ variant: markdown
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Introduce Learning Progress (Student)" src="https://www.youtube.com/embed/V84eUpTn8jc" height="100%" width="100%"></iframe>
 </div>
-
-<p style="font-size:0.5rem;">Please note the following update(s):</p> <div style="font-size:0.5rem;"> 1. the donut chart at 00:36 has been shifted below the Content Map dropdown from R20.<br> 2. the Content Map dropdown at feature/button at 00:45 has been shifted above the donut chart from R20. <br> </div>
+Please note the following update(s):<br> 1. the donut chart at 00:36 has been shifted below the Content Map dropdown from R20.<br> 2. the Content Map dropdown at feature/button at 00:45 has been shifted above the donut chart from R20. <br> 

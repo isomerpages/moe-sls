@@ -4,6 +4,7 @@ permalink: /teachers/sls-superhero-quiz/conduct-eassessments-in-class/
 description: ""
 third_nav_title: SLS Superhero Quiz
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 class="page-title">Conduct e-Assessments in Class (#Assess_with_SLS)</h1>
 
@@ -19,7 +20,7 @@ image: /images/FaviconLight.png
 <h2>How to do it</h2>
 <hr>
 <ol>
-  <li>Create a lesson with your assessment questions.</li>
+  <li>Create a Module with your assessment questions.</li>
   <li>You can also <a target="_blank" href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/">upload a digitised exam paper or use an existing digitised exam paper</a>.</li>
 <li>After the e-assessment is vetted, <a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">set the Assignment as an Assessment</a>.</li>
 </ol>
@@ -38,6 +39,9 @@ image: /images/FaviconLight.png
 <li><a target="_blank" href="https://drive.google.com/drive/folders/1O6IIoTTokPiWmb_Ekz4ZbQvA1k3rJ66z?usp=drive_link">2024 N(A) Social Studies</a></li>
 </ul>
 </ul>
+<p><u>Supporting Resource</u>:</p>
+<li>This <a href="https://go.gov.sg/checkesba">video</a> shows how you can check the eSBA url.
+</li>
 <h2>Related articles</h2>
 <hr>
 <ul>

@@ -23,7 +23,7 @@ variant: markdown
     <li>Type:<ul>
             <li>All</li>
             <li>Announcements - Class Group and System Announcements</li>
-            <li>Others - Resource Status, Transcoding, Others, Forum, Assignment, Resource, Lesson, Media, Reports</li>
+            <li>Others - Resource Status, Transcoding, Others, Forum, Assignment, Resource, Module, Media, Reports</li>
         </ul>
     </li>
 </ul>

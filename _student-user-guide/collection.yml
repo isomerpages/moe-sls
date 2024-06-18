@@ -5,10 +5,10 @@ collections:
       - Explore SLS Functions.md
       - Assess/.keep
       - Assess/Assess.md
-      - Assess/(A1,1) Navigate an Assignment (Enhanced).md
-      - Assess/(A1,2) Navigate Quizzes (NEW).md
+      - Assess/(A1,1) Navigate an Assignment.md
+      - Assess/(A1,2) Navigate Quizzes.md
       - Assess/(A2,1) Attempt a Multiple Choice Question.md
-      - Assess/(A2,2) Attempt a Fill in the Blanks Question (Enhanced).md
+      - Assess/(A2,2) Attempt a Fill in the Blanks Question.md
       - Assess/(A2,3) Attempt a Click and Drop Question.md
       - Assess/(A2,4) Attempt an Error Editing Question.md
       - Assess/(A2,5) Attempt an Audio Response Question.md
@@ -23,22 +23,22 @@ collections:
       - Assess/(A3,1) Formatting & Paragraphing.md
       - Assess/(A3,2) Insert Tables.md
       - Assess/(A3,3) Upload File.md
-      - Assess/(A3,4) Insert Drawing (Enhanced).md
+      - Assess/(A3,4) Insert Drawing.md
       - Assess/(A3,5) Insert Chinese or Tamil Text.md
       - Assess/(A3,6) Insert Mathematical or Chemical Equations.md
       - Assess/(A3,7) Insert & Edit Links.md
       - Assess/(A3,8) Insert Emoticon.md
       - Assess/(A3,9) Insert Tooltip.md
-      - Assess/(A3,10) Text to Speech (TTS).md
-      - Assess/(A3,11) Speech Evaluation.md
+      - Assess/(A3,10) Text to Speech (Enhanced).md
+      - Assess/(A3,11) Speech Evaluation (Enhanced).md
       - Assess/(A3,12) EDictionary.md
       - Assess/(B1) View Completed Assignments.md
       - Assess/(B2) View Quiz Results.md
       - Assess/(B3) View and Respond to Teacher Comments.md
       - Assess/(C1) About Assessments.md
-      - Assess/(D1) About Feedback Assistant Mathematics.md
-      - Assess/(D2) About Language Feedback Assistant for English.md
-      - Assess/(D3) About Short Answer Feedback Assistant.md
+      - Assess/(D1) About Feedback Assistant Mathematics (Enhanced).md
+      - Assess/(D2) About Language Feedback Assistant for English (Enhanced).md
+      - Assess/(D3) About Short Answer Feedback Assistant (Enhanced).md
       - Assign/.keep
       - Assign/Assign.md
       - Assign/About Assignments.md
@@ -64,15 +64,15 @@ collections:
       - Customise/(A1,vi) Update Answers to Security Questions.md
       - Discover/.keep
       - Discover/Discover.md
-      - Discover/About Self Study Resources (New).md
-      - Discover/(A1) Access Self Study Resources (New).md
+      - Discover/About Self Study Resources (Enhanced).md
+      - Discover/(A1) Access Self Study Resources.md
       - Discover/(A2) Search for Self Study Resources.md
       - Discover/(A3) Attempt Self Study Resources.md
       - Discover/(B1) Access App Library.md
       - Gamify/.keep
       - Gamify/Gamify.md
       - Gamify/About Gamification.md
-      - Gamify/(A1) Navigate a Gamified Assignment (New).md
+      - Gamify/(A1) Navigate a Gamified Assignment.md
       - Gamify/(A2) Attempt a Gamified Assignment.md
       - Gamify/(B1) Check Progress on Leaderboard.md
       - Notify/.keep
@@ -100,8 +100,8 @@ collections:
       - Plan/(A2) Create a New Event.md
       - Self Study/.keep
       - Self Study/Self Study.md
-      - Self Study/About Adaptive Learning System.md
-      - Self Study/(A1) Access Adaptive Learning System.md
+      - Self Study/About Adaptive Learning System (Enhanced).md
+      - Self Study/(A1) Access Adaptive Learning System (Enhanced).md
       - Self Study/(B1,1) Annotate Text within Activities.md
       - Self Study/(B1,2) Add Notes to Images.md
       - Self Study/(B2) View Notes.md
@@ -112,3 +112,4 @@ collections:
       - Track Progress/(A2,1) View by Topic.md
       - Track Progress/(A2,2) View by Month.md
       - Track Progress/(A2,3) View by Question.md
+      - Track Progress/(A2,4) View ALS Learning Progress (New).md

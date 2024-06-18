@@ -16,7 +16,7 @@ variant: markdown
 <li>Assignment</li>
 <li>Forum</li>
 <li>Resources</li>
-<li>Admin (Announcements from all Content Maps, Lessons, Media and Reports)</li>
+<li>Admin (Announcements from all Content Maps, Modules, Media and Reports)</li>
 </ul>
 </li>
 <li>Click <strong>Save</strong> to confirm.</li>

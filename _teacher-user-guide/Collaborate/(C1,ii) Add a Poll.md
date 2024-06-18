@@ -7,10 +7,10 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="add-a-poll">(C1,ii) Add a Poll</h1>
-<h2 id="-create-a-poll-from-lesson-editor-page-">Create a Poll from Lesson Editor page</h2>
+<h2 id="-create-a-poll-from-module-editor-page-">Create a Poll from Module Editor page</h2>
 <hr>
 <ol>
-<li>In the Lesson Editor page, select an Activity and hover your mouse over <strong>Interactive</strong> in the Component Bar, followed by <strong>Poll</strong>. </li>
+<li>In the Module Editor page, select an Activity and hover your mouse over <strong>Interactive</strong> in the Component Bar, followed by <strong>Poll</strong>. </li>
 <li>Select from either <strong>Single-selection</strong>, <strong>Multi-selection</strong>, or <strong>Slider</strong>.</li>
 <li>Complete the Question Body field.</li>
 <li>If you have selected Single-selection or Multi-selection, fill in the Rich-Text-enabled options. You can add up to 26 options. </li>

@@ -5,8 +5,8 @@ permalink: /contact-us/
 agency_name: SLS  Helpdesk
 contacts:
   - content:
-      - phone: "(65) 6702 6513"
-      - email: "helpdesk@sls.ufinity.com"
+      - phone: +65 6702 6513
+      - email: helpdesk@sls.ufinity.com
       - other: <p>For issues that your School-Based Helplines cannot address, you may
           contact SLS Helpdesk.</p><p>Please note that the call waiting time may
           be longer during peak periods such as Home-Based Learning days. </p>
@@ -15,8 +15,8 @@ contacts:
       - phone: ""
       - email: ""
       - other: <p> For common login issues, you may refer to the <a
-          href="/login-troubleshooting/authentication/index/"target="_blank">Login
-          Troubleshooting Tips.</a></p>
+          href="/login-troubleshooting/authentication/index/"
+          target="_blank">Login Troubleshooting Tips.</a></p>
     title: Having Problems Logging In?
   - content:
       - phone: ""
@@ -31,6 +31,10 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: "If you are a student, the Helpdesk will need to verify your identity using the security questions that you have set up when your account was first activated.</p><p>You can also approach your School-Based Helpline or teacher for help.</p>"
-    title: "Note"
+      - other: If you are a student, the Helpdesk will need to verify your identity
+          using the security questions that you have set up when your account
+          was first activated.<p></p><p>You can also approach your School-Based
+          Helpline or teacher for help.</p>
+    title: Note
+feedback: ""
 ---

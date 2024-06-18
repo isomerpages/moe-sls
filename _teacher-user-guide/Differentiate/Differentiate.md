@@ -29,7 +29,7 @@ variant: markdown
 <details>
 <summary><h4>C. Ideas for Teaching &amp; Learning</h4></summary>
 <ul>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/differentiate-learning-lessons-and-activities/">(C1,i) Differentiate Learning Lessons and Activities</a></li>
+<li><a target="_blank" href="/teachers/sls-superhero-quiz/differentiate-learning-modules-and-activities/">(C1,i) Differentiate Learning Modules and Activities</a></li>
 <li><a target="_blank" href="http://for.edu.sg/EVS">(C1,ii) Eliciting Voices of Students with Diverse Learning Needs</a></li>
 </ul>
 </details>

@@ -10,7 +10,7 @@ variant: markdown
 <p>If your teacher has enabled <strong>Team Game</strong>, you will be able to view the <strong>Team Leaderboard</strong>. <strong>Team Game</strong> will allow you to work cooperatively with your peers to collect XP and unlock Game Stories and Achievements.</p>
 <u>Important:</u> You will only be able to view the Leaderboard if your teacher has enabled it.
 <ol>
-<li>From the homepage, click the <strong>Assignments</strong> tab and <strong>Open</strong> a gamified Lesson. Alternatively, you can&nbsp;access&nbsp;a gamified assignment from the Assignments page&nbsp;or Class Group page under the Assignments tab.</li>
+<li>From the homepage, click the <strong>Assignments</strong> tab and <strong>Open</strong> a gamified Module. Alternatively, you can&nbsp;access&nbsp;a gamified assignment from the Assignments page&nbsp;or Class Group page under the Assignments tab.</li>
 <li>In the Assignment, click the <strong>Leaderboard</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Leaderboard32.png"> to open the Leaderboard subpage. This allows you to view the top 50% of students in the class for the Assignment. </li>
 	<li><p>From the&nbsp;<strong>Individual</strong>&nbsp;tab, you will be able to view the cumulative XP, current level and Achievements on the individual student’s card. Your card is indicated with a yellow arrow<img style="width:1.5rem; display: inline;" src="/images/Icons/YellowArrow.svg"> .</p>
 <ul>

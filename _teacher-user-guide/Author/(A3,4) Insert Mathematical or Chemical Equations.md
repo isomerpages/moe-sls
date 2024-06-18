@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/author/insert-mathematical-or-chemical-equations/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="insert-mathematical-or-chemical-equations">(A3,4) Insert Mathematical or Chemical Equations</h1>
 <h2 id="-insert-math-equation-using-mathtype-">Insert Math Equation using MathType</h2>
@@ -21,7 +22,7 @@ image: /images/FaviconLight.png
 <hr>
 <ol>
 <li>You can also type LaTeX equations between double dollar signs – $$ – in the Content Editor. For more information on the LaTeX commands supported, click <a target="_blank" href="https://docs.wiris.com/en/mathtype/mathtype_web/latex-support">here</a>.</li>
-<li>The equation will be rendered as an image in the lesson preview.</li>
+<li>The equation will be rendered as an image in the Module preview.</li>
 </ol>
 <h2 id="-insert-chemical-equation-using-chemtype-">Insert Chemical Equation using ChemType</h2>
 <hr>

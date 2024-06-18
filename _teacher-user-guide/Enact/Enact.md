@@ -21,8 +21,8 @@ variant: markdown
 </summary>
 <ol>
 <li><p><strong>How do I control student access to Activities/Sections in Assignments?</strong></p>
-<p> Before you assign the Lesson, you may click the <strong>Edit</strong> icon on the Assignment card (<strong>Pencil</strong> icon on the top right of the card) and select the <strong>Activity Assignment</strong> tab. If you have assigned the Lesson, enter the Assignment and open the right menu. Select <strong>Manage Assignment Settings</strong> followed by the <strong>Activity Assignment</strong> tab. Toggle the access on/off to for access rights.</p>
-<p> You are also able to toggle the access to the Sections and Activities by clicking from the <strong>Lesson Plan</strong>.</p>
+<p> Before you assign the Module, you may click the <strong>Edit</strong> icon on the Assignment card (<strong>Pencil</strong> icon on the top right of the card) and select the <strong>Activity Assignment</strong> tab. If you have assigned the Module, enter the Assignment and open the right menu. Select <strong>Manage Assignment Settings</strong> followed by the <strong>Activity Assignment</strong> tab. Toggle the access on/off to for access rights.</p>
+<p> You are also able to toggle the access to the Sections and Activities by clicking from the <strong>Module Plan</strong>.</p>
 <p> For more information, visit <a target="_blank" href="/teacher-user-guide/enact/change-access-to-activities/">Change Access to Activities</a>.</p>
 </li>
 <li><p><strong>Why do I have to enter an ITT or Discussion card to view Comments?</strong></p>

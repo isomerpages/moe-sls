@@ -24,11 +24,11 @@ variant: markdown
 	<p><u>Note</u>: Students who appear in more than one assigned Subgroup will only be assigned the Assignment once. However, students who are in more than one of the assigned Class Groups will receive the assigned Lesson multiple times (i.e. Students will receive the Assignment once for each Class Group assigned).</p>
 </li>
 <li><p><strong>Schedule</strong> - change Assignment Start and Due Date/Time. You can choose to send students a notification when the Assignment has started by selecting the checkbox beside <strong>Notify students assigned when assignment starts</strong>.</p>
-	<p><u>Note</u>: You can change the Start and Due Dates of individual Sections within a Lesson if the Assignment has not started.</p>
+	<p><u>Note</u>: You can change the Start and Due Dates of individual Sections within a Module if the Assignment has not started.</p>
 </li>
 <li><p><strong>Activity Assignment</strong> - change the accessibility to Activities and <a target="_blank" href="/teacher-user-guide/collaborate/create-teams/">manage Teams</a>. Students will not be able to access the activity if the Student Access toggle is switched off.</p>
 </li>
-<li><p><strong>Gamification Settings (Only for Lessons with Gamification toggled on)</strong> - Allow students to view individual or team leaderboards in a gamified Lesson by selecting the checkbox beside the respective options. You can also edit <a target="_blank" href="/teacher-user-guide/gamify/create-game-teams/">Game Teams</a></p>
+<li><p><strong>Gamification Settings (Only for Modules with Gamification toggled on)</strong> - Allow students to view individual or team leaderboards in a gamified Module by selecting the checkbox beside the respective options. You can also edit <a target="_blank" href="/teacher-user-guide/gamify/create-game-teams/">Game Teams</a></p>
 <p><u>Note</u>: Students below the 50th percentile will be hidden on the Student Leaderboard.</p>
 </li>
 <li><p><strong>Others</strong>:</p>
@@ -36,7 +36,7 @@ variant: markdown
 <li><p>Assessment Settings - Turn the Assignment into an Assessment by selecting the checkbox beside <a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">Set as Assessment</a>.</p>
 <p><img alt="Manage Assignments" style="width: 100%;" src="/images/2Teacher/AS-ManageAssignment1.png"></p>
 </li>
-<li><p>Sharing Permissions - Grant permission to students to share their Lesson by selecting the checkbox beside <a target="_blank" href="/teacher-user-guide/assign/allow-students-to-share-assignments/">Allow students to share Assignments</a>.</p>
+<li><p>Sharing Permissions - Grant permission to students to share their Module by selecting the checkbox beside <a target="_blank" href="/teacher-user-guide/assign/allow-students-to-share-assignments/">Allow students to share Assignments</a>.</p>
 </li>
 </ul>
 </li>
@@ -53,7 +53,7 @@ variant: markdown
 </ul>
 <p><img alt="Manage Assignments" style="width: 80%;" src="/images/2Teacher/AS-ManageAssignment3.png"></p>
 <ul>
-<li><p>Click <strong>Assign</strong>, found on the top right of the Assignment Summary page to assign the Lesson.</p>
-	<p><u>Note</u>: For Lessons with multiple Sections, it may take some time for the Assignment to appear on your Assignment List.</p>
+<li><p>Click <strong>Assign</strong>, found on the top right of the Assignment Summary page to assign the Module.</p>
+	<p><u>Note</u>: For Modules with multiple Sections, it may take some time for the Assignment to appear on your Assignment List.</p>
 </li>
 </ul>

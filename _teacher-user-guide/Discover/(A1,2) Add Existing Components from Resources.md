@@ -24,13 +24,13 @@ variant: markdown
   <li>Fill-in-the-Blanks Question</li>
   <li>Free-Response Question</li>
 </ul>
-<p>In the Lesson Editor page, select an Activity and hover your mouse over <strong>Questions</strong> in the Component Bar, followed by <strong>Add From Existing</strong>. Select either <strong>Question from Library</strong>, <strong>Question from Starred Resources</strong>, or <strong>Question from file (QTI)</strong>.</p>
+<p>In the Module Editor page, select an Activity and hover your mouse over <strong>Questions</strong> in the Component Bar, followed by <strong>Add From Existing</strong>. Select either <strong>Question from Library</strong>, <strong>Question from Starred Resources</strong>, or <strong>Question from file (QTI)</strong>.</p>
 <img alt="Add Existing Components from Resources" src="/images/2Teacher/D-AddExistingComponent.png">
 <h2>Add Existing Questions from Library and Starred Resources</h2>
 <hr>
 <ol>
   <li>
-    <p>When you add Question from Library, you may search for Questions 
+    <p>When you add Question from Library, you may 
 <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">search for Questions</a>
 across MOE Library, Community Gallery and My Drive. You can also apply Search Filter to narrow down your search.</p>
   </li>
@@ -55,7 +55,7 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
 <hr>
 <ol>
   <li>
-    <p>In the Lesson Editor subpage, select an Activity and hover your mouse over <strong>Questions</strong> in the Component Bar, followed by <strong>Question from file (QTI)</strong>.</p>
+    <p>In the Module Editor subpage, select an Activity and hover your mouse over <strong>Questions</strong> in the Component Bar, followed by <strong>Question from file (QTI)</strong>.</p>
   </li>
   <li>
     <p>Upload a compatible <a target="_blank" href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/">QTI file</a> and click <strong>Upload</strong></p>
@@ -67,9 +67,9 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
 <p><u>Note</u>: For questions uploaded from a QTI-compatible file, you will not be able to filter or choose questions.</p>
 <h2>Add Media Files from Library</h2>
 <hr>
-<p>Media files can only be added via Rich Text and on a Lesson/Section Cover.</p>
-<p><u>Note</u>: Only images from Library and Starred Resource can be added on a Lesson/Section Cover.</p>
-<p>The following media files from Lessons can be added from My Drive, Community Gallery, MOE Library, and Starred Resources.</p>
+<p>Media files can only be added via Rich Text and on a Module/Section Cover.</p>
+<p><u>Note</u>: Only images from Library and Starred Resource can be added on a Module/Section Cover.</p>
+<p>The following media files from Modules can be added from My Drive, Community Gallery, MOE Library, and Starred Resources.</p>
 <ul>
   <li>Images</li>
   <li>Videos</li>
@@ -93,7 +93,7 @@ across MOE Library, Community Gallery and My Drive. You can also apply Search Fi
     <p>Teachers can search for Media in their Library using the Search Bar. Click <strong>Filter</strong> to filter the Resource Type. Click <strong>Apply</strong> and <strong>Apply Selected Filters</strong> to proceed.</p>
   </li>
   <li>
-    <p>To insert a Media file into the Lesson, click the corresponding Media Object card.</p>
+    <p>To insert a Media file into the Module, click the corresponding Media Object card.</p>
   </li>
 </ol>
 <h2>Video Tutorial</h2>

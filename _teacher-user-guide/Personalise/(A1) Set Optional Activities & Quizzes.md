@@ -18,20 +18,20 @@ variant: markdown
 <hr>
 <ol>
     <li>
-        <p>Enter the Lesson Editor page.</p>
+        <p>Enter the Module Editor page.</p>
     </li>
     <li>
-        <p>Select an Activity/Quiz from the Simplified Lesson Plan (collapsed).</p>
+        <p>Select an Activity/Quiz from the Simplified Module Plan (collapsed).</p>
     </li>
     <li>
         <p>On the Activity/Quiz Cover, adjust the Optional Toggle.</p>
     </li>
     <li>
 			<img style="width: 80%;" src="/images/2Teacher/PE-SetOptional1.png">
-        <p>Alternatively, click the <strong>Expand Activity List</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/LessonPlan.svg"> to open the Expanded Lesson Plan. Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) of an Activity/Quiz and select <strong>Set As Optiona</strong>l.</p>
+        <p>Alternatively, click the <strong>Expand Activity List</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/LessonPlan.svg"> to open the Expanded Module Plan. Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) of an Activity/Quiz and select <strong>Set As Optiona</strong>l.</p>
     </li>
     <li>
-        <p>Click the <strong>Lesson Plan</strong> icon, followed by the <strong>Overflow</strong> (<strong>3-dot</strong> icon) of an Activity/Quiz and select <strong>Set As Optional</strong>.</p>
-        <p><u>Note</u>: Optional Activities/Quizzes are indicated with <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityOptional32.svg"> in the Simplified Lesson Plan.</p>
+        <p>Click the <strong>Module Plan</strong> icon, followed by the <strong>Overflow</strong> (<strong>3-dot</strong> icon) of an Activity/Quiz and select <strong>Set As Optional</strong>.</p>
+        <p><u>Note</u>: Optional Activities/Quizzes are indicated with <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityOptional32.svg"> in the Simplified Module Plan.</p>
     </li>
 </ol>

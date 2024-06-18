@@ -13,7 +13,7 @@ Use SLS to notify other teachers and students easily on T&amp;L matters across t
 <details>
 <summary><h4>A. How to manage Announcements?</h4></summary>
 <ul>
-<li><a href="/teacher-user-guide/notify/view-and-create-announcements" target="_blank">(A1) View and Create Announcements (Enhanced)</a></li>
+<li><a href="/teacher-user-guide/notify/view-and-create-announcements" target="_blank">(A1) View and Create Announcements</a></li>
 <li><a target="_blank" href="/teacher-user-guide/notify/manage-announcements/">(A2) Manage Announcements</a></li>
 </ul>																																			
 </details>
@@ -22,7 +22,7 @@ Use SLS to notify other teachers and students easily on T&amp;L matters across t
 <details>
 <summary><h4>B. How to access Notifications?</h4></summary>
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/notify/about-notifications/">About Notifications (New)</a></li>
-<li><a target="_blank" href="/teacher-user-guide/notify/view-notifications/">(B1,i) View Notifications (New)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/notify/about-notifications/">About Notifications</a></li>
+<li><a target="_blank" href="/teacher-user-guide/notify/view-notifications/">(B1,i) View Notifications</a></li>
 </ul>
 </details>

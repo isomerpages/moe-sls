@@ -7,8 +7,8 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h2>Discover</h2>
-Use SLS to search for and find useful T&amp;L resources for use in your lessons.
-<img alt="Discover" style="width: 100%;" src="/images/2Teacher/Flow-Discover.png">
+Use SLS to search for and find useful T&amp;L resources for use in your Modules.
+<img alt="Discover" style="width: 100%;" src="/images/2Teacher/Flow_Discover.svg">
 <details>
  <summary><h4>A. How to add Resources from Library?</h4></summary>
 <ul>
@@ -16,22 +16,22 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
   <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-activities-from-resources/">(A1,1) Add Existing Activities from Resources</a></li>
   <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-components-from-resources/">(A1,2) Add Existing Components from Resources</a></li>
   <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-media-objects-from-resources/">(A1,3) Add Existing Media Objects from Resources</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">(A2) Search for Resources (New)</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/view-lesson-details/">(A3) View Lesson Details</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">(A2) Search for Resources</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/view-module-details/">(A3) View Module Details</a></li>
 </ul>
 </details>
 <img alt="Discover" style="width: 70%;" src="/images/2Teacher/Flow-Discover1.svg">
 <details><summary><h4>B. How to embed whitelisted websites?</h4></summary>
 <ul>
-<li><a href="/teacher-user-guide/discover/view-external-resources/" target="_blank">(B1,1) View External Resources (New)</a></li>
+<li><a href="/teacher-user-guide/discover/view-external-resources/" target="_blank">(B1,1) View External Resources</a></li>
 <li><a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">(B1,2)Previously Whitelisted/Non-Whitelisted Websites</a></li>
-<li><a href="/teacher-user-guide/discover/embed-whitelisted-websites/" target="_blank">(B2) Embed Whitelisted Websites (Enhanced)</a></li>  
+<li><a href="/teacher-user-guide/discover/embed-whitelisted-websites/" target="_blank">(B2) Embed Whitelisted Websites</a></li>  
 </ul>
 </details>
 <details><summary><h4>C. How to install/use Apps?</h4></summary>
 <ul>
   <li><a href="/teacher-user-guide/discover/access-app-library/" target="_blank">(C1) Access App Library</a></li>
-<li><a href="/teacher-user-guide/discover/embed-integrated-apps/" target="_blank">(C2) Embed Integrated Apps (New)</a></li>
+<li><a href="/teacher-user-guide/discover/embed-integrated-apps/" target="_blank">(C2) Embed Integrated Apps</a></li>
 </ul>
 </details>
 <details><summary><h4>D. How to follow My Subjects?</h4></summary>
@@ -42,10 +42,11 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 </details>	
 <details><summary><h4>E. More about Resources</h4></summary>
 <ul>
-<li><a href="/teacher-user-guide/discover/make-a-copy-of-a-lesson/" target="_blank">(E1,i) Make a Copy of a Lesson</a></li>
+<li><a href="/teacher-user-guide/discover/make-a-copy-of-a-module/" target="_blank">(E1,i) Make a Copy of a Module</a></li>
 <li><a target="_blank" href="/teacher-user-guide/discover/view-print-friendly-worksheet/">(E1,ii) View Print-Friendly Worksheet</a></li>
-	<li><a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">(E1,iii) Leave Reviews (New)</a></li>
-	<li><a target="_blank" href="/teacher-user-guide/discover/about-adaptive-learning-system/">(E1,iv) About Adaptive Learning System (ALS)</a></li>
+	<li><a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">(E1,iii) Leave Reviews</a></li>
+	<li><a target="_blank" href="/teacher-user-guide/discover/about-adaptive-learning-system/">(E1,iv) About Adaptive Learning System (ALS) (Enhanced)</a></li>
+	<li><a target="_blank" href="/teacher-user-guide/discover/tag-resources-to-adaptive-learning-system/">(E1,v) Tag Resources to Adaptive Learning System (New)</a></li>
 </ul>
 </details>
 <details>
@@ -65,7 +66,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 <p> If a website has not been whitelisted, you will not be able to embed the site in SLS. An alternative would be to insert a link in the Rich Text Editor by clicking <strong>Insert/edit link</strong> (<strong>Chain</strong> icon). You have the option to decide whether the link will be opened in a new window or the current window. When students click on the link, they will be redirected accordingly.</p>
 <p> For more information, visit <a target="_blank" href="/teacher-user-guide/discover/embed-whitelisted-websites/">Whitelisted Websites for Embedding</a>.</p>
 </li>
-<li><p><strong>The YouTube videos in my Lessons are not accessible.</strong></p>
+<li><p><strong>The YouTube videos in my Module are not accessible.</strong></p>
 <p> This could be due to a variety of reasons. First check that the video has not been taken down by YouTube by trying to access the video link outside SLS. Secondly, if the device is a student Personal Learning Device (PLD) with a Device Management Application (DMA), it could be blocked by the DMA. You will know this is the case if the student can access the Youtube video on his/her phone. In this case, ask your DMA vendor to whitelist the video. Thirdly, if the YouTube video is only inaccessible on the school network, then it is likely that the video is not whitelisted on SSN. You may wish to approach your network administrator for help.</p>
 </li>
 <li><p><strong>Are there likely to be future collaborations with other Apps (e.g Nearpod, Microsoft)?</strong></p>
@@ -78,20 +79,20 @@ Use SLS to search for and find useful T&amp;L resources for use in your lessons.
 <p></p><p>Schools are highly encouraged to first check in with their respective Cluster ETOs. As ALS is already rolled out to all schools for Primary 5 students for three topics - Decimals, Whole Numbers and Percentages, schools may refer to the following resources below.</p>
 <ol>
 <li><a target="_blank" href="https://go.gov.sg/als-eped">ALS e-Pedagogy Guide</a></li>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/als%2024%20jul.pdf">ALS e-poster</a></li>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/als_14_feb.pdf">ALS e-poster</a></li>
 <li><a target="_blank" href="https://www.youtube.com/watch?v=VOLmizePspE">Detailed video walkthrough</a></li>
 <li><a target="_blank" href="/student-user-guide/self-study/access-adaptive-learning-system/">Information on SLS Info guide</a></li>
 </ol><p></p></li>
-<li><strong>Can teachers review lessons that are shared with them from my drive?</strong>
-<p>Only lessons shared on MOE Library and Community Gallery Lessons can receive reviews. Teachers can view and add review for Lessons on both MOE Library and CG. This allows lessons in MOE Library and Community Gallery to receive timely feedback and for other teachers to learn how to use the resource more effectively.</p>
+<li><strong>Can teachers review modules that are shared with them from my drive?</strong>
+<p>Only modules shared on MOE Library and Community Gallery Modules can receive reviews. Teachers can view and add review for Modules on both MOE Library and CG. This allows Modules in MOE Library and Community Gallery to receive timely feedback and for other teachers to learn how to use the resource more effectively.</p>
 <p>For more information, you may visit <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">Leave Reviews</a>.  </p></li>
-<li><strong>Can the review feature be used to provide me feedback on lessons submitted to Community Gallery for admin approval?</strong>
-<p>MOE Library Content Approvers and Community Gallery Admins can use admin reviews to give feedback for the submitted lessons. The submitters of the lessons are also able to reply to the feedback via the same subpage. Admin feedback will be hidden when the lesson is published in MOE Library and Community Gallery.</p></li>
-<li><strong>Can SLS make it easier to verify the quality of lessons in the Community Gallery?</strong>
-<p>Since R19 (Jun 2023), teachers are already able to <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">Leave Reviews</a> for lessons on MOE Library and Community Gallery. You may use these reviews as indicators of a lesson’s quality and/or leave reviews for others to do the same. </p></li>
+<li><strong>Can the review feature be used to provide me feedback on modules submitted to Community Gallery for admin approval?</strong>
+<p>MOE Library Content Approvers and Community Gallery Admins can use admin reviews to give feedback for the submitted modules. The submitters of the modules are also able to reply to the feedback via the same subpage. Admin feedback will be hidden when the module is published in MOE Library and Community Gallery.</p></li>
+<li><strong>Can SLS make it easier to verify the quality of modules in the Community Gallery?</strong>
+<p>Since R19 (Jun 2023), teachers are already able to <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">Leave Reviews</a> for modules on MOE Library and Community Gallery. You may use these reviews as indicators of a Module’s quality and/or leave reviews for others to do the same. </p></li>
 <li><strong>Can teachers monitor students’ self-study list?</strong>
-<p>Teachers do not have access to view students' individual self-study lists. Instead, they can only view students' overall self-study performance through Learning Progress. On the student tab, teachers can find the lesson titles students have attempted and the marks they received for these attempts. Do note in order to make this data visible in Learning Progress, it's essential that the subject, level and content map tags on lessons and questions match those of the Class Group.</p>
-<p>Do note that for MOE Library lessons, the tags are not controlled by teachers but by the respective curriculum divisions.</p></li>
+<p>Teachers do not have access to view students' individual self-study lists. Instead, they can only view students' overall self-study performance through Learning Progress. On the student tab, teachers can find the Module titles students have attempted and the marks they received for these attempts. Do note in order to make this data visible in Learning Progress, it's essential that the subject, level and content map tags on Modules and questions match those of the Class Group.</p>
+<p>Do note that for MOE Library Modules, the tags are not controlled by teachers but by the respective curriculum divisions.</p></li>
 <li><strong>Do teachers have to assign students their self-study materials?</strong>
 <p>Students can browse for learning resources independently from the MOE Library/App Library and My Drive. Upon attempt/completing the learning resource, it will be automatically added into the student’s self-study list.</p>
 <p>When assignments are set to enable copying to My Drive, students can also reattempt assignments as part of their self-study. These resources will also be added to student's self-study list.</p>

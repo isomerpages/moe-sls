@@ -13,7 +13,7 @@ variant: markdown
 <li><p>Ensure your QTI file is exported as QTI 2.1 version.  </p>
 <p><img style="width: 100%;" src="/images/2Teacher/AU-AddQTI1.png"></p>
 </li>
-<li><p>In the Lesson Editor page, hover over Question in the Component Bar.
+<li><p>In the Module Editor page, hover over Question in the Component Bar.
 </p><p><img style="width: 50%;" src="/images/2Teacher/AU-AddQTI2.png"></p>
 </li>
 	<li>Under Add From Existing, select Questions from file (QTI).</li>
@@ -23,7 +23,7 @@ variant: markdown
 <li><p>If the file is valid, it will be uploaded and scanned for viruses.</p>
 <p><u>Note</u>: The virus scan will take longer if the file size is large.</p>
 </li>
-<li><p>When the file is successfully uploaded, the QTI questions will be added to the Lesson. Each question in your zip folder will appear as a standalone question within the Activity.</p>
+<li><p>When the file is successfully uploaded, the QTI questions will be added to the Module. Each question in your zip folder will appear as a standalone question within the Activity.</p>
 </li>
 <li>Should there be an error message indicating “processing partially unsuccessful”, you may have to manually make some edits to the question. </li>
 </ol>

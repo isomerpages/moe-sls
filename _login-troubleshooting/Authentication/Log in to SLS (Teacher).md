@@ -1,6 +1,6 @@
 ---
 title: Log in to SLS (Teacher)
-permalink: /login-troubleshooting/authentication/log-in-with-mims-teacher/
+permalink: /login-troubleshooting/authentication/log-in-to-sls-teacher/
 description: ""
 third_nav_title: Authentication
 image: /images/FaviconLight.png

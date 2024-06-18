@@ -10,7 +10,7 @@ variant: markdown
 <h2 id="-create-an-interactive-thinking-tool-">Create an Interactive Thinking Tool</h2>
 <hr>
 <ol>
-<li>In the Lesson Editor page, select an <strong>Activity</strong>, hover your mouse over <strong>Interactive</strong> in the Component Bar, then select <strong>ITT</strong>. </li>
+<li>In the Module Editor page, select an <strong>Activity</strong>, hover your mouse over <strong>Interactive</strong> in the Component Bar, then select <strong>ITT</strong>. </li>
 <li>Select from either <strong>Choose from Templates</strong>, <strong>1-Column</strong>, <strong>2-Columns</strong> or <strong>3-Column</strong>. </li>
 </ol>
 <p><u>Note</u>: Different Interactive Thinking Tool templates are suggested based on the various Active Learning Processes</p>

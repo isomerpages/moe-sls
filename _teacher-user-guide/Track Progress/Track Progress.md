@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h1>Track Progress</h1>
 <p>Use SLS to track and compare student progress within and across lessons and assignments.</p>
-<img alt="Track Progress" src="/images/2Teacher/Flow-TrackProgress.svg">
+<img style="width: 100%;" alt="Track Progress" src="/images/2Teacher/Flow_TrackProgress.svg">
 <details>
 <summary><h4>A. How to monitor student’s Learning Progress?</h4></summary>
 <ul>
@@ -17,6 +17,8 @@ variant: markdown
 <li><a href="/teacher-user-guide/track-progress/view-by-topic/" target="_blank">(A2,1) View by Topic</a></li>
 <li><a href="/teacher-user-guide/track-progress/view-by-month/" target="_blank">(A2,2) View by Month</a></li>
 <li><a href="/teacher-user-guide/track-progress/view-by-student/" target="_blank">(A2,3) View by Student</a></li>
+<li><a href="/teacher-user-guide/track-progress/view-als-learning-progress/" target="_blank">(A2,4) View ALS Learning Progress (New)</a></li>
+
 </ul>
 </details>
 <details>

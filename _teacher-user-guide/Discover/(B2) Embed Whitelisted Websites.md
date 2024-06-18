@@ -14,7 +14,7 @@ variant: markdown
 <hr>
 <p>To embed a whitelisted website using site URL:</p>
 <ol>
-<li>In Lesson Editor page, hover over Text/Media found within the Component Bar and select Website.</li>
+<li>In Module Editor page, hover over Text/Media found within the Component Bar and select Website.</li>
 <li>On the Embed Website subpage, select the radio button side Enter URL or Enter Code.</li>
 <p><u>Note</u>: Search in the tables below to determine if a whitelisted website can be embedded via URL or Code.</p>
 <li>Alternatively, click <strong>Choose From Approved Websites</strong> to select a whitelisted website. Click the <strong>Website card</strong>, followed by <strong>Choose</strong> to proceed.</li>
@@ -265,7 +265,7 @@ https://www.craiyon.com
 </td>
 </tr>
 <tr><td><strong>Developers</strong></td>
-<td>Lesson Tool for Experiments and Simulations</td>
+<td>Module Tool for Experiments and Simulations</td>
 <td>
 https://developers.google.com
 </td>
@@ -326,7 +326,7 @@ https://www.eea.europa.eu
 </td>
 </tr>
 <tr><td><strong>Experiments with Google</strong></td>
-<td>Lesson Tool for Experiments and Simulations</td>
+<td>Module Tool for Experiments and Simulations</td>
 <td>
 https://experiments.withgoogle.com
 </td>
@@ -379,7 +379,7 @@ https://www.flippity.net
 </td>
 </tr>
 <tr><td><strong>Floop</strong></td>
-<td>Lesson Tool for Feedback</td>
+<td>Module Tool for Feedback</td>
 <td>
 https://www.floopedu.com
 </td>
@@ -412,6 +412,12 @@ https://www.funbrain.com
 <td>Virtual Reality Tool</td>
 <td>
 https://app.gather.town
+</td>
+</tr>
+<tr><td><strong>Google Gemini</strong></td> 
+<td>AI chatbot and conversational search engine</td>
+<td>
+https://gemini.google.com <font color="#FBBC04">NEW!</font>
 </td>
 </tr>
 <tr><td><strong>Gimkit</strong></td>
@@ -565,7 +571,7 @@ https://www.khanacademy.org
 </td>
 </tr>
 <tr><td><strong>Kialo Edu</strong></td>
-<td>Lesson Tool for Critical Thinking</td>
+<td>Module Tool for Critical Thinking</td>
 <td>
 https://www.kialo-edu.com
 </td>
@@ -644,6 +650,12 @@ https://www.mha.gov.sg
 <td>Online Whiteboard</td>
 <td>
 https://miro.com
+</td>
+</tr>
+<tr><td><strong>Mizou</strong></td> 
+<td>AI tool for custom chatbot creation</td>
+<td>
+https://mizou.com <font color="#FBBC04">NEW!</font>
 </td>
 </tr>
 <tr><td><strong>Momento360</strong></td>
@@ -773,6 +785,12 @@ https://parlayideas.com
 https://app.peardeck.com
 </td>
 </tr>
+<tr><td><strong>Perplexity AI</strong></td> 
+<td>AI chatbot and conversational search engine</td>
+<td>
+https://www.perplexity.ai <font color="#FBBC04">NEW!</font>
+</td>
+</tr>
 <tr><td><strong>Perusall</strong></td>
 <td>Reading and Notes Tool</td>
 <td>
@@ -796,7 +814,7 @@ https://pigeonhole.at
 <tr><td><strong>Pin It</strong></td>
 <td>Learn Chinese Characters Tool</td>
 <td>
-https://pinit-nus.com <font color="#FBBC04">NEW!</font>
+https://pinit-nus.com
 </td>
 </tr>
 <tr><td><strong>Pixlr</strong></td>
@@ -859,6 +877,12 @@ https://www.roots.gov.sg
 <td>Art Resource Website</td>
 <td>
 https://saatchigallery.com
+</td>
+</tr>
+<tr><td><strong>SchoolAI</strong></td> 
+<td>AI-enabled learning activities</td>
+<td>
+https://app.schoolai.com <font color="#FBBC04">NEW!</font>
 </td>
 </tr>
 <tr><td><strong>Science Kids</strong></td>
@@ -1027,7 +1051,7 @@ https://www.tate.org.uk
 </td>
 </tr>
 <tr><td><strong>Teachable</strong></td>
-<td>Lesson Tool for Experiments and Simulations</td>
+<td>Module Tool for Experiments and Simulations</td>
 <td>
 https://teachablemachine.withgoogle.com
 </td>
@@ -1246,7 +1270,7 @@ https://www.zbschools.sg
 <h2 class="section-title">Whitelisted Websites and URLs (Using Embed Code)</h2>
 <hr>
 <p>To embed a whitelisted website using embed code:</p>
-<ol><li><p>In Lesson Editor, click <strong>Add Component</strong> and select the component of your choice.</p></li>
+<ol><li><p>In Module Editor, click <strong>Add Component</strong> and select the component of your choice.</p></li>
 <li><p>In the Rich Text Editor, click the <strong>Embed</strong> icon and select the <strong>Enter code to embed</strong> radio button.</p>
 </li>
 <li><p>Insert the URL in the Embed Subpage and click the <strong>Add</strong> button.
@@ -1464,7 +1488,7 @@ https://docs.google.com/presentation
 <tr><td><strong>H5P</strong></td>
 <td>Interactive Content Authoring Tool</td>
 <td>
-https://ri-etd.h5p.com <font color="#FBBC04">NEW!</font>
+https://ri-etd.h5p.com 
 </td>
 </tr>
 <tr><td><strong>HeyHi</strong></td>
@@ -1534,7 +1558,7 @@ https://lab.concord.org
 <tr><td><strong>Mural </strong></td>
 <td>Digital Whiteboard</td>
 <td>
-https://app.mural.co <font color="#FBBC04">NEW!</font>
+https://app.mural.co 
 </td>
 </tr>
 <tr><td><strong>Nearpod</strong></td>
@@ -1646,11 +1670,13 @@ https://hyss.padlet.org
 <br>
 https://jurongsecondaryschool.padlet.org
 <br>
+https://jurongwestsec.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://jvs.padlet.org
 <br>
 https://jwps.padlet.org
 <br>
-https://kcpss.padlet.org <font color="#FBBC04">NEW!</font>
+https://kcpss.padlet.org 
 <br>
 https://kcs.padlet.org
 <br>
@@ -1702,11 +1728,15 @@ https://rafflesgirlsschool.padlet.org
 <br>
 https://riedu.padlet.org
 <br>
+https://riversidepri.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://riversidesec.padlet.org
 <br>
 https://rivervalleyps.padlet.org
 <br>
 https://sgss.padlet.org
+<br>
+https://sst-sg.padlet.org <font color="#FBBC04">NEW!</font>
 <br>
 https://stanthonyscanossiansec.padlet.org
 <br>
@@ -1742,7 +1772,7 @@ https://xnpsict.padlet.org
 <br>
 https://yijc.padlet.org
 <br>
-https://yss.padlet.org <font color="#FBBC04">NEW!</font>
+https://yss.padlet.org
 <br>
 https://yuanchingsec.padlet.org
 <br>

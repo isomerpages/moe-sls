@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/author/html5-content-development/
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="html5-content-development">(A3,11) HTML5 Content Development</h1>
 <h2 id="considerations-when-creating-html5-content">Considerations when creating HTML5 Content</h2>
@@ -48,7 +49,7 @@ image: /images/FaviconLight.png
 <li><p>If the file is valid, it will be uploaded and scanned for viruses.</p>
 <p><u>Note</u>: The virus scan will take longer if the file size is large.</p>
 </li>
-<li>When the file is successfully uploaded, the Media Object will be added to the Lesson.
+<li>When the file is successfully uploaded, the Media Object will be added to the Module.
 </li>
 </ol>
 <img style="width: 100%;" src="/images/2Teacher/AU-AddHTML3.png">

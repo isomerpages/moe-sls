@@ -20,7 +20,7 @@ variant: markdown
 	<p><u>Note</u>:</p>
 <ul>
 <li>The link will be automatically updated if you move the linked Section/Activity to another page.</li>
-<li>The links will not break when the Lesson is Duplicated or Assigned.</li>
+<li>The links will not break when the Module is Duplicated or Assigned.</li>
 </ul>
 </li>
 </ol>

@@ -8,14 +8,12 @@ variant: markdown
 ---
 <h1>Organise</h1>
 Use SLS to to organise your personal and class group resources, assignments and notifications.
-<img alt="Organise" style="width: 70%;" src="/images/2Teacher/Flow-Organise.png">
-
+<img alt="Organise" style="width: 80%;" src="/images/2Teacher/Flow-Organise.png">
 <details>
 <summary><h4>A. How to create Class Groups in SLS?</h4></summary>
-
 <ul>
-<li><a href="/teacher-user-guide/organise/about-class-groups/" target="_blank">About Class Groups (New)</a></li>
-<li><a href="/teacher-user-guide/organise/create-class-groups/" target="_blank">(A1) Create Class Groups (New)</a></li>
+<li><a href="/teacher-user-guide/organise/about-class-groups/" target="_blank">About Class Groups</a></li>
+<li><a href="/teacher-user-guide/organise/create-class-groups/" target="_blank">(A1) Create Class Groups</a></li>
 <li><a href="/teacher-user-guide/organise/add-teachers-as-students-to-a-class-group/" target="_blank">(A2) Add Teachers as Students to a Class Group</a></li>
 </ul>
 </details>
@@ -24,7 +22,7 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <details>
 <summary><h4>B. How to organise Class Group Resources?</h4></summary>
 <ul>
-<li><a href="/teacher-user-guide/organise/manage-class-group-resources/" target="_blank">(B1) Manage Class Group Resources</a></li>
+<li><a href="/teacher-user-guide/organise/manage-class-group-resources/" target="_blank">(B1) Manage Class Group Resources (Enhanced)</a></li>
 </ul>
 </details>
 
@@ -39,20 +37,20 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <details>
 <summary><h4>D. More about Class Groups</h4></summary>
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/organise/pin-class-groups/">(D1,i) Pin Class Groups (Enhanced)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/pin-class-groups/">(D1,i) Pin Class Groups</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/archive-class-groups/">(D1,ii) Archive Class Groups</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/view-past-class-groups/">(D1,iii) View Past Class Groups</a></li>
 </ul>
 </details>
 <br>
-<img alt="Organise" style="width: 100%;" src="/images/2Teacher/Flow-Organise2.png">
+<img alt="Organise" style="width: 100%;" src="/images/2Teacher/Flow_Organise2.svg">
 <details>
-<summary><h4>E. How to organise My Lessons in My Drive?</h4></summary>
+<summary><h4>E. How to organise My Modules in My Drive?</h4></summary>
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/organise/access-my-drive/">(E1) Access My Drive</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/search-in-my-drive/">(E2) Search in My Drive</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/create-new-folders/">(E3,1) Create New Folders</a></li>
-<li><a target="_blank" href="/teacher-user-guide/organise/view-lessons-shared-with-me/">(E3,2) View Lessons Shared with Me</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/view-modules-shared-with-me/">(E3,2) View Modules Shared with Me</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/delete-resources/">(E4) Delete Resources</a></li>
 </ul>
 </details>
@@ -61,7 +59,7 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <summary><h4>F. More about My Drive</h4></summary>
 
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/organise/copy-lessons-within-my-drive/">(F1,i) Copy Lessons within My Drive</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/copy-modules-within-my-drive/">(F1,i) Copy Modules within My Drive</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/manage-folders/">(F1,ii) Manage Folders</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/restore-resources-from-trash/">(F1,iii) Restore Resources from Trash</a></li>
 </ul>

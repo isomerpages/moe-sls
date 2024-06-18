@@ -1,6 +1,6 @@
 ---
 title: Log in to SLS (Student)
-permalink: /login-troubleshooting/authentication/login-with-mims-student/
+permalink: /login-troubleshooting/authentication/log-in-to-sls-student/
 description: This page provides troubleshooting information for students who are
   having difficulty logging in to the Learning.moe.edu.sg website using their
   MIMS Student credentials. Learn how to reset your password, troubleshoot

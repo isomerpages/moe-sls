@@ -11,7 +11,7 @@ Looking for new ways to support your students’ learning? Student Learning Spac
 <h2 id="feature-highlights">Friends of SLS</h2>
 <hr>
 <ul>
-<li><a target="_blank" href="/teachers/friends-of-sls/index">Friends of SLS</a></li>
+<li><a target="_blank" href="/teachers/friends-of-sls/index/">Friends of SLS</a></li>
 </ul>
 <h2 id="feature-highlights">Feature Highlights</h2>
 <hr>
@@ -23,9 +23,10 @@ Looking for new ways to support your students’ learning? Student Learning Spac
 </li><li><a target="_blank" href="/teachers/feature-highlights/2022-sem1/">2022 Sem 1</a>
 </li><li><a target="_blank" href="/teachers/feature-highlights/2021-sem2/">2021 Sem 2</a></li></ul>
 
-<h2 id="build-the-sls-card-game">Build The SLS Card Game</h2>
+<h2 id="build-the-sls-card-game">SLS Card Games</h2>
 <hr>
-<ul><li><a target="_blank" href="/teachers/build-the-sls-card-game/index/">Build: The SLS Card Game</a></li></ul>
+<ul><li><a target="_blank" href="/teachers/sls-card-games/superhero-academy/">Superhero Academy</a></li>
+<li><a target="_blank" href="/teachers/sls-card-games/build-it-right/">Build It Right</a></li></ul>
 <h2 id="frequently-asked-questions">Frequently Asked Questions</h2>
 <hr>
 <ul><li><a target="_blank" href="/teachers/frequently-asked-questions/">SLS Access</a></li></ul>

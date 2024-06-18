@@ -11,8 +11,8 @@ variant: markdown
 <img style="width: 100%;" src="/images/1Student/Flow-Assess1.png">
 <details><summary><h4>A. How to complete my Assignments?</h4></summary>
 <ul>
-<li><a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">(A1,1)  Navigate an Assignment</a></li>
-	<li><a target="_blank" href="/student-user-guide/assess/navigate-quizzes/">(A1,2)  Navigate Quizzes</a></li></ul>
+<li><a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">(A1,1) Navigate an Assignment</a></li>
+	<li><a target="_blank" href="/student-user-guide/assess/navigate-quizzes/">(A1,2) Navigate Quizzes</a></li></ul>
 <p>A2. Attempt different Question types</p>
 <ul><li><a target="_blank" href="/student-user-guide/assess/attempt-a-multiple-choice-question/">(A2,1) Attempt a Multiple-Choice Question</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/attempt-a-fill-in-the-blanks-question/">(A2,2) Attempt a Fill-in-the-Blanks Question</a></li>
@@ -37,8 +37,8 @@ variant: markdown
 <li><a target="_blank" href="/student-user-guide/assess/insert-and-edit-links/">(A3,7) Insert &amp; Edit Links</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/insert-emoticon/">(A3,8) Insert Emoticon</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/insert-tooltip/">(A3,9) Insert Tooltip</a></li>
-<li><a target="_blank" href="/student-user-guide/assess/text-to-speech-tts/">(A3,10) Text-to-Speech (TTS)</a></li>
-<li><a target="_blank" href="/student-user-guide/assess/speech-evaluation/">(A3,11) Speech Evaluation</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/text-to-speech/">(A3,10) Text-to-Speech (TTS) (Enhanced)</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/speech-evaluation/">(A3,11) Speech Evaluation (Enhanced)</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/edictionary/">(A3,12) E-Dictionary</a></li>
 </ul>
 </details>
@@ -51,7 +51,7 @@ variant: markdown
 <li><a target="_blank" href="/student-user-guide/assess/view-and-respond-to-teacher-comments/">(B3) View and Respond to Teacher Comments</a></li>
 </ul></details>
 <details><summary><h4>C. How to access Assessments?</h4></summary>
-<ul><li><a target="_blank" href="/student-user-guide/assess/about-assessments/">(C1) About Assessments (New)</a></li></ul>
+<ul><li><a target="_blank" href="/student-user-guide/assess/about-assessments/">(C1) About Assessments</a></li></ul>
 </details>
 <details><summary><h4>D. What types of automated feedback are there? </h4></summary>
-<ul><li><a href="/student-user-guide/assess/about-mathematics-feedback-assistant/" target="_blank">(D1) About Feedback Assistant - Mathematics (FA-Math)</a></li><li><a href="/student-user-guide/assess/about-language-feedback-assistant-for-english" target="_blank">(D2) About Language Feedback Assistant for English (LangFA-EL)</a></li><li><a href="/student-user-guide/assess/about-short-answer-feedback-assistant" target="_blank">(D3) About Short Answer Feedback Assistant (ShortAnsFA)</a></li></ul></details>
+<ul><li><a href="/student-user-guide/assess/about-mathematics-feedback-assistant/" target="_blank">(D1) About Feedback Assistant - Mathematics (FA-Math)(Enhanced)</a></li><li><a href="/student-user-guide/assess/about-language-feedback-assistant-for-english" target="_blank">(D2) About Language Feedback Assistant for English (LangFA-EL) (Enhanced)</a></li><li><a href="/student-user-guide/assess/about-short-answer-feedback-assistant" target="_blank">(D3) About Short Answer Feedback Assistant (ShortAnsFA) (Enhanced)</a></li></ul></details>

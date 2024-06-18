@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="set-differentiated-access">(B1,ii) Set Differentiated Access</h1>
-<p>Teachers can set differentiated access for Activities within a Lesson. Only students who are given access to an Activity will be able to access it. This access can be managed from the Assignment Settings subpage, which can be accessed from the Assignment Summary (when assigning a new Lesson) or from an Assignment (by clicking <strong>Manage Assignment Settings</strong>). </p>
+<p>Teachers can set differentiated access for Activities within a Module. Only students who are given access to an Activity will be able to access it. This access can be managed from the Assignment Settings subpage, which can be accessed from the Assignment Summary (when assigning a new Module) or from an Assignment (by clicking <strong>Manage Assignment Settings</strong>). </p>
 <ol>
 <li>From the Assignment Settings subpage, click the <strong>Activity Assignment</strong> tab.</li>
 <li><p>Click <strong>Show Activities ()</strong> to view the list of Activities within a Section.</p>

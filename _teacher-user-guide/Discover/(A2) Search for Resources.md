@@ -29,7 +29,7 @@ variant: markdown
 <ul>
 <li><strong>All</strong></li>
 <li><strong>My Drive</strong> - your own resources and those shared with you</li>
-<li><strong>Community Gallery</strong> - Lessons shared by teachers</li>
+<li><strong>Community Gallery</strong> - Modules shared by teachers</li>
 <li><strong>MOE Library</strong> - Resources produced by MOE</li>
 <li><strong>App Library</strong> - App Resources integrated with SLS</li>
 <li><strong>External Resources</strong> - Whitelisted websites that can be embedded in SLS.</li>
@@ -37,7 +37,7 @@ variant: markdown
 </li>
 <li>Under <strong>Resource</strong> (<strong>Resource Type</strong>), select from:
 <ul><li><strong>All</strong></li>
-<li><strong>Lessons</strong></li>
+<li><strong>Modules</strong></li>
 <li><strong>Questions (or Question Types)</strong></li>
 <li><strong>Media (or Media Types)</strong></li>
 <li><strong>Apps</strong></li>
@@ -77,23 +77,23 @@ variant: markdown
 <ol>
 <li>You can sort the resources by&nbsp;<em>Relevance </em>to your search term(s), <em>Popularity</em> (only in Community Gallery or MOE Library), or according to the date of the latest edit. You can also view the search results in card or List view by clicking 
 <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png">	and <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">
-</li><li>Click the <strong>Lesson card</strong> to enter the Lesson in a new tab. On the Lesson card, you will be able to view the following information:</li>
+</li><li>Click the <strong>Module card</strong> to enter the Module in a new tab. On the Module card, you will be able to view the following information:</li>
 <ul>
-<li>Lesson Location</li>
+<li>Module Location</li>
 <li>Resource Title</li>
-<li>Level and Subject (for Lessons only)</li>
+<li>Level and Subject (for Modules only)</li>
 <li>Type of Resource</li>
-<li>Number of Views (for Lessons only)</li>
-<li>Number of Reviews (for Lessons only</li>
+<li>Number of Views (for Modules only)</li>
+<li>Number of Reviews (for Modules only</li>
 </ul>
 
 <p><strong>Note</strong>: Resources that are downloadable can be downloaded from the Resource card.</p>
 
-<img style="width: 50%;" alt="LessonCard" src="/images/2Teacher/D-LessonCard.png">
+<img style="width: 50%;" alt="ModuleCard" src="/images/2Teacher/D-LessonCard.png">
 
-<li>To view the Lesson Details, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson card, followed by <strong>View Details</strong>. Click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg"> to open the Lesson in a new tab.</li>
-<li>To view the Lesson Reviews, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson card, followed by <strong>See Reviews</strong>. Click <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">here</a> to learn how to leave a Review.</li>
-<li>To make a copy of the Lesson, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Lesson card, followed by <strong>Copy To</strong>. Click <a target="_blank" href="/teacher-user-guide/organise/copy-lessons-within-my-drive/">here</a> to learn how to copy a resource to My Drive.</li>
+<li>To view the Module Details, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Module card, followed by <strong>View Details</strong>. Click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg"> to open the Module in a new tab.</li>
+<li>To view the Module Reviews, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Module card, followed by <strong>See Reviews</strong>. Click <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">here</a> to learn how to leave a Review.</li>
+<li>To make a copy of the Module, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Module card, followed by <strong>Copy To</strong>. Click <a target="_blank" href="/teacher-user-guide/organise/copy-modules-within-my-drive/">here</a> to learn how to copy a resource to My Drive.</li>
 </ol>
 
 <h2>Video Tutorial</h2>

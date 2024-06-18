@@ -8,16 +8,15 @@ variant: markdown
 ---
 <h1>Assess</h1>
 <p>Use SLS to set up, mark and give feedback on student work.</p>
-<img alt="Assess" src="/images/2Teacher/Flow_Assess1.png">
+<img alt="Assess" src="/images/2Teacher/Flow_Assess3.png">
 <details>
  <summary><h4>A. How to assess students?</h4></summary>
  <ul>
-    <li><a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">(A1) Create Quizzes (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">(A1) Create Quizzes</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/">(A2) Monitor Students' Responses in an Assignment</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/add-teacher-comments/">(A3,1) Add Teacher Comments</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/annotate-underline-students-responses/">(A3,2) Annotate (Underline) Students' Responses</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assess/mark-google-attached-files/">(A3,3) Mark Google-Attached Files</a></li>
-<li><a target="_blank" href="/teacher-user-guide/assess/mark-a-copy-of-a-drawing/">(A3,4) Mark a Copy of a Drawing</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/mark-free-response-questions/">(A3,3) Mark Free Response Questions (New)</a></li>
 <li><a target="_blank" href="/teacher-user-guide/assess/print-to-scan">(A4) Print-to-Scan</a></li>
   </ul>
 </details>
@@ -29,26 +28,27 @@ variant: markdown
 <ul>
     <li><a target="_blank" href="/teacher-user-guide/assess/mark-teacher-marked-quizzes/">(B1) Mark Teacher-Marked Quizzes</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/release-teacher-marked-quizzes/">(B2,1) Release Teacher-Marked Quizzes</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assess/unsubmit-teacher-marked-quizzes/">(B2,2) Unsubmit Teacher-Marked Quizzes</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/unsubmit-teacher-marked-quizzes-or-questions/">(B2,2) Unsubmit Teacher-Marked Quizzes or Questions (Enhanced)</a></li>
   </ul>
 </details>
 <details>
  <summary><h4>C. How to use automated feedback?</h4></summary>
 <ul>
-    <li><a href="/teacher-user-guide/assess/add-mathematics-feedback-assistant/" target="_blank">(C1,i)) Add Feedback Assistant - Mathematics (FA-Math)</a></li>
-	 <li><a href="/teacher-user-guide/assess/add-language-feedback-assistant-for-english/" target="_blank">(C1,ii) Add Language Feedback Assistant for English (LangFA-EL)</a></li>
-	 <li><a href="/teacher-user-guide/assess/add-short-answer-feedback-assistant/" target="_blank">(C1,iii) Add Short Answer Feedback Assistant (ShortAnsFA)</a></li>
+    <li><a href="/teacher-user-guide/assess/add-mathematics-feedback-assistant/" target="_blank">(C1,i)) Add Feedback Assistant - Mathematics (FA-Math) (Enhanced)</a></li>
+	 <li><a href="/teacher-user-guide/assess/add-language-feedback-assistant-for-english/" target="_blank">(C1,ii) Add Language Feedback Assistant for English (LangFA-EL) (Enhanced)</a></li>
+	 <li><a href="/teacher-user-guide/assess/add-short-answer-feedback-assistant/" target="_blank">(C1,iii) Add Short Answer Feedback Assistant (ShortAnsFA) (Enhanced)</a></li>
   </ul>
 </details>
 <details>
  <summary><h4>D. More about Quizzes and Assessments</h4></summary>
 <ul>
     <li><a target="_blank" href="/teacher-user-guide/assess/view-assignments/">(D1,i) View Assignments</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">(D1,ii) Edit Quizzes (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">(D1,ii) Edit Quizzes</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">(D1,iii) Set Assignments as Assessments</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assess/add-and-view-passcodes/">(D1,iv) Add and View Passcodes</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/add-and-view-access-codes/">(D1,iv) Add and View Access Codes</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/view-students-notes/">(D1,v) View Students' Notes</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assess/mark-assignments-as-complete-and-incomplete/">(D1,vi) Mark Assignments as Complete and Incomplete</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/mark-assignments-sections-activities-as-complete-and-incomplete/">(D1,vi) Mark Assignments, Sections, Activities as Complete and Incomplete (Enhanced)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/submit-quizzes/">(D1,vii) Submit Quizzes (New)</a></li>
   </ul>
 </details>
 <details>
@@ -96,9 +96,9 @@ that can be used on SSOE2 ACAD device with ITD lock down mode.</p>
 </li>
 <li><strong>How can schools best prepare their students for e-School Based Assessment (e-SBA) in terms of processes to put in place to trial (e.g. as a class test) before the actual use of SLS for national examinations?</strong>
 <p>Schools can refer to the two emails sent by the English Language and Literature Branch (ELLB) in Nov 2022 and Humanities Branch (HUMB) in Jan 2023 regarding preparation for e-assessment. The emails were addressed to the respective subject HODs.</p>
-<p>The SLS Office had conducted briefings on e-SBA at the Oct 2022 and Oct 2023 HOD/ICT meetings. The slides can be accessed on the <a target="_blank" href="https://intranet.moe.gov.sg/itd/Pages/itepm.aspx">MOE intranet - IT Education Programme for MOE</a>.</p> 
+<p>The SLS Office had conducted briefings on e-SBA at the Oct 2022 and Oct 2023 HOD/ICT meetings. The slides can be accessed on the <a target="_blank" href="https://intranet.moe.gov.sg/itd/Pages/itepm.aspx">MOE intranet - IT Education Programme for MOE</a> (requires Intranet access).</p> 
 <p>Schools may also refer to <a target="_blank" href="/teachers/sls-superhero-quiz/conduct-eassessments-in-class/">Subject-Specific guides</a>.</p>
-<p>Schools are also advised to access the following documents in guiding the school to trial the processes prior to national examinations on the Intranet website. The information is as follows: Briefing to HODs ICT (11 and 12 Oct 2022), Item 5. School based e-Assessment (e-SBA) in SLS.​</p></li>
+<p>Schools are also advised to access the following documents in guiding the school to trial the processes prior to national examinations on the <a target="_blank" href="https://intranet.moe.gov.sg/itd/Pages/itepm.aspx">Intranet</a> website. The information can be accessed within Briefing to HODs ICT (11 and 12 Oct 2022), Item 5. School based e-Assessment (e-SBA) in SLS.​</p></li>
 
 <li><strong>Can students edit their answers in SLS after they have submitted their response? Is there a plan for such a feature in the pipeline?</strong>
 <p>Currently, for standalone question components that are not in quizzes such as Multiple Choice Questions (MCQ), Fill-in-the-Blanks, Click-and-Drop and Error-Editing, students are unable to edit their answers after they have submitted their responses.&nbsp;</p>
@@ -140,11 +140,10 @@ that can be used on SSOE2 ACAD device with ITD lock down mode.</p>
 <li><strong>Is there a timer function in SLS that limits the time that students spend on a particular question/task, or on the assssment as a whole?</strong>
 <p>To use the timer function in quizzes, please refer to <a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">Quiz Settings</a>.</p>
 <p>As with normal assessment practices, the school may make use of a classroom clock along with the pause/resume button in SLS assignments to coordinate the starting and stopping time of the exams. This would facilitate students’ tracking of time during exams through the classroom clock.&nbsp;</p>
-<p>Schools may also consider making use of the passcode feature available in SLS (see links below) to coordinate the start time of the assessment.&nbsp;</p>
-<p>For example, the passcode can be announced/made known to candidates only at the starting time of the exam. At the end of the exam (based on the class clock), the assessment can be paused.&nbsp;</p>
-<p>Click on these links for more information on  <a target="_blank" href="/teacher-user-guide/assess/add-and-view-passcodes/">Passcodes</a> and 
+<p>Schools may also consider making use of the <a target="_blank" href="/teacher-user-guide/assess/add-and-view-access-codes/">Access Code</a> feature available in SLS (see links below) to coordinate the start time of the assessment.&nbsp;</p>
+<p>For example, the Access Code can be announced/made known to candidates only at the starting time of the exam. At the end of the exam (based on the class clock), the assessment can be paused.&nbsp;</p>
+<p>Click on these links for more information on  <a target="_blank" href="/teacher-user-guide/assess/add-and-view-access-codes/">Access Codes</a> and 
 <a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">Setting Assignments as Assessments</a>.</p></li>
-
 <li><strong>Do we need to obtain consent for students to upload their videos/audio clips to SLS for Teaching and Learning purposes?</strong>
 <p>No further consent is needed as it is deemed to be provided under Para 14 of the <a target="_blank" href="https://vle.learning.moe.edu.sg/termsofuse">SLS Terms of Use</a></p></li>
 </ol>

@@ -11,8 +11,8 @@ variant: markdown
 <p><u>Note</u>: Game Teams are different from Activity Teams. The former exists only in Gamified lessons and is used for the calculation of points. The latter can exist in any assignment and is used to allow for differentiated access and/or group learning.</p>
 <h2 id="navigate-to-game-teams">Navigate to Game Teams</h2>
 <hr>
-<p>Game Teams can be created from the Assignment Settings subpage. There are two ways to access the Assignment Settings subpage - when assigning a <a target="_blank" href="/teacher-user-guide/assign/create-assignments/">Lesson</a> and when <a target="_blank" href="/teacher-user-guide/assign/manage-assignments/">managing an Assignment </a>
-</p><p><u>Note</u>: Please ensure that <a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">Gamification</a> has been turned on for the Lesson.</p>
+<p>Game Teams can be created from the Assignment Settings subpage. There are two ways to access the Assignment Settings subpage - when assigning a <a target="_blank" href="/teacher-user-guide/assign/create-assignments/">Module</a> and when <a target="_blank" href="/teacher-user-guide/assign/manage-assignments/">managing an Assignment </a>
+</p><p><u>Note</u>: Please ensure that <a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">Gamification</a> has been turned on for the Module.</p>
 <ol>
 <li><p>In the Assignment Settings subpage, click the <strong>Gamification</strong> tab, followed by <strong>Go to Game Teams</strong>. </p>
 <p><img alt="Create Game Teams" style="width: 80%;" src="/images/2Teacher/G-CreateGameTeams1.png"></p>

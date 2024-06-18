@@ -17,10 +17,10 @@ variant: markdown
 <p><u>Note</u>: The breakdown of Awarded Marks, Total Marks, and Marks (shown in percentage) are shown for each subtopic.</p>
 		<p><img alt="View by Topic" src="/images/1Student/TP_LPTopical.png"></p>
 	</li>
-<li><p>You may also search for resources related to the particular subject and Topic/Sub-topic by clicking the <strong>Overflow</strong> (<strong>3-dot</strong> icon),&nbsp;followed by <strong>Search for Lessons</strong>.</p>
+<li><p>You may also search for resources related to the particular subject and Topic/Sub-topic by clicking the <strong>Overflow</strong> (<strong>3-dot</strong> icon),&nbsp;followed by <strong>Search for Modules</strong>.</p>
 <p><img alt="View by Topic" src="/images/1Student/TP_LPTopical1.png"></p>
 </li>
-	<li>Alternatively, click&nbsp;<strong>Browse Lessons</strong>&nbsp;from the Learning Progress page.
+	<li>Alternatively, click&nbsp;<strong>Browse Modules</strong>&nbsp;from the Learning Progress page.
 	<p><img alt="View by Topic" src="/images/1Student/TP_LPTopical2.png"></p></li>
 <li><p>To view your overall progress (in terms of marks) for a Topic/Sub-topic over a period, click the <strong>Filter</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg"> and choose the <strong>Month Range</strong> and <strong>Topic/Subtopic</strong> from the dropdown list. Click <strong>Apply</strong> to perform your selection.</p>
 </li>

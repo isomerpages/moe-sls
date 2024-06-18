@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="about-templates">About Templates</h1>
-<p>When designing a Lesson or adding new Activity/Section, you can select a template from:</p>
+<p>When designing a Module or adding new Activity/Section, you can select a template from:</p>
 <ol>
 <li><a target="_blank" href="/teacher-user-guide/customise/manage-my-templates/">My Templates</a></li>
 <li>SLS Templates</li>
@@ -23,7 +23,7 @@ variant: markdown
 <hr>
 <ul>
 <li>You can choose from the following SLS Templates:<ul>
-<li>Lesson/Section Templates<ul>
+<li>Module/Section Templates<ul>
 <li><strong>Active Learning Processes</strong></li>
 <li><strong>Acquisition</strong></li>
 <li><strong>Discussion</strong></li>
@@ -50,10 +50,10 @@ variant: markdown
 </ul>
 </li>
 <li>These Templates are aligned to the Active Learning Processes, six Learning Experience types, and an e-Assessment template.</li>
-<li><p>If you select the SLS Lesson/Section Templates, the Learning Experience in the Details card will be filled for you.</p>
+<li><p>If you select the SLS Module/Section Templates, the Learning Experience in the Details card will be filled for you.</p>
 	<p><u>Note</u>: Your existing activities will remain unchanged.</p>
 </li>
-<li><p>Depending on the Lesson/Section Template chosen, Activities will be pre-populated and tagged to the following Active Learning Processes (ALP):</p>
+<li><p>Depending on the Module/Section Template chosen, Activities will be pre-populated and tagged to the following Active Learning Processes (ALP):</p>
 <ul>
 <li><strong>Activate Learning</strong></li>
 <li><strong>Promote Thinking and Discussion</strong></li>

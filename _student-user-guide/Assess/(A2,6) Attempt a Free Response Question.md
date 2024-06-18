@@ -12,9 +12,9 @@ variant: markdown
 <ol>
 <li>Your teacher may have: 
 	<ol style="list-style-type: lower-alpha;">
-		<li>attached a pre-populated Google File to a Free-Response Question. Click <a target="_blank" href="/student-user-guide/assess/attempt-google-attached-files/">here</a> on how to attempt such questions.</li>
+		<li>attached a pre-populated Google File to a Free-Response Question. Click <a target="_blank" href="/student-user-guide/assign/attempt-google-attached-files/">here</a> on how to attempt such questions.</li>
 		<li>turned on Feedback Assistant - Mathematics. Click <a target="_blank" href="/student-user-guide/assess/about-mathematics-feedback-assistant/">here</a> on how to attempt such questions.</li>
-	<li>turned on Language Feedback Assistant - English. Click <a target="_blank" href="/student-user-guide/assess/about-language-feedback-assistant-english">here</a> on how to attempt such questions.</li>
+	<li>turned on Language Feedback Assistant - English. Click <a target="_blank" href="/student-user-guide/assess/about-language-feedback-assistant-for-english/">here</a> on how to attempt such questions.</li>
 	<li>turned on Short Answer Feedback Assistant. Click <a target="_blank" href="/student-user-guide/assess/about-short-answer-feedback-assistant">here</a> on how to attempt such questions.</li>
 </ol>
 </li><li>For Free-Response Questions, your may include in your response:<ol style="list-style-type: lower-alpha;">
@@ -32,6 +32,11 @@ variant: markdown
 <p><img src="/images/1Student/As-FRQ.png"></p>
 <li>Some Free-Response Questions may have part of the answer or drawing in the text box (e.g. Drawing a graph). This is given by your teacher to help you in refining your answer response.</li>
 </ol>
+<u>Note</u>: 
+<ul>
+	<li>For draft answers, you will be able to see the name of the student or teacher who saved the draft and the time it was saved.</li>
+<li>For submitted and unsubmitted answers, you will be able to see the name of the student or teacher who submitted/unsubmitted the answer and the time it was submitted/unsubmitted.</li>
+</ul>
 <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"><u>Did You Know</u>:</p>
 <ul>
 <li>If your teacher has set a recommended time, you will be able to see it below the Question number.</li>

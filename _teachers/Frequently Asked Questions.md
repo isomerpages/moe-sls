@@ -38,17 +38,41 @@ variant: markdown
 <ol><li><p><strong>What are the technical requirements for devices to access the SLS?</strong> <br></p>
 <p> The Student Learning Space (SLS) is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices.</p>
 <p> Note: Due to the responsive nature of the site, the layout of the components on the website will appear differently on different devices.</p>
-<p> The recommended operating systems and browsers as at 6 December 2023 are as follows:</p></li>
-<table><tbody><tr>
+<p> The recommended operating systems and browsers as at 19 June 2024 are as follows:</p></li>
+<table>
+<thead>
+<tr>
 <th>Operating System</th>
-<th>Browsers</th></tr>
-<tr><td>Microsoft Windows 10</td><td>Google Chrome 96 and later<br>    Microsoft Edge 96 and later</td></tr>
-<tr><td>Mac OS 10.15 and later</td><td>Safari 15 and later
-            Google Chrome 96 and later</td></tr>
-<tr><td>iPadOS 15 and later</td><td>Safari 15 and later
-            Google Chrome 96 and later</td></tr><tr><td>iOS 15 and later</td><td>Safari 15 and later
-            Google Chrome 96 and later</td></tr>    <tr><td>Android 10 and later</td><td>Google Chrome 96 and later</td></tr>
-<tr><td>ChromeOS 114 and later</td><td>Google Chrome 114 and later</td></tr></tbody></table>
+<th>Browsers</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Microsoft Windows 10</td>
+<td>Google Chrome 123 and later <br>Microsoft Edge 123 and later</td>
+</tr>
+<tr>
+<td>Mac OS 13 and later</td>
+<td>Safari 16 and later <br> Google Chrome 123 and later</td>
+</tr>
+<tr>
+<td>iPadOS 16 and later</td>
+<td>Safari 16 and later <br>Google Chrome 123 and later</td>
+</tr>
+<tr>
+<td>iOS 16 and later</td>
+<td>Safari 16 and later <br>Google Chrome 123 and later</td>
+</tr>
+<tr>
+<td>Android 13 and later</td>
+<td>Google Chrome 123 and later</td>
+</tr>
+<tr>
+<td>ChromeOS 123 and later</td>
+<td>Google Chrome 123 and later</td>
+</tr>
+</tbody>
+</table>
 <p>If you are having trouble even though your browser meets the above requirements, you can find self-help steps on the <a target="_blank" href="/login-troubleshooting/authentication/index/">SLS Troubleshooting page</a>.</p>
 <li><strong>Who can users contact for technical support?</strong>
 <p>For assistance on login and browser issues, users are advised to refer to the <a target="_blank" href="/login-troubleshooting/authentication/index/">SLS Troubleshooting page</a>.</p>
@@ -78,7 +102,7 @@ Students can call their <a target="_blank" href="/login-troubleshooting/get-help
 </ol>
 <table><tbody><tr>
 <th></th><th>SLS Helpdesk</th></tr><tr><td>Contact Information</td><td>Email: helpdesk@sls.ufinity.com
-<br>Tel: (65) 6702 6513</td></tr><tr><td>Operating Hours</td><td>
+<br>Tel: (+65) 6702 6513</td></tr><tr><td>Operating Hours</td><td>
 Mondays - Fridays:
 <br>4 pm - 9 pm (School Days)
 <br>9 am - 9 pm (School Holidays)

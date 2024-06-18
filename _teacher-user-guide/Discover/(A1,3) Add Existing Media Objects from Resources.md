@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(A1,3) Add Existing Media Objects from Resources</h1>
-<p>Image files can only be added to a Lesson Cover while Media Object can only be added via Rich Text Editor.</p>
+<p>Image files can only be added to a Module Cover while Media Object can only be added via Rich Text Editor.</p>
 <p>The following Media Objects can be added from My Drive, Community Gallery, MOE Library, and Starred Resources.</p>
 <ul>
   <li>Image</li>
@@ -21,17 +21,17 @@ variant: markdown
   <li>ZIP</li>
   <li>Others</li>
 </ul>
-<h2>Add Existing Image Files to Lesson and Section Covers</h2>
+<h2>Add Existing Image Files to Module and Section Covers</h2>
 <hr>
 <ol>
-  <li>From the Lesson Editor page, click the <strong>Lesson Cover</strong> icon 
+  <li>From the Module Editor page, click the <strong>Module Cover</strong> icon 
 			<img style="width:1.5rem; display: inline;" src="/images/Icons/Section.svg">	
 		or <strong>Section Cover</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Introduction.svg">	.</li>
-  <li>Click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg">	 which will appear when you hover over the Lesson/Section Title.</li>
+  <li>Click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg">	 which will appear when you hover over the Module/Section Title.</li>
   <li>Click <strong>Add Existing</strong> and select between <strong>Image From Library</strong> and <strong>Image From Starred Resources</strong>.</li>
   <li>When adding an image from Library, you may  <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">search for Images</a>.</li>
   <li>When you add an image from Starred Resources, you are unable to search for Starred Images.</li>
-  <li>Select the Image you wish to add to your Lesson/Section Cover by selecting the relevant <strong>Image card</strong>.</li>
+  <li>Select the Image you wish to add to your Module/Section Cover by selecting the relevant <strong>Image card</strong>.</li>
 <u>Note</u>: Click the <strong>Download</strong> icon 
 		<img style="width:1.5rem; display: inline;" src="/images/Icons/Download.svg"> should you wish to download the image.
   <li>Click the space outside the Component to save your edits.</li>

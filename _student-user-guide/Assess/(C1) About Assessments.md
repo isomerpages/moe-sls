@@ -13,5 +13,5 @@ variant: markdown
 <ol>
 <li>Assessments are not listed in the Assignment List.</li>
 <li>You can access Assessments using the Student Attempt URL shared with you by your teacher.  Alternatively, you may be notified through the notification panel. </li>
-<li>If your teacher has set a Passcode for the Assessment, you will be required to enter the Passcode (case-sensitive) in order to access it.</li>
+<li>If your teacher has set a Access Code for the Assessment, you will be required to enter the Access Code (case-sensitive) in order to access it.</li>
 </ol>
