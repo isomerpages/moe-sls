@@ -51,7 +51,7 @@ variant: markdown
 <li><a target="_blank" href="/student-user-guide/assess/view-and-respond-to-teacher-comments/">(B3) View and Respond to Teacher Comments</a></li>
 </ul></details>
 <details><summary><h4>C. How to access Assessments?</h4></summary>
-<ul><li><a target="_blank" href="/student-user-guide/assess/about-assessments/">(C1) About Assessments (New)</a></li></ul>
+<ul><li><a target="_blank" href="/student-user-guide/assess/about-assessments/">(C1) About Assessments</a></li></ul>
 </details>
 <details><summary><h4>D. What types of automated feedback are there? </h4></summary>
-<ul><li><a href="/student-user-guide/assess/about-mathematics-feedback-assistant/" target="_blank">(D1) About Feedback Assistant - Mathematics (FA-Math)</a></li><li><a href="/student-user-guide/assess/about-language-feedback-assistant-for-english" target="_blank">(D2) About Language Feedback Assistant for English (LangFA-EL)</a></li><li><a href="/student-user-guide/assess/about-short-answer-feedback-assistant" target="_blank">(D3) About Short Answer Feedback Assistant (ShortAnsFA)</a></li></ul></details>
+<ul><li><a href="/student-user-guide/assess/about-mathematics-feedback-assistant/" target="_blank">(D1) About Feedback Assistant - Mathematics (FA-Math)(Enhanced)</a></li><li><a href="/student-user-guide/assess/about-language-feedback-assistant-for-english" target="_blank">(D2) About Language Feedback Assistant for English (LangFA-EL) (Enhanced)</a></li><li><a href="/student-user-guide/assess/about-short-answer-feedback-assistant" target="_blank">(D3) About Short Answer Feedback Assistant (ShortAnsFA) (Enhanced)</a></li></ul></details>
