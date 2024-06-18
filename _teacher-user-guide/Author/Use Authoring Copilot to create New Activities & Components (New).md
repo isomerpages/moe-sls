@@ -18,7 +18,7 @@ In the Module Editor page of the Section, click the orange Pencil icon <img alt=
 <img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/AU_ACP_Component1.png">
 </li>
 <li>
-If you have used Authoring Copilot to create the Section/ Activity, the Section/ Activity Title and Section/ Activity Notes would have been pre-populated. If you did not use Authoring Copilot to create the Section, you can add the Section/ Activity Title and Section/ Activity Notes. Add curricular considerations, which can be found in subject-specific <a target="_blank" href="https://www.opal2.moe.edu.sg/csl/s/epedagogy/wiki/page/view?title=%5BSection+1.3%5D+e-Pedagogy+in+subject+discipline">Teaching and Learning Guides</a>.&nbsp;&nbsp;
+If you have used Authoring Copilot to create the Section/ Activity, the Section/ Activity Title and Section/ Activity Notes would have been pre-populated. If you did not use Authoring Copilot to create the Section, you can add the Section/ Activity Title and Section/ Activity Notes. Add curricular considerations, which can be found in subject-specific <a target="_blank" href="https://www.opal2.moe.edu.sg/csl/s/epedagogy/wiki/page/view?title=%5BSection+1.3%5D+e-Pedagogy+in+subject+discipline">Teaching and Learning Guides</a> (requires OPAL login).&nbsp;&nbsp;
 
 Section/ Activity Notes will help guide the Authoring Copilot in the generation of the Activities in the Section / Components in the Activities.
 <img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/AU_ACP_Component2.png">
@@ -36,7 +36,7 @@ Click the dropdown arrow located on the right of the Section Tag field to select
 <li>Sections can be tagged to Subject, Level, Topics, and Sub-topics in the MOE Content Map to improve searchability in MOE Library, Community Gallery, and My Drive in future SLS Releases.</li></ul>
 </li>
 <li>
-In the Additional Details field, add pedagogical considerations. This can include directing the ACP to suggest technological tools or SLS features, specify learning experience(s), sequence learning activities according to <a target="_blank" href="https://sites.google.com/moe.edu.sg/guide-to-e-pedagogy/edtech-ps/learning-experiences/active-learning-processes">Active Learning Processes (ALPs)</a>, incorporate <a target="_blank" href="https://sites.google.com/moe.edu.sg/guide-to-e-pedagogy/edtech-ps/learning-experiences/key-applications-of-technology-kat"> Key Application(s) of Technology</a>, or highlighting other details such as learner profile. 
+In the Additional Details field, add pedagogical considerations. This can include directing the ACP to suggest technological tools or SLS features, specify learning experience(s), sequence learning activities according to <a target="_blank" href="https://sites.google.com/moe.edu.sg/guide-to-e-pedagogy/edtech-ps/learning-experiences/active-learning-processes">Active Learning Processes (ALPs)</a> (requires iCON login), incorporate <a target="_blank" href="https://sites.google.com/moe.edu.sg/guide-to-e-pedagogy/edtech-ps/learning-experiences/key-applications-of-technology-kat"> Key Application(s) of Technology</a> (requires iCON login), or highlighting other details such as learner profile. 
 
 <u>Note</u>:
 <ul><li>An example set of Additional Details:
