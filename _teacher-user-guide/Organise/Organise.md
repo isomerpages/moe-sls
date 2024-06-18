@@ -12,8 +12,8 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <details>
 <summary><h4>A. How to create Class Groups in SLS?</h4></summary>
 <ul>
-<li><a href="/teacher-user-guide/organise/about-class-groups/" target="_blank">About Class Groups (New)</a></li>
-<li><a href="/teacher-user-guide/organise/create-class-groups/" target="_blank">(A1) Create Class Groups (New)</a></li>
+<li><a href="/teacher-user-guide/organise/about-class-groups/" target="_blank">About Class Groups</a></li>
+<li><a href="/teacher-user-guide/organise/create-class-groups/" target="_blank">(A1) Create Class Groups</a></li>
 <li><a href="/teacher-user-guide/organise/add-teachers-as-students-to-a-class-group/" target="_blank">(A2) Add Teachers as Students to a Class Group</a></li>
 </ul>
 </details>
@@ -22,7 +22,7 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <details>
 <summary><h4>B. How to organise Class Group Resources?</h4></summary>
 <ul>
-<li><a href="/teacher-user-guide/organise/manage-class-group-resources/" target="_blank">(B1) Manage Class Group Resources</a></li>
+<li><a href="/teacher-user-guide/organise/manage-class-group-resources/" target="_blank">(B1) Manage Class Group Resources (Enhanced)</a></li>
 </ul>
 </details>
 
@@ -37,7 +37,7 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <details>
 <summary><h4>D. More about Class Groups</h4></summary>
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/organise/pin-class-groups/">(D1,i) Pin Class Groups (Enhanced)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/pin-class-groups/">(D1,i) Pin Class Groups</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/archive-class-groups/">(D1,ii) Archive Class Groups</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/view-past-class-groups/">(D1,iii) View Past Class Groups</a></li>
 </ul>
