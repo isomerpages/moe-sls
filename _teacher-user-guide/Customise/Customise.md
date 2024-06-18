@@ -16,7 +16,7 @@ variant: markdown
 <ul><li><a target="_blank" href="/teacher-user-guide/customise/customise-an-avatar/">(A1,i) Customise an Avatar</a></li>
   <li><a target="_blank" href="/teacher-user-guide/customise/change-display-name/">(A1,ii) Change Display Name</a></li>
   <li><a target="_blank" href="/teacher-user-guide/customise/set-an-alternate-email-address/">(A1,iii) Set an Alternate Email Address</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/customise/set-email-notifications/">(A1,iv) Set Email Notifications (New)</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/set-email-notifications/">(A1,iv) Set Email Notifications</a></li>
   <li><a target="_blank" href="/teacher-user-guide/customise/manage-linked-account/">(A1,v) Manage Linked Account</a></li>
   <li><a target="_blank" href="/teacher-user-guide/customise/change-sls-password/">(A1,vi) Change SLS Password</a></li></ul>
 <p>Using Teacher's Student Account</p>
