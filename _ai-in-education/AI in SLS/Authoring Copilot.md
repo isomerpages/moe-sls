@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: AI in SLS
 ---
-<h1>Authoring Copilot </h1>
+<h1>Authoring Copilot</h1>
 <p>ACP is an AI-enabled feature in SLS that supports lesson planning for
 all subjects and levels by generating a module and its corresponding sections,
 activities and components based on a teacher's inputs.</p>
@@ -19,7 +19,7 @@ activities and components based on a teacher's inputs.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_marking.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_files.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -33,7 +33,7 @@ teacher.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_files.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_components.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -46,7 +46,7 @@ with a more accessible way to use SLS authoring features.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_teacher.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_knowledge_base.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -60,7 +60,7 @@ on a Knowledge Base that is appended by the teacher.</p>
 </table>
 <h2>Educator Resources</h2>
 <hr>
-<p>Teachers User Guide (UG):</p>
+<p>Teachers User Guide (UG) which includes step-by-step guidance:</p>
 <ul>
 <li>
 <p><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections//" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
