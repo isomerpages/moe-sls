@@ -40,7 +40,7 @@ variant: markdown
 </ul>
 </ul>
 <p><u>Supporting Resource</u>:</p>
-<li>This <a href="google.com">video</a> shows how you can check the eSBA url.
+<li>This <a href="https://go.gov.sg/checkesba">video</a> shows how you can check the eSBA url.
 </li>
 <h2>Related articles</h2>
 <hr>
