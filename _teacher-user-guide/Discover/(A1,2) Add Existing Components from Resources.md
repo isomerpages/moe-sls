@@ -30,7 +30,7 @@ variant: markdown
 <hr>
 <ol>
   <li>
-    <p>When you add Question from Library, you may search for Questions 
+    <p>When you add Question from Library, you may 
 <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">search for Questions</a>
 across MOE Library, Community Gallery and My Drive. You can also apply Search Filter to narrow down your search.</p>
   </li>
