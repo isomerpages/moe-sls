@@ -36,7 +36,7 @@ variant: markdown
     <li><a target="_blank" href="/teacher-user-guide/collaborate/add-an-interactive-thinking-tool/">(C1,i) Add an Interactive Thinking Tool</a></li>
     <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-poll2">(C1,ii) Add a Poll</a></li>
     <li><a target="_blank" href="/teacher-user-guide/collaborate/add-a-discussion/">(C1,iii) Add a Discussion</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/collaborate/attach-google-files/">(C1,iv) Attach Google Files (Enhanced)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/collaborate/attach-google-files/">(C1,iv) Attach Google Files</a></li>
   </ul>
 </details>
 <br>
