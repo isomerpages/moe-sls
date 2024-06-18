@@ -77,7 +77,7 @@ variant: markdown
 <li><p><strong>Once the teacher has unsubmitted a Team Quiz, can the team continue working on the same Google File? Can other teams give input?</strong> </p>
 <p> Teams can continue to refine their answers in the Google File if the Team Quiz is in a Teacher-Marked Quiz. When the teacher unsubmits the Quiz, the team will be given editing permissions to the same Google File.</p>
 <p> When a teacher releases a Teacher-Marked Quiz, students will no longer be able to edit the Google File. They will only be granting View-Only rights.</p>
-<p> For more information, visit <a target="_blank" href="/teacher-user-guide/assess/unsubmit-teacher-marked-quizzes/">Unsubmit a Teacher-Marked Quiz</a>.</p>
+<p> For more information, visit <a target="_blank" href="/teacher-user-guide/assess/unsubmit-teacher-marked-quizzes-or-questions/">Unsubmit a Teacher-Marked Quiz</a>.</p>
 </li>
 <li><p><strong>Is it possible to select a student (i.e team leader) to submit a Team Quiz response?</strong></p>
 <p> For now, any student from the team can submit the Team Quiz response.</p>
