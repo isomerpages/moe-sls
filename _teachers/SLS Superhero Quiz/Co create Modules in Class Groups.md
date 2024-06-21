@@ -10,10 +10,7 @@ variant: tiptap
 <hr>
 <p>
 <br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:50%" height="auto" width="100%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Author%201.png">
-</div>
+</p><a class="isomer-image-wrapper" href="/files/Marcomms/SLS%20Superhero%20Quiz/author%2001.pdf"><img style="width:50%" height="auto" width="100%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Author%201.png"></a>
 <h2>What it is</h2>
 <hr>
 <p>In a teachers-only Class Group, you can combine efforts to easily co-create

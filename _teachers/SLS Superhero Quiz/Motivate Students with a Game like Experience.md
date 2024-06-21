@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 class="page-title">Motivate Students with a Game like Experience (#Gamify_with_SLS)</h1>
-<a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/Assess%2001.pdf"><img style="width:50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify%2001.png"></a>
+<a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/Gamify%2001.pdf"><img style="width:50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify%2001.png"></a>
   <h2>What it is</h2>
   <hr>
   <p>The gamification features enable teachers to leverage game-based elements to create engaging Modules that mimic a game-like experience.</p>
