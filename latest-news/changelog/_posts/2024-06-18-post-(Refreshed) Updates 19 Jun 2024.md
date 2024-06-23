@@ -14,6 +14,14 @@ variant: markdown
 <ol>
     <li>Starting from SLS Version 2 Release 1, each SLS lesson will be known as a "Module". This change will be reflected throughout the SLS system, including our User Guide and all other materials.</li>
 </ol></details>
+<details><summary><h4>Renaming “Two-Hour Temporary Password” to “Passcode”</h4></summary>
+<ol>
+    <li>Starting from SLS Version 2 Release 1 (V2 R1), “2 Hour Temporary Password” is renamed  “Passcode”. This Passcode grants students temporary access to SLS if they have forgotten their login password or if their accounts have been locked. Refer <a target="_blank" href="/teacher-user-guide/administer/generate-passcode-for-students/">here</a> for more information or to the SLS Handbook shared with HOD/ICT</li>
+</ol></details>
+<details><summary><h4>Renaming “Passcode” for Modules to “Access Code”</h4></summary>
+<ol>
+    <li>Starting from SLS Version 2 Release 1, the Passcode added to Modules to manage  students’ access is renamed  “Access Code”. Students are required to enter the Access Code (case-sensitive) when they click on the Assignment card. Refer <a target="_blank" href="/teacher-user-guide/assess/add-and-view-access-codes/">here</a> for more information. .</li>
+</ol></details>
 <details><summary><h4>Adaptive Learning System (ALS) Enhancements</h4></summary>
 <ol>
     <li>Teachers and students can view the amount of time each student spent to practise each subtopic or Knowledge Unit (KU) in Learning Progress and under the “View All Topics” modal of ALS. Concurrently, there is a refresh in the user interface of the “ALS” tab in Learning Progress to display mastered concepts and the curriculum map.</li>
