@@ -21,9 +21,9 @@ third_nav_title: AI in SLS
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Provides content-based feedback</strong>
+<p><strong>Provides feedback on a variety of responses</strong>
 </p>
-<p>by generating marks and first draft of comments for &nbsp;students’ response
+<p>Generates marks and first draft of comments for &nbsp;students’ response
 based on the suggested mark scheme, which teachers can edit and build on.</p>
 </td>
 </tr>
