@@ -7,9 +7,7 @@ image: /images/FaviconLight.png
 third_nav_title: AI in SLS
 ---
 <h1>Short Answer Feedback Assistant</h1>
-<p>ShortAnsFA provides suggested grades and auto-generated content-related
-feedback for close-ended, short answer questions with well-defined mark
-schemes for any subject and level.</p>
+<p>Short Answer Feedback Assistant (ShortAnsFA) provides suggested marks and auto-generated feedback for free-response questions for any subject and level.</p>
 <div class="bp-youtube">
 <iframe width="100%" height="100%" src="https://www.youtube.com/embed/gQcWscdqvOw?si=LKGFYM1A7pd_tNET" title="Short Answer Feedback Assistant" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe></div>
 
@@ -23,9 +21,9 @@ schemes for any subject and level.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Provides content-based feedback</strong>
+<p><strong>Provides feedback on a variety of responses</strong>
 </p>
-<p>by generating marks and first draft of comments for &nbsp;students’ response
+<p>Generates marks and first draft of comments for &nbsp;students’ response
 based on the suggested mark scheme, which teachers can edit and build on.</p>
 </td>
 </tr>
