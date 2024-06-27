@@ -772,7 +772,7 @@ Others:
 Tel: 89408022
 <br>Email: support@cckss.edu.sg
 <br>
-Others: <a href="https://chuachukangsec-moe-edu-sg-admin.cwp.sg/announcement/sls-school-based-helpline">School Website</a>
+Others: 
 
 
 </td>
