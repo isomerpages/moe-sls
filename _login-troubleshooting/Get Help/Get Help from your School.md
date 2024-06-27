@@ -770,9 +770,9 @@ Others:
 <td>Chua Chu Kang Secondary School</td>
 <td>
 Tel: 89408022
-<br>Email: support@cckss.edu.sg
+<br>Email: cckss@moe.edu.sg
 <br>
-Others: 
+Others: https://www.chuachukangsec.moe.edu.sg/students/school-based-helpline/
 
 
 </td>
