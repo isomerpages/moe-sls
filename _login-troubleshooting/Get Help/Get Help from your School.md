@@ -772,7 +772,7 @@ Others:
 Tel: 89408022
 <br>Email: cckss@moe.edu.sg
 <br>
-	Others: <a href="https://www.chuachukangsec.moe.edu.sg/students/school-based-helpline">School-based Helpline</a>
+	Others: <a href="https://www.chuachukangsec.moe.edu.sg/students/school-based-helpline">Schoolbased Helpline</a>
 
 
 </td>
