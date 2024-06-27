@@ -14,7 +14,7 @@ variant: markdown
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/login-troubleshooting/authentication/log-in-to-sls-teacher/" rel="noopener noreferrer nofollow" target="_blank">Log in to SLS (Teacher)</a>
+<p><a href="/login-troubleshooting/authentication/how-to-log-in-teacher/" rel="noopener noreferrer nofollow" target="_blank">How to Log In (Teacher)</a>
 </p>
 </li>
 <li>
@@ -37,7 +37,7 @@ variant: markdown
 <div data-type="detailsContent" class="isomer-details-content">
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/login-troubleshooting/authentication/log-in-to-sls-student/" rel="noopener noreferrer nofollow" target="_blank">Log in to SLS (Student)</a>
+<p><a href="/login-troubleshooting/authentication/how-to-log-in-student/" rel="noopener noreferrer nofollow" target="_blank">How to Log In (Student)</a>
 </p>
 </li>
 <li>
