@@ -6,7 +6,7 @@ third_nav_title: Authentication
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="log-in-to-sls-teacher">Log in to SLS (Teacher)</h1>
+<h1 id="how-to-log-in-teacher">How to Log In (Teacher)</h1>
 <p>You can log in to SLS in two ways:</p>
 <p>a) Through MIMS, or</p>
 <p>b) Through the existing SLS login page.</p>
