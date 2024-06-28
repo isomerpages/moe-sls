@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Authentication/Authentication.md
-      - Authentication/Log in to SLS (Teacher).md
+      - Authentication/How to Log In (Teacher).md
       - Authentication/Reset SLS Password (Teacher).md
       - Authentication/SLS Password Reset Email.md
       - Authentication/Locked Account.md
       - Authentication/.keep
-      - Authentication/Log in to SLS (Student).md
+      - Authentication/How to Log In (Student).md
       - Authentication/Reset SLS Password (Student).md
       - Authentication/Forgot SLS Username.md
       - Authentication/Unsuccessful Password Reset Attempts.md
