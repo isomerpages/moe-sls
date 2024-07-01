@@ -264,6 +264,12 @@ https://www.coolmath4kids.com
 https://www.craiyon.com
 </td>
 </tr>
+<tr><td><strong>DCACLab <font color="#FBBC04">NEW!</font></strong></td>
+<td>Simulations</td>
+<td>
+https://dcaclab.com
+</td>
+</tr>
 <tr><td><strong>Developers</strong></td>
 <td>Module Tool for Experiments and Simulations</td>
 <td>
@@ -415,9 +421,9 @@ https://app.gather.town
 </td>
 </tr>
 <tr><td><strong>Google Gemini</strong></td> 
-<td>AI chatbot and conversational search engine</td>
+<td>AI Chatbot</td>
 <td>
-https://gemini.google.com <font color="#FBBC04">NEW!</font>
+https://gemini.google.com
 </td>
 </tr>
 <tr><td><strong>Gimkit</strong></td>
@@ -454,12 +460,6 @@ https://www.guggenheim.org/collection-online
 <td>Music Tool</td>
 <td>
 https://guitarflash3.com
-</td>
-</tr>
-<tr><td><strong>H5P</strong></td>
-<td>Content Authoring Tool</td>
-<td>
-https://tools.learnforlife.sg/h5psites
 </td>
 </tr>
 <tr><td><strong>Heyzine</strong></td>
@@ -582,7 +582,12 @@ https://www.kialo-edu.com
 https://learn.genetics.utah.edu
 </td>
 </tr>
-
+<tr><td><strong>Learning Circuits <font color="#FBBC04">NEW!</font></strong></td>
+<td>Simulations</td>
+<td>
+https://learningcircuits.co.uk
+</td>
+</tr>
 <tr><td><strong>Makecode</strong></td>
 <td>Coding Platform</td>
 <td>
@@ -653,9 +658,9 @@ https://miro.com
 </td>
 </tr>
 <tr><td><strong>Mizou</strong></td> 
-<td>AI tool for custom chatbot creation</td>
+<td>AI Chatbot</td>
 <td>
-https://mizou.com <font color="#FBBC04">NEW!</font>
+https://mizou.com
 </td>
 </tr>
 <tr><td><strong>Momento360</strong></td>
@@ -786,9 +791,9 @@ https://app.peardeck.com
 </td>
 </tr>
 <tr><td><strong>Perplexity AI</strong></td> 
-<td>AI chatbot and conversational search engine</td>
+<td>AI Chatbot</td>
 <td>
-https://www.perplexity.ai <font color="#FBBC04">NEW!</font>
+https://www.perplexity.ai
 </td>
 </tr>
 <tr><td><strong>Perusall</strong></td>
@@ -880,9 +885,9 @@ https://saatchigallery.com
 </td>
 </tr>
 <tr><td><strong>SchoolAI</strong></td> 
-<td>AI-enabled learning activities</td>
+<td>AI Chatbot</td>
 <td>
-https://app.schoolai.com <font color="#FBBC04">NEW!</font>
+https://app.schoolai.com
 </td>
 </tr>
 <tr><td><strong>Science Kids</strong></td>
@@ -1072,6 +1077,12 @@ https://www.thegamegal.com
 <td>Music Tools</td>
 <td>
 https://www.themusiclab.org
+</td>
+</tr>
+<tr><td><strong>The Physics Classroom <font color="#FBBC04">NEW!</font></strong></td>
+<td>Simulations</td>
+<td>
+https://www.physicsclassroom.com
 </td>
 </tr>
 <tr><td><strong>The Word Search</strong></td>
@@ -1488,6 +1499,8 @@ https://docs.google.com/presentation
 <tr><td><strong>H5P</strong></td>
 <td>Interactive Content Authoring Tool</td>
 <td>
+https://tools.learnforlife.sg/h5psites
+<br>
 https://ri-etd.h5p.com 
 </td>
 </tr>
@@ -1555,7 +1568,7 @@ https://authoring.concord.org
 https://lab.concord.org
 </td>
 </tr>
-<tr><td><strong>Mural </strong></td>
+<tr><td><strong>Mural</strong></td>
 <td>Digital Whiteboard</td>
 <td>
 https://app.mural.co 
@@ -1670,7 +1683,7 @@ https://hyss.padlet.org
 <br>
 https://jurongsecondaryschool.padlet.org
 <br>
-https://jurongwestsec.padlet.org <font color="#FBBC04">NEW!</font>
+https://jurongwestsec.padlet.org
 <br>
 https://jvs.padlet.org
 <br>
@@ -1728,15 +1741,15 @@ https://rafflesgirlsschool.padlet.org
 <br>
 https://riedu.padlet.org
 <br>
-https://riversidepri.padlet.org <font color="#FBBC04">NEW!</font>
+https://riversidepri.padlet.org
 <br>
 https://riversidesec.padlet.org
 <br>
 https://rivervalleyps.padlet.org
 <br>
-https://sgss.padlet.org
+https://sgss.padlet.orglearnin
 <br>
-https://sst-sg.padlet.org <font color="#FBBC04">NEW!</font>
+https://sst-sg.padlet.org
 <br>
 https://stanthonyscanossiansec.padlet.org
 <br>
@@ -1757,6 +1770,8 @@ https://victoriaschool.padlet.org
 https://vjc.padlet.org
 <br>
 https://waterwayprimary.padlet.org
+<br>
+https://wdlss.padlet.org <font color="#FBBC04">NEW!</font>
 <br>
 https://westgroveps.padlet.org
 <br>
@@ -1917,7 +1932,6 @@ https://www.ventusky.com
 <tr><td><strong>Vidyard</strong></td>
 <td>Online Video Tool</td>
 <td>
-
 https://share.vidyard.com
 </td>
 </tr>
