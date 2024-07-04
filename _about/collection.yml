@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - News/2023 Articles.md
       - News/2024 Articles.md
       - News/News Articles.md
       - News/.keep
