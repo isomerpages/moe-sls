@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - News/2024 Articles.md
       - News/News Articles.md
       - News/.keep
       - Overview of Student Learning Space.md
