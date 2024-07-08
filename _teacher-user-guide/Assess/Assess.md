@@ -124,7 +124,7 @@ that can be used on SSOE2 ACAD device with ITD lock down mode.</p>
 <li><strong>How do schools apply for the ITD Lockdown account? How long does the process takes?</strong>
 <p>Schools can apply for ONE ITD Lockdown Account through their HOD/ICTs or ICT Associates/Managers by raising a Service Request via the SSOE Service Portal.</p>
 <p>ONE Lockdown Account can be used by the whole cohort of students. This account will be available within 2-3 weeks of application, and will be valid for 12 weeks (3 months). Schools are advised to plan ahead and to put in the request early, where possible.</p>
-<p>Schools are also advised to include in the Service Request, “This account is for e-SBA in SLS.</p></li>
+<p>Schools are also advised to include in the Service Request, “This account is for e-SBA in SLS."</p></li>
 
 <li><strong>Can I find out more about the "ITD Lockdown Account"?</strong>
 <p>The lockdown account is meant to prevent students from accessing</p>

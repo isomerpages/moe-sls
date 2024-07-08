@@ -42,7 +42,7 @@ third_nav_title: Discover
 	<li>Create new activities in the Section by clicking <strong>Add New</strong> and selecting Activity.
 		<br><u>Note</u>:
 	<ul>
-		<li>For each Section, it is recommended to have 3 activities and 1 progressive quiz. These activities should correspond to the <a target="_blank" href="https:/go.gov.sg/epedagogyguide">Active Learning Processes (ALPs) outlined in the e-Pedagogy Guide </a> (requires iCON login).
+		<li>For each Section, it is recommended to have 3 activities and 1 progressive quiz. These activities should correspond to the <a target="_blank" href="https://go.gov.sg/epedagogyguide/">Active Learning Processes (ALPs) outlined in the e-Pedagogy Guide </a> (requires iCON login).
 		<table>
 <tbody><tr><th> Activities in Section</th><th>Active Learning Process </th><th>Suggested Content</th></tr>
 <tr><td>Activity 1</td><td>ALP 1: Activate Learning</td><td>Videos, interactive tools, open-ended questions to activate students’ prior knowledge</td></tr>
