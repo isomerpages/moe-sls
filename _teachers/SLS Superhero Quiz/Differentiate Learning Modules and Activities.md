@@ -42,7 +42,7 @@ variant: markdown
             <li>By assigning subgroups, you can decide which activities each subgroup should attempt.</li>
         </ol>
     </li>
-    <li><a target="_blank" href="/teacher-user-guide/differentiate/add-section-prerequisites/">Conditional section access</a>
+    <li><a target="_blank" href="/teacher-user-guide/differentiate/add-activity-quiz-section-prerequisites/">Conditional section access</a>
         <ol style="list-style-type: lower-roman;">
             <li>Allow students to pace themselves by enabling conditional section access.</li>
             <li>This way, sections that you select will be locked until students complete the required section.</li>
