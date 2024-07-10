@@ -27,7 +27,7 @@ variant: markdown
 <h2>Events</h2>
 <hr>
 <ul>
-<li><a target="_blank" href="/partners/events/sls-launchpad-2024/">SLS Partners Engagement Session 2024</a></li>  
+<li><a target="_blank" href="/partners/events/sls-launchpad-2024/">SLS Launchpad 2024</a></li>  
 <li><a target="_blank" href="/partners/events/sls-partners-engagement-session-2024/">SLS Partners Engagement Session 2024</a></li>  
 <li><a target="_blank" href="/partners/events/sls-pitch-day-2022/">SLS Pitch Day 2022</a></li>
 <li><a target="_blank" href="/partners/events/sls-pitch-day-2021/">SLS Pitch Day 2021</a></li></ul>
