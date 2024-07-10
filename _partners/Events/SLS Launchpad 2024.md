@@ -6,16 +6,16 @@ description: ""
 third_nav_title: Events
 ---
 <h1>SLS Launchpad 2024</h1>
-<hr>
 <h4>Event Overview</h4>
+<hr>
 <p>
 	SLS Launchpad is an event that aims to foster closer collaboration between SLS Office, MOE HQ, schools and teacher developers who are actively engaged in Edtech explorations. Through this session, participants gain insights on how the SLS supports the EdTech ecosystem, and some innovation projects that are integrated with SLS.
 </p>
 <p>
 	This year's session was held on 29 May 2024 at MOE Balestier and was jointly organised by the SLS Office and Classroom of the Future (CotF). 
 </p>
-<hr>
 <h4>Event Takeaways</h4>
+<hr>
 <ol>
 <li><strong>Supporting the EdTech Ecosystem</strong>
 <br>
@@ -53,8 +53,8 @@ third_nav_title: Events
 </ol>
 </li>
 </ol>
+<h4>Event Gallery</h4>
 <hr>
-<h2>Event Gallery</h2>
 <a target="_blank" href="/images/3Partners/JENI9375NY.jpg"><img src="/images/3Partners/JENI9375NY.jpg" alt="SLS Launchpad 2024" style="width: 25%; display: inline"></a>
 <a target="_blank" href="/images/3Partners/JENI9470NY.jpg"><img src="/images/3Partners/JENI9470NY.jpg" alt="SLS Launchpad 2024" style="width: 25%; display: inline"></a>
 <a target="_blank" href="/images/3Partners/JENI9540NY.jpg"><img src="/images/3Partners/JENI9540NY.jpg" alt="SLS Launchpad 2024" style="width: 25%; display: inline"></a>
