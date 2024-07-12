@@ -29,7 +29,7 @@ variant: markdown
 
 For Guided Learning, Mastery Check and Revision mode, after selecting a Topic/Subtopic, the learning mode best suited to your learning profile will be labelled with a ‘Recommended’ tag. You can follow the recommendation or choose another mode. You can also change to a more suitable learning mode later on. 
 <img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS_AccessAdaptiveLearning05.png" style="width: 100%;">
-For Test Myself mode, up to 40 questions from your current level of learning can be selected. To learn more, watch a <a target="_blank" href="https://drive.google.com/drive/folders/1Co101kq-a2EuRZjJ9Cu2dScbpvKc-0K6">video walk-through of the Test Myself mode</a>.
+For Test Myself mode, up to 40 questions from your current level of learning can be selected.
 <img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS_AS_ALS5b.png" style="width: 100%;">
 </li><li>At the end of the session, you can view your learning progress and decide what topics to learn next.
 <img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS_View_LP2.png" style="width: 100%;">	
