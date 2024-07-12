@@ -1,5 +1,5 @@
 ---
-title: "What's new in R1: with links to User Guide"
+title: What's new in R1 | With links to User Guide
 permalink: /updates-19-jun-2024/
 date: 2024-06-18
 layout: post
@@ -7,7 +7,7 @@ description: ""
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>What's new in R1: with links to User Guide</h1>
+<h1>What's new in R1 | With links to User Guide</h1>
 <p>This list details the changes users can expect in the upcoming SLS Release R1, which will be rolled out on 19 June 2024. Please note that SLS will be unavailable from 18 June 2024 00:00 to 19 June 2024 23:00 to facilitate this release.</p>
 <h2><img style="width:3rem; display: inline;" src="/images/Icons/Star.svg"> Features for All Users</h2>
 <details><summary><h4>Renaming “Lesson” to “Module”</h4></summary>

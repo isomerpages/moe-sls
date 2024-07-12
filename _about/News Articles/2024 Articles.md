@@ -4,7 +4,7 @@ permalink: /about/news/2024-articles/
 variant: markdown
 description: ""
 image: /images/FaviconLight.png
-third_nav_title: News
+third_nav_title: News Articles
 ---
 <h1>2024 Articles</h1>
 <h4><a href="https://www.irishtimes.com/ireland/education/2024/05/13/i-visited-singapore-to-see-why-it-is-ranked-as-the-top-education-system-in-the-world-heres-what-i-learned" target="_blank">I visited Singapore to see why it is ranked as the top education system in the world. Here’s what I learned</a></h4>

@@ -4,7 +4,7 @@ permalink: /about/news/2023-articles/
 variant: markdown
 description: ""
 image: /images/FaviconLight.png
-third_nav_title: News
+third_nav_title: News Articles
 ---
 <h1>2023 Articles</h1>
 <h4><a href="https://www.schoolbag.edu.sg/story/student-quizzes-tech-ceo-how-do-i-compete-with-ai" target="_blank"><u>Student quizzes tech CEO: So how do I compete with AI?</u></a></h4>

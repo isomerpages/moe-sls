@@ -4,7 +4,7 @@ permalink: /about/news/2022-articles/
 description: ""
 image: /images/FaviconLight.png
 variant: markdown
-third_nav_title: News
+third_nav_title: News Articles
 ---
 <h1>2022 Articles</h1>
 <h4><a href="https://www.moe.gov.sg/news/speeches/20221027-speech-by-minister-chan-chun-sing-at-the-national-technology-enhanced-learning-conference-ntel-2022-at-singapore-university-of-technology-and-design" target="_blank">Speech by Minister Chan Chun Sing at the National Technology-Enhanced Learning Conference (NTEL 2022) at Singapore University of Technology and Design</a></h4>

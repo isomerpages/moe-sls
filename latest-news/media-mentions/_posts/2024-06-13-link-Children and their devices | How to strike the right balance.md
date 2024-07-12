@@ -1,5 +1,5 @@
 ---
-title: "Children and their devices: How to strike the right balance"
+title: Children and their devices | How to strike the right balance
 date: 2024-06-13
 layout: link
 description: ""

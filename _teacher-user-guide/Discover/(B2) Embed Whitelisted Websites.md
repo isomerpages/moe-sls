@@ -7,8 +7,9 @@ variant: markdown
 ---
 <h1 class="page-title">(B2) Embed Whitelisted Websites</h1>
 <p>To identify the newly whitelisted websites, press Ctrl+F and type "NEW!" in the search bar.</p>
-<p>Schools are advised to be mindful of age advisories (e.g. For ChatGPT, explicit parental consent is required for children between 13 to 18) and the <a href="https://intranet.moe.gov.sg/etd/Pages/tfl_product_programmes_resources.aspx/" target="_blank">MOE AIEd Ethics Framework</a> (requires access to MOE Intranet) when using sites with AI affordances.</p>
-<p> If you have difficulties embedding whitelisted URL(s) in SLS lessons, you may&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>.</p>
+<p>Schools are advised to be mindful of the latest age advisories for whitelisted sites. Users can check the website description for age advisories on the listed sites in SLS External Resources by clicking on the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> . 
+</p><p>When using sites with AI affordances, schools should refer to the <a href="https://www.learning.moe.edu.sg/ai-in-education/responsible-ai/ai-in-education-ethics-framework/" target="_blank">MOE AIEd Ethics Framework</a> for comprehensive guidelines.
+</p><p> If you have difficulties embedding whitelisted URL(s) in SLS lessons, you may&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>.</p>
 <p><u>Note</u>: If you are unable to embed a website, the website may have been <a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">removed from whitelisting</a>.</p>
 <h2 class="section-title">Whitelisted Websites and URLs (Using Site URL)</h2>
 <hr>
