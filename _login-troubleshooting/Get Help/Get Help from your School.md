@@ -2509,7 +2509,7 @@ Others:
 Tel: 65701588
 <br>Email:
 <br>
-Others: Submit a request for unlocking of account or password reset (Refer to School Website) - (https://www.punggolviewpri.moe.edu.sg/ez-links/sls/)
+	Others: <a href="https://www.punggolviewpri.moe.edu.sg/ez-links/sls/">School Website</a>
 
 
 </td>
