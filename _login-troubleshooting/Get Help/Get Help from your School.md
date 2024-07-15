@@ -1064,17 +1064,6 @@ Others:
 </td>
 </tr>
 <tr>
-<td>Eunos Primary School</td>
-<td>
-Tel: 67463336/97732961
-<br>Email: eunos_ps@moe.edu.sg
-<br>
-Others:
-
-
-</td>
-</tr>
-<tr>
 <td>Evergreen Primary School</td>
 <td>
 Tel: 63687705
