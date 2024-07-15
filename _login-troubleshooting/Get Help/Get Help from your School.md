@@ -3279,8 +3279,7 @@ Others:
 Tel: 64438134
 <br>Email: lee_sheng_jie_fabian@schools.gov.sg
 <br>
-
-Upcoming E-learning Days: 19 May 2021 to 27 May 2021
+Others:
 
 
 </td>
