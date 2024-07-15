@@ -1185,7 +1185,7 @@ Others:
 </td>
 </tr>
 <tr>
-<td>Frontier Primary Schoo</td>
+<td>Frontier Primary School</td>
 <td>
 Tel: 65789555 ext.310
 <br>Email: nur_aisha_idris@schools.gov.sg, mohammed_nidzam_zakariah@schools.gov.sg
