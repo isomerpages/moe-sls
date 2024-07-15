@@ -1849,7 +1849,7 @@ Others:
 Tel: 64893326
 <br>Email: 
 <br>
-Others: <a href="https://meetoh.moe.edu.sg/for-students/mee-tohians-self-directed-learners">More Info</a>
+Others: <a href="https://meetoh.moe.edu.sg/for-students/mee-tohians-self-directed-learners">School Website</a>
 
 
 </td>
