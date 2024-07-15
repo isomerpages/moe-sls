@@ -1234,7 +1234,7 @@ Others:
 Tel: 64717451
 <br>Email: gesps@moe.edu.sg
 <br>
-Others: http://ganengsengpri.moe.edu.sg/
+	Others: <a href="http://ganengsengpri.moe.edu.sg/">School Website</a>
 
 
 </td>
