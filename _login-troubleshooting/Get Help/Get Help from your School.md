@@ -3065,17 +3065,6 @@ Others:
 </td>
 </tr>
 <tr>
-<td>Stamford Primary School</td>
-<td>
-Tel: 62945074
-<br>Email: 
-<br>
-Others:
-
-
-</td>
-</tr>
-<tr>
 <td>Swiss Cottage Secondary School</td>
 <td>
 Tel: 66319620/65637173
