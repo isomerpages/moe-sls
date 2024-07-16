@@ -1781,9 +1781,9 @@ Others: iCON emails of teachers (Primary section)
 <td>Marsiling Primary School</td>
 <td>
 Tel: 62696193
-<br>Email: chua_ban_hwee_jasper@schools.gov.sg
+<br>Email: chua_ban_hwee_jasper@schools.gov.sg; siti_fatimah_bt_muhammad@schools.gov.sg; ang_yew_leong@schools.gov.sg
 <br>
-Others: siti_fatimah_bt_muhammad@schools.gov.sg; ang_yew_leong@schools.gov.sg
+Others:
 
 
 </td>
