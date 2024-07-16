@@ -1108,17 +1108,6 @@ Others: Call the General Office from 8 a.m. to 3 p.m. for assistance.
 </td>
 </tr>
 <tr>
-<td>Fajar Secondary School</td>
-<td>
-Tel: 67691491
-<br>Email:
-<br>
-Others:
-
-
-</td>
-</tr>
-<tr>
 <td>Farrer Park Primary School</td>
 <td>
 Tel: 62952272
