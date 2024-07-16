@@ -2394,17 +2394,6 @@ Others:
 </td>
 </tr>
 <tr>
-<td>Ping Yi Secondary School</td>
-<td>
-Tel: 64489580
-<br>Email: pyss@moe.edu.sg
-<br>
-Others:
-
-
-</td>
-</tr>
-<tr>
 <td>Pioneer Primary School</td>
 <td>
 Tel: 67932397
