@@ -937,7 +937,7 @@ Others:
 Tel: 67667675
 <br>Email:
 <br>
-Others: (Recommended) <a href="https://form.gov.sg/#!/5e3dfc284bfa3c0011351632">Form SG</a>
+Others: <a href="https://form.gov.sg/#!/5e3dfc284bfa3c0011351632">Form SG</a>
 
 
 </td>
