@@ -3186,17 +3186,6 @@ Others: <a href="https://go.gov.sg/twpshelpline">Form SG</a>
 </td>
 </tr>
 <tr>
-<td>Teck Whye Secondary School</td>
-<td>
-Tel: 92256525
-<br>Email: HBL_helpdesk@twss.edu.sg
-<br>
-Others:
-
-
-</td>
-</tr>
-<tr>
 <td>Telok Kurau Primary School</td>
 <td>
 Tel: 62441600
