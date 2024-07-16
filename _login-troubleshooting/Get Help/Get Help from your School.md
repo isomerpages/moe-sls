@@ -2947,9 +2947,9 @@ Others:
 <td>St. Anthony's Primary School</td>
 <td>
 Tel: 65690822
-<br>Email: lim_suan_chu@moe.edu.sg
+<br>Email: lim_suan_chu@moe.edu.sg; kiliammal_kathamuthu@moe.edu.sg
 <br>
-Others: Email kiliammal_kathamuthu@moe.edu.sg
+Others:
 
 
 </td>
