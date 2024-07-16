@@ -3120,17 +3120,6 @@ Others:
 </td>
 </tr>
 <tr>
-<td>Tanglin Secondary School</td>
-<td>
-Tel: 64248200
-<br>Email: tanglin_ss@moe.edu.sg
-<br>
-Others:
-
-
-</td>
-</tr>
-<tr>
 <td>Tanjong Katong Girls' School</td>
 <td>
 Tel: 63441593
