@@ -2531,7 +2531,7 @@ Others:
 Tel: 64741055
 <br>Email: qtss@moe.edu.sg
 <br>
-Others: Submit a request for unlocking of account or password reset <a href="https://form.gov.sg/5c33056e5bb1af0017756470">here</a>
+Others: <a href="https://form.gov.sg/5c33056e5bb1af0017756470">Form SG</a>
 
 
 </td>
