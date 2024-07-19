@@ -30,7 +30,7 @@ variant: markdown
 <ul>
 <li>Students receive feedback automatically after submitting each question.</li>
 <li>Free-response, Audio-response and File Submission questions will not have marks allocated. Students will be able to see the suggested answer (if any), feedback (if any), and Teacher's Feedback (if any) after submission.</li>
-<li>Quiz scores will be calculated based on these 5 automatically-graded question types: Multiple-Choice Questions (MCQs), Multiple Response Questions (MRQs), Fill-in-the-Blanks (FITB( Questions, Click-and-Drop (CND) Questions, and Error-Editing Questions.</li>
+<li>Quiz scores will be calculated based on these 5 automatically-graded question types: Multiple-Choice Questions (MCQs), Multiple Response Questions (MRQs), Fill-in-the-Blanks (FITB) Questions, Click-and-Drop (CND) Questions, and Error-Editing Questions.</li>
 </ul>
 </li>
 <li><strong>Auto-Graded Quiz</strong>
