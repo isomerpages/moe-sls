@@ -703,7 +703,7 @@ Others:
 <tr>
 <td>CHIJ St. Nicholas Girls' School</td>
 <td>
-Tel: 63541839(Secondary Section),64549698(Primary Section)
+Tel: 63541839(Secondary Section), 64549698(Primary Section)
 <br>Email:
 <br>
 Others:
