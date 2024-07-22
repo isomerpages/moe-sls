@@ -9,7 +9,7 @@ variant: markdown
 <h1 id="access-adaptive-learning-system-als-">(A1) Access Adaptive Learning System (ALS) (Enhanced)</h1>
 <ol>
 <li>To access ALS, open the left menu from the header at the homepage and click <strong>Resources</strong>, followed by <strong>Adaptive Learning</strong>.</li>
-<li>Access to Adaptive Learning is based on level and subject. Currently, it is available for selected topics in Mathematics (Upper Primary) and Geography (Upper Secondary). More subjects and topics will be added progressively. </li>
+<li>Access to Adaptive Learning is based on level and subject. Students can access ALS content below their current level of learning and one level above their current level of learning. (If a student is in Primary 5, he/she will be able to access content tagged to Primary 6, together with content from Primary 1 to 4). Currently, it is available for selected topics in Mathematics (Upper Primary) and Geography (Upper Secondary). More subjects and topics will be added progressively. </li>
 <img alt="(A1) Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning01.png" style="width: 100%;">
 <br>
 <li>When you first access the ALS, you will be presented with some questions for the system to understand your learning profile and goals. You will be prompted to complete the questions again at the start of each week to capture your weekly Learning Goals. </li>

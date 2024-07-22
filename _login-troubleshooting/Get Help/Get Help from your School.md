@@ -703,7 +703,7 @@ Others:
 <tr>
 <td>CHIJ St. Nicholas Girls' School</td>
 <td>
-Tel: 63541839(Secondary Section),64549698(Primary Section)
+Tel: 63541839(Secondary Section), 64549698(Primary Section)
 <br>Email:
 <br>
 Others:
@@ -2738,7 +2738,7 @@ Others:
 <td>Seng Kang Primary School</td>
 <td>
 Tel: 63840809
-<br>Email: mohammed_azhar_mohd_shariff@schools.gov.sg,skps@moe.edu.sg
+<br>Email: mohammed_azhar_mohd_shariff@schools.gov.sg, skps@moe.edu.sg
 <br>
 Others: <a href="http://tinyurl.com/SLS-Unlock-Account-2019">Form SG</a>
 
@@ -3695,7 +3695,7 @@ Others:
 <td>Zhangde Primary School</td>
 <td>
 Tel: 62740357
-<br>Email: tan_kim_heng_felix@schools.gov.sg,lee_hui_fen_fiona@schools.gov.sg
+<br>Email: tan_kim_heng_felix@schools.gov.sg, lee_hui_fen_fiona@schools.gov.sg
 <br>
 Others:
 
