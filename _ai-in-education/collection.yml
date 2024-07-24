@@ -1,5 +1,5 @@
 collections:
-  ai-in-sls:
+  ai-in-education:
     output: true
     order:
       - AI in SLS/.keep
