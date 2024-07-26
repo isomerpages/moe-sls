@@ -8,7 +8,11 @@ third_nav_title: AI in SLS
 ---
 <h1>AI in Education Events for 2024</h1>
 <p></p>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
@@ -88,6 +92,15 @@ Group Discussion (CLOSED)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>30 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/als-content-tagging-workshop-eposter" rel="noopener noreferrer nofollow" target="_blank">ALS Content Tagging Workshop</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>23 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -99,7 +112,12 @@ Group Discussion (CLOSED)</p>
 </table>
 <h3>Past Events</h3>
 <p>Check out the recordings of our past events below.</p>
-<table>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">

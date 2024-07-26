@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://chatgpt.com/g/g-bDmQA0VLG-sls-teacher-guide
+external: https://chatgpt.com/g/g-8u2yS5ufS-ask-sls
 ---

@@ -2782,7 +2782,7 @@ Others:
 <td>Serangoon Secondary School</td>
 <td>
 Tel: 63851589
-<br>Email: chan_chee_hoe_A@moe.edu.sg
+<br>Email: muhammad_imran_samat@moe.edu.sg
 <br>
 Others:
 

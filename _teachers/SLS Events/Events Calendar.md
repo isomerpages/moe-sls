@@ -78,17 +78,15 @@ variant: markdown
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
                 <p><a target="_blank" href="https://go.gov.sg/sls-level1-course">SLS Level 1 Certification</a><br><br><a rel="noopener noreferrer" target="_blank" href="https://go.gov.sg/sls-level2-course-organise">SLS Level 2 - Organise Certification</a></p>
-<p>Release 1</p>
+<p><a target="_blank" href="/updates-19-jun-2024/">Release 1</a></p>
             </td>
         </tr>
         <tr>            
             <td>
                 <p>5 Jul</p>
-                <p>Jul</p>
             </td>            
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
-                <p>SgLDC Livestream: Session 1</p>
             </td>
         </tr>
         <tr>            
@@ -112,11 +110,9 @@ variant: markdown
         <tr>            
             <td>
                 <p>11 Oct</p>
-                <p>Oct</p>
             </td>            
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
-                <p>SgLDC Livestream: Session 2</p>
             </td>
         </tr>
         <tr>            
