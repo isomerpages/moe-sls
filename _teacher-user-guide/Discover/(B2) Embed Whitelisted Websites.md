@@ -1283,7 +1283,6 @@ https://zbschools.sg
 https://www.zbschools.sg
 </td>
 </tr>
-
 </tbody>
 </table>
             
@@ -1299,7 +1298,7 @@ https://www.zbschools.sg
 </li>
 <li><p>Click <strong>Save</strong> when done.
 </p></li>											
-
+</ol>
 <table>
 <thead><tr>
 <th>Name of Website</th>
@@ -1987,4 +1986,4 @@ https://zoom.us
 </td>
 </tr>
 </tbody>
-</table></ol>
+</table>
