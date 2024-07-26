@@ -84,11 +84,9 @@ variant: markdown
         <tr>            
             <td>
                 <p>5 Jul</p>
-                <p>Jul</p>
             </td>            
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
-                <p>SgLDC Livestream: Session 1</p>
             </td>
         </tr>
         <tr>            
@@ -112,11 +110,9 @@ variant: markdown
         <tr>            
             <td>
                 <p>11 Oct</p>
-                <p>Oct</p>
             </td>            
             <td>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
-                <p>SgLDC Livestream: Session 2</p>
             </td>
         </tr>
         <tr>            
