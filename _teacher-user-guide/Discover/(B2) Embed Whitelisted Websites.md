@@ -9,9 +9,11 @@ variant: markdown
 <p>To identify the newly whitelisted websites, press Ctrl+F and type "NEW!" in the search bar.</p>
 <p>Schools are advised to be mindful of the latest age advisories for whitelisted sites. Users can check the website description for age advisories on the listed sites in SLS External Resources by clicking on the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> .</p>
 <p>When using sites with AI affordances, schools should refer to the <a href="/ai-in-education/responsible-ai/ai-in-education-ethics-framework/" target="_blank">MOE AIEd Ethics Framework</a> for comprehensive guidelines.</p>
-<p><u>Note</u>:</p>
-<ol>If you would like SLS to consider a website for whitelisting, please submit a request through the <a target="_blank" href="https://go.gov.sg/sls-whitelist-form">Website Whitelisting Form</a>.</ol>
-<ol>If you are unable to embed a website, the website may have been <a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">removed from whitelisting</a>. Alternatively, you may&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>.<p></p></ol>
+<p><u>Notes</u>:</p>
+<ol>
+<li>If you would like SLS to consider a website for whitelisting, please submit a request through the <a target="_blank" href="https://go.gov.sg/sls-whitelist-form">Website Whitelisting Form</a>.</li>
+<li>If you are unable to embed a website, the website may have been <a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">removed from whitelisting</a>. Alternatively, you may&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>.<p></p></li>
+</ol>
 <h2 class="section-title">Whitelisted Websites and URLs (Using Site URL)</h2>
 <hr>
 <p>To embed a whitelisted website using site URL:</p>
