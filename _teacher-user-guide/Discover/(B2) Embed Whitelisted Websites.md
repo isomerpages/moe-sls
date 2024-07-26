@@ -7,10 +7,11 @@ variant: markdown
 ---
 <h1 class="page-title">(B2) Embed Whitelisted Websites</h1>
 <p>To identify the newly whitelisted websites, press Ctrl+F and type "NEW!" in the search bar.</p>
-<p>Schools are advised to be mindful of the latest age advisories for whitelisted sites. Users can check the website description for age advisories on the listed sites in SLS External Resources by clicking on the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> . 
-</p><p>When using sites with AI affordances, schools should refer to the <a href="https://www.learning.moe.edu.sg/ai-in-education/responsible-ai/ai-in-education-ethics-framework/" target="_blank">MOE AIEd Ethics Framework</a> for comprehensive guidelines.
-</p><p> If you have difficulties embedding whitelisted URL(s) in SLS lessons, you may&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>.</p>
-<p><u>Note</u>: If you are unable to embed a website, the website may have been <a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">removed from whitelisting</a>.</p>
+<p>Schools are advised to be mindful of the latest age advisories for whitelisted sites. Users can check the website description for age advisories on the listed sites in SLS External Resources by clicking on the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> .</p>
+<p>When using sites with AI affordances, schools should refer to the <a href="/ai-in-education/responsible-ai/ai-in-education-ethics-framework/" target="_blank">MOE AIEd Ethics Framework</a> for comprehensive guidelines.</p>
+<p><u>Note</u>:</p>
+<ol>If you would like SLS to consider a website for whitelisting, please submit a request through the <a target="_blank" href="https://go.gov.sg/sls-whitelist-form">Website Whitelisting Form</a>.</ol>
+<ol>If you are unable to embed a website, the website may have been <a href="/teacher-user-guide/discover/previously-whitelisted-and-non-whitelisted-websites/" target="_blank">removed from whitelisting</a>. Alternatively, you may&nbsp;email us&nbsp;at <a href="mailto:helpdesk@sls.ufinity.com">helpdesk@sls.ufinity.com</a>.<p></p></ol>
 <h2 class="section-title">Whitelisted Websites and URLs (Using Site URL)</h2>
 <hr>
 <p>To embed a whitelisted website using site URL:</p>
@@ -265,7 +266,7 @@ https://www.coolmath4kids.com
 https://www.craiyon.com
 </td>
 </tr>
-<tr><td><strong>DCACLab <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>DCACLab</strong></td>
 <td>Simulations</td>
 <td>
 https://dcaclab.com
@@ -547,12 +548,6 @@ https://javalab.org/en
 https://jeopardylabs.com
 </td>
 </tr>
-<tr><td><strong>Jotform</strong></td>
-<td>Online Spreadsheet Tool</td>
-<td>
-https://www.jotform.com
-</td>
-</tr>
 <tr><td><strong>Kahoot</strong></td>
 <td>Survey/Quiz Tool</td>
 <td>
@@ -583,7 +578,7 @@ https://www.kialo-edu.com
 https://learn.genetics.utah.edu
 </td>
 </tr>
-<tr><td><strong>Learning Circuits <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Learning Circuits</strong></td>
 <td>Simulations</td>
 <td>
 https://learningcircuits.co.uk
@@ -734,6 +729,12 @@ https://kids.nationalgeographic.com
 <td>Art Resource Website</td>
 <td>
 https://www.npg.org.uk/collections
+</td>
+</tr>
+<tr><td><strong>National Theatre of Japan <font color="#FBBC04">NEW!</font></strong></td>
+<td>Drama Resources</td>
+<td>
+https://www2.ntj.jac.go.jp/unesco/kabuki/en
 </td>
 </tr>
 <tr><td><strong>Natural Readers</strong></td>
@@ -1080,7 +1081,7 @@ https://www.thegamegal.com
 https://www.themusiclab.org
 </td>
 </tr>
-<tr><td><strong>The Physics Classroom <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>The Physics Classroom</strong></td>
 <td>Simulations</td>
 <td>
 https://www.physicsclassroom.com
@@ -1162,6 +1163,12 @@ https://www.turtlediary.com
 <td>Interactive Story Tool</td>
 <td>
 https://twinery.org
+</td>
+</tr>
+<tr><td><strong>Typing.com <font color="#FBBC04">NEW!</font></strong></td>
+<td>Typing Tool</td>
+<td>
+https://www.typing.com
 </td>
 </tr>
 <tr><td><strong>Typing Club App</strong></td>
@@ -1248,7 +1255,6 @@ https://wordwall.net
 https://www.wordwall.net
 </td>
 </tr>
-
 <tr><td><strong>Ximalaya</strong></td>
 <td>Audio Resources</td>
 <td>
@@ -1413,6 +1419,12 @@ https://flip.com
 https://cdn.flipsnack.com
 </td>
 </tr>
+<tr><td><strong>Forms.app <font color="#FBBC04">NEW!</font></strong></td>
+<td>Form Builder Tool</td>
+<td>
+https://my.forms.app
+</td>
+</tr>
 <tr><td><strong>FormSG</strong></td>
 <td>Survey/Quiz Tool</td>
 <td>
@@ -1441,6 +1453,8 @@ https://www.gapminder.org
 <td>Content Authoring Tool</td>
 <td>
 https://view.genial.ly
+<br>
+https://view.genially.com <font color="#FBBC04">NEW!</font>
 </td>
 </tr>
 <tr><td><strong>GeoGebra</strong></td>
@@ -1515,6 +1529,14 @@ https://www.heyhi.sg
 <td>Jigsaw Tool</td>
 <td>
 https://www.jigsawplanet.com
+</td>
+</tr>
+<tr><td><strong>Jotform</strong></td>
+<td>Form Builder Tool</td>
+<td>
+https://form.jotform.com <font color="#FBBC04">NEW!</font>
+<br>
+https://www.jotform.com
 </td>
 </tr>
 <tr><td><strong>Kami</strong></td>
@@ -1632,6 +1654,8 @@ https://bvss.padlet.org
 <br>
 https://canberrasecondary.padlet.org
 <br>
+https://cantonmentprimary.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://casuarinaprimaryschool.padlet.org
 <br>
 https://changkatchangisec.padlet.org
@@ -1748,6 +1772,8 @@ https://riversidesec.padlet.org
 <br>
 https://rivervalleyps.padlet.org
 <br>
+https://sengkangsec.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://sgss.padlet.orglearnin
 <br>
 https://sst-sg.padlet.org
@@ -1772,7 +1798,7 @@ https://vjc.padlet.org
 <br>
 https://waterwayprimary.padlet.org
 <br>
-https://wdlss.padlet.org <font color="#FBBC04">NEW!</font>
+https://wdlss.padlet.org
 <br>
 https://westgroveps.padlet.org
 <br>
@@ -1959,7 +1985,4 @@ https://zoom.us
 </td>
 </tr>
 </tbody>
-</table>
-<h2 class="section-title">Request for Websites to be Whitelisted</h2>
-<hr>
-<p>If you would like SLS to consider a website for whitelisting, please submit a request through the <a target="_blank" href="https://go.gov.sg/sls-whitelist-form">Website Whitelisting Form</a>. Before doing so, please check that the terms of use of the website allow for embedding into external sites such as SLS.</p></ol>
+</table></ol>
