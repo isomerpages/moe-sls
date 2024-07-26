@@ -24,7 +24,7 @@ variant: markdown
 <li>To edit a Discussion, hover your mouse over the Discussion and click the component, or the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">. </li>
 <li>To delete your Discussion, click the <strong>Delete</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">.</li>
 </ol>
-<p><img alt="Add a Discussion" style="width: 80%;" src="/images/2Teacher/C-PollEdit.png"></p>
+<p><img alt="Add a Discussion" style="width: 80%;" src="/images/2Teacher/c_discussion.png"></p>
 <h2 id="-preview-as-student-">Preview as Student</h2>
 <hr>
 <p>When you Preview as Student or assign a Discussion to students, students will be able to create Posts in response to the question.</p>
