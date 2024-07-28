@@ -51,7 +51,7 @@ variant: markdown
 <h2>Quiz Settings</h2>
 <hr>
 <img alt="Create Quizzes" style="width: 80%;" src="/images/2Teacher/AS_CreateQuiz2.png">
-<p><strong>Timed Quiz</strong></p>
+<p></p><h3>Timed Quiz</h3><p></p>
 <p><strong>For all Quiz Modes</strong></p>
 <p>Timed Quiz records the time a student takes to complete and submit the quiz. The time taken by the student to submit the quiz will be stated on the Monitor Assignment page.</p>
 <p>To set a Timed Quiz:</p>
