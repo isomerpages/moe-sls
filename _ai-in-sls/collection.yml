@@ -4,12 +4,12 @@ collections:
     order:
       - About AI in SLS.md
       - AI in Education Events.md
-      - AI in SLS/.keep
-      - AI in SLS/Adaptive Learning System.md
-      - AI in SLS/Authoring Copilot.md
-      - AI in SLS/Feedback Assistant Mathematics.md
-      - AI in SLS/Language Feedback Assistant for English.md
-      - AI in SLS/Short Answer Feedback Assistant.md
+      - AIEd Features/.keep
+      - AIEd Features/Adaptive Learning System.md
+      - AIEd Features/Authoring Copilot.md
+      - AIEd Features/Feedback Assistant Mathematics.md
+      - AIEd Features/Language Feedback Assistant for English.md
+      - AIEd Features/Short Answer Feedback Assistant.md
       - Responsible AI/.keep
       - Responsible AI/AI in Education Ethics Framework.md
       - Responsible AI/Guidance on Generative AI.md
