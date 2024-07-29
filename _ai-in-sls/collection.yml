@@ -4,7 +4,6 @@ collections:
     order:
       - About AI in SLS.md
       - AI in SLS/.keep
-      - AI in SLS/AI in Education Events.md
       - AI in SLS/Adaptive Learning System.md
       - AI in SLS/Authoring Copilot.md
       - AI in SLS/Feedback Assistant Mathematics.md
