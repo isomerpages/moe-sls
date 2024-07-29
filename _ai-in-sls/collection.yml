@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - AI in SLS/.keep
-      - AI in SLS/About AI in SLS.md
       - AI in SLS/AI in Education Events.md
       - AI in SLS/Adaptive Learning System.md
       - AI in SLS/Authoring Copilot.md
