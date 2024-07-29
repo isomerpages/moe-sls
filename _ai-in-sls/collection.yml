@@ -2,8 +2,8 @@ collections:
   ai-in-sls:
     output: true
     order:
-      - AI in Education Events.md
       - About AI in SLS.md
+      - AI in Education Events.md
       - AI in SLS/.keep
       - AI in SLS/Adaptive Learning System.md
       - AI in SLS/Authoring Copilot.md
