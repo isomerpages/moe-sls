@@ -2,6 +2,7 @@ collections:
   ai-in-sls:
     output: true
     order:
+      - About AI in SLS.md
       - AI in SLS/.keep
       - AI in SLS/AI in Education Events.md
       - AI in SLS/Adaptive Learning System.md
