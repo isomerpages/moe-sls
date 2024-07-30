@@ -9,6 +9,9 @@ variant: tiptap
 ---
 <p>As we gear up for e-assessments, here are some handy tips from the SLS
 team to ensure a smooth experience,</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/eassessment.png">
+</div>
 <ol data-tight="true" class="tight">
 <li>
 <p>Check that all students are able to access SLS. Perform password resets
