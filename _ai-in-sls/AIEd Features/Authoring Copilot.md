@@ -1,9 +1,10 @@
 ---
 title: Authoring Copilot
-permalink: /authoring-copilot/
+permalink: /ai-in-sls/aied-features/authoring-copilot/
 variant: tiptap
 description: ""
-third_nav_title: AI in SLS
+third_nav_title: AIEd Features
+image: /images/FaviconLight.png
 ---
 <h1>Authoring Copilot</h1>
 <p>ACP is an AI-enabled feature in SLS that supports lesson planning for

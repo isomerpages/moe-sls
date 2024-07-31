@@ -1,5 +1,5 @@
 ---
-title: SLS Launchpad 2024 | Fostering EdTech Collaborations
+title: SLS Launchpad 2024 – Fostering EdTech Collaborations
 date: 2024-07-12
 layout: link
 description: ""

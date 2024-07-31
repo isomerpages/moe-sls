@@ -1,10 +1,9 @@
 ---
-title: AI in Education Events
-permalink: /ai-in-education/ai-in-sls/ai-in-education-events/
+title: AIEd Events
+permalink: /ai-in-sls/aied-events/
 variant: tiptap
 description: ""
 image: /images/FaviconLight.png
-third_nav_title: AI in SLS
 ---
 <h1>AI in Education Events for 2024</h1>
 <p></p>

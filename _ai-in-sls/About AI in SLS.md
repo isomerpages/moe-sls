@@ -1,12 +1,11 @@
 ---
-title: AI in SLS
-permalink: /ai-in-education/ai-in-sls/ai-in-sls/
+title: About AI in SLS
+permalink: /ai-in-sls/about-ai-in-sls/
 variant: tiptap
 description: ""
 image: /images/FaviconLight.png
-third_nav_title: AI in SLS
 ---
-<h1>AI in SLS</h1>
+<h1>About AI in SLS</h1>
 <p>To enable greater customisation of learning and augment teachers’ professional
 practice, MOE is developing AI-enabled features in the SLS. This supports
 the Transforming Education through Technology Masterplan 2030, as well

@@ -1,5 +1,5 @@
 ---
-title: (A3,14) Localisation and EDictionary
+title: (A3,14) Localisation and E–Dictionary
 permalink: /teacher-user-guide/author/localisation-and-edictionary/
 description: ""
 third_nav_title: Author

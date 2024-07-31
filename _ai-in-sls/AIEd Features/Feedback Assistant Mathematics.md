@@ -1,10 +1,10 @@
 ---
 title: Feedback Assistant Mathematics
-permalink: /ai-in-education/ai-in-sls/feedback-assistant-mathematics/
+permalink: /ai-in-sls/aied-features/feedback-assistant-mathematics/
 variant: tiptap
 description: ""
 image: /images/FaviconLight.png
-third_nav_title: AI in SLS
+third_nav_title: AIEd Features
 ---
 <h1>Feedback Assistant - Mathematics</h1>
 <p>FA-Math is a rules-based engine that offers step-by-step hints and feedback

@@ -1,6 +1,6 @@
 ---
 title: AI Literacy
-permalink: /ai-in-education/ai-literacy/ai-literacy/
+permalink: /ai-in-sls/ai-literacy/
 variant: tiptap
 description: ""
 image: /images/FaviconLight.png

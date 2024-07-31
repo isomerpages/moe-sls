@@ -1,5 +1,5 @@
 ---
-title: (A3,12) Text to Speech (Enhanced)
+title: (A3,12) Text–to–Speech (Enhanced)
 permalink: /teacher-user-guide/author/text-to-speech/
 description: ""
 third_nav_title: Author

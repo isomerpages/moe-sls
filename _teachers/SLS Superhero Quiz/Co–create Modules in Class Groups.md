@@ -1,5 +1,5 @@
 ---
-title: Co create Modules in Class Groups
+title: Co–create Modules in Class Groups
 permalink: /teachers/sls-superhero-quiz/co-create-modules-in-class-groups/
 description: ""
 third_nav_title: SLS Superhero Quiz

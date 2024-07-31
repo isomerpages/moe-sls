@@ -1,0 +1,16 @@
+collections:
+  ai-in-sls:
+    output: true
+    order:
+      - About AI in SLS.md
+      - AIEd Events.md
+      - AIEd Features/.keep
+      - AIEd Features/Adaptive Learning System.md
+      - AIEd Features/Authoring Copilot.md
+      - AIEd Features/Feedback Assistant Mathematics.md
+      - AIEd Features/Language Feedback Assistant for English.md
+      - AIEd Features/Short Answer Feedback Assistant.md
+      - Responsible AI/.keep
+      - Responsible AI/AI in Education Ethics Framework.md
+      - Responsible AI/Guidance on Generative AI.md
+      - AI Literacy.md

@@ -1,10 +1,10 @@
 ---
 title: Language Feedback Assistant for English
-permalink: /ai-in-education/ai-in-sls/language-feedback-assistant-for-english/
+permalink: /ai-in-sls/aied-features/language-feedback-assistant-for-english/
 variant: tiptap
 description: ""
 image: /images/FaviconLight.png
-third_nav_title: AI in SLS
+third_nav_title: AIEd Features
 ---
 <h1>Language Feedback Assistant for English</h1>
 <p>LangFA-EL supports students'&nbsp;writing process by providing feedback

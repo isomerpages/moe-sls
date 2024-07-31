@@ -1,6 +1,6 @@
 ---
 title: Guidance on Generative AI
-permalink: /ai-in-education/responsible-ai/guidance-on-generative-ai/
+permalink: /ai-in-sls/responsible-ai/guidance-on-generative-ai/
 variant: tiptap
 description: ""
 image: /images/FaviconLight.png

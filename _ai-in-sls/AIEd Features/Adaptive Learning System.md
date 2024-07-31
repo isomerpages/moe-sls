@@ -1,10 +1,10 @@
 ---
 title: Adaptive Learning System
-permalink: /ai-in-education/ai-in-sls/adaptive-learning-system/
+permalink: /ai-in-sls/aied-features/adaptive-learning-system/
 variant: markdown
 description: ""
 image: /images/FaviconLight.png
-third_nav_title: AI in SLS
+third_nav_title: AIEd Features
 ---
 <h1>Adaptive Learning System</h1>
 <p>The ALS provides a&nbsp;personalised&nbsp;learning pathway for&nbsp;each

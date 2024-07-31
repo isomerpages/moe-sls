@@ -1,5 +1,5 @@
 ---
-title: What's new in R1 | With links to User Guide
+title: What's new in R1 – With links to User Guide
 permalink: /updates-19-jun-2024/
 date: 2024-06-18
 layout: post

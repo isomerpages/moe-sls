@@ -1,10 +1,10 @@
 ---
 title: Short Answer Feedback Assistant
-permalink: /ai-in-education/ai-in-sls/short-answer-feedback-assistant/
+permalink: /ai-in-sls/aied-features/short-answer-feedback-assistant/
 variant: markdown
 description: ""
 image: /images/FaviconLight.png
-third_nav_title: AI in SLS
+third_nav_title: AIEd Features
 ---
 <h1>Short Answer Feedback Assistant</h1>
 <p>Short Answer Feedback Assistant (ShortAnsFA) provides suggested marks and auto-generated feedback for free-response questions for any subject and level.</p>
