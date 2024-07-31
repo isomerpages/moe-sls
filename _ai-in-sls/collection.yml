@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - About AI in SLS.md
-      - AI in Education Events.md
+      - AIEd Events.md
       - AIEd Features/.keep
       - AIEd Features/Adaptive Learning System.md
       - AIEd Features/Authoring Copilot.md
