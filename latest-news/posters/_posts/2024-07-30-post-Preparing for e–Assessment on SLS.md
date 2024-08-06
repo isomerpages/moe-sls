@@ -14,20 +14,23 @@ team to ensure a smooth experience,</p>
 </div>
 <ol data-tight="true" class="tight">
 <li>
-<p>Check that all students are able to access SLS. Perform password resets
-before e-assessment day (if needed).</p>
+<p>Check that all students are able to access SLS. Perform <a href="/teacher-user-guide/administer/reset-student-passwords-for-classes/" rel="noopener noreferrer nofollow" target="_blank">password resets</a> before
+e-assessment day (if needed).</p>
 </li>
 <li>
-<p>Create a passcode for students in your class group if they forget their
-passwords on the day of the e-assessment.</p>
+<p>Create a <a href="/teacher-user-guide/administer/generate-passcode-for-students/" rel="noopener noreferrer nofollow" target="_blank">passcode</a> for
+students in your class group if they forget their passwords on the day
+of the e-assessment.</p>
 </li>
 <li>
-<p>Provide invigilating teachers “Co-Teacher” rights to the class group.</p>
+<p>Provide invigilating teachers “<a href="/teacher-user-guide/organise/create-class-groups/" rel="noopener noreferrer nofollow" target="_blank">Co-Teacher</a>”
+rights to the class group.</p>
 </li>
 <li>
-<p>Use SLS’s print-lite feature to print hard copies of the e-assessment
-as back-up. This allows students to complete the e-assessment if they are
-unable to access SLS or the e-assessment on the day of assessment.</p>
+<p>Use SLS’s <a href="/teacher-user-guide/discover/view-print-friendly-worksheet/" rel="noopener noreferrer nofollow" target="_blank">Print-Friendly</a> feature
+to print hard copies of the e-assessment as back-up. This allows students
+to complete the e-assessment if they are unable to access SLS or the e-assessment
+on the day of assessment.</p>
 </li>
 <li>
 <p>Take photos/screenshots of students’ responses if they are unable to submit
