@@ -7,6 +7,11 @@ image: /images/FaviconLight.png
 third_nav_title: News Articles
 ---
 <h1>2024 Articles</h1>
+<h4><a href="https://www.straitstimes.com/singapore/askst-what-are-moe-s-newest-artificial-intelligence-tools-and-how-are-schools-using-them" target="_blank">What are MOE’s newest artificial intelligence tools, and how are schools using them?</a></h4>
+<p>There are currently five AI-powered tools – three marking systems that act as “learning feedback assistants”, an adaptive learning system for students to learn at their own pace, and a tool that helps teachers with planning lessons.
+</p>
+<p>Straits Times, Published: 29th July 2024</p>
+<hr>
 <h4><a href="https://www.irishtimes.com/ireland/education/2024/05/13/i-visited-singapore-to-see-why-it-is-ranked-as-the-top-education-system-in-the-world-heres-what-i-learned" target="_blank">I visited Singapore to see why it is ranked as the top education system in the world. Here’s what I learned</a></h4>
 <p>An online student learning space (SLS) provides a library of curriculum-aligned, digital resources for all grade levels and subjects. Using templates, teachers create lessons by compiling SLS resources or using a mix of online resources and their own materials. Students can also access SLS resources on their own, independent of assignments.
 <br>
