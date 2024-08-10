@@ -5,6 +5,7 @@ date: 2023-06-07
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 <h1 class="section-title">Updates 7 June 2023</h1>
 <p>This list details the changes users can expect in the upcoming SLS Release 19, which will be rolled out on 7 June 2023. Please note that SLS will be unavailable from 6 June 00:00 to 7 June 23:00 to facilitate this release.</p>
@@ -630,7 +631,7 @@ Teacher will be automatically added as a contributor of the Lesson when they sub
 <p>Teacher is able to view full FRQ and ARQ responses of the entire class in “View All Responses” view by expanding all responses.</p>
 </li>
 </ol></details>
-<details><summary><h4>Show prepopulated answer in Print-lite of FRQ and ITT</h4></summary>
+<details><summary><h4>Show prepopulated answer in Print-friendly of FRQ and ITT</h4></summary>
 <ol>
 <li>
 <p>Users are now able to view prepopulated answer in Print-friendly View.</p>
