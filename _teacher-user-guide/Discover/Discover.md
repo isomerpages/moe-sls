@@ -63,7 +63,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your Modules.
 </summary>
 <ol>
 <li><p><strong>I tried to embed a website using the embed code/URL but SLS does not allow me to.</strong></p>
-<p> If a website has not been whitelisted, you will not be able to embed the site in SLS. An alternative would be to insert a link in the Rich Text Editor by clicking <strong>Insert/edit link</strong> (<strong>Chain</strong> icon). You have the option to decide whether the link will be opened in a new window or the current window. When students click on the link, they will be redirected accordingly.</p>
+<p> If a website has not been whitelisted, you will not be able to embed the site in SLS. An alternative would be to insert a link in the Rich Text Editor by clicking <strong>Insert/edit link</strong> (<strong>Chain</strong> icon <img alt="Discover" style="width:1.2rem; display: inline;" src="/images/Icons/Chain.png">). You have the option to decide whether the link will be opened in a new window or the current window. When students click on the link, they will be redirected accordingly.</p>
 <p> For more information, visit <a target="_blank" href="/teacher-user-guide/discover/embed-whitelisted-websites/">Whitelisted Websites for Embedding</a>.</p>
 </li>
 <li><p><strong>The YouTube videos in my Module are not accessible.</strong></p>
