@@ -20,10 +20,10 @@ Use SLS to plan personal and class group events.
 <details><summary>
 <h4 id="plan">B. Tech Tips for Teachers</h4></summary>
 <ol>
-<li><p><strong>Does the timetable in SLS reflects synchronously if we update the Google/Outlook calendar?</strong></p>
+<li><p><strong>Does the Planner reflect synchronously if we update the Google/Outlook calendar?</strong></p>
 <p>No. It will not be synchronised. It will be correct at the point of import.  However, we encourage teachers to use the SLS Planner directly to plan T&amp;L related activities after the initial upload, as the Planner can be used to set new events just like a Google/Outlook calendar.</p>
 </li>
-<li><p><strong>For SLS Planner, can this be shared with other colleagues?</strong></p>
+<li><p><strong>Can the Planner be shared with other colleagues?</strong></p>
 <p>You can create events in the Class Group. Other teachers in the Class Group will then be able to see the events on their calendar.</p>
 </li>
 <li><strong>Can recurring events be scheduled in the Planner?</strong>
