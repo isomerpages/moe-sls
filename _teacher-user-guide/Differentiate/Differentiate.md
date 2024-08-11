@@ -44,6 +44,6 @@ variant: markdown
 <li><strong>How can SLS support differentiation for common curriculum subjects or the upcoming FSBB in secondary school context?</strong>
 <p>Schools can utilise SLS features such as subgroups to support differentiation and/or FSBB.</p>
 <p>Teachers can form subgroups within the class. This functionality is useful for FSBB as teachers can now specify scaffolding activities for students of lower readiness, and also create stretch activities for students of higher readiness after they have completed the compulsory activities.</p>
-<p>Alternatively, teachers can make use of <a target="_blank" href="/teacher-user-guide/differentiate/add-activity-quiz-section-prerequisites/">Activity Prerequisites</a> to cater to students of different levels of readiness.</p></li>
+<p>Alternatively, teachers can make use of <a target="_blank" href="/teacher-user-guide/differentiate/add-activity-quiz-section-prerequisites/">Activity, Quiz or Section Prerequisites</a> to cater to students of different levels of readiness.</p></li>
 </ol>
 </details>
