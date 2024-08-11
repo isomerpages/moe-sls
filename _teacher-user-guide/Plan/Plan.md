@@ -28,7 +28,7 @@ Use SLS to plan personal and class group events.
 </li>
 <li><strong>Can recurring events be scheduled in the Planner?</strong>
 <p>Yes, teachers also have the flexibility to edit individual instances within a recurring series of events or modify the details of the entire event series.</p></li>
-<li><strong>Can multple calendars be imported into the Planner?</strong>
+<li><strong>Can multiple calendars be imported into the Planner?</strong>
 <p>Yes, teachers can import calendars using ICS files.</p>
 <p>Imported events are treated the same as manually added events directly via the SLS Planner. If the same calendar is imported multiple times, events will be duplicated.</p>
 <p><u>Note</u>: Importing is a one-time action for adding data, while syncing keeps data consistent between two places over time. SLS currently does not support syncing of calendar data.</p>
