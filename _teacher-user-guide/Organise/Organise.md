@@ -91,7 +91,7 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <p> Schools are advised to create a class in School Cockpit (containing the form class students and teacher) and tag the class to a school-based subject, e.g. CCE. Once tagged to a subject, the form classes will appear in SLS.</p>
 </li>
 <li><p><strong>Currently only teachers in the same Teaching Group can change password for students. Can SLS allow teachers to change a students’ password even if no TG is set up?</strong></p>
-<p>We note the request and will be looking to add this capability by Dec 2023.</p>
+<p>We have added the ability for form teachers to reset the passwords of students in their form class since Dec 2023.</p>
 </li>
 <li><p><strong>How will edits in School Cockpit (SC) and in SLS Class Groups affect each other?</strong></p>
 <p>Information will sync only one way from SC to SLS. Updates in SC will appear in SLS. However, edits in SLS Class Groups will not appear in SC.</p>
