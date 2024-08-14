@@ -12,6 +12,11 @@ third_nav_title: News Articles
 </p>
 <p>Straits Times, Published: 29th July 2024</p>
 <hr>
+<h4><a target="_blank" href="https://www.schoolbag.edu.sg/story/children-and-their-devices-how-to-strike-the-right-balance/">Children and their devices: How to strike the right balance</a></h4>
+<p>Upper secondary school students studying history, geography and social studies make use of IDTs ... in the Singapore Student Learning System where students can learn safely and socially with their teachers and peers. Interactive learning features like simulations, videos, polls and quizzes help students visualise the abstract and construct their understanding. Content can also be updated easily and customised by teachers.
+</p>
+<p>Straits Times, Published: 13th June, 2024</p>
+<hr>
 <h4><a href="https://www.irishtimes.com/ireland/education/2024/05/13/i-visited-singapore-to-see-why-it-is-ranked-as-the-top-education-system-in-the-world-heres-what-i-learned" target="_blank">I visited Singapore to see why it is ranked as the top education system in the world. Here’s what I learned</a></h4>
 <p>An online student learning space (SLS) provides a library of curriculum-aligned, digital resources for all grade levels and subjects. Using templates, teachers create lessons by compiling SLS resources or using a mix of online resources and their own materials. Students can also access SLS resources on their own, independent of assignments.
 <br>
