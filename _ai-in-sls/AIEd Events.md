@@ -94,8 +94,7 @@ Group Discussion (CLOSED)</p>
 <p>30 Jul</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/als-content-tagging-workshop-eposter" rel="noopener noreferrer nofollow" target="_blank">ALS Content Tagging Workshop</a>
-</p>
+<p>ALS Content Tagging Workshop (CLOSED)</p>
 </td>
 </tr>
 <tr>
@@ -103,7 +102,7 @@ Group Discussion (CLOSED)</p>
 <p>23 Aug</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/customslsposter" rel="noopener noreferrer nofollow" target="_blank">CTLE Webinar: Strengthening Customisation of Student Learning using AI-enabled Tools and Platforms in the SLS (Session 2)</a>
+<p><a href="https://go.gov.sg/customslsposter2" rel="noopener noreferrer nofollow" target="_blank">CTLE Webinar: Strengthening Customisation of Student Learning using AI-enabled Tools and Platforms in the SLS (Session 2)</a>
 </p>
 </td>
 </tr>
@@ -151,7 +150,7 @@ Group Discussion (CLOSED)</p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="2" colspan="1">
 <p>2024</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -162,6 +161,14 @@ Group Discussion (CLOSED)</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://intranet.moe.gov.sg/etd/edtechmp2030/Pages/Resources.aspx" rel="noopener noreferrer nofollow" target="_blank">FA-Math Webinar Series </a>(requires
 access to MOE intranet, S/N 2.4)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>30 Jul</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>ALS Content Tagging Workshop (Resources will be made available soon)</p>
 </td>
 </tr>
 </tbody>
