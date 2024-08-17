@@ -6,7 +6,7 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h2>Discover</h2>
+<h1>Discover</h1>
 Use SLS to search for and find useful T&amp;L resources for use in your Modules.
 <img alt="Discover" style="width: 100%;" src="/images/2Teacher/Flow_Discover.svg">
 <details>
