@@ -6,7 +6,7 @@ third_nav_title: Customise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h2>Customise</h2>
+<h1>Customise</h1>
 <hr>
 <p>Use SLS to to customise your avatar, UI and user experience based on your needs.</p>
 <img alt="Customise" style="width: 50%;" src="/images/2Teacher/Flow-Customise.png">
