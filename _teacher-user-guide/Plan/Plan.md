@@ -6,7 +6,7 @@ third_nav_title: Plan
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h2>Plan</h2>
+<h1>Plan</h1>
 Use SLS to plan personal and class group events.
 <img alt="Plan" src="/images/2Teacher/Flow_Plan.png">
 <details>
