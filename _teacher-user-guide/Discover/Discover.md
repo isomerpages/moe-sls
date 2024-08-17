@@ -6,7 +6,7 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h2>Discover</h2>
+<h1>Discover</h1>
 Use SLS to search for and find useful T&amp;L resources for use in your Modules.
 <img alt="Discover" style="width: 100%;" src="/images/2Teacher/Flow_Discover.svg">
 <details>
@@ -63,7 +63,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your Modules.
 </summary>
 <ol>
 <li><p><strong>I tried to embed a website using the embed code/URL but SLS does not allow me to.</strong></p>
-<p> If a website has not been whitelisted, you will not be able to embed the site in SLS. An alternative would be to insert a link in the Rich Text Editor by clicking <strong>Insert/edit link</strong> (<strong>Chain</strong> icon). You have the option to decide whether the link will be opened in a new window or the current window. When students click on the link, they will be redirected accordingly.</p>
+<p> If a website has not been whitelisted, you will not be able to embed the site in SLS. An alternative would be to insert a link in the Rich Text Editor by clicking <strong>Insert/edit link</strong> (<strong>Chain</strong> icon <img alt="Discover" style="width:1.2rem; display: inline;" src="/images/Icons/Chain.png">). You have the option to decide whether the link will be opened in a new window or the current window. When students click on the link, they will be redirected accordingly.</p>
 <p> For more information, visit <a target="_blank" href="/teacher-user-guide/discover/embed-whitelisted-websites/">Whitelisted Websites for Embedding</a>.</p>
 </li>
 <li><p><strong>The YouTube videos in my Module are not accessible.</strong></p>
@@ -101,8 +101,8 @@ Use SLS to search for and find useful T&amp;L resources for use in your Modules.
 <li><strong>Can the current year's teacher monitor students' progress when they move on to the next academic year?</strong>
 <p>Teachers will only be able to access students' past Assignments, Resources, Forum and Apps if they had a Class Group in the same subject and level as the student in the past year.</p>
 <p>However, past year's subject teachers can be added to the new year's class group and move past year's assignments into the new year's class group. This will allow the new year's subject teachers to monitor students' progress for such assignments.</p></li>
-<li><strong>Can teacher provide feedback to the self-study courses?</strong>
-<p>The teacher is unable to provide feedback to the self-study courses. You may refer to the following links for more information:</p>
+<li><strong>Can teachers provide feedback to the self-study modules?</strong>
+<p>Teachers are unable to provide feedback for the self-study modules. You may refer to the following links for more information:</p>
 <ul>
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/empower-students-to-be-self-directed-learners/">Empower Students to Be Self-Directed Learners</a></li>
 <li><a target="_blank" href="/student-user-guide/discover/access-self-study-resources/">Access Self-Study Resources</a></li>

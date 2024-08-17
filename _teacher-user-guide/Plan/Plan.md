@@ -6,7 +6,7 @@ third_nav_title: Plan
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h2>Plan</h2>
+<h1>Plan</h1>
 Use SLS to plan personal and class group events.
 <img alt="Plan" src="/images/2Teacher/Flow_Plan.png">
 <details>
@@ -20,15 +20,15 @@ Use SLS to plan personal and class group events.
 <details><summary>
 <h4 id="plan">B. Tech Tips for Teachers</h4></summary>
 <ol>
-<li><p><strong>Does the timetable in SLS reflects synchronously if we update the Google/Outlook calendar?</strong></p>
-<p>No. It will not be synchronised. It will be correct at the point of import.  However, we encourage teachers to use the SLS Planner directly to plan T&amp;L related activities after the initial upload, as the Planner can be used to set new events just like a Google/Outlook calendar.</p>
+<li><p><strong>Does the Planner reflect synchronously if we update the Google/Outlook calendar?</strong></p>
+<p>No, it does not synchronise. It will be correct at the point of import.  However, we encourage teachers to use the SLS Planner directly to plan T&amp;L related activities after the initial upload, as the Planner can be used to set new events just like a Google/Outlook calendar.</p>
 </li>
-<li><p><strong>For SLS Planner, can this be shared with other colleagues?</strong></p>
+<li><p><strong>Can the Planner be shared with other colleagues?</strong></p>
 <p>You can create events in the Class Group. Other teachers in the Class Group will then be able to see the events on their calendar.</p>
 </li>
 <li><strong>Can recurring events be scheduled in the Planner?</strong>
 <p>Yes, teachers also have the flexibility to edit individual instances within a recurring series of events or modify the details of the entire event series.</p></li>
-<li><strong>Can multple calendars be imported into the Planner?</strong>
+<li><strong>Can multiple calendars be imported into the Planner?</strong>
 <p>Yes, teachers can import calendars using ICS files.</p>
 <p>Imported events are treated the same as manually added events directly via the SLS Planner. If the same calendar is imported multiple times, events will be duplicated.</p>
 <p><u>Note</u>: Importing is a one-time action for adding data, while syncing keeps data consistent between two places over time. SLS currently does not support syncing of calendar data.</p>

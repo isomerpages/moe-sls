@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://www.learning.moe.edu.sg/about/news-articles/
+external: https://www.schoolbag.edu.sg/story/children-and-their-devices-how-to-strike-the-right-balance/
 ---

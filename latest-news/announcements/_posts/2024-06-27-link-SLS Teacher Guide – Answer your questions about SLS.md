@@ -5,5 +5,5 @@ layout: link
 description: ""
 image: ""
 variant: tiptap
-external: https://chatgpt.com/g/g-8u2yS5ufS-ask-sls
+external: https://go.gov.sg/asksls
 ---
