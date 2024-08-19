@@ -28,5 +28,4 @@ helpdesk contact details for assistance after school operating hours. They
 would need to able to answer their own security questions.
 <br>
 </p>
-<p>For more information on using SLS for HBL, do refer to: <em><a href="https://intranet.moe.gov.sg/etd/Pages/SLS-HBL.aspx?fbclid=IwZXh0bgNhZW0CMTAAAR3I7aTIB1Bcrx_amL4DjHs6gMxyZwKbGg1SjhNbxpubXdoylcSexkuH0h4_aem_jE-XOvd7dy9r_QTsQiRoaQ" rel="noopener noreferrer nofollow" target="_blank"><u>https://intranet.moe.gov.sg/etd/Pages/SLS-HBL.aspx</u></a></em>
-</p>
+<p>Find out more information on <a href="https://intranet.moe.gov.sg/etd/Pages/SLS-HBL.aspx?fbclid=IwZXh0bgNhZW0CMTAAAR3I7aTIB1Bcrx_amL4DjHs6gMxyZwKbGg1SjhNbxpubXdoylcSexkuH0h4_aem_jE-XOvd7dy9r_QTsQiRoaQ" rel="noopener noreferrer nofollow" target="_blank">using SLS for HBL</a>!</p>
