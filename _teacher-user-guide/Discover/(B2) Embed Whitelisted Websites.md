@@ -733,7 +733,7 @@ https://kids.nationalgeographic.com
 https://www.npg.org.uk/collections
 </td>
 </tr>
-<tr><td><strong>National Theatre of Japan <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>National Theatre of Japan</strong></td>
 <td>Drama Resources</td>
 <td>
 https://www2.ntj.jac.go.jp/unesco/kabuki/en
@@ -930,6 +930,12 @@ https://app.seesaw.me
 <td>Word Association Game</td>
 <td>
 https://research.google.com/semantris
+</td>
+</tr>
+<tr><td><strong>Sembcorp <font color="#FBBC04">NEW!</font></strong></td>
+<td>Virtual Tour Tool</td>
+<td>
+https://www.sembcorpenergy.com.sg/tengeh-virtual-tour
 </td>
 </tr>
 <tr><td><strong>Seussville</strong></td>
@@ -1167,7 +1173,7 @@ https://www.turtlediary.com
 https://twinery.org
 </td>
 </tr>
-<tr><td><strong>Typing.com <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Typing.com</strong></td>
 <td>Typing Tool</td>
 <td>
 https://www.typing.com
@@ -1420,7 +1426,7 @@ https://flip.com
 https://cdn.flipsnack.com
 </td>
 </tr>
-<tr><td><strong>Forms.app <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Forms.app</strong></td>
 <td>Form Builder Tool</td>
 <td>
 https://my.forms.app
@@ -1455,7 +1461,7 @@ https://www.gapminder.org
 <td>
 https://view.genial.ly
 <br>
-https://view.genially.com <font color="#FBBC04">NEW!</font>
+https://view.genially.com
 </td>
 </tr>
 <tr><td><strong>GeoGebra</strong></td>
@@ -1535,7 +1541,7 @@ https://www.jigsawplanet.com
 <tr><td><strong>Jotform</strong></td>
 <td>Form Builder Tool</td>
 <td>
-https://form.jotform.com <font color="#FBBC04">NEW!</font>
+https://form.jotform.com
 <br>
 https://www.jotform.com
 </td>
@@ -1655,7 +1661,7 @@ https://bvss.padlet.org
 <br>
 https://canberrasecondary.padlet.org
 <br>
-https://cantonmentprimary.padlet.org <font color="#FBBC04">NEW!</font>
+https://cantonmentprimary.padlet.org
 <br>
 https://casuarinaprimaryschool.padlet.org
 <br>
@@ -1773,7 +1779,7 @@ https://riversidesec.padlet.org
 <br>
 https://rivervalleyps.padlet.org
 <br>
-https://sengkangsec.padlet.org <font color="#FBBC04">NEW!</font>
+https://sengkangsec.padlet.org
 <br>
 https://sgss.padlet.orglearnin
 <br>
