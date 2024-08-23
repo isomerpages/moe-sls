@@ -1692,10 +1692,10 @@ Others:
 <tr>
 <td>Kuo Chuan Presbyterian Primary School</td>
 <td>
-Tel: 62308571
+Tel: 98377340
 <br>Email: ronnie_kuek_kia_wee@moe.edu.sg
 <br>
-Others: WhatsApp 62308571
+Others: ng_lenni@moe.edu.sg
 
 
 </td>
