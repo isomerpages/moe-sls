@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="add-new-using-templates">(A1,1) Add New using Templates</h1>
-<p>When <a target="_blank" href="/teacher-user-guide/author/create-new-modules/">creating a new Lesson</a> or <a target="_blank" href="/teacher-user-guide/author/add-new-activities-and-sections/">adding a new Activity</a>, you can choose to use a <a target="_blank" href="/teacher-user-guide/author/about-templates/">templates</a>  from My Templates or SLS Templates. </p>
+<p>When <a target="_blank" href="/teacher-user-guide/author/create-new-modules/">creating a new Module</a> or <a target="_blank" href="/teacher-user-guide/author/add-new-activities-and-sections/">adding a new Activity</a>, you can choose to use a <a target="_blank" href="/teacher-user-guide/author/about-templates/">templates</a>  from My Templates or SLS Templates. </p>
 <h2 id="viewing-a-template">Viewing a Template</h2>
 <hr>
 <ol>
