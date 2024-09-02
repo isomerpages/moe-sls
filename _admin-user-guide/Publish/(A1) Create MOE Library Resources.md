@@ -9,7 +9,7 @@ variant: markdown
 <h1 id="-1-create-moe-library-resources-enhanced-">(A1) Create MOE Library Resources (Enhanced)</h1>
 <p>You can refer to the following User Guide pages to find out how you can: </p>
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/author/create-new-lessons/">create a Module</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/create-new-modules/">create a Module</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/add-new-using-templates/">use a Module or Section&nbsp;Template</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/add-lesson-tags/">tag a Module </a></li>
 <li><a target="_blank" href="/teacher-user-guide/gamify/about-gamification-and-leaderboard/">gamify a Module</a> </li>
