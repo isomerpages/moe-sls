@@ -58,7 +58,7 @@ and marks provided by ShortAnsFA. High leniency would cause feedback generated
 to be more open and diverse, with a looser interpretation of the Suggested
 Answer. The default Leniency is set to <strong>Medium</strong>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_AddShortAnsFA02.png">
+<img style="width: 100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_AddShortAnsFA06.png">
 </div>
 </li>
 <li>
