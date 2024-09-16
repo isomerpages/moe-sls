@@ -36,12 +36,11 @@ third_nav_title: Assess
 </li>
 <img alt="(C1,ii) Add Language Feedback Assistant for English (LangFA-EL)" src="/images/2Teacher/AS_AddLangFA_EL01.png" style="width: 100%;">
 <li><p>From the Response Size dropdown list, select the response size, or estimated length of students’ response. A short response would be approximately 300 words long, and a long response would be 500 words long. The default Response Size is set to <strong>Medium</strong>.</p></li>
-<img alt="(C1,ii) Add Language Feedback Assistant for English (LangFA-EL)" src="/images/2Teacher/AS_AddLangFA_EL02.png" style="width: 100%;">
+<img alt="(C1,ii) Add Language Feedback Assistant for English (LangFA-EL)" src="/images/2Teacher/AS_AddLangFA_EL02.png" style="width: 80%;">
 <li><p>When you are done editing, click outside the Component to save.</p></li>
 <li>For standalone questions, Progressive Quiz and Auto-graded quiz, feedback from LangFA-EL will be shown immediately after students have completed the question. For Teacher Marked Quiz, feedback will be shown after you have marked and released the quiz. Click <a target="_blank" href="/teacher-user-guide/assess/release-teacher-marked-quizzes/">here</a> for more information on how to return the feedback for Teacher Marked Quiz.</li>
 <li>You may still review and edit the annotated feedback of the errors detected by LangFA-EL under the <strong>Monitor Assignment</strong> page and clicking the annotation cards. To add a comment, click <strong>Teacher Comments</strong>. You are encouraged to check that the annotations and feedback are accurate and appropriate; and engage in further discussions with your students.</li>
 </ol>
-
 <ol><u>Supporting Resources</u>:
 	<li>Primary EL: Teachers can refer to these <a target="_blank" href="https://go.gov.sg/elpri-langfa">sample writing lessons</a> as guides to introduce the LangFA-EL to students.</li>
 		<li>Secondary EL: SLS lessons from the <a target="_blank" href="https://vle.learning.moe.edu.sg/search?keyword=%22Reading+Up%22&amp;location=MOE&amp;resource=LESSON&amp;sortBy=modifiedDate&amp;sortByOrder=descending">Reading Up</a> series contain sections that provide students opportunities to use the LangFA-EL. More lessons with LangFA-EL will be added on an approximately monthly basis.</li>
