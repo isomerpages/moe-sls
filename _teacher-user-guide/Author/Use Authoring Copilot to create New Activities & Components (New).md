@@ -37,7 +37,7 @@ In the Additional Details field, add pedagogical considerations. This can includ
 
 <u>Note</u>:
 <ul><li>An example set of Additional Details:
-<img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/AU_ACP_Component5.png">
+<img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 80%;" src="/images/2Teacher/AU_ACP_Component5.png">
 </li></ul>
 </li>
 <li>
@@ -79,7 +79,7 @@ To regenerate the Section and Activities, click <b>Back to Generate Section</b> 
 <li>Currently in R1, components in an Activity cannot be regenerated.
 <img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/AU_ACP_Component11a.png"></li></ul>
 Alternatively, you can regenerate the Section and Activities by clicking the orange Pencil icon <img alt="pencilo" style="width:1.5rem; display: inline;" src="/images/Icons/pencilo.svg"> on the respective cards to reopen Authoring Copilot. Newly generated Activities will be appended to the end of the existing set of Activities.
-<img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/AU_ACP_Component11b.png">
+<img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 80%;" src="/images/2Teacher/AU_ACP_Component11b.png">
 </li>
 </ol>
 <hr>
