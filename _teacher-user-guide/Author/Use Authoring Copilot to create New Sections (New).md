@@ -23,7 +23,7 @@ Click the orange Pencil icon <img alt="pencilo" style="width:1.5rem; display: in
 </li>
 <li>
 Add the Module Title.
-<img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP3.png">
+<img alt="Use Authoring Copilot to create New Sections" style="width: 80%;" src="/images/2Teacher/AU_ACP3.png">
 </li>
 <li>
 In the Module Notes field, add curricular considerations, which can be found in subject-specific <a target="_blank" href="https://www.opal2.moe.edu.sg/csl/s/epedagogy/wiki/page/view?title=%5BSection+1.3%5D+e-Pedagogy+in+subject+discipline">Teaching and Learning Guides</a> (requires OPAL login). This can include building on students’ prior knowledge, extending the concept, describing skills students should learn, and providing real world applications for the ACP to incorporate in the creation of the Module. Teachers can refer to the Teaching and Learning Guides for their subject in OPAL2.0 for more information.
@@ -81,6 +81,6 @@ To regenerate the Module and Section(s), click <b>Back to Generate Module</b> to
 <img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP12a.png">
 
 Alternatively, you can regenerate the Module and Section by clicking the orange Pencil icon <img alt="pencilo" style="width:1.5rem; display: inline;" src="/images/Icons/pencilo.svg"> on the respective cards to reopen Authoring Copilot. Newly generated Sections will be appended to the end of the existing set of Sections.
-<img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP12b.png">
+<img alt="Use Authoring Copilot to create New Sections" style="width: 80%;" src="/images/2Teacher/AU_ACP12b.png">
 </li></ol>
 <hr></ol>
