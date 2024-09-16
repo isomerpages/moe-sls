@@ -70,13 +70,13 @@ would be 500 words long. The default Response Size is set to <strong>Medium</str
 <img style="width: 80%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_AddShortAnsFA03.png">
 </div>
 	<p>Specify a detailed mark scheme in the <strong>Suggested Answer</strong>.</p>
-<img style="width: 100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_AddShortAnsFA04.png">
+<img style="width: 80%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_AddShortAnsFA04.png">
 	<p>Some helpful tips on writing the suggested answer:  </p>
 	<img style="width: 80%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_SAFA5.jpg">
 	<p>To learn more about writing the suggested answer, click on this <a href="/files/Marcomms/Feature%20Highlights/shortansfaposter.pdf" rel="noopener noreferrer nofollow" target="_blank">e-Poster</a>.</p></li>
 <li>Alternatively, to mark more open-ended responses based on rubrics, click <strong>Add Rubrics</strong>.<br>
 	<u>Note</u>:<br>For each question, feedback from ShortAnsFA can only be provided using either Suggested Answer or Rubrics at a time.</li>
-	<img style="width: 100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_SAFA6.png">
+	<img style="width: 80%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_SAFA6.png">
 	<li>Enter the following fields:
 <ul><li>Title</li><li>Band Descriptor</li><li>Criterion</li><li>Mark Range</li></ul>
 <p><u>Note</u>: A maximum of 6 bands (columns) and 6 criteria (rows) can be added in a Rubrics. Click the Overflow (3-dot icon) to Add Band, Add Criterion, Delete Band, or Delete Criterion.</p>
