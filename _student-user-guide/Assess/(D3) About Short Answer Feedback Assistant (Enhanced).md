@@ -6,7 +6,6 @@ description: ""
 third_nav_title: Assess
 ---
 <h1>(D3) About Short Answer Feedback Assistant (Enhanced)</h1>
-
 <p>The Short Answer Feedback Assistant (ShortAnsFA) provides auto-generated content-related feedback and suggested marks for free-response questions for any subject and level.</p>
 <ol>
 	<li>Your teacher may add the tool in a Free-Response Question.</li>
@@ -20,9 +19,7 @@ third_nav_title: Assess
 	<li>To review your feedback and marks, click <strong>Teacher Comments</strong>.</li>
 	<img alt="(D3) About Short Answer Feedback Assistant (ShortAnsFA)" src="/images/1Student/AS_SAFA_Feedback3.png" style="width: 100%;">
 	</ol>
-
 From June 2024 (R1), you may also receive feedback based on a set of rubrics.
-<img alt="(D3) About Short Answer Feedback Assistant (ShortAnsFA)" src="/images/1Student/AS_SAFA_7A.png" style="width: 80%;">
-
+<img alt="(D3) About Short Answer Feedback Assistant (ShortAnsFA)" src="/images/1Student/AS_SAFA_7A.png" style="width: 100%;">
 <u>Note:</u><br>
 As ShortAnsFA uses generative AI, its response is probabilistic in nature and this results in it being inaccurate at times. You are encouraged to discuss the feedback and marks with your teacher if you need further explanation.
