@@ -72,7 +72,7 @@ would be 500 words long. The default Response Size is set to <strong>Medium</str
 	<p>Specify a detailed mark scheme in the <strong>Suggested Answer</strong>.</p>
 <img style="width: 80%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_AddShortAnsFA04.png">
 	<p>Some helpful tips on writing the suggested answer:  </p>
-	<img style="width: 80%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_SAFA5.jpg">
+	<img style="width: 80%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_SAFA5.png">
 	<p>To learn more about writing the suggested answer, click on this <a href="/files/Marcomms/Feature%20Highlights/shortansfaposter.pdf" rel="noopener noreferrer nofollow" target="_blank">e-Poster</a>.</p></li>
 <li>Alternatively, to mark more open-ended responses based on rubrics, click <strong>Add Rubrics</strong>.<br>
 	<u>Note</u>:<br>For each question, feedback from ShortAnsFA can only be provided using either Suggested Answer or Rubrics at a time.</li>
