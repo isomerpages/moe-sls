@@ -4,8 +4,9 @@ permalink: /teachers/sls-superhero-quiz/track-students-learning-progress/
 description: ""
 third_nav_title: SLS Superhero Quiz
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1 class="page-title">Track students’ Learning Progress (#Track_Progress_With_SLS)</h1>
+<h1 class="page-title">Track Students’ Learning Progress (#Track_Progress_With_SLS)</h1>
 <h2>What it is</h2>
 <hr>
 <p>Learning Progress shows the overall progress (in terms of marks) of students in a Class Group based on their attempted assignments. You can select questions you wish to monitor and view them from the Learning Progress page.</p>

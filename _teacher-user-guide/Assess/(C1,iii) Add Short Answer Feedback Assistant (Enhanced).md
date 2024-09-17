@@ -35,7 +35,7 @@ via the Singapore Learning Designers Circle (SgLDC) Facebook group.</p>
 <tr><td>1. Progressive Quiz*<br>2. Auto-Graded Quiz*<br>3. Standalone Question*</td><td>Students receive feedback automatically after submitting each question</td>
 	</tr></tbody></table>
 	*To learn more about the different quiz modes, click 
-<a target="_blank" href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/create-quizzes/">here</a>.
+<a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">here</a>.
 	<ul><li>To use ShortAnsFA in a quiz, click <strong>Add New</strong> on the Module Editor page, then select <strong>Quiz</strong>. Proceed to Step 2 to continue creating a quiz. </li>
 <li>To use ShortAnsFA in a standalone question, click <strong>Add New</strong> on the Module Editor page then select <strong>Activity</strong>. Proceed to Step 3 to continue creating a standalone question. </li></ul></li>
 	<li>After selecting <strong>Quiz</strong>, you will see that the default Quiz Mode is Progressive Quiz. You can change the Quiz Mode, add Description and Instruction to Students by clicking on the Quiz Component. To add a question, click + on the collapsed question list.</li>
@@ -58,7 +58,7 @@ and marks provided by ShortAnsFA. High leniency would cause feedback generated
 to be more open and diverse, with a looser interpretation of the Suggested
 Answer. The default Leniency is set to <strong>Medium</strong>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_AddShortAnsFA02.png">
+<img style="width: 100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_AddShortAnsFA06.png">
 </div>
 </li>
 <li>
@@ -67,16 +67,16 @@ length of students’ response. A short response would be approximately 100
 words long, a medium response would be 300 words long, and a long response
 would be 500 words long. The default Response Size is set to <strong>Medium</strong>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_AddShortAnsFA03.png">
+<img style="width: 80%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_AddShortAnsFA03.png">
 </div>
 	<p>Specify a detailed mark scheme in the <strong>Suggested Answer</strong>.</p>
-<img style="width: 100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_AddShortAnsFA04.png">
+<img style="width: 80%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_AddShortAnsFA04.png">
 	<p>Some helpful tips on writing the suggested answer:  </p>
-	<img style="width: 100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_SAFA5.jpg">
-	<p>To learn more about writing the suggested answer, click on this <a href="https://www.learning.moe.edu.sg/files/Marcomms/Feature%20Highlights/shortansfaposter.pdf" rel="noopener noreferrer nofollow" target="_blank">e-Poster</a>.</p></li>
+	<img style="width: 80%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_SAFA5.png">
+	<p>To learn more about writing the suggested answer, click on this <a href="/files/Marcomms/Feature%20Highlights/shortansfaposter.pdf" rel="noopener noreferrer nofollow" target="_blank">e-Poster</a>.</p></li>
 <li>Alternatively, to mark more open-ended responses based on rubrics, click <strong>Add Rubrics</strong>.<br>
 	<u>Note</u>:<br>For each question, feedback from ShortAnsFA can only be provided using either Suggested Answer or Rubrics at a time.</li>
-	<img style="width: 100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_SAFA6.png">
+	<img style="width: 80%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_SAFA6.png">
 	<li>Enter the following fields:
 <ul><li>Title</li><li>Band Descriptor</li><li>Criterion</li><li>Mark Range</li></ul>
 <p><u>Note</u>: A maximum of 6 bands (columns) and 6 criteria (rows) can be added in a Rubrics. Click the Overflow (3-dot icon) to Add Band, Add Criterion, Delete Band, or Delete Criterion.</p>
@@ -84,7 +84,7 @@ would be 500 words long. The default Response Size is set to <strong>Medium</str
 <li>Click outside the Component to save.</li>
 <li>Click the <strong>Up/Down</strong> arrows to set the Marks for the question. </li>
 <li><strong>Tag the question to the Subject/ Level/ Learning Outcome</strong> or Content Map to increase accuracy or the response.<img style="width: 100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_SAFA10.png">When you are done editing, click outside the Component to save.</li>
-<li>For standalone questions, Progressive Quiz and Auto-graded Quiz, , feedback from ShortAnsFA will be shown immediately after students have completed the question. For Teacher Marked Quiz, feedback will be shown after you have marked and released the quiz. Click <a target="_blank" href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/release-teacher-marked-quizzes/">here</a>for more information on how to return the feedback for Teacher Marked Quiz.</li>
+<li>For standalone questions, Progressive Quiz and Auto-graded Quiz, , feedback from ShortAnsFA will be shown immediately after students have completed the question. For Teacher Marked Quiz, feedback will be shown after you have marked and released the quiz. Click <a target="_blank" href="/teacher-user-guide/assess/release-teacher-marked-quizzes/">here</a>for more information on how to return the feedback for Teacher Marked Quiz.</li>
 <li>You may still review and edit the feedback generated by ShortAnsFA (refer to Table A and B). Under the <strong>Monitor Assignment</strong> page and clicking <strong>Teacher Comments</strong>. You are encouraged to check that the feedback and marks are accurate and appropriate; and engage in further discussions with your students.  
 </li>
 </ol>
