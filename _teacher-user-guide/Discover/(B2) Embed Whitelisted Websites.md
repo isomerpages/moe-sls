@@ -161,6 +161,12 @@ https://britishmuseum.withgoogle.com
 https://dictionary.cambridge.org
 </td>
 </tr>
+<tr><td><strong>Cathoven <font color="#FBBC04">NEW!</font></strong></td>
+<td>AI Tool</td>
+<td>
+https://nexthub.cathoven.com
+</td>
+</tr>
 <tr><td><strong>Channel News Asia, Berita, Seithi</strong></td>
 <td>Online News</td>
 <td>
@@ -932,7 +938,7 @@ https://app.seesaw.me
 https://research.google.com/semantris
 </td>
 </tr>
-<tr><td><strong>Sembcorp <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Sembcorp</strong></td>
 <td>Virtual Tour Tool</td>
 <td>
 https://www.sembcorpenergy.com.sg/tengeh-virtual-tour
@@ -1328,6 +1334,12 @@ https://moe-edugis.maps.arcgis.com/apps
 https://storymaps.arcgis.com
 <br>
 https://survey123.arcgis.com
+</td>
+</tr>
+<tr><td><strong>Arduino <font color="#FBBC04">NEW!</font></strong></td>
+<td>Coding Platform</td>
+<td>
+https://app.arduino.cc/sketches
 </td>
 </tr>
 <tr><td><strong>Artsteps</strong></td>
@@ -1934,7 +1946,7 @@ https://embed.ted.com/talks
 </td>
 </tr>
 <tr><td><strong>Thinglink</strong></td>
-<td>Interactives</td>
+<td>Interactive Content</td>
 <td>
 https://www.thinglink.com
 </td>
@@ -1945,14 +1957,20 @@ https://www.thinglink.com
 https://cdn.knightlab.com
 </td>
 </tr>
+<tr><td><strong>Top Worksheets <font color="#FBBC04">NEW!</font></strong></td>
+<td>Worksheet Design Tool</td>
+<td>
+https://www.topworksheets.com
+</td>
+</tr>
 <tr><td><strong>Tynker</strong></td>
-<td>Coding Tool</td>
+<td>Coding Platform</td>
 <td>
 https://www.tynker.com
 </td>
 </tr>
 <tr><td><strong>Trinket</strong></td>
-<td>Coding</td>
+<td>Coding Platform</td>
 <td>
 https://trinket.io
 </td>
