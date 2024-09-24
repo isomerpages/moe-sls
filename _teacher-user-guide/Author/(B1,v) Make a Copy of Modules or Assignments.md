@@ -10,13 +10,12 @@ variant: markdown
 <p>You can make a copy of Modules in SLS from the following places on SLS.</p>
 <ol>
 <li>Modules from My Drive, which include:<ul>
-<li><a target="_blank" href="/teacher-user-guide/discover/make-a-copy-of-a-lesson/">Modules that you created</a></li>
-<li><a target="_blank" href="/teacher-user-guide/collaborate/access-a-shared-lesson/">Modules that were shared with you</a> (if permission has been given)</li>
+<li><a target="_blank" href="/teacher-user-guide/discover/make-a-copy-of-a-module/">Modules that you created</a></li>
+<li><a target="_blank" href="/teacher-user-guide/collaborate/access-a-shared-module/">Modules that were shared with you</a> (if permission has been given)</li>
 <li>Modules that were previously copied</li>
 </ul>
 </li>
-<li><a target="_blank" href="/teacher-user-guide/discover/make-a-copy-of-a-module/">Modules from the MOE Library</a> (if permission has been given).</li>
-<li><a target="_blank" href="/teacher-user-guide/discover/make-a-copy-of-a-lesson/">Modules from the Community Gallery</a>.</li>
+<li><a target="_blank" href="/teacher-user-guide/discover/make-a-copy-of-a-module/">Modules from the MOE Library (if permission has been given) or Community Gallery</a>.</li>
 <li>Modules that are assigned as Assignments (if permission has been given) from the Assignment List or Assignments tab on the homepage.</li>
 </ol>
 <h2 id="make-a-copy-of-a-lesson-an-assignment-">Make a Copy of a Module/an Assignment</h2>
