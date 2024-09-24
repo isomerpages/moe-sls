@@ -8,7 +8,7 @@ variant: markdown
 <h1 class="page-title">(B2) Embed Whitelisted Websites</h1>
 <p>To identify the newly whitelisted websites, press Ctrl+F and type "NEW!" in the search bar.</p>
 <p>Schools are advised to be mindful of the latest age advisories for whitelisted sites. Users can check the website description for age advisories on the listed sites in SLS External Resources by clicking on the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> .</p>
-<p>When using sites with AI affordances, schools should refer to the <a href="/ai-in-education/responsible-ai/ai-in-education-ethics-framework/" target="_blank">MOE AIEd Ethics Framework</a> for comprehensive guidelines.</p>
+<p>When using sites with AI affordances, schools should refer to the <a href="/ai-in-sls/responsible-ai/ai-in-education-ethics-framework/" target="_blank">MOE AIEd Ethics Framework</a> for comprehensive guidelines.</p>
 <p><u>Notes</u>:</p>
 <ol>
 <li>If you would like SLS to consider a website for whitelisting, please submit a request through the <a target="_blank" href="https://go.gov.sg/sls-whitelist-form">Website Whitelisting Form</a>.</li>
