@@ -11,7 +11,7 @@ variant: markdown
 <ol>
 <li>Manage Students Assigned</li>
 <li>Control Activity Access</li>
-<li><a target="_blank" href="/differentiate/add-activity-quiz-section-prerequisites/">Add Activity, Quiz or Section Prerequisites</a></li>
+<li><a target="_blank" href="/teacher-user-guide/differentiate/add-activity-quiz-section-prerequisites/">Add Activity, Quiz or Section Prerequisites</a></li>
 </ol>
 <h2 id="managing-students-assigned">Manage Students Assigned</h2>
 <hr>
