@@ -50,7 +50,7 @@ variant: markdown
     <div style="text-align:center;">
       <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify4.png"> <img style="width: 50%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify4.png"></a>
     </div>
-    <li>Ensure that students follow through the Module attentively by <a target="_blank" href="/teacher-user-guide/differentiate/add-section-prerequisites/">adding Prerequisites</a>. For example, students must complete Section A to progress to Section B.</li>
+    <li>Ensure that students follow through the Module attentively by <a target="_blank" href="/teacher-user-guide/differentiate/add-activity-quiz-section-prerequisites/">adding Prerequisites</a>. For example, students must complete Section A to progress to Section B.</li>
     <li>Complete the game experience by <a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">adding Achievements</a>. For example, they could receive small Achievements while progressing through each Game Story and earn a final Achievement at the end of the Module.</li>
     <div style="text-align:center;">
       <a target="_blank" href="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify5.png"> <img style="width: 50%;" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Gamify5.png"></a>
