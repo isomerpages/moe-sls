@@ -11,7 +11,7 @@ variant: markdown
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/author/create-new-modules/">create a Module</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/add-new-using-templates/">use a Module or Section&nbsp;Template</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/add-lesson-tags/">tag a Module </a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/add-module-tags/">tag a Module </a></li>
 <li><a target="_blank" href="/teacher-user-guide/gamify/about-gamification-and-leaderboard/">gamify a Module</a> </li>
 <li><a target="_blank" href="/teacher-user-guide/author/add-new-activities-and-sections">add Activities to a Module</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/add-existing-from-library-and-starred-resources/">add existing Activities from Library and Starred Resources</a></li>
