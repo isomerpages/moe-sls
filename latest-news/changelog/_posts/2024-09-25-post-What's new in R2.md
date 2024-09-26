@@ -31,12 +31,12 @@ variant: markdown
 <li><strong>Custom and MOE-Level Content Maps:</strong> Teachers and students can view both MOE-Level and their own schools’ custom content maps in Learning Progress.</li>
 </ul>
 </details></li>
-<li><details><summary><h4>Class Groups:</h4></summary>
+<li><details><summary><h4>Class Groups</h4></summary>
 <ul>
 <li><strong>Data Archival</strong>: Class groups older than four years will be automatically archived.</li>
 </ul>
 </details></li>
-<li><details><summary><h4>User Interface:</h4></summary>
+<li><details><summary><h4>User Interface</h4></summary>
 <ul>
 <li><strong>Table Height:</strong> The maximum height of tables has been optimised to minimise scrolling of the selection bar.</li>
 <li><strong>Font Enhancements:</strong> Teachers and students can apply a wider variety of font types in the rich text editor with the inclusion of a new Tamil font and other new English fonts.</li>
