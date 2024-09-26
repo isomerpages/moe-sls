@@ -117,16 +117,13 @@ variant: markdown
         </tr>
         <tr>            
             <td>
-                <p>18 Nov<br>to<br> 29 Nov</p>
                 <p>22 Nov</p>
                 <p>27 Nov</p>
                 <p>29 Nov</p>
             </td>            
             <td>
-                <p><a target="_blank" href="https://go.gov.sg/sls-level1-course">SLS Level 1 Certification</a></p>
-                <p><a target="_blank" href="https://go.gov.sg/sls-level2-course-organise">SLS Level 2 – Organise Certification</a></p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
-                <p>Release 2</p>
+                <p><a target="_blank" href="/whats-new-in-r2/">Release 2</a></p>
                 <p>Learning Journey at SLS@Grange (FULL)</p>
             </td>
         </tr>
