@@ -1,7 +1,7 @@
 ---
 title: What's new in R2
 permalink: /whats-new-in-r2/
-date: 2024-09-25
+date: 2024-09-27
 layout: post
 description: ""
 image: /images/FaviconLight.png
