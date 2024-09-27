@@ -9,6 +9,9 @@ variant: tiptap
 ---
 <h1>Discover latest SLS features</h1>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/PL_Series_R1.png">
+</div>
 <p>Learn more about the pedagogical value of SLS feartures in the latest
 Realease 1 (R1) and how they can make your T&amp;L practices more effective!</p>
 <p>Immerse yourself in this virtual and gamified learning journey today!</p>
