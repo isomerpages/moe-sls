@@ -11,7 +11,6 @@ variant: markdown
 <p>This list details the changes users can expect in the upcoming SLS Release 19, which will be rolled out on 7 June 2023. Please note that SLS will be unavailable from 6 June 00:00 to 7 June 23:00 to facilitate this release.</p>
 <h2><img style="width:3rem; display: inline;" src="/images/Icons/Star.svg">
 Features for All Users</h2>
-<hr>
 <details><summary><h4>Slider in MCQ &amp; Poll in Lessons</h4></summary>
 <ol>
 <li>
@@ -296,7 +295,6 @@ User logging in through MIMS are no longer required to reset SLS password if it 
 </ol>
 </details>
 <h2><img style="width:3rem; display: inline;" src="/images/Icons/Star.svg">Features for Teachers</h2>
-<hr>
 <details><summary><h4>Manage students in class groups originating from School Cockpit</h4></summary>
 <ol>
 <li>
