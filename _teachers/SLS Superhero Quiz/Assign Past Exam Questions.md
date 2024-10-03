@@ -7,21 +7,18 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 class="page-title">Assign Past Exam Questions (#Assign_with_SLS)</h1>
-<a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/Assess%2001.pdf"><img style="width:50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assess%2001.png"></a>
+<a target="_blank" href="/files/Marcomms/SLS%20Superhero%20Quiz/Assess_01.pdf"><img style="width:50%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assess_01.png"></a>
 
 <h2>What it is</h2>
 <hr>
-<p>You can assign past year exam questions from within SLS for your students’ revision. You will be able to find digitised exam papers for Primary, Secondary and JC levels in the Community Gallery.</p>
+<p>You can assign past year exam questions from within SLS for your students’ revision. You will be able to find digitialised exam papers for Primary, Secondary and JC levels in the Community Gallery.</p>
 
 <p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Tip!
 </p>
 <ul>
-<li>Digitised exam papers have a gray module card:</li>
-<img style="width: 25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/Assign.png">
-
+<li>Check out this poster on <a target="_blank" href="/files/Marcomms/Feature%20Highlights/assessment_item_repository.pdf">Assessment Item Repository</a> for more information!</li>
 <br>
 </ul>
-
 <h2>Why do it</h2>
 <hr>
 <ul>
