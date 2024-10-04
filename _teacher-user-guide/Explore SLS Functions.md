@@ -64,17 +64,17 @@ Use SLS to manage student usage.
 <li>Each user flow is labelled with an alphabet (i.e. <strong>A</strong>).</li>
 <li>Sequential steps for each user flow will be labelled with a number (i.e. A<strong>1</strong>).</li>
 <li><p>User flows with steps that are branched out will have an additional number after a comma (i.e. A1,<strong>1</strong>).</p>
-<img style="width: 70%;" src="/images/1Student/UG2.png">
+<img alt="Explore SLS Functions" style="width: 70%;" src="/images/1Student/UG2.png">
 </li>
 <li><p>User flows that are made up of non-sequential steps will be labelled with a roman number (i.e. B1,<strong>i</strong>)</p>
-<img style="width:70%;" src="/images/1Student/UG3.png">
+<img alt="Explore SLS Functions" style="width:70%;" src="/images/1Student/UG3.png">
 </li>
 </ol>
 <h2 id="how-to-follow-the-user-flow">How to follow the User Flow</h2>
 <hr>
 <ol>
 <li><p>On some category pages, you may see a flow chart like the one below:</p>
-<img style="width: 100%;" src="/images/1Student/UG1.png">
+<img alt="Explore SLS Functions" style="width: 100%;" src="/images/1Student/UG1.png">
 </li>
 <li><p>These flow charts indicate the recommended steps to take (i.e. user flows) when a user wishes to perform a particular task. You may follow the arrows or numbering in the flow chart to proceed to the next step. </p>
 </li>
