@@ -20,6 +20,6 @@ third_nav_title: Assess
 	<img alt="(D3) About Short Answer Feedback Assistant (ShortAnsFA)" src="/images/1Student/AS_SAFA_Feedback3.png" style="width: 100%;">
 	</ol>
 From June 2024 (R1), you may also receive feedback based on a set of rubrics.
-<img alt="(D3) About Short Answer Feedback Assistant (ShortAnsFA)" src="/images/1Student/AS_SAFA_7A.png" style="width: 100%;">
+<img alt="(D3) About Short Answer Feedback Assistant (ShortAnsFA)" src="/images/1Student/AS_SAFA7.png" style="width: 100%;">
 <u>Note:</u><br>
 As ShortAnsFA uses generative AI, its response is probabilistic in nature and this results in it being inaccurate at times. You are encouraged to discuss the feedback and marks with your teacher if you need further explanation.
