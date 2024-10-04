@@ -19,5 +19,5 @@ third_nav_title: Assess
 		</ul>
 		</li>
 	<li>As LangFA-EL uses generative AI, its response is probabilistic in nature and this results in it being inaccurate at times. Please review the errors detected by LangFA-EL which are reflected on the annotation cards. To view more details of the error, click on the annotation cards. You are encouraged to consider if these are really errors and whether the suggestions are suitable. If in doubt, check a dictionary, or ask your teachers or peers for help. Bear in mind that LangFA-EL may have also missed some errors.</li>
-	<img alt="(D2) About Language Feedback Assistant for English (LangFA-EL)" src="/images/1Student/AS_AboutLangFA_EL02.png" style="width: 100%;">
+	<img alt="(D2) About Language Feedback Assistant for English (LangFA-EL)" src="/images/1Student/as_aboutlangfa_el03.png" style="width: 100%;">
 		</ol>
