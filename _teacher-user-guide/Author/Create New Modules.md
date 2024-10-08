@@ -22,7 +22,7 @@ variant: markdown
 <li><strong>From Starred Resources</strong></li>
 </ul>
 </li>
-<li>You can also use one of the templates under My Templates or SLS Templates. Click here to learn how to Add Templates.</li>
+<li>You can also use one of the templates under My Templates or SLS Templates. Click <a target="_blank" href="/teacher-user-guide/author/add-new-using-templates/">here</a> to learn how to Add Templates.</li>
 </ol>
 <p><img style="width: 100%;" src="/images/2Teacher/AU_CreateNewLesson1.png"></p>
 <h2 id="-create-new-module-from-my-drive-">Create New Module from My Drive</h2>
@@ -38,7 +38,7 @@ variant: markdown
 <hr>
 <ol>
 <li>Click on a Class Group on the homepage or from the left menu.</li>
-<li>Click here to learn how to add New Module from Class Group.</li>
+<li>Click <a target="_blank" href="/teacher-user-guide/author/add-or-sort-assignments-in-class-group/">here</a> to learn how to add New Module from Class Group.</li>
 <p><img style="width: 100%;" src="/images/2Teacher/AU_CreateNewLesson3.png"></p>
 </ol>
 
