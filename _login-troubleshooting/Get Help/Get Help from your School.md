@@ -660,7 +660,7 @@ Others:
 <td>CHIJ Our Lady Queen of Peace</td>
 <td>
 Tel: 67691529
-<br>Email: mohammad_ihsan_mohd_yaccob@moe.edu.sg
+<br>Email: teo_yi_wen@moe.edu.sg
 <br>
 Others:
 
