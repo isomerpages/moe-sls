@@ -38,7 +38,7 @@ variant: markdown
 <hr>
 <ol>
 <li>Click on a Class Group on the homepage or from the left menu.</li>
-<li>Click <a target="_blank" href="/teacher-user-guide/author/add-or-sort-assignments-in-class-group/">here</a> to learn how to add New Module from Class Group.</li>
+<li>Click <a target="_blank" href="/teacher-user-guide/assign/add-or-sort-assignments-in-class-group/">here</a> to learn how to add New Module from Class Group.</li>
 <p><img style="width: 100%;" src="/images/2Teacher/AU_CreateNewLesson3.png"></p>
 </ol>
 
