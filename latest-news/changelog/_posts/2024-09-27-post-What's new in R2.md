@@ -114,13 +114,13 @@ variant: markdown
 </details></li>
 <li><details><summary><h4>Learning Progress</h4></summary>
 <ul>
-<li><strong>Error Tracker:</strong> Teachers can use error categories established by MOE Content Approvers to tag specific error types in students’ responses and track them using the Error Tracker in Learning Progress. If a question is tagged to a content map with a prescribed list of error tags, teachers can use the auto-complete tag suggestions to easily tag student errors when creating annotation cards. These annotation cards with error tags will be tabulated and displayed under the Learning Progress - Error Tracker of the class group, viewable by both teachers and students.</li>
+<li><strong>Error Tracker</strong>: Teachers can use error categories established by MOE Content Approvers to tag specific error types in students’ responses and track them using the Error Tracker in Learning Progress. If a question is tagged to a content map with a prescribed list of error tags, teachers can use the auto-complete tag suggestions to easily tag student errors when creating annotation cards. These annotation cards with error tags will be tabulated and displayed under the Learning Progress - Error Tracker of the class group, viewable by both teachers and students.</li>
 </ul>
 </details></li>
 <li><details><summary><h4>Notifications</h4></summary>
 <ul>
-<li><strong>Comment Notifications:</strong> Teachers can notify students when they add comments in Interactive Thinking Tools (ITT), discussion boards or class group forums.</li>
-<li><strong>Monitor and Notify:</strong> Teachers can select students from the Monitor Assignment page to send them custom messages and notifications.</li>
+<li><strong>Comment Notifications</strong>: Teachers can notify students when they add comments in Interactive Thinking Tools (ITT), discussion boards or class group forums.</li>
+<li><strong>Monitor and Notify</strong>: Teachers can select students from the Monitor Assignment page to send them custom messages and notifications.</li>
 </ul>
 </details></li>
 </ol>
