@@ -86,10 +86,10 @@ variant: markdown
 <ul>
 <li><strong>Module Plan</strong>: Teachers can view module, section, activity and quiz notes, as well as descriptions and durations (if applicable) in the Module Plan and print it for use in non-digital&nbsp;lessons.</li>
 <li><strong>Split-Page Media</strong>: &nbsp;When splitting PowerPoint files across pages in activities, placeholders will be shown based on the number of slides uploaded, allowing teachers to navigate elsewhere while the media is being processed.</li>
-<li><strong>Split YouTube Videos Across Pages:</strong>&nbsp;Teachers can split YouTube videos across pages in an activity based on defined timestamps and set strict start and end times for these videos.</li>
+<li><strong>Split YouTube Videos Across Pages</strong>:&nbsp;Teachers can split YouTube videos across pages in an activity based on defined timestamps and set strict start and end times for these videos.</li>
 <li><strong>Interactive Response Questions</strong>: Teachers can set interactive response questions that automatically return marks to students after their attempt. These questions can be set by uploading corresponding HTML5 files to the Free-Response Question.</li>
 <li><strong>Quiz-level Rubrics</strong>: Teachers can create and apply quiz-level grading rubrics, with the option to hide them before student attempts. After their attempt, students will be able to see their awarded bands from the rubrics.</li>
-<li><strong>Rubrics Bands:</strong> The number of rubric bands has been expanded to allow up to 8 bands.</li>
+<li><strong>Rubrics Bands</strong>: The number of rubric bands has been expanded to allow up to 8 bands.</li>
 <li><strong>Hiding Quiz Marks</strong>: Teachers can choose to hide quiz marks in the quiz settings, which will hide quiz scores, rubric marks, and marks for each question.</li>
 <li><strong>Different Option Marks</strong>: Teachers can now allocate different marks to options in Multiple-Choice Questions (MCQs) and Multiple-Response Questions (MRQs).</li>
 <li><strong>Active Learning Process Tagging of Quiz</strong>: Newly-created quizzes will be auto-tagged to “Custom” instead of “Facilitate Demonstration of Learning” under Active Learning Process (ALP).</li>
