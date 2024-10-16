@@ -95,6 +95,17 @@ variant: markdown
 <li><strong>Automated Tagging:</strong> Module tags will be automatically applied to newly-created sections, and section tags will be automatically applied to newly-created components.</li>
 </ul>
 </details></li>
+<li><details><summary><h4>Assignments</h4></summary>
+<ul>
+<li><strong>Assignment Due Date</strong>: Teachers can now set assignment due date beyond 15 December.</li>
+<li><strong>Report Downloading</strong>: Teachers can download assignment marks and responses directly from the class group assignment listing.</li>
+</ul>
+</details></li>
+<li><details><summary><h4>Group Resources</h4></summary>
+<ul>
+<li><strong>Report Downloading</strong>: Teachers can download resource marks and responses directly from the class group resource listing.</li>
+</ul>
+</details></li>	
 <li><details><summary><h4>Accounts</h4></summary>
 <ul>
 <li><strong>Account Lock</strong>: Teacher accounts inactive for 90 days will be locked and require reactivation by an Account Manager for security reasons.</li>
