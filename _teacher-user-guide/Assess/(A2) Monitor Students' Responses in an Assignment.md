@@ -69,7 +69,7 @@ variant: markdown
 <li>Under the Interactive Thinking Tool, click <strong>View Class Submissions</strong> to open the Interaction Board.</li>
 <li>For Interactive Thinking Tool, you can view responses for individual column or all the columns at once by choosing the <strong>View All</strong> tab.</li>
 <li>Download the responses from the Interactive Thinking Tool by clicking <b>Download Responses</b> under either of the columns. </li>
-<li>The number of Comments is indicated beside the Comments icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Comment.svg">. </li>
+<li>The number of Comments is indicated beside the <strong>Comment</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Comment.svg">. </li>
 <li>To view comments for any response, click the Response card. </li>
 <li><p>All Comments made by you and your students will be made visible, arranged according to the time stamp, with the most recent post at the bottom. Changes to the state of the comments (e.g. deleted or edited) are also reflected in the Comments.</p>
 	<p><u>Note</u>: Names of students who have left a comment cannot be hidden.</p>
