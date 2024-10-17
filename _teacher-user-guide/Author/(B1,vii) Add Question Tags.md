@@ -17,7 +17,7 @@ variant: markdown
 <li>Click the&nbsp;<strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">&nbsp;found at the top right of the header to enter the Module Editor page.</li>
 <li>To edit the Question Details subpage, click the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the card. </li>
 <li><p>To include the Question in the Learning Progress, select the checkbox “Include in Learning Progress”. You can also add Keyword Tags and Question Tags. </p>
-<p><img style="width: 100%;" src="/images/2Teacher/AU-AddQuestionTag1.png"></p>
+<p><img style="width: 100%;" src="/images/2Teacher/AU_AddQuestionTag3.png"></p>
 	<p><u>Note</u>: You will need to add a Question Tag in order to include the question in the Learning Progress.</p>
 </li>
 <li><p>Click the dropdown arrow located on the right of the Question Tag field.</p>
