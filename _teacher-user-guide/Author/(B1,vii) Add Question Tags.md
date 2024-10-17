@@ -14,7 +14,7 @@ variant: markdown
 <h2 id="add-a-question-tag">Add a Question Tag</h2>
 <hr>
 <ol>
-<li>Click the&nbsp;<strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">&nbsp;found at the top right of the header to enter the Lesson Editor page.</li>
+<li>Click the&nbsp;<strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">&nbsp;found at the top right of the header to enter the Module Editor page.</li>
 <li>To edit the Question Details subpage, click the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the card. </li>
 <li><p>To include the Question in the Learning Progress, select the checkbox “Include in Learning Progress”. You can also add Keyword Tags and Question Tags. </p>
 <p><img style="width: 100%;" src="/images/2Teacher/AU-AddQuestionTag1.png"></p>
@@ -29,7 +29,6 @@ variant: markdown
 <li>Select the <strong>Skill Level</strong> from the dropdown list.</li>
 <li>Click the downward arrow to expand the Topics in order to see the Sub-topics. Select the checkboxes next to the <strong>Sub-topics</strong> that are relevant to this question. </li>
 <li>Click the upward arrow on the Question Tag field to close the selection.</li>
-<li>Alternatively, you may click <strong>Copy Tags From Lesson</strong> to add the same tags from Lesson Tags to your Question Tags.</li>
 <li><p>Click the <strong>Save</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed.</p>
 <p><img style="width: 100%;" src="/images/2Teacher/AU-AddQuestionTag2.png"></p>
 </li>
