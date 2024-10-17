@@ -40,17 +40,15 @@ variant: markdown
 <li>Recommended Time - You can set the recommended time for the student to complete the</li>
 <li>Response Size - You can adjust the response size (Short, Medium or Long) using dropdown menu to choose the response size best suited for the question.</li>
 <p><img style="width: 100%;" src="/images/2Teacher/AU-AddFRQ2.png"></p>
-<li><p>Pre-populated Student Answer - This allows you to insert an answer stem to scaffold students' responses, or to provide an image for students to work on. When students answer the question, they will be able to directly edit this answer stem or image. Students can edit the images provided by clicking the <strong>Edit Drawing</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/EditDrawing.svg"> and drawing on it.</p>
-	<p><u>Note</u>: You can also use Google Response to Pre-populated Student Answer.</p>
-</li>
-<li><p>Add Rubrics - This allows students to view the rubrics while they attempt the question.</p>
-	<p><u>Note</u>: Show and use rubric marks checkbox - If checked, marks will be defined by the Rubrics.</p>
+<li><p>Pre-populated Student Answer - This allows you to insert an answer stem to scaffold students' responses, or to provide an image for students to work on. When students answer the question, they will be able to directly edit this answer stem or image. Students can edit the images provided by clicking the <strong>Edit Drawing</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/EditDrawing.svg"> and drawing on it.<br>
+<u>Note</u>: You can also use Google Response to Pre-populated Student Answer.</p></li>
+<li><p>Add Rubrics - This allows students to view the rubrics while they attempt the question.
+<br><u>Note</u>: Show and use rubric marks checkbox - If checked, marks will be defined by the Rubrics.</p>
 </li>
 <li><p>Suggested Answer - The suggested answer to the question. This is shown to students after they have submitted their answers.</p>
 </li>
 <li>Feedback - The explanation to the question's answer(s). This is shown to students after they have submitted their answers.</li>
 <li><p>Marks - You can set the number of marks. The default is one mark.</p>
-
 </li>
 <li><p>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> for editing the Question Component Details card.</p>
 </li>
