@@ -27,8 +27,9 @@ variant: markdown
 <img style="width: 100%;" src="/images/2Teacher/AU-AddRubrics1.png">
 <li>Click outside the Component to <strong>Save</strong>.</li>
 </ol>
-<h2 id="-use-marks-of-the-rubrics-not-available-for-questions-in-progressive-quiz-and-auto-graded-quiz-">Use Marks of the Rubrics (Not available for Questions in Progressive Quiz and Auto-Graded Quiz)</h2>
+<h2 id="-use-marks-of-the-rubrics-not-available-for-questions-in-progressive-quiz-and-auto-graded-quiz-">Use Rubrics Marks</h2>
 <hr>
+<p><u>Important</u>: This is only available for Teacher-Marked Quiz. It is not available for Questions in Progressive Quiz and Auto-Graded Quiz. </p>
 <ol>
 <li>The rubrics can be used as a reference, but not be bound to the mark ranges for the question. To do so, ensure that the box beside <strong>Show and use rubrics marks</strong> is unchecked.</li>
 <li>Alternatively, the marks of the rubrics can be used for the question. To do so, check the box for <strong>Show and use rubrics marks</strong>. The total marks will be calculated based on the marks allocated by the teacher for each criterion in the rubrics. This will also impact students' quiz scores in a Teacher-Marked Quiz.</li>
