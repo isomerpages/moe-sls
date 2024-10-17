@@ -161,7 +161,7 @@ https://britishmuseum.withgoogle.com
 https://dictionary.cambridge.org
 </td>
 </tr>
-<tr><td><strong>Cathoven <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Cathoven </strong></td>
 <td>AI Tool</td>
 <td>
 https://nexthub.cathoven.com
@@ -335,12 +335,20 @@ https://www.elementari.com
 </td>
 </tr>
 
+<tr><td><strong>Epic <font color="#FBBC04">NEW!</font></strong></td>
+<td>Digital Library</td>
+<td>
+https://getepic.com
+</td>
+</tr>
+
 <tr><td><strong>European Environment Agency</strong></td>
 <td>Resource site</td>
 <td>
 https://www.eea.europa.eu
 </td>
 </tr>
+
 <tr><td><strong>Experiments with Google</strong></td>
 <td>Module Tool for Experiments and Simulations</td>
 <td>
@@ -1336,7 +1344,7 @@ https://storymaps.arcgis.com
 https://survey123.arcgis.com
 </td>
 </tr>
-<tr><td><strong>Arduino <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Arduino </strong></td>
 <td>Coding Platform</td>
 <td>
 https://app.arduino.cc/sketches
@@ -1957,7 +1965,7 @@ https://www.thinglink.com
 https://cdn.knightlab.com
 </td>
 </tr>
-<tr><td><strong>Top Worksheets <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Top Worksheets</strong></td>
 <td>Worksheet Design Tool</td>
 <td>
 https://www.topworksheets.com
