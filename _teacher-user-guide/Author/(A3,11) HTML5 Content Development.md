@@ -63,4 +63,7 @@ variant: markdown
 <p>//window.opener.top.close();</p>
 <p> As a workaround, students can access the assignment via the Assignment URL.</p>
 </li>
-</ol>
+<li><p><strong>Why does the HTML5 Media Object appear as a file, instead of being loaded in the frame?</strong></p>
+<p> This happens when there is no "index.html" file found directly inside the ZIP file, e.g. it is found inside another folder, or it has been renamed as "index.html.html". Please follow steps 1 and 2 as stated in the User Guide above when uploading a HTML5 Zip file in SLS. 
+</p>
+</li></ol>
