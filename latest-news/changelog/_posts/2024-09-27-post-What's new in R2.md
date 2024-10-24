@@ -69,7 +69,6 @@ variant: markdown
 <li><details><summary><h4>Feedback Assistants</h4></summary>
 <ul>
 <li><strong>Combine Feedback Assistants</strong>: Teachers can send students’ responses to both Language Feedback Assistant for English (LangFA-EL) and Short Answer Feedback Assistant (ShortAnsFA) to allow students to receive more than one type of feedback in a single response.</li>
-<li><strong>Preview Feedback</strong>: Teachers can preview feedback from LangFA-EL in Preview as Student to ensure that questions with LangFA-EL have been configured correctly before assigning to students.</li>
 </ul>
 </details></li>
 <li><details><summary><h4>Video Conferencing</h4></summary>
