@@ -22,12 +22,12 @@ variant: markdown
 <hr>
 <ol>
 <li>Select the Class Group containing the student(s) you want to generate a Passcode for. Click the <strong>Admin</strong> tab to view Group Details.</li>
-<li>Below Subgroup List, click <strong>Generate Temporary Passcode</strong> under Password Settings.</li>
+<li>Below Subgroup List, click <strong>Generate Temporary Passcode</strong> under Passcode Settings.</li>
 <li><p>Enter a Passcode and re-enter it for confirmation.</p>
 	<p><u>Note</u>: The Passcode must follow the password guidelines. It should be at least 8 characters long and contain a combination of numbers and letters.</p>
 </li>
 <li><p>Click <strong>Generate Passcode</strong>.</p>
-<p><img alt="Generate Two-Hour Temporary Password for Students" style="width: 100%;" src="/images/2Teacher/A_passcode.jpg"></p>
+<p><img alt="Generate Two-Hour Temporary Password for Students" style="width: 100%;" src="/images/2Teacher/A_passcode1.jpg"></p>
 </li>
 <li><p>On the confirmation prompt, verify that the correct class group has been selected.</p>
 </li>
