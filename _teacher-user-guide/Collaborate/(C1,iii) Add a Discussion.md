@@ -18,7 +18,7 @@ variant: markdown
 <li>Question Body</li>
 </ul>
 </li>
-<li>After the details are entered, click outside the ITT box to save your work.</li>
+<li>After the details are entered, click outside the Discussion box to save your work.</li>
 <li>To hide the names of students, click the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the Discussion card. By default, the names of students will be visible. To hide the names of students, select the checkbox “Hide Names”. Click <strong>Save</strong> followed by <strong>X</strong>.</li>
 <li>When students' names are hidden, they will appear as Anonymous on the Interaction Board. Students will only see their own names.</li>
 <li>To edit a Discussion, hover your mouse over the Discussion and click the component, or the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">. </li>
