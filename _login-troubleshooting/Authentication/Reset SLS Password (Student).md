@@ -20,9 +20,9 @@ variant: markdown
 <li>Click <strong>Submit</strong>.</li>
 <li>An email with the password reset link will be sent to your email address.</li>
 <li>Click the reset password link in the email.
-<u>Note</u>:<ul>
+<p><u>Note</u>:</p><ul>
 <li>The link will be valid for 10 minutes.</li>
-<li>If the link has expired, you can request another by repeating the steps above.</li>
+<li>If the link has expired, you can request another by repeating the steps above.</li><p></p>
 </ul>
 </li>
 <li><p>On the Reset Password page, enter a new password. You will need to enter the new password twice to confirm that you have entered it correctly.</p>
