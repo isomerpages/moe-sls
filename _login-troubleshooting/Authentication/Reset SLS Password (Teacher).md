@@ -12,13 +12,13 @@ variant: markdown
 <li>Enter your SLS Username.</li>
 <li>Click <strong>Submit</strong>.</li>
 <li>An email with the password reset link will be sent to your email address.</li>
-<li>Click the reset password link in the email.<ul>
+<li>Click the reset password link in the email.
+<p><u>Note</u>:</p><ul>
 <li>The link is valid for 10 minutes.</li>
-<li>If the link has expired, you can request another by repeating the steps above.</li>
+	<li>If the link has expired, you can request another by repeating the steps above.</li><p></p>
 </ul>
 </li>
-<li>On the <strong>Reset Password</strong> page, enter a new password.<img alt="Reset SLS Password (Teacher)" style="width: 100%;" src="/images/4Troubleshooting/LT_ResetPassword.png">
-<ul><li>You will need to enter the new password twice to confirm that you have entered it correctly.</li></ul>
+<li>On the <strong>Reset Password</strong> page, enter a new password. You will need to enter the new password twice to confirm that you have entered it correctly.
 </li><li>Click <strong>Submit</strong>.</li>
 <li>If your password reset is successful, you will be brought to the login page.</li>
 <li>Click <a target="_blank" href="/login-troubleshooting/authentication/sls-password-reset-email/">here</a> if you did not receive your password reset email</li>

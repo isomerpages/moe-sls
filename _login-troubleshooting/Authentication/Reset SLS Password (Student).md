@@ -19,16 +19,14 @@ variant: markdown
 <li>Select <strong>Receiving a password reset link in my email</strong>.</li>
 <li>Click <strong>Submit</strong>.</li>
 <li>An email with the password reset link will be sent to your email address.</li>
-<li>Click the reset password link in the email.<ul>
+<li>Click the reset password link in the email.
+<p><u>Note</u>:</p><ul>
 <li>The link will be valid for 10 minutes.</li>
-<li>If the link has expired, you can request another by repeating the steps above.</li>
+<li>If the link has expired, you can request another by repeating the steps above.</li><p></p>
 </ul>
 </li>
-<li><p>On the Reset Password page, enter a new password.</p>
-<p><img alt="Reset SLS Password (Student)" style="width: 100%;" src="/images/4Troubleshooting/LT_ResetPassword.png"></p>
-</li>
-<ul><li><p>You will need to enter the new password twice to confirm that you have entered it correctly.</p>
-	</li></ul>
+<li><p>On the Reset Password page, enter a new password. You will need to enter the new password twice to confirm that you have entered it correctly.</p>
+	</li>
 <li>Click <strong>Submit</strong>.</li>
 </ol>
 <h2 id="d-id-not-receive-password-reset-email-">Did Not Receive Password Reset Email</h2>
@@ -49,7 +47,6 @@ variant: markdown
 </li>
 <li><p>On the Security Questions page, enter the answers to the security questions.</p>
 <p><u>Note</u>: You must answer all questions correctly before you can reset your password.</p>
-<img alt="Reset SLS Password (Student)" style="width: 100%;" src="/images/4Troubleshooting/LT_ResetPassword1.png">
 </li>
 <li><p>Click <strong>Submit</strong>.</p>
 </li>
