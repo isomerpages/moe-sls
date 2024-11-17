@@ -7,7 +7,7 @@ third_nav_title: Discover
 variant: markdown
 ---
 <h1 class="page-title">(C2) Embed Integrated Apps</h1>
-<p>SLS allows system capabilities to be extended via integration with external applications. This accelerates the adoption and integration of new digital learning tools and resources complementary to SLS. While most available Apps can be browsed from the App Library, some of them can only be launched via iframe embedding within a lesson.</p>
+<p>SLS allows system capabilities to be extended via integration with external applications. This accelerates the adoption and integration of new digital learning tools and resources complementary to SLS. While most available Apps can be browsed from the App Library, some of them can only be launched via iframe embedding within a module.</p>
 <p>To embed an integrated App:</p>
 <ol>
 <li>In Module Editor page, hover over Text/Media found within the Component Bar and select App.</li>
@@ -37,7 +37,7 @@ variant: markdown
 <tr><td><strong>Collaborative Video Annotation and Analytics for Professional Development (CoVAAPD)</strong></td>
 <td>[Non-embeddable] CoVAAPD, a video annotation and learning analytics platform, allows teachers to upload videos, invite other teachers to view them and contribute to the discourse asynchronously. It promotes teacher reflection and widens the outreach for professional learning and collaboration.</td></tr>
 <tr><td><strong>Easy JavaScript Simulation (EJSS) App</strong></td>
-<td>These EJSS are a collection of virtual science labs, digital manipulatives, and captivating games designed to enhance learning experiences through learning analytics capabilities. <a target="_blank" href="https://go.gov.sg/slsejss1">Click here</a> to find out how to add EJSS in the EJSS App into your SLS assignment/lesson. <a target="_blank" href="https://go.gov.sg/slsejss2">Click here</a> to find out how to use the EJSS authoring toolkit to add these existing EJSS to have learning analytics capabilities. This EJSS App is funded by the MOE Senior Specialist Research - Development Fund (SSTRF).</td></tr>
+<td>These EJSS are a collection of virtual science labs, digital manipulatives, and captivating games designed to enhance learning experiences through learning analytics capabilities. <a target="_blank" href="https://go.gov.sg/slsejss1">Click here</a> to find out how to add EJSS in the EJSS App into your SLS assignment/module. <a target="_blank" href="https://go.gov.sg/slsejss2">Click here</a> to find out how to use the EJSS authoring toolkit to add these existing EJSS to have learning analytics capabilities. This EJSS App is funded by the MOE Senior Specialist Research - Development Fund (SSTRF).</td></tr>
 <tr><td><strong>Last Reserve</strong></td>
 <td>[Non-embeddable] Last Reserve is a game for students to learn about scarcity and decision-making. It is only available to schools offering Economics subject.</td></tr>
 <tr><td><strong>MCEduhub</strong></td>
