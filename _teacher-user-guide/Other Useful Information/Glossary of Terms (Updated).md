@@ -4,6 +4,7 @@ permalink: /teacher-user-guide/other-useful-information/glossary-of-terms/
 description: ""
 third_nav_title: Other Useful Information
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Glossary of Terms (Updated)</h1>
 <table>
@@ -99,7 +100,7 @@ image: /images/FaviconLight.png
         <p>Text</p>
       </td>
       <td>
-        <p>Rich Text can be added to all components. The colour, size, style of the font can be edited to make the lesson look more interesting.</p>
+        <p>Rich Text can be added to all components. The colour, size, style of the font can be edited to make the module look more interesting.</p>
       </td>
     </tr>
     <tr>
@@ -211,7 +212,7 @@ image: /images/FaviconLight.png
         <p>Student Tooltip</p>
       </td>
       <td>
-        <p>Student Tooltip can be added to any component and is visible to students when they attempt the lesson. When clicked, students will be able to create a note on the right drawer. This allows teachers to point out areas in the lesson where students are encouraged to create a note.</p>
+        <p>Student Tooltip can be added to any component and is visible to students when they attempt the module. When clicked, students will be able to create a note on the right drawer. This allows teachers to point out areas in the module where students are encouraged to create a note.</p>
       </td>
     </tr>
     <tr>
@@ -219,7 +220,7 @@ image: /images/FaviconLight.png
         <p>Teacher Tooltip</p>
       </td>
       <td>
-        <p>Teacher Tooltip can be added to any component and is hidden from students. It allows teachers to explain and note the rationale of their lesson. This can be very useful when lessons are shared with other teachers.</p>
+        <p>Teacher Tooltip can be added to any component and is hidden from students. It allows teachers to explain and note the rationale of their module. This can be very useful when modules are shared with other teachers.</p>
       </td>
     </tr>
 		   <tr>
