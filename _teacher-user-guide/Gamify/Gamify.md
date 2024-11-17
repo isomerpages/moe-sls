@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>Gamify</h1>
-<p>Use SLS to create a game layer in my lesson resource to motivate my students.</p>
+<p>Use SLS to create a game layer in my module resource to motivate my students.</p>
 <img alt="Gamify" style="width: 100%;" src="/images/2Teacher/Flow_Gamify1.svg">
 
 <a target="_blank" href="/teacher-user-guide/gamify/about-gamification-and-leaderboard/">About Gamification and Leaderboard</a>
