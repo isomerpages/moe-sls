@@ -13,11 +13,11 @@ variant: markdown
 <hr>
 <p><strong>Experience Points (XP)</strong> - XP is awarded to you to measure your progress within the game. XP is converted from marks awarded from your Assignment/Assessment.</p>
 <p><strong>Levels</strong> - Levels are dependent on the XP collected. When you collect enough XP, you can level up (progress to the next level).</p>
-<p><strong>Game Stories</strong> - You can read about the scenario your teacher has designed for you as you progress in the lesson</p>
+<p><strong>Game Stories</strong> - You can read about the scenario your teacher has designed for you as you progress in the module</p>
 <p><strong>Collectibles</strong> - There are two types of Collectibles:
 	</p><ul>
-		<li><strong>Achievements</strong> - These are rewards awarded to you as you progress in the lesson.</li>
-		<li><strong>Avatar</strong> - These are characters or items awarded to you. You may replace your SLS avatar with avatars you obtained as you progress in the lesson.</li>
+		<li><strong>Achievements</strong> - These are rewards awarded to you as you progress in the module.</li>
+		<li><strong>Avatar</strong> - These are characters or items awarded to you. You may replace your SLS avatar with avatars you obtained as you progress in the module.</li>
 		</ul>
 		
 <img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did You Know</u>:
