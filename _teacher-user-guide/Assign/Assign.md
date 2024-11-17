@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>Assign</h1>
-<p>Use SLS to assign lessons to your students for them to complete within a specific time.</p>
+<p>Use SLS to assign modules to your students for them to complete within a specific time.</p>
 <img alt="Assign" style="width: 50%;" src="/images/2Teacher/Flow_Assign.svg">
 
 <details>
