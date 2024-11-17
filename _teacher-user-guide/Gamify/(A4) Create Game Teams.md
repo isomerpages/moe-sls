@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h1 id="create-game-teams">(A4) Create Game Teams</h1>
 <p>To enable Team Leaderboard, you will first have to create Game Teams.</p>
-<p><u>Note</u>: Game Teams are different from Activity Teams. The former exists only in Gamified lessons and is used for the calculation of points. The latter can exist in any assignment and is used to allow for differentiated access and/or group learning.</p>
+<p><u>Note</u>: Game Teams are different from Activity Teams. The former exists only in Gamified modules and is used for the calculation of points. The latter can exist in any assignment and is used to allow for differentiated access and/or group learning.</p>
 <h2 id="navigate-to-game-teams">Navigate to Game Teams</h2>
 <hr>
 <p>Game Teams can be created from the Assignment Settings subpage. There are two ways to access the Assignment Settings subpage - when assigning a <a target="_blank" href="/teacher-user-guide/assign/create-assignments/">Module</a> and when <a target="_blank" href="/teacher-user-guide/assign/manage-assignments/">managing an Assignment </a>
