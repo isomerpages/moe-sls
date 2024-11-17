@@ -25,7 +25,7 @@ variant: markdown
 <p><img style="width: 100%;" src="/images/2Teacher/AU_AddModuleTag1.png"></p>
 </li>
 </ol>
-<h2 id="-add-more-lesson-tags-">Add More Module Tags</h2>
+<h2 id="-add-more-module-tags-">Add More Module Tags</h2>
 <hr>
 <ol>
 <li>To add more Module Tags, click <strong>Add Module Tag</strong>.</li>
