@@ -33,7 +33,7 @@ each Activity. (NEW)</p>
 <li>
 <p>After you are done editing the Activity, you can click <strong>Add New</strong> and
 choose to Add New <strong>Activity/Quiz/Section Cover</strong> to continue
-with your lesson authoring.</p>
+with your module authoring.</p>
 <p><u>Note</u>:</p>
 <ul data-tight="true" class="tight">
 <li>
