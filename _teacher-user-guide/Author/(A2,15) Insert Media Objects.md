@@ -31,7 +31,7 @@ variant: markdown
 <li>To view files with Augmented Reality content, a separate software may be required.</li>
 </ul>
 </li>
-<li>When the file is successfully uploaded, the Media Object will be added to the Lesson.</li>
+<li>When the file is successfully uploaded, the Media Object will be added to the Module.</li>
 </ol>
 <h2 id="-upload-a-media-object-from-an-ios-device-">Upload a Media Object from an iOS Device</h2>
 <hr>
