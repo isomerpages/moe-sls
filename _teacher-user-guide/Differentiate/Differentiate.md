@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>Differentiate</h1>
-<p>Use SLS to differentiate lessons and activities for different groups of students.</p>
+<p>Use SLS to differentiate modules and activities for different groups of students.</p>
 <img alt="Differentiate" src="/images/2Teacher/Flow-Differentiate1.svg">
 <details>
  <summary><h4>A. How to organise my students within Class Groups?</h4></summary>
