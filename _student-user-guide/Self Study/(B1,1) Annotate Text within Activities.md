@@ -11,7 +11,7 @@ variant: markdown
 <hr>
 <p>When you are working on an assignment or a Self-Study resource, you can add annotations to the text. This feature can be used to make notes specific to a phrase or sentence. For example, you can insert a definition or explanation for a term you just learnt. You can also highlight text without adding a Note to it.</p>
 <ol>
-<li>From within a lesson, highlight the text that you want to annotate.</li>
+<li>From within a module, highlight the text that you want to annotate.</li>
 <li>Select a colour for the highlight. <img src="/images/1Student/SS-Annotate.png" alt="Annotate Text Within Activities #1"></li>
 	<li>A textbox will appear. You may choose to <strong>Highlight</strong> the text without adding a Note <img style="width:1.5rem; display: inline;" src="/images/Icons/Highlight.svg" alt="Annotate Text Within Activities #2"> , or add a Note <img style="width:1.5rem; display: inline;" src="/images/Icons/Annotate.svg" alt="Annotate Text Within Activities #3"> to accompany the highlighted text.</li>
 <li>You may insert text, mathematical or chemical equations, emoticons, upload a background image or drawing, attach a file or add an audio recording in a Note. <img style="width: 80%;" src="/images/1Student/SS-Annotate1.png" alt="Annotate Text Within Activities #4"></li>
