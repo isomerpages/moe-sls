@@ -20,7 +20,7 @@ third_nav_title: Track Progress
 	<img alt="(A2,4) View ALS Learning Progress" src="/images/2Teacher/T_View_LP2.png" style="width: 100%;"></li> 
 <li>On the Learning Progress page, you can select your Class Group below the banner from the Class Group dropdown list. Class Groups that are tagged to the same Subject and Level will appear in the list. 
 	<ul><li> Select the <strong>Assignment</strong> tab to view the Class Group's Learning Progress for Assignments assigned to the Class Group. </li>
-		<li>Select the <strong>Self-Study</strong> tab to view the Class Group's Learning Progress for questions attempted by students in their Self-Study Lessons that are tagged to the same Subject and Level as the Class Group. 
+		<li>Select the <strong>Self-Study</strong> tab to view the Class Group's Learning Progress for questions attempted by students in their Self-Study Modules that are tagged to the same Subject and Level as the Class Group. 
 	<img alt="(A2,4) View ALS Learning Progress" src="/images/2Teacher/T_View_LP3.png" style="width: 100%;"></li> 
 	</ul>
 	</li><li>The overall progress of students can be viewed in two ways: </li>
