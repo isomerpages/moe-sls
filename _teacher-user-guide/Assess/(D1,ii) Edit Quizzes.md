@@ -44,14 +44,14 @@ variant: markdown
 <h2 id="edit-delete-and-reorder-pages-in-a-quiz-">Edit, Delete and Reorder pages in a Quiz</h2>
 <hr>
 <ol>
-<li>Ensure you are in Lesson Editor mode.</li>
+<li>Ensure you are in Module Editor mode.</li>
 <li>Click on the Page you wish to edit, delete, or reorder. You can open the <strong>Overflow</strong> (<strong>3-dot</strong> icon) beside the <strong>Question Number</strong> to Add Page After/Before, Move Left/Right, or Delete.</li>
 </ol>
 <p><img alt="Edit Quizzes" style="width: 100%;" src="/images/2Teacher/As-EditQuiz2.png"></p>
 <h2 id="-edit-delete-or-reorder-a-component-in-a-quiz-">Edit, Delete or Reorder a Component in a Quiz</h2>
 <hr>
 <ol>
-<li>Ensure you are in Lesson Editor mode.</li>
+<li>Ensure you are in Module Editor mode.</li>
 <li>Click the Up/Down Arrows to move your Components Up/Down within a page.</li>
 <li><p>Open the <strong>Overflow</strong> (<strong>3-dot</strong> icon) beside the Component to Move it to the Previous/Next Page or Delete.</p>
 	<p> <u>Note</u>: </p>
