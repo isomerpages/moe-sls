@@ -25,7 +25,7 @@ variant: markdown
 </ol>
 <li>Click Create to proceed.</li>
 <p><img alt="Game Stories and Collectibles" style="width: 80%;" src="/images/2Teacher/G-GameStory1.png"></p>
-<li>After creating a Game Story, you may click <a target="_blank" href="/teacher-user-guide/gamify/add-conditions-to-game-story-or-collectibles/">Add Conditions</a> to determine when the Game Story will appear during the lesson. All Game Stories are hidden by default until they are awarded to the students.</li>
+<li>After creating a Game Story, you may click <a target="_blank" href="/teacher-user-guide/gamify/add-conditions-to-game-story-or-collectibles/">Add Conditions</a> to determine when the Game Story will appear during the module. All Game Stories are hidden by default until they are awarded to the students.</li>
 <li>To add, reorder, or delete a Game Story, click the <b>Overflow</b> (<b>3-dot</b> icon) on the Game Story card and select the respective options. </li>
 </ol>
 <h2>Add a Collectible</h2>
@@ -79,7 +79,7 @@ variant: markdown
 <p>Click <strong>Create</strong> to proceed.</p>
 </li>
 <li>
-<p>After creating a Collectible, you may click <a target="_blank" href="/teacher-user-guide/gamify/add-conditions-to-game-story-or-collectibles/">Add Conditions</a> to determine when the Collectible will appear during the lesson.</p>
+<p>After creating a Collectible, you may click <a target="_blank" href="/teacher-user-guide/gamify/add-conditions-to-game-story-or-collectibles/">Add Conditions</a> to determine when the Collectible will appear during the module.</p>
 </li>
 <li>
 <p>To add, reorder, or delete a Collectible, click the <strong>Overflow</strong> (<strong>3</strong>-<strong>dot</strong> icon) on the Collectible card and select the respective options.</p>
