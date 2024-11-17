@@ -14,7 +14,7 @@ variant: markdown
 <hr>
 
 <h3><a id="discover" target="_blank" href="/teacher-user-guide/discover/index/">1. Discover</a></h3>
-Use SLS to search for and find useful T&amp;L resources for use in your lessons.
+Use SLS to search for and find useful T&amp;L resources for use in your modules.
 <h3><a id="notify" target="_blank" href="/teacher-user-guide/notify/index/">2. Notify</a></h3>
 Use SLS to notify other teachers and students easily on T&amp;L matters across the system, classes and individual levels.
 <h3><a id="plan" target="_blank" href="/teacher-user-guide/plan/index/">3. Plan</a></h3>
@@ -27,20 +27,20 @@ Use SLS to customise your avatar, UI and user experience based on your needs.
 <h2>Author: Create meaningful and engaging lessons.</h2>
 <hr>
 <h3><a id="author" target="_blank" href="/teacher-user-guide/author/index/">1. Author</a></h3>
-Use SLS to design lesson resources aligned to the e-pedagogical principles.
+Use SLS to design module resources aligned to the e-pedagogical principles.
 <h3><a id="personalise" target="_blank" href="/teacher-user-guide/personalise/index/">2. Personalise</a></h3>
 Use SLS to provide choice for your students in their lessons and activities.
 <h3><a id="gamify" target="_blank" href="/teacher-user-guide/gamify/index/">3. Gamify</a></h3>
-Use SLS to create a game layer in my lesson resource to motivate my students.
+Use SLS to create a game layer in my module resource to motivate my students.
 
 <h2>Enact: Deliver engaging in-class lessons.</h2>
 <hr>
 <h3><a id="assign" target="_blank" href="/teacher-user-guide/assign/index/">1. Assign</a></h3>
-Use SLS to assign lessons to your students for them to complete within a specific time.
+Use SLS to assign modules to your students for them to complete within a specific time.
 <h3><a id="2enact" target="_blank" href="/teacher-user-guide/enact/index/">2. Enact</a></h3>
-Use to enact assigned SLS lessons as part of my synchronous teaching in-class or over Virtual Classrooms.
+Use to enact assigned SLS modules as part of my synchronous teaching in-class or over Virtual Classrooms.
 <h3><a id="differentiate" target="_blank" href="/teacher-user-guide/differentiate/index/">3. Differentiate</a></h3>
-Use SLS to differentiate lessons and activities for different groups of students.
+Use SLS to differentiate modules and activities for different groups of students.
 <h3><a id="collaborate" target="_blank" href="/teacher-user-guide/collaborate/index/">4. Collaborate</a></h3>
 Use SLS to set learning activities to be done collaboratively by students.
 
@@ -49,7 +49,7 @@ Use SLS to set learning activities to be done collaboratively by students.
 <h3><a id="1assess" target="_blank" href="/teacher-user-guide/assess/index/">1. Assess</a></h3>
 Use SLS to set up, mark and give feedback on student work.
 <h3><a id="track-progress" target="_blank" href="/teacher-user-guide/track-progress/index/">2. Track Progress</a></h3>
-Use SLS to track and compare student progress within and across lessons and assignments.
+Use SLS to track and compare student progress within and across modules and assignments.
 
 <h2>Administer: Manage teacher and student access.</h2>
 <hr>
