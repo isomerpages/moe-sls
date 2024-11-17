@@ -10,7 +10,7 @@ variant: markdown
 <p>There are 3 types of Notes:</p>
 <ol>
 <li>Highlighted Annotation: These are found within an Activity of an Assignment, or Self-Study Resource. They can be created by both your teacher and yourself.</li>
-	<p><u>Note</u>: If you have shared the lesson with a classmate (if Share Assignment is enabled), you will also be able to see each other’s notes.</p>
+	<p><u>Note</u>: If you have shared the module with a classmate (if Share Assignment is enabled), you will also be able to see each other’s notes.</p>
 <li>Underlined Annotation: These are only found in Assignments. These are created by your teachers to provide feedback or to highlight key concepts.</li>
 <li>Notes: These are found within an Activity of an Assignment, or Self-Study Resource. They can be created by both your teacher and yourself. These Notes are not anchored to anywhere in the Assignment or Resource.</li>
 </ol>
