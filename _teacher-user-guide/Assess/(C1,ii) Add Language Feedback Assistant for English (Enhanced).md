@@ -42,7 +42,7 @@ third_nav_title: Assess
 <li>You may still review and edit the annotated feedback of the errors detected by LangFA-EL under the <strong>Monitor Assignment</strong> page and clicking the annotation cards. To add a comment, click <strong>Teacher Comments</strong>. You are encouraged to check that the annotations and feedback are accurate and appropriate; and engage in further discussions with your students.</li>
 </ol>
 <ol><u>Supporting Resources</u>:
-	<li>Primary EL: Teachers can refer to these <a target="_blank" href="https://go.gov.sg/elpri-langfa">sample writing lessons</a> as guides to introduce the LangFA-EL to students.</li>
-		<li>Secondary EL: SLS lessons from the <a target="_blank" href="https://vle.learning.moe.edu.sg/search?keyword=%22Reading+Up%22&amp;location=MOE&amp;resource=LESSON&amp;sortBy=modifiedDate&amp;sortByOrder=descending">Reading Up</a> series contain sections that provide students opportunities to use the LangFA-EL. More lessons with LangFA-EL will be added on an approximately monthly basis.</li>
+	<li>Primary EL: Teachers can refer to these <a target="_blank" href="https://go.gov.sg/elpri-langfa">sample writing modules</a> as guides to introduce the LangFA-EL to students.</li>
+		<li>Secondary EL: SLS modules from the <a target="_blank" href="https://vle.learning.moe.edu.sg/search?keyword=%22Reading+Up%22&amp;location=MOE&amp;resource=LESSON&amp;sortBy=modifiedDate&amp;sortByOrder=descending">Reading Up</a> series contain sections that provide students opportunities to use the LangFA-EL. More modules with LangFA-EL will be added on an approximately monthly basis.</li>
  </ol>
  <hr>
