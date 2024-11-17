@@ -10,7 +10,7 @@ variant: markdown
 <ol>
 <li>You can add assignments to the Class Group from the Class Group page. </li>
 <li>Access Class Groups from the left menu or by selecting the Class Group (if pinned) on your homepage. On the Class Group page, click <strong>Add Assignment</strong> to add the assignment:<ol style="list-style-type: lower-alpha;">
-<li>From New Lesson</li>
+<li>From New Module</li>
 <li>From My Drive</li>
 <li>From Library</li>
 <li>From Starred Resources</li>
