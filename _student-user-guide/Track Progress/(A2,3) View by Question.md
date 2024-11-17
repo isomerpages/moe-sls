@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h1 id="-2c-view-by-question">(A2,3) View by Question</h1>
 <p>Topics and Sub-topics are displayed according to the Content Map selected. There may be more than one Content Map for a particular subject based on the syllabus by SEAB.</p>
-<p><u>Note</u>: Only questions that are selected to be included by your teacher or lesson author will be shown in the Learning Progress. </p>
+<p><u>Note</u>: Only questions that are selected to be included by your teacher or module author will be shown in the Learning Progress. </p>
 <ol>
 <li><p>On the Learning Progress page, you may view the overall progress of individual assignments by selecting the <strong>Questions</strong> tab.</p>
 <p><img alt="View by Question" src="/images/1Student/TP_LP4.png"></p>
