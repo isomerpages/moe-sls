@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="add-existing-from-library-starred-resources">(A1,3) Add Existing From Library &amp; Starred Resources</h1>
-<h2 id="viewing-existing-lessons-from-library-starred-resources">Viewing Existing Modules From Library/Starred Resources</h2>
+<h2 id="viewing-existing-modules-from-library-starred-resources">Viewing Existing Modules From Library/Starred Resources</h2>
 <hr>
 <ol>
 <li>You can add an existing Activity or Quiz from Library (MOE Library, Community Gallery, and My Drive) or from Starred Resources.</li>
@@ -56,7 +56,7 @@ variant: markdown
 </ul>
 </li>
 <li>To clear the selected list of Activities/Sections, click <strong>Clear</strong>.</li>
-<li><p>Click <strong>Choose</strong> to add the Activities/Sections into your Lesson.</p>
+<li><p>Click <strong>Choose</strong> to add the Activities/Sections into your Module.</p>
 <p><img style="width: 100%;" src="/images/2Teacher/AU-AddExisting2.png"></p>
 </li>
 <li><p>The chosen Activities will inherit the Activity Details from the Module in Library/Starred Resources. To view and edit the Activity Notes and Active Learning Process in the <strong>Activity Details</strong> card, click the <strong>Settings</strong> icon on the <strong>Activity Details</strong> card. These fields are optional and will not be visible to students.</p>
