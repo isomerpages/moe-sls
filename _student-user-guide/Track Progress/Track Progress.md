@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>Track Progress</h1>
-<p>Use SLS to track your own progress within and across lessons and assignments.</p>
+<p>Use SLS to track your own progress within and across modules and assignments.</p>
 <img alt="Track Progress" style="width: 100%;" src="/images/1Student/Flow_TrackProgress.svg">
 <details><summary><h4>A. How to monitor my Learning Progress?</h4></summary>
 <ul>
