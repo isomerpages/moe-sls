@@ -15,7 +15,7 @@ variant: markdown
 <p>A Module can be assigned to students as an Assignment.</p>
 <p>The Module Plan will provide an overview of the entire Module, which includes the number of Sections and Activities.</p>
 <p>You can gamify your Modules by introducing game-based elements. These game-based elements include Experience Points (XP) and Levels, Game Stories, and Achievements. Click <a target="_blank" href="/teacher-user-guide/gamify/about-gamification-and-leaderboard/">here</a> to find out more.</p>
-<h2 id="lesson-view-page">Module View page</h2>
+<h2 id="module-view-page">Module View page</h2>
 <hr>
 <p>From the right menu of the Module View page, you can </p>
 <ol>
