@@ -11,7 +11,7 @@ third_nav_title: Author
 <hr>
 <ol>
 <li>
-<p>In the Lesson Editor page, hover over Text/Media in the Component Bar.</p>
+<p>In the Module Editor page, hover over Text/Media in the Component Bar.</p>
 </li>
 <li>
 <p>Select&nbsp;Split-page Media and upload a file,</p>
