@@ -22,10 +22,10 @@ variant: markdown
 <li><strong>Description</strong> - This description is visible to students in the Game Detail subpage when the Module is assigned. You can include details such as game instructions and story synopsis.</li>
 <li><p><strong>Featured Images</strong> - These images will appear as the background images for Game Story and Collectibles prompts respectively. The Featured Image for Game Story will also appear as an icon for the Game Story on the Gamification subpage in View Mode.</p></li></ol></li></ol>
 <p><u>Note</u>: </p>
-<li>Please ensure all images used follow Copyright Guidelines and are credited in your lesson. You may refer to our <a target="_blank" href="/teacher-user-guide/author/copyright-resources/">Copyright Resources</a> for more information. <p></p>
+<li>Please ensure all images used follow Copyright Guidelines and are credited in your module. You may refer to our <a target="_blank" href="/teacher-user-guide/author/copyright-resources/">Copyright Resources</a> for more information. <p></p>
 </li>
 <li>You can edit the Game Experience from the Monitoring Assignment page. Select the <strong>Game Experience</strong> tab, followed by <strong>Edit Game Experience</strong>.</li>
-<li>You can also edit the Game Experience after assigning the lesson. From within an Assignment, open the right menu and select Edit. Click the <strong>Manage Gamification Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/GameEdit.svg"> to access the Gamification subpage.</li>
+<li>You can also edit the Game Experience after assigning the module. From within an Assignment, open the right menu and select Edit. Click the <strong>Manage Gamification Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/GameEdit.svg"> to access the Gamification subpage.</li>
 
 <h2 id="modify-xp-and-level">Modify XP and Level</h2>
 <hr>
