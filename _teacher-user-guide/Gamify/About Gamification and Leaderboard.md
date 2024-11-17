@@ -16,7 +16,7 @@ variant: markdown
 <p><strong>Levels</strong> - Levels are dependent on the XP collected. When students collect enough XP, they can level up (progress to the next level).</p>
 <p><strong>Game Stories</strong> - Game Stories can be used to drive the narrative of a story and character development as the Module progresses.</p>
 <p><strong>Collectibles</strong> - There are two types of Collectibles:</p>
-<ul><li>Achievement - Achievements can be used to reward your students as the lesson progresses.</li>
+<ul><li>Achievement - Achievements can be used to reward your students as the module progresses.</li>
 	<li>Avatar - Avatars can be characters or items awarded to your students. Your students can replace their SLS Avatar within the Module with these avatars.</li>
 </ul>
 <p>Did You Know?</p>
