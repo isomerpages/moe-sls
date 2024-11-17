@@ -20,7 +20,7 @@ variant: markdown
 <li>Red portion represents the proportion of students whose assignments are overdue.</li>
 </ul>
 </li>
-<li>Lessons with Sections will show the next available Section or Section where the action is pending.</li>
+<li>Modules with Sections will show the next available Section or Section where the action is pending.</li>
 <li><p>When an Assignment is set as an Assessment, the card will be reflected in beige.</p>
 <p><img alt="View Assignments" style="width: 50%;" src="/images/2Teacher/As-Assessment.png"></p>
 </li>
