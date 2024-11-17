@@ -66,10 +66,10 @@ variant: markdown
 </summary>
 <ol>
 <li><p><strong>Can I share the URL to a particular Section (e.g. section B) with other teachers? </strong></p>
-<p> Yes, you are able to share the URL to a particular Section with other teachers. You can also add links to Sections within your Lesson.</p>
-<p> If the Lesson is in My Drive, you will need to Share the Lesson with the other teacher before the teacher can access the Section URL.</p>
-<p> If you are sharing a Section URL from a Lesson in MOE Library/Community Gallery, teachers will be able to access the Section via the Section URL.</p>
-<p> Note: You cannot share a Section URL from MOE Library with students. The Section URL will redirect students to the cover page of the Lesson.</p>
+<p> Yes, you are able to share the URL to a particular Section with other teachers. You can also add links to Sections within your Module.</p>
+<p> If the Module is in My Drive, you will need to Share the Module with the other teacher before the teacher can access the Section URL.</p>
+<p> If you are sharing a Section URL from a Module in MOE Library/Community Gallery, teachers will be able to access the Section via the Section URL.</p>
+<p> Note: You cannot share a Section URL from MOE Library with students. The Section URL will redirect students to the cover page of the Module.</p>
 </li>
 <li><p><strong>How can we modify the sharing permissions of the Google files for students?</strong></p>
 <p> These permissions will be automatically handled by SLS.</p>
@@ -94,7 +94,7 @@ variant: markdown
 <li><strong>Is there a word/character limit on students' ITT posts to facilitate peer commenting/assessment?</strong>
 <p>There is a 2000 character limit for ITT. Should the intention be for students to post longer responses, teachers may consider exploring other SLS features such as Creating a Discussion. While each post in a Discussion also has a 2000 character limit, students are able to submit more than one response. For longer responses, teachers can use a Free-Response Question instead.</p></li>
 <li><strong>How does the Forum feature differ from the Discussion feature?</strong>
-<p>The Forum feature allows both teachers* and students to create polls and discussions on a diverse range of topics while the Discussion feature situated within a lesson activity typically focuses on the specific topic at hand only.</p>
+<p>The Forum feature allows both teachers* and students to create polls and discussions on a diverse range of topics while the Discussion feature situated within a module activity typically focuses on the specific topic at hand only.</p>
 <p>You may refer to the following links for more information about the <a target="_blank" href="/teacher-user-guide/collaborate/about-the-forum/">Forum</a> and <a target="_blank" href="/teacher-user-guide/collaborate/add-a-discussion/">Discussion</a> features.</p>
 <p><u>Note</u>: Owner/Co-teacher needs to allow access for Observers and students to create Topics/Posts/Polls in Class Group Forum.</p></li>
 <li><strong>How does the Discussion feature differ from the ITT?</strong>
