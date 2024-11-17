@@ -18,7 +18,7 @@ variant: markdown
 <li><a target="_blank" href="/teacher-user-guide/discover/make-a-copy-of-a-module/">Modules from the MOE Library (if permission has been given) or Community Gallery</a>.</li>
 <li>Modules that are assigned as Assignments (if permission has been given) from the Assignment List or Assignments tab on the homepage.</li>
 </ol>
-<h2 id="make-a-copy-of-a-lesson-an-assignment-">Make a Copy of a Module/an Assignment</h2>
+<h2 id="make-a-copy-of-a-module-an-assignment-">Make a Copy of a Module/an Assignment</h2>
 <hr>
 <ol>
 <li>Enter the Module View page of the Module/Assignment you want to make a copy of.</li>
