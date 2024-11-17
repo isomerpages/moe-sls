@@ -36,8 +36,8 @@ Use SLS to plan personal and class group events.
 <li><strong>How can students manage their own Planner?</strong>
 <p>Students have the capability to create and modify events in their Personal Planner, including attaching Assignments and Self-Study Tasks. However, it should be noted that events within Class Group planners are under the exclusive control of teachers.</p>
 <p>For more information, visit <a target="_blank" href="/student-user-guide/plan/access-planner/">Access Planner (Student)</a>.</p></li>
-<li><strong>Can the Planner identify scheduling conflicts for students when lesson assignments are set for the entire day, considering that certain teachers assign homework while others assign in-class tasks? </strong>
-<p>The Planner allows students to manage their personal learning schedule and timetable. Students can create events and view Assignments which are due soon. It will not identify conflicts in lesson assignment but Assignment cards will appear under day view if there are assignments due today or in the next 3 days.</p>
+<li><strong>Can the Planner identify scheduling conflicts for students when assignments are set for the entire day, considering that certain teachers assign homework while others assign in-class tasks? </strong>
+<p>The Planner allows students to manage their personal learning schedule and timetable. Students can create events and view Assignments which are due soon. It will not identify conflicts in assignment but Assignment cards will appear under day view if there are assignments due today or in the next 3 days.</p>
 <p><u>Note</u>: that should there be conflicting events being scheduled, it will be reflected in the Planner, with the number of conflicted events shown for a particular time period.</p></li>
 <li><strong>Can the Planner schedule be exported to personal calendars? </strong>
 <p>The Planner schedule cannot be exported to personal calendars. </p></li>
