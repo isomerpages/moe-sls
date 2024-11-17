@@ -19,7 +19,7 @@ variant: markdown
 <li><a target="_blank" href="/teacher-user-guide/author/html5-content-development/">upload HTML5 interactives</a></li>
 <li><a target="_blank" href="/teacher-user-guide/discover/embed-whitelisted-websites/">embed whitelisted websites</a></li>
 </ul>
-<h2 id="submit-a-lesson-for-approval">Submit a Module for Approval</h2>
+<h2 id="submit-a-module-for-approval">Submit a Module for Approval</h2>
 <hr>
 <p>Only Content Approvers and Content Officers will be able to submit Modules to MOE Library for approval.</p>
 <ol>
