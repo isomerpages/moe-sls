@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>Author</h1>
-<p>Use SLS to design lesson resources aligned to the e-pedagogical principles.</p>
+<p>Use SLS to design module resources aligned to the e-pedagogical principles.</p>
 <br>
 <img alt="Author" style="width: 100%;" src="/images/2Teacher/Flow_Author.svg">
 <details><summary><h4>A. How to create Modules?</h4></summary>
@@ -87,7 +87,7 @@ variant: markdown
 <ul>
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-modules-in-class-groups/">(D1,i) Co-create Modules in Class Groups</a></li>
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">(D1,ii) Digitise Past Year Papers for Practice</a></li>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/R18_Enhanced_Lesson_Authoring_navigation.pdf">(D1,iii) Enhanced Lesson Authoring and Navigation</a></li>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/R18_Enhanced_Lesson_Authoring_navigation.pdf">(D1,iii) Enhanced Module Authoring and Navigation</a></li>
 <li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/Phygital_learning.pdf">(D1,iv) Let's get Phygital with SLS</a></li>	
 </ul>
 </details>
@@ -126,7 +126,7 @@ We understand the limitations with the trial account and encourage you to check 
 <li><strong>For SLS Google Integration, where will the files be stored, and will they count towards our storage limits?</strong>
 <p>The original Google files should have initially been stored in the teachers' Google Drive.</p>
 <p>When a teacher uploads a Google file to SLS, the file becomes hosted within SLS's Google Drive.</p>
-<p>If files are added as a Prepopulated Student Answer of a Free-Response Question, individual copies of the files, which students can access and edit, will be generated for the students after the lesson is assigned in SLS. These individual copies are stored in the teacher's Google Drive.</p>
+<p>If files are added as a Prepopulated Student Answer of a Free-Response Question, individual copies of the files, which students can access and edit, will be generated for the students after the module is assigned in SLS. These individual copies are stored in the teacher's Google Drive.</p>
 <p>Subsequent copies that are generated after a teacher has marked the student's work will also be stored in SLS.</p></li>
 <li><strong>Can SLS be used as a replacement platform for Google Classroom, specifically in the area of students' T&amp;L management such as resources parking, sharing with the students, digital submission?</strong>
 <p>Schools may wish to consider SLS as the main platform for T&amp;L, as it allows the full affordances of varied and emerging tools which can be integrated or embedded within the platform. It also serves as a one-stop hub for all T&amp;L resources and artefacts, as well as allowing for central consolidation of data across all T&amp;L needs.</p>
