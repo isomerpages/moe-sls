@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-2-monitor-students-responses-in-an-assignment">(A2) Monitor Students' Responses in an Assignment</h1>
+<h1 id="-2-monitor-students-responses-in-an-assignment">(A2,1) Monitor Students' Responses in an Assignment</h1>
 <h2 id="-monitor-an-assignment-">Monitor an Assignment</h2>
 <hr>
 <p>You can monitor your students' Assignment progress on the Monitor Assignment page via three ways:</p>
