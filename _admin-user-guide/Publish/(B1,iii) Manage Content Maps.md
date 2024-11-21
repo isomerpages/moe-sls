@@ -6,7 +6,7 @@ third_nav_title: Publish
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="manage-content-maps">(B1,iii) Manage Content Maps</h1>
+<h1 id="manage-content-maps">(B1,iii) Manage Content Maps (Enhanced)</h1>
 <p>Content Approvers and Content Officers (CAs and COs) will be able to view all Content Maps from here and make edits to Content Maps tagged to their Owner Group.</p>
 <h2 id="manage-content-maps">Manage Content Maps</h2>
 <hr>
