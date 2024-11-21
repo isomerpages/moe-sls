@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-3b-annotate-underline-students-responses">(A3,2) Annotate (Underline)  Students' Responses</h1>
+<h1 id="-3b-annotate-underline-students-responses">(A3,2) Annotate (Underline) Students' Responses (Enhanced)</h1>
 <p>As a teacher, you are able to make annotations (underline) in the Student's view to provide individualised feedback.</p>
 <p><u>Note</u>:</p>
 <ul>
@@ -34,6 +34,18 @@ variant: markdown
 <li>Annotation Notes will be visible in the Annotation Drawer. Click the <strong>Notepad</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Note.svg"> to Expand/Hide the drawer.</li>
 <li>Both teachers and students can leave Comments on your Annotations.</li>
 </ol>
+<h2>Annotate (Underline) Students' Responses with Keyword Tags</h2>
+<hr>
+<ol>
+    <li>
+        <p>When you make annotations (underline) in the Student's view to provide individualised feedback, you can also select <strong>Keyword Tags</strong> from the dropdown list.</p>
+        <p><img alt="Annotate (Underline) Students' Responses" style="width: 80%;" src="/images/2Teacher/As_Annotation2.png"></p>
+    </li>
+    <li>
+        <p>The <strong>Keyword tags</strong> will be tabulated and displayed under Error Tracker tab in the Learning Progress.</p>
+    </li>
+</ol>
+<p><u>Note</u>: The questions must be tagged to a Content Map which contains Error Tags (only Content Approvers can add error tags to their Content Map). The questions that the annotations are anchored to must also be included in Learning Progress (enabled in component settings).</p>
 <h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
