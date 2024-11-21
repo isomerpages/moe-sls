@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h1>Assess</h1>
 <p>Use SLS to set up, mark and give feedback on student work.</p>
-<img alt="Assess" src="/images/2Teacher/Flow_Assess3.png">
+<img alt="Assess" src="/images/2Teacher/Flow_Assess4.png">
 <details>
  <summary><h4>A. How to assess students?</h4></summary>
  <ul>
