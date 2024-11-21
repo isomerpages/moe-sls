@@ -15,7 +15,7 @@ variant: markdown
 </ul>	
 </details>
 <br>
-<img style="width: 100%;" src="/images/1Student/Flow_SelfStudy1.png">
+<img alt="Self-Study" style="width: 100%;" src="/images/1Student/Flow_SelfStudy1.png">
 <br>
 <details><summary><h4>B. How to make Notes and Annotations?</h4></summary>
 <ul><li><a target="_blank" href="/student-user-guide/self-study/annotate-text-within-activities/">(B1,1) Annotate Text within Activities</a></li>
