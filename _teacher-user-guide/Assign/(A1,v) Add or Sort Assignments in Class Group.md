@@ -6,7 +6,7 @@ third_nav_title: Assign
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-assignments-to-class-group">(A1,v) Add or Sort Assignments in Class Group (Enhanced)</h1>
+<h1 id="add-assignments-to-class-group">(A1,v) Add or Sort Assignments in Class Group</h1>
 <ol>
 <li>You can add assignments to the Class Group from the Class Group page. </li>
 <li>Access Class Groups from the left menu or by selecting the Class Group (if pinned) on your homepage. On the Class Group page, click <strong>Add Assignment</strong> to add the assignment:<ol style="list-style-type: lower-alpha;">
