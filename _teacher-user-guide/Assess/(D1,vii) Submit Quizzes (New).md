@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Assess
 ---
-<h1>(D1,vii) Submit Quizzes (New)</h1>
+<h1>(D1,vii) Submit Quizzes</h1>
 <hr>
 <p>
 When a student does not submit a Quiz, you can submit the Quiz on behalf of the student. This is useful in cases where students do work in an embedded app or website and you are using SLS to monitor and provide comments. This can also be coupled with the&nbsp;<a target="_blank" href="/teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/">Rubrics</a> feature</p><p>
