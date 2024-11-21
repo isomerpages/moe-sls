@@ -26,10 +26,10 @@ variant: markdown
 </li>
 <li>To view the Module Details, scroll to the extreme right. Click the <strong>Overflow</strong> (3 dots icon) and select <strong>Module Details</strong>.</li>
 <li><p>You can download the Marks and Responses from the <strong>Overflow</strong> too.</p>
-<p><img src="/images/5Admin/P-ManageLessons.png"></p>
-</li>
+<p><u>Note</u>: From R2 (Nov 2024) CAs can download MOE Library student responses and marks by multiple schools.</p>
+<img alt="Manage Modules" style="width: 100%;" src="/images/5Admin/P-ManageLessons.png"></li>
 <li><p>To view the Admin Reviews of a Module, click <strong>Open</strong> under the Module Title and click <strong>Admin Reviews</strong> on the grey banner.</p>
-<p><img src="/images/5Admin/P-ManageLessons1.png"></p>
+<p><img alt="Manage Modules" style="width: 100%;" src="/images/5Admin/P-ManageLessons1.png"></p>
 </li>
 </ol>
 <h2 id="search-for-a-lesson">Search for a Module</h2>
@@ -40,8 +40,6 @@ variant: markdown
 <li>Press "Enter" <em></em>to return your search results.</li>
 <li>To add more search filters, click <strong>Filter</strong>. </li>
 <li>Under <strong>Resource</strong>, select <strong>Modules</strong>.</li>
-
-
 <li>Under <strong>Owner Group</strong>, select from:<ul>
 <li><strong>All</strong></li>
 <li><strong>My Groups</strong></li>
