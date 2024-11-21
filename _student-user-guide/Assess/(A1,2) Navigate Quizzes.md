@@ -6,10 +6,10 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Assess
 ---
-<h1 id="-1-navigate-quizzes">(A1,2) Navigate Quizzes</h1>
-<ol><p>There are multiple Quiz settings in SLS that your teacher can set, including Timed Quiz, Retry a Quiz and Randomised Quiz.</p>
+<h1 id="-1-navigate-quizzes">(A1,2) Navigate Quizzes (Enhanced)</h1>
+<p>There are multiple Quiz settings in SLS that your teacher can set, including Timed Quiz, Retry a Quiz and Randomised Quiz.</p>
 <p>You may see a combination of the various settings. E.g. A Timed Randomised Quiz or a Randomised Quiz with Option to Retry.</p>
-</ol>
+<p><u>Note</u>: If your teacher has checked the hidden quiz marks, you will not see quiz scores, rubrics marks and marks for each question.</p>
 <h2 id="-timed-quiz">Timed Quiz</h2>
 <hr>
 <ol>
@@ -38,7 +38,6 @@ third_nav_title: Assess
 	<p><img style="width: 80%;" src="/images/1Student/AS_NavigateQuizzes2.png"></p>
 </ul>
 </ol>
-
 <h2 id="-randomised-quiz">Randomised Quiz</h2>
 <hr>
 <ol>
@@ -50,5 +49,7 @@ third_nav_title: Assess
 	<li><strong>Pages Assigned</strong> - Number of pages of questions assigned to you.</li>
 	<li><strong>Total Marks</strong> - The first mark is the total marks for the questions assigned to you that will be automatically marked. If shown, marks in bracket include questions that will not automatically marked.</li>
 	<p><img style="width: 80%;" src="/images/1Student/AS_NavigateQuizzes3.png"></p>
+<p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"><u>Did you know</u>:  From Release 2 (Nov 2024), the page numbers for quizzes and activities that have multiple pages will remain visible at the top of the page as you scroll down.</p>
+<img style="width: 80%;" src="/images/1Student/AS_NavigateQuizzes4.png">
 </ul>
 </ol>
