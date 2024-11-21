@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Assess
 ---
-<h1>(C1,ii) Add Language Feedback Assistant for English (Enhanced)</h1>
+<h1>(C1,ii) Add Language Feedback Assistant for English</h1>
 
 <p>The Language Feedback Assistant for English (LangFA-EL) provides basic feedback on students’ writing in areas such as spelling and grammar.</p>
 <p><u>Important</u>:</p>
