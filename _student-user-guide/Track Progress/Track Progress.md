@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h1>Track Progress</h1>
 <p>Use SLS to track your own progress within and across modules and assignments.</p>
-<img alt="Track Progress" style="width: 100%;" src="/images/1Student/Flow_TrackProgress.svg">
+<img alt="Track Progress" style="width: 100%;" src="/images/1Student/Flow_TrackProgress1.png">
 <details><summary><h4>A. How to monitor my Learning Progress?</h4></summary>
 <ul>
     <li><a target="_blank" href="/student-user-guide/track-progress/access-learning-progress/">(A1) Access Learning Progress</a></li>
