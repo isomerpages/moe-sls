@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
 ---
-<h1>(D2) About Language Feedback Assistant for English (Enhanced)</h1>
+<h1>(D2) About Language Feedback Assistant for English</h1>
 
 <p>The Language Feedback Assistant for English (LangFA-EL) provides basic feedback on students’ writing in areas such as spelling and grammar.</p>
 <ol>
