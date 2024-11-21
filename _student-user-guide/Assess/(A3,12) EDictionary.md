@@ -4,9 +4,10 @@ permalink: /student-user-guide/assess/edictionary/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="e-dictionary">(A3,12) E-Dictionary</h1>
-<p>E-Dictionary is only available for Chinese Language or Chinese Language with English translation. This feature has to be enabled by your teacher.</p>
+<p>E-Dictionary is only available for Chinese Language, Chinese Language with English translation, Tamil Language and Tamil Language with English translation. This feature has to be enabled by your teacher.</p>
 <hr>
 <ol>
 <li>If E-Dictionary has been enabled by your teacher, highlighting a text will display the <strong>E-Dictionary</strong> icon.</li>
