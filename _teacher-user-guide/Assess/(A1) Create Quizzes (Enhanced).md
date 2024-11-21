@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-1-create-quizzes-new-">(A1) Create Quizzes</h1>
+<h1 id="-1-create-quizzes-new-">(A1) Create Quizzes (Enhanced)</h1>
 <h2 id="add-quiz">Add Quiz</h2>
 <hr>
 <p>There are multiple ways to add a new Quiz.</p>
@@ -50,7 +50,7 @@ variant: markdown
 </ul>
 <h2>Quiz Settings</h2>
 <hr>
-<img alt="Create Quizzes" style="width: 80%;" src="/images/2Teacher/AS_CreateQuiz2.png">
+<img alt="Create Quizzes" style="width: 80%;" src="/images/2Teacher/AS_CreateQuiz3.png">
 <p></p><h3>Timed Quiz</h3><p></p>
 <p><strong>For all Quiz Modes</strong></p>
 <p>Timed Quiz records the time a student takes to complete and submit the quiz. The time taken by the student to submit the quiz will be stated on the Monitor Assignment page.</p>
@@ -87,6 +87,9 @@ variant: markdown
 <li>(Optional) You may click on “Use Average Quiz Marks to automatically select the maximum marks for the quiz.</li>
 </ol>
 <p><u>Note</u>: If you select the number of pages to assign, the quiz pages will be assigned to students at random.</p>
+<h3>Hide Quiz Marks</h3>
+<hr>
+<p>Check the box next to “Hide quiz marks” to hide quiz scores, rubrics marks and marks for each question from students.</p>
 <h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
