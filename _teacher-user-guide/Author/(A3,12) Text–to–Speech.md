@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="text-to-speech">(A3,12) Text-to-Speech (Enhanced)</h1>
+<h1 id="text-to-speech">(A3,12) Text-to-Speech</h1>
 <p><u>Important</u>: From R1, Text-to-Speech is available in English, Chinese, Malay and Tamil.</p>
 <h2 id="create-text-to-speech-audio-clip">Create Text-to-Speech audio clip</h2>
 <hr>
