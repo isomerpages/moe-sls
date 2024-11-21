@@ -47,7 +47,7 @@ variant: markdown
     <li><a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">(D1,iii) Set Assignments as Assessments</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/add-and-view-access-codes/">(D1,iv) Add and View Access Codes</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/view-students-notes/">(D1,v) View Students' Notes</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assess/mark-assignments-sections-activities-as-complete-and-incomplete/">(D1,vi) Mark Assignments, Sections, Activities as Complete and Incomplete (Enhanced)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/manage-assignments-sections-activities">(D1,vi) Manage Assignments, Sections, Activities (Enhanced)</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/submit-quizzes/">(D1,vii) Submit Quizzes (New)</a></li>
   </ul>
 </details>
