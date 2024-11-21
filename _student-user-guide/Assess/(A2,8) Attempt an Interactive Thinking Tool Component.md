@@ -4,8 +4,9 @@ permalink: /student-user-guide/assess/attempt-an-interactive-thinking-tool-compo
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1 id="attempt-an-interactive-thinking-tool-component">(A2,8) Attempt an Interactive Thinking Tool Component</h1>
+<h1 id="attempt-an-interactive-thinking-tool-component">(A2,8) Attempt an Interactive Thinking Tool Component (Enhanced)</h1>
 <h2 id="-interactive-thinking-tool-">Interactive Thinking Tool</h2>
 <hr>
 <ol>
