@@ -6,7 +6,7 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="about-class-groups">About Class Groups</h1>
+<h1 id="about-class-groups">About Class Groups (Enhanced)</h1>
 <p>There are two types of Class Groups in SLS:</p>
 <ol>
 <li>Class Groups (Class) are created using subject class and teaching group information imported from the School Cockpit. Class Groups are assigned a specific colour based on the subject type e.g. green for Sciences, orange for Mathematics.</li>
