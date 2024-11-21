@@ -12,6 +12,7 @@ variant: markdown
 <ol>
 <li>Your assignment may contain an Interactive Thinking Tool (ITT).</li>
 <li>An Interactive Thinking Tool can consist of one to three columns, with a question or text for each column. The response to each column has to be submitted separately.</li>
+<li>From Release 2 (Nov 2024), you can click <b>Refresh</b> at the top left corner of the interaction board to view the most up-to-date student submissions. </li>
 <li>Some columns of the Interactive Thinking Tool contain a part of the answer in the text box (e.g. The writer thinks that…). This is given by your teacher to help you to form your answer.</li>
 <li>You can edit your response by clicking the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg">.</li>
 <li>Apart from text responses, you can include the following:<ul>
