@@ -47,7 +47,8 @@ variant: markdown
 <li>Ensure you are in Module Editor mode.</li>
 <li>Click on the Page you wish to edit, delete, or reorder. You can open the <strong>Overflow</strong> (<strong>3-dot</strong> icon) beside the <strong>Question Number</strong> to Add Page After/Before, Move Left/Right, or Delete.</li>
 </ol>
-<p><img alt="Edit Quizzes" style="width: 100%;" src="/images/2Teacher/As-EditQuiz2.png"></p>
+<p><img alt="Edit Quizzes" style="width: 80%;" src="/images/2Teacher/As_EditQuiz4.png"></p>
+<u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:<p>From Release 2 (Nov 2024), the page numbers for quizzes and activities that have multiple pages will remain visible at the top of the page as you scroll down. </p>
 <h2 id="-edit-delete-or-reorder-a-component-in-a-quiz-">Edit, Delete or Reorder a Component in a Quiz</h2>
 <hr>
 <ol>
