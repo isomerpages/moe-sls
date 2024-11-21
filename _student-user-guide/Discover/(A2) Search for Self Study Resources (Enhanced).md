@@ -6,28 +6,21 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A2) Search for Self-Study Resources</h1>
-
+<h1>(A2) Search for Self-Study Resources (Enhanced)</h1>
 <h2>Using Search Bar from Homepage</h2>
-
 <hr>
-
 <ol>
     <li>Click the <strong>Magnifying Glass</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Search.svg"> on the header of the homepage to open the Search Bar.</li>
     <li>Enter your search terms, if any, in the Search Bar. </li>
     <li>Press <strong>Enter</strong> on your keyboard to return your search results.</li>
 </ol>
-
 <p><u>Note</u>: </p>
 <ul>
     <li>If you are unsure of what you are searching for, you can leave the Search Bar empty and press <strong>Enter</strong> on your keyboard to return your search results.</li>
     <li>You can also search directly from the various Resource pages (eg. MOE Library, App Library and My Drive.)</li>
 </ul>
-
 <h2>Add Search Filters</h2>
-
 <hr>
-
 <ol>
     <li>On the Search page, select the <strong>Subject</strong> and <strong>Level</strong> from the dropdown list.</li>
     <li>Click <strong>Apply</strong> and choose <strong>Apply Filter</strong> to narrow down the search results.</li>
