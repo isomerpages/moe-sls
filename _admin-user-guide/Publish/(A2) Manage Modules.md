@@ -6,7 +6,7 @@ third_nav_title: Publish
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-2-manage-modules">(A2) Manage Modules</h1>
+<h1 id="-2-manage-modules">(A2) Manage Modules (Enhanced)</h1>
 <p>Content Approvers (CAs) and Content Officers (COs) are able to manage MOE Library Modules.</p>
 <h2 id="manage-a-module">Manage a Module</h2>
 <hr>
