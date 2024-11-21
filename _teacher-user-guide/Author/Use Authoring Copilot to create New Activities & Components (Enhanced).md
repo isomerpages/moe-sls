@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Author
 ---
-<h1>Use Authoring Copilot to create New Activities &amp; Components (New)</h1>
+<h1>Use Authoring Copilot to create New Activities &amp; Components (Enhanced)</h1>
 <u>Important:</u>
 <ul>
 <li>As Authoring Copilot uses generative AI, its response is probabilistic in nature. Thus, it may at times generate a different number of Sections, Activities and Components than expected.</li>
