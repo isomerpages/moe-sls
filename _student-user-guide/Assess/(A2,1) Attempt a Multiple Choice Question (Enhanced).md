@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="attempt-a-multiple-choice-question">(A2,1) Attempt a Multiple-Choice Question</h1>
+<h1 id="attempt-a-multiple-choice-question">(A2,1) Attempt a Multiple-Choice Question (Enhanced)</h1>
 <h2 id="-multiple-choice-question-">Multiple Choice Question</h2>
 <hr>
 <ol>
