@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h1>Personalise</h1>
 <p>Use SLS to provide choice for your students in their modules and activities.</p>
-<img alt="Personalise" style="width: 50%;" src="/images/2Teacher/Flow_Personalise.svg">
+<img alt="Personalise" style="width: 80%;" src="/images/2Teacher/Flow_Personalise1.png">
 
 <details>
 <summary><h4>A. How to personalise Modules for students?</h4></summary>
