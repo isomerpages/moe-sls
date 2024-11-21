@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Author
 ---
-<h1>(A2,16) Insert Transcript for Video &amp; Audio (New)</h1>
+<h1>(A2,16) Insert Transcript for Video &amp; Audio</h1>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
@@ -59,6 +59,9 @@ allow for students’ viewing.</p>
 </li>
 <li>
 	<p>Once done, click <b>Save</b> to proceed.</p>
+</li>
+<img height="auto" width="100%" src="/images/2Teacher/AU_InsertTranscription5.png">
+<li>The entire transcript will be shown with timestamps. Clicking on the specific lines in the transcript will take you to the corresponding timestamp in the video.
 </li>
 </ol>
 <h2>Possible Reasons for Transcription Error</h2>
