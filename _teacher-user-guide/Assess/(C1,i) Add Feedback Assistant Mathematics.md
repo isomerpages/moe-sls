@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(C1,i) Add Feedback Assistant Mathematics (Enhanced)</h1>
+<h1>(C1,i) Add Feedback Assistant Mathematics</h1>
 
 <p>The Feedback Assistant - Mathematics (FA-Math) is an engine that offers step-by-step feedback to students on their answers.</p>
 <p><u>Important</u>:</p>
