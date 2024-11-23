@@ -15,20 +15,21 @@ variant: markdown
 </li>
 <li><p>You may insert an existing Question from Library, Starred Resources or QTI file by selecting <strong>Add from Existing</strong>.</p>
 </li>
-<li>Select <strong>Multiple-Choice</strong>. Below are the types of MCQ options you can choose from:<p></p>
+<li>Select <strong>Multiple-Choice</strong>. In the question setting, you may choose:</li>
 <ul>
-<li>Single-Response: Only one correct answer.</li>
-	<li><p>Multi-Response (MRQ): More than one correct answer.</p></li>
-<p><u>Note</u>: Students must choose ALL the correct answers to be awarded marks.</p>
-
-<li><p>Slider: Only one correct answer. </p>
-</li>
-<li><p>No correct answer: you can turn on/off this option in the question setting.</p></li>
-<p><u>Note</u>: Students will not be awarded any marks for this question.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-AddMCQ2.png"></p>
+    <li><p><strong>Allow multiple responses</strong></p>
+    </li>
+    <li><strong>No correct answer</strong>
+			<p><u>Note</u>: Students will not be awarded any marks for this question.</p>
+    </li>
+    <li><p><strong>Allow options to have different marks</strong></p>
+        <p><u>Note</u>: If this option is turned on together with the “No correct answer” option, students will still see a mark given to them depending on the option they chose.</p>
+    </li>
 </ul>
+<p><img style="width: 70%;" src="/images/2Teacher/AU_AddMCQ3.png"></p>
 
-</li><li><p>Type your question in the Question Body.</p>
+
+<li><p>Type your question in the Question Body.</p>
 </li>
 <li>Type your answer options in Option Text.</li>
 <li>Select one correct answer for MCQ and one or more for MRQ.</li>
@@ -41,7 +42,7 @@ variant: markdown
 <ul>
 <li>Recommended Time - You can set the recommended time for the student to complete the question.</li>
 <li><p>Hint - This is displayed when students are attempting the question to provide them with a scaffold in solving the question.</p>
-	<p><u>Note</u>: You can add up to 3 hints for each question. <b>(NEW)</b></p>
+	<p><u>Note</u>: You can add up to 3 hints for each question.</p>
 </li><li>Feedback - You may enter specific feedback for each option, and overall feedback for the question. After submitting their answers, students will see:<ul>
 <li>The feedback for all correct options.</li>
 <li>The feedback for any incorrect options that they have selected.</li>
