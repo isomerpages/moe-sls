@@ -11,7 +11,7 @@ variant: markdown
 <hr>
 <ol>
 <li><p>In the Module Editor page, hover over Question in the Component Bar.</p>
-<p><img style="width: 50%;" src="/images/2Teacher/AU-AddFRQ1.png"></p>
+<p><img style="width: 80%;" src="/images/2Teacher/AU_AddFRQ3.png"></p>
 </li>
 
 <li>Select <strong>Free-Response</strong>.</li>
@@ -26,6 +26,10 @@ variant: markdown
 			</li><li><p><b>Short Answer Feedback Assistant</b>: This tool provides suggested grades and auto-generated content-related feedback for close-ended, short answer questions for any subject and level.</p>
 				<p><u>Note</u>: Short Answer Feedback Assistant is only available in Teacher-Marked Quiz.</p>
 </li>
+    <li>
+        <p><strong>Interactive Response (New):</strong> This question is created by uploading HTML5 ZIP files. This tool will automatically return marks from a HTML5 interactive to students after their attempt. Click <a target="_blank" href="/teacher-user-guide/author/html5-content-development/">here</a> to learn how to create HTML5 interactive content.</p>
+			<u>Note</u>: Interactive Response can be used in standalone FRQ and other types of quizzes.
+    </li>
 </ul>
 </li>
 
