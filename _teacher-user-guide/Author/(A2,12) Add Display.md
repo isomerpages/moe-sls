@@ -6,7 +6,9 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-display-">(A2,12) Add Display</h1>
+<h1 id="add-display-">(A2,12) Add Display (Enhanced)</h1>
+<h2>Add Display</h2>
+<hr>
 <p>You can add multiple Columns and Accordions display to contain different Components in an Activity.</p>
 <ol>
 	<p><img style="width: 50%;" src="/images/2Teacher/AU_AddDisplay.png"></p>
@@ -39,6 +41,9 @@ variant: markdown
 </ul>
 </li>
 <li><p>Click outside of the Component to <strong>Save</strong>.</p>
+<u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>: Did you know:
+From Release 2 (Nov 2024), the page numbers for quizzes and activities that have multiple pages will remain visible at the top of the page.
+<img style="width: 70%;" src="/images/2Teacher/As_EditQuiz3.png">
 </li>
 </ol>
 <h2 id="-add-components-to-multiple-columns-">Add Components to Multiple Columns</h2>
