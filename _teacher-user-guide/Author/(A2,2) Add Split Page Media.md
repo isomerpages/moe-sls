@@ -6,8 +6,8 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Author
 ---
-<h1>(A2,2) Add Split-page Media</h1>
-<h2>Add Split-page Media</h2>
+<h1>(A2,2) Add Split-Page Media (Enhanced)</h1>
+<h2>Add Split-Page Media</h2>
 <hr>
 <ol>
 <li>
@@ -30,8 +30,7 @@ with the first slide or video/audio clip be added to the page where you
 select Split-page Media.</p>
 </li>
 <li>
-<p><u>Note</u>: You are unable to add Split-page Media between two existing
-Components.</p>
+<p><u>Note</u>: You are unable to add split media between two existing Components.</p>
 </li>
 <li>
 <p>You can add up to 100 pages/components in an activity.</p>
@@ -40,20 +39,23 @@ Components.</p>
 <p>The acceptable file sizes are:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>powerpoint: 50MB</p>
+<p>Powerpoint: 50MB</p>
 </li>
 <li>
-<p>video: 500MB</p>
+<p>Video: 500MB</p>
 </li>
 <li>
-<p>audio: 50MB</p>
+<p>Audio: 50MB</p>
 </li>
 </ul>
 </li>
 </ol>
-<h2>Add Split-page PowerPoint</h2>
+<h2>Add Split-Page PowerPoint</h2>
 <hr>
-<p>Each slide will be converted to an image in a page within the activity.</p>
+<p>Each slide will be converted into an image on the page within an activity.
+If a range of slides is chosen, page placeholders will be shown based on
+the number of slides selected, allowing teachers to navigate elsewhere
+while the media is being processed.</p>
 <p><u>Important</u>:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -69,12 +71,16 @@ for consistency.</p>
 <li>
 <p>After you upload the file, you may choose to split-page all the PowerPoint
 slides or choose a range of slides to be split.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Add Split Page Media" src="/images/2Teacher/AU_AddSplitPageMedia3.png">
+</div>
 </li>
 <li>
 <p>Click <strong>OK</strong> to proceed.</p>
-</li>
-<li>
-<p>Please note the following limitations:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Add Split Page Media" src="/images/2Teacher/AU_AddSplitPageMedia4.png">
+</div>
+<p><u>Note</u>: Currently the following limitations apply:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Chinese and Tamil characters are not supported.</p>
@@ -156,17 +162,14 @@ slides or choose a range of slides to be split.</p>
 </ul>
 </li>
 </ol>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Add Split-page Media" src="/images/2Teacher/AU_AddSplitPageMedia.png">
-</div>
-<h2>Add Split-page Video</h2>
+<h2>Add Split-Page Video</h2>
 <hr>
 <p>The video will be split across different pages within the activity, based
 on the indicated timestamps.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>You can set your preferred start and end times for the video playback.
-There are two ways to do this:</p>
+<p>After you upload the file, you can set your preferred start and end times
+for the video playback. There are two ways to do this:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Enter the time into the text box in&nbsp;<strong>HH:MM:SS</strong>&nbsp;or&nbsp;<strong>MM:SS</strong>&nbsp;format.</p>
@@ -189,16 +192,16 @@ pages.</p>
 </li>
 </ol>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Add Split-page Media" src="/images/2Teacher/AU_AddSplitPageMedia2.png">
+<img style="width: 100%" height="auto" width="100%" alt="Add Split Page Media" src="/images/2Teacher/AU_AddSplitPageMedia7.png">
 </div>
-<h2>Add Split-page Audio</h2>
+<h2>Add Split-Page Audio</h2>
 <hr>
 <p>The audio will be split across different pages within the activity, based
 on the indicated timestamps.</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>You can set your preferred start and end times for the audio playback.
-There are two ways to do this:</p>
+<p>After you upload the file, you can set your preferred start and end times
+for the audio playback. There are two ways to do this:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Enter the time into the text box in&nbsp;<strong>HH:MM:SS</strong>&nbsp;or&nbsp;<strong>MM:SS</strong>&nbsp;format.</p>
@@ -220,9 +223,34 @@ pages.</p>
 <p>Click <strong>Split</strong> and <strong>OK</strong> to proceed.</p>
 </li>
 </ol>
-<p></p>
-<p></p>
-<h2>Generate Transcript for Video/Audio (New)</h2>
+<h2>Add Split-Page YouTube Video</h2>
+<hr>
+<p>The YouTube video will be split across different pages within the activity,
+based on the indicated timestamps.</p>
+<ol>
+<li>
+<p>In the Module Editor page, hover over <strong>Text/Media</strong> in the
+Component Bar and select Split-Page Media.</p>
+</li>
+<li>
+<p>Select <strong>Add YouTube Video</strong> and insert the YouTube URL. Click
+OK to proceed.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Add Split Page Media" src="/images/2Teacher/AU_AddSplitPageMedia5.png">
+</div>
+</li>
+<li>
+<p>Click&nbsp;<strong>Add Timestamp</strong>&nbsp;to split the video into
+multiple pages.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Add Split-Page Media" src="/images/2Teacher/AU_AddSplitPageMedia6.png">
+</div>
+</li>
+<li>
+<p>Click <strong>Split</strong> and then <strong>OK</strong> to proceed.</p>
+</li>
+</ol>
+<h2>Generate Transcript for Video/Audio</h2>
 <hr>
 <p>You can generate transcript for video/audio. Refer to <a href="/teacher-user-guide/author/insert-transcript-for-video-audio/" rel="noopener noreferrer nofollow" target="_blank">Insert Transcript for Video/Audio</a>.</p>
 <p></p>
