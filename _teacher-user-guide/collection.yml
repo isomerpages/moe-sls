@@ -127,7 +127,6 @@ collections:
       - Customise/(A1,vi) Change SLS Password.md
       - Customise/(A1,vii) Switch to Student Account.md
       - Customise/(B1) Manage My Templates.md
-      - Discover/(E1,vi) Link Activities in ALS Content (New).md
       - Discover/.keep
       - Discover/Discover.md
       - Discover/About Resources.md
@@ -148,6 +147,7 @@ collections:
       - Discover/(E1,iii) Leave Reviews.md
       - Discover/(E1,iv) About Adaptive Learning System (ALS).md
       - Discover/(E1,v) Tag Resources to Adaptive Learning System.md
+      - Discover/(E1,vi) Link Activities in ALS Content (New).md
       - Differentiate/.keep
       - Differentiate/Differentiate.md
       - Differentiate/(A1) Create Subgroups.md
