@@ -37,15 +37,15 @@ variant: markdown
 <hr>
 <ol>
 <li><p>Ensure your Media Object folder contains the "index.html" file.</p>
-<p><img style="width: 100%;" src="/images/2Teacher/AU-AddHTML1.png"></p>
+<p><img alt="HTML5 Content Development" style="width: 100%;" src="/images/2Teacher/AU-AddHTML1.png"></p>
 </li>
 <li><p>Select all the files within the folder and zip/compress them.</p>
 </li>
 <li>In SLS, select <strong>File from Device</strong> under Text/Media on the Component Bar. Alternatively, click the <strong>Add Media</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/PaperClip.svg"> and <strong>Upload File</strong> in the Rich Text Editor. </li>
-<li><p>Upload the ZIP file by either dragging and dropping it into the box, or clicking the box to select a file through the file manager. A sample file is provided <a target="_blank" href="https://iwant2study.org/lookangejss/00workshop/2019twa/ejss_model_BalancingChemEqns21_ionic.zip">here</a>.
+<li><p>Upload the ZIP file by either dragging and dropping it into the box, or clicking the box to select a file through the file manager. A sample file is provided <a target="_blank" href="https://go.gov.sg/qtisample">here</a>.
 </p><p><u>Note</u>: Q16 is meant to test for errors</p>
 <p></p></li>
-<img style="width: 100%;" src="/images/2Teacher/AU-AddHTML2.png">
+<img alt="HTML5 Content Development" style="width: 80%;" src="/images/2Teacher/AU-AddHTML2.png">
 <li>Click <strong>Upload</strong> when done.</li>
 <li><p>If the file is valid, it will be uploaded and scanned for viruses.</p>
 <p><u>Note</u>: The virus scan will take longer if the file size is large.</p>
@@ -53,7 +53,7 @@ variant: markdown
 <li>When the file is successfully uploaded, the Media Object will be added to the Module.
 </li>
 </ol>
-<img style="width: 100%;" src="/images/2Teacher/AU-AddHTML3.png">
+<img alt="HTML5 Content Development" style="width: 80%;" src="/images/2Teacher/AU-AddHTML3.png">
 <h2>Creating HTML5 Content for Interactive Response</h2>
 <hr>
 <ol>
@@ -107,7 +107,7 @@ variant: markdown
 </code></pre>
     </li>
     <li>
-        <p>Download sample package <a target="_blank" href="https://iwant2study.org/lookangejss/00workshop/2019twa/ejss_model_BalancingChemEqns21_ionic.zip">here</a></p>
+        <p>Download sample package <a target="_blank" href="https://go.gov.sg/qtisample1">here</a></p>
     </li>
     <li>In the Module Editor page, hover over Question in the Component Bar, select <strong>Free-Response</strong> followed by <strong>Interactive Response.</strong></li>
     <li>Upload the HTM5 ZIP file into SLS and select <strong>Upload</strong> to proceed.</li>
@@ -123,17 +123,17 @@ You may download the HTML5 ZIP files based on the scenarios to create FRQ with I
     <tr>
       <td>Send score only</td>
       <td>Involves only the score</td>
-      <td><a target="_blank" href="https://iwant2study.org/lookangejss/00workshop/2019twa/ejss_model_BalancingChemEqns21_ionic.zip">send-score.zip</a></td>
+      <td><a target="_blank" href="https://go.gov.sg/qtisample2">send-score.zip</a></td>
     </tr>
     <tr>
       <td>Send score with grading rubric</td>
       <td>Involves rubrics and “Show and use rubric marks” is selected</td>
-      <td><a target="_blank" href="https://iwant2study.org/lookangejss/00workshop/2019twa/ejss_model_BalancingChemEqns21_ionic.zip">send-score-with-grading-rubrics-use-rubric-marks-selected.zip</a></td>
+      <td><a target="_blank" href="https://go.gov.sg/qtisample3">send-score-with-grading-rubrics-use-rubric-marks-selected.zip</a></td>
     </tr>
     <tr>
       <td>Send score with grading rubric</td>
       <td>Involves rubrics and “Show and use rubric marks” is not selected</td>
-      <td><a target="_blank" href="https://iwant2study.org/lookangejss/00workshop/2019twa/ejss_model_BalancingChemEqns21_ionic.zip">send-score-with-grading-rubrics-use-rubric-marks-not-selected.zip</a></td>
+      <td><a target="_blank" href="https://go.gov.sg/qtisample4">send-score-with-grading-rubrics-use-rubric-marks-not-selected.zip</a></td>
     </tr>
   </tbody>
 </table>
