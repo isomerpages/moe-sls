@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="html5-content-development">(A3,11) HTML5 Content Development</h1>
+<h1 id="html5-content-development">(A3,11) HTML5 Content Development (Enhanced)</h1>
 <h2 id="considerations-when-creating-html5-content">Considerations when creating HTML5 Content</h2>
 <hr>
 <p>When creating HTML5 interactive content for SLS, the maximum file size limit is 500 MB. </p>
