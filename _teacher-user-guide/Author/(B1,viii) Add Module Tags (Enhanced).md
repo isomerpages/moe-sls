@@ -20,7 +20,7 @@ variant: markdown
 <li>Select the <strong>Level</strong> from the dropdown list. This list is based on the Subject chosen.</li>
 <li>Select the <strong>Content Map</strong> and <strong>Topic</strong>.</li>
 <li>Select the checkboxes next to the <strong>Topics</strong> or <strong>Sub-topics</strong> that are relevant to this Module. You can click the <strong>downward arrow</strong> to expand the topics in order to see the Sub-topics.</li>
-<li><p>Click <strong>Save</strong>  <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed.</p>
+<li><p>Click the <strong>Save</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed.</p>
 <p><img style="width: 100%;" src="/images/2Teacher/AU_AddModuleTag2.png"></p>
 </li>
 </ol>
