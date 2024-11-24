@@ -79,4 +79,39 @@ edited by drawing or from its settings.</p>
 <p>In the Module View page, you can download the image by clicking the <strong>Download</strong> icon <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Download.svg">.
 </p></li>
 </ol>
-<p></p>
+<h2>Annotating a Media Object</h2>
+<hr>
+<ol>
+    <li>
+        <p>Play the media object and identify the appropriate timestamp for the annotation.</p>
+    </li>
+    <li>
+        <p>At the specific timestamp, click on the <strong>Create Note</strong> icon <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/createnote.svg"> to add note to video.</p>
+        <p><img alt="Edit Media Objects" width="100%" src="/images/2Teacher/AU_EditMediaObjects2.png"></p>
+    </li>
+    <li>
+        <p>A text box will appear for you to type in your annotation.</p>
+        <ol style="list-style-type: lower-alpha;">
+            <li>You may insert mathematical or chemical equations, include emoticons, a drawing or upload a file or audio recording.</li>
+            <li>You may also add Keyword Tags on the Annotation card. This will help to improve searchability.</li>
+        </ol>
+    </li>
+    <li>
+        <p>Once you are done, click <strong>Save</strong>.</p>
+        <p><img alt="Edit Media Objects" width="100%" src="/images/2Teacher/AU_EditMediaObjects3.png"></p>
+    </li>
+    <li>
+        <p>A <strong>Pin Indicator</strong> will appear on the media player at the various points where an annotation is made. Click on the <strong>pin</strong> to skip to the corresponding timestamp.</p>
+        <p><img alt="Edit Media Objects" width="100%" src="/images/2Teacher/AU_EditMediaObjects4.png"></p>
+    </li>
+    <li>
+        <p>A list of annotations will appear in the annotation drawer. To expand the annotation drawer, click on the <strong>Notepad</strong> icon <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Note.svg"></p>
+    </li>
+    <li>
+        <p>Click on the <strong>Annotation cards</strong> to skip to the corresponding timestamps.</p>
+    </li>
+    <li>
+        <p>If a transcript has been generated, the annotations can also be viewed in the transcript, along with the corresponding annotation cards in the annotation drawer.</p>
+        <p><img alt="Edit Media Objects" width="100%" src="/images/2Teacher/AU_EditMediaObjects5.png"></p>
+    </li>
+</ol>
