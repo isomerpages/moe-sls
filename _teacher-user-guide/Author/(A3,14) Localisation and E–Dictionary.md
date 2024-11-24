@@ -17,7 +17,7 @@ variant: markdown
 <hr>
 <ol>
 <li>In the Module Editor page, click on the Settings icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> to access Module Details. </li>
-<p><img style="width: 30%;" src="/images/2Teacher/AU-Localisation1.png"></p>
+<p><img alt="Localisation and E-Dictionary" style="width: 50%;" src="/images/2Teacher/AU_Localisation1.png"></p>
 <li>Click the dropdown under <strong>Language Localisation</strong> and <strong>E-Dictionary</strong>, and select the relevant option. </li>
 <li>If there are no further changes, click on the <strong>Save</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg">.</li>
-</ol><img style="width: 100%;" src="/images/2Teacher/AU-Localisation2.png">
+</ol><img alt="Localisation and E-Dictionary" style="width: 80%;" src="/images/2Teacher/AU_Localisation3.png">
