@@ -37,7 +37,7 @@ variant: markdown
 </ol>
 <h2 id="-create-notes-">Create Notes</h2>
 <hr>
-<p>To add a Note inside an Activity, click the <strong>Notepad</strong> icon to <strong>Create Note</strong>. This note will appear before the Annotations in an Activity.</p>
+<p>To add a Note inside an Activity, click the <strong>Notepad</strong> icon <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Note.svg"> to <strong>Create Note</strong>. This note will appear before the Annotations in an Activity.</p>
 <h2 id="-editing-and-deleting-annotation-">Editing and Deleting Annotation</h2>
 <hr>
 <p>You may edit each Annotation from the Annotations Drawer by opening the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and selecting the following options:</p>
