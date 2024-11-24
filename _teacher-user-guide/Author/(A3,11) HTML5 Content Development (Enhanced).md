@@ -106,18 +106,36 @@ variant: markdown
 </code></pre>
     </li>
     <li>
-        <p>Download sample package here</p>
+        <p>Download sample package <a target="_blank" href="https://iwant2study.org/lookangejss/00workshop/2019twa/ejss_model_BalancingChemEqns21_ionic.zip">here</a></p>
     </li>
-</ol>
-<p><a href="https://prod-files-secure.s3.us-west-2.amazonaws.com/1b3e5107-e791-4f62-bc5f-70c8a0dd6363/81d88f2d-7b58-4e3f-9be4-e1ebddc4ea95/sample-html5-package.zip">sample-html5-package.zip</a></p>
-<ol>
     <li>In the Module Editor page, hover over Question in the Component Bar, select <strong>Free-Response</strong> followed by <strong>Interactive Response.</strong></li>
     <li>Upload the HTM5 ZIP file into SLS and select <strong>Upload</strong> to proceed.</li>
-</ol>
-<h2><strong>Supported Scenarios for Creating Interactive Response</strong></h2>
-<ol>
-    <li>You may download the HTML5 ZIP files based on the scenarios to create FRQ with Interactive Response.</li>
-</ol>
+<h2><strong>Supported Scenarios for Creating Interactive Response</strong></h2></ol>
+You may download the HTML5 ZIP files based on the scenarios to create FRQ with Interactive Response.
+<table class="simple-table">
+  <tbody>
+    <tr>
+      <td><strong>Scenario</strong></td>
+      <td><strong>Use Case</strong></td>
+      <td><strong>Sample Code</strong></td>
+    </tr>
+    <tr>
+      <td>Send score only</td>
+      <td>Involves only the score</td>
+      <td><a target="_blank" href="https://iwant2study.org/lookangejss/00workshop/2019twa/ejss_model_BalancingChemEqns21_ionic.zip">send-score.zip</a></td>
+    </tr>
+    <tr>
+      <td>Send score with grading rubric</td>
+      <td>Involves rubrics and “Show and use rubric marks” is selected</td>
+      <td><a target="_blank" href="https://iwant2study.org/lookangejss/00workshop/2019twa/ejss_model_BalancingChemEqns21_ionic.zip">send-score-with-grading-rubrics-use-rubric-marks-selected.zip</a></td>
+    </tr>
+    <tr>
+      <td>Send score with grading rubric</td>
+      <td>Involves rubrics and “Show and use rubric marks” is not selected</td>
+      <td><a target="_blank" href="https://iwant2study.org/lookangejss/00workshop/2019twa/ejss_model_BalancingChemEqns21_ionic.zip">send-score-with-grading-rubrics-use-rubric-marks-not-selected.zip</a></td>
+    </tr>
+  </tbody>
+</table>
 <h2 id="faqs">FAQs</h2>
 <hr>
 <ol>
