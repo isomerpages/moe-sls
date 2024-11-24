@@ -53,7 +53,71 @@ variant: markdown
 </li>
 </ol>
 <img style="width: 100%;" src="/images/2Teacher/AU-AddHTML3.png">
-
+<h2>Creating HTML5 Content for Interactive Response</h2>
+<hr>
+<ol>
+    <li>
+        <p>Ensure that the <a href="https://github.com/adlnet/xAPIWrapper/blob/master/dist/xapiwrapper.min.js">XAPI Wrapper JavaScript file (xapiwrapper.min.js)</a> is included in your project. This file provides the necessary functions and utilities for communicating with an Experience API (XAPI) endpoint.</p>
+        <p>Before using the XAPI Wrapper functions, it's crucial to load the API wrapper script. This script provides methods for interacting with an XAPI-conformant Learning Record Store (LRS).</p>
+        <pre><code>&lt;script src="xapiwrapper.min.js"&gt;&lt;/script&gt;
+</code></pre>
+        <p>The version used is <a href="https://www.npmjs.com/package/xapiwrapper/v/1.11.0?activeTab=versions">v1.11.0</a></p>
+    </li>
+    <li>
+        <p>Place the following script, it will do the initialization (getParameters) on document ready (DOMContentLoaded), which retrieves parameters (endpoint, auth, agent, stateId, activityId) from the URL query string and configures the xAPI Wrapper (ADL.XAPIWrapper) using the retrieved endpoint and auth credentials.</p>
+        <pre><code>  &lt;script&gt;
+  // Using a namespace to prevent global variable clashes
+  const XAPIUtils = {
+    parameters: null, // Parameters store
+    getParameters: function () {
+      if (!this.parameters) { // Ensure fetch once
+        var urlParams = new URLSearchParams(window.location.search);
+        var endpoint = urlParams.get('endpoint');
+        var auth = urlParams.get('auth');
+        var agent = JSON.parse(urlParams.get('agent'));
+        var stateId = urlParams.get('stateId');
+        var activityId = urlParams.get('activityId');
+        ADL.XAPIWrapper.changeConfig({"endpoint": endpoint + "/", "auth": `Basic ${auth}`});
+        this.parameters = { agent, stateId, activityId };
+      }
+      return this.parameters;
+    }
+  };
+  // Immediately invoke getParameters on page load
+  document.addEventListener("DOMContentLoaded", function() { XAPIUtils.getParameters(); });
+  &lt;script&gt;
+</code></pre>
+    </li>
+    <li>
+        <p>Currently SLS supports a single method, sendScore(score). Following is the sample to send the state via <code>ADL.XAPIWrapper.sendState</code> method.</p>
+        <pre><code>  &lt;script&gt;
+  function sendScore(score) {
+    try {
+      const parameters = XAPIUtils.getParameters(); // Retrieve parameters from store
+      const activityid = parameters.activityId;
+      const stateId = parameters.stateId;
+      const agent = parameters.agent;
+      const registration = null;
+      const stateValue = { score: score };
+      ADL.XAPIWrapper.sendState(activityid, agent, stateId, registration, stateValue);
+    } catch (err) { console.error("An error has occurred!", err); }
+  }
+  &lt;/script&gt;
+</code></pre>
+    </li>
+    <li>
+        <p>Download sample package here</p>
+    </li>
+</ol>
+<p><a href="https://prod-files-secure.s3.us-west-2.amazonaws.com/1b3e5107-e791-4f62-bc5f-70c8a0dd6363/81d88f2d-7b58-4e3f-9be4-e1ebddc4ea95/sample-html5-package.zip">sample-html5-package.zip</a></p>
+<ol>
+    <li>In the Module Editor page, hover over Question in the Component Bar, select <strong>Free-Response</strong> followed by <strong>Interactive Response.</strong></li>
+    <li>Upload the HTM5 ZIP file into SLS and select <strong>Upload</strong> to proceed.</li>
+</ol>
+<h2><strong>Supported Scenarios for Creating Interactive Response</strong></h2>
+<ol>
+    <li>You may download the HTML5 ZIP files based on the scenarios to create FRQ with Interactive Response.</li>
+</ol>
 <h2 id="faqs">FAQs</h2>
 <hr>
 <ol>
