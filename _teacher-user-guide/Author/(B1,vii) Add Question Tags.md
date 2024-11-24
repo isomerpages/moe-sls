@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-question-tags">(B1,vii) Add Question Tags</h1>
+<h1 id="add-question-tags">(B1,vii) Add Question Tags (Enhanced)</h1>
 <p>Most components can be tagged to Subject, Level, Content Map, Skill Level, Topics, and Sub-topics so as to improve searchability in Community Gallery, MOE Library, and My Drive.</p>
 <p><u>Note</u>: Text/Media, ITT, Poll and Discussion cannot be tagged.</p>
 <p>To include a question in Learning Progress, you have to tag a question before selecting the <strong>Include in Learning Progress</strong> checkbox. Tagging a question will allow you to view the Learning Progress of students. Click <a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">here</a> to find out more about Learning Progress.</p>
