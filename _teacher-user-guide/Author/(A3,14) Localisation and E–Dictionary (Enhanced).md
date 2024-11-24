@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="localisation-and-e-dictionary">(A3,14) Localisation and E-Dictionary</h1>
+<h1 id="localisation-and-e-dictionary">(A3,14) Localisation and E-Dictionary (Enhanced)</h1>
 <p><strong>Important</strong>: From Release 2 (Nov 2024), the Tamil E-Dictionary is available as an enhancement to MTL Localisation.</p>
 <p>To create a more immersive MTL experience for your Modules, you can Enable MTL Localisation and E-Dictionary.</p>
 <ul>
