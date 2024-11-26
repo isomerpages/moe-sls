@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="attempt-a-poll">(A2,9) Attempt a Poll</h1>
+<h1 id="attempt-a-poll">(A2,9) Attempt a Poll</h1><hr>
 <ol>
 <li><p>You may choose just one response if you see circle buttons and one or more responses if there are checkboxes.</p>
 <p><img style="width: 50%;" src="/images/1Student/As-Poll.png"></p>
