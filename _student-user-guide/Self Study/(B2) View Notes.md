@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="-2-view-notes">(B2) View Notes</h1>
+<hr>
 <p>There are 3 types of Notes:</p>
 <ol>
 <li>Highlighted Annotation: These are found within an Activity of an Assignment, or Self-Study Resource. They can be created by both your teacher and yourself.</li>
