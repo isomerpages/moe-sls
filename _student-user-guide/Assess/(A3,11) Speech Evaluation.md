@@ -6,8 +6,8 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="speech-evaluation">(A3,11) Speech Evaluation (Enhanced)</h1>
-<p>From R1, Speech Evaluation is available in English, Chinese, Malay and Tamil.</p>
+<h1 id="speech-evaluation">(A3,11) Speech Evaluation</h1><hr>
+<p><u>Note</u>: Speech Evaluation is available in English, Chinese, Malay and Tamil.</p>
 <h2 id="speech-evaluation">Speech Evaluation</h2>
 <hr>
 <ol>
