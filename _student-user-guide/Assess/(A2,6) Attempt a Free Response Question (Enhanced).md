@@ -30,16 +30,13 @@ variant: markdown
 </ol>
 </li>
 <li>To enlarge your text box, click the <strong>Expand</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/expand.png"> found on the bottom right of the text box.</li>
-<p><img src="/images/1Student/As-FRQ.png"></p>
+<p><img alt="Attempt a Free-Response Question" style="width: 100%;" src="/images/1Student/As-FRQ.png"></p>
 <li>Some Free-Response Questions may have part of the answer or drawing in the text box (e.g. Drawing a graph). This is given by your teacher to help you in refining your answer response.</li>
 </ol>
 <u>Note</u>: 
 <ul>
 	<li>For draft answers, you will be able to see the name of the student or teacher who saved the draft and the time it was saved.</li>
 <li>For submitted and unsubmitted answers, you will be able to see the name of the student or teacher who submitted/unsubmitted the answer and the time it was submitted/unsubmitted.</li>
-</ul>
-<p><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"><u>Did You Know</u>:</p>
-<ul>
 <li>If your teacher has set a recommended time, you will be able to see it below the Question number.</li>
 </ul>
 <h2 id="-rubrics-in-free-response-questions-">Rubrics in Free-Response Questions</h2>
