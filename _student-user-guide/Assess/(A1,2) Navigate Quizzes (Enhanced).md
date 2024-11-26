@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Assess
 ---
-<h1 id="-1-navigate-quizzes">(A1,2) Navigate Quizzes (Enhanced)</h1>
+<h1 id="-1-navigate-quizzes">(A1,2) Navigate Quizzes (Enhanced)</h1><hr>
 <p>There are multiple Quiz settings in SLS that your teacher can set, including Timed Quiz, Retry a Quiz and Randomised Quiz.</p>
 <p>You may see a combination of the various settings. E.g. A Timed Randomised Quiz or a Randomised Quiz with Option to Retry.</p>
 <p><u>Note</u>: If your teacher has checked the hidden quiz marks, you will not see quiz scores, rubrics marks and marks for each question.</p>
