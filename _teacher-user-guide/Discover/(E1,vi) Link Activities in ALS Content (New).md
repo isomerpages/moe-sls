@@ -11,6 +11,6 @@ third_nav_title: Discover
 You may link activities to be recommended in a series when creating ALS content. When creating sections for ALS, check the checkbox (Adaptive Learning) Link Activities within Section.
 ![Link Activities in ALS Content](/images/2Teacher/D_Linkactivities.png)
 
-Checking this checkbox would result in all the activities in the section to be recommended in order when a student experiences it in ALS. This allows for the building of context in a section. Teachers/ CRDOs need to ensure that a learning outcome is also tagged in the ALS content map for each activity. Activities can be linked, e.g.,
+Checking this checkbox would result in all the activities in the section to be recommended in order when a student experiences it in ALS. This allows for the building of context in a section. Teachers/ CRDOs need to ensure that a learning outcome is also tagged in the ALS content map for each activity. Activities can be linked, as shown in the diagram below.
 ![Link Activities in ALS Content](/images/2Teacher/D_Linkactivities1.png)
 ![Link Activities in ALS Content](/images/2Teacher/D_Linkactivities2.png)
