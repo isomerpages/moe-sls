@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="insert-mathematical-or-chemical-equations">(A3,6) Insert Mathematical or Chemical Equations</h1>
+<h1 id="insert-mathematical-or-chemical-equations">(A3,6) Insert Mathematical or Chemical Equations</h1><hr>
 <h2 id="-insert-mathematical-equation-using-mathtype-">Insert Mathematical Equation using MathType</h2>
 <hr>
 <ol>
@@ -17,7 +17,7 @@ variant: markdown
 <li>To edit an equation, double-click the image to open the MathType editor.</li>
 </ol>
 <p><u>Note</u>: You are now able to copy and paste your mathematical equations in the Rich Text Editor. </p>
-<p><img src="/images/1Student/As-MathType.png"></p>
+<p><img alt="Insert Mathematical or Chemical Equations" style="width: 100%" src="/images/1Student/As-MathType.png"></p>
 <h2 id="-insert-mathematical-equation-using-latex-commands-">Insert Mathematical Equation using LaTeX commands</h2>
 <hr>
 <ol>
@@ -34,4 +34,4 @@ variant: markdown
 <li>To edit an equation, double-click the image to open the ChemType editor.</li>
 </ol>
 <p><u>Note</u>: You are now able to copy and paste your chemical equations in the Rich Text Editor.</p>
-<img src="/images/1Student/As-MathType.png">
+<img alt="Insert Mathematical or Chemical Equations" style="width: 100%" src="/images/1Student/As-MathType.png">
