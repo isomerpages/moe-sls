@@ -18,48 +18,51 @@ variant: markdown
 <p><u>Note</u>: </p>
 <ul>
     <li>If you are unsure of what you are searching for, you can leave the Search Bar empty and press <strong>Enter</strong> on your keyboard to return your search results.</li>
+<li>You may also select the area of search and indicate whether you are searching for the Title/Description/Module Tags/Subject/Level or a Content Map.</li>
     <li>You can also search directly from the various Resource pages (eg. MOE Library, App Library and My Drive.)</li>
 </ul>
 <h2>Add Search Filters</h2>
 <hr>
 <ol>
-    <li>On the Search page, select the <strong>Subject</strong> and <strong>Level</strong> from the dropdown list.</li>
-    <li>Click <strong>Apply</strong> and choose <strong>Apply Filter</strong> to narrow down the search results.</li>
-    <li>To add more search filters, click <strong>Filter</strong>. </li>
-    <li>Under <strong>Location</strong>, select from:
+   <li>On the&nbsp;Search&nbsp;page, select the <strong>Area of Search</strong>, <strong>Subject</strong> and <strong>Level</strong> from the dropdown list.</li>
+<li>Under&nbsp;<strong>Area of Search</strong>, select from:
+<ul>
+<li><strong>Title/Description/Tags/Subject/Level</strong></li>
+<li><strong>Content Map</strong></li>
+</ul>
+</li>
+<li>Under&nbsp;<strong>Subject</strong>,&nbsp;select from:
+<ul>
+<li><strong>Assigned Subjects</strong></li>
+<li><strong>Followed Subjects</strong> (if any)</li>
+<li><strong>Other Subjects</strong></li>
+</ul>
+</li>
+<li>Under&nbsp;<strong>Levels</strong>, select from:
+<ul>
+<li><strong>Assigned Levels</strong></li>
+<li><strong>Followed Levels</strong> (if any)</li>
+<li><strong>Other Levels</strong></li>
+</ul>
+</li>
+<li>To add more search filters, click&nbsp;<strong>More</strong> <strong>Filters</strong>.</li>
+        <li>Under <strong>Resource (Resource Type)</strong>, select from:
         <ul>
-            <li><strong>All</strong></li>
-            <li><strong>My Drive</strong> - your own resources</li>
-            <li><strong>MOE Library</strong> - Resources produced by MOE</li>
-            <li><strong>App Library</strong> - App Resources integrated with SLS</li>
-        </ul>
-    </li>
-    <li>Under <strong>Resource</strong>, select from:
-        <ul>
-            <li><strong>All</strong></li>
             <li><strong>Modules</strong></li>
             <li><strong>Apps</strong></li>
         </ul>
     </li>
-    <li>Under <strong>Subject</strong>, select from:
+    <li>Under <strong>Location</strong>, select from:
         <ul>
-            <li><strong>Assigned Subjects</strong></li>
-            <li><strong>Followed Subjects</strong> (if any)</li>
-            <li><strong>Other Subjects</strong></li>
+            <li><strong>My Drive</strong> - your own resources</li>
+            <li><strong>MOE Library</strong> - Resources produced by MOE</li>
+            <li><strong>App Library</strong> - App Resources integrated with SLS</li>
         </ul>
-    </li>
-    <li>Under <strong>Levels</strong>, select from:
-        <ul>
-            <li><strong>Assigned Levels</strong></li>
-            <li><strong>Followed Levels</strong> (if any)</li>
-            <li><strong>Other Levels</strong></li>
-        </ul>
-    </li>
-    <li>Click <strong>Apply</strong> and select <strong>Apply Filters</strong> to perform your selection.</li>
+    </li><li>Click <strong>Apply</strong> and select <strong>Apply Filters</strong> to perform your selection.</li>
 </ol>
 
 <p><u>Note</u>: Refine your search by using <strong>Guided Search</strong>.</p>
-<img alt="Search for Self Study Resources" style="width: 80%;" src="/images/1Student/SS-FiltersSubpage.png">
+<img alt="Search for Self Study Resources" style="width: 80%;" src="/images/1Student/SS_Searchresources2.png">
 
 <h2>Add Topic Filters</h2>
 <hr>
@@ -70,26 +73,27 @@ variant: markdown
   <li>Click <strong>Apply</strong> and choose <strong>Add Topic Filters.</strong></li>
   <li>On the Add Topic Filters subpage, select the relevant <strong>Content Map</strong> dropdown list.</li>
   <li>Select the checkbox to the left of the Topic, Subtopics, or Learning Outcome to narrow down the search results. 
-<img alt="Search for Self Study Resources" src="/images/1Student/SS-TopicFilters.png">		
+<img alt="Search for Self Study Resources" src="/images/1Student/SS_Searchresources1.png">		
 </li></ol>
 
 <h2>View Search Results</h2>
 <hr>
 <ol>
-  <li>You can sort the resources by <strong>Relevance</strong> to your search term(s), <strong>Popularity</strong> (only for MOE Library resources), or according to the date of the latest edit. You can also view the search results in card or List view by clicking <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> and <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg"> respectively.</li>
-  <li>Click the <strong>Module card</strong> to enter the Module in a new tab. On the Module card, you will be able to view the following information:
-    <ul>
-      <li>Module Location</li>
-      <li>Resource Title</li>
-      <li>Level and Subject (for Modules only)</li>
-      <li>Type of Resource</li>
-    </ul>
-<img alt="Search for Self Study Resources" style="width: 50%;" src="/images/1Student/SS-LessonCard1.png">
-  </li>
-  <li>To view the Module Details, click the <strong>View Details</strong> icon <img style="width:5%; display: inline;" src="/images/Icons/ViewDetails.svg"> found on the top right of the Module card. You will be able to view details such as Module Description, list of Activities and Sections (if any), Module creator, and when it was lasted edited. To open the Module in a new tab, click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg">.</li>
-  <li>To enter the Module, click the <strong>Module card</strong>.</li>
+  <li>You can sort the resources by <strong>Relevance</strong> to your search term(s), <strong>Popularity</strong> (only for MOE Library resources), or according to the date of the latest edit.
+  </li><li>Click the&nbsp;<strong>Module card</strong>&nbsp;to view <strong>Module Details</strong>. You will be able to view the following information:
+<ul>
+<li><strong>Module Title</strong></li>
+<li><strong>Module Description</strong></li>
+<li><strong>List of Activities and Sections</strong> (if any)</li>
+<li><strong>Module Location</strong></li>
+<li><strong>Subject and Level</strong> (for Modules only)</li>
+<li><strong>Module Creator</strong></li>
+<li><strong>View Count</strong></li>
+<li><strong>Keyword Tags</strong></li>
+</ul>
+</li>
+  <li>To open the Module in a new tab, click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg">.</li>
 </ol>
-
 <h3>Video Tutorial</h3>
 <hr>
 <div class="bp-youtube">
