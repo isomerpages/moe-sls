@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-2b-create-a-new-poll">(B2,2) Create a New Poll</h1>
+<h1 id="-2b-create-a-new-poll">(B2,2) Create a New Poll</h1><hr>
 <ol>
 <li>Students can create a new poll if teachers have switched on the permission setting.</li>
 <li><p>On the Forum tab, click <strong>Create New Poll</strong>.</p>
