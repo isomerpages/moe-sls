@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A3,10) Text-to-Speech (Enhanced)</h1>
+<h1>(A3,10) Text-to-Speech (Enhanced)</h1><hr>
 <p><u>Important</u>: From R1, Text-to-Speech is available in English, Chinese, Malay and Tamil.</p>
 <ol>
 <li>
@@ -15,7 +15,7 @@ an audio clip in your Assignment. The text to the audio clip is found below.</p>
 </li>
 <li>
 <p>Click the <strong>Play</strong> icon to begin the clip.</p>
-<img style="width: 100%" height="auto" width="100%" src="/images/1Student/As-TTS.png">
+<img style="width: 100%" alt="Text-to-Speech" src="/images/1Student/As-TTS.png">
 </li>
 <li>
 <p>You can also <strong>Pause</strong> <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pause.svg">and <strong>Restart</strong>
@@ -25,7 +25,7 @@ an audio clip in your Assignment. The text to the audio clip is found below.</p>
 <p>You can also listen to a line-by-line reading of the audio clip. To do
 so, click the <strong>Expand</strong> icon 
 <img style="width:1.2rem; display: inline;" height="auto" width="100%" src="/images/Icons/external-link.svg"> and select the sentence to begin.</p>
-<img style="width: 100%" height="auto" width="100%" src="/images/1Student/As-TTS1.png">
+<img style="width: 100%" alt="Text-to-Speech" src="/images/1Student/As-TTS1.png">
 </li>
 <li>
 <p>When you are done, click <strong>X</strong> to close the Text-to-Speech
