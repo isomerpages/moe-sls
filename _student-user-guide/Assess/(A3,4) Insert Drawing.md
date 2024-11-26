@@ -40,9 +40,9 @@ variant: markdown
 		<li>Insert a text over the background image using the text box.</li></ul>
 	<li><b>Delete</b>: To erase any part of your drawing or text, click the <b>Select</b> icon, select the part and click&nbsp;Delete.</li>
 	<li><b>Move</b>: To move your drawing or text, click the <b>Select</b> icon, select the object or text and move it.</li>
-	<li><b>Undo/Redo</b>: Undo/redo the most recent stroke by clicking&nbsp;Undo/Redo. <b></b></li>
+	<li><b>Undo/Redo</b>: Undo/redo the most recent stroke by clicking&nbsp;Undo/Redo.</li>
 	<li><b>Clear All</b>: Remove all drawings/images by clicking&nbsp;<b>Clear All</b>.</li>
-		<li><b>Zoom</b>: Zoom in/out of the image/drawings by clicking the respective icons. <b></b></li>
+		<li><b>Zoom</b>: Zoom in/out of the image/drawings by clicking the respective icons.</li>
 </ul>
 
 <h2 id="-resizing-rotating-the-final-drawing-">Resizing/Rotating the final drawing</h2>
