@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-1b-accept-a-share-request">(A1,2) Accept a Share Request</h1>
+<h1 id="-1b-accept-a-share-request">(A1,2) Accept a Share Request</h1><hr>
 <ol>
 <li>Enter an assignment with Assignment Sharing enabled.</li>
 <li><p>To accept a Share Request:</p>
