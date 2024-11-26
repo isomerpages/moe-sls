@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-2a-posting-on-a-discussion-topic-improved-">(B2,1) Posting on a Discussion Topic</h1>
+<h1 id="-2a-posting-on-a-discussion-topic-improved-">(B2,1) Posting on a Discussion Topic</h1><hr>
 <h2 id="creating-a-new-post">Creating a New Post</h2>
 <hr>
 <ol>
