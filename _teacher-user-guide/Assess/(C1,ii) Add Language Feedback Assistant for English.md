@@ -16,10 +16,10 @@ third_nav_title: Assess
 <li><p>LangFA-EL can be used in standalone questions and  all types of quizzes. Depending on the selected mode (i.e. standalone question or quiz), teachers determine how students will receive the feedback from LangFA-EL.  </p>
 <table>
 <tbody><tr><th>Mode </th><th>Feedback</th></tr>
-<tr><td>Teacher Marked Quiz* </td><td>Students receive feedback after teacher marks and releases the quiz</td></tr>
-<tr><td>1. Progressive Quiz*<br>2. Auto-Graded Quiz*<br>3. Standalone Question*</td><td>Students receive feedback automatically after submitting each question</td>
+<tr><td>Teacher Marked Quiz</td><td>Students receive feedback after teacher marks and releases the quiz</td></tr>
+<tr><td>1. Progressive Quiz<br>2. Auto-Graded Quiz<br>3. Standalone Question</td><td>Students receive feedback automatically after submitting each question</td>
 	</tr></tbody></table>
-*To learn more about the different quiz modes, click 
+To learn more about the different quiz modes, click 
 <a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">here</a>.
 <ul><u>Note</u>:<li>To use LangFA-EL in a quiz, click <strong>Add New</strong> on the Module Editor page, then select <strong>Quiz</strong>. Proceed to Step 2 to continue creating a quiz.</li>
 <li>To use LangFA-EL in a standalone question, click <strong>Add New</strong> on the Module Editor page then select <strong>Activity</strong>. Proceed to Step 3 to continue creating a standalone question.</li></ul></li>
