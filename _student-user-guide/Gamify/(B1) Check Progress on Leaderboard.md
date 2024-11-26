@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="check-progress-on-leaderboard">(B1) Check Progress on Leaderboard</h1>
+<hr>
 <p>If your teacher has enabled <strong>Team Game</strong>, you will be able to view the <strong>Team Leaderboard</strong>. <strong>Team Game</strong> will allow you to work cooperatively with your peers to collect XP and unlock Game Stories and Achievements.</p>
 <u>Important:</u> You will only be able to view the Leaderboard if your teacher has enabled it.
 <ol>
