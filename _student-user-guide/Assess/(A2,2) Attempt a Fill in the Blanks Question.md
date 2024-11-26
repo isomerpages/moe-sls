@@ -19,7 +19,7 @@ variant: markdown
 </li>
 	<u>Note</u>: Some blanks might have the same answer, duplicate options (if any) will only be shown once.
 <p><img alt="Attempt a Fill-in-the-Blanks Question" style="width: 80%;" src="/images/1Student/AS_FITB2.png"></p>
-	<li><b>Multiple Options (NEW)</b>: You will choose the correct answer for the blank from a drop-down list.</li>
+	<li><b>Multiple Options</b>: You will choose the correct answer for the blank from a drop-down list.</li>
 	<p><img alt="Attempt a Fill-in-the-Blanks Question" style="width: 80%;" src="/images/1Student/AS_FITB3.png"></p>
 </ol>
 </li>
