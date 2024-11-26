@@ -17,7 +17,7 @@ variant: markdown
 		<li>or select the blank rectangles first and select your answer from the Options area.</li>
 		<u>Note</u>: You do not need to use all the Options.
 </ol>
-<p><img style="width: 80%;" src="/images/1Student/As-CnD.png"></p>
+<p><img alt="Attempt a Click-and-Drop Question" style="width: 80%;" src="/images/1Student/As-CnD.png"></p>
 <li>In some questions, a hint may be provided by your teacher. Click&nbsp;<b>Hint 1</b>&nbsp;to view it.</li>
 	<li>If there is more than 1 hint, click <b>Next Hint</b> to view the next hint. Your teacher can provide up to 3 hints.</li>
 <li>In a standalone question that is not part of a quiz, you can submit your response by clicking the <strong>Submit</strong> button. You can also choose <strong>Save as Draft</strong> if you would like to revisit this question again after you have visited other pages or logged out. Your response will be saved.</li>
