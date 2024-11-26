@@ -8,19 +8,14 @@ image: /images/FaviconLight.png
 ---
 <h1>(C1,iii) Add Short Answer Feedback Assistant</h1>
 <p>The Short Answer Feedback Assistant (ShortAnsFA) provides suggested marks
-and auto-generated content-related feedback for free-response questions for any subject and level.</p>
+and auto-generated content-related feedback for Free-Response Questions for any subject and level.</p>
 <p><u>Important</u>:</p>
 <ul>
 <li>
-<p>As ShortAnsFA uses generative AI, its response is probabilistic in nature.
-Thus, it may not be suitable for questions involving mathematical computation
-and may at times be inaccurate. Teachers should review the feedback generated
-before returning it to students. ShortAnsFA's capabilities will be continually
-improved over time and schools can keep a lookout for the latest improvements
-via the Singapore Learning Designers Circle (SgLDC) Facebook group.</p>
+<p>As ShortAnsFA uses generative AI, its response is probabilistic in nature. Thus, it may not be suitable for questions involving mathematical computation and may at times be inaccurate. Teachers can consider using FA-Math for questions that require mathematical computation  instead. Also, Teachers can review the feedback generated before returning it to students. Also, teachers can review the feedback generated before returning it to students. </p>
 </li>
 <li>
-<p>From June 2024 (R1), ShortAnsFA can provide feedback on a wider variety of responses, including more open-ended responses such as composition writing or reflections. </p>
+<p>ShortAnsFA can provide feedback on a wider variety of responses, including more open-ended responses such as composition writing or reflections.</p>
 </li>
 <li>
 <p>File Submission is disabled when using ShortAnsFA.</p>
@@ -29,13 +24,13 @@ via the Singapore Learning Designers Circle (SgLDC) Facebook group.</p>
 <h2><strong>Create a ShortAnsFA question</strong></h2>
 <hr>
 <ol>
-<li><p>From June 2024 (R1), ShortAnsFA can be used in standalone questions and other types of quizzes. Depending on the selected mode (i.e. standalone question or quiz), teachers determine how students will receive the feedback from ShortAnsFA.</p>
+<li><p>ShortAnsFA can be used in standalone questions and other types of quizzes. Depending on the selected mode (i.e. standalone question or quiz), teachers determine how students will receive the feedback from ShortAnsFA.</p>
 <table>
 <tbody><tr><th>Mode </th><th>Feedback</th></tr>
-<tr><td>Teacher Marked Quiz* </td><td>Students receive feedback after teacher marks and releases the quiz</td></tr>
-<tr><td>1. Progressive Quiz*<br>2. Auto-Graded Quiz*<br>3. Standalone Question*</td><td>Students receive feedback automatically after submitting each question</td>
+<tr><td>Teacher Marked Quiz</td><td>Students receive feedback after teacher marks and releases the quiz</td></tr>
+<tr><td>1. Progressive Quiz<br>2. Auto-Graded Quiz<br>3. Standalone Question</td><td>Students receive feedback automatically after submitting each question</td>
 	</tr></tbody></table>
-	*To learn more about the different quiz modes, click 
+To learn more about the different quiz modes, click 
 <a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">here</a>.
 	<ul><li>To use ShortAnsFA in a quiz, click <strong>Add New</strong> on the Module Editor page, then select <strong>Quiz</strong>. Proceed to Step 2 to continue creating a quiz. </li>
 <li>To use ShortAnsFA in a standalone question, click <strong>Add New</strong> on the Module Editor page then select <strong>Activity</strong>. Proceed to Step 3 to continue creating a standalone question. </li></ul></li>
