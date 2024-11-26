@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="attempt-a-fill-in-the-blanks-question">(A2,2) Attempt a Fill-in-the-Blanks Question</h1>
+<h1 id="attempt-a-fill-in-the-blanks-question">(A2,2) Attempt a Fill-in-the-Blanks Question</h1><hr>
 <h2 id="-fill-in-the-blanks-question-">Fill-in-the-Blanks Question</h2>
 <hr>
 <ol>
