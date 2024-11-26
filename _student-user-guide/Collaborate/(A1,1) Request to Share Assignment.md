@@ -22,12 +22,12 @@ variant: markdown
 <ol style="list-style-type: lower-alpha;">
 <li>Click the <strong>Overflow</strong> <strong>(3-dot</strong> icon<strong>)</strong> to open the right menu. Click <strong>Share</strong>.</li>
 <li><p>Click the <strong>User Avatar</strong> icon followed by the <strong>Plus</strong> (<strong>+</strong> icon).</p>
-<p> <img style="width: 50%;" src="/images/1Student/CO-RequestShare1.png"></p>
+<p> <img alt="Request to Share Assignment" style="width: 50%;" src="/images/1Student/CO-RequestShare1.png"></p>
 </li>
 </ol>
 </li>
 <li><p>Select the peer that you want to share your assignment with by clicking <strong>Share Request</strong>.</p>
-<p> <img src="/images/1Student/CO-RequestShare2.png"></p>
+<p> <img alt="Request to Share Assignment" src="/images/1Student/CO-RequestShare2.png"></p>
 	<p> <u>Note</u>: You are not allowed to withdraw the sharing request after it has been sent.</p>
 </li>
 <li><p>The status will change from "Share Request" to "Pending Request". This means that you are waiting for your classmate to accept your request.</p>
