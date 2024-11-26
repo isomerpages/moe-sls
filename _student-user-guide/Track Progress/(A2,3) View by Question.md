@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="-2c-view-by-question">(A2,3) View by Question</h1>
+<hr>
 <p>Topics and Sub-topics are displayed according to the Content Map selected. There may be more than one Content Map for a particular subject based on the syllabus by SEAB.</p>
 <p><u>Note</u>: Only questions that are selected to be included by your teacher or module author will be shown in the Learning Progress. </p>
 <ol>
