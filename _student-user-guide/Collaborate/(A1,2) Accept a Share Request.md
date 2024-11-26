@@ -13,7 +13,7 @@ variant: markdown
 <ol style="list-style-type: lower-alpha;">
 <li>Click the <strong>User Avatar</strong>  on the header followed by <strong>+</strong>. </li>
 <li><p>Click the <strong>Overflow</strong> <strong>(3-dot</strong> icon<strong>)</strong> to open the right menu. Click <strong>Share</strong>.</p>
-<img src="/images/1Student/CO_AcceptShare.png">
+<img alt="Accept a Share Request" src="/images/1Student/CO_AcceptShare.png">
 <p><u>Note</u>: There will be a red dot beside the "+" to indicate a new share request. </p>
 </li>
 </ol>
@@ -29,4 +29,4 @@ variant: markdown
 </li>
 <li>Once accepted, the status will change from ”Accept Request”&nbsp;to&nbsp;”Shared”.</li>
 </ol>
-<img src="/images/1Student/CO-AcceptShare1.png">
+<img alt="Accept a Share Request" src="/images/1Student/CO-AcceptShare1.png">
