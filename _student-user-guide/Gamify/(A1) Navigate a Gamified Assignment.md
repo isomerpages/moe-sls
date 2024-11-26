@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Gamify
 ---
 <h1>(A1) Navigate a Gamified Assignment</h1>
-
+<hr>
 <h2 id="navigate-a-gamified-assignment">Navigate a Gamified Assignment</h2>
 <hr>
 <ol>
