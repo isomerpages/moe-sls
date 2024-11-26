@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(D1) About Feedback Assistant Mathematics</h1><hr>
+<h1>(D1) About Feedback Assistant Mathematics (Enhanced)</h1><hr>
 <p>The Feedback Assistant - Mathematics (FA-Math) is an engine that offers step-by-step feedback to students on their answers.</p>
 <ol>
 <li>Your teacher may add the tool as a Prepopulated Student Answer space in a Free-Response Question. You will then be informed on the feedback provided for the question.</li>
