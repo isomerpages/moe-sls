@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-1-navigate-an-assignment">(A1,1) Navigate an Assignment</h1>
+<h1 id="-1-navigate-an-assignment">(A1,1) Navigate an Assignment</h1><hr>
 <p>There are two ways to navigate around an Assignment - from the Module Plan or Activity List.</p>
 <p><u>Important</u>: You may not have access to all Sections of the Module when it is first assigned to you.</p>
 <h2 id="-navigate-an-assignment-using-module-plan-">Navigate an Assignment using Module Plan</h2>
