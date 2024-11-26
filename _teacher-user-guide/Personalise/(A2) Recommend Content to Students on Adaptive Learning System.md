@@ -32,7 +32,7 @@ third_nav_title: Personalise
 <img alt="Recommend Content to Students on Adaptive Learning System" style="width: 80%;" src="/images/2Teacher/PE_RecommendContent3.png">
 </li>
 <li>
-<p>Access Recommended ALS Topics by <a target="_blank" href="/teacher-user-guide/notify/view-and-create-announcements/">viewing Notifications</a></p>
+<p>Access Recommended ALS Topics by <a target="_blank" href="/teacher-user-guide/notify/view-and-create-announcements/">viewing Notifications</a>.</p>
 </li>
 <p><u>Note</u>:</p>
 <ul>
