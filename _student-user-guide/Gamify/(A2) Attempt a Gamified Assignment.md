@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(A2) Attempt a Gamified Assignment</h1>
-
+<hr>
 <h2 id="attempt-gamified-module">Attempt Gamified Module</h2>
 <hr>
 <ol>
