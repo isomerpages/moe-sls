@@ -20,7 +20,7 @@ third_nav_title: Assess
 <h2>Using Data Assistant</h2>
 <hr>
 <ol>
-    <li>Select from your existing resources an activity containing a Free-Response Question, Discussion Board/Forum, or Interactive Thinking Tool</li>
+    <li>Select from your existing resources an activity containing a Free-Response Question, Discussion Board/Forum, or Interactive Thinking Tool.</li>
     <li>Scroll to the bottom of the Question, click <strong>View All Responses</strong>.</li>
 <img alt="Analyse Students’ Responses with Data Assistant" style="width: 100%;" src="/images/2Teacher/AS_DAT1.png">
     <li>Click the Data Assistant icon <img style="width:1.5rem; display: inline;" src="/images/Icons/DAT.svg">.</li>
@@ -38,4 +38,3 @@ third_nav_title: Assess
     <li>For Discussion Board/Forum: Click <strong>Add Keyword Tags</strong> to label posts with relevant tags for easier categorisation.</li>
     <li>For Interactive Thinking Tool (ITT): Click <strong>Bookmark Responses</strong> to bookmark specific student responses for later reference.</li>
 <p>If you encounter any unexpected errors while using DAT, you may write in to <a href="mailto:helpdesk@sls.ufinity.com">SLS Helpdesk</a> to report the issue.</p></ol>
-
