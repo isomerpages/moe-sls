@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="-1-access-learning-progress">(A1) Access Learning Progress</h1>
+<hr>
 <p>Learning Progress shows your overall progress (in terms of marks) for questions of a particular subject. These questions are carefully selected by your teachers and are deemed to be important for your learning.</p>
 <h3 id="navigating-around-the-page">Navigating the Page</h3>
 <hr>
