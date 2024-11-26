@@ -7,8 +7,8 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(A1,i) Access Class Groups</h1>
-
-<h3>Access Class Groups</h3>
+<hr>
+<h2>Access Class Groups</h2>
 <hr>
 <ol>
     <li>From the homepage, open the left menu and click <strong>Class Groups</strong>. Alternatively, click <strong>Class Groups</strong> under the Class Groups tab.</li>
@@ -17,7 +17,7 @@ variant: markdown
     <li>To access past Class Groups, click the <a target="_blank" href="/student-user-guide/organise/access-past-class-groups/">Past tab</a>.</li>
 </ol>
 <p><u>Note</u>: You can view your Class Notifications from <a target="_blank" href="/student-user-guide/notify/about-notifications/">here</a>.</p>
-<h3>Pin Class Groups</h3>
+<h2>Pin Class Groups</h2>
 <hr>
 <ol>
     <li>From the homepage, open the left menu and click <strong>Class Groups</strong>. Alternatively, click <strong>Class Groups</strong> under the Class Groups tab.</li>
