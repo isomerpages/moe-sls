@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(A3,10) Text-to-Speech</h1><hr>
-<p><u>Important</u>: From R1, Text-to-Speech is available in English, Chinese, Malay and Tamil.</p>
+<p><u>Important</u>: Text-to-Speech is available in English, Chinese, Malay and Tamil.</p>
 <ol>
 <li>
 <p>If Text-to-Speech (TTS) has been enabled by your teacher, you will see
