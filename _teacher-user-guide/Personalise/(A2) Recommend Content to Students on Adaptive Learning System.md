@@ -11,11 +11,11 @@ third_nav_title: Personalise
 <p>To provide differentiated guidance to students, you can recommend topic(s)/ subtopic(s) in ALS for selected students, who will receive a notification and a link to access the recommended content in ALS.</p>
 <ol>
 <li>
-<p>Select the students in the class group.</p>
+<p>Select the students in the class group by clicking on the checkboxes beside their names.</p>
 <img alt="Recommend Content to Students on Adaptive Learning System" style="width: 80%;" src="/images/2Teacher/PE_RecommendContent.png">
 </li>
 <li>
-<p>Select <strong>Recommend Topics.</strong></p>
+<p>Click <strong>Recommend Topics.</strong></p>
 <img alt="Recommend Content to Students on Adaptive Learning System" style="width: 80%;" src="/images/2Teacher/PE_RecommendContent1.png">
 </li>
 <li>
@@ -32,8 +32,7 @@ third_nav_title: Personalise
 <img alt="Recommend Content to Students on Adaptive Learning System" style="width: 80%;" src="/images/2Teacher/PE_RecommendContent3.png">
 </li>
 <li>
-<p>Access Recommended ALS Topics via Notification</p>
-<img alt="Recommend Content to Students on Adaptive Learning System" style="width: 80%;" src="/images/2Teacher/PE_RecommendContent4.png">
+<p>Access Recommended ALS Topics by <a target="_blank" href="/teacher-user-guide/notify/view-and-create-announcements/">viewing Notifications</a></p>
 </li>
 <p><u>Note</u>:</p>
 <ul>
