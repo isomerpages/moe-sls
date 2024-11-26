@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="attempt-a-click-and-drop-question">(A2,3) Attempt a Click-and-Drop Question</h1>
+<h1 id="attempt-a-click-and-drop-question">(A2,3) Attempt a Click-and-Drop Question</h1><hr>
 <h2 id="-click-and-drop-question-">Click-and-Drop Question</h2>
 <hr>
 <ol>
