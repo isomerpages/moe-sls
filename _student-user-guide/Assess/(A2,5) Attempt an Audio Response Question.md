@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="attempt-an-audio-response-question">(A2,5) Attempt an Audio-Response Question</h1>
+<h1 id="attempt-an-audio-response-question">(A2,5) Attempt an Audio-Response Question</h1><hr>
 <h2 id="-audio-response-question-">Audio-Response Question</h2>
 <hr>
 <p><u>Note</u>: </p><li>Click <a target="_blank" href="/student-user-guide/assess/speech-evaluation/">here</a> if Speech Evaluation has been enabled by your teacher.</li>
