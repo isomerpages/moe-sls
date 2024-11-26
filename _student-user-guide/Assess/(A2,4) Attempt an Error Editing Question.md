@@ -17,7 +17,7 @@ variant: markdown
 </li>
 </ol>
 </li>
-<p><img style="width:80%" src="/images/1Student/As-EE.png"></p>
+<p><img alt="Attempt an Error-Editing Question" style="width:80%" src="/images/1Student/As-EE.png"></p>
 <li>If your teacher has disabled the Hide “No Error” option, you will be given the option to select <strong>No Error</strong> instead of typing a correct replacement answer.</li>
 <li>In a standalone question that is not part of a quiz, you can submit your response by clicking the <strong>Submit</strong> button. You can also choose <strong>Save as Draft</strong> if you would like to revisit this question again after you have visited other pages or logged out. Your response will be saved.</li>
 <li>In an Auto-Graded Quiz and a Teacher-Marked Quiz, you can only submit your response after attempting the last question.</li>
