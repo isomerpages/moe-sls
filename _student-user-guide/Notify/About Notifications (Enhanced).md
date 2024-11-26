@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>About Notifications (Enhanced)</h1>
-<p></p><ol>
+<hr><ol>
     <li>You will receive Notifications when:
       <ul>
         <li>Assignments are due in a day</li>
