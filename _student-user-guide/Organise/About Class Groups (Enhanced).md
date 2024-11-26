@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="about-class-groups">About Class Groups (Enhanced)</h1>
+<hr>
 <p><strong>Important</strong>: From Release 2 (Nov 2024), Class Groups that are older than four years will be automatically archived and can no longer be accessed.</p>
 <p>There are two types of Class Groups in SLS:</p>
 <ol>
