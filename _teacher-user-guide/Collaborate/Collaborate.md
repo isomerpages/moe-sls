@@ -20,7 +20,7 @@ variant: markdown
   </ul>
 </details>
 <br>
-<img alt="Collaborate" style="width: 80%;" src="/images/2Teacher/Flow-Collaborate2.png">
+<img alt="Collaborate" style="width: 50%;" src="/images/2Teacher/Flow_Collaborate3.png">
 <details>
  <summary><h4>B. How to create Team Activities?</h4></summary>
  <ul>
