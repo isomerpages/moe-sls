@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(A3) Attempt Self-Study Resources</h1>
+<hr>
 <p>You can attempt Self-Study Resources from 3 locations:</p>
 <ol>
 <li>MOE Library</li>
