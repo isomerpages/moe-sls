@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 third_nav_title: Track Progress
 ---
 <h1>(A2,5) View ALS Learning Progress</h1>
+<hr>
 <ol>
 	<li>Select ALS under the Self-Study menu bar from the Learning Progress page. For more information on how to access the Learning Progress page, refer to points 1 to 4 from <a target="_blank" href="/student-user-guide/track-progress/access-learning-progress/">here</a>.
 	<img alt="View ALS Learning Progress" src="/images/1Student/SS_View_LP1.jpg" style="width: 100%;"></li>
