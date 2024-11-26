@@ -6,7 +6,7 @@ third_nav_title: Customise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="change-password">(A1,v) Change Password</h1>
+<h1 id="change-password">(A1,v) Change Password</h1><hr>
 <ol>
 <li>Open the right menu and click <strong>Edit Profile</strong>.</li>
 <li><p>On the Profile page, select <strong>Change Password</strong> under Account Settings.</p>
