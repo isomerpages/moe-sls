@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h1 id="attempt-google-attached-files">(A2,12) Attempt Google-Attached Files</h1><hr>
 <p>SLS is now able to connect with the Google Suite of Tools. Students are encouraged to <a target="_blank" href="/student-user-guide/customise/manage-linked-account/">link their iCON 2.0 or Google accounts with SLS</a>.</p>
-<h3 id="open-edit-google-attached-files">Open/Edit Google-Attached Files</h3>
+<h2 id="open-edit-google-attached-files">Open/Edit Google-Attached Files</h2>
 <hr>
 <ol>
 <li><p>If your teacher has attached Google Files to the pre-populated student answer for you to access/attempt, you will be able to access the file by clicking on the <strong>Open in New Tab</strong> or <strong>Edit</strong> button. </p>
@@ -25,7 +25,7 @@ variant: markdown
 <p>  <img alt="Attempt Google-Attached Files" style="width: 50%;" src="/images/1Student/As-Google3.png"></p>
 </li>
 </ol>
-<h3 id="open-edit-teacher-comments-">Open/Edit Teacher Comments</h3>
+<h2 id="open-edit-teacher-comments-">Open/Edit Teacher Comments</h2>
 <hr>
 <ol>
 <li>After your teacher has given feedback on the your work, you can edit a copy of your teacher’s comments under the Teacher Comments tab to do corrections. </li>
