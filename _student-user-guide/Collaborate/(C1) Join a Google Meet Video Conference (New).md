@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Collaborate
 ---
-<h1><strong>(C1)&nbsp;Join a Google Meet Video Conference (New)</strong></h1>
+<h1>(C1)&nbsp;Join a Google Meet Video Conference (New)</h1><hr>
 <p>Students can join a Google Meet video conference within their Assignments and Class Groups for synchronous lessons, discussions, or consultations.</p>
 <h2>Joining from Class Groups</h2>
 <hr>
