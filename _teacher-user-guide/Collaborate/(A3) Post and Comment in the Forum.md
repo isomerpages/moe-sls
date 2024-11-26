@@ -37,9 +37,9 @@ variant: markdown
 <li><p>From the View Post subpage, click <strong>Add</strong> to enter comments.</p>
 	<p><u>Note</u>: Comments can contain mathematical or chemical formulae, emoticons, drawings, file uploads and audio recordings.</p>
 </li>
-<img alt="Post and Comment in the Forum" style="width: 80%;" src="/images/2Teacher/C_Postforum.png">
 <li><p>If you wish to notify students of the comment, select the&nbsp;<strong>Notify student(s)</strong> checkbox.</p>
 </li>
+<img alt="Post and Comment in the Forum" style="width: 50%;" src="/images/2Teacher/C_Postforum.png">	
 <li><p>Click <strong>Post</strong> to proceed and <strong>X</strong> to close the subpage.</p>
 </li>
 <li>To edit or delete a comment, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select either <strong>Edit</strong> or <strong>Delete</strong>.</li>
