@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="-1b-add-notes-to-images">(B1,2) Add Notes to Images</h1>
+<hr>
 <h2 id="-add-notes-to-images-">Add Notes to Images</h2>
 <hr>
 <p>When you are working on an assignment or a Self-Study Resource, you can add annotations to images within each Activity for future reference. These notes can be used to consolidate your learning. For example, you can summarise the contents of the image in point form.</p>
