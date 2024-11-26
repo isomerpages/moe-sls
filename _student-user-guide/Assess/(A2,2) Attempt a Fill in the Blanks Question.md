@@ -13,14 +13,14 @@ variant: markdown
 <li><p>There are three types of Fill-in-the-Blanks Questions:</p>
 <ol style="list-style-type: lower-alpha;">
 	<li><p><strong>Text Input</strong>: You will type your answer in the blank.</p>
-<p><img style="width: 80%;" src="/images/1Student/AS_FITB1.png"></p>
+<p><img alt="Attempt a Fill-in-the-Blanks Question" style="width: 80%;" src="/images/1Student/AS_FITB1.png"></p>
 </li>
 <li><p><b>Helping Words (NEW)</b>: You will choose the correct answer for the blank from a drop-down list.</p>
 </li>
 	<u>Note</u>: Some blanks might have the same answer, duplicate options (if any) will only be shown once.
-<p><img style="width: 80%;" src="/images/1Student/AS_FITB2.png"></p>
+<p><img alt="Attempt a Fill-in-the-Blanks Question" style="width: 80%;" src="/images/1Student/AS_FITB2.png"></p>
 	<li><b>Multiple Options (NEW)</b>: You will choose the correct answer for the blank from a drop-down list.</li>
-	<p><img style="width: 80%;" src="/images/1Student/AS_FITB3.png"></p>
+	<p><img alt="Attempt a Fill-in-the-Blanks Question" style="width: 80%;" src="/images/1Student/AS_FITB3.png"></p>
 </ol>
 </li>
 	<li>In some questions, a hint may be provided by your teacher. Click&nbsp;<b>Hint 1</b>&nbsp;to view it.</li>
