@@ -19,14 +19,10 @@ image: /images/FaviconLight.png
 		</ul>
 		</li>
 <li>Review the errors detected by LangFA-EL which are reflected on the annotation cards. To view more details of the error, click on the annotation cards.</li>
-				<img alt="About Language Feedback Assistant for English" src="/images/1Student/AS_SAFA1.png" style="width: 100%;">
-		
+				<img alt="About Language Feedback Assistant for English" src="/images/1Student/AS_SAFA1.png" style="width: 100%;">		
 		<li>If ShortAnsFA was enabled as well, you may also receive content-related feedback and suggested marks. Click <strong>Teacher Comments</strong> to review your feedback and marks. </li>
-				<img alt="About Language Feedback Assistant for English" src="/images/1Student/AS_SAFA2.png" style="width: 100%;">
-		
+				<img alt="About Language Feedback Assistant for English" src="/images/1Student/AS_SAFA2.png" style="width: 100%;">		
 		<li>You may also receive feedback based on a set of rubrics related to the content and/or other language-related aspects of your response.</li>
-				<img alt="About Language Feedback Assistant for English" src="/images/1Student/AS_SAFA3.png" style="width: 100%;">
-		
-	<p>As LangFA-EL and ShortAnsFA uses generative AI, its response is probabilistic in nature and this results in it being inaccurate at times. You are encouraged to discuss the&nbsp;feedback and marks with your teacher if you need further explanation.&nbsp;Bear in mind that LangFA-EL and ShortAnsFA may have also missed some errors. &nbsp;&nbsp;If the feedback provided in inappropriate, you may write in to <a href="mailto:helpdesk@sls.ufinity.com">SLS Helpdesk</a> to report the issue.
-	<img alt="(D2) About Language Feedback Assistant for English (LangFA-EL)" src="/images/1Student/as_aboutlangfa_el03.png" style="width: 100%;">
+				<img alt="About Language Feedback Assistant for English" src="/images/1Student/AS_SAFA3.jpg" style="width: 50%;">
+			<p>As LangFA-EL and ShortAnsFA uses generative AI, its response is probabilistic in nature and this results in it being inaccurate at times. You are encouraged to discuss the&nbsp;feedback and marks with your teacher if you need further explanation.&nbsp;Bear in mind that LangFA-EL and ShortAnsFA may have also missed some errors. &nbsp;&nbsp;If the feedback provided in inappropriate, you may write in to <a href="mailto:helpdesk@sls.ufinity.com">SLS Helpdesk</a> to report the issue.
 		</p></ol>
