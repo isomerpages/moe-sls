@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(A1) View Notifications (New)</h1>
+<hr>
 <h2>View Notifications</h2>
 <hr>
 <ol>
