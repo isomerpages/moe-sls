@@ -28,7 +28,7 @@ variant: markdown
 <li>In an Auto-Graded Quiz and a Teacher-Marked Quiz, you can only submit your response after attempting the last question.</li>
 <li>For Multiple-Choice, Multiple-Response, Fill-in-the-Blanks, Click-and-Drop, and Error-Editing Questions, once you submit your response, your answer will be automatically graded by the system and you will be able to see the correct answer, along with any feedback that your teacher may have provided.</li>
 </ol>
-<img style="width: 50%;" src="/images/1Student/As-MPQ.png">
+<img alt="Attempt a Multi-Part Question" style="width: 50%;" src="/images/1Student/As-MPQ.png">
 <u>Note</u>: 
 <ul>
 	<li>For draft answers, you will be able to see the name of the student or teacher who saved the draft and the time it was saved.</li>
