@@ -4,11 +4,12 @@ permalink: /student-user-guide/assess/insert-and-edit-links/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1 id="insert-edit-links">(A3,7) Insert &amp; Edit Links</h1>
+<h1 id="insert-edit-links">(A3,7) Insert &amp; Edit Links</h1><hr>
 <ol>
 <li><p>In the Rich Text Editor, choose the <strong>Hyperlink</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Link.svg">. Alternatively, highlight the text and select the <strong>Hyperlink</strong> icon.</p>
-<img style="width: 50%" src="/images/1Student/As-Hyperlink.png">
+<img alt="Insert &amp; Edit Links" style="width: 50%" src="/images/1Student/As-Hyperlink.png">
 </li>
 <li><p>Key in the URL for the website that you would like the text to link to.</p>
 </li>
