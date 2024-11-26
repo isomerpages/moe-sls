@@ -30,7 +30,7 @@ variant: markdown
 <li>You can view responses column by column by clicking on the respective column tabs.</li>
 <li>You can also view responses grouped by student by clicking the <strong>View All</strong> tab.</li>
 <li>If you see an <strong>Eye</strong> icon beside your name in the Interactive Thinking Tool card, it means that your teacher has hidden the names of all students. You will be able to see only your name in the Interaction Board. </li>
-<p><img src="/images/1Student/As-ITT.png"></p>
+<p><img style="width: 100%;" alt="Attempt an Interactive Thinking Tool Component" src="/images/1Student/As-ITT.png"></p>
 <li>In each column, you can click the <strong>Filter</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg"> to view the posts that have been bookmarked by your teacher.</li>
 </ol>
 <h2 id="-view-comments-">View Comments</h2>
@@ -47,7 +47,7 @@ variant: markdown
 </ul>
 </li>
 <li><p>After typing in your comment, click <strong>Post</strong>.</p>
-<p> <img alt="Attempt an Interactive Thinking Tool Component" src="/images/1Student/As-ITTComments.png"></p>
+<p> <img style="width: 100%;" alt="Attempt an Interactive Thinking Tool Component" src="/images/1Student/As-ITTComments.png"></p>
 </li>
 <li><p>You can edit/delete your response by clicking on <strong>Overflow</strong> (<strong>3 dot</strong> icon).</p>
 </li>
