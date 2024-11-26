@@ -10,32 +10,32 @@ variant: markdown
 <p>The Feedback Assistant - Mathematics (FA-Math) is an engine that offers step-by-step feedback to students on their answers.</p>
 <ol>
 <li>Your teacher may add the tool as a Prepopulated Student Answer space in a Free-Response Question. You will then be informed on the feedback provided for the question.</li>
-<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as-AboutFeedbackAssistantMathematics1.png" style="width: 100%;">
+<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as_AboutFeedbackAssistantMathematics1.png" style="width: 100%;">
 <li>If enabled, you will be able to access hints when attempting the question.</li>
-<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as-AboutFeedbackAssistantMathematics2.png" style="width: 100%;">
+<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as_AboutFeedbackAssistantMathematics2.png" style="width: 100%;">
 	<br>
-<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as-AboutFeedbackAssistantMathematics3.png" style="width: 100%;">
+<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as_AboutFeedbackAssistantMathematics3.png" style="width: 100%;">
 	<li>You may choose to type or write your response. Click <strong>Handwriting</strong> if you prefer to handwrite your working on your touch device. Click <strong>Keyboard</strong> to switch to typing using the formula editor.</li>
-<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as-AboutFeedbackAssistantMathematics4.png" style="width: 100%;">
+<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as_AboutFeedbackAssistantMathematics4.png" style="width: 100%;">
 	<br>
-<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as-AboutFeedbackAssistantMathematics5.png" style="width: 100%;">
+<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as_AboutFeedbackAssistantMathematics5.png" style="width: 100%;">
 <li>Click <strong>Check</strong> to review your work and receive immediate and specific feedback.</li>
 <li>Once the work has been completed, you may submit your response to the question, by clicking <strong>Submit</strong>.</li>
-<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as-AboutFeedbackAssistantMathematics6.png" style="width: 100%;">
+<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as_AboutFeedbackAssistantMathematics6.png" style="width: 50%;">
 <li>
 <p>You will be able to present your solutions as models instead of algebraic equations, if your teacher has enabled the Bar Model method. Click on a model to select it.</p>
-<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as-AboutFeedbackAssistantMathematics7.png" style="width: 100%;">
+<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as_AboutFeedbackAssistantMathematics7.png" style="width: 50%;">
 </li>
 <li>
 <p>Label your model and type your calculations in the space provided.</p>
 </li>
-<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as-AboutFeedbackAssistantMathematics8.png" style="width: 100%;">
+<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as_AboutFeedbackAssistantMathematics8.png" style="width: 50%;">
 <li>
 <p>Click <strong>Check</strong> to review your work and receive immediate and specific feedback.</p>
 </li>
-<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as-AboutFeedbackAssistantMathematics9.png" style="width: 100%;">
+<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as_AboutFeedbackAssistantMathematics9.png" style="width: 50%;">
 <li>
 <p>Click <strong>Submit</strong> once you have completed your work.</p>
 </li>
-<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as-AboutFeedbackAssistantMathematics10.png" style="width: 100%;">
+<img alt="About Feedback Assistant Mathematics" src="/images/1Student/as_AboutFeedbackAssistantMathematics10.png" style="width: 50%;">
 	</ol>
