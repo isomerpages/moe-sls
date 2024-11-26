@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A3,10) Text-to-Speech (Enhanced)</h1><hr>
+<h1>(A3,10) Text-to-Speech</h1><hr>
 <p><u>Important</u>: From R1, Text-to-Speech is available in English, Chinese, Malay and Tamil.</p>
 <ol>
 <li>
