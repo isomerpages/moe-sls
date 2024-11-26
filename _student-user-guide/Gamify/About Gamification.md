@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="about-gamification-to-include-leaderboard-">About Gamification</h1>
+<hr>
 <p>Gamification allows game-based elements to be introduced in your Module. The game-based elements introduced include Experience Points (XP) and Levels, Game Stories, and Achievements. </p>
 <p>You can earn bonus XP or receive lesser XP as you attempt the Module based on XP modifiers set by your teacher.</p>
 <h3 id="-glossary-of-terms-">Glossary of Terms</h3>
