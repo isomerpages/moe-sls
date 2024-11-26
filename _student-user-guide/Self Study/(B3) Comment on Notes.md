@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="-3-comment-on-notes">(B3) Comment on Notes</h1>
+<hr>
 <h2 id="leave-comments-on-notes">Leave Comments on Notes</h2>
 <hr>
 <ol>
