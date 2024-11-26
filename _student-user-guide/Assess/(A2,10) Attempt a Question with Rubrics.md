@@ -13,4 +13,4 @@ variant: markdown
 <li>In a Free-Response or Audio-Response Question, click the <strong>Marks Range</strong> to expand the rubrics.</li>
 <li>You will then be able to see the assessment criteria and attainment levels. These can be used to guide you in answering the questions.</li>
 </ol>
-<img style="width: 50%;" src="/images/1Student/As-Rubrics.png">
+<img alt="Attempt a Question with Rubrics" style="width: 50%;" src="/images/1Student/As-Rubrics.png">
