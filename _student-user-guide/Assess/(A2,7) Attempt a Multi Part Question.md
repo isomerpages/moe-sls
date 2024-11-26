@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="attempt-a-multi-part-question">(A2,7) Attempt a Multi-Part Question</h1>
+<h1 id="attempt-a-multi-part-question">(A2,7) Attempt a Multi-Part Question</h1><hr>
 <h2 id="-multi-part-question-">Multi-Part Question</h2>
 <hr>
 <ol>
