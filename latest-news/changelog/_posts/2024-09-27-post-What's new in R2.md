@@ -7,8 +7,8 @@ description: ""
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>What's new in R2</h1>
-<p>This changelog details the updates and new features that will be introduced in the upcoming SLS Release 2, scheduled for release on November 27, 2024. Please note that SLS will be unavailable from 26 November 00:00 to 27 November 23:00 to facilitate this release.</p>
+<h1>What's new in R2 | With links to User Guide</h1>
+<p>This changelog details the updates and new features that will be introduced in the upcoming SLS Release 2, scheduled for release on November 29, 2024. Please note that SLS will be unavailable from 28 November 00:00 to 29 November 23:00 to facilitate this release.</p>
 <h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for All Users</h2>
 <ol>
 <li><details><summary><h4>Search</h4></summary>
