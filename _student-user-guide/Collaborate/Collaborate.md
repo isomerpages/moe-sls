@@ -29,7 +29,7 @@ variant: markdown
     <li><a target="_blank" href="/student-user-guide/collaborate/edit-a-poll/">(B3,2) Edit a Poll</a></li>
   </ul>
   </details>
-<img style="width: 100%;" src="/images/1Student/Flow_Collaborate3.png">
+<img style="width: 50%;" src="/images/1Student/Flow_Collaborate3.png">
 <details><summary><h4>C. How to meet&nbsp;with&nbsp;my&nbsp;peers?</h4></summary>
  <ul>
     <li><a target="_blank" href="/student-user-guide/collaborate/join-a-google-meet-video-conference/">(C1) Join a Google Meet Video Conference</a></li>
