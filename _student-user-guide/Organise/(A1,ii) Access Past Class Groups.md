@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(A1,ii) Access Past Class Groups</h1>
+<hr>
   <ol>
     <li>A Class Group will be placed in the <strong>Past</strong> tab when at least one of the following conditions has been fulfilled:</li>
     <ul>
