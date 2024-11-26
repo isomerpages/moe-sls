@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 third_nav_title: Track Progress
 ---
 <h1>(A2,4) View by Multiple Class Groups (New)</h1>
+<hr>
 <p>Students can select multiple class groups to view their learning progress
 for assignments and self-study modules, Adaptive Learning System (ALS),
 and Error Tracker.</p>
