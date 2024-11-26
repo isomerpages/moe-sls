@@ -9,7 +9,7 @@ variant: markdown
 <h1 id="attempt-a-poll">(A2,9) Attempt a Poll</h1><hr>
 <ol>
 <li><p>You may choose just one response if you see circle buttons and one or more responses if there are checkboxes.</p>
-<p><img style="width: 50%;" src="/images/1Student/As-Poll.png"></p>
+<p><img alt="Attempt a Poll" style="width: 50%;" src="/images/1Student/As-Poll.png"></p>
 </li>
 <li><p>To submit your response, click <strong>Vote</strong>.</p>
 </li>
@@ -18,4 +18,4 @@ variant: markdown
 	<p> <u>Note</u>:  If you can only see your response, your teacher may have hidden the poll results.</p>
 </li>
 </ol>
-<img style="width: 50%;" src="/images/1Student/As-Poll1.png">
+<img alt="Attempt a Poll" style="width: 50%;" src="/images/1Student/As-Poll1.png">
