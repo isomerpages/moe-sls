@@ -20,6 +20,7 @@ variant: markdown
 <details><summary><h4>B. How to make Notes and Annotations?</h4></summary>
 <ul><li><a target="_blank" href="/student-user-guide/self-study/annotate-text-within-activities/">(B1,1) Annotate Text within Activities</a></li>
 <li><a target="_blank" href="/student-user-guide/self-study/add-notes-to-images/">(B1,2) Add Notes to Images</a></li>
+<li><a target="_blank" href="/student-user-guide/self-study/add-notes-to-audio-or-video/">(B1,3) Add Notes to Audio or Video (New)</a></li>
 <li><a target="_blank" href="/student-user-guide/self-study/view-notes/">(B2) View Notes</a></li>
 <li><a target="_blank" href="/student-user-guide/self-study/comment-on-notes/">(B3) Comment on Notes</a></li>
 </ul>	
