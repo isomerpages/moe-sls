@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="access-adaptive-learning-system-als-">(A1) Access Adaptive Learning System (ALS) (Enhanced)</h1>
+<hr>
 <ol>
 <li>To access ALS, open the left menu from the header at the homepage and click <strong>Resources</strong>, followed by <strong>Adaptive Learning</strong>.</li>
 <li>Access to Adaptive Learning is based on level and subject. Students can access ALS content below their current level of learning and one level above their current level of learning. (If you are in Primary 5, you will be able to access content tagged to Primary 6, together with content from Primary 1 to 4). 
