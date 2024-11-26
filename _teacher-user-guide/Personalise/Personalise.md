@@ -14,6 +14,7 @@ variant: markdown
 <summary><h4>A. How to personalise Modules for students?</h4></summary>
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/personalise/set-optional-activities-and-quizzes/">(A1) Set Optional Activities &amp; Quizzes</a></li>
+<li><a target="_blank" href="/teacher-user-guide/personalise/recommend-content-to-students-on-adaptive-learning-system/">(A2) Recommend Content to Students on Adaptive Learning System</a></li>
 </ul>
 </details>
 <details>
