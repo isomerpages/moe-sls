@@ -20,4 +20,4 @@ variant: markdown
 <li><p>You may <strong>Edit</strong> or <strong>Delete</strong> your comment by selecting the options in the <strong>Overflow</strong> (<strong>3-dot</strong> icon).</p>
 </li>
 </ol>
-<img src="/images/1Student/CO-CommentForum1.png">
+<img alt="Comment in the Forum" style="width: 100%;" src="/images/1Student/CO-CommentForum1.png">
