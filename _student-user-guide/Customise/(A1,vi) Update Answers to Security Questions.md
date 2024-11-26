@@ -6,7 +6,7 @@ third_nav_title: Customise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="update-answers-to-security-questions">(A1,vi) Update Answers to Security Questions</h1>
+<h1 id="update-answers-to-security-questions">(A1,vi) Update Answers to Security Questions</h1><hr>
 <p>Your answers to the security questions will be used to verify your identity and reset your password.</p>
 <p>You should choose answers that are easy to remember and change them regularly to ensure the security of your account.</p>
 <ol>
