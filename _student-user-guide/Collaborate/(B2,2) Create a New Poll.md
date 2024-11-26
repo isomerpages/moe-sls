@@ -10,7 +10,7 @@ variant: markdown
 <ol>
 <li>Students can create a new poll if teachers have switched on the permission setting.</li>
 <li><p>On the Forum tab, click <strong>Create New Poll</strong>.</p>
-<p><img src="/images/1Student/CO-CreatePoll1.png"></p>
+<p><img alt="Create a New Poll" style="width: 100%;" src="/images/1Student/CO-CreatePoll1.png"></p>
 </li>
 <li><p>On the <strong>Create Poll</strong> subpage, fill in the following details:</p>
 <ol style="list-style-type: lower-alpha;">
