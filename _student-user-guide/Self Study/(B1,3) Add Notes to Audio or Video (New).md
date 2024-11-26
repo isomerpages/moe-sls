@@ -6,3 +6,5 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Self Study
 ---
+<h1>(B1,3) Add Notes to Audio or Video (New)</h1>
+<hr>
