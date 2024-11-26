@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(B3) Delete Resources</h1>
+<hr>
 <p>Resources (Modules or Folders) found under My Modules tab can be deleted if you no longer need them.</p>
 		
 <h2>Move Resources to Trash</h2>
