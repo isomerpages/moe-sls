@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: tiptap
 ---
 <h1>About Adaptive Learning System (ALS)</h1>
+<hr>
 <p>The Adaptive Learning System (ALS) provides a personalised learning pathway
 for each student, recommending learning resources and practice questions
 and offering immediate feedback based on his/her readiness. Students can
