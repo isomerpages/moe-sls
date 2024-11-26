@@ -47,7 +47,7 @@ variant: markdown
 </ul>
 </li>
 <li><p>After typing in your comment, click <strong>Post</strong>.</p>
-<p> <img src="/images/1Student/As-ITTComments.png"></p>
+<p> <img alt="Attempt an Interactive Thinking Tool Component" src="/images/1Student/As-ITTComments.png"></p>
 </li>
 <li><p>You can edit/delete your response by clicking on <strong>Overflow</strong> (<strong>3 dot</strong> icon).</p>
 </li>
