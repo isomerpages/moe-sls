@@ -9,8 +9,9 @@ variant: markdown
 <h1 id="attempt-an-audio-response-question">(A2,5) Attempt an Audio-Response Question</h1><hr>
 <h2 id="-audio-response-question-">Audio-Response Question</h2>
 <hr>
-<p><u>Note</u>: </p><li>Click <a target="_blank" href="/student-user-guide/assess/speech-evaluation/">here</a> if Speech Evaluation has been enabled by your teacher.</li>
-<li>To use the Recording feature on iOS devices such as iPhones and iPads, make sure your device is updated to iOS/iPadOS 14.3 and your microphone setting in Safari is switched to "allow" mode.</li><p></p>
+<p><u>Important</u>: </p><li>To use the Recording feature on iOS devices such as iPhones and iPads, make sure your device is updated to iOS/iPadOS 14.3 and your microphone setting in Safari is switched to "allow" mode.</li>
+<li>Click <a target="_blank" href="/student-user-guide/assess/speech-evaluation/">here</a> to find out more about Speech Evaluation.</li>
+<p></p>
 <ol>
 <li><p>For Audio-Response questions, you would need to allow the browser to access your microphone to start recording. Click the text box followed by the <strong>Recording</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Audio24.svg"> at the top left to begin attempting the Audio Response question.</p>
 	<p> <u>Note</u>: Each recording can be up to a maximum duration of 10 minutes.</p>
