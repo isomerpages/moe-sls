@@ -4,8 +4,9 @@ permalink: /student-user-guide/assess/insert-tables/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1 id="insert-tables">(A3,2) Insert Tables</h1>
+<h1 id="insert-tables">(A3,2) Insert Tables</h1><hr>
 <h2 id="-insert-table-">Insert Table</h2>
 <hr>
 <ol>
