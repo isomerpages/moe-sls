@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-3a-comment-in-the-forum">(B3,1) Comment in the Forum</h1>
+<h1 id="-3a-comment-in-the-forum">(B3,1) Comment in the Forum</h1><hr>
 <h2 id="commenting-on-a-post">Commenting on a Post</h2>
 <hr>
 <ol>
