@@ -10,7 +10,7 @@ variant: markdown
 <ol>
 <li>To view a Shared Assignment, click the <strong>User Avatar</strong> icon followed by the name of your peer.</li>
 <li><p>When you are viewing your peer's assignment, your User Avatar will show the Viewer Avatar icon.</p>
-<p><img src="/images/1Student/CO-InteractShared1.png"></p>
+<p><img alt="Interact in a Shared Assignment" src="/images/1Student/CO-InteractShared1.png"></p>
 </li>
 <li><p>If commenting is turned on, you will be able to comment on any Notes or Annotations cards in your peer's Assignment and vice versa.</p>
 </li>
@@ -23,4 +23,4 @@ variant: markdown
 </li>
 <li>To turn commenting on or off, open <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Annotation card and click <strong>Comment On / Off</strong>.</li>
 </ol>
-<img style="width: 30%;" src="/images/1Student/CO-InteractShared2.png">
+<img alt="Interact in a Shared Assignment" style="width: 30%;" src="/images/1Student/CO-InteractShared2.png">
