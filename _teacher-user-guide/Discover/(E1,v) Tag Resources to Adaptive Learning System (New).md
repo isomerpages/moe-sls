@@ -6,39 +6,48 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Discover
 ---
-<h1>(E1, v) Tag Resources to Adaptive Learning System</h1>
-<ol><br>ALS has been enhanced to allow teachers to better customise ALS according to the needs of their students. Teachers can tag their own content and assessment items to ALS content maps and allow these to be recommended by ALS for their students, in addition to existing content items developed by CPDD.<br>
+<h1>(E1, v) Tag Resources to Adaptive Learning System (New)</h1>
+<hr>
+<p>ALS has been enhanced to allow teachers to better customise ALS according to the needs of their students. Teachers can tag their own content and assessment items to ALS content maps and allow these to be recommended by ALS for their students, in addition to existing content items developed by CPDD. </p>
 <h2>Overview of how to add resources to ALS</h2>
 <hr><ol>
-<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALSz.png">
+<img alt="Tag Resources to Adaptive Learning System" style="width: 50%;" src="/images/2Teacher/D_Tag_ALSz.png">
 <u>Note</u>:
 <p>Before tagging content to ALS, departments are encouraged to create level/ school-wide Student Groups to alleviate the need for teachers to upload resources individually for each class. To learn how to create level/ school-wide Student Groups, click <a target="_blank" href="/teacher-user-guide/organise/create-class-groups/">here</a>.</p>
 <h2>Add school-based resources to ALS</h2>
 <hr><ol>
 	<li>On the homepage, click Create New/Edit Module. Click Module.
-		<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS1.png"></li>
+		<img alt="Tag Resources to Adaptive Learning System" style="width: 50%;" src="/images/2Teacher/D_Tag_ALS1.png"></li>
 	<li>Click on the Setting icon <img alt="Setting" style="width:1.5rem; display: inline;" src="/images/Icons/setting.svg"> on the Module card.
-		<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS2.png"></li>
+		<img alt="Tag Resources to Adaptive Learning System" style="width: 50%;" src="/images/2Teacher/D_Tag_ALS2.png"></li>
 	<li>Click <strong>Add Module Tag</strong>.</li>
 	<li>Select the Subject and Level. From the Content Map dropdown list, select the content map with ‘(ALS)’ indicated. Select the checkboxes with the orange Learning Outcome <img alt="Iearningoutcome" style="width:1.5rem; display: inline;" src="/images/Icons/learningoutcome.svg"> next to the intended learning outcomes of the subtopic.
 <br><u>Note</u>:
 <ul><li>If there is no content map with ‘(ALS)’ indicated, the selected subject and level is currently unavailable on ALS.</li> 
 <li>Only learning outcomes with the orange Learning Outcome <img alt="Iearningoutcome" style="width:1.5rem; display: inline;" src="/images/Icons/learningoutcome.svg"> are available for recommendation in ALS.
 	</li><li>Select the learning outcomes which correspond to the subtopic.</li></ul>
-	<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS4.png"></li>
+	<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 50%;" src="/images/2Teacher/D_Tag_ALS4.png"></li>
 	<li>Click the Setting icon <img alt="setting" style="width:1.5rem; display: inline;" src="/images/Icons/setting.svg"> on the Section card.
-		<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS5.png"></li>
+		<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 50%;" src="/images/2Teacher/D_Tag_ALS5.png"></li>
 	<li>Click <strong>Add Section Tag</strong>.
-		<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS6.png"></li>
+		<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 50%;" src="/images/2Teacher/D_Tag_ALS6.png"></li>
 	<li>Select the Subject and Level. From the Content Map dropdown list, select the content map with ‘(ALS)’ indicated. Select the checkbox with the orange Learning Outcome icon <img alt="learningoutcome" style="width:1.5rem; display: inline;" src="/images/Icons/learningoutcome.svg"> next to 1 intended learning outcome.
 <br><u>Note</u>:
 		<ul>
 		<li>If there is no content map with ‘(ALS)’ indicated, the selected subject and level is currently unavailable on ALS.</li>
 		<li>Only learning outcomes with the orange Learning Outcome icon <img alt="learningoutcome" style="width:1.5rem; display: inline;" src="/images/Icons/learningoutcome.svg"> are available for recommendation in ALS.</li>
-		<li>Select only 1 learning outcome for each section. If more than 1 learning outcomes are selected, the student may experience the same content being recommended across different learning outcomes.</li></ul>
-		<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS7.png">
+		<li>Select the learning outcomes which correspond to the subtopic.</li></ul>
+		<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_tagresources.png">
 	</li>
-	<li>Click the <strong>Save</strong> icon <img alt="save" style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to proceed.</li>
+	<li>Click the Setting icon  on the Section card.
+	</li>
+	<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_tagresources1.png">
+	<li>Click <b>Add Section Tag</b>.
+	</li>
+	<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_tagresources2.png">
+
+
+
 	<li>Create new activities in the Section by clicking <strong>Add New</strong> and selecting Activity.
 		<br><u>Note</u>:
 	<ul>
@@ -85,4 +94,4 @@ third_nav_title: Discover
 </li>
 	<li>Click to enter the resource. Click the Resume icon.<img alt="Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS22.png"></li>
 	<li>Click <strong>OK</strong>. Resources tagged to ALS Content Map will now be available for ALS recommendations.<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS23.png"></li>
-</ol></ol></ol>
+</ol></ol>
