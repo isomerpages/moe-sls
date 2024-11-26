@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Author
 ---
-<h1>Use Authoring Copilot to create New Sections (Enhanced)</h1>
+<h1>Use Authoring Copilot to create New Sections (New)</h1>
 <hr>
 <ol>
 <u>Important</u>:
