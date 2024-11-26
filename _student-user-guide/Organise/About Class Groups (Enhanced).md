@@ -21,7 +21,7 @@ variant: markdown
 <li><a target="_blank" href="/student-user-guide/track-progress/access-learning-progress/">Class Learning Progress</a> (If the Class Group is tagged to a Subject and Level)</li>
 <li><a target="_blank" href="/student-user-guide/notify/view-notifications/">Notifications</a></li>
 <li><a target="_blank" href="/student-user-guide/plan/access-planner/">Planner</a></li>
-<li>Assignments assigned to the Class Group</li>
+<li><a target="_blank" href="/student-user-guide/assign/access-assignments/]">Assignments assigned to the Class Group</a></li>
 <li>Class Group Resources</li>
 <li><a target="_blank" href="/student-user-guide/collaborate/access-the-forum/">Forum</a></li>
 	<li><a target="_blank" href="/student-user-guide/discover/access-app-library/">Apps that can be installed</a></li></ul>
