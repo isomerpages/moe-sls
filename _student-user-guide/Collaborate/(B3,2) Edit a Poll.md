@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-3b-edit-a-poll">(B3,2) Edit a Poll</h1>
+<h1 id="-3b-edit-a-poll">(B3,2) Edit a Poll</h1><hr>
 <ol>
 <li><p>You may edit a poll created by you under the Forum tab of the Class Group. </p>
 </li>
