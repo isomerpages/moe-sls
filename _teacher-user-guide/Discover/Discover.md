@@ -47,6 +47,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your Modules.
 	<li><a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">(E1,iii) Leave Reviews</a></li>
 	<li><a target="_blank" href="/teacher-user-guide/discover/about-adaptive-learning-system/">(E1,iv) About Adaptive Learning System (ALS) (Enhanced)</a></li>
 	<li><a target="_blank" href="/teacher-user-guide/discover/tag-resources-to-adaptive-learning-system/">(E1,v) Tag Resources to Adaptive Learning System (New)</a></li>
+	<li><a target="_blank" href="/teacher-user-guide/discover/link-activities-in-als-content/">(E1,vi) Link Activities in ALS Content (New)</a></li>
 </ul>
 </details>
 <details>
