@@ -107,7 +107,7 @@ variant: markdown
 </code></pre>
     </li>
     <li>
-        <p>Download sample package <a target="_blank" href="https://go.gov.sg/qtisample1">here</a></p>
+        <p>Download sample package <a target="_blank" href="https://go.gov.sg/html1">here</a></p>
     </li>
     <li>In the Module Editor page, hover over Question in the Component Bar, select <strong>Free-Response</strong> followed by <strong>Interactive Response.</strong></li>
     <li>Upload the HTM5 ZIP file into SLS and select <strong>Upload</strong> to proceed.</li>
@@ -123,17 +123,17 @@ You may download the HTML5 ZIP files based on the scenarios to create FRQ with I
     <tr>
       <td>Send score only</td>
       <td>Involves only the score</td>
-      <td><a target="_blank" href="https://go.gov.sg/qtisample2">send-score.zip</a></td>
+      <td><a target="_blank" href="https://go.gov.sg/html2">send-score.zip</a></td>
     </tr>
     <tr>
       <td>Send score with grading rubric</td>
       <td>Involves rubrics and “Show and use rubric marks” is selected</td>
-      <td><a target="_blank" href="https://go.gov.sg/qtisample3">send-score-with-grading-rubrics-use-rubric-marks-selected.zip</a></td>
+      <td><a target="_blank" href="https://go.gov.sg/html3">send-score-with-grading-rubrics-use-rubric-marks-selected.zip</a></td>
     </tr>
     <tr>
       <td>Send score with grading rubric</td>
       <td>Involves rubrics and “Show and use rubric marks” is not selected</td>
-      <td><a target="_blank" href="https://go.gov.sg/qtisample4">send-score-with-grading-rubrics-use-rubric-marks-not-selected.zip</a></td>
+      <td><a target="_blank" href="https://go.gov.sg/html4">send-score-with-grading-rubrics-use-rubric-marks-not-selected.zip</a></td>
     </tr>
   </tbody>
 </table>
