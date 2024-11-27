@@ -12,9 +12,9 @@ variant: markdown
 <img alt="Author" style="width: 100%;" src="/images/2Teacher/Flow_Author.svg">
 <details><summary><h4>A. How to create Modules?</h4></summary>
 <ul>
-<li><a href="/teacher-user-guide/author/create-new-modules/" target="_blank">Create New Modules</a></li><li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" target="_blank">Use Authoring Copilot to create New Sections (New)</a></li>
-<li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/" target="_blank">Use Authoring Copilot to create New Activities &amp; Components (New)</a></li>
-<li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-quizzes/" target="_blank">Use Authoring Copilot to create New Quizzes (New)</a></li></ul>
+<li><a href="/teacher-user-guide/author/create-new-modules/" target="_blank">Create New Modules</a></li><li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" target="_blank">Use Authoring Copilot to create New Sections (Enhanced)</a></li>
+<li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/" target="_blank">Use Authoring Copilot to create New Activities &amp; Components (Enhanced)</a></li>
+<li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-quizzes/" target="_blank">Use Authoring Copilot to create New Quizzes (Enhanced)</a></li></ul>
 
 <p>A1. Activities and Templates</p>	
 <ul>
@@ -27,7 +27,7 @@ variant: markdown
 <p>A2. Add Components</p>	
 <ul>
 <li><a href="/teacher-user-guide/author/add-components/" target="_blank">(A2,1) Add Components</a></li>
-<li><a href="/teacher-user-guide/author/add-split-page-media/" target="_blank">(A2,2) Add Split-page Media</a></li>
+<li><a href="/teacher-user-guide/author/add-split-page-media/" target="_blank">(A2,2) Add Split-page Media (Enhanced)</a></li>
 <li><a href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/" target="_blank">(A2,3) Upload Question and Test Interoperability (QTI) Files</a></li>
 <li><a href="/teacher-user-guide/author/add-multiple-choice-questions/" target="_blank">(A2,4) Add Multiple-Choice Questions</a></li>
 <li><a href="/teacher-user-guide/author/add-fill-in-the-blanks-questions/" target="_blank">(A2,5) Add Fill-in-the-Blank Questions</a></li>
@@ -41,12 +41,12 @@ variant: markdown
 <li><a href="/teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/" target="_blank">(A2,13) Add Rubrics to Audio- and Free-Response Questions</a></li>	
 <li><a href="/teacher-user-guide/author/embed-youtube-videos/" target="_blank">(A2,14) Embed YouTube Videos</a></li>
 <li><a href="/teacher-user-guide/author/insert-media-objects/" target="_blank">(A2,15) Insert Media Objects</a></li>
-<li><a href="/teacher-user-guide/author/insert-transcript-for-video-audio" target="_blank">(A2,16) Insert Transcript for Video &amp; Audio (New)</a></li>
+<li><a href="/teacher-user-guide/author/insert-transcript-for-video-audio" target="_blank">(A2,16) Insert Transcript for Video &amp; Audio</a></li>
 </ul>
 <p>A3. Use Rich Text</p>	
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/author/about-rich-text-editor/">(A3,1) About Rich Text Editor</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/formatting-and-paragraphing/">(A3,2) Formatting &amp; Paragraphing</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/formatting-and-paragraphing/">(A3,2) Formatting &amp; Paragraphing (Enhanced)</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-chinese-or-tamil-text/">(A3,3) Insert Chinese or Tamil Text</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-mathematical-or-chemical-equations/">(A3,4) Insert Mathematical or Chemical Equations</a></li><li><a target="_blank" href="/teacher-user-guide/author/insert-tables/">(A3,5) Insert Tables</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-emoticons/">(A3,6) Insert Emoticons</a></li>
@@ -54,10 +54,10 @@ variant: markdown
 <li><a target="_blank" href="/teacher-user-guide/author/insert-external-links/">(A3,8) Insert External Links</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-links-to-sections/">(A3,9) Insert Links to Sections</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-tooltips/">(A3,10) Insert Tooltips</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/html5-content-development/">(A3,11) HTML5 Content Development</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/text-to-speech/">(A3,12) Text-to-Speech (TTS) (Enhanced)</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/speech-evaluation/">(A3,13) Speech Evaluation (Enhanced)</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/localisation-and-edictionary/">(A3,14) Localisation and E-Dictionary</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/html5-content-development/">(A3,11) HTML5 Content Development (Enhanced)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/text-to-speech/">(A3,12) Text-to-Speech (TTS)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/speech-evaluation/">(A3,13) Speech Evaluation</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/localisation-and-edictionary/">(A3,14) Localisation and E-Dictionary (Enhanced)</a></li>
 </ul>
 </details>
 
