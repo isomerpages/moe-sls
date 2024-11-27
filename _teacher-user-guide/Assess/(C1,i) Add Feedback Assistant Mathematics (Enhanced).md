@@ -25,7 +25,7 @@ variant: markdown
 <li><p>In the Create New Question subpage, check the box whether you would like to show hints and feedback while students attempt the question.</p></li>
 <img alt="(C1,i) Add Feedback Assistant - Mathematics (FA-Math)" src="/images/2Teacher/AS_FA_Math_Qn2.png" style="width: 100%;">
 	<li><p>Click <strong>Audience</strong> to select from a dropdown menu the level of your students. FA-Math would customise the hints and feedback based on the students’ level.</p></li><img alt="(C1,i) Add Feedback Assistant - Mathematics (FA-Math)" src="/images/2Teacher/AS_FA_Math_Qn3.png" style="width: 100%;">
-		<li><p>Select the question type that you would like to create using FA-Math. From June 2024 (R1), teachers can select the Bar Model method to allow students to present their solutions as models instead of algebraic equations.</p></li>
+		<li><p>Select the question type that you would like to create using FA-Math. Teachers can select the Bar Model method to allow students to present their solutions as models instead of algebraic equations.</p></li>
 	<img alt="(C1,i) Add Feedback Assistant - Mathematics (FA-Math)" src="/images/2Teacher/AS_FA_Math_Qn4.png" style="width: 100%;">
 	<li>When you are done, click <strong>Save</strong>.</li>
 	<li><p>From June 2024 (R1), students would be able to provide handwriting input(s) using the formula editor. This would increase the ease of use of FA-Math, especially for students who might not be so used to entering Math formulas and equations digitally. Click <a target="_blank" href="/student-user-guide/assess/about-mathematics-feedback-assistant/">here</a> to find out how students can utilise this function for FA-Math questions.</p>
