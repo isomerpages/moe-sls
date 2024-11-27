@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="customise-an-avatar">(A1,i) Customise an Avatar</h1>
+<hr>
 <p>A graphical representation of a user, also known as an Avatar, is used to represent you.</p>
 <ol>
 <li>Open the right menu and click <strong>Edit Profile</strong>.</li>

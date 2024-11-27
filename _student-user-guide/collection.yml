@@ -6,21 +6,22 @@ collections:
       - Assess/.keep
       - Assess/Assess.md
       - Assess/(A1,1) Navigate an Assignment.md
-      - Assess/(A1,2) Navigate Quizzes.md
-      - Assess/(A2,1) Attempt a Multiple Choice Question.md
+      - Assess/(A1,2) Navigate Quizzes (Enhanced).md
+      - Assess/(A2,1) Attempt a Multiple Choice Question (Enhanced).md
       - Assess/(A2,2) Attempt a Fill in the Blanks Question.md
       - Assess/(A2,3) Attempt a Click and Drop Question.md
       - Assess/(A2,4) Attempt an Error Editing Question.md
       - Assess/(A2,5) Attempt an Audio Response Question.md
-      - Assess/(A2,6) Attempt a Free Response Question.md
+      - Assess/(A2,6) Attempt a Free Response Question (Enhanced).md
       - Assess/(A2,7) Attempt a Multi Part Question.md
-      - Assess/(A2,8) Attempt an Interactive Thinking Tool Component.md
+      - Assess/(A2,8) Attempt an Interactive Thinking Tool Component
+        (Enhanced).md
       - Assess/(A2,9) Attempt a Poll.md
       - Assess/(A2,10) Attempt a Question with Rubrics.md
       - Assess/(A2,11) Attempt a Team Quiz & Activity.md
       - Assess/(A2,12) Attempt Google Attached Files.md
       - Assess/(A2,13) Complete an Activity & Section.md
-      - Assess/(A3,1) Formatting & Paragraphing.md
+      - Assess/(A3,1) Formatting & Paragraphing (Enhanced).md
       - Assess/(A3,2) Insert Tables.md
       - Assess/(A3,3) Upload File.md
       - Assess/(A3,4) Insert Drawing.md
@@ -29,9 +30,9 @@ collections:
       - Assess/(A3,7) Insert & Edit Links.md
       - Assess/(A3,8) Insert Emoticon.md
       - Assess/(A3,9) Insert Tooltip.md
-      - Assess/(A3,10) Text to Speech (Enhanced).md
-      - Assess/(A3,11) Speech Evaluation (Enhanced).md
-      - Assess/(A3,12) EDictionary.md
+      - Assess/(A3,10) Text to Speech.md
+      - Assess/(A3,11) Speech Evaluation.md
+      - Assess/(A3,12) E–Dictionary (Enhanced).md
       - Assess/(B1) View Completed Assignments.md
       - Assess/(B2) View Quiz Results.md
       - Assess/(B3) View and Respond to Teacher Comments.md
@@ -54,6 +55,7 @@ collections:
       - Collaborate/(B2,2) Create a New Poll.md
       - Collaborate/(B3,1) Comment in the Forum.md
       - Collaborate/(B3,2) Edit a Poll.md
+      - Collaborate/(C1) Join a Google Meet Video Conference (New).md
       - Customise/.keep
       - Customise/Customise.md
       - Customise/(A1,i) Customise an Avatar.md
@@ -66,7 +68,7 @@ collections:
       - Discover/Discover.md
       - Discover/About Self Study Resources (Enhanced).md
       - Discover/(A1) Access Self Study Resources.md
-      - Discover/(A2) Search for Self Study Resources.md
+      - Discover/(A2) Search for Self Study Resources (Enhanced).md
       - Discover/(A3) Attempt Self Study Resources.md
       - Discover/(B1) Access App Library.md
       - Gamify/.keep
@@ -77,11 +79,11 @@ collections:
       - Gamify/(B1) Check Progress on Leaderboard.md
       - Notify/.keep
       - Notify/Notify.md
-      - Notify/About Notifications.md
+      - Notify/About Notifications (Enhanced).md
       - Notify/(A1) View Notifications.md
       - Organise/.keep
       - Organise/Organise.md
-      - Organise/About Class Groups.md
+      - Organise/About Class Groups (Enhanced).md
       - Organise/(A1,i) Access Class Groups.md
       - Organise/(A1,ii) Access Past Class Groups.md
       - Organise/(B1) Search in My Drive.md
@@ -100,10 +102,11 @@ collections:
       - Plan/(A2) Create a New Event.md
       - Self Study/.keep
       - Self Study/Self Study.md
-      - Self Study/About Adaptive Learning System (Enhanced).md
+      - Self Study/About Adaptive Learning System.md
       - Self Study/(A1) Access Adaptive Learning System (Enhanced).md
       - Self Study/(B1,1) Annotate Text within Activities.md
       - Self Study/(B1,2) Add Notes to Images.md
+      - Self Study/(B1,3) Add Notes to Audio or Video (New).md
       - Self Study/(B2) View Notes.md
       - Self Study/(B3) Comment on Notes.md
       - Track Progress/.keep
@@ -112,4 +115,5 @@ collections:
       - Track Progress/(A2,1) View by Topic.md
       - Track Progress/(A2,2) View by Month.md
       - Track Progress/(A2,3) View by Question.md
-      - Track Progress/(A2,4) View ALS Learning Progress (New).md
+      - Track Progress/(A2,4) View by Multiple Class Groups (New).md
+      - Track Progress/(A2,5) View ALS Learning Progress.md

@@ -12,23 +12,23 @@ variant: markdown
 <details><summary><h4>A. How to complete my Assignments?</h4></summary>
 <ul>
 <li><a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">(A1,1) Navigate an Assignment</a></li>
-	<li><a target="_blank" href="/student-user-guide/assess/navigate-quizzes/">(A1,2) Navigate Quizzes</a></li></ul>
+	<li><a target="_blank" href="/student-user-guide/assess/navigate-quizzes/">(A1,2) Navigate Quizzes (Enhanced)</a></li></ul>
 <p>A2. Attempt different Question types</p>
-<ul><li><a target="_blank" href="/student-user-guide/assess/attempt-a-multiple-choice-question/">(A2,1) Attempt a Multiple-Choice Question</a></li>
+<ul><li><a target="_blank" href="/student-user-guide/assess/attempt-a-multiple-choice-question/">(A2,1) Attempt a Multiple-Choice Question (Enhanced)</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/attempt-a-fill-in-the-blanks-question/">(A2,2) Attempt a Fill-in-the-Blanks Question</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/attempt-a-click-and-drop-question/">(A2,3) Attempt a Click-and-Drop Question</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/attempt-an-error-editing-question/">(A2,4) Attempt an Error-Editing Question</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/attempt-an-audio-response-question/">(A2,5) Attempt an Audio-Response Question</a></li>
-<li><a target="_blank" href="/student-user-guide/assess/attempt-a-free-response-question/">(A2,6) Attempt a Free-Response Question</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/attempt-a-free-response-question/">(A2,6) Attempt a Free-Response Question (Enhanced)</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/attempt-a-multi-part-question/">(A2,7) Attempt a Multi-Part Question</a></li>
-<li><a target="_blank" href="/student-user-guide/assess/attempt-an-interactive-thinking-tool-component/">(A2,8) Attempt an Interactive Thinking Tool Component</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/attempt-an-interactive-thinking-tool-component/">(A2,8) Attempt an Interactive Thinking Tool Component (Enhanced)</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/attempt-a-poll/">(A2,9) Attempt a Poll</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/attempt-a-question-with-rubrics/">(A2,10) Attempt a Question with Rubrics</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/attempt-a-team-quiz-and-activity/">(A2,11) Attempt a Team Quiz &amp; Activity</a></li>
 <li><a target="_blank" href="/student-user-guide/assign/attempt-google-attached-files/">(A2,12) Attempt Google-Attached Files</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/complete-an-activity-and-section/">(A2,13) Complete an Activity &amp; Section</a></li></ul>
 <p>A3. Use Rich Text</p>
-<ul><li><a target="_blank" href="/student-user-guide/assess/formatting-and-paragraphing/">(A3,1) Formatting &amp; Paragraphing</a></li>
+<ul><li><a target="_blank" href="/student-user-guide/assess/formatting-and-paragraphing/">(A3,1) Formatting &amp; Paragraphing (Enhanced)</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/insert-tables/">(A3,2) Insert Tables</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/upload-file/">(A3,3) Upload File</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/insert-drawing/">(A3,4) Insert Drawing</a></li>
@@ -37,9 +37,9 @@ variant: markdown
 <li><a target="_blank" href="/student-user-guide/assess/insert-and-edit-links/">(A3,7) Insert &amp; Edit Links</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/insert-emoticon/">(A3,8) Insert Emoticon</a></li>
 <li><a target="_blank" href="/student-user-guide/assess/insert-tooltip/">(A3,9) Insert Tooltip</a></li>
-<li><a target="_blank" href="/student-user-guide/assess/text-to-speech/">(A3,10) Text-to-Speech (TTS) (Enhanced)</a></li>
-<li><a target="_blank" href="/student-user-guide/assess/speech-evaluation/">(A3,11) Speech Evaluation (Enhanced)</a></li>
-<li><a target="_blank" href="/student-user-guide/assess/edictionary/">(A3,12) E-Dictionary</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/text-to-speech/">(A3,10) Text-to-Speech (TTS)</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/speech-evaluation/">(A3,11) Speech Evaluation</a></li>
+<li><a target="_blank" href="/student-user-guide/assess/edictionary/">(A3,12) E-Dictionary (Enhanced)</a></li>
 </ul>
 </details>
 <br>

@@ -27,7 +27,7 @@ variant: markdown
         <p>On the Activity/Quiz Cover, adjust the Optional Toggle.</p>
     </li>
     <li>
-			<img style="width: 80%;" src="/images/2Teacher/PE-SetOptional1.png">
+			<img alt="Set Optional Activities &amp; Quizzes" style="width: 80%;" src="/images/2Teacher/PE-SetOptional1.png">
         <p>Alternatively, click the <strong>Expand Activity List</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/LessonPlan.svg"> to open the Expanded Module Plan. Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) of an Activity/Quiz and select <strong>Set As Optiona</strong>l.</p>
     </li>
     <li>

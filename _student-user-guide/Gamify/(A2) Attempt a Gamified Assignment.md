@@ -7,8 +7,8 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(A2) Attempt a Gamified Assignment</h1>
-
-<h2 id="attempt-gamified-lesson">Attempt Gamified Module</h2>
+<hr>
+<h2 id="attempt-gamified-module">Attempt Gamified Module</h2>
 <hr>
 <ol>
 <li>From the Assignment cover, click <strong>Enter</strong> to enter the first Section (i.e. Section A), and click <strong>Enter</strong> to begin the Section.</li>

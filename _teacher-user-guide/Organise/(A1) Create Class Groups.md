@@ -9,7 +9,8 @@ variant: markdown
 <h1>(A1) Create Class Groups</h1>
 
 <ol>
-<li>From the homepage, open the left menu and click <strong>Class Groups</strong>, followed by <strong>All Class Groups</strong>. Alternatively, under the Class Groups tab, click <strong>Class Groups</strong>.</li>
+<li>From the homepage, open the left menu and click <strong>Class Groups</strong>, followed by <strong>All Class Groups</strong>. Alternatively, under the Class Groups tab, click <strong>Class 
+Groups</strong>.</li>
 <li>Click <strong>Add New Group</strong> to open Create New Group subpage. Enter the <strong>Name</strong> and <strong>Expiry</strong> <strong>Academic</strong> <strong>Year</strong>, <strong>Description</strong> (optional), <strong>Group Image</strong> (optional), <strong>Subject</strong> (optional), and <strong>Level</strong> (optional). Tagging a Subject and Level to a Class Group allows teachers and students to view the <a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">learning progress</a> for this Class Group.</li>
 <p><img style="width: 100%;" src="/images/2Teacher/O_NewClassGroups.png"></p>
 <li>You can add students from:

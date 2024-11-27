@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-1-navigate-an-assignment">(A1,1) Navigate an Assignment</h1>
+<h1 id="-1-navigate-an-assignment">(A1,1) Navigate an Assignment</h1><hr>
 <p>There are two ways to navigate around an Assignment - from the Module Plan or Activity List.</p>
 <p><u>Important</u>: You may not have access to all Sections of the Module when it is first assigned to you.</p>
 <h2 id="-navigate-an-assignment-using-module-plan-">Navigate an Assignment using Module Plan</h2>
@@ -59,7 +59,7 @@ variant: markdown
 <ol>
 	<li>For some Assignments, your teacher may set prerequisites for each activity to be unlocked. An assignment with Activity Prerequisites will have a Restricted Activity Status and a <strong>Lock</strong> icon  <img style="width:1.5rem; display: inline;" src="/images/Icons/Lock.png"> displayed on the Activity page.</li>
 	<li>To view the prerequisites for an Activity, click&nbsp;<strong>Prerequisites ( )</strong> on the page. Click the Activity from the Activity Prerequisites pop-up to access the incomplete Activity.</li>
-	<p><img style="width: 80%;" src="/images/1Student/AS_Prerequisite2.png"></p>
+	<p><img alt="Navigate an Assignment" style="width: 80%;" src="/images/1Student/AS_Prerequisite2.png"></p>
 	<u>Note</u>: The number in parenthesis shows the number of Activity Prerequisites you are required to complete before you can access the restricted Activity.
 	<li>Activity Prerequisites are indicated with a Lock icon in the Module Plan and Activity List.</li>
 	<li>After you have fulfilled an Activity Prerequisite, you will see the Activity Prerequisite unlocked on top of the Activity page.</li>

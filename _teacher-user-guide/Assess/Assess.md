@@ -8,14 +8,15 @@ variant: markdown
 ---
 <h1>Assess</h1>
 <p>Use SLS to set up, mark and give feedback on student work.</p>
-<img alt="Assess" src="/images/2Teacher/Flow_Assess3.png">
+<img alt="Assess" src="/images/2Teacher/Flow_Assess4.png">
 <details>
  <summary><h4>A. How to assess students?</h4></summary>
  <ul>
-    <li><a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">(A1) Create Quizzes</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/">(A2) Monitor Students' Responses in an Assignment</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">(A1) Create Quizzes (Enhanced)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/">(A2,1) Monitor Students' Responses in an Assignment (Enhanced)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/analyse-students-responses-with-data-assistant/">(A2,2) Analyse Students’ Responses with Data Assistant (New)</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/add-teacher-comments/">(A3,1) Add Teacher Comments</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assess/annotate-underline-students-responses/">(A3,2) Annotate (Underline) Students' Responses</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/annotate-underline-students-responses/">(A3,2) Annotate (Underline) Students' Responses (Enhanced)</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/mark-free-response-questions/">(A3,3) Mark Free Response Questions (New)</a></li>
 <li><a target="_blank" href="/teacher-user-guide/assess/print-to-scan">(A4) Print-to-Scan</a></li>
   </ul>
@@ -28,7 +29,7 @@ variant: markdown
 <ul>
     <li><a target="_blank" href="/teacher-user-guide/assess/mark-teacher-marked-quizzes/">(B1) Mark Teacher-Marked Quizzes</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/release-teacher-marked-quizzes/">(B2,1) Release Teacher-Marked Quizzes</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assess/unsubmit-teacher-marked-quizzes-or-questions/">(B2,2) Unsubmit Teacher-Marked Quizzes or Questions (Enhanced)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/unsubmit-teacher-marked-quizzes-or-questions/">(B2,2) Unsubmit Teacher-Marked Quizzes or Questions</a></li>
   </ul>
 </details>
 <details>
@@ -43,12 +44,12 @@ variant: markdown
  <summary><h4>D. More about Quizzes and Assessments</h4></summary>
 <ul>
     <li><a target="_blank" href="/teacher-user-guide/assess/view-assignments/">(D1,i) View Assignments</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">(D1,ii) Edit Quizzes</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">(D1,ii) Edit Quizzes (Enhanced)</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">(D1,iii) Set Assignments as Assessments</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/add-and-view-access-codes/">(D1,iv) Add and View Access Codes</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/view-students-notes/">(D1,v) View Students' Notes</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assess/mark-assignments-sections-activities-as-complete-and-incomplete/">(D1,vi) Mark Assignments, Sections, Activities as Complete and Incomplete (Enhanced)</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assess/submit-quizzes/">(D1,vii) Submit Quizzes (New)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/manage-assignments-sections-activities">(D1,vi) Manage Assignments, Sections, Activities (Enhanced)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/submit-quizzes/">(D1,vii) Submit Quizzes</a></li>
   </ul>
 </details>
 <details>

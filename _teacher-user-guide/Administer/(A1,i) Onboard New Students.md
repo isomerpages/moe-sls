@@ -6,7 +6,7 @@ third_nav_title: Administer
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="onboard-new-students">(A1,i) Onboard New Students</h1>
+<h1 id="onboard-new-students">(A1,i) Onboard New Students</h1><hr>
 <p>Whenever new students enter the Singapore school system (e.g. Primary 1 intake, midstream entry), a new student account will be created based on information from School Cockpit. This page describes the steps to take for a teacher to assist new students to access SLS.</p>
 <p><u>Note</u>: Students previously from another school will already have an SLS account (e.g. Sec 1 students posted from primary schools). There is no need to onboard these students.</p>
 <h2 id="-select-new-student-">Select New Student</h2>

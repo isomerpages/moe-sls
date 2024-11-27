@@ -58,10 +58,10 @@ variant: markdown
 <li><strong>Activate Learning</strong></li>
 <li><strong>Promote Thinking and Discussion</strong></li>
 <li><p><strong>Facilitate Demonstration of Learning</strong></p>
-<p>A fourth ALP, <strong>Monitor and Provide Feedback</strong>, can be added to any Activity at any part of the Lesson.</p>
+<p>A fourth ALP, <strong>Monitor and Provide Feedback</strong>, can be added to any Activity at any part of the Module.</p>
 </li>
 </ul>
 </li>
-<li><p>You can add Activities to the Lesson or edit the pre-populated Activities.</p>
+<li><p>You can add Activities to the Module or edit the pre-populated Activities.</p>
 </li>
 </ul>

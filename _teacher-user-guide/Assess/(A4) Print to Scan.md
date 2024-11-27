@@ -19,7 +19,7 @@ third_nav_title: Assess
 <h2>View as Print-to-Scan Quiz</h2>
 <hr>
 <ol>
-<li>Enter the Lesson View page of an Assignment.</li>
+<li>Enter the Module View page of an Assignment.</li>
 <li>Open the right menu and click <strong>View as Print-to-Scan Quiz</strong>.</li>
 <li>The View as Print-to-Scan Quiz subpage will appear</li>
 <li>Select a <a target="_blank" href="/teacher-user-guide/assess/mark-teacher-marked-quizzes/">Teacher-Marked Quiz</a> that is part of your assignment</li>

@@ -10,9 +10,9 @@ variant: markdown
 <p>You can create an Assignment by assigning a Module to students in your Class Groups.</p>
 <p>You can turn your <a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">Assignment into an Assessment</a>. An Assessment card is differentiated with a beige background.</p>
 <p><u>Note</u>: For a better user experience, Assignments with over 100 assignees will need to be split into multiple assignments with a maximum of 100 students. </p>
-<h2 id="-assign-a-lesson-">Assign a Module</h2>
+<h2 id="-assign-a-module-">Assign a Module</h2>
 <hr>
-<p><strong>Important</strong>: If Module Permissions to allow teachers to copy/assign/publish and students to copy this lesson are not checked, it will not be possible to assign the Module.</p>
+<p><strong>Important</strong>: If Module Permissions to allow teachers to copy/assign/publish and students to copy this module are not checked, it will not be possible to assign the Module.</p>
 <ol>
 <li>From the homepage, open the left menu and click Resources, followed by <strong>My Drive</strong>.</li>
 <li>Click <strong>Open</strong> under the Module Title.</li>
@@ -39,4 +39,4 @@ variant: markdown
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Assign a Lesson" src="https://www.youtube.com/embed/lPoWf8y15qk" height="100%" width="100%"></iframe>
 </div>
 
-The "My Lessons” tab shown at 00:18 has been relabelled to “My Modules” tab from V2 R1.
+The "My Lessons” tab shown at 00:18 has been relabelled to “My Modules” tab.

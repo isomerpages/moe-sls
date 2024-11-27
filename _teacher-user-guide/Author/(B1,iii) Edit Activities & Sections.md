@@ -32,7 +32,7 @@ variant: markdown
 <h2 id="edit-section">Edit Section</h2>
 <hr>
 <ol>
-<li>To go to the Lesson Editor page, click the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> found at the top right of the header.</li>
+<li>To go to the Module Editor page, click the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> found at the top right of the header.</li>
 <li>You can edit a Section Title by clicking on it and save by clicking outside of it. You can also rename the Section Title by clicking on the Title on the top menu bar and save by clicking outside of it.</li>
 <li>You can set a Section as Optional by adjusting the <strong>Optional Toggle</strong> when you click on the Section Title.</li>
 <li>You can delete a Section by clicking on <strong>Trash</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">. </li>

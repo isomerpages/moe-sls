@@ -16,7 +16,7 @@ for learning and for their daily lives.</p>
 <h2>Student Resources</h2>
 <hr>
 <p>Students who wish to build their AI Literacy can learn more from the suite
-of SLS lessons available:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://go.gov.sg/catalogue-ai-self-paced-lessons" rel="noopener noreferrer nofollow" target="_blank"><u>Catalogue of Self-Paced SLS Lessons on AI Literacy</u></a>
+of SLS modules available:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://go.gov.sg/catalogue-ai-self-paced-lessons" rel="noopener noreferrer nofollow" target="_blank"><u>Catalogue of Self-Paced SLS Modules on AI Literacy</u></a>
 </p>
 <p></p>

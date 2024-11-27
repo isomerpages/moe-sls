@@ -7,13 +7,14 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>Personalise</h1>
-<p>Use SLS to provide choice for your students in their lessons and activities.</p>
-<img alt="Personalise" style="width: 50%;" src="/images/2Teacher/Flow_Personalise.svg">
+<p>Use SLS to provide choice for your students in their modules and activities.</p>
+<img alt="Personalise" style="width: 80%;" src="/images/2Teacher/Flow_Personalise1.png">
 
 <details>
 <summary><h4>A. How to personalise Modules for students?</h4></summary>
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/personalise/set-optional-activities-and-quizzes/">(A1) Set Optional Activities &amp; Quizzes</a></li>
+<li><a target="_blank" href="/teacher-user-guide/personalise/recommend-content-to-students-on-adaptive-learning-system/">(A2) Recommend Content to Students on Adaptive Learning System</a></li>
 </ul>
 </details>
 <details>

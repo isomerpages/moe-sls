@@ -6,7 +6,7 @@ third_nav_title: Administer
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="generate-passcode-for-students">(A1,iii) Generate Passcode for Students</h1>
+<h1 id="generate-passcode-for-students">(A1,iii) Generate Passcode for Students</h1><hr>
 <p>Owners and Co-teachers can create a Passcode (formerly known as two-hour temporary password) for students in their Class Groups. This Passcode grants students temporary access to the SLS if they had forgotten their password or if their accounts had been locked.</p>
 <p>However, when students use a Passcode to log in, they will not be able to access <strong>My Profile</strong>, and hence cannot change their password, security question answers, or email address.</p>
 <p><u>Note</u>: For a permanent solution, students can follow this guide on <a target="_blank" href="/teacher-user-guide/administer/reset-student-passwords-for-classes/">Student - Reset Password</a> to reset their passwords. If they still encounter difficulties, and you are unable to reset their password for them, you should contact the SLS Helpdesk or your school's SLS Administrator. Only the SLS Helpdesk and SLS school administrator are able to unlock a student's account. The SLS Helpdesk will need to verify a student's identity using the security questions that were set up when his/her account was first activated. </p>

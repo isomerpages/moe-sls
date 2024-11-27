@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(C1,i) Manage Folders</h1>
-
+<hr>
 <h2>Move Modules to a Folder</h2>
 <hr>
 <p>You can move an existing Module from one folder to another.</p>

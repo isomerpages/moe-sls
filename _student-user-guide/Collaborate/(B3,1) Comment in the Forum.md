@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-3a-comment-in-the-forum">(B3,1) Comment in the Forum</h1>
+<h1 id="-3a-comment-in-the-forum">(B3,1) Comment in the Forum</h1><hr>
 <h2 id="commenting-on-a-post">Commenting on a Post</h2>
 <hr>
 <ol>
@@ -20,4 +20,4 @@ variant: markdown
 <li><p>You may <strong>Edit</strong> or <strong>Delete</strong> your comment by selecting the options in the <strong>Overflow</strong> (<strong>3-dot</strong> icon).</p>
 </li>
 </ol>
-<img src="/images/1Student/CO-CommentForum1.png">
+<img alt="Comment in the Forum" style="width: 100%;" src="/images/1Student/CO-CommentForum1.png">

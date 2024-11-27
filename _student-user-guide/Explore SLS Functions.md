@@ -37,7 +37,7 @@ needs.</p>
 <h2>Enact: Access your learning materials.</h2>
 <hr>
 <h3><a href="/student-user-guide/assign/index/" rel="noopener noreferrer nofollow" target="_blank">1. Assign</a></h3>
-<p>Use SLS to easily navigate lessons assigned by my teachers.</p>
+<p>Use SLS to easily navigate modules assigned by my teachers.</p>
 <h3><a href="/student-user-guide/collaborate/index/" rel="noopener noreferrer nofollow" target="_blank">2. Collaborate</a></h3>
 <p>Use SLS to easily access collaborative learning activities together at
 the same time or different times.</p>
@@ -47,7 +47,7 @@ the same time or different times.</p>
 <p>Use SLS to complete and submit work, easily access and follow up on teacher
 marks and feedback.</p>
 <h3><a href="/student-user-guide/track-progress/index/" rel="noopener noreferrer nofollow" target="_blank">2. Track Progress</a></h3>
-<p>Use SLS to track your own progress within and across lessons and assignments.</p>
+<p>Use SLS to track your own progress within and across modules and assignments.</p>
 <h2>How to navigate the User Guide Pages</h2>
 <hr>
 <ol>

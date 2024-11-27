@@ -4,6 +4,7 @@ permalink: /student-user-guide/organise/index/
 description: ""
 third_nav_title: Organise
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Organise</h1>
 <p>Use SLS to organise your personal and class group resources, assignments, conversations and notifications.</p>
@@ -13,7 +14,7 @@ image: /images/FaviconLight.png
 <details><summary><h4>A. How to access Class Groups?</h4></summary>
 
 <ul>
-	  <li><a target="_blank" href="/student-user-guide/organise/about-class-groups/">About Class Groups</a></li>
+	  <li><a target="_blank" href="/student-user-guide/organise/about-class-groups/">About Class Groups (Enhanced)</a></li>
   <li><a target="_blank" href="/student-user-guide/organise/access-class-groups/">(A1,i) Access Class Groups</a></li>
   <li><a target="_blank" href="/student-user-guide/organise/access-past-class-groups/">(A1,ii) Access Past Class Groups</a></li>
 </ul>	

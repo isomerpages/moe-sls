@@ -7,8 +7,8 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(F1,i) View Print-Friendly Worksheet</h1>
+<hr>
 <p>Print-friendly Worksheets allow for resources to be downloaded and printed. Resources from MOE Library, Class Group Resources, and Assignments can be viewed as Print-Friendly worksheets.</p>
-
 <ol>
 	<li>Enter the Module View page of a Module.</li>
 	<li>Open the right menu and click <strong>View as Print-Friendly Worksheet</strong> (if permission has been granted).</li>

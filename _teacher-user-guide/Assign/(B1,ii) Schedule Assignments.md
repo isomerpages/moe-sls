@@ -19,7 +19,7 @@ variant: markdown
 <li><p>For Modules with Sections, you will be able to set Start and Due Dates for individual Sections. By default, the Sections Start and Due Dates will follow the Start and Due Dates under the overall Assignment Schedule.</p>
 </li>
 <li>Click <strong>Save</strong> followed by <strong>X</strong> to close the subpage.</li>
-<li>Click <strong>Assign</strong> to assign the Lesson as Assignment.</li>
+<li>Click <strong>Assign</strong> to assign the Module as Assignment.</li>
 </ol>
 <h2 id="edit-schedule-of-an-existing-assignment-">Edit Schedule of an Existing Assignment</h2>
 <hr>

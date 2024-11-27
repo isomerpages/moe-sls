@@ -7,8 +7,9 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="-2a-view-by-topic">(A2,1) View by Topic</h1>
+<hr>
 <p>Topics and Sub-topics are displayed according to the Content Map selected. There may be more than one Content Map for a particular subject based on the syllabus by SEAB.</p>
-<p><u>Note</u>: Only questions that are selected by your teacher or the lesson author to be included will be shown in the Learning Progress. </p>
+<p><u>Note</u>: Only questions that are selected by your teacher or the module author to be included will be shown in the Learning Progress. </p>
 <ol>
 <li><p>On the Learning Progress page, you may view your overall progress according to&nbsp;Topics&nbsp;and&nbsp;Sub-topics&nbsp;by&nbsp;selecting&nbsp;the <strong>Topical</strong> tab. Under each Topic/Sub-topic, the Awarded Marks, Total Marks, and Marks (shown in percentage) are displayed.</p>
 <img alt="View by Topic" style="width: 70%" src="/images/1Student/TP_LPTopical3.png">

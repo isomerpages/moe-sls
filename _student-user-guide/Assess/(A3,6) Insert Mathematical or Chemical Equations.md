@@ -4,8 +4,9 @@ permalink: /student-user-guide/assess/insert-mathematical-or-chemical-equations/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1 id="insert-mathematical-or-chemical-equations">(A3,6) Insert Mathematical or Chemical Equations</h1>
+<h1 id="insert-mathematical-or-chemical-equations">(A3,6) Insert Mathematical or Chemical Equations</h1><hr>
 <h2 id="-insert-mathematical-equation-using-mathtype-">Insert Mathematical Equation using MathType</h2>
 <hr>
 <ol>
@@ -16,12 +17,12 @@ image: /images/FaviconLight.png
 <li>To edit an equation, double-click the image to open the MathType editor.</li>
 </ol>
 <p><u>Note</u>: You are now able to copy and paste your mathematical equations in the Rich Text Editor. </p>
-<p><img src="/images/1Student/As-MathType.png"></p>
+<p><img alt="Insert Mathematical or Chemical Equations" style="width: 100%" src="/images/1Student/As-MathType.png"></p>
 <h2 id="-insert-mathematical-equation-using-latex-commands-">Insert Mathematical Equation using LaTeX commands</h2>
 <hr>
 <ol>
 <li>You can also type LaTeX equations between double dollar signs – $$ – in the Rich Text Editor. For more information on the LaTeX commands supported, click <a target="_blank" href="https://docs.wiris.com/en/mathtype/mathtype_web/latex-support">here</a>.</li>
-<li>The equation will be rendered as an image in the lesson preview.</li>
+<li>The equation will be rendered as an image in the module preview.</li>
 </ol>
 <h2 id="-insert-chemical-equation-using-chemtype-">Insert Chemical Equation using ChemType</h2>
 <hr>
@@ -33,4 +34,4 @@ image: /images/FaviconLight.png
 <li>To edit an equation, double-click the image to open the ChemType editor.</li>
 </ol>
 <p><u>Note</u>: You are now able to copy and paste your chemical equations in the Rich Text Editor.</p>
-<img src="/images/1Student/As-MathType.png">
+<img alt="Insert Mathematical or Chemical Equations" style="width: 100%" src="/images/1Student/As-MathType.png">

@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="set-password-reset-email-address">(A1,ii) Set Password Reset Email Address</h1>
+<hr>
 <p><u>Important</u>: You must verify the email address before you can use it to reset your password.</p>
 <p>You should set a password reset email address in your profile. This will allow you to reset your password through a password reset link.</p>
 <ol>

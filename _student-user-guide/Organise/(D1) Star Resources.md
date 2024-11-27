@@ -7,12 +7,11 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(D1) Star Resources</h1>
+<hr>
 <p>You are able to star up to 300 resources. You may star Modules and Apps found in the MOE Library, App Library or My Drive that you want to view or review at a later time.</p>
 <p>Starred Resources can be found in the left menu, under <strong>Resources</strong>.</p>
-
 <h2>Starring from Search Results</h2>
 <hr>
-
 <p>You can star a Module or an App by clicking the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg" alt="Star Resources #1"> found on the top right of the Resource card, followed by the <strong>Star <img style="width:1.5rem; display: inline;" src="/images/Icons/AddStar.svg" alt="Star Resources #2"> </strong> icon found at the top of the subpage.</p>
 <img style="width: 80%;" src="/images/1Student/O-ResourceSubpage.png" alt="Star Resources #3">
 <h2>Starring from My Drive folders</h2>

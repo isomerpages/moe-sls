@@ -13,9 +13,9 @@ variant: markdown
 <ul>
 <li>Subgroups can be created within any class group.</li>
 <li>The purpose of a Subgroup is to organise your students into smaller groups. By organising your students this way, you are able to achieve the following:<ul>
-<li>assign lessons to specific Subgroups</li>
+<li>assign modules to specific Subgroups</li>
 <li>grant access to sections/activities for specific Subgroups</li>
-<li>assign Team Activities and gamified lessons to specific Subgroups</li>
+<li>assign Team Activities and gamified modules to specific Subgroups</li>
 </ul>
 </li>
 </ul>

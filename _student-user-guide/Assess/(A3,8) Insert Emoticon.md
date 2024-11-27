@@ -4,8 +4,9 @@ permalink: /student-user-guide/assess/insert-emoticon/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<h1 id="insert-emoticon">(A3,8) Insert Emoticon</h1>
+<h1 id="insert-emoticon">(A3,8) Insert Emoticon</h1><hr>
 <h2 id="-insert-emoticon-using-rich-text-editor-">Insert Emoticon using Rich Text Editor</h2>
 <hr>
 <ol>

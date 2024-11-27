@@ -17,7 +17,7 @@ variant: markdown
 <p><img style="width: 100%;" src="/images/2Teacher/AU_EditLessonPlan1.png"></p>
 </li>
 </ol>
-<h2 id="-edit-a-lesson-plan-">Edit a Module Plan</h2>
+<h2 id="-edit-a-module-plan-">Edit a Module Plan</h2>
 <hr>
 <ol>
 <li>In the Module View page, click the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> at the right hand corner of the top menu bar to edit the Module. </li>

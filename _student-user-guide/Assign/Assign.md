@@ -4,9 +4,10 @@ permalink: /student-user-guide/assign/index/
 description: ""
 third_nav_title: Assign
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>Assign</h1>
-<p>Use SLS to easily navigate lessons assigned by my teachers.</p>
+<p>Use SLS to easily navigate modules assigned by my teachers.</p>
 <img style="width: 50%;" src="/images/1Student/Flow-Assign.png">
 
 <a target="_blank" href="/student-user-guide/assign/about-assignments/">About Assignments</a>

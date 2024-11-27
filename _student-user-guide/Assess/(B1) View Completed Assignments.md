@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-1-view-completed-assignments">(B1) View Completed Assignments</h1>
+<h1 id="-1-view-completed-assignments">(B1) View Completed Assignments</h1><hr>
 <h2 id="-access-assignments-from-homepage-">Access Assignments from Homepage</h2>
 <hr>
 <ul>

@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(B1) Search in My Drive</h1>
-
+<hr>
 <h2>Search in My Modules</h2>
 <hr>
 <ol>

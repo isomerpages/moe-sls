@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(A2) Create a New Event</h1>
+<hr>
 <h2>Create a New Event</h2>
 <hr>
 <ol>

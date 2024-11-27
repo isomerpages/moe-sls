@@ -7,9 +7,8 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(E1,i) Access My Subjects</h1>
-
+<hr>
 <p>My Subjects allow you to see your Assigned and Followed Subjects to track&nbsp;<a target="_blank" href="/student-user-guide/track-progress/access-learning-progress/">Learning Progress</a>&nbsp;and search for relevant resources. Students will be able to search related Modules easily with the pre-selected filters.</p>
-
 <h2>Accessing My Subjects</h2>
 <hr>
 <ol>

@@ -7,9 +7,8 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(E1,ii) Follow &amp; Unfollow Subjects</h1>
-
+<hr>
 <p>You may follow other subjects of interest beyond the ones assigned to you.</p>
-
 <ol>
   <li>Open the right menu and click <strong>My Subjects</strong>.</li>
   <br>

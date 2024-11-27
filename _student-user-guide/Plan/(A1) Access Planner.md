@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(A1) Access Planner</h1>
+<hr>
 <p>Planner allows you to manage your personal learning schedule and timetable. You can create events and view Assignments which are due soon.</p>
   <h2>Navigating to the Page</h2>
 <hr>

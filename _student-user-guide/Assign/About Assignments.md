@@ -6,7 +6,7 @@ third_nav_title: Assign
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>About Assignments</h1>
+<h1>About Assignments</h1><hr>
 <p>Assignments are Modules assigned to you by your teacher. An Assignment
 can contain up to 20 Sections. Each section can contain up to 20 Activities
 or Quizzes.</p>

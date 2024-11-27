@@ -7,14 +7,14 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>Author</h1>
-<p>Use SLS to design lesson resources aligned to the e-pedagogical principles.</p>
+<p>Use SLS to design module resources aligned to the e-pedagogical principles.</p>
 <br>
 <img alt="Author" style="width: 100%;" src="/images/2Teacher/Flow_Author.svg">
 <details><summary><h4>A. How to create Modules?</h4></summary>
 <ul>
-<li><a href="/teacher-user-guide/author/create-new-modules/" target="_blank">Create New Modules</a></li><li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" target="_blank">Use Authoring Copilot to create New Sections (New)</a></li>
-<li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/" target="_blank">Use Authoring Copilot to create New Activities &amp; Components (New)</a></li>
-<li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-quizzes/" target="_blank">Use Authoring Copilot to create New Quizzes (New)</a></li></ul>
+<li><a href="/teacher-user-guide/author/create-new-modules/" target="_blank">Create New Modules</a></li><li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" target="_blank">Use Authoring Copilot to create New Sections (Enhanced)</a></li>
+<li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/" target="_blank">Use Authoring Copilot to create New Activities &amp; Components (Enhanced)</a></li>
+<li><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-quizzes/" target="_blank">Use Authoring Copilot to create New Quizzes (Enhanced)</a></li></ul>
 
 <p>A1. Activities and Templates</p>	
 <ul>
@@ -27,7 +27,7 @@ variant: markdown
 <p>A2. Add Components</p>	
 <ul>
 <li><a href="/teacher-user-guide/author/add-components/" target="_blank">(A2,1) Add Components</a></li>
-<li><a href="/teacher-user-guide/author/add-split-page-media/" target="_blank">(A2,2) Add Split-page Media</a></li>
+<li><a href="/teacher-user-guide/author/add-split-page-media/" target="_blank">(A2,2) Add Split-page Media (Enhanced)</a></li>
 <li><a href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/" target="_blank">(A2,3) Upload Question and Test Interoperability (QTI) Files</a></li>
 <li><a href="/teacher-user-guide/author/add-multiple-choice-questions/" target="_blank">(A2,4) Add Multiple-Choice Questions</a></li>
 <li><a href="/teacher-user-guide/author/add-fill-in-the-blanks-questions/" target="_blank">(A2,5) Add Fill-in-the-Blank Questions</a></li>
@@ -41,12 +41,12 @@ variant: markdown
 <li><a href="/teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/" target="_blank">(A2,13) Add Rubrics to Audio- and Free-Response Questions</a></li>	
 <li><a href="/teacher-user-guide/author/embed-youtube-videos/" target="_blank">(A2,14) Embed YouTube Videos</a></li>
 <li><a href="/teacher-user-guide/author/insert-media-objects/" target="_blank">(A2,15) Insert Media Objects</a></li>
-<li><a href="/teacher-user-guide/author/insert-transcript-for-video-audio" target="_blank">(A2,16) Insert Transcript for Video &amp; Audio (New)</a></li>
+<li><a href="/teacher-user-guide/author/insert-transcript-for-video-audio" target="_blank">(A2,16) Insert Transcript for Video &amp; Audio</a></li>
 </ul>
 <p>A3. Use Rich Text</p>	
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/author/about-rich-text-editor/">(A3,1) About Rich Text Editor</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/formatting-and-paragraphing/">(A3,2) Formatting &amp; Paragraphing</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/formatting-and-paragraphing/">(A3,2) Formatting &amp; Paragraphing (Enhanced)</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-chinese-or-tamil-text/">(A3,3) Insert Chinese or Tamil Text</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-mathematical-or-chemical-equations/">(A3,4) Insert Mathematical or Chemical Equations</a></li><li><a target="_blank" href="/teacher-user-guide/author/insert-tables/">(A3,5) Insert Tables</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-emoticons/">(A3,6) Insert Emoticons</a></li>
@@ -54,10 +54,10 @@ variant: markdown
 <li><a target="_blank" href="/teacher-user-guide/author/insert-external-links/">(A3,8) Insert External Links</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-links-to-sections/">(A3,9) Insert Links to Sections</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/insert-tooltips/">(A3,10) Insert Tooltips</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/html5-content-development/">(A3,11) HTML5 Content Development</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/text-to-speech/">(A3,12) Text-to-Speech (TTS) (Enhanced)</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/speech-evaluation/">(A3,13) Speech Evaluation (Enhanced)</a></li>
-<li><a target="_blank" href="/teacher-user-guide/author/localisation-and-edictionary/">(A3,14) Localisation and E-Dictionary</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/html5-content-development/">(A3,11) HTML5 Content Development (Enhanced)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/text-to-speech/">(A3,12) Text-to-Speech (TTS)</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/speech-evaluation/">(A3,13) Speech Evaluation</a></li>
+<li><a target="_blank" href="/teacher-user-guide/author/localisation-and-edictionary/">(A3,14) Localisation and E-Dictionary (Enhanced)</a></li>
 </ul>
 </details>
 
@@ -70,9 +70,9 @@ variant: markdown
 <li><a href="/teacher-user-guide/author/view-and-edit-module-plans/" target="_blank">(B1,iv) View and Edit Modules Plans</a></li>
 <li><a href="/teacher-user-guide/author/make-a-copy-of-modules-or-assignments/" target="_blank">(B1,v) Make a Copy of Modules &amp; Assignments</a></li>
 <li><a href="/teacher-user-guide/author/edit-detail-cards/" target="_blank">(B1,vi) Edit Detail cards</a></li>
-<li><a href="/teacher-user-guide/author/add-question-tags/" target="_blank">(B1,vii) Add Question Tags</a></li>
-<li><a href="/teacher-user-guide/author/add-module-tags/" target="_blank">(B1,viii) Add Module Tags</a></li>
-<li><a href="/teacher-user-guide/author/edit-media-objects/" target="_blank">(B1,ix) Edit Media Objects</a></li>
+<li><a href="/teacher-user-guide/author/add-question-tags/" target="_blank">(B1,vii) Add Question Tags (Enhanced)</a></li>
+<li><a href="/teacher-user-guide/author/add-module-tags/" target="_blank">(B1,viii) Add Module Tags (Enhanced)</a></li>
+<li><a href="/teacher-user-guide/author/edit-media-objects/" target="_blank">(B1,ix) Edit Media Objects (Enhanced)</a></li>
 <li><a href="/teacher-user-guide/author/move-modules-to-trash/" target="_blank">(B1,x) Move Modules to Trash</a></li>
 <li><a href="/teacher-user-guide/author/file-size-limits/" target="_blank">(B1,xi) File Size Limits</a></li>
 </ul>
@@ -87,7 +87,7 @@ variant: markdown
 <ul>
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-modules-in-class-groups/">(D1,i) Co-create Modules in Class Groups</a></li>
 <li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">(D1,ii) Digitise Past Year Papers for Practice</a></li>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/R18_Enhanced_Lesson_Authoring_navigation.pdf">(D1,iii) Enhanced Lesson Authoring and Navigation</a></li>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/R18_Enhanced_Lesson_Authoring_navigation.pdf">(D1,iii) Enhanced Module Authoring and Navigation</a></li>
 <li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/Phygital_learning.pdf">(D1,iv) Let's get Phygital with SLS</a></li>	
 </ul>
 </details>
@@ -126,7 +126,7 @@ We understand the limitations with the trial account and encourage you to check 
 <li><strong>For SLS Google Integration, where will the files be stored, and will they count towards our storage limits?</strong>
 <p>The original Google files should have initially been stored in the teachers' Google Drive.</p>
 <p>When a teacher uploads a Google file to SLS, the file becomes hosted within SLS's Google Drive.</p>
-<p>If files are added as a Prepopulated Student Answer of a Free-Response Question, individual copies of the files, which students can access and edit, will be generated for the students after the lesson is assigned in SLS. These individual copies are stored in the teacher's Google Drive.</p>
+<p>If files are added as a Prepopulated Student Answer of a Free-Response Question, individual copies of the files, which students can access and edit, will be generated for the students after the module is assigned in SLS. These individual copies are stored in the teacher's Google Drive.</p>
 <p>Subsequent copies that are generated after a teacher has marked the student's work will also be stored in SLS.</p></li>
 <li><strong>Can SLS be used as a replacement platform for Google Classroom, specifically in the area of students' T&amp;L management such as resources parking, sharing with the students, digital submission?</strong>
 <p>Schools may wish to consider SLS as the main platform for T&amp;L, as it allows the full affordances of varied and emerging tools which can be integrated or embedded within the platform. It also serves as a one-stop hub for all T&amp;L resources and artefacts, as well as allowing for central consolidation of data across all T&amp;L needs.</p>

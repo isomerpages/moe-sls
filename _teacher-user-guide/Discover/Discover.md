@@ -16,7 +16,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your Modules.
   <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-activities-from-resources/">(A1,1) Add Existing Activities from Resources</a></li>
   <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-components-from-resources/">(A1,2) Add Existing Components from Resources</a></li>
   <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-media-objects-from-resources/">(A1,3) Add Existing Media Objects from Resources</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">(A2) Search for Resources</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">(A2) Search for Resources (Enhanced)</a></li>
   <li><a target="_blank" href="/teacher-user-guide/discover/view-module-details/">(A3) View Module Details</a></li>
 </ul>
 </details>
@@ -47,6 +47,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your Modules.
 	<li><a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">(E1,iii) Leave Reviews</a></li>
 	<li><a target="_blank" href="/teacher-user-guide/discover/about-adaptive-learning-system/">(E1,iv) About Adaptive Learning System (ALS) (Enhanced)</a></li>
 	<li><a target="_blank" href="/teacher-user-guide/discover/tag-resources-to-adaptive-learning-system/">(E1,v) Tag Resources to Adaptive Learning System (New)</a></li>
+	<li><a target="_blank" href="/teacher-user-guide/discover/link-activities-in-als-content/">(E1,vi) Link Activities in ALS Content (New)</a></li>
 </ul>
 </details>
 <details>
@@ -78,7 +79,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your Modules.
 <li><strong>Whom should schools reach out to if they wish to learn more about the Adaptive Learning System (ALS)?</strong>
 <p></p><p>Schools are highly encouraged to first check in with their respective Cluster ETOs. As ALS is already rolled out to all schools for Primary 5 students for three topics - Decimals, Whole Numbers and Percentages, schools may refer to the following resources below.</p>
 <ol>
-<li><a target="_blank" href="https://go.gov.sg/als-eped">ALS e-Pedagogy Guide</a></li>
+<li><a target="_blank" href="https://go.gov.sg/als-guide">ALS e-Pedagogy Guide</a></li>
 <li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/als_14_feb.pdf">ALS e-poster</a></li>
 <li><a target="_blank" href="https://www.youtube.com/watch?v=VOLmizePspE">Detailed video walkthrough</a></li>
 <li><a target="_blank" href="/student-user-guide/self-study/access-adaptive-learning-system/">Information on SLS Info guide</a></li>

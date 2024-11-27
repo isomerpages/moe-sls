@@ -4,22 +4,18 @@ permalink: /teacher-user-guide/assess/add-short-answer-feedback-assistant/
 variant: markdown
 description: ""
 third_nav_title: Assess
+image: /images/FaviconLight.png
 ---
-<h1>(C1,iii) Add Short Answer Feedback Assistant (Enhanced)</h1>
+<h1>(C1,iii) Add Short Answer Feedback Assistant (Enhanced)</h1><hr>
 <p>The Short Answer Feedback Assistant (ShortAnsFA) provides suggested marks
-and auto-generated content-related feedback for free-response questions for any subject and level.</p>
+and auto-generated content-related feedback for Free-Response Questions for any subject and level.</p>
 <p><u>Important</u>:</p>
 <ul>
 <li>
-<p>As ShortAnsFA uses generative AI, its response is probabilistic in nature.
-Thus, it may not be suitable for questions involving mathematical computation
-and may at times be inaccurate. Teachers should review the feedback generated
-before returning it to students. ShortAnsFA's capabilities will be continually
-improved over time and schools can keep a lookout for the latest improvements
-via the Singapore Learning Designers Circle (SgLDC) Facebook group.</p>
+<p>As ShortAnsFA uses generative AI, its response is probabilistic in nature. Thus, it may not be suitable for questions involving mathematical computation and may at times be inaccurate. Teachers can consider using FA-Math for questions that require mathematical computation  instead. Also, Teachers can review the feedback generated before returning it to students. Also, teachers can review the feedback generated before returning it to students. </p>
 </li>
 <li>
-<p>From June 2024 (R1), ShortAnsFA can provide feedback on a wider variety of responses, including more open-ended responses such as composition writing or reflections. </p>
+<p>ShortAnsFA can provide feedback on a wider variety of responses, including more open-ended responses such as composition writing or reflections.</p>
 </li>
 <li>
 <p>File Submission is disabled when using ShortAnsFA.</p>
@@ -28,13 +24,13 @@ via the Singapore Learning Designers Circle (SgLDC) Facebook group.</p>
 <h2><strong>Create a ShortAnsFA question</strong></h2>
 <hr>
 <ol>
-<li><p>From June 2024 (R1), ShortAnsFA can be used in standalone questions and other types of quizzes. Depending on the selected mode (i.e. standalone question or quiz), teachers determine how students will receive the feedback from ShortAnsFA.</p>
+<li><p>ShortAnsFA can be used in standalone questions and all types of quizzes. Depending on the selected mode (i.e. standalone question or quiz), teachers determine how students will receive the feedback from ShortAnsFA.</p>
 <table>
 <tbody><tr><th>Mode </th><th>Feedback</th></tr>
-<tr><td>Teacher Marked Quiz* </td><td>Students receive feedback after teacher marks and releases the quiz</td></tr>
-<tr><td>1. Progressive Quiz*<br>2. Auto-Graded Quiz*<br>3. Standalone Question*</td><td>Students receive feedback automatically after submitting each question</td>
+<tr><td>Teacher Marked Quiz</td><td>Students receive feedback after teacher marks and releases the quiz</td></tr>
+<tr><td>1. Progressive Quiz<br>2. Auto-Graded Quiz<br>3. Standalone Question</td><td>Students receive feedback automatically after submitting each question</td>
 	</tr></tbody></table>
-	*To learn more about the different quiz modes, click 
+To learn more about the different quiz modes, click 
 <a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">here</a>.
 	<ul><li>To use ShortAnsFA in a quiz, click <strong>Add New</strong> on the Module Editor page, then select <strong>Quiz</strong>. Proceed to Step 2 to continue creating a quiz. </li>
 <li>To use ShortAnsFA in a standalone question, click <strong>Add New</strong> on the Module Editor page then select <strong>Activity</strong>. Proceed to Step 3 to continue creating a standalone question. </li></ul></li>
@@ -52,6 +48,9 @@ next to <strong>Use</strong> and select <strong>Short Answer Feedback Assistant<
 <img style="width: 100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_AddShortAnsFA01.png">
 </div>
 </li>
+<li>Additionally, you may choose to use Language Feedback Assistant for English concurrently to  allow students to receive more than one type of feedback in a single response.
+</li>
+<img style="width: 100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_SAFA4.png">
 <li>
 <p>From the Leniency dropdown list, select the intended leniency of the feedback
 and marks provided by ShortAnsFA. High leniency would cause feedback generated
@@ -83,8 +82,11 @@ would be 500 words long. The default Response Size is set to <strong>Medium</str
 		<img style="width: 80%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_SAFA7.png"></li>
 <li>Click outside the Component to save.</li>
 <li>Click the <strong>Up/Down</strong> arrows to set the Marks for the question. </li>
-<li><strong>Tag the question to the Subject/ Level/ Learning Outcome</strong> or Content Map to increase accuracy or the response.<img style="width: 100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_SAFA10.png">When you are done editing, click outside the Component to save.</li>
-<li>For standalone questions, Progressive Quiz and Auto-graded Quiz, , feedback from ShortAnsFA will be shown immediately after students have completed the question. For Teacher Marked Quiz, feedback will be shown after you have marked and released the quiz. Click <a target="_blank" href="/teacher-user-guide/assess/release-teacher-marked-quizzes/">here</a>for more information on how to return the feedback for Teacher Marked Quiz.</li>
+<li><strong>Tag the question to the Subject/ Level/ Learning Outcome</strong> or Content Map to increase accuracy of the response.<img style="width: 100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_SAFA10.png"></li>
+<li>When you are done editing, click outside the Component to save.</li>
+<li>Before assigning to students, you can preview the feedback by clicking <b>Preview as Student</b> to ensure that the question has been configured correctly.</li>
+<img style="width: 50%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_SAFA11.png">
+<li>For standalone questions, Progressive Quiz and Auto-graded Quiz, feedback from ShortAnsFA will be shown immediately after students have completed the question. For Teacher Marked Quiz, feedback will be shown after you have marked and released the quiz. Click <a target="_blank" href="/teacher-user-guide/assess/release-teacher-marked-quizzes/">here</a>for more information on how to return the feedback for Teacher Marked Quiz.</li>
 <li>You may still review and edit the feedback generated by ShortAnsFA (refer to Table A and B). Under the <strong>Monitor Assignment</strong> page and clicking <strong>Teacher Comments</strong>. You are encouraged to check that the feedback and marks are accurate and appropriate; and engage in further discussions with your students.  
 </li>
 </ol>

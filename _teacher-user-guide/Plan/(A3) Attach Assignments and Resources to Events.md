@@ -45,8 +45,8 @@ third_nav_title: Plan
 <li>Alternatively, click the <strong>Event</strong> card to open the Event Details subpage. Click <strong>Attach</strong> and select a resource location - <strong>From My Drive</strong>, <strong>From Library</strong>, <strong>From Starred Resources</strong>.
 	<ol style="list-style-type: lower-alpha;">
 <li>From My Drive: select between My Modules and Shared with Me by clicking <strong>Open</strong> below the respective folder title. Select a Module by clicking the radio button, followed by <strong>Choose</strong>.</li>
-<li>From Library: <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">search for a Module</a> from MOE Library or Community Gallery. Select a <strong>Module card</strong> to add that particular lesson as a resource. Click the <strong>View Details</strong> icon to view the lesson details. You may select <strong>Choose</strong> to add the Module as a resource, or <strong>Back to Attach Resources</strong> to select a different Module.</li>
-<li>From Starred Resources: Select a <strong>Module card</strong> to add that particular lesson as a resource.</li>
+<li>From Library: <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">search for a Module</a> from MOE Library or Community Gallery. Select a <strong>Module card</strong> to add that particular module as a resource. Click the <strong>View Details</strong> icon to view the module details. You may select <strong>Choose</strong> to add the Module as a resource, or <strong>Back to Attach Resources</strong> to select a different Module.</li>
+<li>From Starred Resources: Select a <strong>Module card</strong> to add that particular module as a resource.</li>
 <li>After selecting a resource, you will be brought back to the Event Details subpage, with the selected resource attached.</li>
 </ol>
 <h2>Attaching Resources to a Class Group Event</h2>
@@ -60,8 +60,8 @@ third_nav_title: Plan
 <li>To attach a resource from other locations, click <strong>Add Resource</strong> and select a resource location - <strong>From My Drive</strong>, <strong>From Library</strong>, <strong>From Starred Resources</strong>.
 	<ol style="list-style-type: lower-alpha;">
 <li>From My Drive: select between My Modules and Shared with Me by clicking <strong>Open</strong> below the respective folder title. Select a Module by clicking the radio button, followed by <strong>Choose</strong>.</li>
-<li>From Library: <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">search for a Module</a> from MOE Library or Community Gallery. Select a <strong>Module card</strong> to add that particular lesson as a resource. Click the <strong>View Details</strong> icon to view the lesson details. You may select <strong>Choose</strong> to add the Module as a resource, or <strong>Back to Add from Library</strong> to select a different Module.</li>
-<li>From Starred Resources: Select a <strong>Module card</strong> to add that particular lesson as a resource.</li>
+<li>From Library: <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">search for a Module</a> from MOE Library or Community Gallery. Select a <strong>Module card</strong> to add that particular module as a resource. Click the <strong>View Details</strong> icon to view the module details. You may select <strong>Choose</strong> to add the Module as a resource, or <strong>Back to Add from Library</strong> to select a different Module.</li>
+<li>From Starred Resources: Select a <strong>Module card</strong> to add that particular module as a resource.</li>
 </ol>
 </li>
 <li>Resource that is selected from My Drive, MOE Library, Community Gallery, and Starred Resources will redirect you to the Resource Title subpage. Enter the Module Title, select a Category (optional), adjust the Permission Settings (optional), and click <strong>Create</strong>.</li>
@@ -83,4 +83,4 @@ third_nav_title: Plan
 <h2>Video Tutorial</h2>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Create New Events and Attach Resources from Planner" src="https://www.youtube.com/embed/kFcGdlOW-Rw" height="100%" width="100%"></iframe>
-</div>The "Lessons" in My Drive mentioned in the video have been relabelled to "Modules" from V2 R1.</li></ol>
+</div>The "Lessons" in My Drive mentioned in the video have been relabelled to "Modules".</li></ol>
