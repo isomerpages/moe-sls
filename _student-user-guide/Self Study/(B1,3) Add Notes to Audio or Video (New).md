@@ -14,11 +14,11 @@ third_nav_title: Self Study
 </li>
 <li>
 <p>At the specific timestamp, click on the <strong>Create Note</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/createnote.svg"> to add note to the video.</p>
-<p><img alt="Add Notes to Audio or Video" src="/images/1Student/SS_AnnotateImage.png"></p>
+<p><img alt="Add Notes to Audio or Video" src="/images/1Student/SS_Addnotesaudio.png"></p>
 </li>
 <li>
 <p>Create a note by entering remarks related to the timestamp and click <strong>Save</strong>.</p>
-<p><img alt="Add Notes to Audio or Video" src="/images/1Student/SS_AnnotateImage1.png"></p>
+<p><img alt="Add Notes to Audio or Video" src="/images/1Student/SS_Addnotesaudio1.png"></p>
 </li>
 <li>
 <p>A <strong>pin indicator</strong> will appear on the media player at the points where an annotation is made. Click on the <strong>pin</strong> to skip to the corresponding timestamp.</p>
