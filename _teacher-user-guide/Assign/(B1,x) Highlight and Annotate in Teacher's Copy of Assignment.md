@@ -6,7 +6,7 @@ third_nav_title: Assign
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="highlight-and-annotate-in-teacher-s-copy-of-assignment">(B1,x) Highlight and Annotate in Teacher's Copy of Assignment</h1>
+<h1 id="highlight-and-annotate-in-teacher-s-copy-of-assignment">(B1,x) Highlight and Annotate in Teacher's Copy of Assignment</h1><hr>
 <h2 id="-create-annotations-highlights-">Create Annotations (Highlights)</h2>
 <hr>
 <p>After you have assigned a Module to students, you are able to make annotations (highlights) in your own copy of the Assignment.</p>
