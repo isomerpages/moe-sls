@@ -68,7 +68,7 @@ variant: markdown
 </details></li>
 <li><details><summary><h4>Feedback Assistants</h4></summary>
 <ul>
-<li><strong>Combine Feedback Assistants</strong>: Teachers can send students’ responses to both Language Feedback Assistant for English (LangFA-EL) and Short Answer Feedback Assistant (ShortAnsFA) to allow students to receive more than one type of feedback in a single response.</li>
+<li><strong>Combine Feedback Assistants</strong>: Teachers can send students’ responses to both <a target="_blank" href="/teacher-user-guide/assess/add-language-feedback-assistant-for-english/">Language Feedback Assistant for English (LangFA-EL)</a> and <a target="_blank" href="/teacher-user-guide/assess/add-short-answer-feedback-assistant/">Short Answer Feedback Assistant (ShortAnsFA)</a> to allow students to receive more than one type of feedback in a single response.</li>
 </ul>
 </details></li>
 <li><details><summary><h4>Video Conferencing</h4></summary>
