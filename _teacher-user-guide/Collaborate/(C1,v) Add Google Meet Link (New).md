@@ -82,7 +82,7 @@ third_nav_title: Collaborate
      <p><img alt="Add Google Meet Link" style="width: 100%;" src="/images/2Teacher/C_Googlemeet4.png"></p>
     </li>
     <li>
-        <p>Select the checkbox <strong>Add Video Link</strong> and select the level of security for the meetings: Open, Trusted, Restricted.</p>
+        <p>Select the checkbox <strong>Add Video Link</strong> and select the level of security for the meetings: Open, Trusted or Restricted.</p>
      <p><img alt="Add Google Meet Link" style="width: 100%;" src="/images/2Teacher/C_Googlemeet5.png"></p>
     </li>
     <li>
