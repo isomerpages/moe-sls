@@ -16,4 +16,4 @@ variant: markdown
 <li>You can select the English tab to view the English meaning of the word (if enabled by your teacher).</li>
 <li>You can also select the Add To Notes option to add what you have searched into your Notes. This creates an easy point of reference for you to revisit the meaning of the word in the future.</li>
 </ol>
-<img alt="E-Dictionary" style="width: 50%;" src="/images/1Student/As-EDict1.png">
+<img alt="E-Dictionary" style="width: 80%;" src="/images/1Student/As_EDict2.png">
