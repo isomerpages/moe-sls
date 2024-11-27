@@ -16,7 +16,7 @@ Use SLS to search for and find useful T&amp;L resources for use in your Modules.
   <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-activities-from-resources/">(A1,1) Add Existing Activities from Resources</a></li>
   <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-components-from-resources/">(A1,2) Add Existing Components from Resources</a></li>
   <li><a target="_blank" href="/teacher-user-guide/discover/add-existing-media-objects-from-resources/">(A1,3) Add Existing Media Objects from Resources</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">(A2) Search for Resources</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">(A2) Search for Resources (Enhanced)</a></li>
   <li><a target="_blank" href="/teacher-user-guide/discover/view-module-details/">(A3) View Module Details</a></li>
 </ul>
 </details>
