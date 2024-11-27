@@ -17,18 +17,16 @@ variant: markdown
 <p>You can rename the Module/Section Title by clicking on the titles on the
 top menu bar and save by clicking outside of it.</p>
 </li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="AU-AddNewActivitySection1" src="/images/2Teacher/AU_AddNewActivitySection1.png">
 </div>
-<ol>
 <li>
 <p>You can then add the Components in the Activity page from the Component
 Bar. Click outside of the Component to save.</p>
 </li>
 <li>
 <p>You can choose to set a recommended duration for students to complete
-each Activity. (NEW)</p>
+each Activity.</p>
 </li>
 <li>
 <p>After you are done editing the Activity, you can click <strong>Add New</strong> and
