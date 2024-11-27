@@ -70,9 +70,9 @@ variant: markdown
 <li><a href="/teacher-user-guide/author/view-and-edit-module-plans/" target="_blank">(B1,iv) View and Edit Modules Plans</a></li>
 <li><a href="/teacher-user-guide/author/make-a-copy-of-modules-or-assignments/" target="_blank">(B1,v) Make a Copy of Modules &amp; Assignments</a></li>
 <li><a href="/teacher-user-guide/author/edit-detail-cards/" target="_blank">(B1,vi) Edit Detail cards</a></li>
-<li><a href="/teacher-user-guide/author/add-question-tags/" target="_blank">(B1,vii) Add Question Tags</a></li>
-<li><a href="/teacher-user-guide/author/add-module-tags/" target="_blank">(B1,viii) Add Module Tags</a></li>
-<li><a href="/teacher-user-guide/author/edit-media-objects/" target="_blank">(B1,ix) Edit Media Objects</a></li>
+<li><a href="/teacher-user-guide/author/add-question-tags/" target="_blank">(B1,vii) Add Question Tags (Enhanced)</a></li>
+<li><a href="/teacher-user-guide/author/add-module-tags/" target="_blank">(B1,viii) Add Module Tags (Enhanced)</a></li>
+<li><a href="/teacher-user-guide/author/edit-media-objects/" target="_blank">(B1,ix) Edit Media Objects (Enhanced)</a></li>
 <li><a href="/teacher-user-guide/author/move-modules-to-trash/" target="_blank">(B1,x) Move Modules to Trash</a></li>
 <li><a href="/teacher-user-guide/author/file-size-limits/" target="_blank">(B1,xi) File Size Limits</a></li>
 </ul>
