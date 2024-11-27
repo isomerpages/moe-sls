@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-a-discussion-">(C1,iii) Add a Discussion</h1>
+<h1 id="add-a-discussion-">(C1,iii) Add a Discussion (Enhanced)</h1><hr>
 <h2 id="-create-a-discussion-from-module-editor-page-">Create a Discussion from Module Editor page</h2>
 <hr>
 <p>From R19, teachers can create Discussions in Modules to promote conversations about certain issues.</p>
