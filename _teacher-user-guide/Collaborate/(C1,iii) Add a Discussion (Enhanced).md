@@ -9,7 +9,6 @@ variant: markdown
 <h1 id="add-a-discussion-">(C1,iii) Add a Discussion (Enhanced)</h1><hr>
 <h2 id="-create-a-discussion-from-module-editor-page-">Create a Discussion from Module Editor page</h2>
 <hr>
-<p>From R19, teachers can create Discussions in Modules to promote conversations about certain issues.</p>
 <ol>
 <li>In the Module Editor page, select an Activity and hover your mouse over <strong>Interactive</strong> in the Component Bar, followed by <strong>Discussion</strong>. </li>
 <li>Enter the following fields:<ul>
@@ -28,3 +27,35 @@ variant: markdown
 <h2 id="-preview-as-student-">Preview as Student</h2>
 <hr>
 <p>When you Preview as Student or assign a Discussion to students, students will be able to create Posts in response to the question.</p>
+<h2>View Discussion</h2>
+<hr>
+<p>You can view and comment on your students’ responses by clicking <strong>View Discussion</strong>.</p>
+<h2>View Comments</h2>
+<hr>
+<p>To view comments on any response, click on the <b>Response card</b>.</p>
+<p>All the comments will be shown in the order of time posted, with the most recent post at the bottom. The number of comments is shown in parenthesis.</p>
+<p> Click the <strong>Refresh</strong> button at the top left-hand corner to update responses.</p>
+<h2>Comment on Students’ Responses</h2>
+<hr>
+<p>To comment on one of your student's responses,</p>
+<ol>
+    <li>
+			<p>Click the <b>Response card</b>, followed by <strong>Add</strong> on the bottom right.</p>
+    </li>
+    <li>
+        <p>Apart from text responses, you can include the following:</p>
+        <ul>
+            <li><a href="/teacher-user-guide/author/insert-mathematical-or-chemical-equations/">Mathematical or chemical equations</a></li>
+        </ul>
+    </li>
+    <li>
+        <p>After typing in your comment, click <strong>Post</strong>.</p>
+        <p><img alt="Add a Discussion" style="width: 80%;" src="/images/2Teacher/C_ITTComponent1.png"></p>
+    </li>
+    <li>
+        <p>You can edit/delete your response by clicking on the <b>Overflow</b> (<b>3-dot</b> icon).</p>
+    </li>
+    <li>
+        <p>If you wish to notify students of the comment, select the <strong>Notify student(s)</strong> checkbox.</p>
+    </li>
+</ol>
