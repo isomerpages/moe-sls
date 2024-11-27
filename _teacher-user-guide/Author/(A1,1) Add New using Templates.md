@@ -54,4 +54,4 @@ variant: markdown
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Add New using Templates" src="https://www.youtube.com/embed/E_LKZUqKad4" height="100%" width="100%"></iframe></div>
 <p>Please note the following update(s):
-</p><ol><li>The “Create New Lesson” button mentioned at 00:07 has been relabelled to “Create/Edit New Module” from V2 R1.</li></ol><p></p>
+</p><ol><li>The “Create New Lesson” button mentioned at 00:07 has been relabelled to “Create/Edit New Module”.</li></ol><p></p>
