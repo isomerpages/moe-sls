@@ -63,7 +63,7 @@ variant: markdown
 <li><details><summary><h4>Adaptive Learning System (ALS)</h4></summary>
 <ul>
 <li><strong>Prioritisation</strong>: Teachers can select topics/subtopics for ALS to prioritise in recommending to students in class groups, and alert students to these recommendations by sending notifications.</li>
-<li><strong>Linked Activities</strong>: Teachers can link activities to be recommended in a series in ALS.</li>
+<li><strong>Linked Activities</strong>: Teachers can <a target="_blank" href="/teacher-user-guide/discover/link-activities-in-als-content/">link activities</a>  to be recommended in a series in ALS.</li>
 </ul>
 </details></li>
 <li><details><summary><h4>Feedback Assistants</h4></summary>
