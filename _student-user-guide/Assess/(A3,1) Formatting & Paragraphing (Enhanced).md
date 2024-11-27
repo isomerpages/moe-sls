@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="formatting-paragraphing">(A3,1) Formatting &amp; Paragraphing (Enhanced)</h1><hr>
-<p>From Release 2 (Nov 2024), new English fonts are available.</p>
+<p>From R2 (Nov 2024), new English fonts are available.</p>
 <img alt="Formatting &amp; Paragraphing" style="width: 50%;" src="/images/1Student/AS_Formatting.png">
 <h2 id="formatting-text">Formatting Text</h2>
 <hr>
