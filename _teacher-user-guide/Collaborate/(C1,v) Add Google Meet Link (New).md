@@ -78,11 +78,11 @@ third_nav_title: Collaborate
      <p><img alt="Add Google Meet Link" style="width: 100%;" src="/images/2Teacher/C_Googlemeet3.png"></p>
     </li>
     <li>
-        <p>Select the option <strong>Apply Subgroups as Teams, Create New Team</strong> or <strong>Create Multiple Teams</strong>.</p>
+        <p>Select the option <strong>Apply Subgroups as Teams, Create New Team</strong> or <strong>Create Multiple Teams</strong>. For Apply Subgroups as Teams, select the Teams that require the Google Meet links.</p>
      <p><img alt="Add Google Meet Link" style="width: 100%;" src="/images/2Teacher/C_Googlemeet4.png"></p>
     </li>
     <li>
-        <p>When applied Subgroups as Teams, select the Teams that require the Google Meet links. Select the checkbox <strong>Add Video Link</strong> and select the level of security for the meetings: Open, Trusted, Restricted.</p>
+        <p>Select the checkbox <strong>Add Video Link</strong> and select the level of security for the meetings: Open, Trusted, Restricted.</p>
      <p><img alt="Add Google Meet Link" style="width: 100%;" src="/images/2Teacher/C_Googlemeet5.png"></p>
     </li>
     <li>
