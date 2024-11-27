@@ -18,9 +18,11 @@ variant: markdown
 <li><p>To highlight a text without leaving a Note, select the <strong>Highlight</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Highlight.svg">. To leave a Note, select <strong>Create Note</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Annotate.svg">. </p>
 <p><img alt="Highlight and Annotate in Teacher's Copy of Assignment" style="width: 80%;" src="/images/2Teacher/AS-HighlightAnnotate1.png"></p>
 </li>
-<li><p>From Release 2 (Nov 2024), you may also add annotations to audio and video files by clicking the <b>Create Note</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/createnote.svg">.</p>
+<li><p>You may also add annotations to images by clicking the <strong>Add Note to Image</strong> icon  below the image and tapping the image to select the area to place the annotation indicator.</p>
 <p><img alt="Highlight and Annotate in Teacher's Copy of Assignment" style="width: 80%;" src="/images/2Teacher/AS-HighlightAnnotate2.png"></p>
 </li>
+<li>From Release 2 (Nov 2024), you may also add annotations to audio and video files by clicking the <b>Create Note</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/createnote.svg"></li>
+<img alt="Highlight and Annotate in Teacher's Copy of Assignment" style="width: 80%;" src="/images/2Teacher/AS_HighlightAnnotate6.png">
 <li><p>A text box will appear for you to type in your annotation.</p>
 <ul>
 <li>You may insert mathematical or chemical equations, include emoticons, a drawing or upload a file or audio recording..</li>
@@ -31,9 +33,25 @@ variant: markdown
 </li>
 <li><p>Once you are done, click <strong>Save</strong>.</p>
 </li>
-<li><p>Annotations will be visible in the Annotations Drawer. Click the <strong>Notepad</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Note.svg"> to Expand/Hide the Annotations Drawer.</p>
+<li><p>Annotations will be visible in the Annotations Drawer, which will be closed by default. Click the <strong>Notepad</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Note.svg"> to Expand/Hide the Annotations Drawer.</p>
 <p><img alt="Highlight and Annotate in Teacher's Copy of Assignment" style="width: 80%;" src="/images/2Teacher/AS-HighlightAnnotate4.png"></p>
 </li>
+<li>
+        <p>If there are annotations to multiple components of the module, users can choose to <strong>collapse or expand all</strong> annotations.</p>
+    </li>
+    <li>
+        <p>Click on the <strong>Annotation card</strong> to view the corresponding highlighted component in the activity or module.</p>
+<img alt="Highlight and Annotate in Teacher's Copy of Assignment" style="width: 80%;" src="/images/2Teacher/AS_HighlightAnnotate7.png">
+    </li>
+    <li>
+        <p>For activities or quizzes with multiple pages, the annotations will be divided by pages in the annotation drawer.</p>
+<img alt="Highlight and Annotate in Teacher's Copy of Assignment" style="width: 80%;" src="/images/2Teacher/AS_HighlightAnnotate8.png">
+    </li>
+    <li>
+        <p>To view the annotations, click on the respective pages. Clicking on the A<strong>nnotation cards</strong> will bring you to the respective page of the quiz or activity.</p>
+<img alt="Highlight and Annotate in Teacher's Copy of Assignment" style="width: 80%;" src="/images/2Teacher/AS_HighlightAnnotate9png">
+    </li>
+
 </ol>
 <h2 id="-create-notes-">Create Notes</h2>
 <hr>
