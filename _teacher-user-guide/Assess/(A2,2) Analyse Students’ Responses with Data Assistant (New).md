@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Assess
 ---
-<h1><strong>(A2,2) Analyse Students’ Responses with Data Assistant (New)</strong></h1>
+<h1>(A2,2) Analyse Students’ Responses with Data Assistant (New)</h1>
 <hr>
 <h2>Analyse Students’ Reponses using Data Assistant</h2>
 <hr>
