@@ -49,7 +49,7 @@ variant: markdown
     </li>
     <li>
         <p>To view the annotations, click on the respective pages. Clicking on the A<strong>nnotation cards</strong> will bring you to the respective page of the quiz or activity.</p>
-<img alt="Highlight and Annotate in Teacher's Copy of Assignment" style="width: 80%;" src="/images/2Teacher/AS_HighlightAnnotate9png">
+<img alt="Highlight and Annotate in Teacher's Copy of Assignment" style="width: 80%;" src="/images/2Teacher/AS_HighlightAnnotate9.png">
     </li>
 
 </ol>
