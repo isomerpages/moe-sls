@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="speech-evaluation-">(A3,13) Speech Evaluation</h1>
-<p>From R1, English Language Speech Evaluation is available.</p>
+<p>English Language Speech Evaluation is available.</p>
 <h2 id="enable-speech-evaluation">Enable Speech Evaluation</h2>
 <hr>
 <ol>
