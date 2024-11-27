@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-an-interactive-thinking-tool">(C1,i) Add an Interactive Thinking Tool (Enhanced)</h1>
+<h1 id="add-an-interactive-thinking-tool">(C1,i) Add an Interactive Thinking Tool (Enhanced)</h1><hr>
 <h2 id="-create-an-interactive-thinking-tool-">Create an Interactive Thinking Tool</h2>
 <hr>
 <ol>
