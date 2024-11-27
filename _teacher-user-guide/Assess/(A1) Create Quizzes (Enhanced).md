@@ -96,4 +96,4 @@ variant: markdown
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R20 Add a Quiz to a Lesson" src="https://www.youtube.com/embed/ehA16ctNJac" height="100%" width="100%"></iframe></div>
         
 
-The “Create New Lesson” button mentioned at 00:06 has been relabelled to “Create/Edit New Module” from V2 R1.
+The “Create New Lesson” button mentioned at 00:06 has been relabelled to “Create/Edit New Module”.
