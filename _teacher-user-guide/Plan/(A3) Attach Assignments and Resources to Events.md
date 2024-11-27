@@ -83,4 +83,4 @@ third_nav_title: Plan
 <h2>Video Tutorial</h2>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Create New Events and Attach Resources from Planner" src="https://www.youtube.com/embed/kFcGdlOW-Rw" height="100%" width="100%"></iframe>
-</div>The "Lessons" in My Drive mentioned in the video have been relabelled to "Modules" from V2 R1.</li></ol>
+</div>The "Lessons" in My Drive mentioned in the video have been relabelled to "Modules".</li></ol>
