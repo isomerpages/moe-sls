@@ -6,7 +6,7 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>About Class Groups</h1>
+<h1>About Class Groups (Enhanced)</h1>
 <hr>
 <p><strong>Important:</strong> From Release 2 (Nov 2024), Class Groups that are older than four years will be automatically archived and can no longer be accessed.</p>
 <p>There are two types of Class Groups in SLS:</p>
