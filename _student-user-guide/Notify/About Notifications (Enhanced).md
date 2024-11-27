@@ -17,7 +17,8 @@ variant: markdown
         <li>Assignments have been resumed (if enabled by your teacher)</li>
         <li>New Assignments have been added to a Class Group (if enabled by your teacher)</li>
         <li>Comments/Feedback/Results to Assignments have been given (if enabled by your teacher)</li>
-        <li>Comments have been given in Interactive Thinking Tools (ITT), Discussion Boards, Class Group forums or Monitor Assignment page (if enabled by your teacher).</li>
+        <li>Comments have been given in Interactive Thinking Tools (ITT), Discussion Boards, Class Group forums or Monitor Assignment page (if enabled by your teacher)</li>
+				<li>New Forum Discussion Topics and Polls (if enabled by your teacher)</li>
       </ul>
     </li>
     <li>You can filter your Notifications using the <strong>Viewing</strong> and <strong>Type</strong> dropdown list. You can further sort your Notifications by All, Unread and Flagged.</li>
