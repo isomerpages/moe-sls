@@ -32,7 +32,7 @@ third_nav_title: Assess
     <li>Data Assistant can work on questions marked by Short Answer Feedback Assistant to identify common errors and the students who made these errors.</li>
 	<li>Click on the <b>Overflow</b> (<b>3-dot</b> icon) to access various follow up actions you can undertake.</li>
     <li>Clicking <strong>Add Comments</strong> allows you to click <strong>View Students</strong> to see the names of students grouped together.</li>
-<img alt="Analyse Students’ Responses with Data Assistant" style="width: 70%;" src="/images/2Teacher/AS_DAT5.png">
+<img alt="Analyse Students’ Responses with Data Assistant" style="width: 50%;" src="/images/2Teacher/AS_DAT5.png">
     <li>Teacher Comments will be prepopulated with the analysis from Data Assistant. Click <strong>Send</strong> to share your comments with grouped students. You may also notify students of the comment added by checking the Notify student(s) checkbox.</li>
     <li>Click <strong>Filter Students</strong> to view all responses of any grouped students.</li>
     <li>For Discussion Board/Forum: Click <strong>Add Keyword Tags</strong> to label posts with relevant tags for easier categorisation.</li>
