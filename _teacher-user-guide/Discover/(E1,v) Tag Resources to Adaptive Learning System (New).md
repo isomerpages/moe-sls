@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Discover
 ---
-<h1>(E1, v) Tag Resources to Adaptive Learning System (New)</h1>
+<h1>(E1,v) Tag Resources to Adaptive Learning System (New)</h1>
 <hr>
 <p>ALS has been enhanced to allow teachers to better customise ALS according to the needs of their students. Teachers can tag their own content and assessment items to ALS content maps and allow these to be recommended by ALS for their students, in addition to existing content items developed by CPDD. </p>
 <h2>Overview of how to add resources to ALS</h2>
