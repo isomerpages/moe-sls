@@ -102,7 +102,6 @@ collections:
       - Author/(B1,x) Move Modules to Trash.md
       - Author/(B1,xi) File Size Limits.md
       - Author/(C1,i) Copyright Resources.md
-      - Collaborate/(C1,v) Add Google Meet Link (New).md
       - Collaborate/.keep
       - Collaborate/Collaborate.md
       - Collaborate/About the Forum.md
@@ -116,6 +115,7 @@ collections:
       - Collaborate/(C1,ii) Add a Poll.md
       - Collaborate/(C1,iii) Add a Discussion (Enhanced).md
       - Collaborate/(C1,iv) Attach Google Files.md
+      - Collaborate/(C1,v) Add Google Meet Link (New).md
       - Collaborate/(D1,i) Share a Module.md
       - Collaborate/(D1,ii) Access a Shared Module.md
       - Customise/.keep
