@@ -14,10 +14,10 @@ variant: markdown
  <summary><h4>A. How to create Assignments?</h4></summary>
 <ul>
     <li><a target="_blank" href="/teacher-user-guide/assign/create-assignments/">(A1,i) Create Assignments</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assign/quick-assign-activities-and-quizzes/">(A1,ii) Quick Assign Activities &amp; Quizzes</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assign/quick-assign-activities-and-quizzes/">(A1,ii) Quick Assign Activities &amp; Quizzes (New)</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assign/assign-moe-library-modules/">(A1,iii) Assign MOE Library Modules</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assign/assign-community-gallery-modules/">(A1,iv) Assign Community Gallery Modules</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assign/add-or-sort-assignments-in-class-group/">(A1,v) Add or Sort Assignments in Class Group (Enhanced)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assign/add-or-sort-assignments-in-class-group/">(A1,v) Add or Sort Assignments in Class Group</a></li>
   </ul>
 </details>
 
@@ -33,7 +33,7 @@ variant: markdown
     <li><a target="_blank" href="/teacher-user-guide/assign/copy-assignments/">(B1,vii) Copy Assignments</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assign/allow-students-to-copy-assignments/">(B1,viii) Allow Students to Copy Assignments</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assign/allow-students-to-share-assignments/">(B1,ix) Allow Students to Share Assignments</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assign/highlight-and-annotate-in-teachers-copy-of-assignment/">(B1,x) Highlight and Annotate in Teacher's Copy of Assignment</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assign/highlight-and-annotate-in-teachers-copy-of-assignment/">(B1,x) Highlight and Annotate in Teacher's Copy of Assignment (Enhanced)</a></li>
   </ul>
 </details>
 <details>
