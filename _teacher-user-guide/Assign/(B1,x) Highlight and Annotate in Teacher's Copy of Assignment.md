@@ -18,7 +18,7 @@ variant: markdown
 <li><p>To highlight a text without leaving a Note, select the <strong>Highlight</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Highlight.svg">. To leave a Note, select <strong>Create Note</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Annotate.svg">. </p>
 <p><img alt="Highlight and Annotate in Teacher's Copy of Assignment" style="width: 80%;" src="/images/2Teacher/AS-HighlightAnnotate1.png"></p>
 </li>
-<li><p>You may also add annotations to images by clicking the <strong>Add Note to Image</strong> icon  below the image and tapping the image to select the area to place the annotation indicator.</p>
+<li><p>From Release 2 (Nov 2024), you may also add annotations to audio and video files by clicking the <b>Create Note</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/createnote.svg">.</p>
 <p><img alt="Highlight and Annotate in Teacher's Copy of Assignment" style="width: 80%;" src="/images/2Teacher/AS-HighlightAnnotate2.png"></p>
 </li>
 <li><p>A text box will appear for you to type in your annotation.</p>
