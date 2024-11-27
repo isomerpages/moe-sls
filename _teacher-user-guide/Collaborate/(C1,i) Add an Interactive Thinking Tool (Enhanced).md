@@ -56,7 +56,7 @@ variant: markdown
     <li>
         <p>Apart from text responses, you can include the following:</p>
         <ul>
-            <li><a href="/student-user-guide/assess/insert-mathematical-or-chemical-equations/">Mathematical or chemical equations</a>.</li>
+            <li><a href="/teacher-user-guide/author/insert-mathematical-or-chemical-equations/">Mathematical or chemical equations</a>.</li>
         </ul>
     </li>
     <li>
