@@ -47,15 +47,15 @@ variant: markdown
 <ol>
 <li><details><summary><h4>Data Assistant (DAT)</h4></summary>
 <ul>
-<li><strong>Analyse Responses</strong>: This new feature allows teachers to ask stock or customised questions about data in the Aggregated Student Response page for Free-Response Questions, the Interactive Thinking Tool (ITT), the discussion boards and forums. Teachers can query data for trends and analysis using customisable queries.</li>
+<li><strong>Analyse Responses</strong>: This <a target="_blank" href="/teacher-user-guide/assess/analyse-students-responses-with-data-assistant/">new feature</a> allows teachers to ask stock or customised questions about data in the Aggregated Student Response page for Free-Response Questions, the Interactive Thinking Tool (ITT), the discussion boards and forums. Teachers can query data for trends and analysis using customisable queries.</li>
 <li><strong>Follow-up</strong>: Teachers can view a list of students clustered based on set criteria and perform follow-up actions like mass-adding comments and/or filtering students. They can also bookmark responses in ITT and add keyword tags to posts in the discussion boards and forums.</li>
 </ul>
 </details></li>
 <li><details><summary><h4>Authoring Copilot (ACP)</h4></summary>
 <ul>
-<li><strong>Additional Question Types</strong>: Teachers can use ACP to generate more question types like Error Editing, Fill-in-the-Blanks and Interactive Thinking Tool.</li>
+<li><strong>Additional Question Types</strong>: Teachers can use <a target="_blank" href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-quizzes/">ACP</a> to generate more question types like Error Editing, Fill-in-the-Blanks and Interactive Thinking Tool.</li>
 <li><strong>Suggested Answer for Free Response Questions</strong>: Teachers can generate suggested answers alongside Free Response Questions.</li>
-<li><strong>Direct Generation from Component Bar:</strong> Teachers can use ACP to generate components directly from the component bar, and regenerate components based on existing components.</li>
+<li><strong>Direct Generation from Component Bar:</strong> Teachers can use <a target="_blank" href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/">ACP to generate components</a>  directly from the component bar, and regenerate components based on existing components.</li>
 <li><strong>Templates</strong>: Teachers can select MOE or personal templates in SLS for ACP to use in generating sections, activities, quizzes and/or components.</li>
 <li><strong>Subject/Level Tagging</strong>: Teachers can now tag subjects and levels independently without content map dependency.</li>
 </ul>
