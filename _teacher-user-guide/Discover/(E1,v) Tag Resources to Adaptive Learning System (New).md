@@ -23,8 +23,7 @@ third_nav_title: Discover
 	<li>Click <strong>Add Module Tag</strong>.</li>
 	<li>Select the Subject and Level. From the Content Map dropdown list, select the content map with ‘(ALS)’ indicated. Select the checkboxes with the orange Learning Outcome <img alt="Iearningoutcome" style="width:1.5rem; display: inline;" src="/images/Icons/learningoutcome.svg"> next to the intended learning outcomes of the subtopic.
 <br><u>Note</u>:
-<ul><li>If there is no content map with ‘(ALS)’ indicated, the selected subject and level is currently unavailable on ALS.</li> 
-<li>Only learning outcomes with the orange Learning Outcome <img alt="Iearningoutcome" style="width:1.5rem; display: inline;" src="/images/Icons/learningoutcome.svg"> are available for recommendation in ALS.
+<ul><li>Only learning outcomes with the orange Learning Outcome <img alt="Iearningoutcome" style="width:1.5rem; display: inline;" src="/images/Icons/learningoutcome.svg"> are available for recommendation in ALS.
 	</li><li>Select the learning outcomes which correspond to the subtopic.</li></ul>
 	<img alt="(E1, v) Tag Resources to Adaptive Learning System" style="width: 100%;" src="/images/2Teacher/D_Tag_ALS4.png"></li>
 	<li>Click the Setting icon <img alt="setting" style="width:1.5rem; display: inline;" src="/images/Icons/setting.svg"> on the Section card.
