@@ -6,7 +6,7 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A1) Create Class Groups (Enhanced)</h1>
+<h1>(A1) Create Class Groups</h1>
 
 <ol>
 <li>From the homepage, open the left menu and click <strong>Class Groups</strong>, followed by <strong>All Class Groups</strong>. Alternatively, under the Class Groups tab, click <strong>Class 
