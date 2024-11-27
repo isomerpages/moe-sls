@@ -10,7 +10,7 @@ variant: markdown
 <p>Use SLS to plan and organise self-study resources and share good resources with peers.</p>
 <details><summary><h4>A. How to use Adaptive Learning? </h4></summary>
 <ul>
-<li><a href="/student-user-guide/self-study/about-adaptive-learning-system/" target="_blank">About Adaptive Learning System (ALS) (Enhanced)</a></li>
+<li><a href="/student-user-guide/self-study/about-adaptive-learning-system/" target="_blank">About Adaptive Learning System (ALS)</a></li>
 <li><a href="/student-user-guide/self-study/access-adaptive-learning-system/" target="_blank">(A1) Access Adaptive Learning System (ALS) (Enhanced)</a></li>
 </ul>	
 </details>
