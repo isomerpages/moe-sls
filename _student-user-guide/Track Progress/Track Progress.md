@@ -15,7 +15,7 @@ variant: markdown
     <li><a target="_blank" href="/student-user-guide/track-progress/view-by-topic/">(A2,1) View by Topic</a></li>
     <li><a target="_blank" href="/student-user-guide/track-progress/view-by-month/">(A2,2) View by Month</a></li>
     <li><a target="_blank" href="/student-user-guide/track-progress/view-by-question/">(A2,3) View by Question</a></li>
-	   <li><a target="_blank" href="/student-user-guide/track-progress/view-by-multiple-class-groups/">(A2,4) View by Multiple Class Groups</a></li>
+	   <li><a target="_blank" href="/student-user-guide/track-progress/view-by-multiple-class-groups/">(A2,4) View by Multiple Class Groups (New)</a></li>
     <li><a target="_blank" href="/student-user-guide/track-progress/view-als-learning-progress/">(A2,5) View ALS Learning Progress (New)</a></li>
 </ul>
   </details>
