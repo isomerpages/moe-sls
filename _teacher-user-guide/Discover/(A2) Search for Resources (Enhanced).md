@@ -75,27 +75,25 @@ variant: markdown
 <h2>View Search Results</h2>
 <hr>
 <ol>
-<li>You can sort the resources by&nbsp;<em>Relevance </em>to your search term(s), <em>Popularity</em> (only in Community Gallery or MOE Library), or according to the date of the latest edit. You can also view the search results in card or List view by clicking 
-<img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png">	and <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">
-</li><li>Click the <strong>Module card</strong> to enter the Module in a new tab. On the Module card, you will be able to view the following information:</li>
+<li>You can sort the resources by&nbsp;<em>Relevance </em>to your search term(s), <em>Popularity</em> (only in Community Gallery or MOE Library), or according to the date of the latest edit.
+</li>
+<img style="width: 100%;" alt="Search for Resources" src="/images/2Teacher/D_Searchresources3.png"><li>Click the <strong>Module card</strong> to view Module Details. In Module Details, you will be able to view the following information:</li>
 <ul>
-<li>Module Location</li>
 <li>Resource Title</li>
-<li>Level and Subject (for Modules only)</li>
+<li>Resource Description</li>
+<li>Teacher Notes (if any)</li>
+<li>Module Location</li>
+<li>Subject and Level (for Modules only)</li>
 <li>Type of Resource</li>
 <li>Number of Views (for Modules only)</li>
-<li>Number of Reviews (for Modules only</li>
+<li>Keyword Tags</li>
 </ul>
-
-<p><strong>Note</strong>: Resources that are downloadable can be downloaded from the Resource card.</p>
-
-<img style="width: 50%;" alt="ModuleCard" src="/images/2Teacher/D-LessonCard.png">
-
-<li>To view the Module Details, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Module card, followed by <strong>View Details</strong>. Click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg"> to open the Module in a new tab.</li>
+<p><u>Note</u>: Resources that are downloadable can be downloaded from the Resource card.</p>
+<img style="width: 100%;" alt="Search for Resources" src="/images/2Teacher/D_Searchresources2.png">
 <li>To view the Module Reviews, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Module card, followed by <strong>See Reviews</strong>. Click <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">here</a> to learn how to leave a Review.</li>
 <li>To make a copy of the Module, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Module card, followed by <strong>Copy To</strong>. Click <a target="_blank" href="/teacher-user-guide/organise/copy-modules-within-my-drive/">here</a> to learn how to copy a resource to My Drive.</li>
+	<li>To open the Module, click on the <b>Expand</b> icon next to the Module title.</li>
 </ol>
-
 <h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
