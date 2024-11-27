@@ -47,8 +47,8 @@ organise and filter the resources.</p>
 <p>On the Resource tab in the class group, click <strong>Add Resource</strong>.</p>
 </li>
 <li>
-<p>Select where the resource is located: New Module (enhancement from V2
-R1), My Drive, Library (MOE Library and Community Gallery), Starred Resources.</p>
+<p>Select where the resource is located: New Module, My Drive, Library (MOE
+Library and Community Gallery), Starred Resources.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/O_Addresource.jpg">
 </div>
