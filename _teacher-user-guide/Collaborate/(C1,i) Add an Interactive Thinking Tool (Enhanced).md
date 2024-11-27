@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-an-interactive-thinking-tool">(C1,i) Add an Interactive Thinking Tool</h1>
+<h1 id="add-an-interactive-thinking-tool">(C1,i) Add an Interactive Thinking Tool (Enhanced)</h1>
 <h2 id="-create-an-interactive-thinking-tool-">Create an Interactive Thinking Tool</h2>
 <hr>
 <ol>
@@ -37,4 +37,36 @@ variant: markdown
 <li>Insert drawing</li>
 <li>Upload a file</li>
 <li>Upload an Audio Recording</li>
+</ol>
+<h2>View Class Submissions</h2>
+<hr>
+<p>You can view and comment on your students’ responses by clicking <strong>View Class Submissions</strong>.</p>
+<h3>View Comments</h3>
+<hr>
+<p>To view comments on any response, click on the <b>Response card</b>.</p>
+<p>All the comments will be shown, with the most recent post at the bottom. The number of comments is shown in parenthesis.</p> 
+	<p>Click the <strong>Refresh</strong> button at the top left-hand corner to update responses.</p>
+<h3>Comment on Students’ Responses</h3>
+<hr>
+<p>To comment on one of your student's responses,</p>
+<ol>
+    <li>
+			<p>Click the <b>Response card</b>, followed by <strong>Add</strong> on the bottom right.</p>
+    </li>
+    <li>
+        <p>Apart from text responses, you can include the following:</p>
+        <ul>
+            <li><a href="/student-user-guide/assess/insert-mathematical-or-chemical-equations/">Mathematical or chemical equations</a>.</li>
+        </ul>
+    </li>
+    <li>
+        <p>After typing in your comment, click <strong>Post</strong>.</p>
+        <p><img alt="Add an Interactive Thinking Tool" style="width: 80%;" src="/images/2Teacher/C_ITTComponent1.png"></p>
+    </li>
+    <li>
+			<p>You can edit/delete your response by clicking on <strong>Overflow</strong> (<b>3-dot</b> icon).</p>
+    </li>
+    <li>
+        <p>If you wish to notify students of the comment, select the <strong>Notify student(s)</strong> checkbox.</p>
+    </li>
 </ol>
