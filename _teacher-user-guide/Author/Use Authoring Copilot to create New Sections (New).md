@@ -19,7 +19,7 @@ On the homepage, click <b>Create New/Edit</b>. Click <b>Module</b>.
 </li>
 <li>
 Click the <b>orange Create</b> icon <img alt="Authoring Copilot" style="width:1.5rem; display: inline;" src="/images/Icons/ACP.svg"> to open Authoring Copilot.
-<img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP11.png">
+<img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP13.png">
 </li>
 <li>
 Add the Module Title.
