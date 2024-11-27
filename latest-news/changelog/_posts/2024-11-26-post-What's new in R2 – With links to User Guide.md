@@ -119,7 +119,7 @@ variant: markdown
 <li><details><summary><h4>Notifications</h4></summary>
 <ul>
 <li><strong>Comment Notifications</strong>: Teachers can notify students when they add comments in <a target="_blank" href="/teacher-user-guide/collaborate/add-an-interactive-thinking-tool/">Interactive Thinking Tools (ITT)</a>, <a target="_blank" href="/teacher-user-guide/collaborate/add-a-discussion/">discussion boards</a> or <a target="_blank" href="/teacher-user-guide/collaborate/about-the-forum/">class group forums</a>.</li>
-<li><strong>Monitor and Notify</strong>: Teachers can select students from the Monitor Assignment page to send them custom messages and notifications.</li>
+<li><strong>Monitor and Notify</strong>: Teachers can select students from the <a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/">Monitor Assignment page</a> to send them custom messages and notifications.</li>
 </ul>
 </details></li>
 </ol>
