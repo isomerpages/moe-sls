@@ -41,7 +41,7 @@ variant: markdown
 </ul>
 <h2>Monitor Student Draft Responses</h2>
 <hr>
-<p>From R1, you can monitor your students’ draft responses in the following question types:</p>
+<p>You can monitor your students’ draft responses in the following question types:</p>
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/author/add-multiple-choice-questions/">Multiple-Choice Questions</a></li>
 <li><a target="_blank" href="/teacher-user-guide/author/add-fill-in-the-blanks-questions/">Fill-in-the-Blank Questions</a></li>
