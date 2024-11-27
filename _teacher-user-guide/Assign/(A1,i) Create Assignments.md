@@ -39,4 +39,4 @@ variant: markdown
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Assign a Lesson" src="https://www.youtube.com/embed/lPoWf8y15qk" height="100%" width="100%"></iframe>
 </div>
 
-The "My Lessons” tab shown at 00:18 has been relabelled to “My Modules” tab from V2 R1.
+The "My Lessons” tab shown at 00:18 has been relabelled to “My Modules” tab.
