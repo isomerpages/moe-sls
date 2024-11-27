@@ -19,7 +19,7 @@ variant: markdown
 <p><img alt="Add Assignments to Class Group" style="width: 100%;" src="/images/2Teacher/AS-AddAssignment1.png"></p>
 <li>You may also add a new Category to your Class Group assignment. This can be used to organise the Assignments for your Class Group.</li>
 </ol>
-<h2 id="sort-assignments-to-class-group">Sort Assignments in Class Group (Enhanced)</h2>
+<h2 id="sort-assignments-to-class-group">Sort Assignments in Class Group</h2>
 <hr>
 <ol>
     <li>You can sort Assignments in Class Groups to find them easily.</li>
@@ -27,7 +27,7 @@ variant: markdown
     <li>Click <strong>Sort By</strong> and you can now sort the Assignments according to Assignment title, due or start date.</li>
 </ol>
 <p><img alt="Sort Assignments in Class Group" style="width: 100%;" src="/images/2Teacher/as_addassignment3.jpg"></p>
-<h2 id="sort-resources-in-class-group">Sort Resources in Class Group (Enhanced)</h2>
+<h2 id="sort-resources-in-class-group">Sort Resources in Class Group</h2>
 <hr>
 <ol>
     <li>You can sort Resources in Class Groups to find them easily.&nbsp;</li>
