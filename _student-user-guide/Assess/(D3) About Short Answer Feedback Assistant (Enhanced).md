@@ -23,5 +23,5 @@ image: /images/FaviconLight.png
 <img alt="About Short Answer Feedback Assistant (ShortAnsFA)" src="/images/1Student/AS_SAFA3.jpg" style="width: 50%;">
 <li>If LangFA-EL was enabled, you may also receive basic language feedback on areas such as spelling and grammar. Review the errors detected by LangFA-EL which are reflected on the annotation cards. To view more details of the error, click on the annotation cards.</li>
 <img alt="About Short Answer Feedback Assistant (ShortAnsFA)" src="/images/1Student/AS_SAFA1.png" style="width: 100%;">
-<p><u>Note:</u>As ShortAnsFA uses generative AI, its response is probabilistic in nature and this results in it being inaccurate at times. You are encouraged to reflect on the feedback received and discuss the feedback and marks with your teacher if you need further explanation.</p>
+<p><u>Note</u>: As ShortAnsFA uses generative AI, its response is probabilistic in nature and this results in it being inaccurate at times. You are encouraged to reflect on the feedback received and discuss the feedback and marks with your teacher if you need further explanation.</p>
 	</ol>
