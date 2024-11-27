@@ -12,8 +12,9 @@ variant: markdown
 <details>
  <summary><h4>A. How to assess students?</h4></summary>
  <ul>
-    <li><a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">(A1) Create Quizzes</a></li>
-    <li><a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/">(A2) Monitor Students' Responses in an Assignment</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">(A1) Create Quizzes (Enhanced)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/">(A2,1) Monitor Students' Responses in an Assignment (Enhanced)</a></li>
+    <li><a target="_blank" href="/teacher-user-guide/assess/analyse-students-responses-with-data-assistant/">(A2,2) Analyse Students’ Responses with Data Assistant (New)</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/add-teacher-comments/">(A3,1) Add Teacher Comments</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/annotate-underline-students-responses/">(A3,2) Annotate (Underline) Students' Responses</a></li>
     <li><a target="_blank" href="/teacher-user-guide/assess/mark-free-response-questions/">(A3,3) Mark Free Response Questions (New)</a></li>
