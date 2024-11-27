@@ -46,8 +46,7 @@ variant: markdown
 <li>To add more search filters, click <strong>More Filters</strong>.</li>
 <img style="width: 100%;" alt="Search for Resources" src="/images/1Student/SS_Searchresources2.png">
 <li>Under <strong>Resource</strong> (<strong>Resource Type</strong>), select from:
-<ul><li><strong>All</strong></li>
-<li><strong>Modules</strong></li>
+<ul><li><strong>Modules</strong></li>
 <li><strong>Questions (or Question Types)</strong></li>
 <li><strong>Media (or Media Types)</strong></li>
 <li><strong>Apps</strong></li>
