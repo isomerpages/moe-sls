@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Collaborate
 ---
-<h1><strong>(C1,v) Add Google Meet link (New)</strong></h1>
+<h1>(C1,v) Add Google Meet link (New)</h1>
 <hr>
 <p>Teachers can conduct online meetings on SLS by generating Google Meet links within class groups and assignments for synchronous lessons, discussions, or consultations.</p>
 <u>Important:</u>
