@@ -21,7 +21,6 @@ If you have used Authoring Copilot to create the Quiz, the Quiz Title and Quiz N
 <p>Click the <b>Up/Down</b> arrows to set the number of components you want, for e.g., if you want to create 3 Multiple Choice Questions and 2 Free Response Questions and, set 5 components, and select the Multiple-Choice and Free-Response options.</p>
 	<p>From R2 (Nov 2024), you can also generate components directly from the component bar.</p></li>
 <li>Click the <b>Up/Down</b> arrows to set the Quiz Duration. This duration will be reflected at the Quiz Cover page. The recommended duration for each generated question within the Quiz may not add up to the total Quiz Duration set here.
-<img alt="Create New Quiz with Authoring Copilot" style="width: 100%;" src="/images/2Teacher/AU_ACP_Quiz3.png">
 </li>
 <li>
 In the Additional Details field, you can include information about the question types and number of questions in the Quiz.
