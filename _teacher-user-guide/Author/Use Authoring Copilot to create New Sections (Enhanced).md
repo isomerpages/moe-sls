@@ -59,7 +59,7 @@ Click the dropdown arrow located on the right of the Module Tag field to select 
 <li>You can edit the Module and Section(s) generated in the Module Editor page, as you would for a normal lesson.</li>
 <li>To regenerate the Module and Section(s), click <strong>Back to Generate Module</strong> to edit the Module Details and regenerate the Module and Section(s).</li>
 <img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP12a.png">
-	<p>Alternatively, you can regenerate the Module and Section by clicking the <b>orange Regenerate</b> icon <img alt="Authoring Copilot" style="width:1.5rem; display: inline;" src="/images/Icons/ACPRegenerate.svg"> on the respective cards to reopen Authoring Copilot. Newly generated Sections will be appended to the end of the existing set of Sections.</p>
+	<p>Alternatively, you can regenerate the Module and Section by clicking the <b>orange Create</b> icon <img alt="Create" style="width:1.5rem; display: inline;" src="/images/Icons/ACP.svg"> on the respective cards to reopen Authoring Copilot. Newly generated Sections will be appended to the end of the existing set of Sections.</p>
 <p>When creating your module, consider including curricular elements from subject-specific Teaching and Learning Guides (available in OPAL2.0) which can be found in subject-specific <a target="_blank" href="https://www.opal2.moe.edu.sg/csl/s/epedagogy/wiki/page/view?title=%5BSection+1.3%5D+e-Pedagogy+in+subject+discipline">Teaching and Learning Guides</a> (requires OPAL login).</p>
 <p>These may include:</p>
 <ul>
