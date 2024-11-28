@@ -22,8 +22,8 @@ If you have used Authoring Copilot to create the Quiz, the Quiz Title and Quiz N
 	<p>From R2 (Nov 2024), you can also generate components directly from the component bar.</p></li>
 <li>Click the <b>Up/Down</b> arrows to set the Quiz Duration. This duration will be reflected at the Quiz Cover page. The recommended duration for each generated question within the Quiz may not add up to the total Quiz Duration set here.
 </li>
-<li>
-In the Additional Details field, you can include information about the question types and number of questions in the Quiz.
+<li><p>
+In the Additional Details field, you can include information about the question types and number of questions in the Quiz.</p>
 <u>Note</u>:
 <ul>
 <li>For example, “Create 3 Free Response Questions and 4 Multiple Choice Questions”.</li>
