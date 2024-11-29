@@ -45,3 +45,4 @@ variant: markdown
 <li>Filter the overall progress of students (in terms of marks) according to the Month Range and Topic/Sub-topic by clicking the Filter icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg">. Click Apply to confirm your selection.</li><p><img alt="View by Topic" style="width: 100%;" src="/images/2Teacher/TP_Accesslearning1.png"></p>
 	</ol>
 </ol>
+<p><span style="text-decoration: underline;">Note</span>: You can also search for subject resources from MOE Library, Community Gallery, and My Drive. Refer to <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">Search for Resources</a> to find out how to search for resources.</p>
