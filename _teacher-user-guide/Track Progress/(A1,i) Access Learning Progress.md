@@ -16,7 +16,7 @@ variant: markdown
 <li>From the homepage, click on the Overflow (3-dot icon) and click My Subjects. Then click on the Learning Progress icon <img style="width:1.5rem; display: inline;" src="/images/Icons/LearningProgress.svg">on any of the Subject cards.</li>
 <li>Alternatively, from your Class Groups page, select a Class Group. Then click on View Learning Progress found on the top right of the page.<br> Note: Only Class Groups with a Subject tagged to it will have Learning Progress.</li>
 </ul>
-<h3 id="navigating-the-page">Navigating the Page</h3>
+<h2 id="navigating-the-page">Navigating the Page</h2>
 <hr><ol>
 <li>You will be able to access Assignment/Self-Study, Adaptive Learning (if applicable) [/teacher-user-guide/track-progress/view-als-learning-progress/] or Error Tracker [/teacher-user-guide/track-progress/access-error-tracker]. Select the Assignment tab to view the Class Group’s Learning Progress for Assignments assigned to the Class Group.</li>
 <li>Select the Self-Study tab to view the Class Group’s Learning Progress for questions attempted by students in their Self-Study Lessons that are tagged to the same Subject and Level as the Class Group.<br> Select the ALS tab to view the Class Group’s Learning Progress for mastery of concepts within ALS. Topical view provides you with a class overview at the topic and subtopic levels while Student view allows you to view each student’s individual progress at the topic and subtopic levels. [insert LP-ALStopical.png and LP-ALSstudent.png]</li>
@@ -45,4 +45,6 @@ variant: markdown
 <li>Filter the overall progress of students (in terms of marks) according to the Month Range and Topic/Sub-topic by clicking the Filter icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg">. Click Apply to confirm your selection.</li><p><img alt="View by Topic" style="width: 100%;" src="/images/2Teacher/TP_Accesslearning1.png"></p>
 	</ol>
 </ol>
-<p><span style="text-decoration: underline;">Note</span>: You can also search for subject resources from MOE Library, Community Gallery, and My Drive. Refer to <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">Search for Resources</a> to find out how to search for resources.</p><h3 id="video-tutorial">Video Tutorial</h3><hr><div class="bp-youtube"> <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Introduce Learning Progress" src="[https://www.youtube.com/embed/828zJ4XOygQ](https://www.youtube.com/embed/828zJ4XOygQ)" height="100%" width="100%"></iframe> </div>
+<p><span style="text-decoration: underline;">Note</span>: You can also search for subject resources from MOE Library, Community Gallery, and My Drive. Refer to <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">Search for Resources</a> to find out how to search for resources.</p>
+<h2 id="video-tutorial">Video Tutorial</h2><hr>
+<div class="bp-youtube"> <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Introduce Learning Progress" src="https://www.youtube.com/embed/828zJ4XOygQ" height="100%" width="100%"></iframe> </div>
