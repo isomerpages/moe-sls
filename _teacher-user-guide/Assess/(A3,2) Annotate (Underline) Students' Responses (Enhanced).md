@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-3b-annotate-underline-students-responses">(A3,2) Annotate (Underline) Students' Responses (Enhanced)</h1>
+<h1 id="-3b-annotate-underline-students-responses">(A3,2) Annotate (Underline) Students' Responses (Enhanced)</h1><hr>
 <p>As a teacher, you are able to make annotations (underline) in the Student's view to provide individualised feedback.</p>
 <p><u>Note</u>:</p>
 <ul>
@@ -45,7 +45,11 @@ variant: markdown
         <p>The <strong>Keyword tags</strong> will be tabulated and displayed under Error Tracker tab in the Learning Progress.</p>
     </li>
 </ol>
-<p><u>Note</u>: The questions must be tagged to a Content Map which contains Error Tags (only Content Approvers can add error tags to their Content Map). The questions that the annotations are anchored to must also be included in Learning Progress (enabled in component settings).</p>
+<p><u>Note</u>: 
+</p><ul><li>
+The questions must be tagged to a Content Map which contains Error Tags (only Content Approvers can add error tags to their Content Map). The questions that the annotations are anchored to must also be included in Learning Progress (enabled in component settings).</li><p></p>
+<li>Error Tags by <a target="_blank" href="/teacher-user-guide/assess/add-language-feedback-assistant-for-english/">Language Feedback Assistant for English</a> and <a target="_blank" href="/teacher-user-guide/assess/add-mathematics-feedback-assistant/">Feedback Assistant - Mathematics</a> will also be automatically tracked if the questions that they are marking have the same conditions as above. </li>
+</ul>
 <h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
