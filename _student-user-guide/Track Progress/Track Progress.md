@@ -21,7 +21,7 @@ variant: markdown
 </ul>
   </details>
 <img alt="Track Progress" style="width: 70%;" src="/images/1Student/Flow_TrackProgress3.png">
-<details><summary><h4>A. How to monitor my Learning Progress?</h4></summary>
+<details><summary><h4>B. How to check my errors?</h4></summary>
 <ul>
     <li><a target="_blank" href="/student-user-guide/track-progress/access-error-tracker/">(B1) Access Error Tracker</a></li>
  </ul>
