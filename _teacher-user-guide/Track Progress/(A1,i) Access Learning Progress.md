@@ -30,4 +30,4 @@ variant: markdown
 <li>View Excluded Questions: Click to view the Assignments containing questions excluded from Learning Progress and the number of questions excluded for each Assignment. You may view the questions and include them in Learning Progress. <a target="_blank" href="/teacher-user-guide/track-progress/view-excluded-questions/">Click here</a> for more information.</li>
 <li>View Untagged Questions: Click to view questions that have been included in Learning Progress and are tagged to a content map that is not the currently selected content map.</li>
 </ol>
-</ol><p><img alt="View by Topic" style="width: 100%;" src="/images/TP_Acesslearning.png"></p>
+</ol><p><img alt="View by Topic" style="width: 100%;" src="/images/TP_Accesslearning.png"></p>
