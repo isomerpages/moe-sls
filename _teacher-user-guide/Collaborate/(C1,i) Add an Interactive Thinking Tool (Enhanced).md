@@ -41,12 +41,12 @@ variant: markdown
 <h2>View Class Submissions</h2>
 <hr>
 <p>You can view and comment on your students’ responses by clicking <strong>View Class Submissions</strong>.</p>
-<h3>View Comments</h3>
+<h2>View Comments</h2>
 <hr>
 <p>To view comments on any response, click on the <b>Response card</b>.</p>
-<p>All the comments will be shown, with the most recent post at the bottom. The number of comments is shown in parenthesis.</p> 
-	<p>Click the <strong>Refresh</strong> button at the top left-hand corner to update responses.</p>
-<h3>Comment on Students’ Responses</h3>
+<p>All the comments will be shown, with the most recent post at the bottom. The number of comments is shown in parenthesis.</p>
+<p>Click the <strong>Refresh</strong> button at the top left-hand corner to update responses.</p>
+<h2>Comment on Students’ Responses</h2>
 <hr>
 <p>To comment on one of your student's responses,</p>
 <ol>
