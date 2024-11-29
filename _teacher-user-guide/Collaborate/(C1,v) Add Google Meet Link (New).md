@@ -54,7 +54,7 @@ third_nav_title: Collaborate
      <p><img alt="Add Google Meet Link" style="width: 100%;" src="/images/2Teacher/C_Googlemeet7.png"></p>
     </li>
     <li>
-        <p>Click on <strong>Generate Link</strong> and <strong>s</strong>elect the level of security for the meeting (Open, Trusted, Restricted) or use the Class Group Meeting Link.</p>
+        <p>Click on <strong>Generate Link</strong> and select the level of security for the meeting (Open, Trusted, Restricted) or use the Class Group Meeting Link.</p>
      <p><img alt="Add Google Meet Link" style="width: 100%;" src="/images/2Teacher/C_Googlemeet1.png"></p>
     </li>
     <li>
