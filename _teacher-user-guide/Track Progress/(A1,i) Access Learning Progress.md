@@ -26,8 +26,8 @@ variant: markdown
 <li>Content Map: Select the relevant content map from the dropdown list if there is more than one content map tagged to the Subject.</li>
 <li>Class Group: Select the relevant Class Groups from the dropdown list.</li>
 <li>Academic Year: Select the current academic year and up to the past 3 years.</li>
-<li>Include marks from All, Assignment or Self-Study awarded marks</li>
+<li>Include marks from All, Assignment or Self-Study awarded marks</li><p><img alt="View by Topic" style="width: 100%;" src="/images/TP_Accesslearning.png"></p>
 <li>View Excluded Questions: Click to view the Assignments containing questions excluded from Learning Progress and the number of questions excluded for each Assignment. You may view the questions and include them in Learning Progress. <a target="_blank" href="/teacher-user-guide/track-progress/view-excluded-questions/">Click here</a> for more information.</li>
 <li>View Untagged Questions: Click to view questions that have been included in Learning Progress and are tagged to a content map that is not the currently selected content map.</li>
 </ol>
-</ol><p><img alt="View by Topic" style="width: 100%;" src="/images/TP_Accesslearning.png"></p>
+</ol>
