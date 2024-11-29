@@ -28,6 +28,20 @@ variant: markdown
 <li>Academic Year: Select the current academic year and up to the past 3 years.</li>
 <li>Include marks from All, Assignment or Self-Study awarded marks</li>
 <li>View Excluded Questions: Click to view the Assignments containing questions excluded from Learning Progress and the number of questions excluded for each Assignment. You may view the questions and include them in Learning Progress. <a target="_blank" href="/teacher-user-guide/track-progress/view-excluded-questions/">Click here</a> for more information.</li>
-<li>View Untagged Questions: Click to view questions that have been included in Learning Progress and are tagged to a content map that is not the currently selected content map.</li><p><img alt="View by Topic" style="width: 100%;" src="/images/2Teacher/TP_Accesslearning.png"></p>
-</ol>
+<li>View Untagged Questions: Click to view questions that have been included in Learning Progress and are tagged to a content map that is not the currently selected content map.</li><p><img alt="View by Topic" style="width: 100%;" src="/images/2Teacher/TP_Accesslearning.png"></p><li>Summary: the donut chart shows the Awarded Marks out of the Total Marks.</li>
+<ul>
+<li>Assignments Awarded Marks - the total number of marks students have scored for all questions included in Learning Progress, based on the selected content map.</li>
+<li>Self-Study Awarded Marks - the total number of marks students have scored for all attempted questions tagged to the same subject and level as the Class Group.</li>
+<li>Total Marks - the total number of marks for all questions included in Learning Progress, based on the selected content map.</li>
+<li>Average - the average mark scored out of 100%.</li>
+</ul>
+<li>Download Report: Click to download the Learning Progress for the Class Group. You will receive a notification when the report is ready.<br> Note: To download the report, you will have to <a target="_blank" href="/files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf/">enable pop-ups</a>.</li>
+<li>The overall progress of students can be viewed in three ways:</li>
+<ul>
+<li><a target="_blank" href="/teacher-user-guide/track-progress/view-by-topic/">Topical</a> - To view the Awarded Marks as part of the Total Marks for questions included in Learning Progress according to their topics and sub-topics of the selected content map.<br> Note: Untagged Questions are questions in an Assignment that are not tagged to a content map. Click View Untagged Questions to view the Assignments that you have included in Learning Progress containing Untagged Questions.</li>
+<li><a target="_blank" href="/teacher-user-guide/track-progress/view-by-month/">Monthly</a> - To view the monthly trend of the Awarded Marks as a part of the Total Marks.</li>
+<li><a target="_blank" href="/teacher-user-guide/track-progress/view-by-student/">Student</a> - To view the Awarded Marks as part of the Total Marks by individual students.</li>
+</ul>
+<li>Filter the overall progress of students (in terms of marks) according to the Month Range and Topic/Sub-topic by clicking the Filter icon <img style="width:1.5rem; display: inline;" src="/images/Icons/insert Filter.svg">. Click Apply to confirm your selection.</li>
+	</ol>
 </ol>
