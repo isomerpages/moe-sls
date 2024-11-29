@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="upload-question-and-test-interoperability-qti-2-1-files">(A2,3) Upload Question and Test Interoperability (QTI 2.1) Files</h1>
+<hr>
 <h2 id="uploading-a-qti-2-1-zip-file-in-sls">Uploading a QTI 2.1 ZIP file in SLS</h2>
 <hr>
 <ol>
@@ -18,9 +19,8 @@ variant: markdown
 </li>
 	<li>Under Add From Existing, select Questions from file (QTI).</li>
 <li><p>Upload a QTI zip file into the Import Question subpage and click <strong>Upload</strong>. You can also import images into options using QTI.</p>
-<p><u>Note</u>: A sample file can be found <a download="" href="https://go.gov.sg/qtisample">here</a>.</p>
-</li>
-<li><p>If the file is valid, it will be uploaded and scanned for viruses.</p>
+<u>Note</u>: <ul><li>A sample file can be found <a download="" href="https://go.gov.sg/qtisample">here</a>. (Q1-15 will be uploaded successfully while Q16 will be unsuccessful as it is meant to test for errors.)</li></ul>
+</li><li><p>If the file is valid, it will be uploaded and scanned for viruses.</p>
 <p><u>Note</u>: The virus scan will take longer if the file size is large.</p>
 </li>
 <li><p>When the file is successfully uploaded, the QTI questions will be added to the Module. Each question in your zip folder will appear as a standalone question within the Activity.</p>
