@@ -42,6 +42,6 @@ variant: markdown
 <li><a target="_blank" href="/teacher-user-guide/track-progress/view-by-month/">Monthly</a> - To view the monthly trend of the Awarded Marks as a part of the Total Marks.</li>
 <li><a target="_blank" href="/teacher-user-guide/track-progress/view-by-student/">Student</a> - To view the Awarded Marks as part of the Total Marks by individual students.</li>
 </ul>
-<li>Filter the overall progress of students (in terms of marks) according to the Month Range and Topic/Sub-topic by clicking the Filter icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter.svg">. Click Apply to confirm your selection.</li>
+<li>Filter the overall progress of students (in terms of marks) according to the Month Range and Topic/Sub-topic by clicking the Filter icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg">. Click Apply to confirm your selection.</li><p><img alt="View by Topic" style="width: 100%;" src="/images/2Teacher/TP_Accesslearning1.png"></p>
 	</ol>
 </ol>
