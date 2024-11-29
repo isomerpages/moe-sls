@@ -21,7 +21,7 @@ variant: markdown
 <li>You will be able to access Assignment/Self-Study, Adaptive Learning (if applicable) [/teacher-user-guide/track-progress/view-als-learning-progress/] or Error Tracker [/teacher-user-guide/track-progress/access-error-tracker]. Select the Assignment tab to view the Class Group’s Learning Progress for Assignments assigned to the Class Group.</li>
 <li>Select the Self-Study tab to view the Class Group’s Learning Progress for questions attempted by students in their Self-Study Lessons that are tagged to the same Subject and Level as the Class Group.<br> Select the ALS tab to view the Class Group’s Learning Progress for mastery of concepts within ALS. Topical view provides you with a class overview at the topic and subtopic levels while Student view allows you to view each student’s individual progress at the topic and subtopic levels. [insert LP-ALStopical.png and LP-ALSstudent.png]</li>
 <li>In the Assignment/Self-Study tab, you will be able to:</li>
-<ol>
+<ol style="list-style-type: lower-alpha;">
 <li>Browse Resources: Click to search for modules that have been tagged to the same subject and level.</li>
 <li>Content Map: Select the relevant content map from the dropdown list if there is more than one content map tagged to the Subject.</li>
 <li>Class Group: Select the relevant Class Groups from the dropdown list.</li>
@@ -30,4 +30,5 @@ variant: markdown
 <li>View Excluded Questions: Click to view the Assignments containing questions excluded from Learning Progress and the number of questions excluded for each Assignment. You may view the questions and include them in Learning Progress. <a target="_blank" href="/teacher-user-guide/track-progress/view-excluded-questions/">Click here</a> for more information.</li>
 <li>View Untagged Questions: Click to view questions that have been included in Learning Progress and are tagged to a content map that is not the currently selected content map.</li>
 </ol>
-</ol>
+</ol><p><img alt="View by Topic" style="width: 100%;" src="/images/TP\_Acesslearning.png"></p>
+
