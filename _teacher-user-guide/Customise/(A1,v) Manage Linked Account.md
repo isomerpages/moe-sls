@@ -6,7 +6,7 @@ third_nav_title: Customise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A1,v) Manage Linked Account</h1>
+<h1>(A1,v) Manage Linked Account</h1><hr>
 <p>Users are able to associate their iCON 2.0 or Google accounts with SLS.</p>
 <ol>
   <li>Open the right menu and click <strong>Edit Profile</strong>.</li>
