@@ -6,7 +6,7 @@ third_nav_title: Assign
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="quick-assign-activities-quizzes-">(A1,ii) Quick Assign Activities &amp; Quizzes </h1>
+<h1 id="quick-assign-activities-quizzes-">(A1,ii) Quick Assign Activities &amp; Quizzes </h1><hr>
 <h2 id="quick-assign-from-class-group">Quick Assign from Class Group</h2>
 <hr>
 <ol>
