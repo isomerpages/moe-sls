@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
 ---
-<h1>(E1,iv) About Adaptive Learning System (ALS) (Enhanced)</h1>
+<h1>(E1,iv) About Adaptive Learning System (ALS) (Enhanced)</h1><hr>
 <ol>Adaptive Learning System (ALS) provides a customised learning pathway for each student, recommending learning resources and practice questions and offering immediate feedback based on his/her readiness. Students can access ALS through the Student Learning Space (SLS) for self-directed learning. With ALS, students learn independently, at their own pace, according to their strengths and needs.</ol>
 
 <ol>Teachers who wish to experience ALS can open the right menu and click&nbsp;<strong>Switch to Student Account and click Resources, followed by Adaptive Learning.</strong></ol>
