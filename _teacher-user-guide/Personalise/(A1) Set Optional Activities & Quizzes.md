@@ -6,7 +6,7 @@ third_nav_title: Personalise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="set-optional-activities-quizzes">(A1) Set Optional Activities &amp; Quizzes</h1>
+<h1 id="set-optional-activities-quizzes">(A1) Set Optional Activities &amp; Quizzes</h1><hr>
 <p>Optional Activities/Quizzes can include content that:</p>
 <ul>
 <li>scaffolds/challenges students’ learning.</li>
