@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-2b-unsubmit-teacher-marked-quizzes-or-questions">(B2,2) Unsubmit Teacher-Marked Quizzes or Questions</h1>
+<h1 id="-2b-unsubmit-teacher-marked-quizzes-or-questions">(B2,2) Unsubmit Teacher-Marked Quizzes or Questions</h1><hr>
 <ol>
 <li>The <strong>Unsubmit</strong> button serves to return the Quiz/Question to students in its current state. This can be used in situations where students accidentally submit an incomplete Quiz or if students need to improve their answers.</li>
 <li><p>You can do so from a student's Quiz view by clicking the name of a student and navigate to the Quiz Completion page. Click <strong>Unsubmit</strong>.</p>
