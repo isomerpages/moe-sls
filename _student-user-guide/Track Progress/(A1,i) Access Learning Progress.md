@@ -36,19 +36,11 @@ variant: markdown
 </li>
 <li>Your overall progress can be viewed in three ways:</li>
 <ul style="list-style-type: disc;">
-<li><a target="_blank" href="/student-user-guide/track-progress/view-by-topic/">Topical</a> - To view the awarded marks as part of the total marks for selected questions based on their topic/subtopic.<br> Note: Untagged Questions are questions in an Assignment that are not tagged to a content map. Click View Untagged Questions to view the Assignments that you have included in Learning Progress containing Untagged Questions.</li>
+<li><a target="_blank" href="/student-user-guide/track-progress/view-by-topic/">Topical</a> - To view the awarded marks as part of the total marks for selected questions based on their topic/subtopic.<br><u> Note</u>: Untagged Questions are questions in an Assignment that are not tagged to a content map. Click View Untagged Questions to view the Assignments that you have included in Learning Progress containing Untagged Questions.</li>
 <li><a target="_blank" href="/student-user-guide/track-progress/view-by-month/">Monthly</a> - To view the monthly trend of the Awarded Marks as a part of the Total Marks.</li>
-<li>
-	
-	
-	
-	Questions [/student-user-guide/track-progress/view-by-question/] - To view the awarded marks as part of the total marks by assignments of selected questions.</li>
+<li><a target="_blank" href="/student-user-guide/track-progress/view-by-question/">Questions</a> - To view the awarded marks as part of the total marks by assignments of selected questions.</li>
 </ul>
-	
-	
-	Questions [/student-user-guide/track-progress/view-by-question/] - To view the awarded marks as part of the total marks by assignments of selected questions.
-
-<li>Filter your overall progress (in terms of marks) according to the Month Range and Topic/Sub-topic by clicking the Filter icon [insert Filter.svg]. Click Apply to confirm your selection.</li>
+<li>Filter your overall progress (in terms of marks) according to the Month Range and Topic/Sub-topic by clicking the Filter icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg">. Click Apply to confirm your selection.</li><img alt="Access Learning Progress" src="/images/1Student/TP_Accesslearning1.png">
 </ol>
 	
 	
