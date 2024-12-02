@@ -6,7 +6,7 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A1,3) Add Existing Media Objects from Resources</h1>
+<h1>(A1,3) Add Existing Media Objects from Resources</h1><hr>
 <p>Image files can only be added to a Module Cover while Media Object can only be added via Rich Text Editor.</p>
 <p>The following Media Objects can be added from My Drive, Community Gallery, MOE Library, and Starred Resources.</p>
 <ul>
