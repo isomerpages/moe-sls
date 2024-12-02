@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-multiple-choice-questions">(A2,4) Add Multiple-Choice Questions (Enhanced)</h1>
+<h1 id="add-multiple-choice-questions">(A2,4) Add Multiple-Choice Questions (Enhanced)</h1><hr>
 <h2 id="-add-multiple-choice-question-mcq-">Add Multiple-Choice Question (MCQ)</h2>
 <hr>
 <ol>
