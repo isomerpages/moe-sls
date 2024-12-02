@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-3-post-and-comment-in-the-forum">(A3) Post and Comment in the Forum</h1>
+<h1 id="-3-post-and-comment-in-the-forum">(A3) Post and Comment in the Forum</h1><hr>
 <p>Owners and Co-Teachers can create <a target="_blank" href="/teacher-user-guide/collaborate/add-a-topic/">Topics</a> in a Class Group Forum. Posts can be created within each Topic.</p>
 <h2 id="-create-a-post-">Create a Post</h2>
 <hr>
