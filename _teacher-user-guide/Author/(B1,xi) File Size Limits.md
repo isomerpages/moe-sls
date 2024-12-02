@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="file-size-limits">(B1,xi) File Size Limits</h1>
+<h1 id="file-size-limits">(B1,xi) File Size Limits</h1><hr>
 <p><u>Important</u>: If you receive an error message when uploading a file, please check that your file(s) do not exceed the file size limits and/or dimensions.</p>
 <p>In the SLS, media objects are grouped into the following categories, each with its respective file size limits:</p>
 <table>
