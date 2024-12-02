@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-1-mark-teacher-marked-quizzes">(B1) Mark Teacher-Marked Quizzes</h1>
+<h1 id="-1-mark-teacher-marked-quizzes">(B1) Mark Teacher-Marked Quizzes</h1><hr>
 <h2 id="-marking-a-teacher-marked-quiz-">Marking a Teacher-Marked Quiz</h2>
 <hr>
 <p>Only in a Teacher-Marked Quiz will you be able to allocate/edit marks and provide Comments for open-ended questions (i.e. Free-Response, Audio-Response, File Submission questions) to students.</p>
