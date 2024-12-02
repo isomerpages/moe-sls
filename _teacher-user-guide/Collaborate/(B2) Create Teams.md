@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-2-create-teams">(B2) Create Teams</h1>
+<h1 id="-2-create-teams">(B2) Create Teams</h1><hr>
 <p>Teams can be created from the Assignment Settings subpage. This subpage can be accessed from the Assignment Summary (when assigning a new Module) or from an Assignment (by clicking <strong>Manage Assignment Settings</strong>).</p>
 <h2 id="apply-subgroups-as-teams">Apply Subgroups as Teams</h2>
 <hr>
