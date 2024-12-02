@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-question-tags">(B1,vii) Add Question Tags (Enhanced)</h1>
+<h1 id="add-question-tags">(B1,vii) Add Question Tags (Enhanced)</h1><hr>
 <p><strong>Important</strong>: From Release 2 (Nov 2024), Section Tags will be automatically added to newly created components.</p>
 <p>Most components can be tagged to Subject, Level, Content Map, Skill Level, Topics, and Sub-topics so as to improve searchability in Community Gallery, MOE Library, and My Drive.</p>
 <p><u>Note</u>: Text/Media, ITT, Poll and Discussion cannot be tagged.</p>
