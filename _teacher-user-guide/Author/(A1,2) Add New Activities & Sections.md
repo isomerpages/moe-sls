@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A1,2) Add New Activities &amp; Sections (Enhanced)</h1>
+<h1>(A1,2) Add New Activities &amp; Sections (Enhanced)</h1><hr>
 <h2>Add New Activity from Create/Edit Module</h2>
 <hr>
 <ol>
