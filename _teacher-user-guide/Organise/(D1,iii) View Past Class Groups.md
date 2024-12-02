@@ -6,7 +6,7 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(D1,iii) View Past Class Groups</h1>
+<h1>(D1,iii) View Past Class Groups</h1><hr>
 <p>At the start of each academic year, all Class Groups from the preceding year will be found under the Past tab.</p>
 <ol>
 <li>From the homepage, open the left menu and click <strong>Class Groups</strong>, followed by <strong>All Class Groups</strong>. Alternatively, in the Class Groups tab from the homepage, click <strong>Class Groups</strong>. By default, you will be in the Current tab.</li>
