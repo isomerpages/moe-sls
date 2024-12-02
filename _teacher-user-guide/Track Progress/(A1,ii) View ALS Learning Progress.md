@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Track Progress
 ---
-<h1>(A2) View ALS Learning Progress</h1>
+<h1>(A1,ii) View ALS Learning Progress</h1>
 <ol>
 	
 <p>Teachers can track students’ learning progress for ALS using two ways, the Learning Progress Dashboard and Reports generated on ALS Content &amp; Assessment Items. </p>
@@ -19,11 +19,10 @@ third_nav_title: Track Progress
 <p><u>Note</u>: Only Class Groups with a Subject tagged to it will have Learning Progress. Such Class Groups are indicated with coloured banners. </p>
 	<img alt="View ALS Learning Progress" src="/images/2Teacher/T_View_LP6.png" style="width: 100%;"></li> 
 <li>On the Learning Progress page, you can select your Class Group below the banner from the Class Group dropdown list. Class Groups that are tagged to the same Subject and Level will appear in the list. 
-	
-	
-	</li><li>The overall progress of students can be viewed in two ways: </li>
+	<img alt="View ALS Learning Progress" src="/images/2Teacher/T_View_LP7.png" style="width: 100%;">
+</li><li>The overall progress of students can be viewed in two ways: </li>
 	<ul><li><strong>Topical</strong> - Provides an overview of concepts mastered and time spent by the entire class group, categorised by topics</li>
-	<li><strong>Student</strong>- Provides an overview of concepts mastered and time spent by individual students</li></ul>
+	<li><strong>Student</strong>- Provides an overview of concepts mastered and time spent by individual students</li></ul><img alt="View ALS Learning Progress" src="/images/2Teacher/T_View_LP8.png" style="width: 100%;">
 	<li>For a visualisation of the curriculum map indicating the concepts and their connections, click on <strong>View Details</strong> under a concept.
 		<img alt="View ALS Learning Progress" src="/images/2Teacher/T_View_LP5a.png" style="width: 100%;"></li> 
 <li>For more details on the number of students who have and have not mastered the concept, click on the concept within the curriculum map.</li>
