@@ -30,13 +30,13 @@ variant: markdown
 </li>
 <li>
 <p>In the Assignment/Self-Study tab, you will be able to:</p>
-<ol>
+<ol><ol style="list-style-type: lower-alpha;">
 <li>Browse Modules: Click to search for modules that have been tagged to the same subject and level.</li>
 <li>Content Map: Select the relevant content map from the dropdown list if there is more than one content map tagged to the Subject.</li>
 <li>Class Group: Select the relevant Class Groups from the dropdown list.</li>
 <li>Academic Year: Select the current academic year and up to the past 3 years.</li>
 <li>Include marks from All, Assignment or Self-Study awarded marks</li>
-</ol>
+	</ol></ol>
 <p><img alt="Access Learning Progress" style="width: 100%;" src="/images/1Student/TP_Accesslearning.png"></p>
 </li>
 <li>
