@@ -6,8 +6,8 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(E1,iii) Leave Reviews</h1>
-<p>From R19, teachers are able to leave Reviews for MOE Library and Community Gallery Modules.</p>
+<h1>(E1,iii) Leave Reviews</h1><hr>
+<p>Teachers are able to leave Reviews for MOE Library and Community Gallery Modules.</p>
 <h2>See Reviews</h2>
 <hr>
 <ol>
