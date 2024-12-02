@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-rubrics-to-audio-and-free-response-questions">(A2,13) Add Rubrics to Audio- and Free-Response Questions (Enhanced)</h1>
+<h1 id="add-rubrics-to-audio-and-free-response-questions">(A2,13) Add Rubrics to Audio- and Free-Response Questions (Enhanced)</h1><hr>
 <h2 id="-add-rubrics-">Add Rubrics</h2>
 <hr>
 <p>Rubrics can be added to Free-Response or Audio-Response Questions to assess students holistically on performance tasks.</p>
