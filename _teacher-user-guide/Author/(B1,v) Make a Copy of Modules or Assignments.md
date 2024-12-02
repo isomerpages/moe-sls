@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="make-a-copy-of-Modules-assignments">(B1,v) Make a Copy of Modules or Assignments</h1>
+<h1 id="make-a-copy-of-Modules-assignments">(B1,v) Make a Copy of Modules or Assignments</h1><hr>
 <p>You can make a copy of Modules in SLS from the following places on SLS.</p>
 <ol>
 <li>Modules from My Drive, which include:<ul>
