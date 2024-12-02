@@ -6,7 +6,7 @@ third_nav_title: Assign
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="assign-community-gallery-modules">(A1,iv) Assign Community Gallery Modules</h1>
+<h1 id="assign-community-gallery-modules">(A1,iv) Assign Community Gallery Modules</h1><hr>
 <h2 id="assign-community-gallery-module-as-assignment">Assign Community Gallery Module as Assignment</h2>
 <hr>
 <ol>
