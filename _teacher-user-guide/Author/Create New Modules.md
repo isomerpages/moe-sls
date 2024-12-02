@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="create-new-modules-new-">Create New Modules</h1>
+<h1 id="create-new-modules-new-">Create New Modules</h1><hr>
 <h2 id="-create-new-module-from-homepage-new-">Create New Module from homepage</h2>
 <hr>
 <ol>
