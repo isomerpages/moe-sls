@@ -9,11 +9,11 @@ third_nav_title: Track Progress
 <h1>(B1) Access Error Tracker</h1>
 <hr>
 <p>Error Tracker provides a consolidated summary of annotations from across class groups, assignments, and self-study resources, organised by their error tags.</p>
-<p>Errors can be tagged by either teachers, Language Feedback Assistant for English [/student-user-guide/assess/about-language-feedback-assistant-for-english/] or Feedback Assistant - Mathematics [/student-user-guide/assess/about-mathematics-feedback-assistant/].</p>
+<p>Errors can be tagged by either teachers, <a target="_blank" href="/student-user-guide/assess/about-language-feedback-assistant-for-english/">Language Feedback Assistant for English</a> or <a target="_blank" href="/student-user-guide/assess/about-mathematics-feedback-assistant/">Feedback Assistant - Mathematics</a>.</p>
 <h2>Navigating the Page</h2>
 <hr>
-<p>To access the page, click on the <strong>Error Tracker</strong> tab from the Learning Progress page [/teacher-user-guide/track-progress/access-learning-progress/].</p>
-<ol>
+<p>To access the page, click on the <strong>Error Tracker</strong> tab from the <a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">Learning Progress</a> page.</p><p>
+</p><ol>
 <li>In the Error Tracker tab, you will be able to:
 <ol>
 <li>Browse Resources: Click to search for modules that have been tagged to the same subject and level.</li>
@@ -25,17 +25,15 @@ third_nav_title: Track Progress
 <ul>
 <li>
 <p>Error Tags - To view the Total Error Tags by each type of Error according to the selected content map.</p>
-<p><img alt="TP_errortracker.png" src="https://prod-files-secure.s3.us-west-2.amazonaws.com/1b3e5107-e791-4f62-bc5f-70c8a0dd6363/3fe7647c-9de0-440b-ae49-4b79c7766dd2/TP_errortracker.png"></p>
-<p>TP_errortracker.png</p>
+<p><img alt="Access Error Tracker" style="width: 100%;" src="/images/2Teacher/TP_errortracker.png"></p>
 </li>
 <li>
 <p>Monthly - To view the monthly trend of the Errors as a part of the Total Errors.</p>
-<p><img alt="TP_errortracker1.png" src="https://prod-files-secure.s3.us-west-2.amazonaws.com/1b3e5107-e791-4f62-bc5f-70c8a0dd6363/191f679f-263a-4f4f-9725-2c28fb4d27cf/TP_errortracker1.png"></p>
-<p>TP_errortracker1.png</p>
+<p><img alt="Access Error Tracker" style="width: 100%;" src="/images/2Teacher/TP_errortracker1.png"></p>
 </li>
 <li>
 <p>Student - To view the Errors as part of the Total Errors by individual students.</p>
-<p><img alt="TP_errortracker2.png" src="https://prod-files-secure.s3.us-west-2.amazonaws.com/1b3e5107-e791-4f62-bc5f-70c8a0dd6363/2c5834ec-20df-4fac-8789-62ce1a207318/TP_errortracker2.png"></p>
+<p><img alt="Access Error Tracker" style="width: 100%;" src="/images/2Teacher/TP_errortracker2.png"></p>
 </li>
 </ul>
 </li>
