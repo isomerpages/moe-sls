@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-1a-add-a-topic-">(A1,1) Add a Topic</h1>
+<h1 id="-1a-add-a-topic-">(A1,1) Add a Topic</h1><hr>
 <h2 id="-create-a-topic-in-class-group-forum-new-">Create a Topic in Class Group Forum</h2>
 <hr>
 <p>From R19, teachers can create Topics in Class Group Forum to better categorise forum posts. </p>
