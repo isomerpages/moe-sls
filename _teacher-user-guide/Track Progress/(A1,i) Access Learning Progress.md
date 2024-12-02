@@ -18,8 +18,8 @@ variant: markdown
 </ul>
 <h2 id="navigating-the-page">Navigating the Page</h2>
 <hr><ol>
-<li>You will be able to access Assignment/Self-Study, <a target="_blank" href="/teacher-user-guide/track-progress/view-als-learning-progress/">Adaptive Learning</a> (if applicable) or <a target="_blank" href="/teacher-user-guide/track-progress/access-error-tracker/">Error Tracker</a>. Select the Assignment tab to view the Class Group’s Learning Progress for Assignments assigned to the Class Group.</li>
-<li>Select the Self-Study tab to view the Class Group’s Learning Progress for questions attempted by students in their Self-Study Lessons that are tagged to the same Subject and Level as the Class Group.<br> Select the ALS tab to view the Class Group’s Learning Progress for mastery of concepts within ALS. Topical view provides you with a class overview at the topic and subtopic levels while Student view allows you to view each student’s individual progress at the topic <img style="width:1.5rem; display: inline;" src="/images/Icons/LP-ALStopical.svg"> and subtopic <img style="width:1.5rem; display: inline;" src="/images/Icons/LP-ALSstudent.svg"> levels.</li>
+<li>You will be able to access Assignment/Self-Study, <a target="_blank" href="/teacher-user-guide/track-progress/view-als-learning-progress/">Adaptive Learning</a> (if applicable) or <a target="_blank" href="/teacher-user-guide/track-progress/access-error-tracker/">Error Tracker</a>.</li>
+
 <li>In the Assignment/Self-Study tab, you will be able to:</li>
 <ol style="list-style-type: lower-alpha;">
 <li>Browse Resources: Click to search for modules that have been tagged to the same subject and level.</li>
