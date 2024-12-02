@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="speech-evaluation-">(A3,13) Speech Evaluation</h1>
+<h1 id="speech-evaluation-">(A3,13) Speech Evaluation</h1><hr>
 <p>English Language Speech Evaluation is available.</p>
 <h2 id="enable-speech-evaluation">Enable Speech Evaluation</h2>
 <hr>
