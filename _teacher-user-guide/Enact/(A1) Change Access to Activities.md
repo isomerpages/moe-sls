@@ -6,7 +6,7 @@ third_nav_title: Enact
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="change-access-to-activities">(A1) Change Access to Activities</h1>
+<h1 id="change-access-to-activities">(A1) Change Access to Activities</h1><hr>
 <p>There are 3 ways to give students access to an Assignment:</p>
 <ol>
 <li>Manage Students Assigned</li>
