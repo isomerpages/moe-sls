@@ -6,7 +6,7 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A3) View Module Details</h1>
+<h1>(A3) View Module Details</h1><hr>
 <p>You can access the Details of Modules found in Starred Resources, Community Gallery and MOE Library.</p>
 <h2>View Module Details from Community Gallery and MOE Library</h2>
 <hr>
