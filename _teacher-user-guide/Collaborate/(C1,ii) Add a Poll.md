@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-a-poll">(C1,ii) Add a Poll</h1>
+<h1 id="add-a-poll">(C1,ii) Add a Poll</h1><hr>
 <h2 id="-create-a-poll-from-module-editor-page-">Create a Poll from Module Editor page</h2>
 <hr>
 <ol>
