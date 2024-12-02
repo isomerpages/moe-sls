@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(E3,1) Create New Folders</h1>
-
+<hr>
 <h2>Create a New Folder in My Modules Tab</h2>
 <hr>
 <ol>
