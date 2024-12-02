@@ -6,10 +6,14 @@ third_nav_title: Track Progress
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-1-access-learning-progress">(A1) Access Learning Progress</h1>
+<h1 id="-1-access-learning-progress">(A1,i) Access Learning Progress</h1>
 <hr>
-<p>Learning Progress shows your overall progress (in terms of marks) for questions of a particular subject. These questions are carefully selected by your teachers and are deemed to be important for your learning.</p>
-<h3 id="navigating-around-the-page">Navigating the Page</h3>
+<p>Learning Progress shows your overall progress (in terms of marks) for questions of a particular subject. These questions are carefully selected by your teachers and are deemed to be important for your learning.</p><p>There are multiple ways to navigate to Learning Progress:</p>
+<ul>
+<li>From the homepage, open the left menu and click Learning Progress.</li>
+<li>From the homepage, click on the Overflow (3-dot icon) and click My Subjects. Then click on the Learning Progress icon <img style="width:1.5rem; display: inline;" src="/images/Icons/LearningProgress.svg"> on any of the Subject cards.</li>
+<li>Alternatively, from your Class Groups page, select a Class Group. Then click on View Learning Progress found on the top right of the page.<br> Note: Only Class Groups with a Subject tagged to it will have Learning Progress</li>
+</ul><h3 id="navigating-around-the-page">Navigating the Page</h3>
 <hr>
 <ol>
 <li>From your Class Groups page, select a <strong>Class Group</strong> indicated by coloured cards.</li>
