@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Track Progress
 ---
-<h1>(B1) Access Error Tracker</h1>
+<h1>(B1) Access Error Tracker (New)</h1>
 <hr>
 <p>Error Tracker provides a consolidated summary of annotations from across class groups, assignments, and self-study resources, organised by their error tags.</p>
 <p>Errors can be tagged by either teachers, <a target="_blank" href="/student-user-guide/assess/about-language-feedback-assistant-for-english/">Language Feedback Assistant for English</a> or <a target="_blank" href="/student-user-guide/assess/about-mathematics-feedback-assistant/">Feedback Assistant - Mathematics</a>.</p>
