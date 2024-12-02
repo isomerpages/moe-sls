@@ -6,7 +6,7 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>About Resources</h1>
+<h1>About Resources</h1><hr>
   <p>SLS consists of many resources with a significant number residing in MOE Library and Community Gallery.</p>
   <ol>
     <li>

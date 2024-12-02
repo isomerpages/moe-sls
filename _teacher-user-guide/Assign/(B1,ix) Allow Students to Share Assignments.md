@@ -6,7 +6,7 @@ third_nav_title: Assign
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="allow-students-to-share-assignments">(B1,ix) Allow Students to Share Assignments</h1>
+<h1 id="allow-students-to-share-assignments">(B1,ix) Allow Students to Share Assignments</h1><hr>
 <h2 id="-student-sharing-permissions-">Student-Sharing Permissions</h2>
 <p>Teachers can toggle Sharing Permissions to allow students to share their Assignments with other students. Students will be able to see other students' responses, Notes, and Teacher Feedback once shared. Once allowed, permission to share cannot be revoked.</p>
 <hr>

@@ -6,7 +6,7 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(B1,1) View External Resources</h1>
+<h1>(B1,1) View External Resources</h1><hr>
 <h2>View External Resources</h2>
 <hr>
 <ol>

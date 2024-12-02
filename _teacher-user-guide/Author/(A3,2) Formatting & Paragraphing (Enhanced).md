@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="formatting-paragraphing">(A3,2) Formatting &amp; Paragraphing (Enhanced)</h1>
+<h1 id="formatting-paragraphing">(A3,2) Formatting &amp; Paragraphing (Enhanced)</h1><hr>
 <h2 id="formatting-text">Formatting Text</h2>
 <hr>
 <p>From Release 2 (Nov 2024), new English and Tamil fonts are available.</p>

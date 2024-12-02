@@ -6,7 +6,7 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A1,1) Add Existing Activities from Resources</h1>
+<h1>(A1,1) Add Existing Activities from Resources</h1><hr>
 <h2>From Create/Edit New Module</h2>
 <hr>
 <ol>

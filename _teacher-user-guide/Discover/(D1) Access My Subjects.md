@@ -6,7 +6,7 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(D1) Access My Subjects</h1>
+<h1>(D1) Access My Subjects</h1><hr>
 <p>My Subjects allow you to see your Assigned and Followed subjects to <a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">track Learning Progress</a> and search for relevant resources. Teachers and students will be able to search for related Resources (eg. Modules, Question Types and Media Objects) easily with the pre-selected filters.</p>
 <h2>Accessing My Subjects</h2>
 <hr>

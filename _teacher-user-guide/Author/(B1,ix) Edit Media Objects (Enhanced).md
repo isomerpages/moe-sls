@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(B1,ix) Edit Media Objects (Enhanced)</h1>
+<h1>(B1,ix) Edit Media Objects (Enhanced)</h1><hr>
 <h2>Re-uploading an Image</h2>
 <hr>
 <p>As SLS upgrades, older file formats may no longer be supported. If the

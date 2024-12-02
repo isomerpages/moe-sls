@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="html5-content-development">(A3,11) HTML5 Content Development (Enhanced)</h1>
+<hr>
 <h2 id="considerations-when-creating-html5-content">Considerations when creating HTML5 Content</h2>
 <hr>
 <p>When creating HTML5 interactive content for SLS, the maximum file size limit is 500 MB. </p>
@@ -43,8 +44,7 @@ variant: markdown
 </li>
 <li>In SLS, select <strong>File from Device</strong> under Text/Media on the Component Bar. Alternatively, click the <strong>Add Media</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/PaperClip.svg"> and <strong>Upload File</strong> in the Rich Text Editor. </li>
 <li><p>Upload the ZIP file by either dragging and dropping it into the box, or clicking the box to select a file through the file manager. A sample file is provided <a target="_blank" href="https://go.gov.sg/qtisample">here</a>.
-</p><p><u>Note</u>: Q16 is meant to test for errors</p>
-<p></p></li>
+</p></li>
 <img alt="HTML5 Content Development" style="width: 80%;" src="/images/2Teacher/AU-AddHTML2.png">
 <li>Click <strong>Upload</strong> when done.</li>
 <li><p>If the file is valid, it will be uploaded and scanned for viruses.</p>

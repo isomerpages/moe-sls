@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="insert-media-objects">(A2,15) Insert Media Objects</h1>
+<h1 id="insert-media-objects">(A2,15) Insert Media Objects</h1><hr>
 <ul>
 <li>You can incorporate Media Objects into your Module. Uploaded Media Objects can be reused in future Modules.</li>
 <li>Only Media Objects from My Drive, Community Gallery and MOE Library are searchable in the global search bar.</li>

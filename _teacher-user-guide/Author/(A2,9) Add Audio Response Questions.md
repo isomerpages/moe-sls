@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-audio-response-questions">(A2,9) Add Audio-Response Questions</h1>
+<h1 id="add-audio-response-questions">(A2,9) Add Audio-Response Questions</h1><hr>
 <h2 id="-add-audio-response-question-arq-">Add Audio-Response Question (ARQ)</h2>
 <hr>
 <ol>

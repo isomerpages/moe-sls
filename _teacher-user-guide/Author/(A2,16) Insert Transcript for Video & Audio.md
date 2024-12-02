@@ -6,8 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Author
 ---
-<h1>(A2,16) Insert Transcript for Video &amp; Audio</h1>
-<p></p>
+<h1>(A2,16) Insert Transcript for Video &amp; Audio</h1><hr>
 <ol data-tight="true" class="tight">
 <li>
 <p>You can transcribe videos and audio files, providing versatility in reading

@@ -6,7 +6,7 @@ third_nav_title: Customise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A1,ii) Change Display Name</h1>
+<h1>(A1,ii) Change Display Name</h1><hr>
 <p>Sometimes, your students may not know you by your default name shown on SLS.</p>
 <p>You may change the display name to an alias that your students identify you by. This display name will be used when you leave Announcements or Comments for students.</p>
 <hr>

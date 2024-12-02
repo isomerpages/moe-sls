@@ -6,7 +6,7 @@ third_nav_title: Assign
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="schedule-assignments">(B1,ii) Schedule Assignments</h1>
+<h1 id="schedule-assignments">(B1,ii) Schedule Assignments</h1><hr>
 <h2 id="-schedule-a-new-assignment-for-a-class-group-multiple-class-groups-">Schedule a New Assignment for a Class Group/Multiple Class Groups</h2>
 <hr>
 <ol>

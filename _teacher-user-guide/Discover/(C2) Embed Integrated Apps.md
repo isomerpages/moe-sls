@@ -6,7 +6,7 @@ image: /images/FaviconLight.png
 third_nav_title: Discover
 variant: markdown
 ---
-<h1 class="page-title">(C2) Embed Integrated Apps</h1>
+<h1 class="page-title">(C2) Embed Integrated Apps</h1><hr>
 <p>SLS allows system capabilities to be extended via integration with external applications. This accelerates the adoption and integration of new digital learning tools and resources complementary to SLS. While most available Apps can be browsed from the App Library, some of them can only be launched via iframe embedding within a module.</p>
 <p>To embed an integrated App:</p>
 <ol>

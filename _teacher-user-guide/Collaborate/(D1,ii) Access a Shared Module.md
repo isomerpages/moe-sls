@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="access-a-shared-module">(D1,ii) Access a Shared Module</h1>
+<h1 id="access-a-shared-module">(D1,ii) Access a Shared Module</h1><hr>
 <h2 id="access-a-shared-module-">Access a Shared Module</h2>
 <hr>
 <ol>

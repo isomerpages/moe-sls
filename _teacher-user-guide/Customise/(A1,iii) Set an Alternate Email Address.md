@@ -6,7 +6,7 @@ third_nav_title: Customise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="set-an-alternate-email-address">(A1,iii) Set an Alternate Email Address</h1>
+<h1 id="set-an-alternate-email-address">(A1,iii) Set an Alternate Email Address</h1><hr>
 <h2 id="-default-email-address-">Default Email Address</h2>
 <hr>
 <p><strong>For Teachers in Schools</strong></p>

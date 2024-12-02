@@ -6,7 +6,7 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 class="page-title">(B1,2) Previously Whitelisted &amp; Non-Whitelisted Websites</h1>
+<h1 class="page-title">(B1,2) Previously Whitelisted &amp; Non-Whitelisted Websites</h1><hr>
 <h2 class="section-title">Removal of Whitelisted Websites</h2>
 <hr>
 <table>

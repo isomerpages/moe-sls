@@ -6,7 +6,7 @@ third_nav_title: Assign
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="pause-resume-assignments">(B1,iv) Pause &amp; Resume Assignments</h1>
+<h1 id="pause-resume-assignments">(B1,iv) Pause &amp; Resume Assignments</h1><hr>
 <p><strong>Important</strong>: Student answers that have not been saved as draft before an assignment is paused, will not reappear after the assignment has been resumed.</p>
 <p>You may pause and resume an Assignment temporarily if you do not want students to have access to the Assignment.</p>
 <ol>

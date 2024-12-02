@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 third_nav_title: Author
 ---
 <h1>(A2,2) Add Split-Page Media (Enhanced)</h1>
+<hr>
 <h2>Add Split-Page Media</h2>
 <hr>
 <ol>

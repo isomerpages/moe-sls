@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-multi-part-questions">(A2,10) Add Multi-Part Questions</h1>
+<h1 id="add-multi-part-questions">(A2,10) Add Multi-Part Questions</h1><hr>
 <h2 id="-add-a-multi-part-question-">Add a Multi-Part Question</h2>
 <hr>
 <ol>

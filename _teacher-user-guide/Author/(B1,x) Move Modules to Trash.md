@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="move-modules-to-trash">(B1,x) Move Modules to Trash</h1>
+<h1 id="move-modules-to-trash">(B1,x) Move Modules to Trash</h1><hr>
 <p>You can move Modules to Trash from Module View page or <a target="_blank" href="/teacher-user-guide/organise/delete-resources/">My Drive</a>.</p>
 <p>To move a Module to Trash from Module View page,</p>
 <ol>

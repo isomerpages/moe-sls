@@ -1,5 +1,5 @@
 ---
-title: (A2,5) View ALS Learning Progress
+title: (A1,ii) View ALS Learning Progress
 permalink: /student-user-guide/track-progress/view-als-learning-progress/
 variant: markdown
 description: ""

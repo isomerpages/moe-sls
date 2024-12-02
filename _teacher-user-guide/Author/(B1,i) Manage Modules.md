@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="manage-Modules">(B1,i) Manage Modules</h1>
+<h1 id="manage-Modules">(B1,i) Manage Modules</h1><hr>
 <h2 id="-module-">Module</h2>
 <hr>
 <p>A Module can contain up to 20 Sections. Each Section can contain up to 20 Activities or Quizzes. </p>

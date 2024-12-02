@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-display-">(A2,12) Add Display (Enhanced)</h1>
+<h1 id="add-display-">(A2,12) Add Display (Enhanced)</h1><hr>
 <h2>Add Display</h2>
 <hr>
 <p>You can add multiple Columns and Accordions display to contain different Components in an Activity.</p>

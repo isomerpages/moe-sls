@@ -6,7 +6,7 @@ third_nav_title: Customise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(B1) Manage My Templates</h1>
+<h1>(B1) Manage My Templates</h1><hr>
 <p>You can now save Module Templates for quick Module authoring.</p>
 <h2>Adding a New Template</h2>
 <hr>

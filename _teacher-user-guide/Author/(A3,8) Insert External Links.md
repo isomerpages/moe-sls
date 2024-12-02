@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="insert-external-links">(A3,8) Insert External Links</h1>
+<h1 id="insert-external-links">(A3,8) Insert External Links</h1><hr>
 <h2 id="add-external-link">Add External Link</h2>
 <hr>
 <ol>

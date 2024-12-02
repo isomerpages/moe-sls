@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="view-edit-module-plans-enhanced">(B1,iv) View &amp; Edit Module Plans</h1>
+<h1 id="view-edit-module-plans-enhanced">(B1,iv) View &amp; Edit Module Plans</h1><hr>
 <h2 id="-view-a-module-plan-">View a Module Plan</h2>
 <hr>
 <ol>

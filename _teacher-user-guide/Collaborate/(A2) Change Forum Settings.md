@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-2-change-forum-settings">(A2) Change Forum Settings</h1>
+<h1 id="-2-change-forum-settings">(A2) Change Forum Settings</h1><hr>
 <h2 id="topics-settings">Topics Settings</h2>
 <hr>
 <p>Teachers are able to change the permission settings to allow or disallow Observers and Students to create posts within a topic.</p>

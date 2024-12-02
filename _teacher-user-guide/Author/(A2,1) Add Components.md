@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-components-">(A2,1) Add Components</h1>
+<h1 id="add-components-">(A2,1) Add Components</h1><hr>
 <h2 id="add-a-text-media-component">Add a Text/Media Component</h2>
 <hr>
 <ol>
