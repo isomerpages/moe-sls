@@ -9,7 +9,7 @@ variant: markdown
 <h1 id="-1-access-learning-progress">(A1,i) Access Learning Progress</h1>
 <p>Learning Progress shows the overall progress (in terms of marks) of students in a Class Group based on their attempted assignments and self-study resources. Teachers can select questions they wish to monitor and view them from the Learning Progress page.</p>
 <p>The overall progress includes the marks for all assignments containing questions (tagged or untagged to the current Content Mapsyllabus) that have been assigned to a particular Class Group.</p>
-<p>Note: Learning Progress page can be accessed for Class Groups synced from School Cockpit. For Class Groups created in SLS, you will need to add a Subject and Level to view the Learning Progress.</p>
+<p><u>Note</u>: Learning Progress page can be accessed for Class Groups synced from School Cockpit. For Class Groups created in SLS, you will need to add a Subject and Level to view the Learning Progress.</p>
 <p>There are multiple ways to navigate to Learning Progress:</p>
 <ul>
 <li>From the homepage, open the left menu and click Learning Progress.</li>
@@ -18,8 +18,8 @@ variant: markdown
 </ul>
 <h2 id="navigating-the-page">Navigating the Page</h2>
 <hr><ol>
-<li>You will be able to access Assignment/Self-Study, <a target="_blank" href="/teacher-user-guide/track-progress/view-als-learning-progress/">Adaptive Learning</a> (if applicable) or <a target="_blank" href="/teacher-user-guide/track-progress/access-error-tracker/">Error Tracker</a>.</li>
-
+<li>You will be able to access Assignment/Self-Study, <a target="_blank" href="/teacher-user-guide/track-progress/view-als-learning-progress/">Adaptive Learning</a> (if applicable) or <a target="_blank" href="/teacher-user-guide/track-progress/access-error-tracker/">Error Tracker</a>. Select the Assignment tab to view the Class Group’s Learning Progress for Assignments assigned to the Class Group.</li>
+<li>Select the Self-Study tab to view the Class Group’s Learning Progress for questions attempted by students in their Self-Study Lessons that are tagged to the same Subject and Level as the Class Group.<br> Select the ALS tab to view the Class Group’s Learning Progress for mastery of concepts within ALS. Topical view provides you with a class overview at the topic and subtopic levels while Student view allows you to view each student’s individual progress at the topic <img style="width:1.5rem; display: inline;" src="/images/Icons/LP-ALStopical.svg"> and subtopic <img style="width:1.5rem; display: inline;" src="/images/Icons/LP-ALSstudent.svg"> levels.</li>
 <li>In the Assignment/Self-Study tab, you will be able to:</li>
 <ol style="list-style-type: lower-alpha;">
 <li>Browse Resources: Click to search for modules that have been tagged to the same subject and level.</li>
@@ -42,7 +42,7 @@ variant: markdown
 <li><a target="_blank" href="/teacher-user-guide/track-progress/view-by-month/">Monthly</a> - To view the monthly trend of the Awarded Marks as a part of the Total Marks.</li>
 <li><a target="_blank" href="/teacher-user-guide/track-progress/view-by-student/">Student</a> - To view the Awarded Marks as part of the Total Marks by individual students.</li>
 </ul>
-<li>Filter the overall progress of students (in terms of marks) according to the Month Range and Topic/Sub-topic by clicking the Filter icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg">. Click Apply to confirm your selection.</li><p><img alt="View by Topic" style="width: 100%;" src="/images/2Teacher/TP_Accesslearning1.png"></p>
+<li>Filter the overall progress of students (in terms of marks) according to the Month Range and Topic/Sub-topic by clicking the Filter icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg">. Click <b>Apply</b> to confirm your selection.</li><p><img alt="View by Topic" style="width: 100%;" src="/images/2Teacher/TP_Accesslearning1.png"></p>
 	</ol>
 </ol>
 <p><span style="text-decoration: underline;">Note</span>: You can also search for subject resources from MOE Library, Community Gallery, and My Drive. Refer to <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">Search for Resources</a> to find out how to search for resources.</p>
