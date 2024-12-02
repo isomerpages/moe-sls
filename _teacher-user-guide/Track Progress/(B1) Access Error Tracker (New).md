@@ -15,7 +15,7 @@ third_nav_title: Track Progress
 <p>To access the page, click on the <strong>Error Tracker</strong> tab from the <a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">Learning Progress</a> page.</p><p>
 </p><ol>
 <li>In the Error Tracker tab, you will be able to:
-<ol>
+<ol style="list-style-type: lower-alpha;">
 <li>Browse Resources: Click to search for modules that have been tagged to the same subject and level.</li>
 <li>Content Map: Select the relevant content map from the dropdown list if there is more than one content map tagged to the Subject.</li>
 <li>Class Group: Select the relevant Class Groups from the dropdown list.</li>
