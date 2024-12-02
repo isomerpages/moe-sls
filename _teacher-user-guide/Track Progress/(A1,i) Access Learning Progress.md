@@ -14,7 +14,7 @@ variant: markdown
 <ul>
 	<li>From the homepage, open the left menu and click <b>Learning Progress</b>.</li>
 	<li>From the homepage, click on the <b>Overflow</b> (<b>3-dot</b> icon) and click My Subjects. Then click on the <b>Learning Progress</b> icon <img src="/images/Icons/LearningProgress.svg" style="width:1.5rem; display: inline;"> on any of the Subject cards.</li>
-<li>Alternatively, from your Class Groups page, select a Class Group. Then click on View Learning Progress found on the top right of the page.<br> Note: Only Class Groups with a Subject tagged to it will have Learning Progress.</li>
+<li><p>Alternatively, from your Class Groups page, select a Class Group. Then click on View Learning Progress found on the top right of the page.</p><u>Note</u>: Only Class Groups with a Subject tagged to it will have Learning Progress.</li>
 </ul>
 <h2 id="navigating-the-page">Navigating the Page</h2>
 <hr><ol>
@@ -34,10 +34,10 @@ variant: markdown
 <li>Total Marks - the total number of marks for all questions included in Learning Progress, based on the selected content map.</li>
 <li>Average - the average mark scored out of 100%.</li>
 </ul>
-<li>Download Report: Click to download the Learning Progress for the Class Group. You will receive a notification when the report is ready.<br> Note: To download the report, you will have to <a href="/files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf/" target="_blank">enable pop-ups</a>.</li>
+<li>Download Report: Click to download the Learning Progress for the Class Group. You will receive a notification when the report is ready.<br><u>Note</u>: To download the report, you will have to <a href="/files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf/" target="_blank">enable pop-ups</a>.</li>
 <li>The overall progress of students can be viewed in three ways:</li>
 <ul>
-<li><a href="/teacher-user-guide/track-progress/view-by-topic/" target="_blank">Topical</a> - To view the Awarded Marks as part of the Total Marks for questions included in Learning Progress according to their topics and sub-topics of the selected content map.<br> Note: Untagged Questions are questions in an Assignment that are not tagged to a content map. Click View Untagged Questions to view the Assignments that you have included in Learning Progress containing Untagged Questions.</li>
+<li><a href="/teacher-user-guide/track-progress/view-by-topic/" target="_blank">Topical</a> - To view the Awarded Marks as part of the Total Marks for questions included in Learning Progress according to their topics and sub-topics of the selected content map.<br><u>Note</u>: Untagged Questions are questions in an Assignment that are not tagged to a content map. Click View Untagged Questions to view the Assignments that you have included in Learning Progress containing Untagged Questions.</li>
 <li><a href="/teacher-user-guide/track-progress/view-by-month/" target="_blank">Monthly</a> - To view the monthly trend of the Awarded Marks as a part of the Total Marks.</li>
 <li><a href="/teacher-user-guide/track-progress/view-by-student/" target="_blank">Student</a> - To view the Awarded Marks as part of the Total Marks by individual students.</li>
 </ul>
