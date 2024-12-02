@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="edit-activities-sections-">(B1,iii) Edit Activities &amp; Sections</h1>
+<h1 id="edit-activities-sections-">(B1,iii) Edit Activities &amp; Sections</h1><hr>
 <h2 id="edit-activity">Edit Activity</h2>
 <hr>
 <ol>
