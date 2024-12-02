@@ -47,8 +47,8 @@ variant: markdown
 </ol>
 <p><u>Note</u>:</p>
 <ul>
-<li>Subgroups without students can be created</li>
-<li>Subgroups with the same name as other subgroups can be created</li>
-<li>Subgroup cards are arranged by alphabetical order; you are advised to name subgroups with suitable prefixes to better organise them</li>
-<li>Each student can be added to more than one subgroup</li>
+<li>Subgroups without students can be created.</li>
+<li>Subgroups with the same name as other subgroups can be created.</li>
+<li>Subgroup cards are arranged by alphabetical order; you are advised to name subgroups with suitable prefixes to better organise them.</li>
+<li>Each student can be added to more than one subgroup.</li>
 </ul>
