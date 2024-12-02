@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-click-and-drop-questions">(A2,6) Add Click-and-Drop Questions</h1>
+<h1 id="add-click-and-drop-questions">(A2,6) Add Click-and-Drop Questions</h1><hr>
 <h2 id="-add-click-and-drop-question-">Add Click-and-Drop Question</h2>
 <hr>
 <ol>
