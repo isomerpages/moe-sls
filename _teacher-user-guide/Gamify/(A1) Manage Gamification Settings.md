@@ -6,7 +6,7 @@ third_nav_title: Gamify
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-1-manage-gamification-settings">(A1) Manage Gamification Settings</h1>
+<h1 id="-1-manage-gamification-settings">(A1) Manage Gamification Settings</h1><hr>
 <h2 id="turn-on-gamification">Turn on Gamification</h2>
 <hr>
 <ol>
