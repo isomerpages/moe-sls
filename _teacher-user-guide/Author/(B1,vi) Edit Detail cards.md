@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="edit-detail-cards-">(B1,vi) Edit Detail cards</h1>
+<h1 id="edit-detail-cards-">(B1,vi) Edit Detail cards</h1><hr>
 <p>To view a Module/Section/Activity/Component/Quiz Detail subpage, click the respective card in the Module View page.</p><p>To edit a Module/Section/Activity/Component/Quiz Detail subpage, click the&nbsp;<b>Pencil</b>&nbsp;icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> &nbsp;found at the top right of the header to enter the Module Editor page, followed by the <b>Settings</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the respective card.</p>
 <p><u>Note</u>: The Settings Drawer can be expanded/collapsed by clicking the <b>expand/collapse</b> icon.</p>	
 <img alt="" style="width: 50%;" src="/images/2Teacher/AU_EditDetailCard.png">
