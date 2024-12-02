@@ -6,7 +6,7 @@ third_nav_title: Assign
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="allow-students-to-copy-assignments">(B1,viii) Allow Students to Copy Assignments</h1>
+<h1 id="allow-students-to-copy-assignments">(B1,viii) Allow Students to Copy Assignments</h1><hr>
 <h2 id="-copy-permissions-">Copy Permissions</h2>
 <hr>
 <p>You can allow students to copy an Assignment to the students' My Drive folder to enable self-study. Students can only copy an Assignment without their attempted responses.</p>
