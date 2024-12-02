@@ -6,7 +6,7 @@ third_nav_title: Assign
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="copy-assignments">(B1,vii) Copy Assignments</h1>
+<h1 id="copy-assignments">(B1,vii) Copy Assignments</h1><hr>
 <p>You can copy an Assignment after it has been assigned and/or attempted by students. This is helpful for:</p>
 <ul>
 <li>Teachers who have edited their original Module and wish to save a copy in My Drive</li>
