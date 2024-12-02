@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-1b-add-a-poll">(A1,2) Add a Poll</h1>
+<h1 id="-1b-add-a-poll">(A1,2) Add a Poll</h1><hr>
 <h2 id="-create-a-poll-in-class-group-forum-">Create a Poll in Class Group Forum</h2>
 <hr>
 <ol>
