@@ -25,10 +25,34 @@ variant: markdown
 <li>Academic Year: Select the current academic year and up to the past 3 years.</li>
 <li>Include marks from All, Assignment or Self-Study awarded marks</li>
 </ol>
+<img alt="Access Learning Progress" src="/images/1Student/TP_Accesslearning.png">
+</li><li>Summary: the donut chart shows the Awarded Marks out of the Total Marks.
+<ul style="list-style-type: disc;">
+<li>Assignments Awarded Marks - the total number of marks students have scored for all questions included in Learning Progress, based on the selected content map.</li>
+<li>Self-Study Awarded Marks - the total number of marks students have scored for all attempted questions tagged to the same subject and level as the Class Group.</li>
+<li>Total Marks - the total number of marks for all questions included in Learning Progress, based on the selected content map.</li>
+<li>Average - the average mark scored out of 100%.</li>
+</ul>
 </li>
+<li>Your overall progress can be viewed in three ways:</li>
+<ul style="list-style-type: disc;">
+<li><a target="_blank" href="/student-user-guide/track-progress/view-by-topic/">Topical</a> - To view the awarded marks as part of the total marks for selected questions based on their topic/subtopic.<br> Note: Untagged Questions are questions in an Assignment that are not tagged to a content map. Click View Untagged Questions to view the Assignments that you have included in Learning Progress containing Untagged Questions.</li>
+<li><a target="_blank" href="/student-user-guide/track-progress/view-by-month/">Monthly</a> - To view the monthly trend of the Awarded Marks as a part of the Total Marks.</li>
+<li>
+	
+	
+	
+	Questions [/student-user-guide/track-progress/view-by-question/] - To view the awarded marks as part of the total marks by assignments of selected questions.</li>
+</ul>
+	
+	
+	Questions [/student-user-guide/track-progress/view-by-question/] - To view the awarded marks as part of the total marks by assignments of selected questions.
+
+<li>Filter your overall progress (in terms of marks) according to the Month Range and Topic/Sub-topic by clicking the Filter icon [insert Filter.svg]. Click Apply to confirm your selection.</li>
 </ol>
-
-
+	
+	
+	 
 	
 <h2>Video Tutorial</h2>
 <hr>
