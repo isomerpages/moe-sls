@@ -16,7 +16,7 @@ variant: markdown
 </ul><h3 id="navigating-around-the-page">Navigating the Page</h3>
 <hr>
 <ol>
-<li>You will be able to access Assignment/Self-Study, Adaptive Learning (if applicable) [/student-user-guide/track-progress/view-als-learning-progress/] or Error Tracker [/student-user-guide/track-progress/access-error-tracker].</li>
+<li>You will be able to access Assignment/Self-Study, <a target="_blank" href="/student-user-guide/track-progress/view-als-learning-progress/">Adaptive Learning</a> (if applicable) or <a target="_blank" href="/student-user-guide/track-progress/access-error-tracker">Error Tracker</a></li>
 <li>In the Assignment/Self-Study tab, you will be able to:
 <ol style="list-style-type: lower-alpha;">
 <li>Browse Modules: Click to search for modules that have been tagged to the same subject and level.</li>
