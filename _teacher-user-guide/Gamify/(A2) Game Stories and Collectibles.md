@@ -6,7 +6,7 @@ third_nav_title: Gamify
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-2-game-stories-and-collectibles-">(A2) Game Stories and Collectibles</h1>
+<h1 id="-2-game-stories-and-collectibles-">(A2) Game Stories and Collectibles</h1><hr>
 <h2 id="add-a-game-story">Add a Game Story</h2>
 <hr>
 <p>On the Gamification subpage, select the <strong>Game Story</strong> tab:</p>
