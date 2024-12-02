@@ -6,7 +6,7 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(D1,i) Pin Class Groups</h1>
+<h1>(D1,i) Pin Class Groups</h1><hr>
 <ol>
   <li>From the homepage, open the left menu and click <strong>Class Groups</strong>, followed by <strong>All Class Groups</strong> Alternatively, in the Class Groups tab from the homepage, click Class Groups. By default, you will be in the Current tab..</li>
   <li>You can filter current Class Groups by Type and Role..</li>
