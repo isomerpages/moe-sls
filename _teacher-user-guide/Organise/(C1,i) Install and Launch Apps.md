@@ -6,7 +6,7 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(C1,i) Install and Launch Apps</h1>
+<h1>(C1,i) Install and Launch Apps</h1><hr>
 <h2>Steps to Install Apps in SLS</h2>
 <hr>
 <ol>
