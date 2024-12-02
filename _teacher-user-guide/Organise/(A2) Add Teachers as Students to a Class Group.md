@@ -6,7 +6,7 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A2) Add Teachers as Students to a Class Group</h1>
+<h1>(A2) Add Teachers as Students to a Class Group</h1><hr>
 <p>Only Owners of a Class Group are able to add teachers as students. These teachers may be from the same school or different schools.</p>
 <ol>
   <li>From the Class Groups page, select the relevant <strong>Class Group card</strong>.</li>
