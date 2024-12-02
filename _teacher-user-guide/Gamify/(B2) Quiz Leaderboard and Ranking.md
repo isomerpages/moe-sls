@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Gamify
 ---
-<h1 id="quiz-leaderboard-and-ranking">(B2) Quiz Leaderboard and Ranking</h1>
+<h1 id="quiz-leaderboard-and-ranking">(B2) Quiz Leaderboard and Ranking</h1><hr>
 <p>Game Leaderboards can be turned on/off from the Assignment Settings subpage and from the Monitor Assignment page.</p>
 <p><u>Note</u>:</p>
 <ul>
