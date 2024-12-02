@@ -6,7 +6,7 @@ third_nav_title: Assign
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="move-assignments">(B1,v) Move Assignments</h1>
+<h1 id="move-assignments">(B1,v) Move Assignments</h1><hr>
 <h2 id="move-an-assignment">Move an Assignment</h2>
 <hr>
 <p>You can Move an Assignment from one Class Group to another. This is useful for teachers who have assigned year-end Assignments for Class Groups they will be teaching the following year. Teachers and Students will no longer need to access past year assignments from the Past tab in the Class Groups page.</p>
