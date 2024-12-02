@@ -4,9 +4,10 @@ permalink: /teacher-user-guide/organise/app-faqs/
 description: ""
 third_nav_title: Organise
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1>(C1,ii) App FAQs</h1>
-
+<hr>
 <ol>
   <li>
     <strong>What will happen if I do not install an App?</strong>
