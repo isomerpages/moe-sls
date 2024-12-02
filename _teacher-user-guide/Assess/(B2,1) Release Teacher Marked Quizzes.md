@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-2a-release-teacher-marked-quizzes">(B2,1) Release Teacher-Marked Quizzes</h1>
+<h1 id="-2a-release-teacher-marked-quizzes">(B2,1) Release Teacher-Marked Quizzes</h1><hr>
 <ol>
 	<li>The <strong>Release</strong> button serves to return the feedback and marks of the Teacher-Marked Quiz to students.</li>
 	<li>You can do so for an individual student by selecting the student from the <b>Monitor Assignment</b> page.
