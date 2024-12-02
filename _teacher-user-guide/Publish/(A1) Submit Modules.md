@@ -6,7 +6,7 @@ third_nav_title: Publish
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-1-submit-modules">(A1) Submit Modules</h1>
+<h1 id="-1-submit-modules">(A1) Submit Modules</h1><hr>
 <p>If you have a Module that you would like to share with teachers on SLS, you may submit it to the Community Gallery. </p>
 <h2 id="-module-submission-checklist-">Module Submission Checklist:</h2>
 <hr>
