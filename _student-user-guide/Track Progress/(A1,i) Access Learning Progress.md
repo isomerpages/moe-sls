@@ -16,18 +16,23 @@ variant: markdown
 </ul><h3 id="navigating-around-the-page">Navigating the Page</h3>
 <hr>
 <ol>
-<li>From your Class Groups page, select a <strong>Class Group</strong> indicated by coloured cards.</li>
-<li>Click <strong>View Learning Progress</strong> found on the top right of the page. You can also access the Learning Progress page for your Assigned and Followed Subjects from the My Subjects page.</li>
-<li>On the Learning Progress page, you can view your Class Group from the&nbsp;<strong>Selection dropdown list</strong>.</li>
-<li>Under <strong>Selection</strong> you may choose to view the Learning Progress for the following:<ul>
-<li>All - Assignments from both Self-Study and Class Group.</li>
-<li>Self-Study - Modules attempted from MOE Library and My Drive.</li>
-<li>Class Group - Assignments assigned to you by your subject teacher.</li>
-</ul>
-	<u>Note</u>: When Self-Study is selected, you will be able to view your Learning Progress across the years by selecting the year from the&nbsp;<strong>Academic Year dropdown list</strong>.
+<li>You will be able to access Assignment/Self-Study, Adaptive Learning (if applicable) [/student-user-guide/track-progress/view-als-learning-progress/] or Error Tracker [/student-user-guide/track-progress/access-error-tracker].</li>
+<li>In the Assignment/Self-Study tab, you will be able to:
+<ol style="list-style-type: lower-alpha;">
+<li>Browse Modules: Click to search for modules that have been tagged to the same subject and level.</li>
+<li>Content Map: Select the relevant content map from the dropdown list if there is more than one content map tagged to the Subject.</li>
+<li>Class Group: Select the relevant Class Groups from the dropdown list.</li>
+<li>Academic Year: Select the current academic year and up to the past 3 years.</li>
+<li>Include marks from All, Assignment or Self-Study awarded marks</li>
+</ol>
+</li>
+</ol>
+
+
+	
 <h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Introduce Learning Progress (Student)" src="https://www.youtube.com/embed/V84eUpTn8jc" height="100%" width="100%"></iframe>
 </div>
-Please note the following update(s):<br> 1. the donut chart at 00:36 has been shifted below the Content Map dropdown from R20.<br> 2. the Content Map dropdown at feature/button at 00:45 has been shifted above the donut chart from R20. <br></li></ol>
+Please note the following update(s):<br> 1. the donut chart at 00:36 has been shifted below the Content Map dropdown from R20.<br> 2. the Content Map dropdown at feature/button at 00:45 has been shifted above the donut chart. <br>
