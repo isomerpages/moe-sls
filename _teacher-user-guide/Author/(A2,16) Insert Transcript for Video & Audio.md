@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Author
 ---
-<h1>(A2,16) Insert Transcript for Video &amp; Audio</h1>
+<h1>(A2,16) Insert Transcript for Video &amp; Audio</h1><hr>
 <p></p>
 <ol data-tight="true" class="tight">
 <li>
