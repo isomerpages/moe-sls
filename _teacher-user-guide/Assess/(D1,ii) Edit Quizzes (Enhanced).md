@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="edit-quizzes-new-">(D1,ii) Edit Quizzes (Enhanced)</h1>
+<h1 id="edit-quizzes-new-">(D1,ii) Edit Quizzes (Enhanced)</h1><hr>
 <h2 id="edit-quiz">Edit Quiz</h2>
 <hr>
 <ol>
