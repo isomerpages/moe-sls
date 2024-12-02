@@ -6,8 +6,8 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A1,2) Add Existing Components from Resources</h1>
-<h3>Add Existing Questions from Resources</h3>
+<h1>(A1,2) Add Existing Components from Resources</h1><hr>
+<h2>Add Existing Questions from Resources</h2>
 <hr>
 <p>The following question types can be added from&nbsp;Library (MOE Library, Community Gallery, and My Drive) or <a target="_blank" href="/teacher-user-guide/organise/star-resources/">Starred Resources</a>.</p>
 <ul>
