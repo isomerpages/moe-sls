@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: tiptap
 ---
 <h1>(A3,1) About Rich Text Editor</h1>
+<hr>
 <p>The Rich Text Editor allows you to add or edit content, images, links,
 and other components in an Activity.</p>
 <p>In the Rich Text Editor, you can:</p>
