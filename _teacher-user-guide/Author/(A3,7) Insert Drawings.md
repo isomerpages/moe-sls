@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="insert-drawings-">(A3,7) Insert Drawings</h1>
+<h1 id="insert-drawings-">(A3,7) Insert Drawings</h1><hr>
 <p>In the Rich Text Editor, click the <strong>Drawing</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Drawing.svg">. </p>
 <ul>
 <li>By default, after clicking the Drawing icon, you will start with a blank canvas.</li>
