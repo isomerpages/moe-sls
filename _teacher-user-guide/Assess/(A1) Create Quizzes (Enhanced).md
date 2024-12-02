@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-1-create-quizzes-new-">(A1) Create Quizzes (Enhanced)</h1>
+<h1 id="-1-create-quizzes-new-">(A1) Create Quizzes (Enhanced)</h1><hr>
 <h2 id="add-quiz">Add Quiz</h2>
 <hr>
 <p>There are multiple ways to add a new Quiz.</p>
