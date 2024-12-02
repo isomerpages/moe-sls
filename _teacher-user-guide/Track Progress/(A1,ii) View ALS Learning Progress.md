@@ -6,9 +6,8 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Track Progress
 ---
-<h1>(A1,ii) View ALS Learning Progress</h1>
-<ol>
-	
+<h1>(A1,ii) View ALS Learning Progress</h1><hr>
+<ol>	
 <p>Teachers can track students’ learning progress for ALS using two ways, the Learning Progress Dashboard and Reports generated on ALS Content &amp; Assessment Items. </p>
 <h3>Tracking using the Learning Progress Dashboard</h3>
 <hr>
