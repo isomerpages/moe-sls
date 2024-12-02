@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="insert-links-to-sections-">(A3,9) Insert Links to Sections</h1>
+<h1 id="insert-links-to-sections-">(A3,9) Insert Links to Sections</h1><hr>
 <h2 id="-add-link-to-section-activity-new-">Add Link to Section/Activity</h2>
 <hr>
 <ol>
