@@ -12,7 +12,7 @@ variant: markdown
 <ul>
 <li>From the homepage, open the left menu and click Learning Progress.</li>
 <li>From the homepage, click on the <b>Overflow</b> (<b>3-dot</b> icon) and click My Subjects. Then click on the <b>Learning Progress</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/LearningProgress.svg"> on any of the Subject cards.</li>
-<li>Alternatively, from your Class Groups page, select a Class Group. Then click on View Learning Progress found on the top right of the page.<br> Note: Only Class Groups with a Subject tagged to it will have Learning Progress.</li>
+<li><p>Alternatively, from your Class Groups page, select a Class Group. Then click on <b>View Learning Progress</b> found on the top right of the page.</p><u>Note</u>: Only Class Groups with a Subject tagged to it will have Learning Progress.</li>
 </ul>
 <h2 id="navigating-the-page">Navigating the Page</h2>
 <hr><ol>
