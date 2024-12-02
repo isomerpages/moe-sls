@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A3,3) Mark Free-Response Questions</h1>
+<h1>(A3,3) Mark Free-Response Questions</h1><hr>
 <p>With the integration of Google’s suite of tools, you can leverage Google extensions such as Kami or Lumin to mark Free-Response Questions and provide personalised feedback on the Free-Response Questions.</p>
 <p><u>Important</u>: A <a target="_blank" href="/teacher-user-guide/customise/manage-linked-account/"> Linked Account</a> with Google is required to mark a Google PDF Copy or Google-attached files</p>
 <ol>
