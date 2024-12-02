@@ -6,8 +6,8 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="share-a-module">(D1,i) Share a Module</h1>
-<h3 id="-share-a-module-">Share a Module</h3>
+<h1 id="share-a-module">(D1,i) Share a Module</h1><hr>
+<h2 id="-share-a-module-">Share a Module</h2>
 <hr>
 <p>You can share Modules that you have created with other teachers for them to use or to co-author the Module.</p>
 <ol>
