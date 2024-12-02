@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 third_nav_title: Personalise
 ---
 <h1>(A2) Recommend Content to Students on Adaptive Learning System</h1>
-
+<hr>
 <p>To provide differentiated guidance to students, you can recommend topic(s)/ subtopic(s) in ALS for selected students, who will receive a notification and a link to access the recommended content in ALS.</p>
 <ol>
 <li>
