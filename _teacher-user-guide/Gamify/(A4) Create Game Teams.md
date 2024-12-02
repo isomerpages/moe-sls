@@ -6,7 +6,7 @@ third_nav_title: Gamify
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="create-game-teams">(A4) Create Game Teams</h1>
+<h1 id="create-game-teams">(A4) Create Game Teams</h1><hr>
 <p>To enable Team Leaderboard, you will first have to create Game Teams.</p>
 <p><u>Note</u>: Game Teams are different from Activity Teams. The former exists only in Gamified modules and is used for the calculation of points. The latter can exist in any assignment and is used to allow for differentiated access and/or group learning.</p>
 <h2 id="navigate-to-game-teams">Navigate to Game Teams</h2>
