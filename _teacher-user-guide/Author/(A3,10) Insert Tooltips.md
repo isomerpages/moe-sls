@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-insert-tooltips-">(A3,10) Insert Tooltips</h1>
+<h1 id="-insert-tooltips-">(A3,10) Insert Tooltips</h1><hr>
 <h2 id="insert-tooltips">Insert Tooltips</h2>
 
 <p>Tooltips will display simple text over selected content to provide more information. For example, a Tooltip can appear to display the definition of a technical term.</p>
