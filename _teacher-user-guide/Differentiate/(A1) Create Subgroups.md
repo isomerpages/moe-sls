@@ -6,7 +6,7 @@ third_nav_title: Differentiate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-1-create-subgroups">(A1) Create Subgroups</h1>
+<h1 id="-1-create-subgroups">(A1) Create Subgroups</h1><hr>
 <h2 id="about-subgroups">About Subgroups</h2>
 <hr>
 <p><b>Important</b>: Only class group Owners and Co-teachers are able to create Subgroups.</p>
