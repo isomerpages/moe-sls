@@ -4,10 +4,10 @@ permalink: /teacher-user-guide/organise/access-my-drive/
 description: ""
 third_nav_title: Organise
 image: /images/FaviconLight.png
+variant: markdown
 ---
-<div>
 <h1>(E1) Access My Drive</h1>
-<p><strong>My Drive</strong> can be accessed from the homepage by opening the left menu.</p>
+<hr><p><strong>My Drive</strong> can be accessed from the homepage by opening the left menu.</p>
 <ol>
 <li>
 <p>In My Drive, you will see three tabs:</p>
@@ -20,4 +20,3 @@ image: /images/FaviconLight.png
 <li>You can view Modules shared with you from the <strong>Shared With Me</strong> page.</li>
 <li>By default, you will be on <strong>My Modules</strong> tab.</li>
 </ol>
-</div>
