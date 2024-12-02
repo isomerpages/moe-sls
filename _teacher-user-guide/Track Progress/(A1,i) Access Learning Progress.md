@@ -13,13 +13,13 @@ variant: markdown
 <p>There are multiple ways to navigate to Learning Progress:</p>
 <ul>
 <li>From the homepage, open the left menu and click Learning Progress.</li>
-<li>From the homepage, click on the Overflow (3-dot icon) and click My Subjects. Then click on the Learning Progress icon <img style="width:1.5rem; display: inline;" src="/images/Icons/LearningProgress.svg">on any of the Subject cards.</li>
+<li>From the homepage, click on the Overflow (3-dot icon) and click My Subjects. Then click on the Learning Progress icon <img style="width:1.5rem; display: inline;" src="/images/Icons/LearningProgress.svg"> on any of the Subject cards.</li>
 <li>Alternatively, from your Class Groups page, select a Class Group. Then click on View Learning Progress found on the top right of the page.<br> Note: Only Class Groups with a Subject tagged to it will have Learning Progress.</li>
 </ul>
 <h2 id="navigating-the-page">Navigating the Page</h2>
 <hr><ol>
 <li>You will be able to access Assignment/Self-Study, <a target="_blank" href="/teacher-user-guide/track-progress/view-als-learning-progress/">Adaptive Learning</a> (if applicable) or <a target="_blank" href="/teacher-user-guide/track-progress/access-error-tracker/">Error Tracker</a>. Select the Assignment tab to view the Class Group’s Learning Progress for Assignments assigned to the Class Group.</li>
-<li>Select the Self-Study tab to view the Class Group’s Learning Progress for questions attempted by students in their Self-Study Lessons that are tagged to the same Subject and Level as the Class Group.<br> Select the ALS tab to view the Class Group’s Learning Progress for mastery of concepts within ALS. Topical view provides you with a class overview at the topic and subtopic levels while Student view allows you to view each student’s individual progress at the topic and subtopic levels. [insert LP-ALStopical.png and LP-ALSstudent.png]</li>
+<li>Select the Self-Study tab to view the Class Group’s Learning Progress for questions attempted by students in their Self-Study Lessons that are tagged to the same Subject and Level as the Class Group.<br> Select the ALS tab to view the Class Group’s Learning Progress for mastery of concepts within ALS. Topical view provides you with a class overview at the topic and subtopic levels while Student view allows you to view each student’s individual progress at the topic <img style="width:1.5rem; display: inline;" src="/images/Icons/LP-ALStopical.svg"> and subtopic <img style="width:1.5rem; display: inline;" src="/images/Icons/LP-ALSstudent.svg"> levels.</li>
 <li>In the Assignment/Self-Study tab, you will be able to:</li>
 <ol style="list-style-type: lower-alpha;">
 <li>Browse Resources: Click to search for modules that have been tagged to the same subject and level.</li>
