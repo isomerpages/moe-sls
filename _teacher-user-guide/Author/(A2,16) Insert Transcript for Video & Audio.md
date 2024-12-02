@@ -7,8 +7,6 @@ image: /images/FaviconLight.png
 third_nav_title: Author
 ---
 <h1>(A2,16) Insert Transcript for Video &amp; Audio</h1><hr>
-<p></p>
-<ol data-tight="true" class="tight">
 <li>
 <p>You can transcribe videos and audio files, providing versatility in reading
 materials and enhancing accessibility for students with diverse learning
@@ -26,7 +24,7 @@ is enabled.</p>
 <p>The transcript will be highlighted and anchored to the timestamp as the
 audio plays.</p>
 </li>
-</ol>
+
 <p></p>
 <h4>Generate Transcript for Video/Audio</h4>
 <hr>
