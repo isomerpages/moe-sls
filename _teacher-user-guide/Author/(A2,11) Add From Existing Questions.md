@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Author
 ---
-<h1 id="add-from-existing-questions">(A2,11) Add From Existing Questions</h1>
+<h1 id="add-from-existing-questions">(A2,11) Add From Existing Questions</h1><hr>
 <h2 id="-add-an-exisiting-question-">Add an Existing Question</h2>
 <hr>
 <ol>
