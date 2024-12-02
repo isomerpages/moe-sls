@@ -6,7 +6,7 @@ third_nav_title: Customise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A1,vii) Switch to Student Account</h1>
+<h1>(A1,vii) Switch to Student Account</h1><hr>
 <h2>Switch to Student Account</h2>
 <hr>
 <ol>
