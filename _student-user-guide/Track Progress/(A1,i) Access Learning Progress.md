@@ -6,43 +6,65 @@ third_nav_title: Track Progress
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-1-access-learning-progress">(A1,i) Access Learning Progress</h1>
-<p>Learning Progress shows the overall progress (in terms of marks) of students in a Class Group based on their attempted assignments and self-study resources. Teachers can select questions they wish to monitor and view them from the Learning Progress page.</p>
-<p>There are multiple ways to navigate to <b>Learning Progress</b>:</p>
+<h1>(A1,i) Access Learning Progress</h1>
+<hr>
+<p>Learning Progress shows your overall progress (in terms of marks) for questions of a particular subject. These questions are carefully selected by your teachers and are deemed to be important for your learning.</p>
+<p>There are multiple ways to navigate to Learning Progress:</p>
 <ul>
-<li>From the homepage, open the left menu and click Learning Progress.</li>
-<li>From the homepage, click on the <b>Overflow</b> (<b>3-dot</b> icon) and click My Subjects. Then click on the <b>Learning Progress</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/LearningProgress.svg"> on any of the Subject cards.</li>
-<li><p>Alternatively, from your Class Groups page, select a Class Group. Then click on <b>View Learning Progress</b> found on the top right of the page.</p><u>Note</u>: Only Class Groups with a Subject tagged to it will have Learning Progress.</li>
+<li>
+<p>From the homepage, open the left menu and click <strong>Learning Progress</strong>.</p>
+</li>
+<li>
+<p>From the homepage, click on the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and click <strong>My Subjects</strong>. Then click on the <strong>Learning Progress</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/LearningProgress.svg"> on any of the Subject cards.</p>
+</li>
+<li>
+<p>Alternatively, from your Class Groups page, select a <strong>Class Group</strong>. Then click on <strong>View Learning Progress</strong> found on the top right of the page.</p>
+<p><u>Note</u>: Only Class Groups with a Subject tagged to it will have Learning Progress</p>
+</li>
 </ul>
-<h2 id="navigating-the-page">Navigating the Page</h2>
-<hr><ol>
-<li>You will be able to access Assignment/Self-Study, <a target="_blank" href="/teacher-user-guide/track-progress/view-als-learning-progress/">Adaptive Learning</a> (if applicable) or <a target="_blank" href="/teacher-user-guide/track-progress/access-error-tracker/">Error Tracker</a>.</li>
-
-<li>In the Assignment/Self-Study tab, you will be able to:</li>
-<ol style="list-style-type: lower-alpha;">
-<li>Browse Resources: Click to search for modules that have been tagged to the same subject and level.</li>
+<h2>Navigating the Page</h2>
+<hr>
+<ol>
+<li>
+<p><s></s>You will be able to access Assignment/Self-Study, <a target="_blank" href="/student-user-guide/track-progress/view-als-learning-progress/">Adaptive Learning</a> (if applicable) or <a target="_blank" href="/student-user-guide/track-progress/access-error-tracker/">Error Tracker</a>.</p>
+</li>
+<li>
+<p>In the Assignment/Self-Study tab, you will be able to:</p>
+<ol>
+<li>Browse Modules: Click to search for modules that have been tagged to the same subject and level.</li>
 <li>Content Map: Select the relevant content map from the dropdown list if there is more than one content map tagged to the Subject.</li>
 <li>Class Group: Select the relevant Class Groups from the dropdown list.</li>
 <li>Academic Year: Select the current academic year and up to the past 3 years.</li>
 <li>Include marks from All, Assignment or Self-Study awarded marks</li>
-<li>View Excluded Questions: Click to view the Assignments containing questions excluded from Learning Progress and the number of questions excluded for each Assignment. You may view the questions and include them in Learning Progress. <a target="_blank" href="/teacher-user-guide/track-progress/view-excluded-questions/">Click here</a> for more information.</li>
-<li>View Untagged Questions: Click to view questions that have been included in Learning Progress and are tagged to a content map that is not the currently selected content map.</li><p><img alt="View by Topic" style="width: 100%;" src="/images/2Teacher/TP_Accesslearning.png"></p><li>Summary: the donut chart shows the Awarded Marks out of the Total Marks.</li>
+</ol>
+<p><img alt="Access Learning Progress" style="width: 100%;" src="/images/1Student/TP_Accesslearning.png"></p>
+</li>
+<li>
+<p>Summary: the donut chart shows the Awarded Marks out of the Total Marks.</p>
 <ul>
 <li>Assignments Awarded Marks - the total number of marks students have scored for all questions included in Learning Progress, based on the selected content map.</li>
 <li>Self-Study Awarded Marks - the total number of marks students have scored for all attempted questions tagged to the same subject and level as the Class Group.</li>
 <li>Total Marks - the total number of marks for all questions included in Learning Progress, based on the selected content map.</li>
 <li>Average - the average mark scored out of 100%.</li>
 </ul>
-<li>Download Report: Click to download the Learning Progress for the Class Group. You will receive a notification when the report is ready.<br> Note: To download the report, you will have to <a target="_blank" href="/files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf/">enable pop-ups</a>.</li>
-<li>The overall progress of students can be viewed in three ways:</li>
+</li>
+<li>
+<p>Your overall progress can be viewed in three ways:</p>
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/track-progress/view-by-topic/">Topical</a> - To view the Awarded Marks as part of the Total Marks for questions included in Learning Progress according to their topics and sub-topics of the selected content map.<br> Note: Untagged Questions are questions in an Assignment that are not tagged to a content map. Click View Untagged Questions to view the Assignments that you have included in Learning Progress containing Untagged Questions.</li>
-<li><a target="_blank" href="/teacher-user-guide/track-progress/view-by-month/">Monthly</a> - To view the monthly trend of the Awarded Marks as a part of the Total Marks.</li>
-<li><a target="_blank" href="/teacher-user-guide/track-progress/view-by-student/">Student</a> - To view the Awarded Marks as part of the Total Marks by individual students.</li>
+<li>
+<p><a target="_blank" href="/student-user-guide/track-progress/view-by-topic/">Topical</a> - To view the awarded marks as part of the total marks for selected questions based on their topic/subtopic.</p>
+	<p><u>Note</u>: Untagged Questions are questions in an Assignment that are not tagged to a content map. Click <strong>View Untagged Questions</strong> to view the Assignments that you have included in Learning Progress containing Untagged Questions.</p>
+</li>
 </ul>
-<li>Filter the overall progress of students (in terms of marks) according to the Month Range and Topic/Sub-topic by clicking the Filter icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg">. Click Apply to confirm your selection.</li><p><img alt="View by Topic" style="width: 100%;" src="/images/2Teacher/TP_Accesslearning1.png"></p>
-	</ol>
+</li>
+<li>
+<p>Filter your overall progress (in terms of marks) according to the Month Range and Topic/Sub-topic by clicking the <b>Filter</b> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg">. Click <strong>Apply</strong> to confirm your selection.</p>
+<p><img alt="Access Learning Progress" style="width: 100%;" src="/images/1Student/TP_Accesslearning1.png"></p>
+<p>&nbsp;</p>
+</li>
 </ol>
-<p><span style="text-decoration: underline;">Note</span>: You can also search for subject resources from MOE Library, Community Gallery, and My Drive. Refer to <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">Search for Resources</a> to find out how to search for resources.</p>
-<h2 id="video-tutorial">Video Tutorial</h2><hr>
-<div class="bp-youtube"> <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Introduce Learning Progress" src="https://www.youtube.com/embed/828zJ4XOygQ" height="100%" width="100%"></iframe> </div>
+<h2>Video Tutorial</h2>
+<hr>
+<div class="bp-youtube">
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Introduce Learning Progress (Student)" src="https://www.youtube.com/embed/V84eUpTn8jc" height="100%" width="100%"></iframe>
+</div>
