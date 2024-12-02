@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="about-templates">About Templates</h1>
+<h1 id="about-templates">About Templates</h1><hr>
 <p>When designing a Module or adding new Activity/Section, you can select a template from:</p>
 <ol>
 <li><a target="_blank" href="/teacher-user-guide/customise/manage-my-templates/">My Templates</a></li>
