@@ -6,7 +6,7 @@ third_nav_title: Assign
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="create-assignments">(A1,i) Create Assignments</h1>
+<h1 id="create-assignments">(A1,i) Create Assignments</h1><hr>
 <p>You can create an Assignment by assigning a Module to students in your Class Groups.</p>
 <p>You can turn your <a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">Assignment into an Assessment</a>. An Assessment card is differentiated with a beige background.</p>
 <p><u>Note</u>: For a better user experience, Assignments with over 100 assignees will need to be split into multiple assignments with a maximum of 100 students. </p>
