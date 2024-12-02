@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="mark-assignments/sections/activities-as-complete-and-incomplete">(D1,vi) Manage Assignments, Sections,&nbsp;Activities (Enhanced)</h1>
+<h1 id="mark-assignments/sections/activities-as-complete-and-incomplete">(D1,vi) Manage Assignments, Sections,&nbsp;Activities (Enhanced)</h1><hr>
 <p><b>Important</b>:</p>
 <ul>
 <li>Assignments marked as "Complete" will appear in your student's Assignment page under the "Complete" filter. Students will no longer be able to attempt these Assignments.</li>
