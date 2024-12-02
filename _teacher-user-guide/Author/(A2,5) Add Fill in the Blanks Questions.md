@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-fill-in-the-blanks-questions">(A2,5) Add Fill-in-the-Blanks Questions</h1>
+<h1 id="add-fill-in-the-blanks-questions">(A2,5) Add Fill-in-the-Blanks Questions</h1><hr>
 <h2 id="-add-fill-in-the-blanks-question-">Add Fill-in-the-Blanks Question</h2>
 <hr>
 <ol>
