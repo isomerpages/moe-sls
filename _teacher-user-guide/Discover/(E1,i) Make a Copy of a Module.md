@@ -6,7 +6,7 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(E1,i) Make a Copy of a Module</h1>
+<h1>(E1,i) Make a Copy of a Module</h1><hr>
 <p>After selecting a MOE Library or Community Gallery Module that you would like to adapt for use, you can make a copy of it before editing and assigning it to your students.</p>
 
 <ol>
