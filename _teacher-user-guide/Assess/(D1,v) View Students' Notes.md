@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="view-students-notes">(D1,v) View Students' Notes</h1>
+<h1 id="view-students-notes">(D1,v) View Students' Notes</h1><hr>
 <h2 id="-viewing-students-notes-">Viewing Students' Notes</h2>
 <hr>
 <p>You can monitor your students’ learning by referring to the Notes that they create within an Assignment you have given.</p>
