@@ -6,7 +6,7 @@ third_nav_title: Publish
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-2-copyright-guidelines-for-submission">(A2) Copyright Guidelines for Submission</h1>
+<h1 id="-2-copyright-guidelines-for-submission">(A2) Copyright Guidelines for Submission</h1><hr>
 <ol>
 <li><strong>What materials can I use in my module?</strong></li>
 </ol>
