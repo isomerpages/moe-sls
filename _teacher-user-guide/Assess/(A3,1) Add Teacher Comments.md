@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-3a-add-teacher-comments">(A3,1) Add Teacher Comments</h1>
+<h1 id="-3a-add-teacher-comments">(A3,1) Add Teacher Comments</h1><hr>
 <p>You are able to add a Comment to the responses of a specific Free-Response, File Submission, and Audio-Response Question for a single Student or multiple Students.</p>
 <h2 id="-add-comment-for-a-single-student-">Add Comment for a single Student</h2>
 <hr>
