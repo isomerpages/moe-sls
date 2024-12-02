@@ -6,7 +6,7 @@ third_nav_title: Differentiate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-2-view-subgroups">(A2) View Subgroups</h1>
+<h1 id="-2-view-subgroups">(A2) View Subgroups</h1><hr>
 <ol>
 <li>From the Class Group page, select a <strong>Class Group</strong>, followed by the <strong>Admin</strong> Tab.</li>
 <li>Under the Subgroup List, you can view the list of subgroups that have been created.</li>
