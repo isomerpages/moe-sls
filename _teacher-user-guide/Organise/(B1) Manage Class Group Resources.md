@@ -7,6 +7,7 @@ image: /images/FaviconLight.png
 variant: tiptap
 ---
 <h1>(B1) Manage Class Group Resources</h1>
+<hr>
 <h2>About Class Group Resources</h2>
 <hr>
 <ol data-tight="true" class="tight">
