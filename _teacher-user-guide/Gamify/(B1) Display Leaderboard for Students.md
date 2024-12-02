@@ -6,7 +6,7 @@ third_nav_title: Gamify
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="display-leaderboard-for-students-improved-">(B1) Display Leaderboard for Students</h1>
+<h1 id="display-leaderboard-for-students-improved-">(B1) Display Leaderboard for Students</h1><hr>
 <p>Game Leaderboards can be turned on/off from the Assignment Settings subpage and from the Monitor Assignment page.</p>
 <p><u>Note</u>:</p>
 <h2>Display Leaderboards for Students from Assignment Settings subpage</h2>
