@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>About Notifications</h1><hr>
-<p>From R19, you can view Notifications sorted under <strong>For Me</strong> and <strong>Created By Me</strong> tabs. Under the <strong>For Me</strong> tab, you can further sort your listing by <strong>All, Unread</strong> and <strong>Flagged</strong>. You can also filter your listing using the <strong>Viewing</strong> and <strong>Type</strong> dropdown list.</p>
+<p>You can view Notifications sorted under <strong>For Me</strong> and <strong>Created By Me</strong> tabs. Under the <strong>For Me</strong> tab, you can further sort your listing by <strong>All, Unread</strong> and <strong>Flagged</strong>. You can also filter your listing using the <strong>Viewing</strong> and <strong>Type</strong> dropdown list.</p>
 <ul>
 <li>Viewing: All, General, Pinned Class Groups (if applicable), My Class Groups, Admin Roles (if applicable)</li>
 <li>Type: All, Announcements (Class Group Announcement, System Announcement), Others (Resource Status, Transcoding, Others, Forum, Assignment, Resource, Module, Media, Reports)</li>
