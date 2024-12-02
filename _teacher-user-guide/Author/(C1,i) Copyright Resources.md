@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="resources">(C1,i) Copyright Resources</h1>
+<h1 id="resources">(C1,i) Copyright Resources</h1><hr>
 <h2 id="-useful-resource-sites-">Useful Resource Sites</h2>
 <hr>
 <p>Before using third-party materials obtained from websites, it is important to check whether:</p>
