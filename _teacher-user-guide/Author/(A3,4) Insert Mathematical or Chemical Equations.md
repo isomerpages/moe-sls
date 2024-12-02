@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="insert-mathematical-or-chemical-equations">(A3,4) Insert Mathematical or Chemical Equations</h1>
+<h1 id="insert-mathematical-or-chemical-equations">(A3,4) Insert Mathematical or Chemical Equations</h1><hr>
 <h2 id="-insert-math-equation-using-mathtype-">Insert Math Equation using MathType</h2>
 <hr>
 <ol>
