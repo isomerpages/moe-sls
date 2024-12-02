@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(A1) Create Class Groups</h1>
-
+<hr>
 <ol>
 <li>From the homepage, open the left menu and click <strong>Class Groups</strong>, followed by <strong>All Class Groups</strong>. Alternatively, under the Class Groups tab, click <strong>Class 
 Groups</strong>.</li>
