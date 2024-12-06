@@ -37,5 +37,5 @@ variant: markdown
 <img style="width: 100%;" src="/images/2Teacher/AU_AddRubrics3.png">
 		 <u>Note</u>: This is available for both standalone Free-Response and Audio-Response Questions, as well as and all quiz modes.<li>When rubrics are added to a quiz, teacher can select questions to be associated to with the rubrics. </li>
 <img style="width: 100%;" src="/images/2Teacher/AU_AddRubrics5.png">	
-<li>Teacher can also select Hide quiz marks where only the relevant bands from the rubrics will be shown to students after the questions have been marked. This can be used for creating personality tests, performance tasks etc., for students to focus on the feedback.</li><img style="width: 100%;" src="/images/2Teacher/AU_AddRubrics4.png"><br> <u>Note</u>: This is available for all quiz modes.
+<li>Teacher can also click on <b>Hide quiz marks</b> so that only the relevant bands from the rubrics will be shown to students after the questions have been marked. This can be used for creating personality tests, performance tasks etc., for students to focus on the feedback.</li><img style="width: 100%;" src="/images/2Teacher/AU_AddRubrics4.png"><br> <u>Note</u>: This is available for all quiz modes.
 </ol>
