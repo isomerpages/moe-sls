@@ -6,7 +6,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>SLS Access</h1>
-
+<hr>
 <h2 id="overview-of-sls-system">Overview of the SLS System</h2>
 <hr>
 <ol>
