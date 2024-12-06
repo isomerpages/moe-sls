@@ -216,8 +216,7 @@ in login or e-learning issues during working hours.</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 67830427
 <br>Email: low_hui_ling@moe.edu.sg
-<br>Others: <a href="https://angsanapri.moe.edu.sg/quicklinks/sls-student-learning-space" rel="noopener noreferrer nofollow" target="_blank">School Website</a>
-</p>
+<br>Others:</p>
 </td>
 </tr>
 <tr>
@@ -875,7 +874,7 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 <td rowspan="1" colspan="1">
 <p>Tel: 64436848
 <br>Email:
-<br>Others: <a href="http://gg.gg/dsshelpdesk" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+<br>Others: <a href="http://go.gov.sg/damaisechelpdesk" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/damaisechelpdesk</a>
 </p>
 </td>
 </tr>
@@ -3248,8 +3247,7 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 68494400
 <br>Email:
-<br>Others: <a href="http://gg.gg/wdlslspassword" rel="noopener noreferrer nofollow" target="_blank">Google Form</a>
-</p>
+<br>Others:</p>
 </td>
 </tr>
 <tr>
