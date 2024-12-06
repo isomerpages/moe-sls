@@ -44,6 +44,20 @@ third_nav_title: Collaborate
         <p>Unique Google Meet links can also be generated for differentiated access, to facilitate small group discussions.</p>
     </li>
 </ul>
+<h2>Create Google Meet Links for Teams in a Class Group</h2>
+<hr>
+<ol>
+<li>From the Class Groups page, select the relevant <strong>Class Group card</strong>.</li>
+<li>From the <strong>Admin tab</strong>, click <strong>View &amp; Edit</strong>.</li>
+<li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon), then select <strong>View Google Meet Details.</strong><p><img alt="Add Google Meet Link" style="width: 100%;" src="/images/2Teacher/C_Googlemeet9.png">
+	</p></li><li>Click on <strong>Generate Link</strong> and select the level of security for the meeting (Open, Trusted, Restricted).</li>
+<li>Click <strong>Back to Edit Details</strong> and select <strong>Save.</strong>
+	<p><img alt="Add Google Meet Link" style="width: 100%;" src="/images/2Teacher/C_Googlemeet10.png"></p>
+	</li><li>Teachers can now access the Google Meet link directly from the Class Group.</li>
+</ol>
+<h2>Create Google Meet Links for Teams in an Assignment</h2>
+<hr>
+
 <ol>
     <li>
         <p>Open the right menu and select <strong>Manage Assignment Settings</strong>. The Assignment Settings subpage will appear.</p>
@@ -68,7 +82,8 @@ third_nav_title: Collaborate
 <p><u>Note</u>:</p>
 <ul>
     <li>Teachers will need to <a target="_blank" href="/teacher-user-guide/customise/manage-linked-account/">link their iCON/Google account</a> to SLS to create Google Meet links.</li>
-    <li>If students do not <a target="_blank" href="student-user-guide/customise/manage-linked-account/">link their iCON/Google account</a> to SLS, they will only be able to join the meeting as a guest.</li>
+	<li>A pop-up box may appear to request for permissions to your linked account. Click <b>Select all</b> to generate Google Meet links. <p><img alt="Add Google Meet Link" style="width: 100%;" src="/images/2Teacher/C_Googlemeet8.png"></p>
+    </li><li>If students do not <a target="_blank" href="student-user-guide/customise/manage-linked-account/">link their iCON/Google account</a> to SLS, they will only be able to join the meeting as a guest.</li>
 </ul>
 <h2>Create Google Meet Links for Teams in an Assignment</h2>
 <hr>
@@ -88,7 +103,8 @@ third_nav_title: Collaborate
     <li>
         <p>Click <strong>Add</strong> to confirm.</p>
     </li>
-    <li>
+	<li> Click <b>Back to Assignment Settings</b> and <b>Save</b> the Assignment.
+    </li><li>
         <p>Click the <strong>Overflow (3-dot</strong> icon) again, followed by <strong>View Google Meet Details</strong> to view the Google Meet links.</p>
      <p><img alt="Add Google Meet Link" style="width: 100%;" src="/images/2Teacher/C_Googlemeet6.png"></p>
     </li>

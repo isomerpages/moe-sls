@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Track Progress
 ---
-<h1>(B1) Access Error Tracker</h1>
+<h1>(B1) Access Error Tracker (New)</h1>
 <hr>
 <p>Error Tracker provides a consolidated summary of annotations from across class groups, assignments, and self-study resources, organised by their error tags.</p>
 <p>Errors can be tagged by either teachers, <a target="_blank" href="/student-user-guide/assess/about-language-feedback-assistant-for-english/">Language Feedback Assistant for English</a> or <a target="_blank" href="/student-user-guide/assess/about-mathematics-feedback-assistant/">Feedback Assistant - Mathematics</a>.</p>
@@ -15,7 +15,7 @@ third_nav_title: Track Progress
 <p>To access the page, click on the <strong>Error Tracker</strong> tab from the <a target="_blank" href="/student-user-guide/track-progress/access-learning-progress/">Learning Progress</a> page.</p>
 <ol>
 <li>In the Error Tracker tab, you will be able to:
-<ol>
+<ol style="list-style-type: lower-alpha;">
 <li>Browse Modules: Click to search for modules that have been tagged to the same subject and level.</li>
 <li>Content Map: Select the relevant content map from the dropdown list if there is more than one content map tagged to the Subject.</li>
 <li>Class Group: Select the relevant Class Groups from the dropdown list.</li>

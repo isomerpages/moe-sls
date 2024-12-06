@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="downloadable-resources-to-be-updated-directly-on-html-">Downloadable Resources</h1>
-
+<hr>
 <table>
 <thead>
 <tr>

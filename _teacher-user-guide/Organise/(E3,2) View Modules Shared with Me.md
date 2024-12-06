@@ -6,7 +6,7 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(E3,2) View Modules Shared with Me</h1>
+<h1>(E3,2) View Modules Shared with Me</h1><hr>
 <p>Modules shared with you can be accessed from My Drive.</p>
 <ol>
   <li>Open the left menu from the header on the homepage. Click <strong>Resources</strong>, followed by <strong>My Drive</strong>. By default, you will be in the My Modules tab.</li>

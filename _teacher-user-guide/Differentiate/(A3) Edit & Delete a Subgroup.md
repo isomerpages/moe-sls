@@ -6,7 +6,7 @@ third_nav_title: Differentiate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-3-edit-delete-a-subgroup">(A3) Edit &amp; Delete a Subgroup</h1>
+<h1 id="-3-edit-delete-a-subgroup">(A3) Edit &amp; Delete a Subgroup</h1><hr>
 <h2 id="-edit-a-subgroup-">Edit a Subgroup</h2>
 <hr>
 <ol>

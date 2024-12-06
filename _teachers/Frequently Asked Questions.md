@@ -6,7 +6,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>SLS Access</h1>
-
+<hr>
 <h2 id="overview-of-sls-system">Overview of the SLS System</h2>
 <hr>
 <ol>
@@ -38,7 +38,7 @@ variant: markdown
 <ol><li><p><strong>What are the technical requirements for devices to access the SLS?</strong> <br></p>
 <p> The Student Learning Space (SLS) is accessible through internet browsers on Windows PC, Mac, tablets and mobile devices.</p>
 <p> Note: Due to the responsive nature of the site, the layout of the components on the website will appear differently on different devices.</p>
-<p> The recommended operating systems and browsers as at 19 June 2024 are as follows:</p></li>
+<p> The recommended operating systems and browsers as at 29 November 2024 are as follows:</p></li>
 <table>
 <thead>
 <tr>
@@ -49,27 +49,27 @@ variant: markdown
 <tbody>
 <tr>
 <td>Microsoft Windows 10</td>
-<td>Google Chrome 123 and later <br>Microsoft Edge 123 and later</td>
+<td>Google Chrome 128 and later <br>Microsoft Edge 128 and later</td>
 </tr>
 <tr>
 <td>Mac OS 13 and later</td>
-<td>Safari 16 and later <br> Google Chrome 123 and later</td>
+<td>Safari 17 and later <br> Google Chrome 128 and later</td>
 </tr>
 <tr>
-<td>iPadOS 16 and later</td>
-<td>Safari 16 and later <br>Google Chrome 123 and later</td>
+<td>iPadOS 17 and later</td>
+<td>Safari 17 and later <br>Google Chrome 128 and later</td>
 </tr>
 <tr>
-<td>iOS 16 and later</td>
-<td>Safari 16 and later <br>Google Chrome 123 and later</td>
+<td>iOS 17 and later</td>
+<td>Safari 17 and later <br>Google Chrome 128 and later</td>
 </tr>
 <tr>
 <td>Android 13 and later</td>
-<td>Google Chrome 123 and later</td>
+<td>Google Chrome 128 and later</td>
 </tr>
 <tr>
-<td>ChromeOS 123 and later</td>
-<td>Google Chrome 123 and later</td>
+<td>ChromeOS 128 and later</td>
+<td>Google Chrome 128 and later</td>
 </tr>
 </tbody>
 </table>

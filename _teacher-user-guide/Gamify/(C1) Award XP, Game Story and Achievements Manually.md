@@ -6,7 +6,7 @@ third_nav_title: Gamify
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-award-xp-game-story-achievements-manually-">(C1) Award XP, Game Story &amp; Achievements Manually</h1>
+<h1 id="-award-xp-game-story-achievements-manually-">(C1) Award XP, Game Story &amp; Achievements Manually</h1><hr>
 <ol>
 	<li>From the homepage, select the <b>Assignments</b> tab to view the latest Assignments. Alternatively, enter the Assignments page. Click the <b>Monitoring</b> icon on a gamified <b>Assignment card</b>. This will lead you to the Monitor Assignment page. </li>
 <li>On the <a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/"> Monitor Assignment</a> page, click the <strong>Game Experience</strong> tab. </li>

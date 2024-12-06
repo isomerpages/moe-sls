@@ -6,7 +6,7 @@ third_nav_title: Track Progress
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-2c-view-by-student">(A2,iii) View by Student</h1>
+<h1 id="-2c-view-by-student">(A2,iii) View by Student</h1><hr>
 <p>The overall progress (in terms of marks) by individual students is displayed according to the Content Map selected. There may be more than one Content Map for a particular subject according to the syllabus by SEAB.</p>
 <p><u>Note</u>: Only questions that are selected to be included will be shown in the Learning Progress. Refer to <a target="_blank" href="/teacher-user-guide/author/add-question-tags/">Add Question Tags</a> for more details.</p>
 <ol>

@@ -18,6 +18,6 @@ variant: markdown
 <li>Click <strong>Save</strong>.</li>
 </ol>
 <u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
-<p>You can set an email address other than your Student iCON email. This will allow you to reset your SLS password even if you are unable to log in to your Student iCON email. </p>
-<p>While it is not a must to enter an email address, this is the easiest and fastest method to reset your SLS password should you forget it.</p>
-<p>A notification will appear to remind you each time you log in if an alternate email address has not been entered and verified.</p>
+<ul><li>You can set an email address other than your Student iCON email. This will allow you to reset your SLS password even if you are unable to log in to your Student iCON email. </li>
+<li>While it is not a must to enter an email address, this is the easiest and fastest method to reset your SLS password should you forget it.</li>
+<li>A notification will appear to remind you each time you log in if an alternate email address has not been entered and verified.</li></ul>

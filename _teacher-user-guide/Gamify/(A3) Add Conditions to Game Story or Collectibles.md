@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Gamify
 ---
-<h1>(A3) Add Conditions to Game Story or Collectibles</h1>
+<h1>(A3) Add Conditions to Game Story or Collectibles</h1><hr>
 <p>Conditions help determine when your Game Stories and Collectibles appear during the module. Game Stories and Collectibles will appear after the conditions have been fulfilled. Game Stories and Collectibles with no Conditions will not appear but can be awarded to students manually. To find out how to award Game Stories and Collectibles manually, click <a target="_blank" href="/teacher-user-guide/gamify/award-xp-game-story-and-achievements-manually/">Add Conditions</a>.</p>
 <h2>Types of Game Story and Collectible Conditions</h2>
 <hr>

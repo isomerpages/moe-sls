@@ -6,10 +6,10 @@ third_nav_title: Plan
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A1) Access Planner</h1>
+<h1>(A1) Access Planner</h1><hr>
 <p>Planner allows you to manage your personal learning schedule and timetable. You can create events or import your school timetable/calendar into the Planner and view Assignments which are due soon.</p>
 <p><u>Note</u>: Please ensure you have enabled pop-ups before accessing assignments or resources attached to events. You may refer to the <a target="_blank" href="/files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf">Enable Pop-Ups guide</a> on how you can enable pop-ups for your device.</p>
-<h3>Navigating to the Page</h3>
+<h2>Navigating to the Page</h2>
 <hr>
 <ol>
 <li>There are three ways to access the <strong>Planner:</strong>

@@ -6,7 +6,7 @@ third_nav_title: Differentiate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="add-section-prerequisites">(B1,i) Add Activity, Quiz or Section Prerequisites</h1>
+<h1 id="add-section-prerequisites">(B1,i) Add Activity, Quiz or Section Prerequisites</h1><hr>
 <h2>Activity/Quiz Prerequisites</h2>
 <hr>
 <p>You can add Activity/Quiz Prerequisites to a Module that contains multiple Activities/Quizzes. Activities/Quizzes with Prerequisites will be locked until students fulfil the Prerequisites.</p>

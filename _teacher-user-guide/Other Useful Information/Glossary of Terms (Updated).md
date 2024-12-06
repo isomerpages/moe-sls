@@ -6,7 +6,7 @@ third_nav_title: Other Useful Information
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>Glossary of Terms (Updated)</h1>
+<h1>Glossary of Terms (Updated)</h1><hr>
 <table>
   <thead>
     <tr>

@@ -6,7 +6,7 @@ third_nav_title: Gamify
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="about-gamification-and-leaderboard">About Gamification and Leaderboard</h1>
+<h1 id="about-gamification-and-leaderboard">About Gamification and Leaderboard</h1><hr>
 <p>Gamification allows game-based elements to be introduced in your Module. The game-based elements include Experience Points (XP) and Levels, Game Stories, and Collectibles. </p>
 <p>You can award students with bonus XP or lesser XP using XP modifiers.</p>
 <p>Through the use of Game Stories, you can also create scenarios such as Escape Room or Mystery Solving based on real world or fantasy settings.</p>

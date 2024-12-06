@@ -6,7 +6,7 @@ third_nav_title: Notify
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A2) Manage Announcements</h1>
+<h1>(A2) Manage Announcements</h1><hr>
 <h2>Edit Announcements</h2>
 <hr>
 <p>All your Announcements can be found on the <a target="_blank" href="/teacher-user-guide/notify/view-and-create-announcements/">Notifications page</a>.</p>

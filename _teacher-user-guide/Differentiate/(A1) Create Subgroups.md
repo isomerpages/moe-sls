@@ -6,7 +6,7 @@ third_nav_title: Differentiate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-1-create-subgroups">(A1) Create Subgroups</h1>
+<h1 id="-1-create-subgroups">(A1) Create Subgroups</h1><hr>
 <h2 id="about-subgroups">About Subgroups</h2>
 <hr>
 <p><b>Important</b>: Only class group Owners and Co-teachers are able to create Subgroups.</p>
@@ -47,8 +47,8 @@ variant: markdown
 </ol>
 <p><u>Note</u>:</p>
 <ul>
-<li>Subgroups without students can be created</li>
-<li>Subgroups with the same name as other subgroups can be created</li>
-<li>Subgroup cards are arranged by alphabetical order; you are advised to name subgroups with suitable prefixes to better organise them</li>
-<li>Each student can be added to more than one subgroup</li>
+<li>Subgroups without students can be created.</li>
+<li>Subgroups with the same name as other subgroups can be created.</li>
+<li>Subgroup cards are arranged by alphabetical order; you are advised to name subgroups with suitable prefixes to better organise them.</li>
+<li>Each student can be added to more than one subgroup.</li>
 </ul>
