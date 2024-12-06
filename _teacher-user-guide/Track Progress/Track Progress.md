@@ -24,7 +24,7 @@ variant: markdown
 <details>
 <summary><h4>B. How to check student errors?</h4></summary>
 <ul>
-<li><a href="/teacher-user-guide/track-progress/access-error-tracker/" target="_blank">(B2) Access Error Tracker</a></li>
+<li><a href="/teacher-user-guide/track-progress/access-error-tracker/" target="_blank">(B1) Access Error Tracker</a></li>
 </ul>
 </details>
 <details>
