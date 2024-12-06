@@ -49,27 +49,27 @@ variant: markdown
 <tbody>
 <tr>
 <td>Microsoft Windows 10</td>
-<td>Google Chrome 123 and later <br>Microsoft Edge 123 and later</td>
+<td>Google Chrome 128 and later <br>Microsoft Edge 128 and later</td>
 </tr>
 <tr>
 <td>Mac OS 13 and later</td>
-<td>Safari 16 and later <br> Google Chrome 123 and later</td>
+<td>Safari 17 and later <br> Google Chrome 128 and later</td>
 </tr>
 <tr>
-<td>iPadOS 16 and later</td>
-<td>Safari 16 and later <br>Google Chrome 123 and later</td>
+<td>iPadOS 17 and later</td>
+<td>Safari 17 and later <br>Google Chrome 128 and later</td>
 </tr>
 <tr>
-<td>iOS 16 and later</td>
-<td>Safari 16 and later <br>Google Chrome 123 and later</td>
+<td>iOS 17 and later</td>
+<td>Safari 17 and later <br>Google Chrome 128 and later</td>
 </tr>
 <tr>
 <td>Android 13 and later</td>
-<td>Google Chrome 123 and later</td>
+<td>Google Chrome 128 and later</td>
 </tr>
 <tr>
-<td>ChromeOS 123 and later</td>
-<td>Google Chrome 123 and later</td>
+<td>ChromeOS 128 and later</td>
+<td>Google Chrome 128 and later</td>
 </tr>
 </tbody>
 </table>
