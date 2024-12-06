@@ -82,7 +82,7 @@ third_nav_title: Collaborate
 <p><u>Note</u>:</p>
 <ul>
     <li>Teachers will need to <a target="_blank" href="/teacher-user-guide/customise/manage-linked-account/">link their iCON/Google account</a> to SLS to create Google Meet links.</li>
-	<li>A pop-up box may appear to request for permissions to your linked account. Click <b>Select all</b> to generate Google Meet links. <p><img alt="Add Google Meet Link" style="width: 100%;" src="/images/2Teacher/C_Googlemeet8.png"></p>
+	<li>A pop-up box may appear to request for permissions to your linked account. Click <b>Select all</b> to generate Google Meet links. <p><img alt="Add Google Meet Link" style="width: 50%;" src="/images/2Teacher/C_Googlemeet8.png"></p>
     </li><li>If students do not <a target="_blank" href="student-user-guide/customise/manage-linked-account/">link their iCON/Google account</a> to SLS, they will only be able to join the meeting as a guest.</li>
 </ul>
 <h2>Create Google Meet Links for Teams in an Assignment</h2>
