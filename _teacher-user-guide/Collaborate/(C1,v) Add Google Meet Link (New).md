@@ -44,7 +44,7 @@ third_nav_title: Collaborate
         <p>Unique Google Meet links can also be generated for differentiated access, to facilitate small group discussions.</p>
     </li>
 </ul>
-<h2>Create Google Meet Links for Teams in a Class Group</h2>
+<h2>Create Google Meet Links in a Class Group</h2>
 <hr>
 <ol>
 <li>From the Class Groups page, select the relevant <strong>Class Group card</strong>.</li>
@@ -55,7 +55,7 @@ third_nav_title: Collaborate
 	<p><img alt="Add Google Meet Link" style="width: 100%;" src="/images/2Teacher/C_Googlemeet10.png"></p>
 	</li><li>Teachers can now access the Google Meet link directly from the Class Group.</li>
 </ol>
-<h2>Create Google Meet Links for Teams in an Assignment</h2>
+<h2>Create Google Meet Links in an Assignment</h2>
 <hr>
 
 <ol>
