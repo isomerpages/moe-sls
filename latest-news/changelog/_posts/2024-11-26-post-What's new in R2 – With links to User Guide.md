@@ -109,7 +109,7 @@ variant: markdown
 </details></li>	
 <li><details><summary><h4>Accounts</h4></summary>
 <ul>
-<li><strong>Account Lock</strong>: Teacher accounts inactive for 90 days will be locked and require reactivation by an Account Manager for security reasons.</li>
+<li><strong>Account Inactivation</strong>: Teacher accounts that have not been accessed for 90 days will be inactivated and require reactivation by an Account Manager for security reasons.</li>
 </ul>
 </details></li>
 <li><details><summary><h4>Learning Progress</h4></summary>
