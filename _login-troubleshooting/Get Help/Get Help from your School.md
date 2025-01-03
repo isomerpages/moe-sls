@@ -588,7 +588,7 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 63443072
-<br>Email: mohamad_izwan_jamal@moe.edu.sg
+<br>Email:
 <br>Others: <a href="https://form.gov.sg/#!/5ff1c39f404a380012f84102" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
 </td>
@@ -1482,8 +1482,9 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 62655980
-<br>Email:
-<br>Others: Contact Form Teachers</p>
+<br>Email: jss.ict.team@gmail.com
+<br>Others: <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1604,8 +1605,9 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 98377340
-<br>Email: ronnie_kuek_kia_wee@moe.edu.sg
-<br>Others: ng_lenni@moe.edu.sg</p>
+<br>Email: mohamad_fazil_yusoff@moe.edu.sg
+<br>Others: <a href="mailto:ng_lenni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lenni@moe.edu.sg</a>;
+lim_fung_hwee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1798,7 +1800,7 @@ ang_yew_leong@schools.gov.sg
 <p>Montfort Junior School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 65101588
+<p>Tel: 65101599
 <br>Email:
 <br>Others:</p>
 </td>
@@ -2306,7 +2308,7 @@ ang_yew_leong@schools.gov.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 65383011
-<br>Email: tay_boon_peng@moe.edu.sg
+<br>Email: tan_ee_cheng@moe.edu.sg
 <br>Others:</p>
 </td>
 </tr>
