@@ -37,9 +37,15 @@ https://app.classroomscreen.com
 </td>
 </tr>
 <tr><td><strong>CPM Educational Program</strong></td>
-<td>Other Reasons</td>
+<td>Other reasons</td>
 <td>
 https://technology.cpm.org/general
+</td>
+</tr>
+<tr><td><strong>Desmos</strong></td>
+<td>Site no longer valid and redirects to another site</td>
+<td>
+https://learn.desmos.com
 </td>
 </tr>
 <tr><td><strong>Draw</strong></td>
@@ -60,10 +66,23 @@ https://elicit.org
 https://expl.ai
 </td>
 </tr>        
+<tr><td><strong>Flipgrid</strong></td>
+<td>Discontinued</td>
+<td>
+https://flipgrid.com
+<br>
+https://flip.com
+</td></tr>
 <tr><td><strong>Flipsnack</strong></td>
 <td>Site no longer offers free to use version</td>
 <td>
 https://player.flipsnack.com
+</td>
+</tr>
+<tr><td><strong>Floop</strong></td>
+<td>Other reasons</td>
+<td>
+https://www.floopedu.com
 </td>
 </tr>        
 <tr><td><strong>GeoGebra</strong></td>
@@ -82,6 +101,12 @@ https://issuu.com
 https://www.issuu.com
 </td>
 </tr>
+<tr><td><strong>Jamboard</strong></td>
+<td>Discontinued</td>
+<td>
+https://jamboard.google.com
+</td>
+</tr>
 <tr><td><strong>Linoit</strong></td>
 <td>Site fails security requirement</td>
 <td>
@@ -95,7 +120,14 @@ https://www.mindmup.com
 <br>
 https://app.mindmup.com
 </td>
-</tr>                
+</tr>
+<tr><td><strong>MCQ Tool</strong></td>
+<td>Other reasons</td>
+<td>
+https://www.mcqtool.com
+
+</td>
+</tr>     
 <tr><td><strong>Mural</strong></td>
 <td>Site no longer offers free to use version</td>
 <td>
@@ -126,6 +158,12 @@ https://quiznetic.com
 https://www.salvador-dali.org
 </td>
 </tr>
+<tr><td><strong>Seesaw</strong></td>
+<td>Site redirects to another site
+</td><td>
+https://web.seesaw.me
+</td>
+</tr>
 <tr><td><strong>Spiral</strong></td>
 <td>Site fails security requirement</td>
 <td>
@@ -151,7 +189,7 @@ https://collections.vam.ac.uk
 </td>
 </tr>
 <tr><td><strong>Vidyard</strong></td>
-<td>Other Reasons</td>
+<td>Other reasons</td>
 <td>
 https://play.vidyard.com
 </td>
@@ -166,6 +204,18 @@ https://wizer.me
 <td>Site removed</td>
 <td>
 https://www.writeabout.com
+</td>
+</tr>
+<tr><td><strong>Yenka</strong></td>
+<td>Other reasons</td>
+<td>
+https://www.yenka.com
+</td>
+</tr>
+<tr><td><strong>Zoom</strong></td>
+<td>Other reasons</td>
+<td>
+https://moe-singapore.zoom.us
 </td>
 </tr>
 </tbody>
