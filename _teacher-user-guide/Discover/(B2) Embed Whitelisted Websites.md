@@ -1785,6 +1785,8 @@ https://taonan.padlet.org
 <br>
 https://taonanschool.padlet.org
 <br>
+https://temasekjc.padlet.org
+<br>
 https://unityprimaryschool.padlet.org
 <br>
 https://victoriaschool.padlet.org
