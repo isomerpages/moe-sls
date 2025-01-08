@@ -304,6 +304,12 @@ https://www.doctormusik.com
 https://ereadinggames.com
 </td>
 </tr>
+<tr><td><strong>Edcafe AI <font color="#FBBC04">NEW!</font></strong></td>
+<td>AI Tool</td>
+<td>
+https://www.edcafe.ai
+</td>
+</tr>
 <tr><td><strong>Edition</strong></td>
 <td>News and Resource Site</td>
 <td>
@@ -335,8 +341,8 @@ https://www.elementari.com
 </td>
 </tr>
 
-<tr><td><strong>Epic <font color="#FBBC04">NEW!</font></strong></td>
-<td>Digital Library</td>
+<tr><td><strong>Epic 
+</strong></td><td>Digital Library</td>
 <td>
 https://getepic.com
 </td>
@@ -384,12 +390,6 @@ https://www.playfactile.com
 https://www.falstad.com/circuit
 </td>
 </tr>
-<tr><td><strong>Flip</strong></td>
-<td>Video Discussion Tool</td>
-<td>
-https://flip.com
-</td>
-</tr>
 <tr><td><strong>Flipbookpdf</strong></td>
 <td>Flipbook Tool</td>
 <td>
@@ -402,12 +402,7 @@ https://www.flipbookpdf.net
 https://www.flippity.net
 </td>
 </tr>
-<tr><td><strong>Floop</strong></td>
-<td>Module Tool for Feedback</td>
-<td>
-https://www.floopedu.com
-</td>
-</tr>
+
 <tr><td><strong>Flourish Studio</strong></td>
 <td>Data Visualisation Tool</td>
 <td>
@@ -546,12 +541,7 @@ https://www.iro.sg
 https://www.iorad.com
 </td>
 </tr>
-<tr><td><strong>Jamboard</strong></td>
-<td>Online Whiteboard</td>
-<td>
-https://jamboard.google.com
-</td>
-</tr>
+
 <tr><td><strong>Javalab</strong></td>
 <td>Simulation Resource Site</td>
 <td>
@@ -618,12 +608,7 @@ https://mathigon.org
 https://mathplayground.com
 </td>
 </tr>
-<tr><td><strong>MCQ Tool</strong></td>
-<td>Quiz Tool</td>
-<td>
-https://www.mcqtool.com
-</td>
-</tr>
+
 <tr><td><strong>MeListen</strong></td>
 <td>Music Stream and Podcast Resources</td>
 <td>
@@ -935,8 +920,6 @@ https://virtual.edu.rsc.org
 <tr><td><strong>SeeSaw</strong></td>
 <td>Activity Library</td>
 <td>
-https://web.seesaw.me
-<br>
 https://app.seesaw.me
 </td>
 </tr>
@@ -1283,12 +1266,7 @@ https://www.wordwall.net
 https://www.ximalaya.com
 </td>
 </tr>
-<tr><td><strong>Yenka</strong></td>
-<td>STEM Resources</td>
-<td>
-https://www.yenka.com
-</td>
-</tr>
+
 <tr><td><strong>Young Scientist</strong></td>
 <td>STEM Resources</td>
 <td>
@@ -1401,11 +1379,11 @@ https://deck.toys
 <td>
 https://www.desmos.com
 <br>
-https://learn.desmos.com
-<br>
 https://student.desmos.com
 <br>
 https://teacher.desmos.com
+<br>
+https://programguide.desmosmath.amplify.com
 </td>
 </tr>
 <tr><td><strong>Dialogflow</strong></td>
@@ -1430,14 +1408,6 @@ https://video.eko.com
 <td>Collaboration Tool</td>
 <td>
 https://www.figma.com
-</td>
-</tr>
-<tr><td><strong>Flip</strong></td>
-<td>Video Discussion Tool</td>
-<td>
-https://flipgrid.com
-<br>
-https://flip.com
 </td>
 </tr>
 <tr><td><strong>Flipsnack</strong></td>
@@ -1709,8 +1679,6 @@ https://egps.padlet.org
 <br>
 https://ejc.padlet.org
 <br>
-https://eunospri.padlet.org
-<br>
 https://ferngreenpri.padlet.org
 <br>
 https://frontierps.padlet.org
@@ -1836,8 +1804,6 @@ https://woodgrove.padlet.org
 https://woodgroveps.padlet.org
 <br>
 https://xingnanprimary.padlet.org
-<br>
-https://xnpsict.padlet.org
 <br>
 https://yijc.padlet.org
 <br>
@@ -2007,14 +1973,6 @@ https://vimeo.com
 <td>Resource Curation Tool</td>
 <td>
 https://embed.wakelet.com
-</td>
-</tr>
-<tr><td><strong>Zoom</strong> </td>
-<td>Video Conferencing Tool</td>
-<td>
-https://moe-singapore.zoom.us
-<br>
-https://zoom.us
 </td>
 </tr>
 </tbody>
