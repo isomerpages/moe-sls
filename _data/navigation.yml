@@ -2,7 +2,7 @@ logo: /images/LogoSecondaryLight.png
 links:
   - title: News
     resource_room: true
-  - title: Ai In Sls
+  - title: AI in SLS
     collection: ai-in-sls
   - title: Students
     collection: students
