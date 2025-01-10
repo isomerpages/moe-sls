@@ -1604,7 +1604,7 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 <p>Kuo Chuan Presbyterian Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 98377340
+<p>Tel: 62595396
 <br>Email: mohamad_fazil_yusoff@moe.edu.sg
 <br>Others: <a href="mailto:ng_lenni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lenni@moe.edu.sg</a>;
 lim_fung_hwee@moe.edu.sg</p>
