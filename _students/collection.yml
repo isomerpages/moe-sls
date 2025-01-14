@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Young Overseas Singaporeans.md
       - Students.md
       - Feature Highlights/2022 Sem 2.md
       - Feature Highlights/2022 Sem 1.md
