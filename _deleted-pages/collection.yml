@@ -1,0 +1,4 @@
+collections:
+  deleted-pages:
+    output: true
+    order: []
