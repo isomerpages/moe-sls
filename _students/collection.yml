@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Password & Technical Support/Password & Technical Support.md
       - Password & Technical Support/.keep
       - Student Initiated Learning.md
       - Young Overseas Singaporeans.md
