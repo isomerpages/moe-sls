@@ -2,4 +2,5 @@ collections:
   about-revised:
     output: true
     order:
+      - Overview of SLS/SLS — Designed for Learning.md
       - Overview of SLS/.keep
