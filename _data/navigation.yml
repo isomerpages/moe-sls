@@ -23,3 +23,14 @@ links:
         url: /login-troubleshooting/authentication/index/
   - title: About
     collection: about-revised
+  - title: Students
+    url: /students
+    sublinks:
+      - title: Password & Technical Support
+        url: /students/password-and-technical-support/password-and-technical-support/
+      - title: Student Initiated Learning
+        url: /students/student-initiated-learning/
+      - title: Young Overseas Singaporean
+        url: /students/young-overseas-singaporean
+      - title: Student User Guide
+        url: /student-user-guide/index/
