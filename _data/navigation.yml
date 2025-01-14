@@ -2,12 +2,19 @@ logo: /images/LogoSecondaryLight.png
 links:
   - title: Notices
     resource_room: true
-  - title: AI in SLS
-    collection: ai-in-sls
-  - title: Students
-    collection: students
   - title: Teachers
     collection: teachers
+  - title: Students
+    url: /students
+    sublinks:
+      - title: Password & Technical Support
+        url: /students/password-and-technical-support/
+      - title: Student Initiated Learning
+        url: /students/student-initiated-learning/
+      - title: Young Overseas Singaporeans
+        url: /students/young-overseas-singaporeans/
+      - title: Student User Guide
+        url: /student-user-guide/index/
   - title: Partners
     collection: partners
   - title: Guides
@@ -23,14 +30,3 @@ links:
         url: /login-troubleshooting/authentication/index/
   - title: About
     collection: about-revised
-  - title: Students
-    url: /students
-    sublinks:
-      - title: Password & Technical Support
-        url: /students/password-and-technical-support/
-      - title: Student Initiated Learning
-        url: /students/student-initiated-learning/
-      - title: Young Overseas Singaporeans
-        url: /students/young-overseas-singaporeans/
-      - title: Student User Guide
-        url: /student-user-guide/index/
