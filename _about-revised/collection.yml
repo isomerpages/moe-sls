@@ -2,6 +2,7 @@ collections:
   about-revised:
     output: true
     order:
+      - AI in SLS/AI in Education Ethics Framework.md
       - AI in SLS/Guidance on Generative AI.md
       - AI in SLS/About AI in SLS.md
       - AI in SLS/.keep
