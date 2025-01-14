@@ -556,7 +556,7 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 <td rowspan="1" colspan="1">
 <p>Tel: 62885633
 <br>Email:
-<br>Others: <a href="https://docs.google.com/forms/d/e/1FAIpQLScRLUPDccsYpVaYT6mTwRlGysGkvvEnPW36ajslbFE5gb2XQw/viewform" rel="noopener noreferrer nofollow" target="_blank">Google Form</a>
+<br>Others: <a href="https://go.gov.sg/cedarpri-slshelp" rel="noopener noreferrer nofollow" target="_blank">Form_SG</a>
 </p>
 </td>
 </tr>
