@@ -22,6 +22,4 @@ links:
       - title: Login Troubleshooting
         url: /login-troubleshooting/authentication/index/
   - title: About
-    collection: about
-  - title: Login
-    url: https://vle.learning.moe.edu.sg/
+    collection: about-revised
