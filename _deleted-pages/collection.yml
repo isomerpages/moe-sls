@@ -1,4 +1,5 @@
 collections:
   deleted-pages:
     output: true
-    order: []
+    order:
+      - 2022 Sem 2.md
