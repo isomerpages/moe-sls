@@ -14,7 +14,7 @@ sections:
       button: Login to SLS
       url: https://vle.learning.moe.edu.sg/login
   - resources:
-      title: Latest News
+      title: Notices
       button: find out more
   - infopic:
       title: Students
