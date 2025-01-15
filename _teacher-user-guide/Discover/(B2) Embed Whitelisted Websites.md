@@ -1629,7 +1629,7 @@ https://anchorgreen.padlet.org
 <br>
 https://andersonps.padlet.org
 <br>
-https://asrjc.padlet.org
+https://asrjc.padlet.org 
 <br>
 https://assumptionenglish.padlet.org
 <br>
@@ -1787,7 +1787,7 @@ https://taonan.padlet.org
 <br>
 https://taonanschool.padlet.org
 <br>
-https://temasekjc.padlet.org 
+https://temasekjc.padlet.org <font color="#FBBC04">NEW!</font>
 <br>
 https://unityprimaryschool.padlet.org 
 <br>
