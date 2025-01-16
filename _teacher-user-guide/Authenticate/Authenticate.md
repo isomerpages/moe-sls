@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Authenticate
 ---
-<h1>Authentication</h1>
+<h3>Authentication</h3>
 <details>
  <summary><h4>Login Issues</h4></summary>
 <ul>
