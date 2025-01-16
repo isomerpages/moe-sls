@@ -16,7 +16,16 @@ links:
       - title: Student User Guide
         url: /student-user-guide/index/
   - title: Partners
-    collection: partners
+    url: /partners/
+    sublinks:
+      - title: Partnership
+        url: /partners/partnership/partnership-with-sls/
+      - title: Integration
+        url: /partners/integration/whitelisted-websites/
+      - title: Events
+        url: /partners/events/sls-launchpad-2024/
+      - title: Sandbox
+        url: /partners/sandbox/
   - title: Guides
     url: /student-user-guide/index/
     sublinks:
@@ -30,14 +39,3 @@ links:
         url: /login-troubleshooting/authentication/index/
   - title: About
     collection: about-revised
-  - title: Partners
-    url: /partners/
-    sublinks:
-      - title: Partnership
-        url: /partners/partnership/partnership-with-sls/
-      - title: Integration
-        url: /partners/integration/whitelisted-websites/
-      - title: Events
-        url: /partners/events/sls-launchpad-2024/
-      - title: Sandbox
-        url: /partners/sandbox/
