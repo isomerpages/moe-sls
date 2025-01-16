@@ -2,6 +2,7 @@ collections:
   student-user-guide:
     output: true
     order:
+      - Authenticate/.keep
       - Explore SLS Functions.md
       - Assess/.keep
       - Assess/Assess.md
