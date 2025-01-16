@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Authenticate/Authenticate.md
       - Authenticate/.keep
       - Explore SLS Functions.md
       - Administer/.keep
