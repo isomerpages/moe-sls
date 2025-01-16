@@ -50,7 +50,7 @@ collections:
         (Enhanced).md
       - Authenticate/.keep
       - Authenticate/Authentication.md
-      - Authenticate/Log in with MIMS (Teacher).md
+      - Authenticate/How to Log In (Teacher).md
       - Authenticate/Reset SLS Password (Teacher).md
       - Authenticate/Password Reset Email.md
       - Authenticate/Locked Account.md
