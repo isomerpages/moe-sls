@@ -7,7 +7,7 @@ collections:
       - Authenticate/Reset SLS Password (Student).md
       - Authenticate/Forgot SLS Username.md
       - Authenticate/Unsuccessful Password Reset Attempts.md
-      - Authenticate/Unlock account.md
+      - Authenticate/Unlock Account.md
       - Authenticate/.keep
       - Explore SLS Functions.md
       - Assess/.keep
