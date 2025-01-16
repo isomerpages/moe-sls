@@ -2,7 +2,7 @@ collections:
   student-user-guide:
     output: true
     order:
-      - Authenticate/Authenticate.md
+      - Authenticate/Authentication.md
       - Authenticate/How to Log In (Student).md
       - Authenticate/Reset SLS Password (Student).md
       - Authenticate/Forgot SLS Username.md
