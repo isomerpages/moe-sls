@@ -2,5 +2,4 @@ collections:
   about:
     output: true
     order:
-      - Supporting EdTech Masterplan 2030.md
       - Awards.md
