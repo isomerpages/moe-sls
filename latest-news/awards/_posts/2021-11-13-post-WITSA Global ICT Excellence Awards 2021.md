@@ -7,7 +7,7 @@ description: ""
 image: /images/FaviconLight.png
 variant: tiptap
 ---
-<h3>WITSA Global ICT Excellence Awards 2021</h3>
+<h2><strong>WITSA Global ICT Excellence Awards 2021</strong></h2>
 <hr>
 <h4>E-Education Learning Runner-Up, November 13th, 2021</h4>
 <p>WITSA is the leading recognised voice of the global digital technology
