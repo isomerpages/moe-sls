@@ -2,6 +2,7 @@ collections:
   deleted-pages:
     output: true
     order:
+      - 2022 Articles.md
       - 2023 Articles.md
       - 2024 Articles.md
       - SLS Pitch Day 2021.md
