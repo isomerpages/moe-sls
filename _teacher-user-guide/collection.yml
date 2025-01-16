@@ -2,6 +2,7 @@ collections:
   teacher-user-guide:
     output: true
     order:
+      - Authenticate/Reset SLS Password (Teacher).md
       - Authenticate/Log in with MIMS (Teacher).md
       - Authenticate/Authenticate.md
       - Authenticate/.keep
