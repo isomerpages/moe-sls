@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Authenticate
 ---
-<h3>Log in with MIMS</h3>
+<h3>How to Log In (Teacher)</h3>
 <p>You can log in to SLS in two ways:</p>
 <p>a) Through MIMS, or</p>
 <p>b) Through the existing SLS login page.</p>
