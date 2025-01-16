@@ -30,3 +30,14 @@ links:
         url: /login-troubleshooting/authentication/index/
   - title: About
     collection: about-revised
+  - title: Partners
+    url: /partners/
+    sublinks:
+      - title: Partnership
+        url: /partners/partnership/partnership-with-sls/
+      - title: Integration
+        url: /partners/integration/whitelisted-websites/
+      - title: Events
+        url: /partners/events/sls-launchpad-2024/
+      - title: Sandbox
+        url: /partners/sandbox/
