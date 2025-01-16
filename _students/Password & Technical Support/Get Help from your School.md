@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Password & Technical Support
 ---
-<h1>Get Help from your School</h1>
+<h3>Get Help from your School</h3>
 <p>The following are details on how you can contact your school to assist
 in login or e-learning issues during working hours.</p>
 <p>You may use the search function in your browser to find your school quickly.</p>
