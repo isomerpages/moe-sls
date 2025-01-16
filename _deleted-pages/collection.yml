@@ -2,6 +2,7 @@ collections:
   deleted-pages:
     output: true
     order:
+      - Supporting EdTech Masterplan 2030.md
       - Overview of Student Learning Space.md
       - 2022 Articles.md
       - 2023 Articles.md
