@@ -2,7 +2,6 @@ collections:
   teachers:
     output: true
     order:
-      - SLS Professional Development.md
       - Teachers.md
       - Teaching & Learning on SLS/.keep
       - Teaching & Learning on SLS/AIEd Features.md
@@ -13,6 +12,7 @@ collections:
       - SLS Latest Features/Release 2.md
       - SLS Latest Features/Release 1.md
       - Password & Technical Support.md
+      - SLS Professional Development.md
       - Community & Events/.keep
       - Community & Events/Visit SLS@Grange.md
       - Community & Events/Events Calendar.md
