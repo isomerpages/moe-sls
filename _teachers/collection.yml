@@ -2,7 +2,6 @@ collections:
   teachers:
     output: true
     order:
-      - Friends of SLS.md
       - Teachers.md
       - Teaching & Learning on SLS/.keep
       - Teaching & Learning on SLS/AIEd Features.md
