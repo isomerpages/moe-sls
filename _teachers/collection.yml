@@ -2,7 +2,6 @@ collections:
   teachers:
     output: true
     order:
-      - Password & Technical Support.md
       - Teachers.md
       - Teaching & Learning on SLS/.keep
       - Teaching & Learning on SLS/AIEd Features.md
@@ -12,6 +11,7 @@ collections:
       - SLS Latest Features/.keep
       - SLS Latest Features/Release 2.md
       - SLS Latest Features/Release 1.md
+      - Password & Technical Support.md
       - Frequently Asked Questions.md
       - SLS Professional Development/.keep
       - SLS Professional Development/Teaching and Learning with SLS.md
