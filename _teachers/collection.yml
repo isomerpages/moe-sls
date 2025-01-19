@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Teachers.md
-      - Teaching & Learning on SLS.md
       - Friends of SLS.md
       - SLS Latest Features/.keep
       - SLS Latest Features/2024 Sem 1.md
