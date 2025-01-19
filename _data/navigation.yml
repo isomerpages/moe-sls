@@ -2,8 +2,23 @@ logo: /images/LogoSecondaryLight.png
 links:
   - title: Notices
     resource_room: true
-  - title: Teachers
-    collection: teachers
+  - title: Teacher
+    url: /teachers
+    sublinks:
+      - title: Teaching & Learning with SLS
+        url: /teacher/teaching-and-learning-on-sls/aied-features/
+      - title: SLS Latest Features
+        url: /teacher/sls-latest-features/
+      - title: Password & Technical Support
+        url: /teacher/password-and-technical-support/
+      - title: SLS Professional Development
+        url: /teacher/sls-professional-development/
+      - title: Community & Events
+        url: /teacher/community-and-events/hear-what-others-have-to-say/
+      - title: Admin User Guide
+        url: /admin-user-guide/index/
+      - title: Teacher User Guide
+        url: /teacher-user-guide/index/
   - title: Students
     url: /students
     sublinks:
