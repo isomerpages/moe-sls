@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Teachers.md
+      - Teaching & Learning on SLS/SLS Subject Guides.md
       - Teaching & Learning on SLS/.keep
       - Teaching & Learning on SLS/eSBA on SLS (for Secondary Schools and
         JCCIs).md
