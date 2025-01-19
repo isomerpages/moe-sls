@@ -2,6 +2,7 @@ collections:
   deleted-pages:
     output: true
     order:
+      - 2023 Sem 1.md
       - 2023 Sem 2.md
       - 2024 Sem 1.md
       - Friends of SLS.md
