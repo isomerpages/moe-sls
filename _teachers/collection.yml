@@ -2,11 +2,11 @@ collections:
   teachers:
     output: true
     order:
+      - Teachers.md
+      - Teaching & Learning on SLS/.keep
       - Teaching & Learning on SLS/eSBA on SLS (for Secondary Schools and
         JCCIs).md
       - Teaching & Learning on SLS/AIEd Features.md
-      - Teaching & Learning on SLS/.keep
-      - Teachers.md
       - Friends of SLS.md
       - SLS Latest Features/.keep
       - SLS Latest Features/2024 Sem 1.md
