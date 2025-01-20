@@ -1,7 +1,5 @@
 logo: /images/LogoSecondaryLight.png
 links:
-  - title: Notices
-    resource_room: true
   - title: Teacher
     url: /teachers
     sublinks:
@@ -43,3 +41,12 @@ links:
         url: /partners/sandbox/
   - title: About
     collection: about-revised
+  - title: Notices
+    url: /notices
+    sublinks:
+      - title: Announcements
+        url: /announcements
+      - title: Features and tools
+        url: /features_and_tools
+      - title: Media mentions and awards
+        url: /media_mentions_and_awards
