@@ -1,0 +1,4 @@
+collections:
+  media-mentions-and-awards:
+    output: true
+    order: []
