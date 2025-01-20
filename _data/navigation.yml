@@ -1,14 +1,7 @@
 logo: /images/LogoSecondaryLight.png
 links:
   - title: Notices
-    url: /notices
-    sublinks:
-      - title: Announcements
-        url: /announcements
-      - title: Features and tools
-        url: /features_and_tools
-      - title: Media mentions and awards
-        url: /media_mentions_and_awards
+    resource_room: true
   - title: Teacher
     url: /teachers
     sublinks:
