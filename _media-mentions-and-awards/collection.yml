@@ -1,5 +1,0 @@
-collections:
-  media-mentions-and-awards:
-    output: true
-    order:
-      - Media Mentions and Awards.md
