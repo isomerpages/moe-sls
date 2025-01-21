@@ -2,7 +2,7 @@ logo: /images/LogoSecondaryLight.png
 links:
   - title: Notices
     resource_room: true
-  - title: Teacher
+  - title: Teachers
     url: /teachers
     sublinks:
       - title: Teaching & Learning with SLS
