@@ -6,15 +6,15 @@ links:
     url: /teachers
     sublinks:
       - title: Teaching & Learning with SLS
-        url: /teacher/teaching-and-learning-on-sls/aied-features/
+        url: /teachers/teaching-and-learning-on-sls/aied-features/
       - title: SLS Latest Features
-        url: /teacher/sls-latest-features/
+        url: /teachers/sls-latest-features/
       - title: Password & Technical Support
-        url: /teacher/password-and-technical-support/
+        url: /teachers/password-and-technical-support/
       - title: SLS Professional Development
-        url: /teacher/sls-professional-development/
+        url: /teachers/sls-professional-development/
       - title: Community & Events
-        url: /teacher/community-and-events/hear-what-others-have-to-say/
+        url: /teachers/community-and-events/hear-what-others-have-to-say/
       - title: Admin User Guide
         url: /admin-user-guide/index/
       - title: Teacher User Guide
