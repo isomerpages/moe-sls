@@ -33,21 +33,27 @@ variant: markdown
 <li>The user interface for class groups has been enhanced. When viewing members in class groups, teachers and students can see the listing of all members, including their avatars.</li>
 </ol>
 </details></li>
-<li><details><summary><h4>Listing View</h4></summary>
+	<li><details><summary><h4>Listing View</h4></summary><ol><li> Resource and assignment listings will default to the list view. The system will retain teachers' and students' preferred view based on their last access on the same device.</li>
 <ol>
 <li> Resource and assignment listings will default to the list view. The system will retain teachers' and students' preferred view based on their last access on the same device.</li>
 </ol>
-</details></li>
+</ol></details></li>
 <li><details><summary><h4>Upvote</h4></summary>
 <ol>
 <li>Teachers and students can vote for posts in discussions and class group forums. This feature can be enabled or disabled by teachers.</li>
 <li>Teachers and students can vote for modules in the MOE Library (for both teachers and students) and the Community Gallery (for teachers only). They can also sort their search results by “Most Voted ".</li>
+
 </ol>
 <li><details><summary><h4>Discussions and Forums</h4></summary>
 <ol>
 <li>Teachers and students can view the latest comments for each post in discussions and class group forums without needing to open the post. They can also sort posts by “Latest” and “Most Voted”.</li>
+
 <li>Avatars of teachers and students are&nbsp;shown next to their names in posts and comments.</li>
+
 </ol></details></li>
+	
+	
+	
 
 <li><details><summary><h4>Google Enhancements</h4></summary>
 <ol>
