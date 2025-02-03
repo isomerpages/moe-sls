@@ -42,7 +42,7 @@ variant: markdown
 <ol>
 <li>Teachers and students can vote for posts in discussions and class group forums. This feature can be enabled or disabled by teachers.</li>
 <li>Teachers and students can vote for modules in the MOE Library (for both teachers and students) and the Community Gallery (for teachers only). They can also sort their search results by “Most Voted ".</li>
-</ol>
+
 <li><details><summary><h4>Discussions and Forums</h4></summary>
 <ol>
 <li>Teachers and students can view the latest comments for each post in discussions and class group forums without needing to open the post. They can also sort posts by “Latest” and “Most Voted”.</li>
@@ -60,7 +60,7 @@ variant: markdown
 <li>Teachers and students can see who created the module in MOE Library (for both teachers and students) or Community Gallery (for teachers only) and to whom it is credited under the Module Details subpage. Clicking on the names of the authors and contributors will open their Profile subpages.</li>
 </ol>
 </details></li>
-</details></li></ol>
+</ol></details></li></ol>
 
 <h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for Teachers</h2>
 <ol>
