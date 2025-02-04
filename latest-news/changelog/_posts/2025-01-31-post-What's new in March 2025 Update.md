@@ -51,9 +51,6 @@ variant: markdown
 <li>Avatars of teachers and students are&nbsp;shown next to their names in posts and comments.</li>
 
 </ol></details></li>
-	
-	
-	
 
 <li><details><summary><h4>Google Enhancements</h4></summary>
 <ol>
@@ -70,82 +67,140 @@ variant: markdown
 
 <h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for Teachers</h2>
 <ol>
-<li><details><summary><h4>Data Assistant (DAT)</h4></summary>
-<ul>
-<li><strong>Analyse Responses</strong>: This <a target="_blank" href="/teacher-user-guide/assess/analyse-students-responses-with-data-assistant/">new feature</a> allows teachers to ask stock or customised questions about data in the Aggregated Student Response page for Free-Response Questions, the Interactive Thinking Tool (ITT), the discussion boards and forums. Teachers can query data for trends and analysis using customisable queries.</li>
-<li><strong>Follow-up</strong>: Teachers can view a list of students clustered based on set criteria and perform follow-up actions like mass-adding comments and/or filtering students. They can also bookmark responses in ITT and add keyword tags to posts in the discussion boards and forums.</li>
-</ul>
+<li><details><summary><h4>Class Groups</h4></summary>
+<ol>
+<li>Teachers can update their class group settings to enable direct join requests via a class group URL. They will have the ability to review and approve or reject these requests. Notifications will be sent to both teachers and students once a request has been approved.</li>
+<li> Owners and co-teachers of class groups can restore past class groups as active class groups.</li>
+<li>Teachers can now set class group expiry year to “No Expiry”.</li>
+<li>Teachers will no longer be added as liaison teachers when their Teacher-as-Student accounts are added to class groups.</li>
+<li>Teachers can see the name of the teacher who is editing the class group resource when they try to resume or edit the resource.</li>
+</ol>
 </details></li>
-<li><details><summary><h4>Authoring Copilot (ACP)</h4></summary>
-<ul>
-<li><strong>Additional Question Types</strong>: Teachers can use <a target="_blank" href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-quizzes/">ACP</a> to generate more question types like Error Editing, Fill-in-the-Blanks and Interactive Thinking Tool.</li>
-<li><strong>Suggested Answer for Free Response Questions</strong>: Teachers can generate suggested answers alongside Free Response Questions.</li>
-<li><strong>Direct Generation from Component Bar:</strong> Teachers can use <a target="_blank" href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/">ACP to generate components</a>  directly from the component bar, and regenerate components based on existing components.</li>
-<li><strong>Templates</strong>: Teachers can select MOE or personal templates in SLS for ACP to use in generating sections, activities, quizzes and/or components.</li>
-<li><strong>Subject/Level Tagging</strong>: Teachers can now tag subjects and levels independently without content map dependency.</li>
-</ul>
+<li><details><summary><h4>Communities</h4></summary>
+<ol>
+<li>Teachers can create communities to collaborate and share resources with other teachers.</li>
+<li>Teachers can search for and request to join communities in “Browse Communities”.</li>
+<li>Community owners can review and manage membership requests, approving or rejecting them as needed. Teachers will receive notifications once their requests to join the community are approved.</li>
+<li>Teachers can convert existing class groups into communities.</li>
+</ol>
 </details></li>
-<li><details><summary><h4>Adaptive Learning System (ALS)</h4></summary>
-<ul>
+<li><details><summary><h4>Authoring</h4></summary>
+<ol>
 <li><strong>Prioritisation</strong>: Teachers can select topics/subtopics for ALS to prioritise in recommending to students in class groups, and alert students to these recommendations by sending notifications.</li>
 <li><strong>Linked Activities</strong>: Teachers can <a target="_blank" href="/teacher-user-guide/discover/link-activities-in-als-content/">link activities</a>  to be recommended in a series in ALS.</li>
-</ul>
+</ol>
 </details></li>
-<li><details><summary><h4>Feedback Assistants</h4></summary>
-<ul>
-<li><strong>Combine Feedback Assistants</strong>: Teachers can send students’ responses to both <a target="_blank" href="/teacher-user-guide/assess/add-language-feedback-assistant-for-english/">Language Feedback Assistant for English (LangFA-EL)</a> and <a target="_blank" href="/teacher-user-guide/assess/add-short-answer-feedback-assistant/">Short Answer Feedback Assistant (ShortAnsFA)</a> to allow students to receive more than one type of feedback in a single response.</li>
-</ul>
+<li><details><summary><h4>Authoring Copilot (ACP) Enhancements</h4></summary>
+<ol>
+<li>Teachers can upload more than one knowledge base as reference for ACP when generating content, which can be used across different sections in a module.</li>
+<li>Teachers can upload PDFs and images as part of the section knowledge base.</li>
+</ol>
 </details></li>
-<li><details><summary><h4>Video Conferencing</h4></summary>
+<li><details><summary><h4>Assignments</h4></summary>
 <ul>
 <li><strong>Google Meet Links</strong>: Teachers can <a target="_blank" href="/teacher-user-guide/collaborate/add-google-meet-link/">create Google Meet video conference links</a> from their linked Google accounts for Class Groups and Assignments, specific to module, section, activity and teams within activities. Unique assignment Google Meet links can be generated by activities or teams for differentiated access. Teachers have the option to set different levels of security — Restricted, Trusted, or Open — based on their preference and use case.</li>
 </ul>
 </details></li>
-<li><details><summary><h4>Transcription</h4></summary>
-<ul>
-<li><strong>Video/ Audio Transcription</strong>: If <a target="_blank" href="/teacher-user-guide/author/insert-transcript-for-video-audio/">transcription is enabled</a>, teachers can view the entire transcript with timestamps on the audio and video details subpage.</li>
-</ul>
+<li><details><summary><h4>Annotated Feedback Assistants (AFA)</h4></summary>
+<ol>
+<li>Teachers can use Annotated Feedback Assistant for Free-Response Questions to provide in-line feedback in the form of annotation cards on student responses.</li>
+<li>Teachers can select up to 2 feedback references (suggested answer, rubrics or error tags) for Annotated Feedback Assistant to reference when evaluating students’ responses</li>
+</ol>
 </details></li>
-<li><details><summary><h4>Authoring</h4></summary>
-<ul>
-<li><strong>Module Plan</strong>: Teachers can view module, section, activity and quiz notes, as well as descriptions and durations (if applicable) in the Module Plan and print it for use in non-digital&nbsp;lessons.</li>
-<li><strong>Split-Page Media</strong>: &nbsp;When 
-<a target="_blank" href="/teacher-user-guide/author/add-split-page-media/">splitting PowerPoint files</a> across pages in activities, placeholders will be shown based on the number of slides uploaded, allowing teachers to navigate elsewhere while the media is being processed.</li>
-<li><strong>Split YouTube Videos Across Pages</strong>:&nbsp;Teachers can <a target="_blank" href="/teacher-user-guide/author/add-split-page-media/">split YouTube videos</a> across pages in an activity based on defined timestamps and set strict start and end times for these videos.</li>
-<li><strong>Interactive Response Questions</strong>: Teachers can set interactive response questions that automatically return marks to students after their attempt. These questions can be set by <a target="_blank" href="/teacher-user-guide/author/html5-content-development/">uploading corresponding HTML5 files</a> to the Free-Response Question.</li>
-<li><strong>Quiz-level Rubrics</strong>: Teachers can <a target="_blank" href="/teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/">create and apply quiz-level grading rubrics</a>, with the option to hide them before student attempts. After their attempt, students will be able to see their awarded bands from the rubrics.</li>
-<li><strong>Rubrics Bands</strong>: The number of rubric bands has been expanded to allow up to 8 bands.</li>
-<li><strong>Hiding Quiz Marks</strong>: Teachers can choose to <a target="_blank" href="/teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/">hide quiz marks</a> in the quiz settings, which will hide quiz scores, rubric marks, and marks for each question.</li>
-<li><strong>Different Option Marks</strong>: Teachers can now <a target="_blank" href="/teacher-user-guide/author/add-multiple-choice-questions/">allocate different marks</a> to options in Multiple-Choice Questions (MCQs) and Multiple-Response Questions (MRQs).</li>
-<li><strong>Active Learning Process Tagging of Quiz</strong>: Newly-created quizzes will be auto-tagged to “Custom” instead of “Facilitate Demonstration of Learning” under Active Learning Process (ALP).</li>
-<li><strong>Automated Tagging</strong>: <a target="_blank" href="/teacher-user-guide/author/add-module-tags/">Module tags </a>will be automatically applied to newly-created sections, and <a target="_blank" href="/teacher-user-guide/author/add-question-tags/">Section tags </a> will be automatically applied to newly-created components.</li>
-</ul>
+<li><details><summary><h4>Learning Assistant (LEA)</h4></summary>
+<ol>
+<li>Teachers can set up a Learning Assistant in a Discussion component to allow students to interact with.</li>
+<li>Teachers can select predetermined roles (e.g., Discussion Facilitator, Idea Generator) or customise their own instructions, set interaction limits and add knowledge base(s) for Learning Assistant to anchor its response to.</li>
+<li>Teachers can view students’ chat history with Learning Assistant.</li>
+</ol>
 </details></li>
-<li><details><summary><h4>Assignments</h4></summary>
-<ul>
-<li><strong>Assignment Due Date</strong>: Teachers can now set assignment due date beyond 15 December.</li>
-<li><strong>Report Downloading</strong>: Teachers can download assignment marks and responses directly from the class group assignment listing.</li>
-</ul>
+<li><details><summary><h4>Adaptive Learning System (ALS) Enhancements</h4></summary>
+<ol>
+<li>Teachers can create Section (Adaptive) in a module where they can select the desired learning loop, topic, and assign ALS content directly to students.</li>
+<li>Teachers can track students’ completion of Section (Adaptive) under the Monitoring Assignment page. They can also view students’ attempts of the Adaptive Learning session in Section (Adaptive).</li>
+<li>Teachers can select specific concepts for students to learn or practise in Test Myself in Section (Adaptive).</li>
+<li>Teachers can select a new “minimum required to assess your mastery” option when setting the number of questions for Test Myself in Section (Adaptive).</li>
+</ol>
 </details></li>
-<li><details><summary><h4>Group Resources</h4></summary>
-<ul>
-<li><strong>Report Downloading</strong>: Teachers can download resource marks and responses directly from the class group resource listing.</li>
-</ul>
+<li><details><summary><h4>Feedback Assistant-Math (FA-Math) Enhancements</h4></summary>
+<ol>
+<li>Teachers can create Multi-Part FA-Math questions where question sub-parts are linked.</li>
+<li>Teachers can use FA-Math to create digital manipulatives, including models, inside text/media components and question stems of Multi-Part Questions</li>
+<li>Teachers can use FA-Math in conjunction with Print-To-Scan to evaluate students’ handwritten mathematical working.</li>
+</ol>
 </details></li>	
-<li><details><summary><h4>Accounts</h4></summary>
-<ul>
-<li><strong>Account Inactivation</strong>: Teacher accounts that have not been accessed for 90 days will be inactivated and require reactivation by an Account Manager for security reasons.</li>
-</ul>
+<li><details><summary><h4>Short Answer Feedback Assistant (ShortAnsFA) Enhancements</h4></summary>
+<ol>
+<li>Teachers can include PDFs/images in the question body and suggested answer for evaluation using Short Answer Feedback Assistant.</li>
+</ol>
 </details></li>
-<li><details><summary><h4>Learning Progress</h4></summary>
-<ul>
-<li><strong>Error Tracker</strong>: Teachers can use error categories established by MOE Content Approvers to <a href="/teacher-user-guide/assess/annotate-underline-students-responses/" target="_blank">tag specific error types</a> in students’ responses and track them using the Error Tracker in Learning Progress. If a question is tagged to a content map with a prescribed list of error tags, teachers can use the auto-complete tag suggestions to easily tag student errors when creating annotation cards. These annotation cards with error tags will be tabulated and displayed under the Learning Progress - Error Tracker of the class group, viewable by both <a href="/teacher-user-guide/track-progress/access-error-tracker/" target="_blank">teachers</a> and <a href="/student-user-guide/track-progress/access-error-tracker/" target="_blank">students</a>.</li>
-</ul>
+<li><details><summary><h4>Password/Passcode</h4></summary>
+<ol>
+<li>Teachers can reset password and generate temporary passcode for students from the same page.</li>
+<li>Teachers can generate temporary passcodes for selected students only.</li>
+</ol>
 </details></li>
-<li><details><summary><h4>Notifications</h4></summary>
-<ul>
-<li><strong>Comment Notifications</strong>: Teachers can notify students when they add comments in <a target="_blank" href="/teacher-user-guide/collaborate/add-an-interactive-thinking-tool/">Interactive Thinking Tools (ITT)</a>, <a target="_blank" href="/teacher-user-guide/collaborate/add-a-discussion/">discussion boards</a> or <a target="_blank" href="/teacher-user-guide/collaborate/about-the-forum/">class group forums</a>.</li>
-<li><strong>Monitor and Notify</strong>: Teachers can select students from the <a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/">Monitor Assignment page</a> to send them custom messages and notifications.</li>
-</ul>
+<li><details><summary><h4>Account Switching</h4></summary>
+<ol>
+<li>Teachers will be prompted to switch to their Teacher-as-Student accounts when they access Student Attempt URLs.</li>
+</ol>
 </details></li>
 </ol>
+
+<h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for Students</h2>
+<ol>
+<li><details><summary><h4>Adaptive Learning System</h4></summary>
+<ol>
+<li>Students can see their mastery level after completing a quiz during an Adaptive Learning session.</li>
+<li> Students can select specific concepts to learn or practise for Test Myself in Adaptive Learning.</li>
+<li>Students can select a new “minimum required to assess your mastery” option when setting the number of questions for Test Myself in Adaptive Learning.</li>
+</ol>
+</details></li>
+<li><details><summary><h4>Learning Assistant (LEA)</h4></summary>
+<ol>
+<li>Students can interact with Learning Assistant in a Discussion component.</li>
+</ol>
+</details></li>
+<li><details><summary><h4>Short Answer Feedback Assistant (ShortAnsFA) Enhancements</h4></summary>
+<ol>
+<li>Students can upload PDFs/images as part of their response for assessment by Short Answer Feedback Assistant.</li>
+</ol>
+</details></li>
+<li><details><summary><h4>Discussions</h4></summary>
+<ol>
+<li>Students will see a “My Post” page for each discussion component which shows their own posts for the discussion.</li>
+</ol>
+</details></li>
+
+<h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for Admin</h2>
+<ol>
+<li><details><summary><h4>Manage Media</h4></summary>
+<ol>
+<li>Content Officers (COs) and Content Approvers (CAs) can upload Media Objects (MOs) directly to “Manage Media”. They can then fill in the necessary IP details on the MO’s subpage before submitting to CAs for approval. Mandatory fields would be pre-filled for MOE-owned MOs.</li>
+<li> COs can submit MOs for approval and/or delete them directly from the “Manage Media” listing.</li>
+<li>CAs can approve and/or delete MOs directly from the “Manage Media” listing.</li>
+<li>COs and CAs can search for MOs under “Manage Media” using the MO’s Universally Unique Identifier (UUID).</li>
+	<li>COs and/or CAs will receive notifications of changes to the statuses of their MOs.</li>
+	<li>All members of the owner group will be notified 180 days and 1 day before their MOs expire. Once expired, MOs will be automatically unpublished.</li>
+</ol>
+</details></li>
+<li><details><summary><h4>Manage Modules</h4></summary>
+<ol>
+<li>Content Officers (COs) and Content Approvers (CAs) can create and edit MOE Library modules directly in “Manage Modules”.</li>
+<li>New Media Objects (MOs) added or uploaded to draft MOE Library modules, including Text-to-Speech or Speech Evaluation files, are automatically added to "Manage Media."</li>
+<li>COs can submit unapproved MOs and their associated draft MOE Library modules to CAs for approval. CAs can then approve or reject the unapproved MOs along with the draft modules.</li>
+<li>MOE Library modules are now attributed to their owner groups instead of just “MOE”.</li>
+<li>CAs can only download marks and responses for MOE Library modules from their owner groups.</li>
+</ol>
+</details></li>
+<li><details><summary><h4>Digital Badges</h4></summary>
+<ol>
+<li>Content Officers (COs) and Content Approvers (CAs) can add a new form of collectibles under gamification known as “Digital Badges” to MOE Library modules.</li>
+<li>COs and CAs can also create standalone digital badges and manually award them to Teacher-as-Student and Student accounts by accessing “Manage Digital Badges”. Recipients of the digital badges will be notified accordingly.</li>
+</ol>
+</details></li>
+<li><details><summary><h4>Community Gallery</h4></summary>
+<ol>
+<li>The “Replace” function for Community Gallery Admin has been removed.</li>
+</ol>
+</details></li></ol></ol>
