@@ -138,6 +138,7 @@ variant: markdown
 <ol>
 <li>Teachers can reset password and generate temporary passcode for students from the same page.</li>
 <li>Teachers can generate temporary passcodes for selected students only.</li>
+<li>The validity of passcodes has been extended from 2 to 10 hours. Using passcodes to log in will allow students to bypass the password reset page, which appears if their passwords have expired. </li>
 </ol>
 </details></li>
 <li><details><summary><h4>Account Switching</h4></summary>
