@@ -1,27 +1,45 @@
 logo: /images/LogoSecondaryLight.png
 links:
-  - title: News
+  - title: Notices
     resource_room: true
-  - title: AI in SLS
-    collection: ai-in-sls
-  - title: Students
-    collection: students
   - title: Teachers
-    collection: teachers
-  - title: Partners
-    collection: partners
-  - title: Guides
-    url: /student-user-guide/index/
+    url: /teachers
     sublinks:
-      - title: Students UG
-        url: /student-user-guide/index/
-      - title: Teachers UG
-        url: /teacher-user-guide/index/
-      - title: Admin UG
+      - title: Teaching & Learning with SLS
+        url: /teachers/teaching-and-learning-on-sls/aied-features/
+      - title: SLS Latest Features
+        url: /teachers/sls-latest-features/release-2/
+      - title: Password & Technical Support
+        url: /teachers/password-and-technical-support/
+      - title: SLS Professional Development
+        url: /teachers/sls-professional-development/
+      - title: Community & Events
+        url: /teachers/community-and-events/hear-what-others-have-to-say/
+      - title: Admin User Guide
         url: /admin-user-guide/index/
-      - title: Login Troubleshooting
-        url: /login-troubleshooting/authentication/index/
+      - title: Teacher User Guide
+        url: /teacher-user-guide/index/
+  - title: Students
+    url: /students
+    sublinks:
+      - title: Password & Technical Support
+        url: /students/password-and-technical-support/
+      - title: Student Initiated Learning
+        url: /students/student-initiated-learning/
+      - title: Young Overseas Singaporeans
+        url: /students/young-overseas-singaporeans/
+      - title: Student User Guide
+        url: /student-user-guide/index/
+  - title: Partners
+    url: /partners/
+    sublinks:
+      - title: Partnership
+        url: /partners/partnership/partnership-with-sls/
+      - title: Integration
+        url: /partners/integration/whitelisted-websites/
+      - title: Events
+        url: /partners/events/sls-launchpad-2024/
+      - title: Sandbox
+        url: /partners/sandbox/
   - title: About
-    collection: about
-  - title: Login
-    url: https://vle.learning.moe.edu.sg/
+    collection: about-revised

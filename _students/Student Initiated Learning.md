@@ -5,7 +5,7 @@ description: ""
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>Student Initiated Learning</h1>
+<h3>Student Initiated Learning</h3>
 
 <p>Student-Initiated Learning is a component of HBL days where time is set aside for students to pursue their own interests and learn outside the curriculum. This is to encourage students to be more curious and self-directed in their learning.</p>
 

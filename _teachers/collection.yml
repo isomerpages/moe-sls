@@ -3,40 +3,17 @@ collections:
     output: true
     order:
       - Teachers.md
-      - Friends of SLS.md
-      - Feature Highlights/.keep
-      - Feature Highlights/2024 Sem 1.md
-      - Feature Highlights/2023 Sem 2.md
-      - Feature Highlights/2023 Sem 1.md
-      - Feature Highlights/2022 Sem 2.md
-      - Feature Highlights/2022 Sem 1.md
-      - Feature Highlights/2021 Sem 2.md
-      - SLS Card Games/.keep
-      - SLS Card Games/Superhero Academy.md
-      - SLS Card Games/Build It Right.md
-      - Frequently Asked Questions.md
-      - SLS Professional Development/.keep
-      - SLS Professional Development/Teaching and Learning with SLS.md
-      - SLS Professional Development/ePedagogy One Stop Site.md
-      - SLS Professional Development/SgLDC Livestreams.md
-      - SLS Professional Development/SLS Subject Guides.md
-      - SLS Superhero Quiz/.keep
-      - SLS Superhero Quiz/SLS Superhero Quiz.md
-      - SLS Superhero Quiz/Assign Past Exam Questions.md
-      - SLS Superhero Quiz/Co–create Modules in Class Groups.md
-      - SLS Superhero Quiz/Conduct e–Assessments in Class.md
-      - SLS Superhero Quiz/Create Professional Learning Circles.md
-      - SLS Superhero Quiz/Differentiate Learning Modules and Activities.md
-      - SLS Superhero Quiz/Digitise Past Year Papers for Practice.md
-      - SLS Superhero Quiz/Empower Students to be Self Directed Learners.md
-      - SLS Superhero Quiz/Encourage Curiosity through Class Groups.md
-      - SLS Superhero Quiz/Facilitating Schoolwide PD.md
-      - SLS Superhero Quiz/Integrate External Sites and Applications.md
-      - SLS Superhero Quiz/Jigsaw Activities for Teamwork.md
-      - SLS Superhero Quiz/Manage In Class Teaching more Effectively.md
-      - SLS Superhero Quiz/Motivate Students with a Game like Experience.md
-      - SLS Superhero Quiz/Nurture Collaboration in Gamified Modules.md
-      - SLS Superhero Quiz/Track Students’ Learning Progress.md
-      - SLS Events/.keep
-      - SLS Events/Visit SLS@Grange.md
-      - SLS Events/Events Calendar.md
+      - Teaching & Learning on SLS/.keep
+      - Teaching & Learning on SLS/AIEd Features.md
+      - Teaching & Learning on SLS/eSBA on SLS (for Secondary Schools and
+        JCCIs).md
+      - Teaching & Learning on SLS/SLS Subject Guides.md
+      - SLS Latest Features/.keep
+      - SLS Latest Features/Release 2.md
+      - SLS Latest Features/Release 1.md
+      - Password & Technical Support.md
+      - SLS Professional Development.md
+      - Community & Events/.keep
+      - Community & Events/Hear what others have to say.md
+      - Community & Events/Events Calendar.md
+      - Community & Events/Friends of SLS.md

@@ -2,10 +2,4 @@ collections:
   about:
     output: true
     order:
-      - Overview of Student Learning Space.md
-      - Supporting EdTech Masterplan 2030.md
-      - News Articles/.keep
-      - News Articles/2024 Articles.md
-      - News Articles/2023 Articles.md
-      - News Articles/2022 Articles.md
       - Awards.md

@@ -3,11 +3,8 @@ collections:
     output: true
     order:
       - Students.md
-      - Feature Highlights/2022 Sem 2.md
-      - Feature Highlights/2022 Sem 1.md
-      - Feature Highlights/2021 Sem 2.md
-      - Feature Highlights/.keep
+      - Password & Technical Support/.keep
+      - Password & Technical Support/Password and Technical Support.md
+      - Password & Technical Support/Get Help from your School.md
       - Student Initiated Learning.md
-      - Frequently Asked Questions/.keep
-      - Frequently Asked Questions/Young Overseas Singaporeans.md
-      - Frequently Asked Questions/Technical Support and Passwords.md
+      - Young Overseas Singaporeans.md

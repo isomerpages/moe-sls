@@ -337,7 +337,7 @@ https://www.education.com
 <tr><td><strong>Elementari</strong></td>
 <td>Coding Platform</td>
 <td>
-https://www.elementari.com
+https://elementari.com
 </td>
 </tr>
 
@@ -523,12 +523,7 @@ https://www.ilo.org
 https://www.imf.org
 </td>
 </tr>
-<tr><td><strong>IN CCE</strong></td>
-<td>News Resource Site for CCE</td>
-<td>
-https://cce.straitstimes.com
-</td>
-</tr>
+
 <tr><td><strong>Inter-Religious Organisation Singapore</strong></td>
 <td>Resource site</td>
 <td>
@@ -1036,8 +1031,15 @@ https://www.storyjumper.com
 <td>
 https://storylineonline.net
 </td>
-</tr>
-        
+</tr> 
+<tr><td><strong>Straits Times</strong></td>
+<td>News Resource Site for Curriculum</td>
+<td>
+https://cce.straitstimes.com
+<br>
+https://graphics.straitstimes.com <font color="#FBBC04">NEW!</font></td>
+
+</tr>       	
 <tr><td><strong>Super Teacher Tools</strong></td>
 <td>Interactive Content</td>
 <td>
@@ -1627,7 +1629,7 @@ https://anchorgreen.padlet.org
 <br>
 https://andersonps.padlet.org
 <br>
-https://asrjc.padlet.org
+https://asrjc.padlet.org 
 <br>
 https://assumptionenglish.padlet.org
 <br>
@@ -1785,9 +1787,9 @@ https://taonan.padlet.org
 <br>
 https://taonanschool.padlet.org
 <br>
-https://temasekjc.padlet.org
+https://temasekjc.padlet.org <font color="#FBBC04">NEW!</font>
 <br>
-https://unityprimaryschool.padlet.org
+https://unityprimaryschool.padlet.org 
 <br>
 https://victoriaschool.padlet.org
 <br>
