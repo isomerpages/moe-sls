@@ -12,7 +12,7 @@ third_nav_title: Authenticate
 <ul>
   <li><a target="_blank" href="/login-troubleshooting/authentication/how-to-log-in-teacher/">Log In with MIMS (Teacher)</a></li>
   <li><a target="_blank" href="/login-troubleshooting/authentication/reset-sls-password-teacher/">Reset SLS Password (Teacher)</a></li>
-  <li><a target="_blank" href="/login-troubleshooting/authentication/password-reset-email/">Password Reset Email</a></li>
+  <li><a target="_blank" href="/login-troubleshooting/authentication/sls-password-reset-email/">Password Reset Email</a></li>
   <li><a target="_blank" href="/login-troubleshooting/authentication/locked-account/">Locked Account</a></li>
 </ul>
 </details>
