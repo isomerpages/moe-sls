@@ -34,9 +34,6 @@ variant: markdown
 </ol>
 </details></li>
 	<li><details><summary><h4>Listing View</h4></summary><ol><li> Resource and assignment listings will default to the list view. The system will retain teachers' and students' preferred view based on their last access on the same device.</li>
-<ol>
-<li> Resource and assignment listings will default to the list view. The system will retain teachers' and students' preferred view based on their last access on the same device.</li>
-</ol>
 </ol></details></li>
 <li><details><summary><h4>Upvote</h4></summary>
 <ol>
