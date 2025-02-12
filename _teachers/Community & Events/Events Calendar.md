@@ -14,150 +14,125 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Dates</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Events</p>
-</th>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>19 Jan</p>
-<p>31 Jan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learning Journey at SLS@Grange (FULL)</p>
-<p>Learning Journey at SLS@Grange (FULL)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Feb</p>
-<p>29 Feb</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learning Journey at SLS@Grange (FULL)</p>
-<p>Learning Journey at SLS@Grange (FULL)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1 Mar</p>
-<p>6 Mar</p>
-<p>8 Mar</p>
-<p>11 Mar</p>
-<p>11 Mar
-<br>to
-<br>15 Mar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="/partners/events/sls-partners-engagement-session-2024/" rel="noopener noreferrer nofollow" target="_blank">SLS Partners Engagement Session</a>
+<p><strong>Month</strong>
 </p>
-<p>Learning Journey at SLS@Grange (FULL)</p>
-<p>Learning Journey at SLS@Grange (FULL)</p>
-<p>Learning Journey at SLS@Grange (FULL)</p>
-<p><a href="https://go.gov.sg/sls-level1-course" rel="noopener noreferrer nofollow" target="_blank">SLS Level 1 Certification</a>
-<br>
-<br><a href="https://go.gov.sg/sls-level2-course-organise" rel="noopener noreferrer" target="_blank">SLS Level 2 - Organise Certification</a>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Events</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Apr</p>
-<p>15 Apr</p>
+<p>January</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learning Journey at SLS@Grange (FULL)</p>
-<p>Learning Journey at SLS@Grange (FULL)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>3 May</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learning Journey at SLS@Grange (FULL)&nbsp;</p>
+<p>23<sup>rd</sup> Jan – Professional Learning Series Session 1</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>7 Jun</p>
-<p>17 Jun
-<br>to
-<br>28 Jun</p>
-<p>19 Jun</p>
+<p>February</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learning Journey at SLS@Grange (FULL)</p>
-<p><a href="https://go.gov.sg/sls-level1-course" rel="noopener noreferrer nofollow" target="_blank">SLS Level 1 Certification</a>
-<br>
-<br><a href="https://go.gov.sg/sls-level2-course-organise" rel="noopener noreferrer" target="_blank">SLS Level 2 - Organise Certification</a>
-</p>
-<p>Release 1</p>
+<p>6<sup>th</sup> Feb – Professional Learning Series Session 2</p>
+<p>14<sup>th</sup> Feb – School Leaders’ SLS Workshop</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5 Jul</p>
-<p>Jul</p>
+<p>March</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learning Journey at SLS@Grange (FULL)</p>
-<p>SgLDC Livestream: Session 1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2 Aug</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Learning Journey at SLS@Grange (FULL)</p>
+<p>6<sup>th</sup> Mar – Professional Learning Series Session 3</p>
+<p>19<sup>th</sup> Mar – March 2025 Update</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2 Sep
-<br>to
-<br>6 Sep</p>
-<p>6 Sep</p>
+<p>April</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/sls-level1-course" rel="noopener noreferrer nofollow" target="_blank">SLS Level 1 Certification</a>
-<br>
-<br><a href="https://go.gov.sg/sls-level2-course-organise" rel="noopener noreferrer" target="_blank">SLS Level 2 - Organise Certification</a>
-</p>
-<p>Learning Journey at SLS@Grange (FULL)</p>
+<p>10<sup>th</sup> Apr – Professional Learning Series Session 4</p>
+<p>16<sup>th</sup> Apr – School Leaders’ SLS Workshop</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>11 Oct</p>
-<p>Oct</p>
+<p>May</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Learning Journey at SLS@Grange (FULL)</p>
-<p>SgLDC Livestream: Session 2</p>
+<p>8<sup>th</sup> May – Professional Learning Series Session 5</p>
+<p>14<sup>th</sup> May – TCEF Learning Journey</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>18 Nov
-<br>to
-<br>29 Nov</p>
-<p>22 Nov</p>
-<p>27 Nov</p>
-<p>29 Nov</p>
+<p>June</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/sls-level1-course" rel="noopener noreferrer nofollow" target="_blank">SLS Level 1 Certification</a>
-</p>
-<p><a href="https://go.gov.sg/sls-level2-course-organise" rel="noopener noreferrer nofollow" target="_blank">SLS Level 2 – Organise Certification</a>
-</p>
-<p>Learning Journey at SLS@Grange (FULL)</p>
-<p>Release 2</p>
-<p>Learning Journey at SLS@Grange (FULL)</p>
+<p>25<sup>th</sup> Jun – June 2025 Update</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>December</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 </td>
 </tr>
 </tbody>
