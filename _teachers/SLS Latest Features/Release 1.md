@@ -52,7 +52,7 @@ third_nav_title: SLS Latest Features
 </td>
 <td rowspan="1" colspan="1">
 <div class="iframe-wrapper">
-<iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/NdY-iSl1ubg"></iframe>
+<iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Zlt1akZ1HxA"></iframe>
 </div>
 </td>
 </tr>
