@@ -20,7 +20,7 @@ trends and setting goals for the year ahead.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/2025_elc_jan2.png">
 </div>
-<p>Learn more here: <a rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/admin-user-guide/administer/generate-reports/</a>
+<p>Learn more here: <a href="https://www.learning.moe.edu.sg/admin-user-guide/administer/generate-reports/" rel="noopener nofollow" target="_blank">Generate Reports</a> 
 </p>
 <p>💡<strong>Pro Tip</strong>: Set a monthly reminder to review these reports
 and share your findings with your team. Let’s make data work for us!</p>
