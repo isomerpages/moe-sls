@@ -10,6 +10,7 @@ variant: markdown
 <h1>What's new in March 2025 Update</h1>
 <p>This list details the changes users can expect in the upcoming SLS March 2025 Update, which will be rolled out on 19 March 2025. Please note that SLS will be unavailable from 18 March 2025 00:00 to 19 March 2025 23:00 to facilitate this update.</p>
 <h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for All Users</h2>
+<ul>
 <ol>
 <li><details><summary><h4>Module Interface Enhancements</h4></summary>
 <ol>
@@ -61,6 +62,7 @@ variant: markdown
 </ol>
 </details></li>
 </details></li></ol>
+	</ul>
 
 <h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for Teachers</h2>
 <ol>
