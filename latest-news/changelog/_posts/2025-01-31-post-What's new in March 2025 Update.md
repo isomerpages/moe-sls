@@ -183,6 +183,11 @@ variant: markdown
 <li>Teachers will be prompted to switch to their Teacher-as-Student accounts when they access Student Attempt URLs.</li>
 </ol>
 </details></li>
+	<li><details><summary><h4>Profile</h4></summary>
+<ol>
+<li>Teachers’ Profile subpage will display their SLS contributions, including modules submitted to the Community Gallery, upvotes received, communities joined, and the number of reviews and votes they have given in the MOE Library and Community Gallery.</li>
+</ol>
+</details></li>
 </ol>
 
 <h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for Students</h2>
