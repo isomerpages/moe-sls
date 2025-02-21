@@ -21,8 +21,5 @@ of SLS modules available:</p>
 <li>
 <p>Catalogue of Self-Paced SLS Modules on AI Literacy</p>
 </li>
-<li>
-<p></p>
-</li>
 </ul>
 <p></p>
