@@ -37,6 +37,6 @@ on the day of assessment.</p>
 their e-assessment, which can then be uploaded to SLS for marking.</p>
 </li>
 </ol>
-<p>Find out more information on <a href="/teachers/sls-superhero-quiz/conduct-eassessments-in-class/" rel="noopener noreferrer nofollow" target="_blank">how to conduct e-assessments on SLS</a>!</p>
+<p>Find out more information on <a href="https://www.learning.moe.edu.sg/teachers/esba-on-sls-for-secondary-schools-and-jccis/" rel="noopener noreferrer nofollow" target="_blank">how to conduct e-assessments on SLS</a>!</p>
 <p></p>
 <p></p>
