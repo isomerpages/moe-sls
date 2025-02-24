@@ -3391,7 +3391,7 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 <p>Yu Neng Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 98887677
+<p>Tel: 64490121
 <br>Email: <a rel="noopener noreferrer nofollow" target="_blank">ynps@schools.gov.sg</a>
 <br>Others: <a href="https://go.gov.sg/ynpwreset" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
