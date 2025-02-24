@@ -274,10 +274,22 @@ https://www.coolmath4kids.com
 https://www.craiyon.com
 </td>
 </tr>
+<tr><td><strong>Curipod <font color="#FBBC04">NEW!</font></strong></td>
+<td>Educational Tools</td>
+<td>
+https://www.curipod.com
+</td>
+</tr>
 <tr><td><strong>DCACLab</strong></td>
 <td>Simulations</td>
 <td>
 https://dcaclab.com
+</td>
+</tr>
+<tr><td><strong>DesignSingapore Council <font color="#FBBC04">NEW!</font></strong></td>
+<td>Resource Site</td>
+<td>
+https://iamlearningbydesign.sg
 </td>
 </tr>
 <tr><td><strong>Developers</strong></td>
@@ -304,8 +316,8 @@ https://www.doctormusik.com
 https://ereadinggames.com
 </td>
 </tr>
-<tr><td><strong>Edcafe AI <font color="#FBBC04">NEW!</font></strong></td>
-<td>AI Tool</td>
+<tr><td><strong>Edcafe AI
+</strong></td><td>AI Tool</td>
 <td>
 https://www.edcafe.ai
 </td>
@@ -834,6 +846,12 @@ https://pixlr.com/e
 https://playxylo.com
 </td>
 </tr>
+<tr><td><strong>Polypad <font color="#FBBC04">NEW!</font></strong></td>
+<td>Math Tools</td>
+<td>
+https://polypad.amplify.com
+</td>
+</tr>
 <tr><td><strong>PTable</strong></td>
 <td>Interactive Periodic Table</td>
 <td>
@@ -1037,9 +1055,9 @@ https://storylineonline.net
 <td>
 https://cce.straitstimes.com
 <br>
-https://graphics.straitstimes.com <font color="#FBBC04">NEW!</font></td>
+https://graphics.straitstimes.com
 
-</tr>       	
+</td></tr>       	
 <tr><td><strong>Super Teacher Tools</strong></td>
 <td>Interactive Content</td>
 <td>
@@ -1212,6 +1230,12 @@ https://v2.versoapp.com
 https://www.virtualmusicalinstruments.com
 </td>
 </tr>
+<tr><td><strong>Vizcom <font color="#FBBC04">NEW!</font></strong></td>
+<td>Sketching and Design Tools</td>
+<td>
+https://www.vizcom.ai
+</td>
+</tr>	
 <tr><td><strong>Walkthru360</strong></td>
 <td>Virtual Environment Tool</td>
 <td>
@@ -1773,6 +1797,8 @@ https://sengkangsec.padlet.org
 <br>
 https://sgss.padlet.orglearnin
 <br>
+https://springdalelites.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://sst-sg.padlet.org
 <br>
 https://stanthonyscanossiansec.padlet.org
@@ -1787,7 +1813,7 @@ https://taonan.padlet.org
 <br>
 https://taonanschool.padlet.org
 <br>
-https://temasekjc.padlet.org <font color="#FBBC04">NEW!</font>
+https://temasekjc.padlet.org 
 <br>
 https://unityprimaryschool.padlet.org 
 <br>
@@ -1808,6 +1834,8 @@ https://woodgrove.padlet.org
 https://woodgroveps.padlet.org
 <br>
 https://xingnanprimary.padlet.org
+<br>
+https://xnps.padlet.org <font color="#FBBC04">NEW!</font>
 <br>
 https://yijc.padlet.org
 <br>
