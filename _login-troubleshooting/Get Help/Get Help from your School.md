@@ -215,7 +215,7 @@ in login or e-learning issues during working hours.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 67830427
-<br>Email
+<br>Email:
 <br>Others:</p>
 </td>
 </tr>
@@ -3391,9 +3391,10 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 <p>Yu Neng Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 64490121
-<br>Email: xu_qianhao@moe.edu.sg
-<br>Others:</p>
+<p>Tel: 98887677
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">ynps@schools.gov.sg</a>
+<br>Others: <a href="https://go.gov.sg/ynpwreset" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -3402,8 +3403,8 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 62612489
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">ynps@schools.gov.sg</a>
-<br>Others: <a href="https://go.gov.sg/ynpwreset" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+<br>Email:
+<br>Others: <a href="https://go.gov.sg/sls-pw-reset" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
