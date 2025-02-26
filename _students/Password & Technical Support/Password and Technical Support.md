@@ -16,7 +16,7 @@ third_nav_title: Password & Technical Support
 </li>
 <li>
 <p><strong>What can students do if their accounts are locked ?</strong></p>
-<p>Students can call their&nbsp; <a href="/login-troubleshooting/get-help/get-help-from-your-school/">School-Based Helpline</a> or the SLS Helpdesk (see below) to unlock their SLS accounts.</p>
+<p>Students can call their&nbsp; <a href="/students/password-and-technical-support/get-help-from-your-school/">School-Based Helpline</a> or the SLS Helpdesk (see below) to unlock their SLS accounts.</p>
 <table>
 <thead>
 <tr>
