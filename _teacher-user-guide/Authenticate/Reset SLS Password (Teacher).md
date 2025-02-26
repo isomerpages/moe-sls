@@ -55,7 +55,7 @@ entered it correctly.</p>
 page.</p>
 </li>
 <li>
-<p>Click <a href="/login-troubleshooting/authentication/password-reset-email/" rel="noopener noreferrer nofollow" target="_blank">here</a> if
+<p>Click <a href="/login-troubleshooting/authentication/sls-password-reset-email/" rel="noopener noreferrer nofollow" target="_blank">here</a> if
 you did not receive your password reset email</p>
 </li>
 </ol>
