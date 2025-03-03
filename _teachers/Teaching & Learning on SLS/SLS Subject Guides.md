@@ -6,27 +6,27 @@ description: ""
 third_nav_title: Teaching & Learning on SLS
 image: /images/FaviconLight.png
 ---
-<h4>SLS Subject Guides</h4>
-<p>Elevate your teaching game with our <strong>SLS Subject Guides!</strong>
-</p>
+<h4>SLS Guides</h4>
+<p>Transform your teaching with the SLS Guides!</p>
 <hr>
 <ol>
 <li>
-<p><strong>Enhance your T&amp;L:</strong> Explore the pedagogical affordances
-of SLS features that are contextualised to your subject and see your learning
-come alive.</p>
+<p><strong>Enhance your Teaching: </strong>Harness the pedagogical prowess
+of SLS features (including AI-enabled features) and glean insights and
+ideas on how technology can bring learning to life.</p>
 </li>
 <li>
 <p><strong>Boost Students’ Learning with SLS Features:</strong> Dive into
-practical examples showcasing how SLS features can enhance student understanding.</p>
+practical examples showcasing the use of SLS features in engaging students
+in active learning and enhancing student understanding.</p>
 </li>
 <li>
 <p><strong>SLS Made Simple:</strong> Whether you are a new or an experienced
-SLS user our guides are designed to be easily comprehensible and user-friendly
+SLS user, our guides are designed to be easily comprehensible and user-friendly,
 presenting content in digestible bite-sized portions.</p>
 </li>
 </ol>
-<p>Please access the respective subject guides below:</p>
+<p>Please access the respective guides below:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -43,7 +43,7 @@ presenting content in digestible bite-sized portions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Information Deck for IP HODs</p>
+<p>Information Deck on SLS Subject Guides for IP HODs</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://go.gov.sg/slssubjectguides" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/slssubjectguides</a>
@@ -95,6 +95,24 @@ presenting content in digestible bite-sized portions.</p>
 </p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Information Deck on SLS Guide for JCCI for HODs ICT and SSDs (new!)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/slsjcciguideinfodeck" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/slsjcciguideinfodeck</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SLS Guide for JCCI (new!)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://go.gov.sg/slsjcciguide" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/slsjcciguide</a>&nbsp;</p>
+</td>
+</tr>
 </tbody>
 </table>
 <p></p>
+<p>The guides are updated as of 7 March 2025.</p>
