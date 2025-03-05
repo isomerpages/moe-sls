@@ -115,6 +115,6 @@ presenting content in digestible bite-sized portions.</p>
 </tbody>
 </table>
 <p>The guides are updated as of 7 March 2025.</p>
-<p><em>Note: While the lesson examples in the SLS Subject Guides were designed with reference to the respective Pri/Sec curriculum frameworks/processes, JCCI teachers may find some of the teaching moves in these lesson examples relevant to their own teaching practices.</em>
+<p><em>Note: While the lesson activities in the SLS Subject Guides were designed with reference to the respective Pri/Sec curriculum frameworks/processes, JCCI teachers may find some of the teaching moves in these lesson activities relevant to their own teaching practices.</em>
 </p>
 <p></p>
