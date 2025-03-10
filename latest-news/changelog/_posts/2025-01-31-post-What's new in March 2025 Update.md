@@ -104,7 +104,7 @@ variant: markdown
 </li>
 <li><strong>Editing:</strong>
 <ol>
-<li>Teachers can preview assignments and resources as students after they have been assigned</li>
+<li>Teachers can preview assignments and resources as students after they have been assigned.</li>
 <li>Teachers can edit the suggested answer field and description in rubrics for Free-Response Questions even after students have attempted them. This also applies to self-study resources.</li>
 <li>Teachers can also edit certain fields, such as the Quiz Title and Description, after the module has been assigned and students have started attempting the questions in the Quiz. </li>
 </ol>
@@ -142,7 +142,7 @@ variant: markdown
 <li><details><summary><h4>Annotated Feedback Assistants (AFA)</h4></summary>
 <ol>
 <li>Teachers can use Annotated Feedback Assistant for Free-Response Questions to provide in-line feedback in the form of annotation cards on student responses.</li>
-<li>Teachers can select up to 2 feedback references (suggested answer, rubrics or error tags) for Annotated Feedback Assistant to reference when evaluating students’ responses</li>
+<li>Teachers can select up to 2 feedback references (suggested answer, rubrics or error tags) for Annotated Feedback Assistant to reference when evaluating students’ responses.</li>
 </ol>
 </details></li>
 <li><details><summary><h4>Learning Assistant (LEA)</h4></summary>
@@ -163,7 +163,7 @@ variant: markdown
 <li><details><summary><h4>Feedback Assistant-Math (FA-Math) Enhancements</h4></summary>
 <ol>
 <li>Teachers can create Multi-Part FA-Math questions where question sub-parts are linked.</li>
-<li>Teachers can use FA-Math to create digital manipulatives, including models, inside text/media components and question stems of Multi-Part Questions</li>
+<li>Teachers can use FA-Math to create digital manipulatives, including models, inside text/media components and question stems of Multi-Part Questions.</li>
 <li>Teachers can use FA-Math in conjunction with Print-To-Scan to evaluate students’ handwritten mathematical working.</li>
 </ol>
 </details></li>	
