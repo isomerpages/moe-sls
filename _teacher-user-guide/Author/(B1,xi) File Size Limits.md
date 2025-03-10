@@ -29,7 +29,7 @@ odp/odg/odf/key/pps/pages/
 </tr>
 <tr>
 <td>Images (Up to 5000 pixels)</td>
-<td>jpg/jpeg/gif/png/svg</td>
+<td>jpg/jpeg/gif/png</td>
 <td>10 MB</td>
 <td>10 MB</td>
 </tr>
