@@ -100,7 +100,7 @@ presenting content in digestible bite-sized portions.</p>
 <p>Information Deck on SLS Guide for JCCI for HODs ICT and SSDs (new!)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/slsjcciguideinfodeck" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/slsjcciguideinfodeck</a>
+<p><a href="https://go.gov.sg/slsjcciguide-infodeck" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/slsjcciguide-infodeck</a> 
 </p>
 </td>
 </tr>
