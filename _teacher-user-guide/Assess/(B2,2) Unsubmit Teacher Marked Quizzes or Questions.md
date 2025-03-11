@@ -13,7 +13,7 @@ variant: markdown
 <p><img alt="Unsubmit Teacher-Marked Quizzes" style="width: 80%;" src="/images/2Teacher/As-TeacherMarkedQuiz5.png"></p></li>
 <li><p>You will be able to Unsubmit the quiz for multiple students from the Heatmap by viewing the Activity with the Teacher-Marked Quiz and selecting the checkbox next to the student's name.</p><p>
 </p></li>
-<p><img alt="Unsubmit Teacher-Marked Quizzes" style="width: 80%;" src="/images/2Teacher/As_TeacherMarkedQuiz8.png"></p>
+<p><img alt="Unsubmit Teacher-Marked Quizzes" style="width: 80%;" src="/images/2Teacher/As_TeacherMarkedQuiz9.png"></p>
 <li><p>To unsubmit a particular question, select the name of a student from the Heatmap and navigate to the specific question in the student's assignment. Click <strong>Unsubmit</strong>.</p>
 <p><img alt="Unsubmit Teacher Marked Quizzes or Questions" style="width: 80%;" src="/images/2Teacher/as_teachermarkedquiz3.jpg"></p></li>
 </ol>

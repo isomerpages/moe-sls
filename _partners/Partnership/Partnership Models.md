@@ -27,7 +27,7 @@ variant: markdown
 </li>
 <li><p><strong>External Engines</strong></p>
 <ol>
-<li>SLS has built proprietary APIs to leverage external engines that offer enhanced capabilities in text-to-speech and speech evaluation. External engines can be integrated into SLS through the <a target="_blank" href="/files/Partnerships/adpspecifications21.pdf">Application Development Framework (ADF)</a>.</li>
+<li>SLS has built proprietary APIs to leverage external engines that offer enhanced capabilities in text-to-speech and speech evaluation. External engines can be integrated into SLS through the <a target="_blank" href="/files/Partnerships/adpspecifications2025.pdf">Application Development Framework (ADF)</a>.</li>
 <li>Companies possessing external engines with advanced capabilities can: <ul>
 <li>Offer the capability for integration with SLS as a standalone service,</li>
 <li>Offer the capability as a separate service for integration with SLS (if it is currently part of a broader product), or</li>
