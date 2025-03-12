@@ -27,11 +27,11 @@ In the Module Editor page of the Quiz, click the <b>orange Create</b> icon <img 
 <li>
 If you have used Authoring Copilot to create the Quiz, the Quiz Title and Quiz Notes would have been pre-populated. If not, add the Quiz Title and Quiz Notes. Quiz Notes will help guide the Authoring Copilot in the generation of the questions in the Quiz.<img alt="Create New Quiz with Authoring Copilot" style="width: 100%;" src="/images/2Teacher/AU_ACP_Quiz2.png">
 </li>
-<li><p>You can select the type of components you want Authoring Copilot to generate.</p>
+<li><p>You can select the type of components you want Authoring Copilot to generate.</p><img alt="Create New Quiz with Authoring Copilot" style="width: 100%;" src="/images/2Teacher/AU_ACP_Components.png">
 <p>Click the <b>Up/Down</b> arrows to set the number of components you want, for e.g., if you want to create 3 Multiple Choice Questions and 2 Free Response Questions and, set 5 components, and select the Multiple-Choice and Free-Response options.</p>
 	<p>You can also generate components directly from the component bar.</p></li>
 	
-<img alt="Create New Quiz with Authoring Copilot" style="width: 100%;" src="/images/2Teacher/AU_ACP_Components.png">
+
 	
 <li>Click the <b>Up/Down</b> arrows to set the Quiz Duration. This duration will be reflected at the Quiz Cover page. The recommended duration for each generated question within the Quiz may not add up to the total Quiz Duration set here.
 </li>
@@ -45,7 +45,7 @@ In the Additional Details field, you can include information about the question 
 <li>You can enable <strong>ShortAnsFA</strong> and edit the Suggested Answer (if required) and mark allocation in Free-Response questions for immediate feedback.</li></ul>
 </li><li>
 	You can add a Knowledge Base by clicking <b>Add Knowledge Base</b></li>
-
+<img alt="Create New Quiz with Authoring Copilot" style="width: 100%;" src="/images/AU_ACP_KB1a.png">
 <li> You can upload up to 20 Knowledge Bases that can comprise text, PDF or images. These Knowledge Bases can be used when generating sections, activities/quizzes and components in a module. Knowledge Base Titles should be entered to organise your Knowledge Bases so that you can easily find and append the relevant Knowledge Base(s) for different activities in a module, e.g. Reading 1 for Activity 1, Chapter 2 Notes for Activity 2, etc.
 	</li><li> To add PDFs or images, click Add Media, and Upload File.</li>
 <li>Authoring Copilot will create a Suggested Quiz Plan with Quiz Description and Question(s). Click the checkbox next to Split into pages if you want the content to be populated across different pages of the Quiz. Click the checkboxes next to the generated content you wish to include in the Quiz. Click&nbsp;Add&nbsp;to autogenerate the Quiz Description and Question(s) selected.	
