@@ -12,23 +12,24 @@ variant: markdown
 <li>Students who have forgotten their SLS passwords and are unable to reset them on their own</li>
 <li>Onboarding a new student.</li>
 </ol>
-<p><u>Note</u>: You cannot reset the passwords of students in your Class Groups created in SLS, but you can generate a Passcode (formerly known as two-hour temporary password) to give them temporary access to the SLS.</p>
+<p><u>Note</u>: You cannot reset the passwords of students in your Class Groups created in SLS, but you can generate a <a target="_blank" href="/teacher-user-guide/administer/generate-passcode-for-students/">Passcode</a> (formerly known as two-hour temporary password) to give them temporary access to the SLS.</p>
+
 <h2 id="access-reset-password">Access Reset Password</h2>
 <hr>
 <p>There are multiple ways to access the Reset Password page.</p>
 <ul>
 <li>On the homepage, select a Class Group created in School Cockpit, then select the Admin tab and click <strong>Reset Student Password.</strong></li>
-<li>Open the left menu and click <strong>Administration</strong>, followed by <strong>Reset Student Password</strong>.</li>
+<li>Open the left menu and click <strong>Administration</strong>, followed by <strong>Manage Student Password / Passcode</strong>.</li>
 </ul>
 <h2 id="select-students">Select Students</h2>
 <hr>
 <ol>
-<li>Select a class from the dropdown list.</li>
+<li>Select a class group from the dropdown list.</li>
 <li><p>Select the students you will be generating the password for, by selecting the checkboxes on the left.</p>
 	<p><u>Note</u>: You cannot reset the password of a locked student account. Please approach your school's SLS School Administrator to do so.</p>
 </li>
 <li><p>Click <strong>Reset Password</strong>.</p>
-<p><img alt="Reset Student Passwords for Classes" style="width: 100%;" src="/images/2Teacher/A-ResetPassword.png"></p>
+<p><img alt="Reset Student Passwords for Classes" style="width: 100%;" src="/images/2Teacher/A_ResetPassword1.png"></p>
 </li>
 <li><p>On the confirmation prompt, verify that the correct number of students has been selected.</p>
 </li>
