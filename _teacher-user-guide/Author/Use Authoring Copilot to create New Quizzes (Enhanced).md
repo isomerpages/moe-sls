@@ -47,7 +47,7 @@ In the Additional Details field, you can include information about the question 
 	You can add a Knowledge Base by clicking <b>Add Knowledge Base</b></li>
 <img alt="Create New Quiz with Authoring Copilot" style="width: 100%;" src="/images/AU_ACP_KB1a.png">
 <li> You can upload up to 20 Knowledge Bases that can comprise text, PDF or images. These Knowledge Bases can be used when generating sections, activities/quizzes and components in a module. Knowledge Base Titles should be entered to organise your Knowledge Bases so that you can easily find and append the relevant Knowledge Base(s) for different activities in a module, e.g. Reading 1 for Activity 1, Chapter 2 Notes for Activity 2, etc.
-	</li><li> To add PDFs or images, click Add Media, and Upload File.</li>
+	</li><li> To add PDFs or images, click Add Media, and Upload File.</li><img alt="Create New Quiz with Authoring Copilot" style="width: 100%;" src="/images/AU_ACP_KB2.png">
 <li>Authoring Copilot will create a Suggested Quiz Plan with Quiz Description and Question(s). Click the checkbox next to Split into pages if you want the content to be populated across different pages of the Quiz. Click the checkboxes next to the generated content you wish to include in the Quiz. Click&nbsp;Add&nbsp;to autogenerate the Quiz Description and Question(s) selected.	
 	
 <img alt="Create New Quiz with Authoring Copilot" style="width: 70%;" src="/images/2Teacher/AU_ACP_Quiz6.png">
