@@ -35,7 +35,7 @@ variant: markdown
 </li>
 <li>You may search for Assignments on the Assignments page by entering the title in the Search Bar. You may apply the <strong>Assignment Status</strong> and <strong>Class Group</strong> filters. Click <strong>Apply</strong> to perform your selection. </li>
 <li>For a more refined search, click <strong>Filter</strong> to filter the Assignments by Assignment Status, Class Group, and Marking Status (for Assignments with Teacher-Marked Quizzes only). Click <strong>Apply</strong> to perform your selection.</li>
-<li>You can choose to view your Assignments in card view <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">.</li>
+<li>Your assignments will appear in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg"> by default. You can choose to view your Assignments in Card view&nbsp;by clicking on the <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> icon.</li>
 <li><p>Assignments in the List view are sorted according to the latest Start Date. You may also sort the Assignments according to the Assignment Title, and Due Date. Assessments in List View will be indicated by an orange tag beside the Title.</p>
 <p><img alt="View Assignments" style="width: 100%;" src="/images/2Teacher/As-AssignmentView.png"></p>
 </li>
