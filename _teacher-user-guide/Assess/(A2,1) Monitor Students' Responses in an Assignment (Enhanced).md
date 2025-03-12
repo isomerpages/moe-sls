@@ -15,9 +15,10 @@ variant: markdown
 <li>From within the Assignment, click the <strong>Monitoring</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg"> in the header.</li>
 <li>From the <strong>Module Plan</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/courseplan32.svg">, click the <strong>Monitoring</strong> icon<img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg">.</li>
 </ul>
-<h2 id="monitor-assignment-page">Monitor Assignment page</h2>
+<p>Note: You can click Refresh at the top left corner of the Monitor Assignment page to view the most up-to-date student submissions.</p>
+<h2 id="monitor-assignment-page">Monitor Assignment page (Enhanced)</h2>
 <hr>
-<p><img alt="Monitor Students' Responses in an Assignment" style="width: 100%;" src="/images/2Teacher/As_Heatmap.png"></p>
+<p><img alt="Monitor Students' Responses in an Assignment" style="width: 100%;" src="/images/2Teacher/As_MonitorStudents.png"></p>
 <p>The following information will be displayed on the Monitor Assignment page:</p>
 <ul>
 <li><b>Assignment Status</b>: based on the overall Completion Status of students assigned.</li>
@@ -30,9 +31,12 @@ variant: markdown
 <li><b>Filter</b> <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg">: to filter by Student's Assignment, Section and Activity completion status. Click the <strong>Filter</strong> icon to open the Activities in the Section.</li>
 <li><b>Toggle on/off to show marks under Setting</b> <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> : to show/hide marks on the Heatmap.</li>
 <li><b>Legend</b> <img style="width:1.5rem; display: inline;" src="/images/Icons/Legend.svg">: legend for the colours and icons used in the Heatmap.</li>
+<p><img alt="Monitor Students' Responses in an Assignment" style="width: 100%;" src="/images/2Teacher/As_Heatmaplegend.png"></p>
 <li><p><b>Heatmap</b>: table of students and their response data. All questions will be indicated in this table. Click the <strong>Section</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Section.svg"> to navigate to a Section. Within a Section, click the <strong>Activity</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityIcon.svg">, <img style="width:1.5rem; display: inline;" src="/images/Icons/ActivityOptional32.svg"> or <img style="width:1.5rem; display: inline;" src="/images/Icons/Quiz.svg"> to navigate to an Activity. Team Quizzes will be indicated with the <strong>Team</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/TeamSubmission.svg">. Alternatively, click the <strong>Filter</strong> icon  <img style="width:1.5rem; display: inline;" src="/images/Icons/FilterTo.svg"> beside a Section or Activity icon to filter a Section or an Activity. Within an Activity, click the <strong>Question Number</strong> in the table header to view the aggregated students' responses for that particular question.</p>
 <p> <u>Note</u>:</p>
 <ul>
+<li>From March 2025 Update, you can view student responses by clicking View Responses or the visual indicator under the component on the heatmap.</li>
+<p><img alt="Monitor Students' Responses in an Assignment" style="width: 100%;" src="/images/2Teacher/As_Heatmap4.png"></p>
 <li>Clicking the Question Number on the Heatmap will redirect you to the Aggregated Student Responses.</li>
 <li>To exit the filtered view, click the <strong>X</strong> beside the <strong>Filter</strong> icon.</li>
 <li>Drawings, files, audio clips submitted to an Interactive Thinking Tool will not be downloaded.</li>
@@ -69,7 +73,7 @@ variant: markdown
 <ol>
 <li>Under the Interactive Thinking Tool, click <strong>View Class Submissions</strong> to open the Interaction Board.</li>
 <li>For Interactive Thinking Tool, you can view responses for individual column or all the columns at once by choosing the <strong>View All</strong> tab.</li>
-	<li>From R2 (Nov 2024), you can click Refresh at the top left corner of the interaction board to view the most up-to-date student submissions. </li>
+	<li>You can click Refresh at the top left corner of the interaction board to view the most up-to-date student submissions. </li>
 <img alt="Monitor Students' Responses in an Assignment" style="width: 100%;" src="/images/2Teacher/As_Heatmap2.png">
 <li>Download the responses from the Interactive Thinking Tool by clicking <b>Download Responses</b> under either of the columns. </li>
 <li>The number of Comments is indicated beside the <strong>Comment</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Comment.svg">. </li>
@@ -92,10 +96,12 @@ variant: markdown
 </ol>
 <h2 id="monitor-a-discussion">Monitor a Discussion</h2>
 <hr>
+<p><u>Note: </u>From March 2025 Update, you may monitor students' submission status under the component in the heatmap.</p>
+<p><img alt="Monitor Students' Responses in an Assignment" style="width: 100%;" src="/images/2Teacher/As_Heatmap5.png"></p>
 <ol>
-<li>Under the Discussion, click <strong>View Discussion</strong> to open the Interaction Board.</li>
+<li>Under the Discussion, click <strong>View Class Submissions</strong> to open the Interaction Board.</li>
 <li>You may click <strong>View Class Participation</strong> to monitor the number of posts submitted by each student. </li>
-<li>From R2 (Nov 2024), you can click Refresh at the top left corner of the interaction board to view the most up-to-date student submissions. </li>
+<li>You can click Refresh at the top left corner of the interaction board to view the most up-to-date student submissions. </li>
 <img alt="Monitor Students' Responses in an Assignment" style="width: 100%;" src="/images/2Teacher/As_Heatmap3.png">
 <li>Download the responses from the Discussion by clicking <b>Download Responses</b>.</li>
 <li>You may also search for posts using the search bar above the posts.</li>
