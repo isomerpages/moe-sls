@@ -7,7 +7,6 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="reset-student-passwords-for-classes">(A1,ii) Reset Student Passwords for Classes</h1><hr>
-<p>From R20, Form Teachers who are teaching at least one student in their form class can reset the passwords of all students in their form class.</p>
 <p>Owners and Co-teachers can reset the passwords of students in their Class Groups created in School Cockpit. This is necessary for:</p>
 <ol>
 <li>Students who have forgotten their SLS passwords and are unable to reset them on their own</li>
