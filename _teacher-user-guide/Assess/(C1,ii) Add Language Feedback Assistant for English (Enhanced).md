@@ -5,27 +5,33 @@ variant: markdown
 description: ""
 third_nav_title: Assess
 ---
-<h1>(C1,ii) Add Language Feedback Assistant for English (Enhanced)</h1>
+<h1>(C1,ii) Add Annotated Feedback Assistant (New)</h1>
 <hr>
-<p>The Language Feedback Assistant for English (LangFA-EL) provides basic feedback on students’ writing in areas such as spelling and grammar.</p>
-<p><u>Important</u>: Marks and File Submission are disabled when using LangFA-EL.</p>
 
-<h2><strong>Create a LangFA-EL question</strong></h2>
+The Annotated Feedback Assistant (AFA) provides targeted in-line feedback on both content and language through annotation cards, using Suggested Answer, Rubrics, and Error Tags to help students refine their responses. With AFA, teachers can also use specific instructions to configure the feedback given (e.g. provide the correct response, hint, or probing questions) to meet their students’ learning needs.
+
+Important:
+
+*   As AFA uses generative AI, its response is probabilistic in nature. Thus, it may not always identify errors comprehensively, and teachers should review and refine the feedback to ensure accuracy and alignment with learning objectives.
+*   File Submission is disabled when using AFA.
+
+<h2><strong>Create an AFA question</strong></h2>
 <hr>
 <ol>
-<li><p>LangFA-EL can be used in standalone questions and  all types of quizzes. Depending on the selected mode (i.e. standalone question or quiz), teachers determine how students will receive the feedback from LangFA-EL.  </p>
+<li><p>AFA can be used in standalone questions and all types of quizzes. If you wish to review feedback from AFA before releasing it to students, you can include the AFA enabled question within a Teacher Marked Quiz.  </p>
 <table>
 <tbody><tr><th>Mode </th><th>Feedback</th></tr>
-<tr><td>Teacher Marked Quiz</td><td>Students receive feedback after teacher marks and releases the quiz</td></tr>
-<tr><td>1. Progressive Quiz<br>2. Auto-Graded Quiz<br>3. Standalone Question</td><td>Students receive feedback automatically after submitting each question</td>
+<tr><td>Teacher Marked Quiz*</td><td>Students receive feedback after teacher marks and releases the quiz</td></tr>
+<tr><td>1. Progressive Quiz*<br>2. Auto-Graded Quiz*<br>3. Standalone Question*</td><td>Students receive feedback automatically after submitting each question</td>
 	</tr></tbody></table>
 To learn more about the different quiz modes, click 
 <a target="_blank" href="/teacher-user-guide/assess/create-quizzes/">here</a>.
-<ul><u>Note</u>:<li>To use LangFA-EL in a quiz, click <strong>Add New</strong> on the Module Editor page, then select <strong>Quiz</strong>. Proceed to Step 2 to continue creating a quiz.</li>
-<li>To use LangFA-EL in a standalone question, click <strong>Add New</strong> on the Module Editor page then select <strong>Activity</strong>. Proceed to Step 3 to continue creating a standalone question.</li></ul></li>
-<li>After selecting <strong>Quiz</strong>, you will see that the default Quiz Mode is Progressive Quiz. You can change the Quiz Mode, add Description and Instructions to students by clicking on the Quiz Component. To add a question, click + on the Collapsed Activity List.</li>
+<ul><u>Note</u>:<li>To use AFA in a standalone question, click <strong>Add New</strong> on the Module Editor page, then select <strong>Activity</strong>. Proceed to Step 3 to continue creating a standalone question.</li></ul>
+	
+2. After selecting **Quiz**, you will see that the default Quiz Mode is Progressive Quiz. You can change the Quiz Mode, add Description and Instructions to students by clicking on the Quiz Component. To add a question, click **+** on the Collapsed Activity List. </li>
+
 	<img alt="(C1,ii) Add Language Feedback Assistant for English (LangFA-EL)" src="/images/2Teacher/AS_SAFA2.png" style="width: 100%;">
-<li><p>Select <strong>Language Feedback Assistant for English</strong> under <strong>Free-Response Questions</strong> from the Component Bar. The Create New Question subpage will open.
+<li><p>Select <strong>Annotated Feedback Assistant</strong> under <strong>Free-Response Questions</strong> from the Component Bar. The Create New Question subpage will open.
 </p>
 <ul>
 <li><p>Alternatively, you can choose Default Free-Response then click the checkbox next to <strong>Use</strong> and select <strong>Language Feedback Assistant for English</strong>.</p>
