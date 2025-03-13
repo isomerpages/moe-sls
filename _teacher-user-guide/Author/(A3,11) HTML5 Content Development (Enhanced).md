@@ -112,6 +112,7 @@ variant: markdown
     <li>In the Module Editor page, hover over Question in the Component Bar, select <strong>Free-Response</strong> followed by <strong>Interactive Response.</strong></li>
     <li>Upload the HTM5 ZIP file into SLS and select <strong>Upload</strong> to proceed.</li>
 <h2><strong>Supported Scenarios for Creating Interactive Response</strong></h2></ol>
+<p><u>Important:</u> From Mar 2025 Update, teachers can set Interactive Response Questions (IRQs) to automatically return marks in rubrics by uploading corresponding HTML5 file to the Free-Response Question and setting up the rubrics to be used. Teachers can also set up IRQs that return teacher comments to students after their attempt.</p>
 You may download the HTML5 ZIP files based on the scenarios to create FRQ with Interactive Response.
 <table class="simple-table">
   <tbody>
