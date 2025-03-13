@@ -18,6 +18,7 @@ variant: markdown
 <p><strong>Collectibles</strong> - There are two types of Collectibles:</p>
 <ul><li>Achievement - Achievements can be used to reward your students as the module progresses.</li>
 	<li>Avatar - Avatars can be characters or items awarded to your students. Your students can replace their SLS Avatar within the Module with these avatars.</li>
+		<li>Digital Badges - Digital badges are special badges awarded to students and teachers’ profile for completing self-study modules from MOE Library. Students may view their digital badges on their profile page.</li>
 </ul>
 <p>Did You Know?</p>
 <p>Gamified Modules are indicated with the Gamification icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Game.svg"> on Assignment/Assessment card.</p>
@@ -40,7 +41,7 @@ variant: markdown
 </li>
 <li>Under the <strong>XP and Level</strong> tab, you will be able to view the Experience Point (XP) Modifiers, which were determined when designing the game. Click <a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">here</a> to find out how you can edit them.</li>
 <li>Under the <strong>Game Story</strong> tab, you will be able to view the Awarded Game Story. Click <strong>Preview</strong> to read the Game Story.</li>
-<li><p>Under the <strong>Collectibles </strong>tab, you will be able to view <strong>Achievements</strong> and <strong>Avatars </strong>under the respective tabs. You can also filter Collectibles by status with the dropdown list. Click <strong>Preview </strong>to read the Achievement.</p></li>
+<li><p>Under the <strong>Collectibles </strong>tab, you will be able to view <strong>Achievements</strong> and <strong>Avatars </strong> and <strong> Digital Badges</strong> under the respective tabs. You can also filter Collectibles by status with the dropdown list. Click <strong>Preview </strong>to read the Achievement.</p></li>
 <li>Under the <strong>Team Members</strong> tab (only if Game Team is enabled), you will be able to see all the students present in the same Game Team as the selected student. </li>
 <li>Click <strong>X</strong> to close the subpage and return to the Monitor Assignment page.</li>
 </ol>
