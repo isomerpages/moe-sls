@@ -9,34 +9,40 @@ variant: markdown
 <h1 id="-2-game-stories-and-collectibles-">(A2) Game Stories and Collectibles</h1><hr>
 <h2 id="add-a-game-story">Add a Game Story</h2>
 <hr>
+<p>Game stories can be used to drive the narrative of a story and character development as the Module progresses.</p>
 <p>On the Gamification subpage, select the <strong>Game Story</strong> tab:</p>
 <ol>
 <li>You may view Game Stories with or without conditions by clicking the <strong>Condition</strong> dropdown list.</li>
 <li>To create a Game Story, click <strong>Add Game Story</strong>. You will need to enter the following details:<ol style="list-style-type: lower-roman;">
 <ol style="list-style-type: lower-alpha;">
-<li><strong>Title</strong> - The game story title will be pre-filled for you as “Untitled Game Story”. Change the Title to one that is concise and unique to help you identify the Game Story.</li>
-<li><strong>Description</strong> - The description allows you to describe the story, up to a character limit of 2000 characters.</li>
-<li><strong>Image</strong> - This image will be visible as a prompt for the student when they fulfill the required conditions for the Game Story. If left empty, a default Game Story icon will be populated for you.</li>
-<li><strong>Game Branches (Optional)</strong> (New in R20) - Select Game Choices or Short Response Text and click Add Branch.</li>	
+	<li><strong>Game Story Audio (NEW)</strong> - Teacher can choose to add audio to all game stories. To add game story audio, click the toggle for Loop Audio. You may use the default audio or upload your own custom audio.
+<p><img alt="Game Stories and Collectibles" style="width: 80%;" src="/images/2Teacher/GAM_GS1.png"></p>
+	
+</li><li><strong>Title</strong> - The game story title will be pre-filled for you as “Untitled Game Story”. Change the Title to one that is concise and unique to help you identify the Game Story.</li>
+<li><strong>Description</strong> - The description allows you to describe the story, up to a character limit of 2000 characters. You can upload a Audio/Video file in the description field.</li>
+<li><strong>Image</strong> - This image will be visible as a prompt for the student when they fulfill the required conditions for the Game Story. If left empty, a default Game Story icon will be populated for you. You can hide image when it is awarded.
+	<p><u>Note:</u> Images for game story prompts will be uploaded with 16:9 aspect ratio.</p></li>
+<li><strong>Game Branches (Optional)</strong> - Select Game Choices or Short Response Text and click Add Branch.</li>	
 <ol style="list-style-type: lower-roman;">
 <li>Game Choice - Enter an option in each branch. To add more branches, click <b>Add Branch</b>. Each branch is an option for students to select when they are awarded the Game Story. </li>
 <li>Short Response Text - Enter all acceptable answers in Branch A. All other responses provided by students when they are awarded the Game Story will direct them to Branch (All Other Response).</li>
 </ol>
 </ol>
 <li>Click Create to proceed.</li>
-<p><img alt="Game Stories and Collectibles" style="width: 80%;" src="/images/2Teacher/G-GameStory1.png"></p>
-<li>After creating a Game Story, you may click <a target="_blank" href="/teacher-user-guide/gamify/add-conditions-to-game-story-or-collectibles/">Add Conditions</a> to determine when the Game Story will appear during the module. All Game Stories are hidden by default until they are awarded to the students.</li>
-<li>To add, reorder, or delete a Game Story, click the <b>Overflow</b> (<b>3-dot</b> icon) on the Game Story card and select the respective options. </li>
+<p><img alt="Game Stories and Collectibles" style="width: 80%;" src="/images/2Teacher/GAM_GS2.png"></p>
+<li>After creating a game story, you may click <a target="_blank" href="/teacher-user-guide/gamify/add-conditions-to-game-story-or-collectibles/">Add Conditions</a> to determine when the game story will appear during the module. All game stories are hidden by default until they are awarded to the students.</li>
+<li>To add, reorder, or delete a game story, click the <b>Overflow</b> (<b>3-dot</b> icon) on the Game Story card and select the respective options. </li>
 </ol>
 <h2>Add a Collectible</h2>
 <hr>
 <p>On the Gamification subpage, select the Collectibles tab:</p>
 <ol>
 <li>
-<p>You will find two types of Collectibles:</p>
+<p>You will find three types of Collectibles:</p>
 <ol style="list-style-type: lower-alpha;">
 <li><strong>Achievement</strong> - Achievements awarded to students will be displayed on the leaderboard.</li>
 <li><strong>Avatar</strong> - Avatar awarded to students can be used to replace their SLS Avatar within the Module.</li>
+	<li><strong>Digital Badges</strong> - Digital badges are special badges awarded to one’s profile for completing self-study modules from MOE Library. Students and teachers may view their digital badges on their profile page.</li>
 </ol>
 </li>
 <li>
@@ -49,13 +55,13 @@ variant: markdown
 <p><strong>Collectible Type</strong> - The two collectible types are Achievement and Avatar. Choose one that best suits your need.</p>
 </li>
 <li>
-<p><strong>Title</strong> - The achievement title will be pre-filled for you as “Untitled Achievement”. Change the Title to one that is concise and unique to help you identify the Achievement.</p>
+<p><strong>Title</strong> - The achievement title will be pre-filled for you as “Untitled Achievement”. Change the title to one that is concise and unique to help you identify the achievement.</p>
 </li>
 <li>
-<p><strong>Description</strong> - The description allows you to describe the Achievement and write congratulatory messages, up to a character limit of 2000 characters.</p>
+<p><strong>Description</strong> - The description allows you to describe the achievement and write congratulatory messages, up to a character limit of 2000 characters.</p>
 </li>
 <li>
-<p><strong>Icon</strong> - This icon will be visible as a prompt for the student when they achieve the required conditions for this Achievement and as an icon for this Achievement on the Leaderboard. If left empty, a default Achievement icon will be populated for you.</p>
+<p><strong>Icon</strong> - This icon will be visible as a prompt for the student when they achieve the required conditions for this achievement and as an icon for this achievement on the Leaderboard. If left empty, a default achievement icon will be populated for you.</p>
 </li>
 <li>
 <p>Collectible Settings:</p>
