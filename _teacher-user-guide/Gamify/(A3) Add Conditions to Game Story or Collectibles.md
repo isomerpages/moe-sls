@@ -6,8 +6,8 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Gamify
 ---
-<h1>(A3) Add Conditions to Game Story or Collectibles</h1><hr>
-<p>Conditions help determine when your Game Stories and Collectibles appear during the module. Game Stories and Collectibles will appear after the conditions have been fulfilled. Game Stories and Collectibles with no Conditions will not appear but can be awarded to students manually. To find out how to award Game Stories and Collectibles manually, click <a target="_blank" href="/teacher-user-guide/gamify/award-xp-game-story-and-achievements-manually/">Add Conditions</a>.</p>
+<h1>(A3) Add Conditions to Game Story or Collectibles (Enhanced)</h1><hr>
+<p>Conditions help determine when your Game Stories and Collectibles appear during the module. Game Stories and Collectibles will appear after the conditions have been fulfilled. Game Stories and Collectibles with no Conditions will not appear but can be awarded to students manually. </p>
 <h2>Types of Game Story and Collectible Conditions</h2>
 <hr>
 <p>Conditions that can be added are included in the table below:</p>
@@ -138,3 +138,5 @@ third_nav_title: Gamify
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R20 Add Collectibles, Conditions and Branches" src="https://www.youtube.com/embed/uhbDaE2w-sc" height="100%" width="100%"></iframe>
 </div>
+
+<p>(From March 2025 update, there are 3 types of collectibles: Achievements, Avatars, Digital Badges. Note: Digital badges are special badges awarded to students and teachers’ profile for completing self-study modules from MOE Library.)</p>
