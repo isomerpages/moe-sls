@@ -52,6 +52,7 @@ variant: markdown
 <li><p>Suggested Answer - The suggested answer to the question. This is shown to students after they have submitted their answers.</p>
 </li>
 <li>Feedback - The explanation to the question's answer(s). This is shown to students after they have submitted their answers.</li>
+	<p><u>Note:</u> From March 2025 Update, you can also edit certain fields, such as the Suggested Answer and Feedback fields, after the module has been assigned and students have started attempting the question.</p>
 <li><p>Marks - You can set the number of marks. The default is one mark.</p>
 </li>
 <li><p>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> for editing the Question Component Details card.</p>
