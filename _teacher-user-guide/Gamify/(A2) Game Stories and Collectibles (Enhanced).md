@@ -72,7 +72,7 @@ variant: markdown
 </ol>
 </li>
 <li>
-<p><strong>Game Branches (Optional)&nbsp;</strong>(New in R20) - Select Game Choices or Short Response Text and click <strong>Add Branch</strong>.</p>
+<p><strong>Game Branches (Optional)&nbsp;</strong> - Select Game Choices or Short Response Text and click <strong>Add Branch</strong>.</p>
 <ol style="list-style-type: lower-roman;">
 <li>Game Choice - Enter an option in each branch. To add more branches, click <strong>Add Branch</strong>. Each branch is an option for students to select when they are awarded the Game Story.</li>
 <li>Short Response Text - Enter all acceptable answers in Branch A. All other responses provided by students when they are awarded the Game Story will direct them to Branch (All Other Response).</li>
@@ -81,7 +81,7 @@ variant: markdown
 </ol>
 </li>
 <li>
-<img alt="Game Stories and Collectibles" style="width: 80%;" src="/images/2Teacher/G-GameStory2.png">
+<img alt="Game Stories and Collectibles" style="width: 80%;" src="/images/2Teacher/GAM_GS3.png">
 <p>Click <strong>Create</strong> to proceed.</p>
 </li>
 <li>
