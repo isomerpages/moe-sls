@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="edit-modules-">(B1,ii) Edit Modules</h1><hr>
+<h1 id="edit-modules-">(B1,ii) Edit Modules (Enhanced)</h1><hr>
 <h2 id="-module-editor-page-">Module Editor Page</h2>
 <hr>
 <p>You can edit Modules that you have created or copied, as well as Modules that were shared with you with editing permissions.</p>
