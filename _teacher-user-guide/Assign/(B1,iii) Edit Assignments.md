@@ -6,7 +6,7 @@ third_nav_title: Assign
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="edit-assignments">(B1,iii) Edit Assignments</h1><hr>
+<h1 id="edit-assignments">(B1,iii) Edit Assignments (Enhanced)</h1><hr>
 <h2 id="-edit-an-assignment-in-progress-">Edit an Assignment in Progress</h2>
 <hr>
 <p>Important: From March 2025 Update, edits made to a linked assignment will be applied to all other linked assignments in class groups.</p>
