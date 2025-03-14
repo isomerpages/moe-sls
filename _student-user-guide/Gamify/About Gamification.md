@@ -19,7 +19,18 @@ variant: markdown
 	</p><ul>
 		<li><strong>Achievements</strong> - These are rewards awarded to you as you progress in the module.</li>
 		<li><strong>Avatar</strong> - These are characters or items awarded to you. You may replace your SLS avatar with avatars you obtained as you progress in the module.</li>
+	<li><strong>Digital Badges</strong> - These special badges created by the authors of MOE Library modules, can be awarded to your profile once you meet the specified conditions while completing these modules.</li>
 		</ul>		
 <img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> <u>Did You Know</u>:
 <p>Gamified Modules are indicated with the Gamification icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Game.svg"> on Assignment cards.</p>
  <img alt="About Gamification" style="width: 50%;" src="/images/1Student/G-AboutGamification1.png">
+ 
+ <p><strong>View Digital Badges</strong>
+	</p><li>You can locate your Digital Badges by clicking on your avatar at the top corner.</li>
+	 <img alt="About Gamification" style="width: 50%;" src="/images/1Student/GAM_STU1.png">
+	 <img alt="About Gamification" style="width: 50%;" src="/images/1Student/GAM_STU2.png">
+	<li>You can view your classmate’s Digital Badges by going to a Class Group and clicking View Members.</li>
+		 <img alt="About Gamification" style="width: 50%;" src="/images/1Student/GAM_STU3.png">
+	<li>Click on your classmate's avatar.</li>
+	 <img alt="About Gamification" style="width: 50%;" src="/images/1Student/GAM_STU4.png">
+	 <img alt="About Gamification" style="width: 50%;" src="/images/1Student/GAM_STU5.png">
