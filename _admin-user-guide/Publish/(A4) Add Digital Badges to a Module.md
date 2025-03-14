@@ -19,6 +19,9 @@ badges to MOE Library resources.</p>
 <p>Open the left menu and select <strong>Administration</strong>, followed
 by <strong>Manage Module.</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/Pu_ManageModule1.jpg">
+</div>
 </li>
 <li>
 <p>Open the resource for a digital badge to be added. Unpublish the Resource
@@ -30,12 +33,18 @@ by clicking the&nbsp;<strong>Unpublish</strong>&nbsp;icon.</p>
 <li>
 <p>Turn on <strong>Gamification</strong>. Go to <strong>Collectibles</strong> tab
 and click <strong>add Collectible</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/Pu_ManageModule2.jpg">
+</div>
 </li>
 <li>
 <p>Under Collectible Type, select <strong>Digital Badge</strong> and upload
 an image of the digital badge. Key in the Title and Description of the
 digital badge. Select the Collectible settings and add Game Branches if
 applicable. Click <strong>Create</strong> to proceed.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/Pu_ManageModule3.jpg">
+</div>
 </li>
 </ol>
 <h2>Award Digital Badges Manually</h2>
@@ -45,12 +54,18 @@ applicable. Click <strong>Create</strong> to proceed.</p>
 <p>Open the left menu and select <strong>Administration</strong>, followed
 by <strong>Manage Digital Badges</strong>. All digital badges can be found
 here.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/Pu_ManageModule4.jpg">
+</div>
 </li>
 <li>
 <p>Select the digital badge, click the <strong>Overflow</strong> (3-dot icon)
 and select <strong>Award</strong>. Check the names of teachers and students
 and click <strong>Award</strong> to proceed with assigning the digital badge
 to the selected recipients.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/Pu_ManageModule5.jpg">
+</div>
 </li>
 </ol>
 <h3>View Digital Badges (for teachers and students)</h3>
@@ -61,6 +76,10 @@ to the selected recipients.</p>
 </li>
 <li>
 <p>On your Profile page, you will be able to view all your digital badges.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/Pu_ViewDigitalBadges1.jpg">
+</div>
 </li>
 </ol>
 <p><u>Note:</u> CAs and COs will not be able to view the list of teachers
