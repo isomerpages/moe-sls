@@ -7,7 +7,6 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="speech-evaluation-">(A3,13) Speech Evaluation Tool</h1><hr>
-<p>English Language Speech Evaluation is available.</p>
 <h2 id="enable-speech-evaluation">Enable Speech Evaluation</h2>
 <hr>
 <ol>
@@ -30,7 +29,7 @@ variant: markdown
 </li>
 <li><p>If there are no further changes to the question, click <strong>Save</strong>.</p>
 </li>
-	<p><u>Note</u>: From R1, an audio recording of the text for speech evaluation will be automatically created under the Suggested Answer tab.</p>
+	<p><u>Note</u>: An audio recording of the text for speech evaluation will be automatically created under the Suggested Answer tab.</p>
 </ol>
 <h2>View Speech Evaluation Feedback</h2>
 <hr>
@@ -51,6 +50,6 @@ variant: markdown
 <hr>
 <ul>
 <li>In a Teacher-Marked Quiz, you can edit the suggested marks returned by the Speech Evaluation tool, if needed.</li>
-<li>If you unsubmit a student’s response, they will be need to delete their audio response in order to reattempt the question.</li>
+<li>If you unsubmit a student’s response, they will need to delete their audio response in order to reattempt the question.</li>
 <p><u>Note</u>: Their transcript and error annotations will also be removed if their audio response is deleted.</p>
 </ul>
