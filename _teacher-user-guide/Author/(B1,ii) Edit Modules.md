@@ -37,3 +37,11 @@ variant: markdown
 </li><li>Other Information - Location, Created by, Last Edited by and Keyword Tags
 		</li></ul>
 	</li><li>Click <b>Edit</b> to enter the Module Editor page.</li></ol><img style="width: 80%;" src="/images/2Teacher/AU_EditLessons1.png">
+
+<h2 id="-module-credited-to-collaborators--">Module Credited to Collaborators</h2>
+<hr>
+<p>From March 2025 update, collaborators who have edited the module will be automatically credited and their names can be viewed under <strong>Module Details</strong>.</p>
+<p><u>Note:</u> When collaborators edit assignments, they will also be automatically credited.</p>
+<ol>
+<li>To manually add the names of collaborators, click <strong>Edit</strong> to enter the Module Editor page.</li>
+	<li>Click the <strong>Settings</strong> icon&nbsp;<img style="width:1.5rem; display: inline;" src="/images/Icons/setting.svg">, followed by <strong>Edit</strong> or <strong>Add Teachers</strong> to credit teachers who have contributed to the module.</li></ol>
