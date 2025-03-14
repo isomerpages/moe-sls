@@ -81,7 +81,7 @@ variant: markdown
 </ol>
 </li>
 <li>
-<img alt="Game Stories and Collectibles" style="width: 80%;" src="/images/2Teacher/GAM_GS3.png">
+<img alt="Game Stories and Collectibles" style="width: 80%;" src="/images/2Teacher/GAM_GS3.jpg">
 <p>Click <strong>Create</strong> to proceed.</p>
 </li>
 <li>
