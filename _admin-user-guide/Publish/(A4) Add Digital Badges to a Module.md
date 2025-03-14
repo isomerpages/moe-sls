@@ -78,7 +78,7 @@ to the selected recipients.</p>
 <p>On your Profile page, you will be able to view all your digital badges.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/Pu_ViewDigitalBadges1.jpg">
+<img style="width: 80%" height="auto" width="80%" alt="" src="/images/5Admin/Pu_ViewDigitalBadges1.jpg">
 </div>
 </li>
 </ol>
