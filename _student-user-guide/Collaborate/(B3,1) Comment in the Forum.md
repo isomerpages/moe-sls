@@ -6,8 +6,11 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-3a-comment-in-the-forum">(B3,1) Comment in the Forum</h1><hr>
-<h2 id="commenting-on-a-post">Commenting on a Post</h2>
+<h1 id="-3a-comment-in-the-forum">(B3,1) View and Respond in the Forum (Enhanced)</h1><hr>
+<h2 id="view-posts">View Posts</h2>
+<hr>
+<p>From March 2025 Update, you may choose to sort posts by clicking on the dropdown arrow next to Sort By.</p>
+<h2 id="respond-to-a-post">Respond to a Post</h2>
 <hr>
 <ol>
 <li>Click on a <strong>Post card</strong> to open the <strong>View Post</strong> subpage.</li>
@@ -19,5 +22,7 @@ variant: markdown
 </li>
 <li><p>You may <strong>Edit</strong> or <strong>Delete</strong> your comment by selecting the options in the <strong>Overflow</strong> (<strong>3-dot</strong> icon).</p>
 </li>
-</ol>
 <img alt="Comment in the Forum" style="width: 100%;" src="/images/1Student/CO-CommentForum1.png">
+<li> You may also upvote posts in the forum by clicking on the Upvote icon <img style="width:1.5rem; display: inline;" src="/images/Icons/upvote.svg"> on the Post card.</li>
+<img alt="Comment in the Forum" style="width: 100%;" src="/images/1Student/C_UpvoteForum.png">
+</ol>
