@@ -14,7 +14,7 @@ variant: markdown
 <li>Select the Module you wish to introduce Gamification to. Click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> to enter Module Editor page.</li>
 <li>In the Module Editor page, open the right menu and click <strong>Manage Gamification Settings</strong> to open the Gamification subpage. </li>
 <li><p>Click the toggle on the top-right corner of the subpage to turn on Gamification. </p>
-<p> <img alt="Manage Gamification Settings" style="width: 80%;" src="/images/2Teacher/GAM_GS4.png"></p>
+<p> <img alt="Manage Gamification Settings" style="width: 80%;" src="/images/2Teacher/GAM_GS4.jpg"></p>
 </li>
 <li><p>In the <strong>Details</strong> tab, fill in the following details:</p>
 <ol style="list-style-type: lower-alpha;">
