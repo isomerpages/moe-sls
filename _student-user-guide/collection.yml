@@ -2,13 +2,6 @@ collections:
   student-user-guide:
     output: true
     order:
-      - Authenticate/Authentication.md
-      - Authenticate/How to Log In (Student).md
-      - Authenticate/Reset SLS Password (Student).md
-      - Authenticate/Forgot SLS Username.md
-      - Authenticate/Unsuccessful Password Reset Attempts.md
-      - Authenticate/Unlock Account.md
-      - Authenticate/.keep
       - Explore SLS Functions.md
       - Assess/.keep
       - Assess/Assess.md
@@ -51,6 +44,13 @@ collections:
       - Assign/Assign.md
       - Assign/About Assignments.md
       - Assign/(A1) Access Assignments.md
+      - Authenticate/.keep
+      - Authenticate/Authentication.md
+      - Authenticate/How to Log In (Student).md
+      - Authenticate/Reset SLS Password (Student).md
+      - Authenticate/Forgot SLS Username.md
+      - Authenticate/Unsuccessful Password Reset Attempts.md
+      - Authenticate/Unlock Account.md
       - Collaborate/.keep
       - Collaborate/Collaborate.md
       - Collaborate/About Assignment Sharing.md
@@ -107,8 +107,8 @@ collections:
       - Plan/Plan.md
       - Plan/(A1) Access Planner.md
       - Plan/(A2) Create a New Event.md
-      - Self Study/Access Learning Assistant in Discussion Component (New).md
       - Self Study/.keep
+      - Self Study/Access Learning Assistant in Discussion Component (New).md
       - Self Study/Self Study.md
       - Self Study/About Adaptive Learning System.md
       - Self Study/(A1) Access Adaptive Learning System (Enhanced).md
