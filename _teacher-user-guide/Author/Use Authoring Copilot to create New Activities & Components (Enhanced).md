@@ -50,22 +50,22 @@ Click the <b>Up/Down</b> arrows to set the Section/ Activity Duration in the Mod
 </li>
 <img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 80%;" src="/images/2Teacher/AU_ACPComponent13.png">
 <p>If no details are provided, Authoring Copilot will generate Activities and Components  based on the curriculum. For more tailored results, you can start broad and add specifics when regenerating.</p>
-<li>You can add a knowledge base by clicking the checkbox next to Use Knowledge Base, followed by clicking <b>Add Knowledge Base</b>.</li>
+<li>You can add a Knowledge Base by clicking the checkbox next to Use Knowledge Base, followed by clicking <b>Add Knowledge Base</b>.</li>
+	<img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 80%;" src="/images/2Teacher/AU_ACPComponent14.png">
+<li>You can upload up to 20 Knowledge Bases that can comprise text, PDFs or images. These These Knowledge Bases can be used when generating sections, activities/quizzes and components in a module. Knowledge Base Titles should be entered to organise your Knowledge Bases so that you can easily find and append the relevant Knowledge Base(s) for different activities in a module, e.g. Reading 1 for Activity 1, Chapter 2 Notes for Activity 2, etc.</li>
+<li>To add PDF or images, click <strong>Add Media</strong>, and <strong>Upload File</strong>.</li>
+	<img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 80%;" src="/images/2Teacher/AU_ACP_KB2.png">
 <u>Note</u>:
-<ul><li>Adding a knowledge base will anchor the generation of content by Authoring Copilot to information which can be added by teachers, e.g. a syllabus document, a comprehension passage or an excerpt from MOE’s interactive digital textbooks.</li>
+<ul><li>Adding a Knowledge Base will anchor the generation of content by Authoring Copilot to information which can be added by teachers, e.g. a syllabus document, a comprehension passage or an excerpt from MOE’s interactive digital textbooks. It is recommended to upload specific PDF segments to improve the precision of generated content. Please ensure all uploaded materials comply with copyright laws, using only legally permitted content, properly licensed resources, or materials with explicit permissions. You may refer to <a target="_blank" href="https://www.learning.moe.edu.sg/terms-of-use/">this link</a> for more details.</li>
 <li>The Knowledge Base added to the Section would appear as the Knowledge Base for activities in the Section. Teachers can enter each activity and uncheck the checkbox if they do not wish to use the Knowledge Base for that particular activity.</li> 
-<li>Currently in R2 (Nov 2024), the knowledge base can only take in plain text input.</li>
-	<li>A maximum of 100 000 characters can be input into this field.</li>
-<img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 80%;" src="/images/2Teacher/AU_ACPComponent14.png"></ul>
-<li>Add the knowledge base into the field and click <b>Add</b>.</li>
-<img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/AU_ACPComponent15.png">
-<li>Review the Suggested Section/Activity Plan. Click the checkbox next to <strong>Split into pages</strong> (only for Activity Plan) if you want the content to be populated across different pages. Click <strong>Add</strong> to autogenerate the selected content.</li>
+
+<ol start="11"><li>Review the Suggested Section/Activity Plan. Click the checkbox next to <strong>Split into pages</strong> (only for Activity Plan) if you want the content to be populated across different pages. Click <strong>Add</strong> to autogenerate the selected content.</li>
 <li>You can edit the Section and Activities/ Activities and Components generated in the Module Editor page, as you would for a normal module.</li>
 <li>To regenerate the Section and Activities, click <strong>Back to Generate Section</strong> to edit the Section Details and regenerate the Activities. Alternatively, you can regenerate the Section and Activities by clicking the <b>orange Regenerate</b> icon <img alt="ACP Regenerate" style="width:1.5rem; display: inline;" src="/images/Icons/ACPRegenerate.svg"> on the respective cards to reopen Authoring Copilot. Newly generated Activities will be appended to the end of the existing set of Activities.</li>
 <img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/AU_ACPComponent16.png">	
-<li>From R2 (Nov 2024), you can regenerate any component. Click on the <b>orange Regenerate</b> icon <img alt="ACP Regenerate" style="width:1.5rem; display: inline;" src="/images/Icons/ACPRegenerate.svg"> on the question card, and it will show the original component. Click the <strong>Up/Down</strong> arrows to set the Number of Components and select the Component Types that you want to regenerate the original component to. Click <strong>Create.</strong></li>
+<li>You can regenerate any component. Click on the <b>orange Regenerate</b> icon <img alt="ACP Regenerate" style="width:1.5rem; display: inline;" src="/images/Icons/ACPRegenerate.svg"> on the question card, and it will show the original component. Click the <strong>Up/Down</strong> arrows to set the Number of Components and select the Component Types that you want to regenerate the original component to. Click <strong>Create.</strong></li>
 <li>Authoring Copilot will show the original component and the newly regenerated component types. Click <strong>Add</strong>. Authoring Copilot will add these new components into the activity.</li>
 <img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/AU_ACPComponent17.png">
 <br>
 <img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/AU_ACPComponent18.png">
-<u>Note</u>: From R2 (Nov 2024), Authoring Copilot can generate Suggested Answers for Free Response Questions. You can enable <b>ShortAnsFA</b> and edit the Suggested Answer (if required) and mark allocation in Free-Response questions for immediate feedback.</ol>
+<u>Note</u>: Authoring Copilot can generate Suggested Answers for Free Response Questions. You can enable <b>ShortAnsFA</b> and edit the Suggested Answer (if required) and mark allocation in Free-Response questions for immediate feedback.</ol></ul></ol>
