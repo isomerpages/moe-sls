@@ -20,7 +20,7 @@ badges to MOE Library resources.</p>
 by <strong>Manage Module.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/Pu_ManageModule1.jpg">
+<img style="width: 80%" height="auto" width="80%" alt="" src="/images/5Admin/Pu_ManageModule1.jpg">
 </div>
 </li>
 <li>
@@ -34,7 +34,7 @@ by clicking the&nbsp;<strong>Unpublish</strong>&nbsp;icon.</p>
 <p>Turn on <strong>Gamification</strong>. Go to <strong>Collectibles</strong> tab
 and click <strong>add Collectible</strong>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/Pu_ManageModule2.jpg">
+<img style="width: 100%" height="auto" width="80%" alt="" src="/images/5Admin/Pu_ManageModule2.jpg">
 </div>
 </li>
 <li>
@@ -43,7 +43,7 @@ an image of the digital badge. Key in the Title and Description of the
 digital badge. Select the Collectible settings and add Game Branches if
 applicable. Click <strong>Create</strong> to proceed.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/Pu_ManageModule3.jpg">
+<img style="width: 50%" height="auto" width="100%" alt="" src="/images/5Admin/Pu_ManageModule3.jpg">
 </div>
 </li>
 </ol>
@@ -55,7 +55,7 @@ applicable. Click <strong>Create</strong> to proceed.</p>
 by <strong>Manage Digital Badges</strong>. All digital badges can be found
 here.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/Pu_ManageModule4.jpg">
+<img style="width: 80%" height="auto" width="80%" alt="" src="/images/5Admin/Pu_ManageModule4.jpg">
 </div>
 </li>
 <li>
@@ -64,7 +64,7 @@ and select <strong>Award</strong>. Check the names of teachers and students
 and click <strong>Award</strong> to proceed with assigning the digital badge
 to the selected recipients.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/Pu_ManageModule5.jpg">
+<img style="width: 80%" height="auto" width="80%" alt="" src="/images/5Admin/Pu_ManageModule5.jpg">
 </div>
 </li>
 </ol>
