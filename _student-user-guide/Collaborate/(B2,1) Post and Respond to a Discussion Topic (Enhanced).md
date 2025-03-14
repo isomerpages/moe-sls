@@ -33,5 +33,7 @@ variant: markdown
 <ol>
 	<li>Click the <strong>Response card</strong>, followed by <strong>Add</strong>&nbsp;on the bottom right.
 	</li><li>After typing in your comment, click&nbsp;<strong>Post</strong>.</li>
-<li>You can Edit or Delete your response by clicking on the <strong>Overflow</strong> (<strong>3-dot</strong> icon).
-	</li><li>You may choose to upvote responses by clicking on the <strong>Upvote</strong>icon on the Response Card.</li></ol>
+<li>You can Edit or Delete your response by clicking on the <strong>Overflow</strong> (<strong>3-dot</strong> icon).</li>
+	<li>You may choose to upvote responses by clicking on the <strong>Upvote</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/upvote.svg"> on the Response Card.</li>
+</ol>
+<img alt="Comment in the Forum" style="width: 100%;" src="/images/1Student/C_UpvoteForum.png">
