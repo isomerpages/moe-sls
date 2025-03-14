@@ -31,3 +31,17 @@ variant: markdown
 	<li>In dropdown fields involving Class Groups (e.g. when viewing Class Group Notifications, when accessing the Planner), pinned Class Groups will appear above unpinned Class Groups.</li>
 	<li>On the Planner page, Events from pinned Class Groups will appear by default.</li>
 </ul></li></ol>
+
+<h2>Request to Join a Class Group (Enhanced)</h2>
+<hr>
+<ol>
+    <li>Students can send a request to join a Class Group, by accessing the Class Group URL, which has been shared by another teacher or student.
+<br>			
+<p><u>Note</u>: The owner/co-teacher of the Class Group must have enabled <strong>Allow requests to join Class Group with URL</strong>.</p>    
+ <br> 
+ </li><li>Click <strong>Request to Join. </strong>Students will receive a notification when their requests have been approved.</li>
+
+<img src="/images/1Student/JoinClassGroup4.jpg">
+
+
+ </ol>
