@@ -21,12 +21,12 @@ collections:
       - Notify/.keep
       - Notify/Notify.md
       - Notify/(A1) Manage School Announcements.md
-      - Publish/(A4) Add Digital Badges to a Module.md
       - Publish/.keep
       - Publish/Publish.md
       - Publish/(A1) Create MOE Library Resources.md
       - Publish/(A2) Manage Modules (Enhanced).md
       - Publish/(A3) Manage Media.md
+      - Publish/(A4) Add Digital Badges to a Module.md
       - Publish/(B1,i) Generate CCPM Reports.md
       - Publish/(B1,ii) Manage Owner Groups.md
       - Publish/(B1,iii) Manage Content Maps (Enhanced).md
