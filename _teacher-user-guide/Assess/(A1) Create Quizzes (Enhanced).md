@@ -89,7 +89,7 @@ variant: markdown
 <p><u>Note</u>: If you select the number of pages to assign, the quiz pages will be assigned to students at random.</p>
 <h3>Hide Quiz Marks</h3>
 <hr>
-<p>Check the box next to “Hide quiz marks” to hide quiz scores, rubrics marks and marks for each question from students.</p>
+<p>Check the box next to <strong>Hide quiz marks</strong> to hide quiz scores, rubrics marks and marks for each question from students.</p>
 <h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
