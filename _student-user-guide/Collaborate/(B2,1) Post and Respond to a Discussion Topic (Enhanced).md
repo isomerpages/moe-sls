@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-2a-posting-on-a-discussion-topic-improved-">(B2,1) Posting on a Discussion Topic</h1><hr>
+<h1 id="-2a-posting-on-a-discussion-topic-improved-">(B2,1) Post and Respond to a Discussion Topic</h1><hr>
 <h2 id="creating-a-new-post">Creating a New Post</h2>
 <hr>
 <ol>
@@ -27,3 +27,11 @@ variant: markdown
 </li>
 <li>You can turn off commenting by clicking on the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and <strong>Comment Off</strong>.</li>
 </ol>
+<h2 id="respond-to-a-posts">Respond to a Post</h2>
+<hr>
+<p>To comment on a response</p>
+<ol>
+	<li>Click the <strong>Response card</strong>, followed by <strong>Add</strong>&nbsp;on the bottom right.
+	</li><li>After typing in your comment, click&nbsp;<strong>Post</strong>.</li>
+<li>You can Edit or Delete your response by clicking on the <strong>Overflow</strong> (<strong>3-dot</strong> icon).
+	</li><li>You may choose to upvote responses by clicking on the <strong>Upvote</strong>icon on the Response Card.</li></ol>
