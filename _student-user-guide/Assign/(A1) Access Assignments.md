@@ -24,7 +24,7 @@ variant: markdown
 <li>Assignments that are newly assigned (up to 3 days) will be labelled "New".</li>
 <li>Existing Assignments that have a new section added will be labelled “New Section”.</li>
 <li><p>You can search for assignments by entering the Assignment title in the Search Bar. To refine your search, you may apply the following filters from the dropdown list: </p>
-<p> <img src="/images/1Student/AS-AccessAssignment2.png"></p>
+<p> <img src="/images/1Student/AS_AccessAssignment6.png"></p>
 <ul>
 <li><strong>Assignment Status</strong> - You can choose to view All, Upcoming, In Progress, or Complete.<ul>
 <li>Upcoming refers to Assignments that have yet to start.</li>
@@ -36,10 +36,9 @@ variant: markdown
 </ul>
 </li>
 <li>Click the individual Assignment card to access the Assignment.</li>
-<li><p>You can choose to view your Assignments in Card view <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> or in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg">.</p>
-</li>
+<li>Your assignments will appear in List view <img style="width:1.5rem; display: inline;" src="/images/Icons/List.svg"> by default. You can choose to view your Assignments in Card view&nbsp;by clicking on the <img style="width:1.5rem; display: inline;" src="/images/Icons/Card.png"> icon.</li>
 <li><p>Assignments in List view are sorted according to the latest Start Date. You may also sort the assignments according to the Assignment Title, and Due Date.</p>
-<p><img src="/images/1Student/AS-AccessAssignment3.png"></p>
+<p><img src="/images/1Student/AS_AccessAssignment5.png"></p>
 </li>
 </ol>
 <h2 id="-assignments-for-a-specific-class-group-">Assignments for a Specific Class Group</h2>
