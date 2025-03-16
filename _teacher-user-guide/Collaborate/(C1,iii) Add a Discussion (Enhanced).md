@@ -18,7 +18,8 @@ variant: markdown
 </ul>
 </li>
 <li>After the details are entered, click outside the Discussion box to save your work.</li>
-<li>To hide the names of students, click the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the Discussion card. By default, the names of students will be visible. To hide the names of students, select the checkbox “Hide Names”. Click <strong>Save</strong> followed by <strong>X</strong>.</li>
+<li>To hide the names of students, click the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the Discussion card. By default, the names of students will be visible. To hide the names of students, select the checkbox “Hide Names”. Click <strong>Save</strong> followed by <strong>X</strong>.</li><li>To enable upvoting of discussion posts, click the&nbsp;<strong>Settings</strong>&nbsp;icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg">on the Discussion card and select the checkbox “Allow Voting”. Click&nbsp;<strong>Save</strong> followed by <strong>X</strong>.</li>
+	
 <li>When students' names are hidden, they will appear as Anonymous on the Interaction Board. Students will only see their own names.</li>
 <li>To edit a Discussion, hover your mouse over the Discussion and click the component, or the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">. </li>
 <li>To delete your Discussion, click the <strong>Delete</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">.</li>
@@ -29,13 +30,24 @@ variant: markdown
 <p>When you Preview as Student or assign a Discussion to students, students will be able to create Posts in response to the question.</p>
 <h2>View Discussion</h2>
 <hr>
-<p>You can view and comment on your students’ responses by clicking <strong>View Discussion</strong>.</p>
+<p>There are two ways you can view and comment on your students’ responses in a Discussion</p>
+<ol>
+	<li>From the Discussion page, click <strong>View Class Submission</strong>.
+	</li><li>From the Monitor Assignment page, click <strong>View Responses</strong> under the component in the heatmap.
+		<p><u>Note:</u> To sort your students’ responses, click the dropdown arrow next to <strong>Sort By</strong>.</p></li>
+
 <h2>View Comments</h2>
 <hr>
 <p>To view comments on any response, click on the <b>Response card</b>.</p>
 <p>All the comments will be shown in the order of time posted, with the most recent post at the bottom. The number of comments is shown in parenthesis.</p>
 <p> Click the <strong>Refresh</strong> button at the top left-hand corner to update responses.</p>
-<h2>Comment on Students’ Responses</h2>
+<h2>Respond to Students’ Responses</h2>
+<hr>
+<p></p><u>Note:</u> From Mar 2025 Update, students and teachers may choose to upvote students’ responses by clicking on the <strong>Upvote</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/upvote.svg"> on the <strong>Response Card</strong>.
+
+<p><img alt="Add a Discussion" style="width: 80%;" src="/images/2Teacher/C_AddDiscussion.png"></p>
+<h2 id="-upvote-discussion-">
+	Preview as Student</h2>
 <hr>
 <p>To comment on one of your student's responses,</p>
 <ol>
@@ -58,4 +70,4 @@ variant: markdown
     <li>
         <p>If you wish to notify students of the comment, select the <strong>Notify student(s)</strong> checkbox.</p>
     </li>
-</ol>
+</ol></ol>
