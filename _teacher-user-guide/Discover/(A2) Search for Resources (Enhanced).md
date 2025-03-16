@@ -74,7 +74,7 @@ variant: markdown
 <h2>View Search Results</h2>
 <hr>
 <ol>
-<li>You can sort the resources by&nbsp;<em>Relevance </em>to your search term(s), <em>Popularity</em> (only in Community Gallery or MOE Library), or according to the date of the latest edit.
+<li>You can sort the resources by&nbsp;<em>Relevance </em>to your search term(s), <em>Popularity</em> (only in Community Gallery or MOE Library), or according to the date of the latest edit. In Community Gallery or MOE Library, you can also sort by Popularity or Most Voted.
 </li>
 <img style="width: 100%;" alt="Search for Resources" src="/images/2Teacher/D_Searchresources3.png"><li>Click the <strong>Module card</strong> to view Module Details. In Module Details, you will be able to view the following information:</li>
 <ul>
