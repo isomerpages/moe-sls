@@ -38,6 +38,19 @@ variant: markdown
 <li>Upload a file</li>
 <li>Upload an Audio Recording</li>
 </ol>
+<h2 id="-View-Student-Responses-">View Student Responses</h2>
+<hr>
+<p>There are two ways you can view students’ responses in an Interactive Thinking Tool.</p>
+<ol>
+	<li>Click <strong>View Class Submission</strong> in the activity.</li>
+<li>IFrom the Monitor Assignment page, click <strong>View Responses.</strong></li>
+</ol>
+
+
+
+
+
+
 <h2>View Class Submissions</h2>
 <hr>
 <p>You can view and comment on your students’ responses by clicking <strong>View Class Submissions</strong>.</p>
