@@ -38,7 +38,7 @@ variant: markdown
 </ol>
 <h2 id="-respond-to-a-post-">Respond to a Post</h2>
 <hr>
-<ol><li>From Mar 2025 Update, students and teachers may also upvote students’ posts in the forum by clicking on the <strong>Upvote</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/upvote.svg">on the Post Card.</li><img alt="Post and Comment in the Forum" style="width: 80%;" src="/images/2Teacher/C-upvotepost.png">
+<ol><li>From Mar 2025 Update, students and teachers may also upvote students’ posts in the forum by clicking on the <strong>Upvote</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/upvote.svg">on the Post Card.</li><img alt="Post and Comment in the Forum" style="width: 80%;" src="/images/2Teacher/C_upvotepost.png">
 <li><a target="_blank" href="/teacher-user-guide/collaborate/change-forum-settings/">Commenting permissions</a> can be toggled on/off on individual posts by teachers or owners of posts. </li>
 <li>Select a topic card, followed by a post that you wish to leave a comment on.<img alt="Post and Comment in the Forum" style="width: 80%;" src="/images/2Teacher/C-TopicCard1.png"></li>
 <li><p>From the View Post subpage, click <strong>Add</strong> to enter comments.</p>
