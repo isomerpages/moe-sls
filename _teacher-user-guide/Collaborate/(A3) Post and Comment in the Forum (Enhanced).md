@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-3-post-and-comment-in-the-forum">(A3) Post and Comment in the Forum</h1><hr>
+<h1 id="-3-post-and-comment-in-the-forum">(A3) Post and Comment in the Forum (Enhanced)</h1><hr>
 <p>Owners and Co-Teachers can create <a target="_blank" href="/teacher-user-guide/collaborate/add-a-topic/">Topics</a> in a Class Group Forum. Posts can be created within each Topic.</p>
 <h2 id="-create-a-post-">Create a Post</h2>
 <hr>
@@ -22,6 +22,13 @@ variant: markdown
 <li>To notify the class group about a new post, select the checkbox “Notify Class Group”.</li>
 <li>Click <strong>Create</strong> to continue.</li>
 </ol>
+
+<h2 id="-sort-posts-">Sort Posts</h2>
+<hr>
+<ol>From Mar 2025 Update, you may choose to sort your students’ posts by clicking on the dropdown arrow next to <strong>Sort By</strong>.</ol>
+
+
+
 <h2 id="edit-or-delete-a-post">Edit or Delete a Post</h2>
 <hr>
 <ol>
@@ -29,9 +36,10 @@ variant: markdown
 <li>To edit a post, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Edit</strong> to edit the message, keyword tags of a post, enable commenting or notification to the class group. Click <strong>Save</strong> to confirm your edits.</li>
 <li>To delete a post, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Delete</strong>. Click <strong><strong>OK</strong></strong> in the confirmation prompt to confirm.</li>
 </ol>
-<h2 id="-comment-on-a-post-">Comment on a Post</h2>
+<h2 id="-respond-to-a-post-">Respond to a Post</h2>
 <hr>
-<ol>
+<ol><li>From Mar 2025 Update, students and teachers may also upvote students’ posts in the forum by clicking on the <strong>Upvote</strong> icon \[insert upvote.svg\] on the Post Card.</li>
+	
 <li><a target="_blank" href="/teacher-user-guide/collaborate/change-forum-settings/">Commenting permissions</a> can be toggled on/off on individual posts by teachers or owners of posts. </li>
 <li>Select a topic card, followed by a post that you wish to leave a comment on.<img alt="Post and Comment in the Forum" style="width: 80%;" src="/images/2Teacher/C-TopicCard1.png"></li>
 <li><p>From the View Post subpage, click <strong>Add</strong> to enter comments.</p>
