@@ -16,6 +16,7 @@ variant: markdown
 <li>On the Module View Page, click the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> found at the top right of the header to edit the Module.</li>
 <li>You can rename the Module Title by clicking on the Title on the top menu bar and save by clicking outside of it.</li>
 <li>Click the <strong>Overflow</strong> (<strong>3-dots</strong> icon) found at the top right of the header to:<ul>
+<li>Manage Appearance Settings - You can view the module in standard or wide mode</li>
 <li>Manage Gamification Settings</li>
 <li>Manage Access Code Settings</li>
 </ul>
