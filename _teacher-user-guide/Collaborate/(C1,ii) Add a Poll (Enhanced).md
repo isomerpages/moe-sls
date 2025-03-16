@@ -28,3 +28,8 @@ variant: markdown
 <h2 id="-preview-as-student-">Preview as Student</h2>
 <hr>
 <p>When you Preview as Student or assign a Poll to students, students will be able to submit their votes by selecting a radio button or multiple checkboxes (if multiple answers are allowed).</p>
+<h2 id="-view-poll-results-">View Poll Results</h2>
+<hr>
+<ol>There are two ways you can view students’ responses in a Poll:
+<li>Click <strong>View Class Submission</strong> in the activity.</li>
+<li>From the Monitor Assignment page, click <strong>View Responses</strong>.</li></ol>
