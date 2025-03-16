@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-1a-add-a-topic-">(A1,1) Add a Topic</h1><hr>
+<h1 id="-1a-add-a-topic-">(A1,1) Add a Topic (Enhanced)</h1><hr>
 <h2 id="-create-a-topic-in-class-group-forum-new-">Create a Topic in Class Group Forum</h2>
 <hr>
 <p>From R19, teachers can create Topics in Class Group Forum to better categorise forum posts. </p>
@@ -19,8 +19,11 @@ variant: markdown
 <li>Keyword Tags (optional)</li>
 </ul>
 </li>
-<li><p>You may also choose to notify the class group about the Topic, and grant Observers and students the permission to create posts for the Topic by selecting the appropriate checkboxes.</p>
-<p><img alt="Add a Topic" style="width: 80%;" src="/images/2Teacher/C-TopicCard.png"></p>
+<li><p>You may also select the appropriate checkboxes at the bottom of the page for the following:</p><ul>
+<li>Grant Observers and students the permission to create posts</li>
+<li>Allow upvoting of posts</li>
+	<li>Notify the class group about the Topic</li>
+	<p><img alt="Add a Topic" style="width: 80%;" src="/images/2Teacher/C-TopicCard.png"></p></ul>
 </li>
 <li><p>Click <strong>Create</strong> to proceed.</p>
 </li>
