@@ -186,7 +186,7 @@ variant: markdown
 </details></li>
 	<li><details><summary><h4>Profile</h4></summary>
 <ol>
-<li>Teachers’ Profile subpage will display their SLS contributions, including modules submitted to the Community Gallery, upvotes received, communities joined, and the number of reviews and votes they have given in the MOE Library and Community Gallery.</li>
+<li><a target="_blank" href="/teacher-user-guide/customise/view-and-edit-profile/">Teachers’ Profile subpage</a> will display their SLS contributions, including modules submitted to the Community Gallery, upvotes received, communities joined, and the number of reviews and votes they have given in the MOE Library and Community Gallery.</li>
 </ol>
 </details></li>
 </ol>
