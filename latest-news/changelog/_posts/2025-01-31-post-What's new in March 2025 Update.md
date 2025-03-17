@@ -154,17 +154,17 @@ variant: markdown
 </details></li>
 <li><details><summary><h4>Adaptive Learning System (ALS) Enhancements</h4></summary>
 <ol>
-<li>Teachers can create Section (Adaptive) in a module where they can select the desired learning loop, topic, and assign ALS content directly to students.</li>
-<li>Teachers can track students’ completion of Section (Adaptive) under the Monitoring Assignment page. They can also view students’ attempts of the Adaptive Learning session in Section (Adaptive).</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/author/add-section-adaptive/"> create Section (Adaptive)</a> in a module where they can select the desired learning loop, topic, and assign ALS content directly to students.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/author/add-section-adaptive/">track students’ completion</a> of Section (Adaptive) under the Monitoring Assignment page. They can also view students’ attempts of the Adaptive Learning session in Section (Adaptive).</li>
 <li>Teachers can select specific concepts for students to learn or practise in Test Myself in Section (Adaptive).</li>
 <li>Teachers can select a new “minimum required to assess your mastery” option when setting the number of questions for Test Myself in Section (Adaptive).</li>
 </ol>
 </details></li>
 <li><details><summary><h4>Feedback Assistant-Math (FA-Math) Enhancements</h4></summary>
 <ol>
-<li>Teachers can create Multi-Part FA-Math questions where question sub-parts are linked.</li>
-<li>Teachers can use FA-Math to create digital manipulatives, including models, inside text/media components and question stems of Multi-Part Questions.</li>
-<li>Teachers can use FA-Math in conjunction with Print-To-Scan to evaluate students’ handwritten mathematical working.</li>
+<li>Teachers can create <a target="_blank" href="/teacher-user-guide/assess/add-mathematics-feedback-assistant/">Multi-Part FA-Math</a> questions where question sub-parts are linked.</li>
+<li>Teachers can use FA-Math to <a target="_blank" href="/teacher-user-guide/assess/add-mathematics-feedback-assistant/">create digital manipulatives</a>, including models, inside text/media components and question stems of Multi-Part Questions.</li>
+<li>Teachers can use FA-Math in conjunction with <a target="_blank" href="/teacher-user-guide/assess/print-to-scan/">Print-To-Scan</a> to evaluate students’ handwritten mathematical working.</li>
 </ol>
 </details></li>	
 <li><details><summary><h4>Short Answer Feedback Assistant (ShortAnsFA) Enhancements</h4></summary>
