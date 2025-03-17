@@ -169,13 +169,13 @@ variant: markdown
 </details></li>	
 <li><details><summary><h4>Short Answer Feedback Assistant (ShortAnsFA) Enhancements</h4></summary>
 <ol>
-<li>Teachers can  <a target="_blank" href="/teacher-user-guide/assess/add-short-answer-feedback-assistant/">include PDFs/images in the question body and suggested answer</a> for evaluation using Short Answer Feedback Assistant.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/assess/add-short-answer-feedback-assistant/">include PDFs/images in the question body and suggested answer</a> for evaluation using Short Answer Feedback Assistant.</li>
 </ol>
 </details></li>
 <li><details><summary><h4>Password/Passcode</h4></summary>
 <ol>
-<li>Teachers can reset password and generate temporary passcode for students from the same page.</li>
-<li>Teachers can generate temporary passcodes for selected students only.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/administer/reset-student-passwords-for-classes/">reset password</a> and <a target="_blank" href="/teacher-user-guide/administer/generate-passcode-for-students/">generate temporary passcode</a> for students from the same page.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/administer/generate-passcode-for-students/">generate temporary passcodes</a> for selected students only.</li>
 <li>The validity of passcodes has been extended from 2 to 10 hours. Using passcodes to log in will allow students to bypass the password reset page, which appears if their passwords have expired. </li>
 </ol>
 </details></li>
