@@ -22,8 +22,8 @@ variant: markdown
 
 <li><details><summary><h4>Digital Badges</h4></summary>
 <ol>
-<li>Digital badges can be earned by students and teachers (as students) upon meeting set conditions when attempting MOE Library modules.</li>
-<li>These digital badges will be displayed on their Profile subpages, which can be viewed by clicking on their avatars.</li>
+<li><a target="_blank" href="/teacher-user-guide/gamify/game-stories-and-collectibles/">Digital badges</a> can be earned by students and teachers (as students) upon meeting set conditions when attempting MOE Library modules.</li>
+<li>These digital badges will be displayed on their <a target="_blank" href="/teacher-user-guide/customise/view-and-edit-profile/">Profile subpages</a>, which can be viewed by clicking on their avatars.</li>
 </ol>
 </details></li>
 <li><details><summary><h4>Class Groups</h4></summary>
