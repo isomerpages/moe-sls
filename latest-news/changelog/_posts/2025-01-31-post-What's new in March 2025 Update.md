@@ -169,7 +169,7 @@ variant: markdown
 </details></li>	
 <li><details><summary><h4>Short Answer Feedback Assistant (ShortAnsFA) Enhancements</h4></summary>
 <ol>
-<li>Teachers can include PDFs/images in the question body and suggested answer for evaluation using Short Answer Feedback Assistant.</li>
+<li>Teachers can  <a target="_blank" href="/teacher-user-guide/assess/add-short-answer-feedback-assistant/">include PDFs/images in the question body and suggested answer</a> for evaluation using Short Answer Feedback Assistant.</li>
 </ol>
 </details></li>
 <li><details><summary><h4>Password/Passcode</h4></summary>
