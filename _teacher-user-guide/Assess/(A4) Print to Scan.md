@@ -122,7 +122,7 @@ third_nav_title: Assess
 <u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg">Did You Know</u>:
 <ul><li>
 	<p>You can use Print-to-Scan together with Short Answer Feedback Assistant!</p></li>
-	<li>For English and Malay language, images of text will be uploaded and converted into a machine-readable text format.</li><li>For other languages, only images of text will be uploaded. </li></ul>
+	<li>Images of text that are uploaded will be sent directly to ShortAnsFA. </li></ul>
 <h2>Upload Response Sheets</h2>
 <hr>
 <ol>
