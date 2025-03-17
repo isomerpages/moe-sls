@@ -207,7 +207,7 @@ variant: markdown
 </details></li>
 <li><details><summary><h4>Short Answer Feedback Assistant (ShortAnsFA) Enhancements</h4></summary>
 <ol>
-<li>Students can upload PDFs/images as part of their response for assessment by Short Answer Feedback Assistant.</li>
+<li>Students can <a target="_blank" href="/student-user-guide/assess/about-short-answer-feedback-assistant/">upload PDFs/images</a> as part of their response for assessment by Short Answer Feedback Assistant.</li>
 </ol>
 </details></li>
 <li><details><summary><h4>Discussions</h4></summary>
