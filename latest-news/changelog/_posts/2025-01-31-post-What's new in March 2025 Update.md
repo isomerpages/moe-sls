@@ -239,7 +239,7 @@ variant: markdown
 </details></li>
 <li><details><summary><h4>Digital Badges</h4></summary>
 <ol>
-<li>Content Officers (COs) and Content Approvers (CAs) can add a new form of collectibles under gamification known as “Digital Badges” to MOE Library modules.</li>
+<li>Content Officers (COs) and Content Approvers (CAs) can add a new form of collectibles under gamification known as <a target="_blank" href="/admin-user-guide/publish/add-digital-badges-to-a-module/">“Digital Badges”</a> to MOE Library modules.</li>
 <li>COs and CAs can also create standalone digital badges and manually award them to Teacher-as-Student and Student accounts by accessing “Manage Digital Badges”. Recipients of the digital badges will be notified accordingly.</li>
 </ol>
 </details></li>
