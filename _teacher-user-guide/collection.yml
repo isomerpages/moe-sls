@@ -55,9 +55,9 @@ collections:
       - Authenticate/Reset SLS Password (Teacher).md
       - Authenticate/Password Reset Email.md
       - Authenticate/Locked Account.md
-      - Author/Activate Learning Assistant in Interactive Component (New).md
       - Author/.keep
       - Author/Author.md
+      - Author/Activate Learning Assistant in Interactive Component (New).md
       - Author/Create New Modules.md
       - Author/Use Authoring Copilot to create New Sections (Enhanced).md
       - Author/Use Authoring Copilot to create New Activities & Components
