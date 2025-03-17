@@ -38,13 +38,13 @@ variant: markdown
 </ol></details></li>
 <li><details><summary><h4>Upvote</h4></summary>
 <ol>
-<li>Teachers and <a target="_blank" href="/student-user-guide/collaborate/view-and-respond-in-the-forum/">students</a> can vote for posts in discussions and class group forums. This feature can be enabled or disabled by teachers.</li>
-<li>Teachers and students can vote for modules in the MOE Library (for both teachers and students) and the Community Gallery (for teachers only). They can also sort their search results by “Most Voted ".</li>
+<li><a target="_blank" href="/teacher-user-guide/collaborate/post-and-comment-in-the-forum/">Teachers</a> and <a target="_blank" href="/student-user-guide/collaborate/view-and-respond-in-the-forum/">students</a> can vote for posts in discussions and class group forums. This feature can be enabled or disabled by teachers.</li>
+<li>Teachers and students can <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">vote</a> for modules in the MOE Library (for both teachers and students) and the Community Gallery (for teachers only). They can also <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">sort</a> their search results by “Most Voted ".</li>
 
 </ol>
 <li><details><summary><h4>Discussions and Forums</h4></summary>
 <ol>
-<li>Teachers and students can view the latest comments for each post in discussions and class group forums without needing to open the post. They can also sort posts by “Latest” and “Most Voted”.</li>
+<li><a target="_blank" href="/teacher-user-guide/collaborate/post-and-comment-in-the-forum/">Teachers</a> and <a target="_blank" href="/student-user-guide/collaborate/view-and-respond-in-the-forum/">students</a> can view the latest comments for each post in discussions and class group forums without needing to open the post. They can also sort posts by “Latest” and “Most Voted”.</li>
 
 <li>Avatars of teachers and students are&nbsp;shown next to their names in posts and comments.</li>
 
@@ -58,7 +58,7 @@ variant: markdown
 	
 <li><details><summary><h4>Module Credits</h4></summary>
 <ol>
-<li>Teachers and students can see who created the module in MOE Library (for both teachers and students) or Community Gallery (for teachers only) and to whom it is credited under the Module Details subpage. Clicking on the names of the authors and contributors will open their Profile subpages.</li>
+<li>Teachers and students can see who created the module in MOE Library (for both teachers and students) or Community Gallery (for teachers only) and to whom it is credited under the <a target="_blank" href="/teacher-user-guide/discover/view-module-details/">Module Details</a> subpage. Clicking on the names of the authors and contributors will open their Profile subpages.</li>
 </ol>
 </details></li>
 </details></li></ol>
@@ -68,18 +68,18 @@ variant: markdown
 <ol>
 <li><details><summary><h4>Class Groups</h4></summary>
 <ol>
-<li>Teachers can update their class group settings to enable direct join requests via a class group URL. They will have the ability to review and approve or reject these requests. Notifications will be sent to both teachers and students once a request has been approved.</li>
-<li> Owners and co-teachers of class groups can restore past class groups as active class groups.</li>
-<li>Teachers can now set class group expiry year to “No Expiry”.</li>
+<li>Teachers can update their class group settings to enable direct join requests via <a target="_blank" href="/teacher-user-guide/organise/create-class-groups-and-communities/">a class group URL</a>. They will have the ability to review and <a target="_blank" href="/teacher-user-guide/organise/add-teachers-as-students-to-a-class-group/">approve or reject</a> these requests. Notifications will be sent to both teachers and students once a request has been approved.</li>
+<li> Owners and co-teachers of class groups can <a target="_blank" href="/teacher-user-guide/organise/view-and-restore-past-class-groups/">restore past class groups</a> as active class groups.</li>
+<li>Teachers can now set class group expiry year to <a target="_blank" href="/teacher-user-guide/organise/create-class-groups-and-communities/">"No Expiry”</a>.</li>
 <li>Teachers will no longer be added as liaison teachers when their Teacher-as-Student accounts are added to class groups.</li>
-<li>Teachers can see the name of the teacher who is editing the class group resource when they try to resume or edit the resource.</li>
+<li><a target="_blank" href="/teacher-user-guide/organise/manage-class-group-resources/">Teachers</a> can see the name of the teacher who is editing the class group resource when they try to resume or edit the resource.</li>
 </ol>
 </details></li>
 <li><details><summary><h4>Communities</h4></summary>
 <ol>
-<li>Teachers can create communities to collaborate and share resources with other teachers.</li>
-<li>Teachers can search for and request to join communities in “Browse Communities”.</li>
-<li>Community owners can review and manage membership requests, approving or rejecting them as needed. Teachers will receive notifications once their requests to join the community are approved.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/organise/create-class-groups-and-communities/"> create communities</a> to collaborate and share resources with other teachers.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/organise/create-class-groups-and-communities/">search for and request to join communities</a> in “Browse Communities”.</li>
+<li>Community owners can <a target="_blank" href="/teacher-user-guide/organise/create-class-groups-and-communities/">review and manage membership requests</a>, approving or rejecting them as needed. Teachers will receive notifications once their requests to join the community are approved.</li>
 <li>Teachers can convert existing class groups into communities.</li>
 </ol>
 </details></li>
@@ -91,8 +91,8 @@ variant: markdown
 </details></li>
 <li><details><summary><h4>Authoring Copilot (ACP) Enhancements</h4></summary>
 <ol>
-<li>Teachers can upload more than one knowledge base as reference for ACP when generating content, which can be used across different sections in a module.</li>
-<li>Teachers can upload PDFs and images as part of the section knowledge base.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/">upload more than one knowledge base</a> as reference for ACP when generating content, which can be used across different sections in a module.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/">upload PDFs and images</a> as part of the section knowledge base.</li>
 </ol>
 </details></li>
 <li><details><summary><h4>Assignments</h4></summary>
