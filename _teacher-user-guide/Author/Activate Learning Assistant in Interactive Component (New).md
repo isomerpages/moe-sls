@@ -17,16 +17,19 @@ third_nav_title: Author
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong>As Learning Assistant uses generative AI, its responses are probabilistic in nature and may be inaccurate at times.</strong>
-</p>
+<p>As Learning Assistant uses generative AI, its responses are probabilistic
+in nature and may be inaccurate at times.</p>
 </li>
 <li>
-<p><strong>Always verify that the content generated is appropriate. You may do so by clicking on ‘Preview as Student’ to test the responses generated before assigning the assignment to your students. You should also access students’ conversation logs when the assignment has started.</strong>
-</p>
+<p>Always verify that the content generated is appropriate. You may do so
+by clicking on ‘Preview as Student’ to test the responses generated before
+assigning the assignment to your students. You should also access students’
+conversation logs when the assignment has started.</p>
 </li>
 <li>
-<p><strong>Currently, Learning Assistant is only available for Secondary 1 students and above. When it is enabled for discussions, students will interact with SALiS.</strong>
-</p>
+<p>Currently, Learning Assistant is only available for Secondary 1 students
+and above. When it is enabled for discussions, students will interact with
+SALiS.</p>
 </li>
 </ul>
 </th>
