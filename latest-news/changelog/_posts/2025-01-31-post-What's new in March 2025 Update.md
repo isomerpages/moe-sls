@@ -34,7 +34,8 @@ variant: markdown
 <li>The user interface for class groups has been enhanced. When viewing members in class groups, teachers and students can see the listing of all members, including their avatars.</li>
 </ol>
 </details></li>
-	<li><details><summary><h4>Listing View</h4></summary><ol><li> Resource and assignment listings will default to the list view. The system will retain teachers' and students' preferred view based on their last access on the same device.</li>
+<li><details><summary><h4>Listing View</h4></summary>
+<ol><li><a target="_blank" href="/student-user-guide/discover/access-self-study-resources/">Resource</a> and <a target="_blank" href="/teacher-user-guide/assess/view-assignments/">assignment listings</a> will default to the list view. The system will retain teachers' and students' preferred view based on their last access on the same device.</li>
 </ol></details></li>
 <li><details><summary><h4>Upvote</h4></summary>
 <ol>
