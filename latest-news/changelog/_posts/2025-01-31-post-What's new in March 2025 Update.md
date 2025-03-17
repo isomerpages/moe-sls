@@ -195,9 +195,9 @@ variant: markdown
 <ol>
 <li><details><summary><h4>Adaptive Learning System</h4></summary>
 <ol>
-<li>Students can see their mastery level after completing a quiz during an Adaptive Learning session.</li>
-<li> Students can select specific concepts to learn or practise for Test Myself in Adaptive Learning.</li>
-<li>Students can select a new “minimum required to assess your mastery” option when setting the number of questions for Test Myself in Adaptive Learning.</li>
+<li>Students can <a target="_blank" href="/student-user-guide/self-study/access-adaptive-learning-system/">see their mastery level</a> after completing a quiz during an Adaptive Learning session.</li>
+<li> Students can <a target="_blank" href="/student-user-guide/self-study/access-adaptive-learning-system/">select specific concepts</a> to learn or practise for Test Myself in Adaptive Learning.</li>
+<li>Students can <a target="_blank" href="/student-user-guide/self-study/access-adaptive-learning-system/">select a new “minimum required to assess your mastery” option</a> when setting the number of questions for Test Myself in Adaptive Learning.</li>
 </ol>
 </details></li>
 <li><details><summary><h4>Learning Assistant (LEA)</h4></summary>
