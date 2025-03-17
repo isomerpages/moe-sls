@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Self Study
 ---
+<h2>Access Learning Assistant in Discussion</h2>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -28,7 +29,6 @@ with other sources.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>When the Learning Assistant is enabled for discussions, you will interact
