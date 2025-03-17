@@ -293,7 +293,7 @@ the Liaison Teacher into the changed Class Group if a student that is not
 from your own school is added.</p>
 </li>
 </ul>
-<h2><strong>Edit a Class Group Details</strong></h2>
+<h2>Edit a Class Group Details</h2>
 <hr>
 <ol>
 <li>
@@ -368,7 +368,7 @@ You can also create <strong>Subgroups</strong> in a Community.</p>
 </li>
 </ol>
 <p></p>
-<h2><strong>Archive a Community</strong></h2>
+<h2>Archive a Community</h2>
 <p>Communities created in SLS can be archived when they are no longer needed.</p>
 <ol data-tight="true" class="tight">
 <li>
