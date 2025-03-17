@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Author
 ---
+<h2>Activate Learning Assistant in Interactive Component</h2>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -16,25 +17,22 @@ third_nav_title: Author
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>As Learning Assistant uses generative AI, its responses are probabilistic
-in nature and may be inaccurate at times.</p>
+<p><strong>As Learning Assistant uses generative AI, its responses are probabilistic in nature and may be inaccurate at times.</strong>
+</p>
 </li>
 <li>
-<p>Always verify that the content generated is appropriate. You may do so
-by clicking on ‘Preview as Student’ to test the responses generated before
-assigning the assignment to your students. You should also access students’
-conversation logs when the assignment has started.</p>
+<p><strong>Always verify that the content generated is appropriate. You may do so by clicking on ‘Preview as Student’ to test the responses generated before assigning the assignment to your students. You should also access students’ conversation logs when the assignment has started.</strong>
+</p>
 </li>
 <li>
-<p>Currently, Learning Assistant is only available for Secondary 1 students
-and above. When it is enabled for discussions, students will interact with <strong>SALiS</strong>.</p>
+<p><strong>Currently, Learning Assistant is only available for Secondary 1 students and above. When it is enabled for discussions, students will interact with SALiS.</strong>
+</p>
 </li>
 </ul>
 </th>
 </tr>
 </tbody>
 </table>
-<p></p>
 <ol>
 <li>
 <p>In an <strong>Activity</strong>, navigate to <strong>Interactive</strong>,
