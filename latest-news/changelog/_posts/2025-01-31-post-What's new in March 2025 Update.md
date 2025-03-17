@@ -119,7 +119,7 @@ variant: markdown
 <ol>
 <li>There will be placeholders in the question paper when the question body is empty.</li>
 <li>The size of response boxes for Free-Response Questions will vary based on the response size settings.</li>
-<li>Students’ handwritten mathematical working can be evaluated using FA-Math after their response sheets are submitted using <a target="_blank" href="/teacher-user-guide/assess/print-to-scan/">Print-To-Scan</a> .</li>
+<li>Students’ handwritten mathematical working can be evaluated using FA-Math after their response sheets are submitted using <a target="_blank" href="/teacher-user-guide/assess/print-to-scan/">Print-To-Scan</a>.</li>
 </ol>
 </li>
 <li><strong>Aggregated Student Response Enhancements</strong>
@@ -129,8 +129,8 @@ variant: markdown
 </li>
 <li><strong>Heatmap Enhancements</strong>
 <ol>
-<li>A refresh button is added to the Heatmap for easy retrieval of the most updated Heatmap status.</li>
-<li>Visual indicators atop each question offer a quick overview of student performance; clicking an indicator takes teachers directly to the Student Responses page.</li>
+<li>A <a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/">Refresh</a> button is added to the Heatmap for easy retrieval of the most updated Heatmap status.</li>
+<li><a target="_blank" href="/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/">Visual indicators</a> atop each question offer a quick overview of student performance; clicking an indicator takes teachers directly to the Student Responses page.</li>
 <li>Heatmap indicators now clearly show student participation in ITTs, polls and discussions.</li>
 <li>Teachers can filter for sections and activities more easily. </li>
 <li>There is improved navigation between Heatmaps and assignments. Teachers can navigate to the activity level of the question/component in the Monitor Assignment page when they click on the "Monitor" icon in interaction boards and Student Responses page.</li>
@@ -141,15 +141,15 @@ variant: markdown
 </details></li>
 <li><details><summary><h4>Annotated Feedback Assistants (AFA)</h4></summary>
 <ol>
-<li>Teachers can use Annotated Feedback Assistant for Free-Response Questions to provide in-line feedback in the form of annotation cards on student responses.</li>
+<li>Teachers can use <a target="_blank" href="/teacher-user-guide/assess/add-annotated-feedback-assistant/">Annotated Feedback Assistant</a> for Free-Response Questions to provide in-line feedback in the form of annotation cards on student responses.</li>
 <li>Teachers can select up to 2 feedback references (suggested answer, rubrics or error tags) for Annotated Feedback Assistant to reference when evaluating students’ responses.</li>
 </ol>
 </details></li>
 <li><details><summary><h4>Learning Assistant (LEA)</h4></summary>
 <ol>
-<li>Teachers can set up a Learning Assistant in a Discussion component to allow students to interact with.</li>
+<li>Teachers can set up a <a target="_blank" href="/teacher-user-guide/author/activate-learning-assistant-in-interactive-component/">Learning Assistant in a Discussion component</a> to allow students to interact with.</li>
 <li>Teachers can select predetermined roles (e.g., Discussion Facilitator, Idea Generator) or customise their own instructions, set interaction limits and add knowledge base(s) for Learning Assistant to anchor its response to.</li>
-<li>Teachers can view students’ chat history with Learning Assistant.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/author/activate-learning-assistant-in-interactive-component/">view students’ chat history</a> with Learning Assistant.</li>
 </ol>
 </details></li>
 <li><details><summary><h4>Adaptive Learning System (ALS) Enhancements</h4></summary>
