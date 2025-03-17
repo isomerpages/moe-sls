@@ -105,8 +105,8 @@ variant: markdown
 <li><strong>Editing:</strong>
 <ol>
 <li>Teachers can preview assignments and resources as students after they have been assigned.</li>
-<li>Teachers can edit the suggested answer field and description in rubrics for Free-Response Questions even after students have attempted them. This also applies to self-study resources.</li>
-<li>Teachers can also edit certain fields, such as the Quiz Title and Description, after the module has been assigned and students have started attempting the questions in the Quiz. </li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/author/add-free-response-questions/">edit</a> the suggested answer field and description in rubrics for Free-Response Questions even after students have attempted them. This also applies to self-study resources.</li>
+<li>Teachers can also <a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">edit</a> certain fields, such as the Quiz Title and Description, after the module has been assigned and students have started attempting the questions in the Quiz. </li>
 </ol>
 </li>
 <li><strong>Google Enhancement:</strong>
