@@ -15,7 +15,7 @@ variant: markdown
 <li>From within the Assignment, click the <strong>Monitoring</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg"> in the header.</li>
 <li>From the <strong>Module Plan</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/courseplan32.svg">, click the <strong>Monitoring</strong> icon<img style="width:1.5rem; display: inline;" src="/images/Icons/Monitor.svg">.</li>
 </ul>
-<p>Note: You can click Refresh at the top left corner of the Monitor Assignment page to view the most up-to-date student submissions.</p>
+<p>Note: You can click <strong>Refresh</strong> at the top left corner of the Monitor Assignment page to view the most up-to-date student submissions.</p>
 <h2 id="monitor-assignment-page">Monitor Assignment page (Enhanced)</h2>
 <hr>
 <p><img alt="Monitor Students' Responses in an Assignment" style="width: 100%;" src="/images/2Teacher/As_MonitorStudents.png"></p>
