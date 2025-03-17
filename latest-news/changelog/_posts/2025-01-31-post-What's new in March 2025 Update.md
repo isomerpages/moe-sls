@@ -7,7 +7,7 @@ description: ""
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>What's new in March 2025 Update</h1>
+<h1>What's new in March 2025 Update | With links to User Guide</h1>
 <p>This list details the changes users can expect in the upcoming SLS March 2025 Update, which will be rolled out on 19 March 2025. Please note that SLS will be unavailable from 18 March 2025 00:00 to 19 March 2025 23:00 to facilitate this update.</p>
 <h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for All Users</h2>
 <ul>
@@ -38,7 +38,7 @@ variant: markdown
 </ol></details></li>
 <li><details><summary><h4>Upvote</h4></summary>
 <ol>
-<li>Teachers and students can vote for posts in discussions and class group forums. This feature can be enabled or disabled by teachers.</li>
+<li>Teachers and <a target="_blank" href="/student-user-guide/collaborate/view-and-respond-in-the-forum/">students</a> can vote for posts in discussions and class group forums. This feature can be enabled or disabled by teachers.</li>
 <li>Teachers and students can vote for modules in the MOE Library (for both teachers and students) and the Community Gallery (for teachers only). They can also sort their search results by “Most Voted ".</li>
 
 </ol>
