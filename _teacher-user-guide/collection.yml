@@ -54,7 +54,6 @@ collections:
       - Authenticate/Reset SLS Password (Teacher).md
       - Authenticate/Password Reset Email.md
       - Authenticate/Locked Account.md
-      - Author/(A1,5) Add Section (Adaptive) (New).md
       - Author/.keep
       - Author/Author.md
       - Author/Activate Learning Assistant in Interactive Component (New).md
@@ -67,6 +66,7 @@ collections:
       - Author/(A1,2) Add New Activities & Sections.md
       - Author/(A1,3) Add Existing From Library & Starred Resources.md
       - Author/(A1,4) Add Introduction.md
+      - Author/(A1,5) Add Section (Adaptive) (New).md
       - Author/(A2,1) Add Components (Enhanced).md
       - Author/(A2,2) Add Split Page Media (Enhanced).md
       - Author/(A2,3) Upload Question and Test Interoperability (QTI) Files.md
