@@ -6,7 +6,7 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: tiptap
 ---
-<h1>(A1) Create Class Groups</h1>
+<h1>(A1) Create Class Groups and Communities (New)</h1>
 <hr>
 <ol>
 <li>
