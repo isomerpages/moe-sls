@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Author
 ---
-<h1>(E1,vi) Add Section (Adaptive)</h1>
+<h1>(A1,5) Add Section (Adaptive)</h1>
 <hr>
 <p>Teachers can create Section (Adaptive) in a module to assign ALS content
 directly to students and track their completion in the assignment heatmap.
