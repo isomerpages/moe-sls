@@ -181,7 +181,7 @@ variant: markdown
 </details></li>
 <li><details><summary><h4>Account Switching</h4></summary>
 <ol>
-<li>Teachers will be prompted to switch to their Teacher-as-Student accounts when they access Student Attempt URLs.</li>
+<li>Teachers will be <a target="_blank" href="/teacher-user-guide/customise/switch-to-student-account/">prompted to switch</a> to their Teacher-as-Student accounts when they access Student Attempt URLs.</li>
 </ol>
 </details></li>
 	<li><details><summary><h4>Profile</h4></summary>
