@@ -99,7 +99,7 @@ variant: markdown
 <ul>
 <li><strong>Linked Assignments:</strong>
 <ol>
-<li>Teachers can assign modules as linked assignments within and across multiple class groups. While editing the assigned module, all linked assignments will be paused, and changes made will be applied to all linked assignments.</li>
+<li>Teachers can assign modules as <a target="_blank" href="/teacher-user-guide/assign/create-assignments/">linked assignments</a> within and across multiple class groups. While editing the assigned module, all linked assignments will be paused, and  <a target="_blank" href="/teacher-user-guide/assign/edit-assignments/">changes made will be applied to all linked assignments</a>.</li>
 </ol>
 </li>
 <li><strong>Editing:</strong>
