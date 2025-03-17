@@ -202,7 +202,7 @@ variant: markdown
 </details></li>
 <li><details><summary><h4>Learning Assistant (LEA)</h4></summary>
 <ol>
-<li>Students can interact with Learning Assistant in a Discussion component.</li>
+<li>Students can interact with <a target="_blank" href="/student-user-guide/self-study/access-learning-assistant-in-discussion-component/">Learning Assistant in a Discussion component</a>.</li>
 </ol>
 </details></li>
 <li><details><summary><h4>Short Answer Feedback Assistant (ShortAnsFA) Enhancements</h4></summary>
