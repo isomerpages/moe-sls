@@ -119,7 +119,7 @@ variant: markdown
 <ol>
 <li>There will be placeholders in the question paper when the question body is empty.</li>
 <li>The size of response boxes for Free-Response Questions will vary based on the response size settings.</li>
-<li>Students’ handwritten mathematical working can be evaluated using FA-Math after their response sheets are submitted using Print-To-Scan.</li>
+<li>Students’ handwritten mathematical working can be evaluated using FA-Math after their response sheets are submitted using <a target="_blank" href="/teacher-user-guide/assess/print-to-scan/">Print-To-Scan</a> .</li>
 </ol>
 </li>
 <li><strong>Aggregated Student Response Enhancements</strong>
