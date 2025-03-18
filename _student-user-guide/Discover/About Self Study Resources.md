@@ -6,7 +6,7 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>About Self-Study Resources (Enhanced)</h1>
+<h1>About Self-Study Resources</h1>
 <hr>
 <p><strong>Important</strong>: From R2 (Nov 2024), Class Groups that are older than four years will be automatically archived and can no longer be accessed. Self-Study attempts from these Class Group Resources will no longer be shown in the Self-Study List.</p>
 <p>Self-Study List contains a list of resources that you are attempting or have attempted for Self-Study. You can access and review these resources at your own pace. There are three ways to access Self-Study resources within SLS:</p>
