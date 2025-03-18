@@ -8,7 +8,7 @@ variant: tiptap
 ---
 <h1>(B2,1) Post and Respond to a Discussion Topic (Enhanced)</h1>
 <hr>
-<h2>Creating a New Post</h2>
+<h2>Create a New Post</h2>
 <hr>
 <ol>
 <li>
@@ -51,6 +51,12 @@ and <strong>Comment Off</strong>.</p>
 To sort the responses, click the dropdown arrow next to <strong>Sort By</strong>.</p>
 <h2>Respond to a Post</h2>
 <hr>
+<p>You may choose to upvote responses by clicking on the Upvote icon on the
+response card.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Comment in the Forum" src="/images/1Student/C_UpvoteForum.png">
+</div>
+<p></p>
 <p>To comment on a response</p>
 <ol data-tight="true" class="tight">
 <li>
@@ -65,13 +71,7 @@ the bottom right.</p>
 </li>
 <li>
 <p>You may choose to upvote responses by clicking on the <strong>Upvote</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/upvote.svg">
-</div>
 <p>on the Response Card.</p>
 </li>
 </ol>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Comment in the Forum" src="/images/1Student/C_UpvoteForum.png">
-</div>
 <p></p>
