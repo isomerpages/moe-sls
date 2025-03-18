@@ -8,7 +8,7 @@ third_nav_title: Publish
 ---
 <h2>(A4) Add Digital Badges to a Module</h2>
 <hr>
-<p>Digital badges are special badges awarded to students’ and teachers’ profile
+<p>Digital badges are special badges awarded to students’ and teachers’ profiles
 for completing self-study modules from MOE Library.</p>
 <p>Content Approvers and Content Officers (CAs and COs) are able to add digital
 badges to MOE Library resources.</p>
