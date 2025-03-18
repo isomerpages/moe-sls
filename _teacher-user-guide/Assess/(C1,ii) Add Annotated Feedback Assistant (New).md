@@ -114,14 +114,13 @@ Annotated Feedback Assistant.</p>
 <p>You can select a Feedback Reference, such as Suggested Answer, Rubrics
 and/or Error Tags for AFA to reference when auto-generating feedback for
 students.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_AFA4.png">
 </div>
-</li>
-</ol>
 <p><u>Note:</u> You can have up to two Feedback References for each question
 with AFA enabled.</p>
+</li>
+</ol>
 <p></p>
 <ol start="6" data-tight="true" class="tight">
 <li>
