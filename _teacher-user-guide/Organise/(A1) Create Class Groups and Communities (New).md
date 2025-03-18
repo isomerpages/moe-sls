@@ -331,8 +331,8 @@ may also browse or search for joined Communities.</p>
 <li>
 <p>Enter the <strong>Name</strong> and <strong>Expiry</strong>  <strong>Academic</strong>  <strong>Year</strong>, <strong>Description</strong> (optional),
 Community <strong>Image</strong> (optional), <strong>Subject</strong> (optional),
-and <strong>Level</strong> (optional). Note: Unlike Class Groups, there is
-no Learning Progress for Communities.</p>
+and <strong>Level</strong> (optional). Unlike Class Groups, there is no Learning
+Progress for Communities.</p>
 </li>
 <li>
 <p>You can add teachers from your school or other schools, and they will
