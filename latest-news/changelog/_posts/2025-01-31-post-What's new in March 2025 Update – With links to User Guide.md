@@ -53,7 +53,7 @@ variant: markdown
 
 <li><details><summary><h4>Google Enhancements</h4></summary>
 <ol>
-<li>When viewing Google documents, a tooltip has been added to indicate which Google Drive account the file is shared with.</li>
+<li>When viewing Google documents, a <a target="_blank" href="/teacher-user-guide/collaborate/attach-google-files/">tooltip</a> has been added to indicate which Google Drive account the file is shared with.</li>
 </ol>
 </details></li>
 	
@@ -112,7 +112,7 @@ variant: markdown
 </li>
 <li><strong>Google Enhancement:</strong>
 <ol>
-<li>Teachers can access their students’ Google Response files, including those saved as drafts.</li>
+<li>Teachers can access their students’ Google Response files, including those saved as <a target="_blank" href="/teacher-user-guide/collaborate/attach-google-files/">drafts</a>.</li>
 <li>There is improved handling of Google Response questions for team activities.</li>
 </ol>
 </li>
