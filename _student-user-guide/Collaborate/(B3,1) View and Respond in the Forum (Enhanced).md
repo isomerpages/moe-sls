@@ -15,8 +15,8 @@ variant: markdown
 <ol>
 From Mar 2025 SLS Update, you may also upvote posts in the forum by clicking on the <strong>Upvote</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Add.png"> on the <strong>Post card</strong>.
 <img alt="Comment in the Forum" style="width: 100%;" src="/images/1Student/upvote__1_.png">	
-<p>
-</p><li>Click on a <strong>Post card</strong> to open the <strong>View Post</strong> subpage.</li>
+
+<p></p><li>Click on a <strong>Post card</strong> to open the <strong>View Post</strong> subpage.</li>
 <li>Click the <strong>Add</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Add.png"> at the bottom right of the View Post card. Type your comments and click <strong>Post</strong> to publish them.</li>
 	<p><u>Note</u>: If comments have been disabled, you will not see the Add icon.</p>
 <li>You may add comments in the form of text, mathematical/chemical equations, emojis, images, drawings,  file attachments and audio recordings.</li>
