@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 third_nav_title: Assess
 ---
 <h1>(A4) Print-to-Scan (Enhanced)</h1><hr>
-<p>From March 2025, students’ handwritten mathematical working can be evaluated using FA-Math when response sheets are submitted using Print-To-Scan.</p>
+<p>From March 2025, students’ handwritten mathematical workings can be evaluated using FA-Math when response sheets are submitted using Print-To-Scan.</p>
 <p>Students may complete the quiz on response sheets which are then scanned and uploaded to SLS, where their responses on hardcopy worksheets can be transferred to the corresponding questions in SLS for teacher marking. Marking can also be done with <a target="_blank" href="/teacher-user-guide/assess/add-short-answer-feedback-assistant/"> Short Answer Feedback Assistant</a>.</p>
 <p><b>Important</b>: </p><ul>
 <li>Only Multiple-Choice, Multiple-Response and Free-Response questions are supported.</li>
