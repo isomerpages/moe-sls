@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Author
 ---
-<h1>(A1,5) Add Section (Adaptive)</h1>
+<h1>(A1,5) Add Section (Adaptive)(New)</h1>
 <hr>
 <p>Teachers can create Section (Adaptive) in a module to assign ALS content
 directly to students and track their completion in the assignment heatmap.
@@ -32,8 +32,8 @@ select Section (Adaptive).
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>For more information on the different learning modes, please click here
-&lt;insert hyperlink to (E1,iv)&gt;.</p>
+<p>For more information on the different learning modes, please click <a href="http://www.learning.moe.edu.sg/teacher-user-guide/discover/about-adaptive-learning-system/" rel="noopener nofollow" target="_blank">here.</a>
+</p>
 </li>
 <li>
 <p>For Test Myself mode, you may choose between 10, 20 or 30 questions. Alternatively,
