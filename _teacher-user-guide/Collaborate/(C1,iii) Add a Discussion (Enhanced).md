@@ -46,20 +46,16 @@ variant: markdown
 <p></p><u>Note:</u> From Mar 2025 Update, students and teachers may choose to upvote students’ responses by clicking on the <strong>Upvote</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/upvote.svg"> on the <strong>Response Card</strong>.
 
 <p><img alt="Add a Discussion" style="width: 80%;" src="/images/2Teacher/C_AddDiscussion.png"></p>
-<h2 id="-upvote-discussion-">
-	Preview as Student</h2>
-<hr>
+
 <p>To comment on one of your student's responses,</p>
 <ol>
     <li>
 			<p>Click the <b>Response card</b>, followed by <strong>Add</strong> on the bottom right.</p>
     </li>
     <li>
-        <p>Apart from text responses, you can include the following:</p>
-        <ul>
-            <li><a href="/teacher-user-guide/author/insert-mathematical-or-chemical-equations/">Mathematical or chemical equations</a></li>
-        </ul>
-    </li>
+        <p>Apart from text responses, you can include the following <a href="/teacher-user-guide/author/insert-mathematical-or-chemical-equations/">Mathematical or chemical equations.</a></p></li>
+        
+    
     <li>
         <p>After typing in your comment, click <strong>Post</strong>.</p>
         <p><img alt="Add a Discussion" style="width: 80%;" src="/images/2Teacher/C_ITTComponent1.png"></p>
