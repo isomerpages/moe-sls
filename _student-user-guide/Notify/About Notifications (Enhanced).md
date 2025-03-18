@@ -6,7 +6,7 @@ third_nav_title: Notify
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>About Notifications (Enhanced)</h1>
+<h1>About Notifications</h1>
 <hr><ol>
     <li>You will receive Notifications when:
       <ul>
