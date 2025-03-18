@@ -43,7 +43,7 @@ variant: markdown
 <p>There are two ways you can view students’ responses in an Interactive Thinking Tool.</p>
 <ol>
 	<li>Click <strong>View Class Submission</strong> in the activity.</li>
-<li>IFrom the Monitor Assignment page, click <strong>View Responses.</strong></li>
+<li>From the Monitor Assignment page, click <strong>View Responses.</strong></li>
 </ol>
 
 
