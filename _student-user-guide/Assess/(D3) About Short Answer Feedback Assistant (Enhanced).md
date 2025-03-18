@@ -14,7 +14,7 @@ for any subject and level. It can also be combined with <a href="/student-user-g
 provide feedback for both language and content related feedback.</p>
 <ol>
 <li>
-<p>Your teacher may addool(s) to a Free-Response Question.</p>
+<p>Your teacher may add tool(s) to a Free-Response Question.</p>
 </li>
 <li>
 <p>You may submit your response to the question, by clicking <strong>Submit Quiz</strong>.
