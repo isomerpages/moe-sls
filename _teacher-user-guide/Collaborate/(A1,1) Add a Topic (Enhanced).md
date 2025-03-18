@@ -9,7 +9,7 @@ variant: markdown
 <h1 id="-1a-add-a-topic-">(A1,1) Add a Topic (Enhanced)</h1><hr>
 <h2 id="-create-a-topic-in-class-group-forum-new-">Create a Topic in Class Group Forum</h2>
 <hr>
-<p>From R19, teachers can create Topics in Class Group Forum to better categorise forum posts. </p>
+
 <ol>
 <li>From a Class Group, click the <strong>Forum</strong> tab.</li>
 <li>Click <strong>Create New Topic</strong> and enter the following fields:<ul>
