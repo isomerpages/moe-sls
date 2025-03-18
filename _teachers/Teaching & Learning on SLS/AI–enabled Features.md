@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Teaching & Learning on SLS
 image: /images/FaviconLight.png
 ---
-<h3>AIEd Features</h3>
+<h3>AI–enabled Features</h3>
 <details>
 	<summary><h4>Adaptive Learning System</h4></summary>
 <p>The ALS provides a&nbsp;personalised&nbsp;learning pathway for&nbsp;each
@@ -147,6 +147,72 @@ on a Knowledge Base that is appended by the teacher.</p>
 <ul>
 <li>
 <p><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
+</p>
+</li>
+</ul>
+</div></details>
+<details>
+	<summary><h4>Annotated Feedback Assistant</h4></summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Annotated Feedback Assistant (AFA) provides students with targeted feedback embedded within their responses via annotation cards, based on suggested answers, rubrics, or error tags. It provides students with more specific feedback and can be used across different subjects.</p>
+<h5>How does AFA enhance teaching and learning?</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_marking.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Enhances Feedback Quality</strong>
+</p>
+<p>By leveraging different feedback references, teachers can provide more holistic feedback beyond just language errors.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_files.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Supports Critical Thinking</strong>
+</p>
+<p>Teachers can customise feedback output with options such as Socratic questioning or scaffolded hints to guide student reflection.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_teacher.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Facilitates Self-Directed Learning</strong>
+</p>
+<p>Teachers can control the number of times students receive feedback, enabling iterative improvement in their responses. [From June 2025]</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>Educator Resources</h5>
+<hr>
+<p>Teacher User Guide (UG):</p>
+<ul>
+<li>
+<p><a href="/teacher-user-guide/assess/add-annotated-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
+</p>
+</li>
+</ul>
+	<p>Student User Guide (UG):</p>
+<ul>
+<li>
+<p><a href="/student-user-guide/assess/about-annotated-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
 </p>
 </li>
 </ul>
