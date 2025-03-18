@@ -41,6 +41,7 @@ variant: markdown
 <li>Click <a target="_blank" href="/teacher-user-guide/author/add-components/">here</a> to find out about how to Add/Edit Components.</li>
 <li>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> to find out about editing the Quiz Detail card.</li>
 </ol>
+<p>Note: From March 2025 Update, you can also edit certain fields, such as the Quiz Title and Description, after the module has been assigned and students have started attempting the questions in the Quiz.</p>
 <h2 id="edit-delete-and-reorder-pages-in-a-quiz-">Edit, Delete and Reorder pages in a Quiz</h2>
 <hr>
 <ol>

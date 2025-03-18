@@ -27,5 +27,6 @@ variant: markdown
 <li><p>If you are changing an activity in an assignment to a Team Activity, note that students who previously had access to the activity will no longer have access. You will need to add students to a team to enable access to the activity. </p>
 </li>
 <li>Click <strong>OK</strong> to proceed.</li>
-<li>You can create teams by clicking <strong>Add Team</strong>.</li>
-</ol>
+<li>You can create teams by clicking <strong>Add Team</strong>.</li><p></p>Note: If you would like students to collaborate on a Google Doc, you may create a Free-Response Question that is pre-populated with Google Response and set it as a Team Activity. For more information, you may refer to 
+	<a target="_blank" href="/teacher-user-guide/collaborate/attach-google-files/">(C1, iv) Attach Google Files</a>.
+	</ol>

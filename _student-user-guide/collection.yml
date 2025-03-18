@@ -2,33 +2,25 @@ collections:
   student-user-guide:
     output: true
     order:
-      - Authenticate/Authentication.md
-      - Authenticate/How to Log In (Student).md
-      - Authenticate/Reset SLS Password (Student).md
-      - Authenticate/Forgot SLS Username.md
-      - Authenticate/Unsuccessful Password Reset Attempts.md
-      - Authenticate/Unlock Account.md
-      - Authenticate/.keep
       - Explore SLS Functions.md
       - Assess/.keep
       - Assess/Assess.md
       - Assess/(A1,1) Navigate an Assignment.md
-      - Assess/(A1,2) Navigate Quizzes (Enhanced).md
-      - Assess/(A2,1) Attempt a Multiple Choice Question (Enhanced).md
+      - Assess/(A1,2) Navigate Quizzes.md
+      - Assess/(A2,1) Attempt a Multiple Choice Question.md
       - Assess/(A2,2) Attempt a Fill in the Blanks Question.md
       - Assess/(A2,3) Attempt a Click and Drop Question.md
       - Assess/(A2,4) Attempt an Error Editing Question.md
       - Assess/(A2,5) Attempt an Audio Response Question.md
-      - Assess/(A2,6) Attempt a Free Response Question (Enhanced).md
+      - Assess/(A2,6) Attempt a Free Response Question.md
       - Assess/(A2,7) Attempt a Multi Part Question.md
-      - Assess/(A2,8) Attempt an Interactive Thinking Tool Component
-        (Enhanced).md
+      - Assess/(A2,8) Attempt an Interactive Thinking Tool Component.md
       - Assess/(A2,9) Attempt a Poll.md
       - Assess/(A2,10) Attempt a Question with Rubrics.md
       - Assess/(A2,11) Attempt a Team Quiz & Activity.md
       - Assess/(A2,12) Attempt Google Attached Files.md
       - Assess/(A2,13) Complete an Activity & Section.md
-      - Assess/(A3,1) Formatting & Paragraphing (Enhanced).md
+      - Assess/(A3,1) Formatting & Paragraphing.md
       - Assess/(A3,2) Insert Tables.md
       - Assess/(A3,3) Upload File.md
       - Assess/(A3,4) Insert Drawing.md
@@ -39,18 +31,25 @@ collections:
       - Assess/(A3,9) Insert Tooltip.md
       - Assess/(A3,10) Text to Speech.md
       - Assess/(A3,11) Speech Evaluation.md
-      - Assess/(A3,12) E–Dictionary (Enhanced).md
+      - Assess/(A3,12) E–Dictionary.md
       - Assess/(B1) View Completed Assignments.md
       - Assess/(B2) View Quiz Results.md
       - Assess/(B3) View and Respond to Teacher Comments.md
       - Assess/(C1) About Assessments.md
       - Assess/(D1) About Feedback Assistant Mathematics (Enhanced).md
-      - Assess/(D2) About Language Feedback Assistant for English (Enhanced).md
+      - Assess/(D2) About Annotated Feedback Assistant (New).md
       - Assess/(D3) About Short Answer Feedback Assistant (Enhanced).md
       - Assign/.keep
       - Assign/Assign.md
       - Assign/About Assignments.md
-      - Assign/(A1) Access Assignments.md
+      - Assign/(A1) Access Assignments (Enhanced).md
+      - Authenticate/.keep
+      - Authenticate/Authentication.md
+      - Authenticate/How to Log In (Student).md
+      - Authenticate/Reset SLS Password (Student).md
+      - Authenticate/Forgot SLS Username.md
+      - Authenticate/Unsuccessful Password Reset Attempts.md
+      - Authenticate/Unlock Account.md
       - Collaborate/.keep
       - Collaborate/Collaborate.md
       - Collaborate/About Assignment Sharing.md
@@ -58,11 +57,11 @@ collections:
       - Collaborate/(A1,2) Accept a Share Request.md
       - Collaborate/(A2) Interact in a Shared Assignment.md
       - Collaborate/(B1) Access the Forum.md
-      - Collaborate/(B2,1) Posting on a Discussion Topic.md
+      - Collaborate/(B2,1) Post and Respond to a Discussion Topic (Enhanced).md
       - Collaborate/(B2,2) Create a New Poll.md
-      - Collaborate/(B3,1) Comment in the Forum.md
+      - Collaborate/(B3,1) View and Respond in the Forum (Enhanced).md
       - Collaborate/(B3,2) Edit a Poll.md
-      - Collaborate/(C1) Join a Google Meet Video Conference (New).md
+      - Collaborate/(C1) Join a Google Meet Video Conference.md
       - Customise/.keep
       - Customise/Customise.md
       - Customise/(A1,i) Customise an Avatar.md
@@ -73,25 +72,25 @@ collections:
       - Customise/(A1,vi) Update Answers to Security Questions.md
       - Discover/.keep
       - Discover/Discover.md
-      - Discover/About Self Study Resources (Enhanced).md
+      - Discover/About Self Study Resources.md
       - Discover/(A1) Access Self Study Resources.md
-      - Discover/(A2) Search for Self Study Resources (Enhanced).md
+      - Discover/(A2) Search for Self Study Resources.md
       - Discover/(A3) Attempt Self Study Resources.md
       - Discover/(B1) Access App Library.md
       - Gamify/.keep
       - Gamify/Gamify.md
       - Gamify/About Gamification.md
-      - Gamify/(A1) Navigate a Gamified Assignment.md
+      - Gamify/(A1) Navigate a Gamified Assignment (Enhanced).md
       - Gamify/(A2) Attempt a Gamified Assignment.md
       - Gamify/(B1) Check Progress on Leaderboard.md
       - Notify/.keep
       - Notify/Notify.md
-      - Notify/About Notifications (Enhanced).md
+      - Notify/About Notifications.md
       - Notify/(A1) View Notifications.md
       - Organise/.keep
       - Organise/Organise.md
-      - Organise/About Class Groups (Enhanced).md
-      - Organise/(A1,i) Access Class Groups.md
+      - Organise/About Class Groups.md
+      - Organise/(A1,i) Access Class Groups (Enhanced).md
       - Organise/(A1,ii) Access Past Class Groups.md
       - Organise/(B1) Search in My Drive.md
       - Organise/(B2) Create New Folders.md
@@ -109,11 +108,12 @@ collections:
       - Plan/(A2) Create a New Event.md
       - Self Study/.keep
       - Self Study/Self Study.md
+      - Self Study/Access Learning Assistant in Interactive Component (New).md
       - Self Study/About Adaptive Learning System.md
       - Self Study/(A1) Access Adaptive Learning System (Enhanced).md
       - Self Study/(B1,1) Annotate Text within Activities.md
       - Self Study/(B1,2) Add Notes to Images.md
-      - Self Study/(B1,3) Add Notes to Audio or Video (New).md
+      - Self Study/(B1,3) Add Notes to Audio or Video.md
       - Self Study/(B2) View Notes.md
       - Self Study/(B3) Comment on Notes.md
       - Track Progress/.keep
@@ -123,4 +123,4 @@ collections:
       - Track Progress/(A2,i) View by Topic.md
       - Track Progress/(A2,ii) View by Month.md
       - Track Progress/(A2,iii) View by Question.md
-      - Track Progress/(B1) Access Error Tracker (New).md
+      - Track Progress/(B1) Access Error Tracker.md

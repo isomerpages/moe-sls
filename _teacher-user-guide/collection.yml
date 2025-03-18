@@ -6,24 +6,24 @@ collections:
       - Administer/.keep
       - Administer/Administer.md
       - Administer/(A1,i) Onboard New Students.md
-      - Administer/(A1,ii) Reset Student Passwords for Classes.md
-      - Administer/(A1,iii) Generate Passcode for Students.md
+      - Administer/(A1,ii) Reset Student Passwords for Classes (Enhanced).md
+      - Administer/(A1,iii) Generate Passcode for Students (Enhanced).md
       - Assess/.keep
       - Assess/Assess.md
       - Assess/(A1) Create Quizzes (Enhanced).md
       - Assess/(A2,1) Monitor Students' Responses in an Assignment (Enhanced).md
-      - Assess/(A2,2) Analyse Students’ Responses with Data Assistant (New).md
+      - Assess/(A2,2) Analyse Students’ Responses with Data Assistant.md
       - Assess/(A3,1) Add Teacher Comments.md
-      - Assess/(A3,2) Annotate (Underline) Students' Responses (Enhanced).md
+      - Assess/(A3,2) Annotate (Underline) Students' Responses.md
       - Assess/(A3,3) Mark Free Response Questions.md
-      - Assess/(A4) Print to Scan.md
+      - Assess/(A4) Print to Scan (Enhanced).md
       - Assess/(B1) Mark Teacher Marked Quizzes.md
       - Assess/(B2,1) Release Teacher Marked Quizzes.md
       - Assess/(B2,2) Unsubmit Teacher Marked Quizzes or Questions.md
       - Assess/(C1,i) Add Feedback Assistant Mathematics (Enhanced).md
-      - Assess/(C1,ii) Add Language Feedback Assistant for English (Enhanced).md
+      - Assess/(C1,ii) Add Annotated Feedback Assistant (New).md
       - Assess/(C1,iii) Add Short Answer Feedback Assistant (Enhanced).md
-      - Assess/(D1,i) View Assignments.md
+      - Assess/(D1,i) View Assignments (Enhanced).md
       - Assess/(D1,ii) Edit Quizzes (Enhanced).md
       - Assess/(D1,iii) Set Assignments as Assessments.md
       - Assess/(D1,iv) Add and View Access Codes.md
@@ -32,14 +32,14 @@ collections:
       - Assess/(D1,vii) Submit Quizzes.md
       - Assign/.keep
       - Assign/Assign.md
-      - Assign/(A1,i) Create Assignments.md
+      - Assign/(A1,i) Create Assignments (Enhanced).md
       - Assign/(A1,ii) Quick Assign Activities & Quizzes.md
       - Assign/(A1,iii) Assign MOE Library Modules.md
       - Assign/(A1,iv) Assign Community Gallery Modules.md
       - Assign/(A1,v) Add or Sort Assignments in Class Group.md
       - Assign/(B1,i) Manage Assignments.md
       - Assign/(B1,ii) Schedule Assignments.md
-      - Assign/(B1,iii) Edit Assignments.md
+      - Assign/(B1,iii) Edit Assignments (Enhanced).md
       - Assign/(B1,iv) Pause & Resume Assignments.md
       - Assign/(B1,v) Move Assignments.md
       - Assign/(B1,vi) Delete Assignments.md
@@ -56,8 +56,9 @@ collections:
       - Authenticate/Locked Account.md
       - Author/.keep
       - Author/Author.md
+      - Author/Activate Learning Assistant in Interactive Component (New).md
       - Author/Create New Modules.md
-      - Author/Use Authoring Copilot to create New Sections (Enhanced).md
+      - Author/Use Authoring Copilot to create New Sections.md
       - Author/Use Authoring Copilot to create New Activities & Components
         (Enhanced).md
       - Author/Use Authoring Copilot to create New Quizzes (Enhanced).md
@@ -65,10 +66,11 @@ collections:
       - Author/(A1,2) Add New Activities & Sections.md
       - Author/(A1,3) Add Existing From Library & Starred Resources.md
       - Author/(A1,4) Add Introduction.md
-      - Author/(A2,1) Add Components.md
-      - Author/(A2,2) Add Split Page Media (Enhanced).md
+      - Author/(A1,5) Add Section (Adaptive) (New).md
+      - Author/(A2,1) Add Components (Enhanced).md
+      - Author/(A2,2) Add Split Page Media.md
       - Author/(A2,3) Upload Question and Test Interoperability (QTI) Files.md
-      - Author/(A2,4) Add Multiple Choice Questions (Enhanced).md
+      - Author/(A2,4) Add Multiple Choice Questions.md
       - Author/(A2,5) Add Fill in the Blanks Questions.md
       - Author/(A2,6) Add Click and Drop Questions.md
       - Author/(A2,7) Add Error Editing Questions.md
@@ -76,14 +78,13 @@ collections:
       - Author/(A2,9) Add Audio Response Questions.md
       - Author/(A2,10) Add Multi Part Questions.md
       - Author/(A2,11) Add From Existing Questions.md
-      - Author/(A2,12) Add Display (Enhanced).md
-      - Author/(A2,13) Add Rubrics to Audio and Free Response Questions
-        (Enhanced).md
+      - Author/(A2,12) Add Display.md
+      - Author/(A2,13) Add Rubrics to Audio and Free Response Questions.md
       - Author/(A2,14) Embed YouTube Videos.md
       - Author/(A2,15) Insert Media Objects.md
       - Author/(A2,16) Insert Transcript for Video & Audio.md
       - Author/(A3,1) About Rich Text Editor.md
-      - Author/(A3,2) Formatting & Paragraphing (Enhanced).md
+      - Author/(A3,2) Formatting & Paragraphing.md
       - Author/(A3,3) Insert Chinese or Tamil Text.md
       - Author/(A3,4) Insert Mathematical or Chemical Equations.md
       - Author/(A3,5) Insert Tables.md
@@ -94,32 +95,32 @@ collections:
       - Author/(A3,10) Insert Tooltips.md
       - Author/(A3,11) HTML5 Content Development (Enhanced).md
       - Author/(A3,12) Text–to–Speech.md
-      - Author/(A3,13) Speech Evaluation.md
-      - Author/(A3,14) Localisation and E–Dictionary (Enhanced).md
+      - Author/(A3,13) Speech Evaluation Tool.md
+      - Author/(A3,14) Localisation and E–Dictionary.md
       - Author/About Templates.md
       - Author/(B1,i) Manage Modules.md
-      - Author/(B1,ii) Edit Modules.md
+      - Author/(B1,ii) Edit Modules (Enhanced).md
       - Author/(B1,iii) Edit Activities & Sections.md
       - Author/(B1,iv) View and Edit Module Plans.md
       - Author/(B1,v) Make a Copy of Modules or Assignments.md
       - Author/(B1,vi) Edit Detail cards.md
-      - Author/(B1,vii) Add Question Tags (Enhanced).md
-      - Author/(B1,viii) Add Module Tags (Enhanced).md
-      - Author/(B1,ix) Edit Media Objects (Enhanced).md
+      - Author/(B1,vii) Add Question Tags.md
+      - Author/(B1,viii) Add Module Tags.md
+      - Author/(B1,ix) Edit Media Objects.md
       - Author/(B1,x) Move Modules to Trash.md
       - Author/(B1,xi) File Size Limits.md
       - Author/(C1,i) Copyright Resources.md
       - Collaborate/.keep
       - Collaborate/Collaborate.md
       - Collaborate/About the Forum.md
-      - Collaborate/(A1,1) Add a Topic.md
+      - Collaborate/(A1,1) Add a Topic (Enhanced).md
       - Collaborate/(A1,2) Add a Poll.md
       - Collaborate/(A2) Change Forum Settings.md
-      - Collaborate/(A3) Post and Comment in the Forum.md
+      - Collaborate/(A3) Post and Comment in the Forum (Enhanced).md
       - Collaborate/(B1) Create Team Activities.md
       - Collaborate/(B2) Create Teams.md
       - Collaborate/(C1,i) Add an Interactive Thinking Tool (Enhanced).md
-      - Collaborate/(C1,ii) Add a Poll.md
+      - Collaborate/(C1,ii) Add a Poll (Enhanced).md
       - Collaborate/(C1,iii) Add a Discussion (Enhanced).md
       - Collaborate/(C1,iv) Attach Google Files.md
       - Collaborate/(C1,v) Add Google Meet Link (New).md
@@ -128,12 +129,12 @@ collections:
       - Customise/.keep
       - Customise/Customise.md
       - Customise/(A1,i) Customise an Avatar.md
-      - Customise/(A1,ii) Change Display Name.md
+      - Customise/(A1,ii) View and Edit Profile.md
       - Customise/(A1,iii) Set an Alternate Email Address.md
       - Customise/(A1,iv) Set Email Notifications.md
       - Customise/(A1,v) Manage Linked Account.md
       - Customise/(A1,vi) Change SLS Password.md
-      - Customise/(A1,vii) Switch to Student Account.md
+      - Customise/(A1,vii) Switch to Student Account (Enhanced).md
       - Customise/(B1) Manage My Templates.md
       - Discover/.keep
       - Discover/Discover.md
@@ -141,7 +142,7 @@ collections:
       - Discover/(A1,1) Add Existing Activities from Resources.md
       - Discover/(A1,2) Add Existing Components from Resources.md
       - Discover/(A1,3) Add Existing Media Objects from Resources.md
-      - Discover/(A2) Search for Resources (Enhanced).md
+      - Discover/(A2) Search for Resources.md
       - Discover/(A3) View Module Details.md
       - Discover/(B1,1) View External Resources.md
       - Discover/(B1,2) Previously Whitelisted & Non Whitelisted Websites.md
@@ -152,10 +153,10 @@ collections:
       - Discover/(D2) Follow & Unfollow Subjects.md
       - Discover/(E1,i) Make a Copy of a Module.md
       - Discover/(E1,ii) View Print Friendly Worksheet.md
-      - Discover/(E1,iii) Leave Reviews.md
+      - Discover/(E1,iii) Upvote and Leave Reviews (Enhanced).md
       - Discover/(E1,iv) About Adaptive Learning System (ALS) (Enhanced).md
-      - Discover/(E1,v) Tag Resources to Adaptive Learning System (New).md
-      - Discover/(E1,vi) Link Activities in ALS Content (New).md
+      - Discover/(E1,v) Tag Resources to Adaptive Learning System.md
+      - Discover/(E1,vi) Link Activities in ALS Content.md
       - Differentiate/.keep
       - Differentiate/Differentiate.md
       - Differentiate/(A1) Create Subgroups.md
@@ -168,10 +169,10 @@ collections:
       - Enact/(A1) Change Access to Activities.md
       - Gamify/.keep
       - Gamify/Gamify.md
-      - Gamify/About Gamification and Leaderboard.md
+      - Gamify/About Gamification and Leaderboard (Enhanced).md
       - Gamify/(A1) Manage Gamification Settings.md
-      - Gamify/(A2) Game Stories and Collectibles.md
-      - Gamify/(A3) Add Conditions to Game Story or Collectibles.md
+      - Gamify/(A2) Game Stories and Collectibles (Enhanced).md
+      - Gamify/(A3) Add Conditions to Game Story or Collectibles (Enhanced).md
       - Gamify/(A4) Create Game Teams.md
       - Gamify/(B1) Display Leaderboard for Students.md
       - Gamify/(B2) Quiz Leaderboard and Ranking.md
@@ -185,14 +186,14 @@ collections:
       - Organise/.keep
       - Organise/Organise.md
       - Organise/About Class Groups (Enhanced).md
-      - Organise/(A1) Create Class Groups.md
-      - Organise/(A2) Add Teachers as Students to a Class Group.md
+      - Organise/(A1) Create Class Groups and Communities (New).md
+      - Organise/(A2) Add Teachers as Students to a Class Group (Enhanced).md
       - Organise/(B1) Manage Class Group Resources.md
       - Organise/(C1,i) Install and Launch Apps.md
       - Organise/(C1,ii) App FAQs.md
       - Organise/(D1,i) Pin Class Groups.md
       - Organise/(D1,ii) Archive Class Groups.md
-      - Organise/(D1,iii) View Past Class Groups.md
+      - Organise/(D1,iii) View and Restore Past Class Groups.md
       - Organise/(E1) Access My Drive.md
       - Organise/(E2) Search in My Drive.md
       - Organise/(E3,1) Create New Folders.md
@@ -218,13 +219,13 @@ collections:
       - Publish/(A2) Copyright Guidelines for Submission.md
       - Track Progress/.keep
       - Track Progress/Track Progress.md
-      - Track Progress/(A1,i) Access Learning Progress (Enhanced).md
+      - Track Progress/(A1,i) Access Learning Progress.md
       - Track Progress/(A1,ii) View ALS Learning Progress.md
       - Track Progress/(A2,i) View by Topic.md
       - Track Progress/(A2,ii) View by Month.md
       - Track Progress/(A2,iii) View by Student.md
       - Track Progress/(A2,iv) View Excluded Questions.md
-      - Track Progress/(B1) Access Error Tracker (New).md
+      - Track Progress/(B1) Access Error Tracker.md
       - Other Useful Information/.keep
       - Other Useful Information/Other Useful Information.md
       - Other Useful Information/Downloadable Resources.md

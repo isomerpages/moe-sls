@@ -51,7 +51,7 @@ above.</p>
 <li>
 <p>On the Reset Password page, enter a new password.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/4Troubleshooting/LT-ResetPassword.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/4Troubleshooting/Reset_Password.png">
 </div>
 <ul>
 <li>
@@ -110,8 +110,8 @@ your password.</p>
 <h4>Get Temporary Access to SLS</h4>
 <hr>
 <p>If you need to log in to the SLS during class and have forgotten your
-password, your teacher can generate a 2-Hour Temporary Password (2HTP).
-The 2HTP only allows you to access the Assignments and MOE Library. It
+password, your teacher can generate a 10-Hour Temporary Password (10HTP).
+The 10HTP only allows you to access the Assignments and MOE Library. It
 does not allow you to reset your password or change other details in your
 Profile.</p>
 <p>This is only a temporary solution. If you have forgotten your password,

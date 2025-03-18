@@ -6,7 +6,7 @@ third_nav_title: Author
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="edit-activities-sections-">(B1,iii) Edit Activities &amp; Sections</h1><hr>
+<h1 id="edit-activities-sections-">(B1,iii) Edit Activities &amp; Sections (Enhanced)</h1><hr>
 <h2 id="edit-activity">Edit Activity</h2>
 <hr>
 <ol>
@@ -27,7 +27,9 @@ variant: markdown
 	<p><u>Note</u>: In the Module Plan, click the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg"> to edit the Activity Title and Save icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Save.svg"> to save.</p>
 </li>
 </ul>
+</li><li>From March 2025 Update, you can edit pages in an Activity by clicking the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the page number and selecting <strong>Duplicate Page</strong>.
 </li>
+<p><img style="width: 100%;" src="/images/2Teacher/Au_EditActivitySection3.png"></p>
 </ol>
 <h2 id="edit-section">Edit Section</h2>
 <hr>

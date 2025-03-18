@@ -8,7 +8,9 @@ variant: markdown
 ---
 <h1>About Class Groups (Enhanced)</h1>
 <hr>
-<p><u>Important:</u> From Release 2 (Nov 2024), Class Groups that are older than four years will be automatically archived and can no longer be accessed.</p>
+<p><u>Important:</u> From Mar 2025 Update, owners and co-teachers of class groups can restore past class groups as active class groups <a target="_blank" href="/teacher-user-guide/organise/view-and-restore-past-class-groups/">here</a>.
+
+</p>
 <p>There are two types of Class Groups in SLS:</p>
 <ol>
     <li>Class Groups (Class) are created using subject class and teaching group information imported from School Cockpit. Class Groups are assigned a specific colour based on the subject type e.g. green for Sciences, orange for Mathematics.</li>
@@ -48,4 +50,8 @@ variant: markdown
     </ul>
 </li>
 </ol>
-<p><u>Note</u>: When you re-enter a Class Group, you will be on the tab that you were last on.</p>
+<p><u>Note</u>: 
+	</p><li>When you re-enter a Class Group, you will be on the tab that you were last on.</li>
+<li>Class Groups that are past its expiry year, or have been archived by owners can be accessed in the <a target="_blank" href="/teacher-user-guide/organise/view-past-class-groups/">Past tab</a>.</li>
+<li>Users can also access their past groups in the Past tab if they have been removed from the Class Groups.</li>
+<li>Class Groups that are older than four years will be automatically archived and can no longer be accessed.</li><p></p>

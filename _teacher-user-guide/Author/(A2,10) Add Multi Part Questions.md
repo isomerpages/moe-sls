@@ -42,3 +42,4 @@ variant: markdown
 <li><p>Click <a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">here</a> for adding questions in a Quiz.</p>
 </li>
 </ul>
+<p><u>Note:</u> From March 2025 Update, you can also edit certain fields, such as the Suggested Answer and Feedback fields, for a Free-Response Question after the module has been assigned and students have started attempting the question in the Multi-Part Question.</p>

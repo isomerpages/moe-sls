@@ -17,6 +17,6 @@ variant: markdown
 <li>Select the Google File you wish to add or embed from the file selection subpage, and click <strong>Select</strong>.</li>
 <li>Teachers are able to add and embed Google Files in the Text/Media component, or in the pre-populated student answer for students to access/attempt. </li>
 <li>When files are added from Google, the file will be shown in the text body as a media bar.</li>
-<li>When files are added to Pre-populated Student Answer in a Free-Response Question, a personal copy of the file, which students can access and edit, will be made for the students after the module is assigned in SLS.</li>
-<p><u>Note</u>: Teachers can edit the student file copies and access their version history.
+<li>When files are added to Pre-populated Student Answer in a Free-Response Question, a personal copy of the file, which students can access and edit, will be made for the students after the module is assigned in SLS. There will be a tooltip next to the file to indicate to teachers and students which Google Drive account the file is shared with.</li>
+<p><u>Note</u>: From Mar 2025 Update, teachers will be able to access their student’s Google Response files to see their drafts before submission.
 </p></ol>
