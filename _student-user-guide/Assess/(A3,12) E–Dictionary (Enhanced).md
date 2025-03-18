@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="e-dictionary">(A3,12) E-Dictionary (Enhanced)</h1><hr>
+<h1 id="e-dictionary">(A3,12) E-Dictionary</h1><hr>
 <p><u>Note</u>: E-Dictionary is only available for Chinese Language, Chinese Language with English translation, Tamil Language and Tamil Language with English translation.</p>
 <hr>
 <ol>
