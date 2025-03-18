@@ -14,7 +14,7 @@ variant: markdown
 Open the right menu and click on your Avatar or&nbsp;<strong>Edit Profile</strong>, then <strong>View Public Profile</strong> to view your module contributions, votes received, reviews given, communities joined, and badges earned. <img alt="Change Display Name" style="width: 50%;" src="/images/2Teacher/Cu-EditProfile.png">
 </ol>
 
-<h2>Edit Profile</h2>
+<h2>Change Display Name</h2>
 <hr>
 <ol>
   <li><p>Sometimes, your students may not know you by your default name shown on SLS. You may change the display name to an alias that your students identify you by. This display name will be used when you leave Announcements or Comments for students.</p>
