@@ -33,10 +33,11 @@ variant: markdown
 	<img alt="(C1,i) Add Feedback Assistant - Mathematics (FA-Math)" src="/images/2Teacher/AS_FA_Math3a.png" style="width: 100%;">
 
 <u>Note:</u>
-
-*   The handwriting function is also enabled for students’ use in other parts of SLS.
-*   You can use FA-Math together with Print-To-Scan to assess students’ handwritten mathematical workings. </li> 
-</ol>
+<ul>
+	<li>The handwriting function is also enabled for students’ use in other parts of SLS.</li>
+	<li>You can use FA-Math together with Print-To-Scan to assess students’ handwritten mathematical workings. </li> 
+		</ul>
+</li></ol>
 
 <ol><u>Supporting Resources</u>:
 <li><p>This <a target="_blank" href="https://go.gov.sg/fa-math-eposter">e-Poster</a> highlights key features of FA-Math.</p></li>
