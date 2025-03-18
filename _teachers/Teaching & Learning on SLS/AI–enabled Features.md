@@ -515,7 +515,7 @@ to advance learning.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_bubbles.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/ResponsibleAI_AgencyIcon.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -527,7 +527,7 @@ to advance learning.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_bulb.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_interactions.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -539,7 +539,7 @@ to advance learning.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_recording.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_question.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
