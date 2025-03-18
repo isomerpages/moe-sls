@@ -19,7 +19,7 @@ provide feedback for both language and content related feedback.</p>
 <li>
 <p>You may submit your response to the question, by clicking <strong>Submit Quiz</strong>.
 <br>
-<br>Note:
+<br><u>Note: </u>
 <br>From Mar 2025 SLS Update, you can upload PDFs or images as part of your
 response for assessment by ShortAnsFA.</p>
 <ul data-tight="true" class="tight">
@@ -30,7 +30,8 @@ response for assessment by ShortAnsFA.</p>
 </div>
 </li>
 <li>
-<p><strong>Submit</strong> if you are responding to a standalone question.
+<p><strong>Submit</strong> if you are responding to a standalone question
+or in a Progressive Quiz.
 <br>
 </p>
 <div class="isomer-image-wrapper">
@@ -63,7 +64,7 @@ annotation cards.
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/images_1Student_AS_SAFA_6.png">
 </div>
-<p>Note:
+<p><u>Note: </u>
 <br>As ShortAnsFA uses generative AI, its response is probabilistic in nature
 and this results in it being inaccurate at times. You are encouraged to
 reflect on the feedback received and discuss the feedback and marks with
