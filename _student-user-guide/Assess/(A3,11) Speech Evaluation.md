@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: tiptap
 ---
-<h1>(A3,11) Speech Evaluation</h1>
+<h1>(A3,11) Speech Evaluation Tool (Enhanced)</h1>
 <hr>
 <p><u>Note</u>:
 <br>Speech Evaluation is available in English, Chinese, Malay and Tamil.</p>
