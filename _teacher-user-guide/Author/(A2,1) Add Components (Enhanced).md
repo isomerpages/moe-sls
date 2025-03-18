@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="add-components-">(A2,1) Add Components (Enhanced)</h1><hr>
-<p>From March 2025 Update, you can duplicate components in a page by clicking the Overflow&nbsp;(3-dot&nbsp;icon) next to the component and selecting Duplicate Component.
+<p>From March 2025 Update, you can duplicate components in a page by clicking the <strong>Overflow&nbsp;(3-dot&nbsp;icon)</strong> next to the component and selecting <strong>Duplicate Component</strong>.
 </p><p> <img style="width: 80%;" src="/images/2Teacher/Au_DuplicateComponent.png"></p>
 <h2 id="add-a-text-media-component">Add a Text/Media Component</h2>
 <hr>
