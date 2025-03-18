@@ -57,8 +57,8 @@ added as a Group.</p>
 <li>
 <p>You can add teacher users from your school or other schools as Students
 in your Class Group.</p>
-<p>Note: Teachers added as a Student to a Group will only be able to access
-this Class Group using their accounts in&nbsp;<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/AccountManagement/SwitchToStudentView.html" rel="noopener noreferrer nofollow" target="_blank">Student View</a>.
+<p><u>Note: </u>Teachers added as a Student to a Group will only be able
+to access this Class Group using their accounts in&nbsp;<a href="https://docs.learning.moe.edu.sg/sls-user-guide/vle/teacher/AccountManagement/SwitchToStudentView.html" rel="noopener noreferrer nofollow" target="_blank">Student View</a>.
 They will also be given the Liaison Teacher role.</p>
 </li>
 <li>
@@ -274,7 +274,8 @@ have a Liaison Teacher role.</p>
 </p>
 </li>
 </ol>
-<p>Note:</p>
+<p><u>Note:</u>
+</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Teachers can only add students from their school.</p>
