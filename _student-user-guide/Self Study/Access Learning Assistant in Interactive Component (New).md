@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Self Study
 ---
-<h2>Access Learning Assistant in Discussion</h2>
+<h2>Access Learning Assistant in Interactive Component (New)</h2>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
