@@ -88,11 +88,9 @@ They will also be given the Liaison Teacher role.</p>
 <p>Owner</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• add/remove teachers&nbsp;(Owner only)
-<br>•
-<br>Approve/reject join requests for Staff Class Group and Communities. (Owner
-only)
-<br>
+<p>• Add/remove teachers&nbsp;(Owner only)
+<br>• Approve/reject join requests for Staff Class Group and Communities.
+(Owner only)
 <br>• Approve/reject join requests for Student and PD Class groups.</p>
 </td>
 <td rowspan="1" colspan="1">
