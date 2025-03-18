@@ -67,7 +67,8 @@ to the Class Group, followed by <strong>Add</strong>.</p>
 <li>
 <p>Teachers can send a request to join a Class Group, by accessing the Class
 Group URL, which has been shared by another teacher or student.</p>
-<p>Note: The owner/co-teacher of the Class Group must have enabled <strong>Allow requests to join Class Group with URL</strong>.</p>
+<p><u>Note: </u>The owner/co-teacher of the Class Group must have enabled <strong>Allow requests to join Class Group with URL</strong>.</p>
+<p></p>
 </li>
 <li>
 <p>Click <strong>Request to Join</strong>. Teachers will receive a notification
@@ -97,8 +98,7 @@ reject or approve the requests to join the Class Group.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/JoinClassGroup__1_.jpg">
 </div>
-<p><strong><u>Note:</u></strong> Teachers will be added as an Observer by
-default.</p>
+<p><u>Note:</u> Teachers will be added as an Observer by default.</p>
 </li>
 </ol>
 </li>
