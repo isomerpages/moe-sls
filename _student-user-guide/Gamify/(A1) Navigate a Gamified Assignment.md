@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Gamify
 ---
-<h1>(A1) Navigate a Gamified Assignment</h1>
+<h1>(A1) Navigate a Gamified Assignment (Enhanced)</h1>
 <hr>
 <h2>Navigate a Gamified Assignment</h2>
 <hr>
