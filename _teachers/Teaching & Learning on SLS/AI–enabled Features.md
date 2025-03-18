@@ -346,156 +346,6 @@ on a Knowledge Base that is appended by the teacher.</p>
 </ul>
 </details>
 
-
-<details>
-<summary><h4>Feedback Assistant Mathematics</h4></summary>
-<h5>Feedback Assistant - Mathematics</h5>
-<p>FA-Math is a rules-based engine that offers step-by-step hints and feedback
-to students’ workings, and suggested marks. It can generate randomised
-questions and support many question types including for geometry and graphs.</p>
-<h5>How does FA-Math enhance teaching and learning?</h5>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_marking.png">
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Provides line-by-line hints and feedback</strong>
-</p>
-<p>by analysing each step of a student’s working and offering customised
-&nbsp;hints and feedback.</p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_files.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Supports authoring of different question types</strong>
-</p>
-<p>by allowing teachers to design a diverse range of question types for students
-to demonstrate understanding and reinforce learning.&nbsp; ​</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_teacher.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Redirects time to other T&amp;L activities</strong>
-</p>
-<p>by allowing teachers to spend more time with students and provide targeted
-support to advance learning​, with its ability to generate questions with
-randomised variables and automate grading and provision of hints and feedback.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h5>Educator Resources</h5>
-<hr>
-<p>Teachers User Guide (UG) which includes step-by-step videos, sample questions
-and e-Poster:</p>
-<ul>
-<li>
-<p><a href="/teacher-user-guide/assess/add-mathematics-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
-</p>
-</li>
-</ul>
-<p>Students User Guide (UG):</p>
-<ul>
-<li>
-<p><a href="/student-user-guide/assess/about-mathematics-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
-</p>
-</li>
-</ul>
-<p></p>
-
-</details>
-<details>
-	<summary><h4>Language Feedback Assistant for English</h4></summary>
-<h5>Language Feedback Assistant for English</h5>
-<p>LangFA-EL supports students'&nbsp;writing process by providing feedback
-to students' writing in basic areas like spelling, grammar and syntax.</p>
-<h5>How does LangFA-EL enhance teaching and learning?</h5>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_marking.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Automates basic error identification</strong>
-</p>
-<p>by identifying basic errors in students’ writing and suggesting how these
-errors can be corrected.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_files.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Provides curriculum-aligned feedback</strong>
-</p>
-<p>by providing feedback on language errors, in alignment with the English
-Language curriculum.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_teacher.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Redirects time to other T&amp;L activities</strong>
-</p>
-<p>by allowing teachers to focus on guiding students in the more complex
-aspects of language construction, and developing higher-level skills like
-creative expression, persuasiveness, and tone.&nbsp;Teachers can also pay
-greater attention to students who need extra help.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h5>Educator Resources</h5>
-<hr>
-<p>Teachers User Guide (UG) which includes a step-by-step video:</p>
-<ul>
-<li>
-<p><a href="/teacher-user-guide/assess/add-language-feedback-assistant-for-english/" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
-</p>
-</li>
-</ul>
-<p>Students User Guide (UG):</p>
-<ul>
-<li>
-<p><a href="/student-user-guide/assess/about-language-feedback-assistant-for-english/" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
-</p>
-</li>
-</ul>
-
-</details>
 <details>
 	<summary><h4>Short Answer Feedback Assistant</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
@@ -577,4 +427,143 @@ to advance learning.</p>
 </div>
 </details>
 
+<details>
+<summary><h4>Feedback Assistant Mathematics</h4></summary>
+<h5>Feedback Assistant - Mathematics</h5>
+<p>FA-Math is a rules-based engine that offers step-by-step hints and feedback
+to students’ workings, and suggested marks. It can generate randomised
+questions and support many question types including for geometry and graphs.</p>
+<h5>How does FA-Math enhance teaching and learning?</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_marking.png">
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Provides line-by-line hints and feedback</strong>
+</p>
+<p>by analysing each step of a student’s working and offering customised
+&nbsp;hints and feedback.</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_files.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Supports authoring of different question types</strong>
+</p>
+<p>by allowing teachers to design a diverse range of question types for students
+to demonstrate understanding and reinforce learning.&nbsp; ​</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_teacher.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Redirects time to other T&amp;L activities</strong>
+</p>
+<p>by allowing teachers to spend more time with students and provide targeted
+support to advance learning​, with its ability to generate questions with
+randomised variables and automate grading and provision of hints and feedback.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>Educator Resources</h5>
+<hr>
+<p>Teachers User Guide (UG) which includes step-by-step videos, sample questions
+and e-Poster:</p>
+<ul>
+<li>
+<p><a href="/teacher-user-guide/assess/add-mathematics-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
+</p>
+</li>
+</ul>
+<p>Students User Guide (UG):</p>
+<ul>
+<li>
+<p><a href="/student-user-guide/assess/about-mathematics-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
+</p>
+</li>
+</ul>
+</details>
+
+<details>
+	<summary><h4>Speech Evaluation Tool</h4></summary>
+<p>Speech Evaluation Tool (SET) provides automated feedback on students' spoken responses. Designed to support oral communication skills, SET helps students refine their pronunciation, fluency, and speech clarity through targeted formative feedback.</p>
+<h5>How does SET enhance teaching and learning?</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_marking.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Applicable across different subjects and levels</strong>
+</p>
+<p>Can be used for English Language, Mother Tongue Languages across levels, to help students improve their speech delivery and articulation.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_files.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Encourages self-directed learning</strong>
+</p>
+<p>Students can record, review, and revise their spoken responses based on auto-generated feedback, allowing them to track improvements and build confidence in speaking.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_teacher.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Supports deeper learning in oral communication</strong>
+</p>
+<p>Helps students develop effective speaking skills across various communicative contexts, such as presentations and reading aloud.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>Educator Resources</h5>
+<hr>
+<p>Teachers User Guide (UG) which includes a step-by-step video:</p>
+<ul>
+<li>
+<p><a href="/teacher-user-guide/author/speech-evaluation/" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
+</p>
+</li>
+</ul>
+<p>Students User Guide (UG):</p>
+<ul>
+<li>
+<p><a href="/student-user-guide/assess/speech-evaluation/" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
+</p>
+</li>
+</ul>
+</details>
