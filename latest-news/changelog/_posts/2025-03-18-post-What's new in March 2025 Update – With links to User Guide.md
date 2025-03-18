@@ -39,13 +39,13 @@ variant: markdown
 </ol></details></li>
 <li><details><summary><h4>Upvote</h4></summary>
 <ol>
-<li><a target="_blank" href="/teacher-user-guide/collaborate/post-and-comment-in-the-forum/">Teachers</a> and <a target="_blank" href="/student-user-guide/collaborate/view-and-respond-in-the-forum/">students</a> can vote for posts in discussions and class group forums. This feature can be enabled or disabled by teachers.</li>
+<li><a target="_blank" href="/teacher-user-guide/collaborate/post-and-comment-in-the-forum/">Teachers</a> and <a target="_blank" href="/student-user-guide/collaborate/posting-on-a-discussion-topic/">students</a> can vote for posts in discussions and class group forums. This feature can be enabled or disabled by teachers.</li>
 <li>Teachers and students can <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">vote</a> for modules in the MOE Library (for both teachers and students) and the Community Gallery (for teachers only). They can also <a target="_blank" href="/teacher-user-guide/discover/search-for-resources/">sort</a> their search results by “Most Voted ".</li>
 
 </ol>
 <li><details><summary><h4>Discussions and Forums</h4></summary>
 <ol>
-<li><a target="_blank" href="/teacher-user-guide/collaborate/post-and-comment-in-the-forum/">Teachers</a> and <a target="_blank" href="/student-user-guide/collaborate/view-and-respond-in-the-forum/">students</a> can view the latest comments for each post in discussions and class group forums without needing to open the post. They can also sort posts by “Latest” and “Most Voted”.</li>
+<li><a target="_blank" href="/teacher-user-guide/collaborate/post-and-comment-in-the-forum/">Teachers</a> and <a target="_blank" href="/student-user-guide/collaborate/comment-in-the-forum/">students</a> can view the latest comments for each post in discussions and class group forums without needing to open the post. They can also sort posts by “Latest” and “Most Voted”.</li>
 
 <li>Avatars of teachers and students are&nbsp;shown next to their names in posts and comments.</li>
 
