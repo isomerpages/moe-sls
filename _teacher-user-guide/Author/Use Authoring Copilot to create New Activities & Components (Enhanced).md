@@ -50,7 +50,7 @@ Click the <b>Up/Down</b> arrows to set the Section/ Activity Duration in the Mod
 </li>
 <img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 80%;" src="/images/2Teacher/AU_ACPComponent13.png">
 <p>If no details are provided, Authoring Copilot will generate Activities and Components  based on the curriculum. For more tailored results, you can start broad and add specifics when regenerating.</p>
-<li>You can add a Knowledge Base by clicking the checkbox next to Use Knowledge Base, followed by clicking <b>Add Knowledge Base</b>.</li>
+<li>You can add a Knowledge Base by clicking <b>Add Knowledge Base</b>.</li>
 	<img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 80%;" src="/images/2Teacher/AU_ACPComponent14.png">
 <li>You can upload up to 20 Knowledge Bases that can comprise text, PDFs or images. These These Knowledge Bases can be used when generating sections, activities/quizzes and components in a module. Knowledge Base Titles should be entered to organise your Knowledge Bases so that you can easily find and append the relevant Knowledge Base(s) for different activities in a module, e.g. Reading 1 for Activity 1, Chapter 2 Notes for Activity 2, etc.</li>
 <li>To add PDF or images, click <strong>Add Media</strong>, and <strong>Upload File</strong>.</li>
