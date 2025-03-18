@@ -25,14 +25,13 @@ and students.</p>
 <li>
 <p>Click <strong>Add Student</strong> and select either <strong>Student (School)</strong>, <strong>Student (Group)</strong> or <strong>Teacher as Student</strong>
 </p>
-</li>
-</ol>
-<p>Note:</p>
-<p>◦ If you add a teacher as a&nbsp;Student (School) or Student (Group),
-the teachers will be added as a students and can only view Assignments
+<p></p>
+<p><u>Note:</u> If you add a teacher as a&nbsp;Student (School) or Student
+(Group), the teachers will be added as a students and can only view Assignments
 when they switch to their student account. They will not have admin privileges
 to the Class Group.</p>
-<ol data-tight="true" class="tight">
+<p></p>
+</li>
 <li>
 <p>When you add a teacher as Student (School), you can search for the teacher's
 name from the Search Bar. Alternatively, click the <strong>Filter</strong> icon
