@@ -9,11 +9,14 @@ variant: markdown
 <h1 id="-3a-comment-in-the-forum">(B3,1) View and Respond in the Forum (Enhanced)</h1><hr>
 <h2 id="view-posts">View Posts</h2>
 <hr>
-<p>From March 2025 Update, you may choose to sort posts by clicking on the dropdown arrow next to Sort By.</p>
+<p>From March 2025 Update, you may choose to sort posts by clicking on the dropdown arrow next to <strong>Sort By</strong>.</p>
 <h2 id="respond-to-a-post">Respond to a Post</h2>
 <hr>
 <ol>
-<li>Click on a <strong>Post card</strong> to open the <strong>View Post</strong> subpage.</li>
+From Mar 2025 SLS Update, you may also upvote posts in the forum by clicking on the <strong>Upvote</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Add.png"> on the <strong>Post card</strong>.
+<img alt="Comment in the Forum" style="width: 100%;" src="/images/1Student/upvote__1_.png">	
+<p>
+</p><li>Click on a <strong>Post card</strong> to open the <strong>View Post</strong> subpage.</li>
 <li>Click the <strong>Add</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Add.png"> at the bottom right of the View Post card. Type your comments and click <strong>Post</strong> to publish them.</li>
 	<p><u>Note</u>: If comments have been disabled, you will not see the Add icon.</p>
 <li>You may add comments in the form of text, mathematical/chemical equations, emojis, images, drawings,  file attachments and audio recordings.</li>
