@@ -6,7 +6,7 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A1,i) Access Class Groups</h1>
+<h1>(A1,i) Access Class Groups (Enhanced)</h1>
 <hr>
 <h2>Access Class Groups</h2>
 <hr>
