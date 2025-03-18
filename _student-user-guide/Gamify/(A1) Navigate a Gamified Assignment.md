@@ -70,13 +70,12 @@ Avatars as you progress through your gamified assignments.</p>
 </ul>
 </li>
 <li>
-<p>You can view the XP Modifiers from the&nbsp;<strong>XP and Level</strong>&nbsp;tab
+<p>You can view the XP Modifiers from the&nbsp;<strong>Experience Points </strong>tab
 on the Gamification subpage. This gives you information on how bonus XP
 is being awarded and the number of XP required to level up (move to the
 next level).</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Navigate a Gamified Assignment" src="/images/1Student/G-AttemptGamified1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1Student/G_AttemptGamified6.png">
 </div>
 <p></p>
 </li>
@@ -149,9 +148,8 @@ read the Achievement.
 <br>Digital Badges, created by the authors of MOE Library modules, can be
 awarded to your profile once you meet the specified conditions while completing
 these modules. You may view your Digital Badges on your profile page.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Navigate a Gamified Assignment" src="/images/1Student/G-AttemptGamified3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1Student/G_AttemptGamified7.png">
 </div>
 </li>
 <li>
@@ -162,9 +160,8 @@ set the avatar as your game avatar.</p>
 <p>Under the <strong>Team Members</strong> tab (if Team Game is enabled by
 your teacher), you will be able to view all your team members. You can
 work with your team member cooperatively to unlock Game Story and Achievements.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Navigate a Gamified Assignment" src="/images/1Student/G-AttemptGamified4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1Student/G_AttemptGamified8.png">
 </div>
 </li>
 <li>
