@@ -15,11 +15,17 @@ feedback given (e.g. provide the correct response, hint, or probing questions)
 to meet their students’ learning needs.</p>
 <p><u>Important:</u>
 </p>
+<ul data-tight="true" class="tight">
+<li>
 <p>As AFA uses generative AI, its response is probabilistic in nature. Thus,
 it may not always identify errors comprehensively, and teachers should
 review and refine the feedback to ensure accuracy and alignment with learning
 objectives.</p>
+</li>
+<li>
 <p>File Submission is disabled when using AFA.</p>
+</li>
+</ul>
 <h2><strong>Create an AFA question</strong></h2>
 <hr>
 <ol>
