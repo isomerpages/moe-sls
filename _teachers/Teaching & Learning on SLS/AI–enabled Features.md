@@ -515,7 +515,7 @@ and e-Poster:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_marking.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_bubbles.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -527,7 +527,7 @@ and e-Poster:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_files.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_bulb.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
@@ -539,7 +539,7 @@ and e-Poster:</p>
 <tr>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_teacher.png">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_recording.png">
 </div>
 </td>
 <td rowspan="1" colspan="1">
