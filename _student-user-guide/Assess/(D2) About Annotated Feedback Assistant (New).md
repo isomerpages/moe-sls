@@ -34,9 +34,8 @@ meet their students’ learning needs.</p>
 drawer, which can be displayed by clicking on the right drawer icon. To
 view more details of the error, click on the comment icon of the annotation
 cards.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annotated_Feedback_Assistant__Student___D2____3.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1Student/Annotated_Feedback_Assistant.png">
 </div>
 <p>Note:
 <br>As AFA uses generative AI, the response is probabilistic in nature and
