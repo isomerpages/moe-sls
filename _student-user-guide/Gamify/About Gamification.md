@@ -15,7 +15,7 @@ variant: markdown
 <p><strong>Experience Points (XP)</strong> - XP is awarded to you to measure your progress within the game. XP is converted from marks awarded from your Assignment/Assessment.</p>
 <p><strong>Levels</strong> - Levels are dependent on the XP collected. When you collect enough XP, you can level up (progress to the next level).</p>
 <p><strong>Game Stories</strong> - You can read about the scenario your teacher has designed for you as you progress in the module</p>
-<p><strong>Collectibles</strong> - There are two types of Collectibles:
+<p><strong>Collectibles</strong> - There are three types of Collectibles:
 	</p><ul>
 		<li><strong>Achievements</strong> - These are rewards awarded to you as you progress in the module.</li>
 		<li><strong>Avatar</strong> - These are characters or items awarded to you. You may replace your SLS avatar with avatars you obtained as you progress in the module.</li>
@@ -25,12 +25,15 @@ variant: markdown
 <p>Gamified Modules are indicated with the Gamification icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Game.svg"> on Assignment cards.</p>
  <img alt="About Gamification" style="width: 50%;" src="/images/1Student/G-AboutGamification1.png">
  
- <p><strong>View Digital Badges</strong>
-	</p><li>You can locate your Digital Badges by clicking on your avatar at the top corner.</li>
+ <h2 id="-view-digital-badges-">View Digital Badges</h2>
+<hr>
+<ol>
+	<p></p><li>You can locate your Digital Badges by clicking on your avatar at the top corner.</li>
 	 <img alt="About Gamification" style="width: 50%;" src="/images/1Student/GAM_STU1.png">
 	 <img alt="About Gamification" style="width: 50%;" src="/images/1Student/GAM_STU2.png">
-	<li>You can view your classmate’s Digital Badges by going to a Class Group and clicking View Members.</li>
+	<li>You can view your classmate’s Digital Badges by going to a Class Group and clicking <strong>View Members</strong>.</li>
 		 <img alt="About Gamification" style="width: 50%;" src="/images/1Student/GAM_STU3.png">
 	<li>Click on your classmate's avatar.</li>
 	 <img alt="About Gamification" style="width: 50%;" src="/images/1Student/GAM_STU4.png">
 	 <img alt="About Gamification" style="width: 50%;" src="/images/1Student/GAM_STU5.png">
+	 </ol><p></p>
