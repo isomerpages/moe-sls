@@ -70,8 +70,8 @@ the bottom right.</p>
 <p>You can Edit or Delete your response by clicking on the <strong>Overflow</strong> (<strong>3-dot</strong> icon).</p>
 </li>
 <li>
-<p>You may choose to upvote responses by clicking on the <strong>Upvote</strong> icon</p>
-<p>on the Response Card.</p>
+<p>You may choose to upvote responses by clicking on the <strong>Upvote</strong> icon
+on the Response Card.</p>
 </li>
 </ol>
 <p></p>
