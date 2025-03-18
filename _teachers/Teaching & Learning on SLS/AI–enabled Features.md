@@ -347,6 +347,81 @@ on a Knowledge Base that is appended by the teacher.</p>
 </details>
 
 <details>
+<summary><h4>Feedback Assistant Mathematics</h4></summary>
+<h5>Feedback Assistant - Mathematics</h5>
+<p>FA-Math is a rules-based engine that offers step-by-step hints and feedback
+to students’ workings, and suggested marks. It can generate randomised
+questions and support many question types including for geometry and graphs.</p>
+<h5>How does FA-Math enhance teaching and learning?</h5>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_marking.png">
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Provides line-by-line hints and feedback</strong>
+</p>
+<p>by analysing each step of a student’s working and offering customised
+&nbsp;hints and feedback.</p>
+<p></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_files.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Supports authoring of different question types</strong>
+</p>
+<p>by allowing teachers to design a diverse range of question types for students
+to demonstrate understanding and reinforce learning.&nbsp; ​</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_teacher.png">
+</div>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Redirects time to other T&amp;L activities</strong>
+</p>
+<p>by allowing teachers to spend more time with students and provide targeted
+support to advance learning​, with its ability to generate questions with
+randomised variables and automate grading and provision of hints and feedback.</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h5>Educator Resources</h5>
+<hr>
+<p>Teachers User Guide (UG) which includes step-by-step videos, sample questions
+and e-Poster:</p>
+<ul>
+<li>
+<p><a href="/teacher-user-guide/assess/add-mathematics-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
+</p>
+</li>
+</ul>
+<p>Students User Guide (UG):</p>
+<ul>
+<li>
+<p><a href="/student-user-guide/assess/about-mathematics-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
+</p>
+</li>
+</ul>
+</details>
+
+<details>
 	<summary><h4>Short Answer Feedback Assistant</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>Short Answer Feedback Assistant (ShortAnsFA) provides suggested marks
@@ -425,81 +500,6 @@ to advance learning.</p>
 </li>
 </ul>
 </div>
-</details>
-
-<details>
-<summary><h4>Feedback Assistant Mathematics</h4></summary>
-<h5>Feedback Assistant - Mathematics</h5>
-<p>FA-Math is a rules-based engine that offers step-by-step hints and feedback
-to students’ workings, and suggested marks. It can generate randomised
-questions and support many question types including for geometry and graphs.</p>
-<h5>How does FA-Math enhance teaching and learning?</h5>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_marking.png">
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Provides line-by-line hints and feedback</strong>
-</p>
-<p>by analysing each step of a student’s working and offering customised
-&nbsp;hints and feedback.</p>
-<p></p>
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_files.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Supports authoring of different question types</strong>
-</p>
-<p>by allowing teachers to design a diverse range of question types for students
-to demonstrate understanding and reinforce learning.&nbsp; ​</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AI in Education/icon_teacher.png">
-</div>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Redirects time to other T&amp;L activities</strong>
-</p>
-<p>by allowing teachers to spend more time with students and provide targeted
-support to advance learning​, with its ability to generate questions with
-randomised variables and automate grading and provision of hints and feedback.</p>
-</td>
-</tr>
-</tbody>
-</table>
-<h5>Educator Resources</h5>
-<hr>
-<p>Teachers User Guide (UG) which includes step-by-step videos, sample questions
-and e-Poster:</p>
-<ul>
-<li>
-<p><a href="/teacher-user-guide/assess/add-mathematics-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
-</p>
-</li>
-</ul>
-<p>Students User Guide (UG):</p>
-<ul>
-<li>
-<p><a href="/student-user-guide/assess/about-mathematics-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
-</p>
-</li>
-</ul>
 </details>
 
 <details>
