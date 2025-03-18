@@ -21,13 +21,14 @@ variant: markdown
 <p><u>Note</u>: There is no way to delete a Class Group. Assignments, Resources, Forum cards and Apps found within will still be viewable.</p>
 
 <h1>Restore Past Class Groups (Enhanced)</h1><hr>
-
-1.  From the Past Class Groups page, select the Class Group you wish to restore.
-    
-2.  Click on the **Admin** tab.
-![](/images/2Teacher/ORG_CG1.png)
-    
-3.  Click **Restore Group**.
-    
-4.  Click **OK** to restore group. You may change the expiry year in the Admin tab after the group has been restored.
-![](/images/2Teacher/ORG_CG2.png)
+<ol>
+	<li>From the Past Class Groups page, select the Class Group you wish to restore.</li>
+	<li>Click on the <strong>Admin</strong> tab.
+		<br>
+<img alt="View Past Class Groups" style="width: 100%;" src="/images/2Teacher/ORG_CG1.png">
+<br>
+	</li><li>Click <strong>Restore Group</strong>.</li>
+	<li>Click <strong>OK</strong> to restore group. You may change the expiry year in the Admin tab after the group has been restored.
+				<br>
+<img alt="View Past Class Groups" style="width: 60%;" src="/images/2Teacher/ORG_CG2.png">
+<br></li></ol>
