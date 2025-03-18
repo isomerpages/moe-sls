@@ -11,7 +11,7 @@ variant: markdown
 <ol>
 <li>To access ALS, open the left menu from the header at the homepage and click <strong>Resources</strong>, followed by <strong>Adaptive Learning</strong>.</li>
 <li>Access to Adaptive Learning is based on level and subject. Students can access ALS content below their current level of learning and one level above their current level of learning. (If you are in Primary 5, you will be able to access content tagged to Primary 6, together with content from Primary 1 to 4). 
-<p><u>Note</u>: Currently, it is available for selected topics in Mathematics (Upper Primary and Lower Secondary) and Geography (Upper Secondary). It will also be made available for selected topics in Mathematics (Lower Secondary) in 2025.</p></li>
+<p><u>Note</u>: Currently, it is available for selected topics in Mathematics (Upper Primary and Lower Secondary) and Geography (Upper Secondary).</p></li>
 <img alt="Access Adaptive Learning System (ALS)" src="/images/1Student/SS-AccessAdaptiveLearning01.png" style="width: 100%;">
 <br>
 <li>When you first access the ALS, you will be presented with some questions for the system to understand your learning profile and goals.</li>
