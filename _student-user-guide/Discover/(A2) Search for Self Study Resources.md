@@ -6,7 +6,7 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A2) Search for Self-Study Resources (Enhanced)</h1>
+<h1>(A2) Search for Self-Study Resources</h1>
 <hr>
 <h2>Using Search Bar from Homepage</h2>
 <hr>
