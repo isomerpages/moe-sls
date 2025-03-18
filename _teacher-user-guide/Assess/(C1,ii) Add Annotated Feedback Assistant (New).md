@@ -26,7 +26,7 @@ objectives.</p>
 <p>File Submission is disabled when using AFA.</p>
 </li>
 </ul>
-<h2><strong>Create an AFA question</strong></h2>
+<h2>Create an AFA question</h2>
 <hr>
 <ol>
 <li>
@@ -68,10 +68,8 @@ include the AFA enabled question within a Teacher Marked Quiz.</p>
 </tbody>
 </table>
 <p>To learn more about the different quiz modes, click <a href="/teacher-user-guide/assess/create-quizzes/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<ul data-tight="true" class="tight">
-<li>
 <p><u>Note</u>:</p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>To use AFA in a standalone question, click <strong>Add New</strong> on the
 Module Editor page, then select <strong>Activity</strong>. Proceed to Step
@@ -95,7 +93,7 @@ the Component Bar. The Create New Question subpage will open.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Alternatively, you can choose Default Free-Response then click the checkbox
-next to&nbsp;<strong>Use</strong>&nbsp;and select&nbsp;<strong>Annotated Feedback Assistant</strong>.</p>
+next to&nbsp;<strong>Use Feedback Assistant</strong>&nbsp;and select&nbsp;<strong>Annotated Feedback Assistant</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_AFA2.png">
 </div>
