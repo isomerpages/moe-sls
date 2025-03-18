@@ -15,7 +15,7 @@ variant: markdown
 <p><strong>Experience Points (XP)</strong> - XP is awarded to students to measure their progress within the game. XP is converted from marks awarded to them in Assignments/Assessments.</p>
 <p><strong>Levels</strong> - Levels are dependent on the XP collected. When students collect enough XP, they can level up (progress to the next level).</p>
 <p><strong>Game Stories</strong> - Game Stories can be used to drive the narrative of a story and character development as the Module progresses.</p>
-<p><strong>Collectibles</strong> - There are two types of Collectibles:</p>
+<p><strong>Collectibles</strong> - There are three types of Collectibles:</p>
 <ul><li>Achievement - Achievements can be used to reward your students as the module progresses.</li>
 	<li>Avatar - Avatars can be characters or items awarded to your students. Your students can replace their SLS Avatar within the Module with these avatars.</li>
 		<li>Digital Badges - Digital badges are special badges awarded to students and teachers’ profile for completing self-study modules from MOE Library. Students may view their digital badges on their profile page.</li>
