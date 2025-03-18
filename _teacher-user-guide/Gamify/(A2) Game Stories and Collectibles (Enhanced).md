@@ -13,19 +13,19 @@ variant: markdown
 <p>On the Gamification subpage, select the <strong>Game Story</strong> tab:</p>
 <ol>
 <li>You may view Game Stories with or without conditions by clicking the <strong>Condition</strong> dropdown list.</li>
-<li>To create a Game Story, click <strong>Add Game Story</strong>. You will need to enter the following details:<ol style="list-style-type: lower-roman;">
+<li>To create a game story, click <strong>Add Game Story</strong>. You will need to enter the following details:<ol style="list-style-type: lower-roman;">
 <ol style="list-style-type: lower-alpha;">
 	<li><strong>Game Story Audio (NEW)</strong> - Teacher can choose to add audio to all game stories. To add game story audio, click the toggle for Loop Audio. You may use the default audio or upload your own custom audio.
 <p><img alt="Game Stories and Collectibles" style="width: 80%;" src="/images/2Teacher/GAM_GS1.png"></p>
 	
-</li><li><strong>Title</strong> - The game story title will be pre-filled for you as “Untitled Game Story”. Change the Title to one that is concise and unique to help you identify the Game Story.</li>
+</li><li><strong>Title</strong> - The game story title will be pre-filled for you as “Untitled Game Story”. Change the Title to one that is concise and unique to help you identify the game story.</li>
 <li><strong>Description</strong> - The description allows you to describe the story, up to a character limit of 2000 characters. You can upload a Audio/Video file in the description field.</li>
 <li><strong>Image</strong> - This image will be visible as a prompt for the student when they fulfill the required conditions for the Game Story. If left empty, a default Game Story icon will be populated for you. You can hide image when it is awarded.
 	<p><u>Note:</u> Images for game story prompts will be uploaded with 16:9 aspect ratio.</p></li>
 <li><strong>Game Branches (Optional)</strong> - Select Game Choices or Short Response Text and click Add Branch.</li>	
 <ol style="list-style-type: lower-roman;">
 <li>Game Choice - Enter an option in each branch. To add more branches, click <b>Add Branch</b>. Each branch is an option for students to select when they are awarded the Game Story. </li>
-<li>Short Response Text - Enter all acceptable answers in Branch A. All other responses provided by students when they are awarded the Game Story will direct them to Branch (All Other Response).</li>
+<li>Short Response Text - Enter all acceptable answers in Branch A. All other responses provided by students when they are awarded the game story will direct them to Branch (All Other Response).</li>
 </ol>
 </ol>
 <li>Click Create to proceed.</li>
@@ -46,10 +46,10 @@ variant: markdown
 </ol>
 </li>
 <li>
-<p>You may view Collectibles with or without conditions by clicking the <strong>Condition</strong> dropdown list.</p>
+<p>You may view collectibles with or without conditions by clicking the <strong>Condition</strong> dropdown list.</p>
 </li>
 <li>
-<p>To create a Collectible, click <strong>Add Collectible</strong>. You will need to enter the following details:</p>
+<p>To create a collectible, click <strong>Add Collectible</strong>. You will need to enter the following details:</p>
 <ol style="list-style-type: lower-alpha;">
 <li>
 <p><strong>Collectible Type</strong> - The two collectible types are Achievement and Avatar. Choose one that best suits your need.</p>
