@@ -30,7 +30,7 @@ variant: markdown
     <ul>
         <li>you have been added to a Class Group as a Liaison teacher by another teacher.</li>
         <li>you have been added to a Class Group as a student. You will be given a Liaison teacher role.</li>
-			<li>Click <a target="_blank" href="/teacher-user-guide/organise/create-class-groups/">here</a> to find out more about the role.<p></p>
+			<li>Click <a target="_blank" href="/teacher-user-guide/organise/create-class-groups-and-communities/">here</a> to find out more about the role.<p></p>
     </li></ul>    
 </li>
 
@@ -52,6 +52,6 @@ variant: markdown
 </ol>
 <p><u>Note</u>: 
 	</p><li>When you re-enter a Class Group, you will be on the tab that you were last on.</li>
-<li>Class Groups that are past its expiry year, or have been archived by owners can be accessed in the <a target="_blank" href="/teacher-user-guide/organise/view-past-class-groups/">Past tab</a>.</li>
+<li>Class Groups that are past its expiry year, or have been archived by owners can be accessed in the <a target="_blank" href="/teacher-user-guide/organise/view-and-restore-past-class-groups/">Past tab</a>.</li>
 <li>Users can also access their past groups in the Past tab if they have been removed from the Class Groups.</li>
 <li>Class Groups that are older than four years will be automatically archived and can no longer be accessed.</li><p></p>
