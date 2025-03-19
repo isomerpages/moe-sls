@@ -75,9 +75,8 @@ on the Gamification subpage. This gives you information on how bonus XP
 is being awarded and the number of XP required to level up (move to the
 next level).</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1Student/G_AttemptGamified6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1Student/G_AttemptGamified9.png">
 </div>
-<p></p>
 </li>
 <li>
 <p>There are different types of XP Modifiers. The XP Modifiers are categorised
@@ -127,13 +126,12 @@ a Progressive Quiz.</p>
 </ul>
 </li>
 <li>
-<p>Under the <strong>Game Story</strong> tab, you will be able to view the
+<p>Under the <strong>Game Stories</strong> tab, you will be able to view the
 Awarded Game Story. Game Stories with preset&nbsp;conditions will only
 appear after all&nbsp;conditions have been fulfilled. Click <strong>Preview</strong> to
 read the Game Story.</p>
-<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Navigate a Gamified Assignment" src="/images/1Student/G-AttemptGamified2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1Student/G_AttemptGamified6.png">
 </div>
 </li>
 <li>
