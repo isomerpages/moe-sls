@@ -22,6 +22,7 @@ variant: markdown
 <li><a href="/teacher-user-guide/author/add-new-activities-and-sections/" target="_blank">(A1,2) Add New Activities &amp; Sections</a></li>
 <li><a href="/teacher-user-guide/author/add-existing-from-library-and-starred-resources/" target="_blank">(A1,3) Add Existing From Library &amp; Starred Resources</a></li>
 <li><a href="/teacher-user-guide/author/add-introduction/" target="_blank">(A1,4) Add Introduction</a></li>
+<li><a href="/teacher-user-guide/author/add-section-adaptive/" target="_blank">(A1,5) Add Section (Adaptive) (New)</a></li>
 </ul>
 
 <p>A2. Add Components</p>	
