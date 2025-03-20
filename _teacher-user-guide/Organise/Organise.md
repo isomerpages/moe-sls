@@ -13,7 +13,7 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <summary><h4>A. How to create Class Groups in SLS?</h4></summary>
 <ul>
 <li><a href="/teacher-user-guide/organise/about-class-groups/" target="_blank">About Class Groups</a></li>
-<li><a href="/teacher-user-guide/organise/create-class-groups/" target="_blank">(A1) Create Class Groups</a></li>
+<li><a href="/teacher-user-guide/organise/create-class-groups-and-communities/" target="_blank">(A1) Create Class Groups and Communities</a></li>
 <li><a href="/teacher-user-guide/organise/add-teachers-as-students-to-a-class-group/" target="_blank">(A2) Add Teachers as Students to a Class Group</a></li>
 </ul>
 </details>
@@ -39,7 +39,7 @@ Use SLS to to organise your personal and class group resources, assignments and 
 <ul>
 <li><a target="_blank" href="/teacher-user-guide/organise/pin-class-groups/">(D1,i) Pin Class Groups</a></li>
 <li><a target="_blank" href="/teacher-user-guide/organise/archive-class-groups/">(D1,ii) Archive Class Groups</a></li>
-<li><a target="_blank" href="/teacher-user-guide/organise/view-past-class-groups/">(D1,iii) View Past Class Groups</a></li>
+<li><a target="_blank" href="/teacher-user-guide/organise/view-and-restore-past-class-groups/">(D1,iii) View and Restore Past Class Groups</a></li>
 </ul>
 </details>
 <br>

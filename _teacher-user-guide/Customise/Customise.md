@@ -14,7 +14,7 @@ variant: markdown
  <summary><h4>A. How to manage my SLS account?</h4></summary>
 <p>Manage Personal Account</p>
 <ul><li><a target="_blank" href="/teacher-user-guide/customise/customise-an-avatar/">(A1,i) Customise an Avatar</a></li>
-  <li><a target="_blank" href="/teacher-user-guide/customise/change-display-name/">(A1,ii) Change Display Name</a></li>
+  <li><a target="_blank" href="/teacher-user-guide/customise/view-and-edit-profile/">(A1,ii) View and Edit Profile</a></li>
   <li><a target="_blank" href="/teacher-user-guide/customise/set-an-alternate-email-address/">(A1,iii) Set an Alternate Email Address</a></li>
   <li><a target="_blank" href="/teacher-user-guide/customise/set-email-notifications/">(A1,iv) Set Email Notifications</a></li>
   <li><a target="_blank" href="/teacher-user-guide/customise/manage-linked-account/">(A1,v) Manage Linked Account</a></li>
