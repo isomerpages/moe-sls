@@ -420,8 +420,8 @@ have requested to join.
 <li>
 <p>Check the box next to the name of the teacher, then click <strong>Reject</strong> or <strong>Approve</strong> to
 reject or approve the requests to join the Community.</p>
-<p><u>Note:</u> Owners/co-teachers will also receive notifications when there
-are requests to join the Community.</p>
+<p><u>Note:</u> Owners will also receive notifications when there are requests
+to join the Community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/JoinClassGroup__2_.jpg">
