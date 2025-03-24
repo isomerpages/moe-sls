@@ -38,6 +38,7 @@ be added by the Owner/Co-teacher of the Class Group manually.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/JoinClassGroup1.jpg">
 </div>
+<p>Note: You may locate the Class Group URL from the browser's address bar.</p>
 </li>
 <li>
 <p>You can add students from:</p>
@@ -352,6 +353,7 @@ URL.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/upscalemedia_transformed__1_.jpg">
 </div>
+<p></p>
 </li>
 <li>
 <p>Your Community has been successfully created.</p>
