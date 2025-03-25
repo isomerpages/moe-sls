@@ -274,7 +274,7 @@ https://www.coolmath4kids.com
 https://www.craiyon.com
 </td>
 </tr>
-<tr><td><strong>Curipod <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Curipod </strong></td>
 <td>Educational Tools</td>
 <td>
 https://www.curipod.com
@@ -286,7 +286,7 @@ https://www.curipod.com
 https://dcaclab.com
 </td>
 </tr>
-<tr><td><strong>DesignSingapore Council <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>DesignSingapore Council</strong></td> 
 <td>Resource Site</td>
 <td>
 https://iamlearningbydesign.sg
@@ -757,6 +757,12 @@ https://www.naturalreaders.com
 https://www.nss.org.sg
 </td>
 </tr>
+<tr><td><strong>NHK WORLD-JAPAN <font color="#FBBC04">NEW!</font></strong></td>
+<td>News and Language Resource site</td>
+<td>
+https://www3.nhk.or.jp/nhkworld
+</td>
+</tr>
 <tr><td><strong>NUS Museum</strong></td>
 <td>Art Resource Website</td>
 <td>
@@ -846,7 +852,7 @@ https://pixlr.com/e
 https://playxylo.com
 </td>
 </tr>
-<tr><td><strong>Polypad <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Polypad </strong></td>
 <td>Math Tools</td>
 <td>
 https://polypad.amplify.com
@@ -988,6 +994,12 @@ https://www.sg101.gov.sg
 <td>Learning Resources</td>
 <td>
 https://www.learning.moe.edu.sg
+</td>
+</tr>
+<tr><td><strong>Snorkl  <font color="#FBBC04">NEW!</font></strong></td>
+<td>AI Feedback Tool</td>
+<td>
+https://snorkl.app
 </td>
 </tr>
 <tr><td><strong>Socrative</strong></td>
@@ -1202,6 +1214,8 @@ https://www.typing.com
 https://www.typingclub.com
 <br>
 https://bedokgreenpri.typingclub.com
+<br>
+https://nanyangpri.edclub.com
 </td>
 </tr>
 <tr><td><strong>Unite</strong></td>
@@ -1230,7 +1244,7 @@ https://v2.versoapp.com
 https://www.virtualmusicalinstruments.com
 </td>
 </tr>
-<tr><td><strong>Vizcom <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Vizcom </strong></td>
 <td>Sketching and Design Tools</td>
 <td>
 https://www.vizcom.ai
@@ -1647,6 +1661,8 @@ https://acjc.padlet.org
 <br>
 https://acsbr.padlet.org
 <br>
+https://acsjunior.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://aitongschool3.padlet.org
 <br>
 https://anchorgreen.padlet.org
@@ -1704,6 +1720,8 @@ https://dunmanhigh.padlet.org
 https://egps.padlet.org
 <br>
 https://ejc.padlet.org
+<br>
+https://endeavourps.padlet.org <font color="#FBBC04">NEW!</font>
 <br>
 https://ferngreenpri.padlet.org
 <br>
@@ -1797,7 +1815,7 @@ https://sengkangsec.padlet.org
 <br>
 https://sgss.padlet.orglearnin
 <br>
-https://springdalelites.padlet.org <font color="#FBBC04">NEW!</font>
+https://springdalelites.padlet.org 
 <br>
 https://sst-sg.padlet.org
 <br>
@@ -1835,7 +1853,7 @@ https://woodgroveps.padlet.org
 <br>
 https://xingnanprimary.padlet.org
 <br>
-https://xnps.padlet.org <font color="#FBBC04">NEW!</font>
+https://xnps.padlet.org 
 <br>
 https://yijc.padlet.org
 <br>
