@@ -1214,6 +1214,8 @@ https://www.typing.com
 https://www.typingclub.com
 <br>
 https://bedokgreenpri.typingclub.com
+<br>
+https://nanyangpri.edclub.com
 </td>
 </tr>
 <tr><td><strong>Unite</strong></td>
