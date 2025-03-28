@@ -19,26 +19,3 @@ variant: markdown
 <li><a target="_blank" href="/teacher-user-guide/author/html5-content-development/">upload HTML5 interactives</a></li>
 <li><a target="_blank" href="/teacher-user-guide/discover/embed-whitelisted-websites/">embed whitelisted websites</a></li>
 </ul>
-<h2 id="submit-a-module-for-approval">Submit a Module for Approval</h2>
-<hr>
-<p>Only Content Approvers and Content Officers will be able to submit Modules to MOE Library for approval.</p>
-<ol>
-	<li>In the Module View, click the <strong>Overflow</strong> (<strong>3</strong>-dot icon) and <strong>Check for Submission (MOE Library)</strong>.</li>
-<li><strong>Media Objects</strong> must be approved through the Resource Management System (RMS). </li>
-<li><p>An error message will appear for failure to include:</p>
-<ul>
-<li><strong>Description</strong></li>
-<li><strong>Keyword Tags</strong></li>
-<li><strong>Module Tags</strong></li>
-<li><p>cleared <strong>Media Objects</strong> from RMS</p>
-<p><img style="width:100%" src="/images/5Admin/P-MOELibrary.png"></p>
-</li>
-</ul>
-</li>
-<li><p>To rectify the error, click <strong>Edit</strong> to make the necessary changes.</p>
-</li>
-<li><p>In the Approve Module subpage, select the <strong>Owner Group</strong> you wish to publish this resource under. Select the checkbox next to who you want the Module to be visible to. Click <strong>OK</strong> to proceed.</p>
-	<p><img style="width: 50%;" src="/images/5Admin/P-MOELibrary1.png"></p>
-</li>
-<li>A message will be shown if the resource has been successfully submitted. A notification will be sent to the Content Approver, who will approve your submission.</li>
-</ol>
