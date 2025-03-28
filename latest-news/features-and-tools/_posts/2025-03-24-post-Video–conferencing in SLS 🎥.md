@@ -15,5 +15,5 @@ off to explore?&nbsp;&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Resources/VC_in_SLS.png">
 </div>
-<p>Click on the link to learn more about video-conferencing in SLS: <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/videoconferencinginsls</a>
+<p>Click on the link to learn more about video-conferencing in SLS: <a href="https://go.gov.sg/videoconferencinginsls" rel="noopener nofollow" target="_blank">https://go.gov.sg/videoconferencinginsls</a>
 </p>
