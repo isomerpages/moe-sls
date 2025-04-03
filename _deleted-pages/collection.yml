@@ -2,7 +2,6 @@ collections:
   deleted-pages:
     output: true
     order:
-      - SgLDC Livestreams.md
       - SLS Subject Guides.md
       - Frequently Asked Questions.md
       - 2023 Sem 1.md
