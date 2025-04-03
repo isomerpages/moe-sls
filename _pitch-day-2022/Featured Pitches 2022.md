@@ -3,6 +3,7 @@ title: Featured Pitches 2022
 permalink: /partners/events/featured-pitches-2022/
 description: ""
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <img src="/images/3Partners/2022PitchDayFeaturedPitches.webp">
 <h1>Featured Pitches</h1>
@@ -107,7 +108,7 @@ The following companies also submitted a pitch for SLS Pitch Day, seeking to enh
 </tr>
 <tr>
 <td>6</td>
-<td><a target="_blank" href="https://www.sambaash.com">Sambaash</a></td>
+<td><a href="target=&quot;_blank&quot;">Sambaash</a></td>
 <td>We are an EdTech enabler for the Future of Learning. Our mission is to transform the education ecosystem and impart a meaningful impact on life-long learning and learners - from high school students to university graduates to workplace learners.</td>
 </tr>
 <tr>
