@@ -89,104 +89,49 @@ They will also be given the Liaison Teacher role.</p>
 <p>Owner</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• add/remove teachers&nbsp;(Owner only)
-<br>• approve/reject join requests for Staff Class Group and Communities.
-(Owner only)
-<br>• approve/reject join requests for Student and PD Class groups.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• change roles of teachers&nbsp;(Owner only)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• add/remove students</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• archive a Class Group</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• create/delete Class Group Announcements, Events in Planner, Assignments,
-Quick Create Activities/Quizzes, Resources and Categories, Topics and Polls
-in Forum, and Subgroups</p>
-</td>
-<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>add/remove teachers&nbsp;(Owner only)</p>
+</li>
+<li>
+<p>approve/reject join requests for Staff Class Group and Communities. (Owner
+only)</p>
+</li>
+<li>
+<p>approve/reject join requests for Student and PD Class groups</p>
+</li>
+<li>
+<p>change roles of teachers (Owner only)</p>
+</li>
+<li>
+<p>add/remove students</p>
+</li>
+<li>
+<p>archive a Class Group</p>
+</li>
+<li>
+<p>create/delete Class Group Announcements, Events in Planner, Quick Create
+Activities/Quizzes, Resources and Categories, Topics and Polls in Forum,
+and Subgroups</p>
+</li>
+<li>
+<p>change Forum Settings</p>
+</li>
+<li>
+<p>edit a Class Group description</p>
+</li>
+<li>
+<p>install/uninstall App (Owner only)</p>
+</li>
+<li>
+<p>manage, edit, pause and monitor Assignments</p>
+</li>
+</ul>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• change Forum Settings</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• edit a Class Group description</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• install/uninstall Apps&nbsp;(Owner only)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• manage, edit, pause and monitor Assignments</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Default role when a teacher creates a new Class Group. There can be multiple
+<p>Default role when a teacher creates a Class Group. There can be multiple
 Owners in a Class Group.</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -194,7 +139,11 @@ Owners in a Class Group.</p>
 <p>Co-teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• same as above (except for Owner only)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>same as above (except for Owner only)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Added by a teacher who is the Owner of a Class Group</p>
@@ -205,54 +154,26 @@ Owners in a Class Group.</p>
 <p>Observer (New in R19)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• add/remove students (from the teacher's school only)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• create/delete Class Group Announcements</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• view events in Planner, Apps, Class Group Details</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• access Assignments and Class Group Resources</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>• create/delete Posts and Polls in Forum (if permission has been granted)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>add/remove students (from the teacher's school only)</p>
+</li>
+<li>
+<p>create/delete Class Group Announcements</p>
+</li>
+<li>
+<p>view events in Planner, Apps and Class Group Details</p>
+</li>
+<li>
+<p>access Assignments and Class Group Resources</p>
+</li>
+<li>
+<p>create/delete Posts and Polls in Forum (if permission has been granted).</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Added by a teacher who is the Owner of a Class Group</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 <tr>
@@ -260,7 +181,11 @@ Owners in a Class Group.</p>
 <p>Liaison teacher</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>• add/remove students (from the teacher's school only)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>add/remove students (from the teacher's school only)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>When a teacher is added into a Class Group as a student, the teacher will
