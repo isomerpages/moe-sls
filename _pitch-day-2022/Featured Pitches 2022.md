@@ -113,7 +113,7 @@ The following companies also submitted a pitch for SLS Pitch Day, seeking to enh
 </tr>
 <tr>
 <td>7</td>
-<td><a target="_blank" href="https://smartest.io">Smartest</a></td>
+<td><a href="target=">Smartest</a></td>
 <td>Smartest helps you design interactive learning modules, share them with your students and make their progress visible. All this effortlessly thanks to a unique creation engine.</td>
 </tr>
 <tr>
