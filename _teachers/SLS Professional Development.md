@@ -78,7 +78,7 @@ this Module</p>
 <p>Discovering R2 Features</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://go.gov.sg/r1features" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/r2features</a>
+<p><a href="https://go.gov.sg/r2features" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/r2features</a>
 </p>
 </td>
 </tr>
