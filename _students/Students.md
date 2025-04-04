@@ -35,7 +35,7 @@ library of resources.</p>
 <hr>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/students/frequently-asked-questions/young-overseas-singaporeans/" rel="noopener noreferrer nofollow" target="_blank">Young Overseas Singaporeans</a>
+<p><a href="https://www.learning.moe.edu.sg/students/young-overseas-singaporeans/" rel="noopener noreferrer nofollow" target="_blank">Young Overseas Singaporeans</a>
 </p>
 </li>
 <li>
