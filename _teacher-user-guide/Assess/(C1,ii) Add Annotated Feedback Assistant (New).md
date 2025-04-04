@@ -13,7 +13,7 @@ Answer, Rubrics, and Error Tags to help students refine their responses.
 With AFA, teachers can also use specific instructions to configure the
 feedback given (e.g. provide the correct response, hint, or probing questions)
 to meet their students’ learning needs.</p>
-<p><u>Important:</u>
+<p><strong>Important:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
