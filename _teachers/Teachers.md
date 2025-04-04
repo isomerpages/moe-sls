@@ -28,19 +28,15 @@ with the SLS Helpdesk or SgLDC.</p>
 <hr>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/teachers/teaching-and-learning-on-sls/aied-features/" rel="noopener nofollow" target="_blank">AIEd Features</a>
+<p><a href="https://www.learning.moe.edu.sg/teachers/teaching-and-learning-on-sls/aied-features/" rel="noopener nofollow" target="_blank">AIEd Features</a>
 </p>
 </li>
 <li>
-<p><a href="/teacher/teaching-and-learning-on-sls/overview-of-sls-tools/" rel="noopener nofollow" target="_blank">Overview of SLS Tool</a>
+<p><a href="https://www.learning.moe.edu.sg/teachers/esba-on-sls-for-secondary-schools-and-jccis/" rel="noopener nofollow" target="_blank">eSBA on SLS (for Secondary Schools and JCCIs)</a>
 </p>
 </li>
 <li>
-<p><a href="/teacher/teaching-and-learning-on-sls/esba-on-sls-for-secondary-schools-and-jccis/" rel="noopener nofollow" target="_blank">eSBA on SLS (for Secondary Schools and JCCIs)</a>
-</p>
-</li>
-<li>
-<p><a href="/teacher/teaching-and-learning-on-sls/sls-subject-guides/" rel="noopener nofollow" target="_blank">SLS Subject Guides</a>
+<p><a href="https://www.learning.moe.edu.sg/teachers/sls-guides/" rel="noopener nofollow" target="_blank">SLS Guides</a>
 </p>
 </li>
 </ul>
@@ -48,11 +44,11 @@ with the SLS Helpdesk or SgLDC.</p>
 <hr>
 <ul>
 <li>
-<p><a href="/teacher/sls-latest-features/release-2/" rel="noopener noreferrer nofollow" target="_blank">Release 2</a>
+<p><a href="https://www.learning.moe.edu.sg/teachers/sls-latest-features/release-2/" rel="noopener noreferrer nofollow" target="_blank">Release 2</a>
 </p>
 </li>
 <li>
-<p><a href="/teacher/sls-latest-features/release-1/" rel="noopener nofollow" target="_blank">Release 1</a>
+<p><a href="https://www.learning.moe.edu.sg/teachers/sls-latest-features/release-1/" rel="noopener nofollow" target="_blank">Release 1</a>
 </p>
 </li>
 </ul>
@@ -60,7 +56,7 @@ with the SLS Helpdesk or SgLDC.</p>
 <hr>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/teacher/password-and-technical-support/" rel="noopener nofollow" target="_blank">Password &amp; Technical Support</a>
+<p><a href="https://www.learning.moe.edu.sg/teachers/password-and-technical-support/" rel="noopener nofollow" target="_blank">Password &amp; Technical Support</a>
 </p>
 </li>
 </ul>
@@ -68,7 +64,7 @@ with the SLS Helpdesk or SgLDC.</p>
 <hr>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/teacher/sls-professional-development/" rel="noopener noreferrer nofollow" target="_blank">SLS Professional Development</a>
+<p><a href="https://www.learning.moe.edu.sg/teachers/sls-professional-development/" rel="noopener noreferrer nofollow" target="_blank">SLS Professional Development</a>
 </p>
 </li>
 </ul>
@@ -76,15 +72,15 @@ with the SLS Helpdesk or SgLDC.</p>
 <hr>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/teacher/community-and-events/hear-what-others-have-to-say/" rel="noopener noreferrer nofollow" target="_blank">Here what others have to say</a>
+<p><a href="https://www.learning.moe.edu.sg/teachers/community-and-events/hear-what-others-have-to-say/" rel="noopener noreferrer nofollow" target="_blank">Here what others have to say</a>
 </p>
 </li>
 <li>
-<p><a href="/teacher/communty-and-events/events-calendar/" rel="noopener noreferrer nofollow" target="_blank">Events Calendar</a>
+<p><a href="https://www.learning.moe.edu.sg/teachers/community-and-events/events-calendar/" rel="noopener noreferrer nofollow" target="_blank">Events Calendar</a>
 </p>
 </li>
 <li>
-<p><a href="/teacher/communty-and-events/friends-of-sls/" rel="noopener noreferrer nofollow" target="_blank">Friends of SLS</a>
+<p><a href="https://www.learning.moe.edu.sg/teachers/community-and-events/friends-of-sls/" rel="noopener noreferrer nofollow" target="_blank">Friends of SLS</a>
 </p>
 </li>
 </ul>
