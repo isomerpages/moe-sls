@@ -9,7 +9,7 @@ variant: markdown
 <h1 id="edit-assignments">(B1,iii) Edit Assignments (Enhanced)</h1><hr>
 <h2 id="-edit-an-assignment-in-progress-">Edit an Assignment in Progress</h2>
 <hr>
-<p>Important: From March 2025 Update, edits made to a linked assignment will be applied to all other linked assignments in class groups.</p>
+<p><b>Important</b>: From Mar 2025 Update, edits made to a linked assignment will be applied to all other linked assignments in class groups.</p>
 <p>You can edit an assignment after it is assigned.</p>
 <p><u>Note</u>: You may not edit a question or a quiz if students have started attempting them. You may, however, choose to <a target="_blank" href="/teacher-user-guide/assign/delete-assignments/">delete</a> the entire question or quiz.</p>
 <ol>
