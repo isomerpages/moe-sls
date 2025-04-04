@@ -12,8 +12,8 @@ third_nav_title: Author
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p><u>Important:</u>
+<td rowspan="1" colspan="1">
+<p><strong><u>Important:</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -32,7 +32,7 @@ and above. When it is enabled for discussions, students will interact with
 SALiS.</p>
 </li>
 </ul>
-</th>
+</td>
 </tr>
 </tbody>
 </table>
