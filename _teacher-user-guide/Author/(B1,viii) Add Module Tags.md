@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="add-Module-tags">(B1,viii) Add Module Tags</h1><hr>
-<p><strong>Important</strong>: From Release 2 (Nov 2024), Section Tags will be automatically added to newly created components.</p>
+<p><strong>Important</strong>: Section Tags will be automatically added to newly created components.</p>
 <p>Modules can be tagged to Subject, Level, Topics, and Sub-topics in the MOE Content Map to improve searchability in the MOE Library, Community Gallery, and My Drive.</p>
 <p>If Modules are submitted to the Community Gallery, tags will allow teachers to find the Module using filters and relevant search terms.</p>
 <h2 id="-add-module-tags-">Add Module Tags</h2>
