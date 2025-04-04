@@ -57,7 +57,7 @@ select Split-page Media.</p>
 If a range of slides is chosen, page placeholders will be shown based on
 the number of slides selected, allowing teachers to navigate elsewhere
 while the media is being processed.</p>
-<p><u>Important</u>:</p>
+<p><strong>Important</strong>:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>The converted images cannot be edited with the drawing tool or downloaded

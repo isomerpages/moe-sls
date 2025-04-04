@@ -2,10 +2,6 @@ collections:
   deleted-pages:
     output: true
     order:
-      - Visit SLS@Grange.md
-      - ePedagogy One Stop Site.md
-      - SgLDC Livestreams.md
-      - SLS Subject Guides.md
       - Frequently Asked Questions.md
       - 2023 Sem 1.md
       - 2023 Sem 2.md
@@ -17,6 +13,3 @@ collections:
       - 2024 Articles.md
       - SLS Pitch Day 2021.md
       - SLS Pitch Day 2022.md
-      - 2021 Sem 2.md
-      - 2022 Sem 1.md
-      - 2022 Sem 2.md

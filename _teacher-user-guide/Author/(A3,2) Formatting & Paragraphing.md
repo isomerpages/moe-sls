@@ -9,7 +9,7 @@ variant: markdown
 <h1 id="formatting-paragraphing">(A3,2) Formatting &amp; Paragraphing</h1><hr>
 <h2 id="formatting-text">Formatting Text</h2>
 <hr>
-<p>From Release 2 (Nov 2024), new English and Tamil fonts are available.</p>
+<p>New English and Tamil fonts are available.</p>
 <img alt="Formatting &amp; Paragraphing" style="width: 50%;" src="/images/2Teacher/AS_Formatting.png">
 <ol>
 <li><p>In the Rich Text Editor, by clicking the respective icons, you are able to:</p>

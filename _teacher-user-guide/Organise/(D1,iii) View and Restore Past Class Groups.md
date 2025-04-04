@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(D1,iii) View and Restore Past Class Groups (Enhanced)</h1><hr>
-<p>Important: From Mar 2025 Update, owners and co-teachers of class groups can restore past class groups as active class groups.</p>
+<p><b>Important</b>: From Mar 2025 Update, owners and co-teachers of class groups can restore past class groups as active class groups.</p>
 <p>	At the start of each academic year, all Class Groups from the preceding year will be found under the Past tab.</p>
 <ol>
 <li>From the homepage, open the left menu and click <strong>Class Groups</strong>, followed by <strong>All Class Groups</strong>. Alternatively, in the Class Groups tab from the homepage, click <strong>Class Groups</strong>. By default, you will be in the Current tab.</li>
