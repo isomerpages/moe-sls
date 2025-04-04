@@ -28,7 +28,7 @@ with the SLS Helpdesk or SgLDC.</p>
 <hr>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="/teacher/teaching-and-learning-on-sls/aied-features/" rel="noopener nofollow" target="_blank">AIEd Features</a>
+<p><a href="/teachers/teaching-and-learning-on-sls/aied-features/" rel="noopener nofollow" target="_blank">AIEd Features</a>
 </p>
 </li>
 <li>
