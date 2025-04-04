@@ -41,8 +41,8 @@ variant: markdown
 </ul>
 </li>
 <li><p>Click outside of the Component to <strong>Save</strong>.</p>
-<u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>: Did you know:
-From Release 2 (Nov 2024), the page numbers for quizzes and activities that have multiple pages will remain visible at the top of the page.
+<u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>: 
+The page numbers for quizzes and activities that have multiple pages will remain visible at the top of the page.
 <img style="width: 70%;" src="/images/2Teacher/As_EditQuiz3.png">
 </li>
 </ol>
