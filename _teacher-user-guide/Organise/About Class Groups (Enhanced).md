@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h1>About Class Groups (Enhanced)</h1>
 <hr>
-<p><u>Important:</u> From Mar 2025 Update, owners and co-teachers of class groups can restore past class groups as active class groups <a target="_blank" href="/teacher-user-guide/organise/view-and-restore-past-class-groups/">here</a>.
+<p><b>Important:</b> From Mar 2025 Update, owners and co-teachers of class groups can restore past class groups as active class groups <a target="_blank" href="/teacher-user-guide/organise/view-and-restore-past-class-groups/">here</a>.
 
 </p>
 <p>There are two types of Class Groups in SLS:</p>
