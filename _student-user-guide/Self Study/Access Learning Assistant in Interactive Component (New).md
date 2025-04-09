@@ -33,11 +33,11 @@ AI and AI-enabled features in SLS in the following links:</p>
 </p>
 </li>
 <li>
-<p><a href="go.gov.sg/ai-upper-pri" rel="noopener nofollow" target="_blank">Upper Primary Module</a>
+<p><a href="https://go.gov.sg/ai-upper-pri" rel="noopener nofollow" target="_blank">Upper Primary Module</a>
 </p>
 </li>
 <li>
-<p><a href="go.gov.sg/ai-sec" rel="noopener nofollow" target="_blank">Secondary Level Module</a>
+<p><a href="https://go.gov.sg/ai-sec" rel="noopener nofollow" target="_blank">Secondary Level Module</a>
 </p>
 </li>
 </ul>
