@@ -24,6 +24,22 @@ in nature and may be inaccurate at times.</p>
 that the content generated is accurate and appropriate by fact-checking
 with other sources.</p>
 </li>
+<li>
+<p>Before using Learning Assistant, please complete the Basic Modules for
+AI and AI-enabled features in SLS in the following links:</p>
+</li>
+<li>
+<p><a href="go.gov.sg/ai-lower-pri" rel="noopener nofollow" target="_blank">Lower Primary Module</a>
+</p>
+</li>
+<li>
+<p><a href="go.gov.sg/ai-upper-pri" rel="noopener nofollow" target="_blank">Upper Primary Module</a>
+</p>
+</li>
+<li>
+<p><a href="go.gov.sg/ai-sec" rel="noopener nofollow" target="_blank">Secondary Level Module</a>
+</p>
+</li>
 </ul>
 </td>
 </tr>
