@@ -4,9 +4,10 @@ permalink: /admin-user-guide/publish/manage-media/
 description: ""
 third_nav_title: Publish
 image: /images/FaviconLight.png
+variant: markdown
 ---
 <h1 id="-3-manage-media">(A3) Manage Media</h1>
-<p>Content Approvers and Content Officers (CAs and COs) are able to view all Media submitted through the Resource Management System (RMS).</p>
+<p>Content Approvers and Content Officers (CAs and COs) are able to upload and approve Media through the Student Learning Space (SLS).</p>
 <h2 id="manage-media">Manage Media</h2>
 <hr>
 <ol>
