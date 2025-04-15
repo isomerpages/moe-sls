@@ -38,7 +38,17 @@ be added by the Owner/Co-teacher of the Class Group manually.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/JoinClassGroup1.jpg">
 </div>
-<p>Note: You may locate the Class Group URL from the browser's address bar.</p>
+<p><u>Note:</u> 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>You may locate the Class Group URL from the browser's address bar.</p>
+</li>
+<li>
+<p>When teachers join using the Class Group URL, they will be assigned the
+Observer role.</p>
+</li>
+</ul>
 </li>
 <li>
 <p>You can add students from:</p>
@@ -52,8 +62,8 @@ be added by the Owner/Co-teacher of the Class Group manually.</p>
 Groups</p>
 </li>
 </ul>
-<p>Note: Students from Class Groups (Class) from School Cockpit cannot be
-added as a Group.</p>
+<p><u>Note:</u> Students from Class Groups (Class) from School Cockpit cannot
+be added as a Group.</p>
 </li>
 <li>
 <p>You can add teacher users from your school or other schools as Students
