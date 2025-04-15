@@ -38,7 +38,7 @@ be added by the Owner/Co-teacher of the Class Group manually.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/JoinClassGroup1.jpg">
 </div>
-<p><u>Note:</u> 
+<p><u>Note:</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
