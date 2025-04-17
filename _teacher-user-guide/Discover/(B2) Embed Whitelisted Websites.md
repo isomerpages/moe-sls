@@ -62,6 +62,12 @@ https://www.accessmaths.co.uk
 https://learn.aisingapore.org
 </td>
 </tr>
+<tr><td><strong>All Ears Form Builder</strong> <font color="#FBBC04">NEW!</font></td> 
+<td>MOE Form builder</td>
+<td>
+https://forms.moe.edu.sg
+</td>
+</tr>
 <tr><td><strong>Animated Knots</strong></td>
 <td>Interactive Knot Tying Tool</td>
 <td>
@@ -757,7 +763,7 @@ https://www.naturalreaders.com
 https://www.nss.org.sg
 </td>
 </tr>
-<tr><td><strong>NHK WORLD-JAPAN <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>NHK WORLD-JAPAN </strong></td>
 <td>News and Language Resource site</td>
 <td>
 https://www3.nhk.or.jp/nhkworld
@@ -996,7 +1002,7 @@ https://www.sg101.gov.sg
 https://www.learning.moe.edu.sg
 </td>
 </tr>
-<tr><td><strong>Snorkl  <font color="#FBBC04">NEW!</font></strong></td>
+<tr><td><strong>Snorkl  </strong></td>
 <td>AI Feedback Tool</td>
 <td>
 https://snorkl.app
@@ -1152,6 +1158,12 @@ https://www.timeline.ly
 <td>Coding Platform</td>
 <td>
 https://www.tinkercad.com
+</td>
+</tr>
+<tr><td><strong>TinyTap</strong> <font color="#FBBC04">NEW!</font> </td>
+<td>Educational Games and Tools</td>
+<td>
+https://campus.tinytap.com/en
 </td>
 </tr>
 <tr><td><strong>TodayOnline</strong></td>
@@ -1582,6 +1594,12 @@ https://www.jotform.com
 https://kami.app
 </td>
 </tr>
+<tr><td><strong>Loom</strong> <font color="#FBBC04">NEW!</font></td> 
+<td>Screen recording and hosting tool</td>
+<td>
+https://www.loom.com
+</td>
+</tr>
 <tr><td><strong>MeWatch</strong> </td>
 <td>News and Video Resource Site</td>
 <td>
@@ -1594,6 +1612,8 @@ https://player.mewatch.sg
 <td>Productivity Tool</td>
 <td>
 https://onedrive.live.com
+<br>
+https://sgmoe-my.sharepoint.com <font color="#FBBC04">NEW!</font>
 </td>
 </tr>
 <tr><td><strong>Microsoft Forms </strong></td>
@@ -1661,7 +1681,7 @@ https://acjc.padlet.org
 <br>
 https://acsbr.padlet.org
 <br>
-https://acsjunior.padlet.org <font color="#FBBC04">NEW!</font>
+https://acsjunior.padlet.org 
 <br>
 https://aitongschool3.padlet.org
 <br>
@@ -1669,11 +1689,15 @@ https://anchorgreen.padlet.org
 <br>
 https://andersonps.padlet.org
 <br>
+https://andersonsecondarysch.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://asrjc.padlet.org 
 <br>
 https://assumptionenglish.padlet.org
 <br>
 https://bartleysecondaryschool.padlet.org
+<br>
+https://bbss.padlet.org <font color="#FBBC04">NEW!</font>
 <br>
 https://beattysecondary.padlet.org
 <br>
@@ -1701,6 +1725,8 @@ https://changkatchangisec.padlet.org
 <br>
 https://chijstjosephsconvent.padlet.org
 <br>
+https://chijtpysecondary.padlet.org <font color="#FBBC04">NEW!</font>
+<br>
 https://chr.padlet.org
 <br>
 https://corporationpri.padlet.org
@@ -1721,7 +1747,7 @@ https://egps.padlet.org
 <br>
 https://ejc.padlet.org
 <br>
-https://endeavourps.padlet.org <font color="#FBBC04">NEW!</font>
+https://endeavourps.padlet.org 
 <br>
 https://ferngreenpri.padlet.org
 <br>
