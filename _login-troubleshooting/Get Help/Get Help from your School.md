@@ -60,8 +60,9 @@ in login or e-learning issues during working hours.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 65949026
-<br>Email: aiss_slshelpline@aiss.edu.sg
-<br>Others:</p>
+<br>Email:
+<br>Others: <a href="https://tinyurl.com/AISS-SLS-HELP" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+</p>
 </td>
 </tr>
 <tr>
