@@ -92,6 +92,7 @@ will help them close students' learning gaps.</p>
 <p>ACP is an AI-enabled feature in SLS that supports lesson planning for
 all subjects and levels by generating a module and its corresponding sections,
 activities and components based on a teacher's inputs.</p>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Zlt1akZ1HxA?si=vX40cG32BM-ZkPr3" height="315" width="560"></iframe>
 <h5>How does ACP enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
 <colgroup>
