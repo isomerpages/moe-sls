@@ -92,8 +92,8 @@ will help them close students' learning gaps.</p>
 <p>ACP is an AI-enabled feature in SLS that supports lesson planning for
 all subjects and levels by generating a module and its corresponding sections,
 activities and components based on a teacher's inputs.</p>
-<div class="bp-youtube"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Zlt1akZ1HxA?si=vX40cG32BM-ZkPr3" height="315" width="560"></iframe>
-<h5>How does ACP enhance teaching and learning?</h5>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Zlt1akZ1HxA?si=CTVxfePRs99eNEu7" height="315" width="560"></iframe>
+<p></p><h5>How does ACP enhance teaching and learning?</h5><p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -151,7 +151,7 @@ on a Knowledge Base that is appended by the teacher.</p>
 </p>
 </li>
 </ul>
-</div></div></details>
+</div></details>
 <details>
 	<summary><h4>Annotated Feedback Assistant</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
