@@ -13,7 +13,7 @@ image: /images/FaviconLight.png
 student. It is currently available for Mathematics (Upper Primary) and
 Geography (Upper Secondary). More topics, levels and subjects will be added
 progressively.</p>
-<div class="bp-youtube"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Search for Resources" src="https://www.youtube.com/embed/tKLBNQoaefQ?si=enQKrghmaFV8oHAl" height="100%" width="100%"></iframe></div>
+<div class="bp-youtube"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Search for Resources" src="https://www.youtube.com/embed/tKLBNQoaefQ?si=enQKrghmaFV8oHAl" height="315" width="560"></iframe></div>
 <h5>How does ALS enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
 <colgroup>
@@ -92,7 +92,7 @@ will help them close students' learning gaps.</p>
 <p>ACP is an AI-enabled feature in SLS that supports lesson planning for
 all subjects and levels by generating a module and its corresponding sections,
 activities and components based on a teacher's inputs.</p>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Zlt1akZ1HxA?si=vX40cG32BM-ZkPr3" height="100%" width="100%"></iframe>
+<div class="bp-youtube"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Zlt1akZ1HxA?si=vX40cG32BM-ZkPr3" height="315" width="560"></iframe>
 <h5>How does ACP enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
 <colgroup>
@@ -151,7 +151,7 @@ on a Knowledge Base that is appended by the teacher.</p>
 </p>
 </li>
 </ul>
-</div></details>
+</div></div></details>
 <details>
 	<summary><h4>Annotated Feedback Assistant</h4></summary>
 <div data-type="detailsContent" class="isomer-details-content">
