@@ -13,7 +13,7 @@ image: /images/FaviconLight.png
 student. It is currently available for Mathematics (Upper Primary) and
 Geography (Upper Secondary). More topics, levels and subjects will be added
 progressively.</p>
-<div class="bp-youtube"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Search for Resources" src="https://www.youtube.com/embed/cWkoFG32Aho?si=1jTpNek6x669Rskj" height="100%" width="100%"></iframe></div>
+<div class="bp-youtube"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Search for Resources" src="https://www.youtube.com/embed/tKLBNQoaefQ?si=enQKrghmaFV8oHAl" height="100%" width="100%"></iframe></div>
 <h5>How does ALS enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
 <colgroup>
