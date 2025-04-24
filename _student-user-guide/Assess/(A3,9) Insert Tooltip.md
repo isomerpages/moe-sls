@@ -18,5 +18,5 @@ variant: markdown
 </li>
 <li>Click <strong>Save</strong> when done.</li>
 <li>The display text will be shown and underlined with a blue dotted line.</li>
-<li>Hover over the display text to preview your Tooltip after submitting your response.</li>
+<li>Click on the display text to preview your Tooltip after submitting your response.</li>
 </ol>

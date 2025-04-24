@@ -33,7 +33,7 @@ variant: markdown
     </tr>
     <tr>
       <td>How can students/teachers view the relevant notes?</td>
-      <td>Hover the cursor over the dotted underlined text and the notes for the Tooltip will appear.</td>
+      <td>Click on the dotted underlined text and the notes for the Tooltip will appear.</td>
       <td>Click on the icon and the notes for the Tooltip will appear. Students are able to Create Annotation in the Tooltip.</td>
       <td>Click on the icon and the notes for the Tooltip will appear.</td>
     </tr>
