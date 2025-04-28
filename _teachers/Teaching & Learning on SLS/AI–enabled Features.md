@@ -10,8 +10,8 @@ image: /images/FaviconLight.png
 <details>
 	<summary><h4>Adaptive Learning System</h4></summary>
 <p>The ALS provides a&nbsp;personalised&nbsp;learning pathway for&nbsp;each
-student. It is currently available for Mathematics (Upper Primary) and
-Geography (Lower and Upper Secondary). More topics, levels and subjects will be added
+student. It is currently available for Mathematics (Upper Primary and Lower Secondary) and
+Geography (Upper Secondary). More topics, levels and subjects will be added
 progressively.</p>
 <div class="bp-youtube"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Search for Resources" src="https://www.youtube.com/embed/tKLBNQoaefQ?si=enQKrghmaFV8oHAl" height="315" width="560"></iframe></div>
 <h5>How does ALS enhance teaching and learning?</h5>
