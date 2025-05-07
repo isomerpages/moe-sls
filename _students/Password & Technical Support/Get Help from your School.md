@@ -2585,9 +2585,8 @@ ang_yew_leong@schools.gov.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 63887258
-<br>Email: low_young_kwang@moe.edu.sg
-<br>Others: <a href="https://go.gov.sg/skss-sls-account-issue" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
-</p>
+<br>Email:
+<br>Others:</p>
 </td>
 </tr>
 <tr>
@@ -2913,8 +2912,9 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 67831190
-<br>Email: icttps@gmail.com
-<br>Others:</p>
+<br>Email:
+<br>Others: <a href="https://go.gov.sg/tpps-pw-reset" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+</p>
 </td>
 </tr>
 <tr>
