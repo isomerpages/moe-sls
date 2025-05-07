@@ -1853,8 +1853,8 @@ ang_yew_leong@schools.gov.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 67788050
-<br>Email:
-<br>Others: <a href="https://form.gov.sg/5e39f3358dd8640011b3d453" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">nhps@moe.edu.sg</a>
+<br>Others: <a href="https://go.gov.sg/nhps-helpdesk" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
