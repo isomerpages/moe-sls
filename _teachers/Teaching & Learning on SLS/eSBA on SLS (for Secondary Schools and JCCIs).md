@@ -12,24 +12,7 @@ pen-and-paper mode. Key principles of fairness, reliability and validity
 remain central when deciding the appropriate mode of and approach to assessments.
 Where appropriate, schools can choose to implement school-based e-assessments
 (e-SBAs) via SLS.</p>
-<p>For subjects with a National e-examination component, schools can refer
-to these subject specific guides (requires iCON account) in using SLS to
-conduct e-assessments in an exam setting:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p><a href="https://go.gov.sg/esba-userguide-el" rel="noopener noreferrer nofollow" target="_blank">2023 N(T) English Language Paper 1</a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/drive/folders/1jJnA7KwsU-JKShaays224Mi7hCC9a6wI" rel="noopener noreferrer nofollow" target="_blank">2024 Basic MTL Paper 1</a>
-</p>
-</li>
-<li>
-<p><a href="https://drive.google.com/drive/folders/1O6IIoTTokPiWmb_Ekz4ZbQvA1k3rJ66z?usp=drive_link" rel="noopener noreferrer nofollow" target="_blank">2024 N(A) Social Studies</a>
-</p>
-<p></p>
-</li>
-</ul>
+<p></p><p class="demoTitle">For subjects with a National e-Examination component, schools should have received the guide from the respective subject branches. Please approach the respective CPDD/SDCD subject branches to get the latest copy.</p>
 <p>Schools can also refer to the steps below when implementing e-SBA via
 SLS:</p>
  <details>
