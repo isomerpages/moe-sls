@@ -32,6 +32,16 @@ third_nav_title: SLS Latest Features
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>Mar 2025 Update Changelog</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.learning.moe.edu.sg/whats-new-in-march-2025-update/" rel="noopener nofollow" target="_blank">What's New in Mar 2025 Update</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Data Assistant</strong>
 </p>
 <p>User Guide:</p>
