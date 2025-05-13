@@ -65,8 +65,9 @@ third_nav_title: SLS Latest Features
 <br>(Please switch to your student account before attempting this Module.)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/R2_module.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/R2_Features_Snapshot.png">
 </div>
 </td>
 </tr>
