@@ -7,6 +7,4 @@ description: ""
 image: /images/FaviconLight.png
 variant: markdown
 ---
-```
-<iframe allow="autoplay" height="480" width="640" src="https://drive.google.com/file/d/1ugKq-2k4AS42SJTKzPhtWBkwoboGhYxb/preview"></iframe>
-```
+<iframe height="480" width="640" src="https://docs.google.com/gview?url=https://drive.google.com/file/d/1ugKq-2k4AS42SJTKzPhtWBkwoboGhYxb/preview&amp;embedded=true"></iframe>
