@@ -7,5 +7,5 @@ description: ""
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<iframe frameborder="0" style="width:700px; height:500px;" src="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/scl/fi/m3qam81l1wtt2a72toxbq/SLS-June-2025-Changelog.pdf?rlkey=0qai6namlvvn8n7gsf96lpj0q&amp;st=1l3bj8ye&amp;embedded=true">
+<iframe frameborder="0" style="width:700px; height:900px;" src="https://docs.google.com/gview?url=https://dl.dropboxusercontent.com/scl/fi/m3qam81l1wtt2a72toxbq/SLS-June-2025-Changelog.pdf?rlkey=0qai6namlvvn8n7gsf96lpj0q&amp;st=1l3bj8ye&amp;embedded=true">
 </iframe>
