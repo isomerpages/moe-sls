@@ -7,5 +7,3 @@ description: ""
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<iframe frameborder="0" style="width:700px; height:500px;" src="https://docs.google.com/gview?url=https://drive.google.com/uc?export=download&amp;id=1ugKq-2k4AS42SJTKzPhtWBkwoboGhYxb&amp;embedded=true">
-</iframe>
