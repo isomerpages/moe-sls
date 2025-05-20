@@ -26,7 +26,7 @@ variant: markdown
 <li>From within an Assignment, open the right menu and select <strong>Edit</strong>.</li>
 <li>In the Module Settings subpage, under Permission Settings, check the respective boxes to allow students to <strong>copy the module, view print-friendly worksheet and reattempt as self-study.</strong></li>
 <li><p>Click <strong>Save</strong> to confirm your selection and <strong>X</strong> to close the subpage.</p>
-<p><img alt="Allow Students to Copy Assignments" style="width: 100%;" src="/images/2Teacher/AS-AllowCopy1.png"></p>
+<p><img alt="Allow Students to Copy Assignments" style="width: 100%;" src="/images/2Teacher/AS_Permission_Settings.png"></p>
 	<p><u>Note</u>: If Copy Permissions is enabled, students will be able to access "Copy to My Drive" on the right panel of the Assignment. Students will be able to access the copied Assignment from their <a target="_blank" href="/teacher-user-guide/organise/access-my-drive/">My Drive</a>.</p>
 </li>
 </ol>
