@@ -177,7 +177,7 @@ Guide</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Discussant.png">
+<img style="width: 50%;" height="auto" width="100%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Discussant.png">
 </div>
 <p></p>
 </td>
@@ -188,7 +188,7 @@ Guide</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Collaborator.png">
+<img style="width: 50%;" height="auto" width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Collaborator.png">
 </div>
 <p></p>
 </td>
@@ -199,7 +199,7 @@ Guide</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Explorer.png">
+<img style="width: 50%;" height="auto" width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Explorer.png">
 </div>
 <p></p>
 </td>
@@ -210,7 +210,7 @@ Guide</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Coach.png">
+<img style="width: 50%;" height="auto" width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Coach.png">
 </div>
 <p></p>
 </td>
@@ -221,7 +221,7 @@ Guide</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Advisor.png">
+<img style="width: 50%;" height="auto" width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Advisor.png">
 </div>
 <p></p>
 </td>
@@ -232,7 +232,7 @@ Guide</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Curator.png">
+<img style="width: 50%;" height="auto" width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Curator.png">
 </div>
 <p></p>
 </td>
@@ -243,7 +243,7 @@ Guide</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Gamemaster.png">
+<img style="width: 50%;" height="auto" width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Gamemaster.png">
 </div>
 <p></p>
 </td>
@@ -254,7 +254,7 @@ Guide</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Builder.png">
+<img style="width: 50%;" height="auto" width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Builder.png">
 </div>
 <p></p>
 </td>
@@ -265,7 +265,7 @@ Guide</p>
 </td>
 <td rowspan="1" colspan="1">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Instructor.png">
+<img style="width: 50%;" height="auto" width="25%" src="/images/2Teacher/Marcomms/SLS%20Superhero%20Quiz/The%20Instructor.png">
 </div>
 <p></p>
 </td>
