@@ -62,7 +62,7 @@ https://www.accessmaths.co.uk
 https://learn.aisingapore.org
 </td>
 </tr>
-<tr><td><strong>All Ears Form Builder</strong> <font color="#FBBC04">NEW!</font></td> 
+<tr><td><strong>All Ears Form Builder</strong> </td> 
 <td>MOE Form builder</td>
 <td>
 https://forms.moe.edu.sg
@@ -332,6 +332,12 @@ https://www.edcafe.ai
 <td>News and Resource Site</td>
 <td>
 https://edition.cnn.com
+</td>
+</tr>
+<tr><td><strong>Edtech Sims</strong> <font color="#FBBC04">NEW!</font></td>
+<td>Educational Games and Tools</td>
+<td>
+https://edtechsims.com/
 </td>
 </tr>
 <tr><td><strong>Educaplay</strong></td>
@@ -1160,7 +1166,7 @@ https://www.timeline.ly
 https://www.tinkercad.com
 </td>
 </tr>
-<tr><td><strong>TinyTap</strong> <font color="#FBBC04">NEW!</font> </td>
+<tr><td><strong>TinyTap</strong> </td>
 <td>Educational Games and Tools</td>
 <td>
 https://campus.tinytap.com/en
@@ -1594,7 +1600,7 @@ https://www.jotform.com
 https://kami.app
 </td>
 </tr>
-<tr><td><strong>Loom</strong> <font color="#FBBC04">NEW!</font></td> 
+<tr><td><strong>Loom</strong> </td> 
 <td>Screen recording and hosting tool</td>
 <td>
 https://www.loom.com
@@ -1613,7 +1619,7 @@ https://player.mewatch.sg
 <td>
 https://onedrive.live.com
 <br>
-https://sgmoe-my.sharepoint.com <font color="#FBBC04">NEW!</font>
+https://sgmoe-my.sharepoint.com 
 </td>
 </tr>
 <tr><td><strong>Microsoft Forms </strong></td>
@@ -1689,7 +1695,7 @@ https://anchorgreen.padlet.org
 <br>
 https://andersonps.padlet.org
 <br>
-https://andersonsecondarysch.padlet.org <font color="#FBBC04">NEW!</font>
+https://andersonsecondarysch.padlet.org 
 <br>
 https://asrjc.padlet.org 
 <br>
@@ -1697,7 +1703,7 @@ https://assumptionenglish.padlet.org
 <br>
 https://bartleysecondaryschool.padlet.org
 <br>
-https://bbss.padlet.org <font color="#FBBC04">NEW!</font>
+https://bbss.padlet.org 
 <br>
 https://beattysecondary.padlet.org
 <br>
@@ -1725,7 +1731,7 @@ https://changkatchangisec.padlet.org
 <br>
 https://chijstjosephsconvent.padlet.org
 <br>
-https://chijtpysecondary.padlet.org <font color="#FBBC04">NEW!</font>
+https://chijtpysecondary.padlet.org 
 <br>
 https://chr.padlet.org
 <br>
