@@ -25,19 +25,19 @@ variant: markdown
 
 <li><details><summary><h4 style="margin: 0; display: inline;">Assignments</h4></summary>
 
-<ul>
+<div style="margin-left: 20px;">
+<details><summary><strong>Annotation Enhancements</strong></summary>Teachers and students can more easily differentiate annotations made by a teacher (underline) from those by students (highlight). For annotations made on questions, teachers and students can view the question number with question text as the header of each annotation card.</details>
 
-<li><details><summary><strong>Annotation Enhancements</strong></summary>Teachers and students can more easily differentiate annotations made by a teacher (underline) from those by students (highlight). For annotations made on questions, teachers and students can view the question number with question text as the header of each annotation card.</details></li>
+<details><summary><strong>Due Date Tracking</strong></summary>Teachers and students can filter assignments by multiple status types: Incomplete, Overdue assignments, Overdue Sections, Due in 3 Days, Complete, and Upcoming.</details>
 
-<li><details><summary><strong>Due Date Tracking</strong></summary>Teachers and students can filter assignments by multiple status types: Incomplete, Overdue assignments, Overdue Sections, Due in 3 Days, Complete, and Upcoming.</details></li>
+<details><summary><strong>Feedback Fields</strong></summary>Teachers and students will see the "Teacher Comments" field renamed to "Feedback" in Free-Response Questions (FRQs). The existing "Feedback" field will no longer be available.</details>
 
-<li><details><summary><strong>Feedback Fields</strong></summary>Teachers and students will see the "Teacher Comments" field renamed to "Feedback" in Free-Response Questions (FRQs). The existing "Feedback" field will no longer be available.</details></li>
+<details><summary><strong>Past Assignments</strong></summary>Teachers and students can view assignments from their past class groups in the Assignments listing page, making it easier to locate past assignments.</details>
 
-<li><details><summary><strong>Past Assignments</strong></summary>Teachers and students can view assignments from their past class groups in the Assignments listing page, making it easier to locate past assignments.</details></li>
+<details><summary><strong>Planner Enhancements</strong></summary>Teachers and students can manage their work by creating tasks, with deadlines, from multiple entry points such as the new task list, module plan, section cover, and learning progress (students only). Teachers and students can attach resources such as sections and modules to these tasks. Students will be prompted when they mark incomplete attachments as complete. Students can also create goals from learning progress as a task and attach relevant self-study resources. The calendar range in the planner will be extended to include the year before and the year after the current year. Teachers can clear planner events en-masse.</details>
+</div>
 
-<li><details><summary><strong>Planner Enhancements</strong></summary>Teachers and students can manage their work by creating tasks, with deadlines, from multiple entry points such as the new task list, module plan, section cover, and learning progress (students only). Teachers and students can attach resources such as sections and modules to these tasks. Students will be prompted when they mark incomplete attachments as complete. Students can also create goals from learning progress as a task and attach relevant self-study resources. The calendar range in the planner will be extended to include the year before and the year after the current year. Teachers can clear planner events en-masse.</details></li>
-
-</ul></details></li>
+</details></li>
 
 <li><details><summary><h4 style="margin: 0; display: inline;">Search</h4></summary>
 
