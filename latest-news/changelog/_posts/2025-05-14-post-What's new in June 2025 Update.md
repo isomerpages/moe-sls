@@ -7,9 +7,9 @@ description: ""
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>SLS June 2025 Update</h1>
+<h1>What's new in June 2025 Update</h1>
 
-<p>This list details the changes users can expect in the upcoming SLS June 2025 Update, which will be rolled out on 25 June 2025. Please note that SLS will be unavailable from 24 June 2025 00:00 to 25 June 2025 23:00 to facilitate this update.</p>
+<p>This list details the changes users can expect in the upcoming SLS June 2025 Update, which will be rolled out on 25 June 2025. Please note that SLS will be <b>unavailable from 24 June 2025 00:00 to 25 June 2025 23:00</b> to facilitate this update.</p>
 
 <h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for All Users</h2>
 
