@@ -71,21 +71,21 @@ variant: markdown
 
 <li><details><summary><h4 style="margin: 0; display: inline;">Authoring</h4></summary>
 
-<ul>
+<div style="margin-left: 20px;">
+<details><summary><strong>Gamification Enhancements</strong></summary>Teachers can import gamification settings like Details, Experience Points, Game Stories, Collectibles and Leaderboard from other modules in Starred Resources and Library. Teachers can duplicate game stories and collectibles when setting up their gamification conditions. Teachers can add gamification conditions as section/activity prerequisites that regulate students' access. Teachers can switch off viewability of Experience Points (XP) for students. When viewability of XP is switched off, XP and levels will not be displayed for students. However, game stories and collectibles with level conditions will still be awarded.</details>
 
-<li><strong>Gamification Enhancements</strong>: Teachers can import gamification settings like Details, Experience Points, Game Stories, Collectibles and Leaderboard from other modules in Starred Resources and Library. Teachers can duplicate game stories and collectibles when setting up their gamification conditions. Teachers can add gamification conditions as section/activity prerequisites that regulate students' access. Teachers can switch off viewability of Experience Points (XP) for students. When viewability of XP is switched off, XP and levels will not be displayed for students. However, game stories and collectibles with level conditions will still be awarded.</li>
+<details><summary><strong>Live Chat</strong></summary>Teachers can set up Live Chat for both team and non-team discussions. Students and teachers can interact in active Live Chat rooms and view each other's posts live. Teachers can manually end and close Live Chat rooms. The Live Chat room will be converted into a discussion post and past interactions will be stored as comments. Teachers can also set a time limit for Live Chat rooms. Live Chat rooms will close automatically when the time limit is reached. Live Chat will not be accessible in self-study modules and when previewing as student.</details>
 
-<li><strong>Live Chat</strong>: Teachers can set up Live Chat for both team and non-team discussions. Students and teachers can interact in active Live Chat rooms and view each other's posts live. Teachers can manually end and close Live Chat rooms. The Live Chat room will be converted into a discussion post and past interactions will be stored as comments. Teachers can also set a time limit for Live Chat rooms. Live Chat rooms will close automatically when the time limit is reached. Live Chat will not be accessible in self-study modules and when previewing as student.</li>
+<details><summary><strong>Hide Question Number</strong></summary>Teachers can hide question/component numbers in quizzes through the Quiz Details settings.</details>
 
-<li><strong>Hide Question Number</strong>: Teachers can hide question/component numbers in quizzes through the Quiz Details settings.</li>
+<details><summary><strong>Click-and-Drop Question Enhancements</strong></summary>Teachers can place and reposition options more precisely in Click-and-Drop questions.</details>
 
-<li><strong>Click-and-Drop Question Enhancements</strong>: Teachers can place and reposition options more precisely in Click-and-Drop questions.</li>
+<details><summary><strong>Component Card Enhancements</strong></summary>Teachers can view the component number and corresponding body text as the header of each component during module view and authoring.</details>
 
-<li><strong>Component Card Enhancements</strong>: Teachers can view the component number and corresponding body text as the header of each component during module view and authoring.</li>
+<details><summary><strong>Authoring Copilot (ACP) Enhancements</strong></summary>Teachers can upload Google Slides, Docs and Sheets into the Knowledge Base to be used for ACP generation and for Learning Assistant reference (from 4 July 2025). Teachers can access ACP directly from the Add New and Create/Edit subpages.</details>
+</div>
 
-<li><strong>Authoring Copilot (ACP) Enhancements</strong>: Teachers can upload Google Slides, Docs and Sheets into the Knowledge Base to be used for ACP generation and for Learning Assistant reference (from 4 July 2025). Teachers can access ACP directly from the Add New and Create/Edit subpages.</li>
-
-</ul></details></li>
+</details></li>
 
 <li><details><summary><h4 style="margin: 0; display: inline;">Assessments</h4></summary>
 
