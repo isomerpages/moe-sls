@@ -9,7 +9,7 @@ variant: markdown
 ---
 <h1>What's new in June 2025 Update</h1>
 
-<p>This list details the changes users can expect in the upcoming SLS June 2025 Update, which will be rolled out on 25 June 2025. Please note that SLS will be <b>unavailable from 24 June 2025 00:00 to 25 June 2025 23:00</b> to facilitate this update.</p>
+<p>This list details the changes users can expect in the upcoming SLS June 2025 Update, which will be rolled out on 25 June 2025. Please note that SLS will be unavailable from 24 June 2025 00:00 to 25 June 2025 23:00 to facilitate this update.</p>
 
 <h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for All Users</h2>
 
@@ -27,15 +27,15 @@ variant: markdown
 
 <ul>
 
-<li><strong>Annotation Enhancements</strong>: Teachers and students can more easily differentiate annotations made by a teacher (underline) from those by students (highlight). For annotations made on questions, teachers and students can view the question number with question text as the header of each annotation card.</li>
+<li><details><summary><strong>Annotation Enhancements</strong></summary>Teachers and students can more easily differentiate annotations made by a teacher (underline) from those by students (highlight). For annotations made on questions, teachers and students can view the question number with question text as the header of each annotation card.</details></li>
 
-<li><strong>Due Date Tracking</strong>: Teachers and students can filter assignments by multiple status types: Incomplete, Overdue assignments, Overdue Sections, Due in 3 Days, Complete, and Upcoming.</li>
+<li><details><summary><strong>Due Date Tracking</strong></summary>Teachers and students can filter assignments by multiple status types: Incomplete, Overdue assignments, Overdue Sections, Due in 3 Days, Complete, and Upcoming.</details></li>
 
-<li><strong>Feedback Fields</strong>: Teachers and students will see the "Teacher Comments" field renamed to "Feedback" in Free-Response Questions (FRQs). The existing "Feedback" field will no longer be available.</li>
+<li><details><summary><strong>Feedback Fields</strong></summary>Teachers and students will see the "Teacher Comments" field renamed to "Feedback" in Free-Response Questions (FRQs). The existing "Feedback" field will no longer be available.</details></li>
 
-<li><strong>Past Assignments</strong>: Teachers and students can view assignments from their past class groups in the Assignments listing page, making it easier to locate past assignments.</li>
+<li><details><summary><strong>Past Assignments</strong></summary>Teachers and students can view assignments from their past class groups in the Assignments listing page, making it easier to locate past assignments.</details></li>
 
-<li><strong>Planner Enhancements</strong>: Teachers and students can manage their work by creating tasks, with deadlines, from multiple entry points such as the new task list, module plan, section cover, and learning progress (students only). Teachers and students can attach resources such as sections and modules to these tasks. Students will be prompted when they mark incomplete attachments as complete. Students can also create goals from learning progress as a task and attach relevant self-study resources. The calendar range in the planner will be extended to include the year before and the year after the current year. Teachers can clear planner events en-masse.</li>
+<li><details><summary><strong>Planner Enhancements</strong></summary>Teachers and students can manage their work by creating tasks, with deadlines, from multiple entry points such as the new task list, module plan, section cover, and learning progress (students only). Teachers and students can attach resources such as sections and modules to these tasks. Students will be prompted when they mark incomplete attachments as complete. Students can also create goals from learning progress as a task and attach relevant self-study resources. The calendar range in the planner will be extended to include the year before and the year after the current year. Teachers can clear planner events en-masse.</details></li>
 
 </ul></details></li>
 
