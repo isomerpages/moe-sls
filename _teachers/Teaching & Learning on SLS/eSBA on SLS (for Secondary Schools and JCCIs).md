@@ -6,21 +6,15 @@ description: ""
 third_nav_title: Teaching & Learning on SLS
 image: /images/FaviconLight.png
 ---
-<h3>e-SBA on SLS </h3>
-<p>The fundamental principle of e-assessment remains the same as it is for
-pen-and-paper mode. Key principles of fairness, reliability and validity
-remain central when deciding the appropriate mode of and approach to assessments.
-Where appropriate, schools can choose to implement school-based e-assessments
-(e-SBAs) via SLS.</p>
-<p></p><p class="demoTitle">For subjects with a National e-Examination component, schools should have received the guide from the respective subject branches. Please approach the respective CPDD/SDCD subject branches to get the latest copy.</p>
-<p>Schools can also refer to the steps below when implementing e-SBA via
-SLS:</p>
- <details>
- <summary><h4>e-Author</h4></summary>
-<p>1.&nbsp;&nbsp;&nbsp; Create a teacher-marked quiz in SLS. Closed-ended
-questions (such as MCQ, Fill-In-The-Blank) will still be auto-marked. A
-teacher-marked quiz, allows the teacher to decide when to release the quiz
-to the students, just like the pen and paper test or exam.</p>
+<h1>e-SBA on SLS</h1>
+<p>The fundamental principle of e-assessment remains the same as it is for pen-and-paper mode. Key principles of fairness, reliability and validity remain central when deciding the appropriate mode of and approach to assessments. Where appropriate, schools can choose to implement school-based e-assessments (e-SBAs) via SLS.</p>
+
+<p class="demoTitle">For subjects with a National e-Examination component, schools should have received the guide from the respective subject branches. Please approach the respective CPDD/SDCD subject branches to get the latest copy.</p>
+
+<p>Schools can also refer to the steps below when implementing e-SBA via SLS:</p>
+<details>
+<summary><h4 style="margin: 0; display: inline;">e-Author</h4></summary>
+<p>1. Create a teacher-marked quiz in SLS. Closed-ended questions (such as MCQ, Fill-In-The-Blank) will still be auto-marked. A teacher-marked quiz, allows the teacher to decide when to release the quiz to the students, just like the pen and paper test or exam.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -35,17 +29,11 @@ to the students, just like the pen and paper test or exam.</p>
 </tr>
 </tbody>
 </table>
-<p>2.&nbsp;&nbsp;&nbsp; These are specimen papers in SLS Community Gallery
-that you can adapt:</p>
-<p>a.&nbsp;&nbsp;&nbsp; N(T) Level Music Paper 1 - <a rel="noopener noreferrer nofollow" target="_blank" href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/5c55ecb8-23d0-4849-b742-25955c66105f/cover">https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/5c55ecb8-23d0-4849-b742-25955c66105f/cover</a>
-</p>
-<p>b.&nbsp;&nbsp;&nbsp; O Level Exercise and Sports Science - <a rel="noopener noreferrer nofollow" target="_blank" href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/8aaeb942-1e2c-4bcf-990a-b7290e4fc0f9/cover">https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/8aaeb942-1e2c-4bcf-990a-b7290e4fc0f9/cover</a>
-</p>
-<p>c.&nbsp;&nbsp;&nbsp;&nbsp; N(T) Level English Language Paper 1 - <a rel="noopener noreferrer nofollow" target="_blank" href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/eb64b6a2-2b7e-496b-93ba-97352059f4b8/cover">https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/eb64b6a2-2b7e-496b-93ba-97352059f4b8/cover</a>
-</p>
-<p>d.&nbsp;&nbsp;&nbsp; N(A) Social Studies Digital Answer Booklet (this
-is not a specimen paper) - <a rel="noopener noreferrer nofollow" target="_blank" href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/a28f308b-03b8-41da-843f-4550a4b1dc8b/cover">https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/a28f308b-03b8-41da-843f-4550a4b1dc8b/cover</a>
-</p>
+<p>2. These are specimen papers in SLS Community Gallery that you can adapt:</p>
+<p>a. N(T) Level Music Paper 1 - <a rel="noopener noreferrer nofollow" target="_blank" href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/5c55ecb8-23d0-4849-b742-25955c66105f/cover">https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/5c55ecb8-23d0-4849-b742-25955c66105f/cover</a></p>
+<p>b. O Level Exercise and Sports Science - <a rel="noopener noreferrer nofollow" target="_blank" href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/8aaeb942-1e2c-4bcf-990a-b7290e4fc0f9/cover">https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/8aaeb942-1e2c-4bcf-990a-b7290e4fc0f9/cover</a></p>
+<p>c. N(T) Level English Language Paper 1 - <a rel="noopener noreferrer nofollow" target="_blank" href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/eb64b6a2-2b7e-496b-93ba-97352059f4b8/cover">https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/eb64b6a2-2b7e-496b-93ba-97352059f4b8/cover</a></p>
+<p>d. N(A) Social Studies Digital Answer Booklet (this is not a specimen paper) - <a rel="noopener noreferrer nofollow" target="_blank" href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/a28f308b-03b8-41da-843f-4550a4b1dc8b/cover">https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/a28f308b-03b8-41da-843f-4550a4b1dc8b/cover</a></p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -59,15 +47,11 @@ is not a specimen paper) - <a rel="noopener noreferrer nofollow" target="_blank"
 </tr>
 </tbody>
 </table>
-<p>3.&nbsp;&nbsp;&nbsp; Setters may wish to adopt current practices of setting
-the paper in hardcopy format and follow through with the hardcopy vetting
-process.</p>
-<p>4.&nbsp;&nbsp;&nbsp; E-author the final version of the vetted paper in
-SLS and organise a review session to finalise the e-version.</p>
-<p></p>
+<p>3. Setters may wish to adopt current practices of setting the paper in hardcopy format and follow through with the hardcopy vetting process.</p>
+<p>4. E-author the final version of the vetted paper in SLS and organise a review session to finalise the e-version.</p>
 </details>
 <details>
-	<summary><h4>e-Deliver</h4></summary>
+<summary><h4 style="margin: 0; display: inline;">e-Deliver</h4></summary>
 <h4>Before the e-SBA in SLS,</h4>
 <p>1.&nbsp;&nbsp;&nbsp; Assign the teacher-marked quiz to an existing Class
 Group or SLS-created Class Group. Add invigilating teacher(s) with "co-teacher"
@@ -146,7 +130,7 @@ access after the e-SBA.</p>
 <p></p>
 </details>
 <details>
-	<summary><h4>e-Mark</h4></summary>
+<summary><h4 style="margin: 0; display: inline;">e-Mark</h4></summary>
 <p>1.&nbsp;&nbsp;&nbsp; Mark the open-ended responses. Closed-ended responses
 are auto-marked. If you have activated use of ShortAnsFA or LangFA-EL,
 the responses will be auto-marked.</p>
@@ -168,7 +152,7 @@ the responses will be auto-marked.</p>
 <p></p>
 </details>
 <details>
-	<summary><h4>e-Return</h4></summary>
+<summary><h4 style="margin: 0; display: inline;">e-Return</h4></summary>
 <p>1.&nbsp;&nbsp;&nbsp; After completion of marking, resume the SLS assessment.</p>
 <table style="minWidth: 25px">
 <colgroup>
@@ -209,10 +193,9 @@ in their "Assignments" list.</p>
 <p></p>
 <p></p>
 </details>
-
 <details>
-	<summary><h4>Frequently Asked Questions</h4></summary>
-<p>1.&nbsp;&nbsp;&nbsp; Can I print the scripts?</p>
+<summary><h4 style="margin: 0; display: inline;">Frequently Asked Questions</h4></summary>
+<p>1. Can I print the scripts?</p>
 <p>The system currently does not support the printing of students' scripts
 for marking. Teachers are encouraged to make use of the e-marking features
 such as commenting and use of rubrics with auto-computation of marks.</p>
