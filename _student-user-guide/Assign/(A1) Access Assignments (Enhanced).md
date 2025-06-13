@@ -24,11 +24,11 @@ variant: markdown
 <li>Assignments that are newly assigned (up to 3 days) will be labelled "New".</li>
 <li>Existing Assignments that have a new section added will be labelled “New Section”.</li>
 <li><p>You can search for assignments by entering the Assignment title in the Search Bar. To refine your search, you may apply the following filters from the dropdown list: </p>
-<p> <img src="/images/1Student/AS_AccessAssignment6.png"></p>
+<p> <img src="/images/1Student/AS_AccessAssignments4.png"></p>
 <ul>
-<li><strong>Assignment Status</strong> - You can choose to view All, Upcoming, In Progress, or Complete.<ul>
+<li><strong>Assignment Status</strong> - You can choose to view All, Upcoming, Incomplete, or Complete.<ul>
 <li>Upcoming refers to Assignments that have yet to start.</li>
-<li>In Progress refers to Assignments that have yet to be completed and include overdue Assignments. By default, Assignments in progress are shown.</li>
+<li>Incomplete refers to Assignments that have yet to be completed and include overdue Assignments and Sections, and Assignments or sections due within 3 days. By default, Assignments in progress are shown.</li>
 <li>Complete refers to Assignments that have been completed.</li>
 </ul>
 </li>
@@ -40,6 +40,8 @@ variant: markdown
 <li><p>Assignments in List view are sorted according to the latest Start Date. You may also sort the assignments according to the Assignment Title, and Due Date.</p>
 <p><img src="/images/1Student/AS_AccessAssignment5.png"></p>
 </li>
+	<li>Click the Past tab to view your assignments from Past Class Groups.</li>
+<p><img src="/images/1Student/as-accessassignment5.png"></p>
 </ol>
 <h2 id="-assignments-for-a-specific-class-group-">Assignments for a Specific Class Group</h2>
 <hr>
