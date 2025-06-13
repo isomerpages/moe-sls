@@ -39,11 +39,11 @@ collections:
       - Assess/(D1) About Feedback Assistant Mathematics (Enhanced).md
       - Assess/(D2) About Annotated Feedback Assistant (New).md
       - Assess/(D3) About Short Answer Feedback Assistant (Enhanced).md
-      - Assign/(A2) Access Past Assignments.md
       - Assign/.keep
       - Assign/Assign.md
       - Assign/About Assignments.md
       - Assign/(A1) Access Assignments (Enhanced).md
+      - Assign/(A2) Access Past Assignments.md
       - Authenticate/.keep
       - Authenticate/Authentication.md
       - Authenticate/How to Log In (Student).md
