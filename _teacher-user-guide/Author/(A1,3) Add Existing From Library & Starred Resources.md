@@ -10,7 +10,7 @@ variant: markdown
 <h2 id="viewing-existing-modules-from-library-starred-resources">Viewing Existing Modules From Library/Starred Resources</h2>
 <hr>
 <ol>
-<li>You can add an existing Activity or Quiz from Library (MOE Library, Community Gallery, and My Drive) or from Starred Resources.</li>
+<li>You can add an existing Activity or Quiz from Library (MOE Library, Community Gallery, Class Group and Community Resources, and My Drive) or from Starred Resources.</li>
 <li><p>When Adding from Library, you can search for Modules using the Search Bar which contains the following filter:</p>
 <ul>
 <li>Subject</li>
