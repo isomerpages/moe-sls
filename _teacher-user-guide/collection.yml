@@ -30,7 +30,6 @@ collections:
       - Assess/(D1,v) View Students' Notes.md
       - Assess/(D1,vi) Manage Assignments, Sections, Activities (Enhanced).md
       - Assess/(D1,vii) Submit Quizzes.md
-      - Assign/(A1,vi) View Past Assignments.md
       - Assign/.keep
       - Assign/Assign.md
       - Assign/(A1,i) Create Assignments (Enhanced).md
@@ -38,6 +37,7 @@ collections:
       - Assign/(A1,iii) Assign MOE Library Modules.md
       - Assign/(A1,iv) Assign Community Gallery Modules.md
       - Assign/(A1,v) Add or Sort Assignments in Class Group.md
+      - Assign/(A1,vi) View Past Assignments.md
       - Assign/(B1,i) Manage Assignments.md
       - Assign/(B1,ii) Schedule Assignments.md
       - Assign/(B1,iii) Edit Assignments (Enhanced).md
