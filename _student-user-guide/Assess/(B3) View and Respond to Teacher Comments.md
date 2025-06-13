@@ -17,12 +17,14 @@ variant: markdown
 <p><img alt="View and Respond to Teacher Comments" style="width: 50%;" src="/images/1Student/As-TeacherComments.png"></p>
 <p><u>Note</u>: If enabled by your teacher, you will receive a notification that feedback has been given on your Assignment.</p>
 <p><img alt="View and Respond to Teacher Comments" style="width: 50%;" src="/images/1Student/As-TeacherComments1.png"></p>
-<h2 id="respond-to-teacher-comments">Respond to Teacher Comments</h2>
+<h2 id="respond-to-teacher-comments">Respond to Teacher Comments (Enhanced)</h2>
 <hr>
 <ol>
 <li>Open the Assignment and navigate to the Free-Response, File Submission, or Audio-Response Question.</li>
 <li>Select the <strong>Teacher Comments</strong> tab to view the feedback given by your teacher.</li>
 <li>Click <strong>Add</strong> to bring out the text box. Type your response, insert a drawing, attach a file, add file from Google or upload an audio recording, then click <strong>Post</strong>.</li>
+<li> You can also mention your teacher(s) in the comment by typing '@' and selecting their names from the dropdown list. Your teacher(s) will be notified.</li>
+	<img src="/images/1Student/Assign_Student_Comments_1_upscaled.png">
 <li>Click <strong>Overflow</strong> (<strong>3-dot</strong> icon) to <strong>Edit</strong> or <strong>Delete</strong> your comment.</li>
 </ol>
 <img alt="View and Respond to Teacher Comments" style="width: 50%;" src="/images/1Student/As-TeacherComments2.png">
