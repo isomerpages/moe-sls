@@ -7,10 +7,7 @@ description: The Singapore Student Learning Space (SLS) is MOE's core platform
   technology to enable students to engage in different learning modes.
 image: /images/LogoSecondaryLight.svg
 permalink: /
-notification: "ALERT: With the rise in scams involving impersonation of
-  government officials, please note that government officials will never ask you
-  to transfer money or disclose bank login details over a phone call. If in
-  doubt, please contact the 24/7 ScamShield Helpline at 1799."
+notification: ""
 sections:
   - hero:
       background: /images/LandingPage.png
