@@ -50,3 +50,18 @@ variant: markdown
 <p><u>Note</u>: To unstar multiple resources, select the checkbox next to the title of the resource before clicking <strong>Unstar</strong>.</p>
 <li>To unstar a Question or Media Object, click <strong>View Details</strong>. At the Details subpage, click the <strong>Star</strong> icon to unstar the Question or Media Object. Alternatively, if you are viewing a Starred Resource, click the <strong>Star</strong> icon again to unstar it.</li>
 <p><u>Note</u>: The Star icon will no longer be lit yellow when you successfully unstar the resource.</p></ol>
+
+
+<h2>Unstarring a Resource</h2>
+<hr>
+<ol>
+<li>Open the left menu and click <strong>Resources</strong>, followed by <strong>Starred Resources</strong>.</li>
+<li>To unstar a Module, click <strong>Open</strong> under the Module title. At the Module View page, click the yellow <strong>Star</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Unstar.svg"> to unstar the Module.
+<p><u>Note</u>: To unstar multiple resources, select the checkbox next to the title of the resource before clicking <strong>Unstar</strong>.</p></li>
+<li>To unstar a Question or Media Object, click <strong>View Details</strong>. At the Details subpage, click the <strong>Star</strong> icon to unstar the Question or Media Object. Alternatively, if you are viewing a Starred Resource, click the <strong>Star</strong> icon again to unstar it.</li>
+<li>You can also unstar the resource by clicking on the <strong>Overflow</strong> (<strong>3-dot</strong> icon) in your Starred Resources list and click <strong>Unstar</strong>.
+<img alt="Unstarring a Resource" style="width: 100%;" src="/images/2Teacher/organise_unstar1.png"></li>
+<p><u>Note</u>: The Star icon will no longer be yellow when you successfully unstar the resource.</p>
+<li>To unstar multiple resources, you can also select multiple resources by selecting the checkbox and clicking <strong>Unstar</strong>.
+<img alt="Unstarring a Resource" style="width: 100%;" src="/images/2Teacher/organise_unstar2.png"></li>
+</ol>
