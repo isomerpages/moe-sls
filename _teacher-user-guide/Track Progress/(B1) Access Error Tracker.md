@@ -6,10 +6,10 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Track Progress
 ---
-<h1>(B1) Access Error Tracker</h1>
+<h1>(B1) Access Error Tracker (Enhanced)</h1>
 <hr>
 <p>Error Tracker provides a consolidated summary of annotations from across class groups, assignments, and self-study resources, organised by their error tags.</p>
-<p>Errors can be tagged by either <a target="_blank" href="/teacher-user-guide/assess/annotate-underline-students-responses/">teachers</a>, <a target="_blank" href="/teacher-user-guide/assess/add-language-feedback-assistant-for-english/">Language Feedback Assistant for English</a> or <a target="_blank" href="/teacher-user-guide/assess/add-mathematics-feedback-assistant/">Feedback Assistant - Mathematics</a>.</p>
+<p>Errors can be tagged by either <a target="_blank" href="/teacher-user-guide/assess/annotate-underline-students-responses/">teachers</a>, <a target="_blank" href="/teacher-user-guide/assess/about-annotated-feedback-assistant/">Annotated Feedback Assistant</a> or <a target="_blank" href="/teacher-user-guide/assess/add-mathematics-feedback-assistant/">Feedback Assistant - Mathematics</a>.</p>
 <h2>Navigating the Page</h2>
 <hr>
 <p>To access the page, click on the <strong>Error Tracker</strong> tab from the <a target="_blank" href="/teacher-user-guide/track-progress/access-learning-progress/">Learning Progress</a> page.</p><p>
@@ -38,5 +38,13 @@ third_nav_title: Track Progress
 </ul>
 </li>
 </ol>
+</li>
+<li>To see individual student's <strong>Learning Progress</strong>, click on the <strong>Learning Progress</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/LearningProgress.svg"> next to the student's name.
+<ol style="list-style-type: lower-alpha;">
+<li>Click on the <strong>Error Tracker</strong> tab.</li>
+<li>You can then filter the Error Tracker by month range and error tag for more effective tracking over time.</li>
+<li>You can also click on the <strong>Questions</strong> tab to see a list of attempted modules, each showing the number of tagged errors.</li>
+</ol>
+<p><img alt="Access Error Tracker" style="width: 100%;" src="/images/2Teacher/TP_errortrackerA.png"></p>
 </li>
 </ol>
