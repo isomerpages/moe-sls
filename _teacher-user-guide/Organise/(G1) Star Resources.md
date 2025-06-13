@@ -38,6 +38,10 @@ variant: markdown
 <h2>Starring from My Drive folders</h2>
 <hr>
 <p>You can star a Module by clicking the <strong>Overflow</strong> (<strong>3-dot</strong> icon) followed by <strong>View Details</strong> of Modules located in the My Drive folders. Alternatively, click <strong>Open</strong> to enter the Module View page. Click the <strong>Star</strong> icon beside the Module Title in the banner.</p>
+
+<h2>Starring from Class Group / Community Resources</h2>
+<hr>
+<p>You can star a Module by clicking <strong>Open</strong> to enter the Module View page. Click the <strong>Star</strong> icon beside the Module Title in the banner.</p>
 <h2>Unstarring a Resource</h2>
 <hr>
 <ol>
