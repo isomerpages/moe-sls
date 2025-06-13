@@ -8,7 +8,6 @@ collections:
       - Administer/(A1,i) Onboard New Students.md
       - Administer/(A1,ii) Reset Student Passwords for Classes (Enhanced).md
       - Administer/(A1,iii) Generate Passcode for Students (Enhanced).md
-      - Assess/(E1,i) Login for E–Assessments.md
       - Assess/.keep
       - Assess/Assess.md
       - Assess/(A1) Create Quizzes (Enhanced).md
@@ -26,11 +25,12 @@ collections:
       - Assess/(C1,iii) Add Short Answer Feedback Assistant (Enhanced).md
       - Assess/(D1,i) View Assignments (Enhanced).md
       - Assess/(D1,ii) Edit Quizzes (Enhanced).md
-      - Assess/(E1,ii) Set Assignments as Assessments.md
-      - Assess/(E1,iii) Add and View Access Codes.md
       - Assess/(D1,v) View Students' Notes.md
       - Assess/(D1,vi) Manage Assignments, Sections, Activities (Enhanced).md
       - Assess/(D1,vii) Submit Quizzes.md
+      - Assess/(E1,i) Login for E–Assessments.md
+      - Assess/(E1,ii) Set Assignments as Assessments.md
+      - Assess/(E1,iii) Add and View Access Codes.md
       - Assign/.keep
       - Assign/Assign.md
       - Assign/(A1,i) Create Assignments (Enhanced).md
