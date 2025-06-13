@@ -38,6 +38,7 @@ variant: markdown
 <li>Display (Page Break, 2-columns, 3-columns, Accordion)</li>
 </ul>
 </li>
+<li> To hide question numbers from students, you can click <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the Quiz Detail Card and select Hide Question Number. You will still be able to view the question numbers in the Module Editor and Monitoring Pages. </li>
 <li>Click <a target="_blank" href="/teacher-user-guide/author/add-components/">here</a> to find out about how to Add/Edit Components.</li>
 <li>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> to find out about editing the Quiz Detail card.</li>
 </ol>
