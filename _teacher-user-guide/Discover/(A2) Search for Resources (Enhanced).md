@@ -80,7 +80,7 @@ variant: markdown
 <li>When browsing search results, the subjects and their corresponding level are displayed together.</li>
 </ol>
 <img style="width: 100%;" alt="Search for Resources" src="/images/2Teacher/D_searchresults.png">
-<ol>
+<ol start="3">
 <li>Click the <strong>Expand</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/external-link.svg"> to open the module in a new tab.</li>
 <li>Click the search result to view Module Details. In Module Details, you will be able to view the following information:
 <ul>
