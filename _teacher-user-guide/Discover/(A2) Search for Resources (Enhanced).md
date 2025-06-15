@@ -6,7 +6,7 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A2) Search for Resources</h1><hr>
+<h1>(A2) Search for Resources (Enhanced)</h1><hr>
 <h2>Using Search Bar from Homepage</h2>
 <hr>
 <ol>
@@ -60,6 +60,7 @@ variant: markdown
 <li><strong>External Resources</strong> - Whitelisted websites that can be embedded in SLS.</li>
 </ul>
 </li>
+</ol>
 <p><u>Note</u>: Refine your search by using Guided Search.</p>
 <h2>Add Topic Filters</h2>
 <hr>
@@ -69,14 +70,19 @@ variant: markdown
 	<li>To add topic filters, select <u>one</u> <strong>Subject</strong> and <u>one</u> <strong>Level</strong> from the dropdown list.</li>
 <li>On the Add Topic Filters subpage, select the relevant <strong>Content Map</strong> dropdown list.</li>
 <li>Select the checkbox to the left of the Topic, Subtopics, or Learning Outcome to narrow down the search results.</li>
-<li>Click <strong>Apply</strong> to view Search Results based on Topics of Sub-topics.</li></ol>
+<li>Click <strong>Apply</strong> to view Search Results based on Topics of Sub-topics.</li>
+</ol>
 <img style="width: 100%;" alt="Search for Resources" src="/images/2Teacher/D_Searchresources1.png">
 <h2>View Search Results</h2>
 <hr>
 <ol>
-<li>You can sort the resources by&nbsp;<em>Relevance </em>to your search term(s), <em>Popularity</em> (only in Community Gallery or MOE Library), or according to the date of the latest edit. In Community Gallery or MOE Library, you can also sort by Popularity or Most Voted.
-</li>
-<img style="width: 100%;" alt="Search for Resources" src="/images/2Teacher/D_Searchresources3.png"><li>Click the <strong>Module card</strong> to view Module Details. In Module Details, you will be able to view the following information:</li>
+<li>You can sort the resources by <em>Relevance</em> to your search term(s) or according to the date of the latest edit. In Community Gallery or MOE Library, you can also sort by <em>Popularity</em> or <em>Most Voted</em>.</li>
+<li>When browsing search results, the subjects and their corresponding level are displayed together.</li>
+</ol>
+<img style="width: 100%;" alt="Search for Resources" src="/images/2Teacher/D_searchresults.png">
+<ol>
+<li>Click the <strong>Expand</strong> icon <img style="width:1rem; display: inline;" src="/images/Icons/external-link.svg"> to open the module in a new tab.</li>
+<li>Click the search result to view Module Details. In Module Details, you will be able to view the following information:
 <ul>
 <li>Resource Title</li>
 <li>Resource Description</li>
@@ -88,13 +94,18 @@ variant: markdown
 <li>Keyword Tags</li>
 </ul>
 <p><u>Note</u>: Resources that are downloadable can be downloaded from the Resource card.</p>
+</li>
+</ol>
 <img style="width: 100%;" alt="Search for Resources" src="/images/2Teacher/D_Searchresources2.png">
+<ol start="3">
 <li>To view the Module Reviews, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Module card, followed by <strong>See Reviews</strong>. Click <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">here</a> to learn how to leave a Review.</li>
 <li>To make a copy of the Module, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Module card, followed by <strong>Copy To</strong>. Click <a target="_blank" href="/teacher-user-guide/organise/copy-modules-within-my-drive/">here</a> to learn how to copy a resource to My Drive.</li>
-	<li>To open the Module, click on the <b>Expand</b> icon next to the Module title.</li>
 </ol>
 <h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Search for Resources" src="https://www.youtube.com/embed/IBlWycX4PBE" height="100%" width="100%"></iframe>
-</div></ol>
+</div>
+
+
+
