@@ -106,6 +106,3 @@ variant: markdown
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Search for Resources" src="https://www.youtube.com/embed/IBlWycX4PBE" height="100%" width="100%"></iframe>
 </div>
-
-
-
