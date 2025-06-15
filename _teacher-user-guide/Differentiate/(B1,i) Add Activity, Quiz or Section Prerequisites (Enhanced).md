@@ -39,7 +39,7 @@ variant: markdown
 <li>To ensure sections are completed in sequence, select the checkbox next to "Sequential Section Access" and click <strong>Apply</strong>.</li>
 <li>To add Custom Prerequisites, deselect the checkbox "Sequential Section Access".</li>
 <li>To add Prerequisites to selected Sections, click <strong>Add Prerequisite</strong>, followed by <strong>Add New Prerequisite</strong>.
-<p><img alt="Add Activity, Quiz or Section Prerequisites" style="width: 80%;" src="/images/2Teacher/DI_AddSectionPre.png"></p>
+<p><img alt="Add Activity, Quiz or Section Prerequisites" style="width: 80%;" src="/images/2Teacher/DI_AddSectionPre3.png"></p>
 <p>You can choose from the following Prerequisites:</p>
 <ol style="list-style-type: lower-alpha;">
 <li>Module Progress</li>
