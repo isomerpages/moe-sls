@@ -6,7 +6,7 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(D1) Star Resources</h1>
+<h1>(D1) Star Resources (Enhanced)</h1>
 <hr>
 <p>You are able to star up to 300 resources. You may star Modules and Apps found in the MOE Library, App Library or My Drive that you want to view or review at a later time.</p>
 <p>Starred Resources can be found in the left menu, under <strong>Resources</strong>.</p>
