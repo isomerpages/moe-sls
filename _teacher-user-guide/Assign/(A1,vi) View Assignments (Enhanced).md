@@ -39,6 +39,10 @@ variant: markdown
 <li><p>Assignments in the List view are sorted according to the latest Start Date. You may also sort the Assignments according to the Assignment Title, and Due Date. Assessments in List View will be indicated by an orange tag beside the Title.</p>
 <p><img alt="View Assignments" style="width: 100%;" src="/images/2Teacher/As-AssignmentView.png"></p>
 </li>
+<li>You may also filter the assignment list according to Incomplete, Overdue assignment, Overdue Sections, Due in 3 Days, Complete and Upcoming status.</li>
+<p><img alt="View Assignments" style="width: 100%;" src="/images/2Teacher/as_assignmentliststatus.png"></p>
+	<li>You may view Past assignments by clicking on the Past Tab.</li>
+<p><img alt="View Assignments" style="width: 100%;" src="/images/2Teacher/As_PastAssignmentView.png"></p>
 </ol>
 <p><u>Note</u>: Students will see all their Assignments (except Assessments) on the Assignments tab on the homepage if they are incomplete/overdue. Overdue assignments remain accessible to students. </p>
 <u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
