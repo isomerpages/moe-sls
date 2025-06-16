@@ -13,10 +13,10 @@ variant: markdown
 <p>You can add Comment for a single student from the Student View of the Assignment.</p>
 <ol>
 <li>From the Monitor Assignment page, select a student and navigate to an Activity containing the Free-Response or Audio-Response Question.</li>
-<li>You can choose to insert mathematical and chemical equations by clicking the respective icons. You can also insert drawings, upload file attachments from your local hard disk or Google Drive, or record an audio recording.</li>
+<li>You can choose to insert mathematical and chemical equations by clicking the respective icons. You can also insert drawings, upload file attachments from your local hard disk or Google Drive, or record an audio recording. You can also mention students and/or teachers in your post by typing '@' and selecting their names from the dropdown list. The selected students and/or teachers will be notified.</li>
 <li><p>If you wish to notify students of the comment, select the <strong>Notify student(s) about comment</strong> checkbox.</p>
 	<p><u>Note</u>: You can add multiple Teacher Comments to the question. Students can reply to the comments added.</p>
-<p><img alt="Add Teacher Comments" style="width: 70%;" src="/images/2Teacher/As-TeacherComments.png"></p>
+<p><img alt="Add Teacher Comments" style="width: 90%;" src="/images/2Teacher/As_TeacherComments1.png"></p>
 </li>
 <li><p>Click <strong>Post</strong>.</p>
 </li>
