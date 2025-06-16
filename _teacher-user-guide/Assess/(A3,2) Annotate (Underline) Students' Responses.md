@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-3b-annotate-underline-students-responses">(A3,2) Annotate (Underline) Students' Responses</h1><hr>
+<h1 id="-3b-annotate-underline-students-responses">(A3,2) Annotate (Underline) Students' Responses (Enhanced)</h1><hr>
 <p>As a teacher, you are able to make annotations (underline) in the Student's view to provide individualised feedback.</p>
 <p><u>Note</u>:</p>
 <ul>
@@ -27,7 +27,8 @@ variant: markdown
 </li>
 <li><p>Key in your Notes in the text box.</p>
 </li>
-<li>You may insert mathematical or chemical equations, include emoticons, a drawing or upload a file or audio recording.</li>
+<li>You may insert mathematical or chemical equations, include emoticons, a drawing or upload a file or audio recording. You can also mention students and/or teachers in your post by typing '@' and selecting their names from the dropdown list. The selected students and/or teachers will be notified.</li>
+<img alt="Annotate (Underline) Students' Responses" style="width: 80%;" src="/images/2Teacher/As_TeacherComments2.png"><p></p>
 <li>You can include Keyword Tags to improve the search results.</li>
 <li>Select the checkbox beside <strong>Notify student(s)</strong> if you wish to notify you students about the Annotation you have made.</li>
 <li>Once you are done, click <strong>Save</strong>.</li>
