@@ -13,7 +13,8 @@ variant: markdown
 <ol>
 <li>Enter a topic by selecting a topic card.</li>
 <li>To start a new post, click <strong>Create New Post</strong>. </li>
-<li><p>Posts can contain texts, mathematical and chemical formulae, drawings, file uploads and audio recordings.</p>
+<li><p>Posts can contain texts, mathematical and chemical formulae, drawings, file uploads and audio recordings. You can also mention students and/or teachers in your post by typing '@' and selecting their names from the dropdown list. The selected students and/or teachers will be notified.</p>
+<img alt="Post and Comment in the Forum" style="width: 80%;" src="/images/2Teacher/CO_forumpostmention.png">
 	<p> <u>Note</u>: Audio recordings can be downloaded and saved when it is being processed.</p>
 </li>
 <li><p>Select or deselect the checkbox “Commenting is enabled” to allow commenting.</p>
