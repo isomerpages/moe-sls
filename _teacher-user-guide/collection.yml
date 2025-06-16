@@ -30,7 +30,6 @@ collections:
       - Assess/(E1,i) Login for E–Assessments (New).md
       - Assess/(E1,ii) Set Assignments as Assessments.md
       - Assess/(E1,iii) Add and View Access Codes.md
-      - Assign/(A1,vi) View Assignments (Enhanced).md
       - Assign/.keep
       - Assign/Assign.md
       - Assign/(A1,i) Create Assignments (Enhanced).md
@@ -38,6 +37,7 @@ collections:
       - Assign/(A1,iii) Assign MOE Library Modules.md
       - Assign/(A1,iv) Assign Community Gallery Modules.md
       - Assign/(A1,v) Add or Sort Assignments in Class Group.md
+      - Assign/(A1,vi) View Assignments (Enhanced).md
       - Assign/(A1,vii) View Past Assignments.md
       - Assign/(B1,i) Manage Assignments.md
       - Assign/(B1,ii) Schedule Assignments.md
