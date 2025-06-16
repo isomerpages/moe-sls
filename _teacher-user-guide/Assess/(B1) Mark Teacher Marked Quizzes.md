@@ -47,7 +47,7 @@ variant: markdown
 		</p><ul>
 			<li>For Teacher Comments, you may insert mathematical or chemical equations by clicking the respective icons. You can also insert drawings, upload file attachments from your local hard disk or Google Drive, or record an audio recording.</li>
 			<li>You can also mention students and/or teachers in your post by typing '@' and selecting their names from the dropdown list. The selected students and/or teachers will be notified.</li>
-			<p></p>
+			<p><img alt="Mark Teacher-Marked Quizzes" style="width: 100%;" src="/images/2Teacher/As_TeacherComments_Quiz.png"></p>
 </ul>
 </li><li><p>If you are in an individual student's Assignment, click the <strong>left/right</strong> arrows at the top to navigate to the next student.</p>
 </li>
