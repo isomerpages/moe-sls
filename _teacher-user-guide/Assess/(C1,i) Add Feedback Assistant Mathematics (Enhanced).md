@@ -45,6 +45,8 @@ variant: markdown
 
 <ol><u>Supporting Resources</u>:
 <li><p>Click <a target="_blank" href="https://go.gov.sg/quick-guide-ai-fa-math">here</a> for a Quick Guide to FA-Math.</p></li>
+<p></p>
+<img alt="(C1,i) Add Feedback Assistant - Mathematics (FA-Math)" src="/images/2Teacher/FA_Math_QG.png" style="width: 100%;">
 	<li>View the <strong> step-by-step video guides </strong><a target="_blank" href="http://go.gov.sg/fa-math-playlist">here</a> to learn how to craft specific FA-Math question types.</li>
 	<li><p>Find readily available FA-Math sample questions in the SLS Community Gallery by searching <strong>FA-Math</strong>. More questions will be uploaded on the Community Gallery once they are available. Check out SgLDC for more updates. </p></li>
 	<li>Resources from the FA-Math webinar, including video recordings and sample questions, can be found <a target="_blank" href="https://go.gov.sg/fa-math-sls-package">here</a>.</li>
