@@ -637,7 +637,7 @@ further discussions with your students.</p>
 </tr>
 </tbody>
 </table>
-<p>Note: Click <a href="https://go.gov.sg/quick-guide-ai-lfa" rel="noopener nofollow" target="_blank">here</a> for
+<p>Click <a href="https://go.gov.sg/quick-guide-ai-lfa" rel="noopener nofollow" target="_blank">here</a> for
 a Quick Guide to Writing Rubrics and Suggested Answers for Learning Feedback
 Assistants.</p>
 <p></p>
