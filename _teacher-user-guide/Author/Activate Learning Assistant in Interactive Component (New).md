@@ -30,6 +30,24 @@ conversation logs when the assignment has started.</p>
 <p>Currently, Learning Assistant is only available for Secondary 1 students
 and above. When it is enabled for discussions, students will interact with
 SALiS.</p>
+<p></p>
+</li>
+</ul>
+<p>Before using Learning Assistant or any AI-enabled features in SLS, please
+ensure that your students complete the Basic Modules for AI and AI-enabled
+features in SLS in the following links:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/ai-lower-pri" rel="noopener noreferrer nofollow" target="_blank">Lower Primary Module</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ai-upper-pri" rel="noopener noreferrer nofollow" target="_blank">Upper Primary Module</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ai-sec" rel="noopener noreferrer nofollow" target="_blank">Secondary Level Module</a>
+</p>
 </li>
 </ul>
 </td>
@@ -50,7 +68,7 @@ then select <strong>Discussion</strong> and click on <strong>Learning Assistant 
 <p>Choose from the available <strong>predefined roles</strong> (e.g., Discussion
 Facilitator, Idea Generator) or create a <strong>custom role</strong> by
 providing your own instructions. If selecting a predefined role, modify
-the instructions to suit your class’s needs.</p>
+the instructions in the [placeholder values] to suit your class’s needs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AU_LEA_2.png">
 </div>
@@ -86,9 +104,11 @@ Role Play, Research Assistant, Idea Generator.</p>
 <li>
 <p>To provide context and scope the Learning Assistant’s responses more accurately,
 click <strong>Add Knowledge Base</strong> to upload reference materials.
-You can upload up to 20 Knowledge Bases that can comprise text, PDF or
-images. To add PDFs or images, click <strong>Add Media</strong>, and <strong>Upload File.</strong>
-</p>
+You can upload up to 20 Knowledge Bases that can comprise text, or up to
+5 images or pages of PDFs or Google files (e.g., Slides, Docs). To add
+PDFs or images, click <strong>Add Media</strong>, and <strong>Upload File. </strong>To
+add a Google file, click on <strong>Embed File from Google,</strong> and
+select your file. After uploading your file, click <strong>Save</strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AU_ACP_KB2__1_.png">
@@ -115,14 +135,16 @@ All student responses will be displayed on a single page for easy review.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Adding a Knowledge Base will anchor the generation of responses by Learning
-Assistant to information which can be added by teachers, e.g. a syllabus
-document, a comprehension passage or an excerpt from MOE’s interactive
-digital textbooks. It is recommended to upload specific PDF segments to
-improve the precision of generated content. Please ensure all uploaded
-materials comply with copyright laws, using only legally permitted content,
-properly licensed resources, or materials with explicit permissions. You
-may refer to <a href="https://www.learning.moe.edu.sg/terms-of-use/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/terms-of-use/</a> for
+<p>Adding a Knowledge Base will anchor the generation of content by Learning
+Assistant to information which can be added by you, e.g. a syllabus document,
+a comprehension passage or an excerpt from MOE’s interactive digital textbooks.
+It is recommended to upload specific PDF segments to improve the precision
+of generated content, as uploading too much information may potentially
+confuse the LLM and increase hallucinations. Please ensure all uploaded
+materials comply with copyright comply with data security classification
+(up to Official (Closed), Non-Sensitive) and copyright laws, using only
+legally permitted content, properly licensed resources, or materials with
+explicit permissions.You may refer to <a href="https://www.learning.moe.edu.sg/terms-of-use/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/terms-of-use/</a> for
 further details.</p>
 </li>
 </ul>
