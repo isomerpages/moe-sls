@@ -111,9 +111,13 @@ variant: markdown
     </li>
     <li>In the Module Editor page, hover over Question in the Component Bar, select <strong>Free-Response</strong> followed by <strong>Interactive Response.</strong></li>
     <li>Upload the HTM5 ZIP file into SLS and select <strong>Upload</strong> to proceed.</li>
-<h2><strong>Supported Scenarios for Creating Interactive Response</strong></h2></ol>
-<p><u>Important:</u> From Mar 2025 Update, teachers can set Interactive Response Questions (IRQs) to automatically return marks in rubrics by uploading corresponding HTML5 file to the Free-Response Question and setting up the rubrics to be used. Teachers can also set up IRQs that return teacher comments to students after their attempt.</p>
-You may download the HTML5 ZIP files based on the scenarios to create FRQ with Interactive Response.
+<h2>Supported Scenarios for Creating Interactive Response</h2></ol>
+<p>Teachers can now set Interactive Response Questions (IRQs) to automatically return scores and teacher feedback.</p>
+<p>IRQs will be able to return final score-marks and teacher feedback after March 2025 Update.</p> 
+<img alt="HTML5 Return Score and Feedback" style="width: 80%;" src="/images/2Teacher/Au_HTML5returnscore.png">
+<p>To do this, upload an xAPI-compliant HTML5 file to the Free-Response Question – Interactive Response Assistant and set up maximum marks possible and optionally the rubrics if desired.</p>
+<img alt="Interactive Response Assistant" style="width: 70%;" src="/images/2Teacher/Au_IRQAssistant.png">
+<p>You may download the HTML5 ZIP files based on the scenarios to create FRQ with Interactive Response.</p>
 <table class="simple-table">
   <tbody>
     <tr>
@@ -127,14 +131,24 @@ You may download the HTML5 ZIP files based on the scenarios to create FRQ with I
       <td><a target="_blank" href="https://go.gov.sg/html2">send-score.zip</a></td>
     </tr>
     <tr>
-      <td>Send score with grading rubric</td>
-      <td>Involves rubrics and “Show and use rubric marks” is selected</td>
-      <td><a target="_blank" href="https://go.gov.sg/html3">send-score-with-grading-rubrics-use-rubric-marks-selected.zip</a></td>
+      <td>Send score, feedback and criteria score and feedback</td>
+      <td>Involves score, feedback, criteria score and feedback</td>
+      <td><a target="_blank" href="https://go.gov.sg/01html5ufin">01 html5-dynamic-input.zip</a></td>
     </tr>
     <tr>
-      <td>Send score with grading rubric</td>
-      <td>Involves rubrics and “Show and use rubric marks” is not selected</td>
-      <td><a target="_blank" href="https://go.gov.sg/html4">send-score-with-grading-rubrics-use-rubric-marks-not-selected.zip</a></td>
+      <td>Send score via Radio and Checkbox</td>
+      <td>Involves score</td>
+      <td><a target="_blank" href="https://go.gov.sg/02html5ufin">02 html5-save-input-only.zip</a></td>
+    </tr>
+		    <tr>
+      <td>Send score, feedback and criteria score and feedback</td>
+      <td>Involves rubrics and “Show and use rubric marks“ is not selected</td>
+      <td><a target="_blank" href="https://go.gov.sg/03html5ufin">03 html5-dynamic-input-score-is-text-field.zip</a></td>
+    </tr>
+		    <tr>
+      <td>Send score and feedback only working on a sample 🌡thermometer interactive</td>
+      <td>Involves score, feedback, implemented on an interactive of thermometer</td>
+      <td><a target="_blank" href="https://go.gov.sg/03html5ufinthermo">thermometer_html5_dynamic.zip</a></td>
     </tr>
   </tbody>
 </table>
