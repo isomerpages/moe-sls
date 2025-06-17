@@ -10,20 +10,42 @@ third_nav_title: Assess
 <p>The Annotated Feedback Assistant (AFA) provides targeted in-line feedback
 on both content and language through annotation cards, using Suggested
 Answer, Rubrics, and Error Tags to help students refine their responses.
-With AFA, teachers can also use specific instructions to configure the
-feedback given (e.g. provide the correct response, hint, or probing questions)
-to meet their students’ learning needs.</p>
+With AFA, you can also use specific instructions to configure the feedback
+given (e.g. provide the correct response, hint, or probing questions) to
+meet their students’ learning needs. You can now allow students to check
+their responses to Free Response Questions (FRQs) using AFA before submitting,
+enabling them to act on feedback immediately by revising and improving
+their answers.</p>
 <p><strong>Important:</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
 <p>As AFA uses generative AI, its response is probabilistic in nature. Thus,
-it may not always identify errors comprehensively, and teachers should
-review and refine the feedback to ensure accuracy and alignment with learning
+it may not always identify errors comprehensively, and you should review
+and refine the feedback to ensure accuracy and alignment with learning
 objectives.</p>
 </li>
 <li>
-<p>File Submission is disabled when using AFA.</p>
+<p>File Submission is disabled when using AFA. Note: Students who submit
+Google Files as responses should use the Short Answer Feedback Assistant
+instead.</p>
+</li>
+</ul>
+<p>Before using AI-enabled features in SLS, you are encouraged to have students
+complete the Basic Modules for AI and AI-enabled features in SLS in the
+following links:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/ai-lower-pri" rel="noopener noreferrer nofollow" target="_blank">Lower Primary Module</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ai-upper-pri" rel="noopener noreferrer nofollow" target="_blank">Upper Primary Module</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ai-sec" rel="noopener noreferrer nofollow" target="_blank">Secondary Level Module</a>
+</p>
 </li>
 </ul>
 <h2>Create an AFA question</h2>
@@ -74,6 +96,11 @@ include the AFA enabled question within a Teacher Marked Quiz.</p>
 <p>To use AFA in a standalone question, click <strong>Add New</strong> on the
 Module Editor page, then select <strong>Activity</strong>. Proceed to Step
 3 to continue creating a standalone question.</p>
+</li>
+<li>
+<p><strong>[New]</strong> You can now view the draft history of a student’s
+response and AFA’s feedback below the student’s final submission and in
+the drawer respectively.</p>
 <p></p>
 </li>
 </ul>
@@ -94,6 +121,16 @@ the Component Bar. The Create New Question subpage will open.</p>
 <li>
 <p>Alternatively, you can choose Default Free-Response then click the checkbox
 next to&nbsp;<strong>Use Feedback Assistant</strong>&nbsp;and select&nbsp;<strong>Annotated Feedback Assistant</strong>.</p>
+</li>
+<li>
+<p><strong>[New]</strong> You can now preview the AFA experience, including
+receiving feedback from the student’s point of view before assigning it,
+using the new “Preview as Student” option.</p>
+</li>
+<li>
+<p>You can now also choose to hide question/component numbers in the quiz
+view, which will also apply to how questions appear within AFA annotation
+cards.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_AFA2.png">
 </div>
@@ -103,26 +140,64 @@ next to&nbsp;<strong>Use Feedback Assistant</strong>&nbsp;and select&nbsp;<stron
 </ol>
 <ol start="4" data-tight="true" class="tight">
 <li>
-<p>To configure references for AFA to generate feedback, click on Set Up
-Annotated Feedback Assistant.</p>
+<p>To configure AFA, click on Set Up Annotated Feedback Assistant.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_AFA3.png">
 </div>
+<p></p>
 </li>
 <li>
 <p>You can select a Feedback Reference, such as Suggested Answer, Rubrics
 and/or Error Tags for AFA to reference when auto-generating feedback for
 students.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_AFA4.png">
-</div>
 <p><u>Note:</u> You can have up to two Feedback References for each question
 with AFA enabled.</p>
 </li>
 </ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AFACheck.png">
+</div>
 <p></p>
 <ol start="6" data-tight="true" class="tight">
+<li>
+<p><strong>[New]</strong> In the setup subpage, you can now specify the <strong>number of drafts</strong> a
+student is allowed to check for feedback using AFA. This means students
+can revise and check their answer multiple times, receiving updated feedback
+each time — up to the limit set by you.</p>
+<p></p>
+<p><em>Tip: The default value is set to 0. Should you choose to set to 1, students will only be able to check once. Increase this value (up to 9) if you'd like to encourage more iterative drafting and feedback.</em>
+</p>
+<p></p>
+</li>
+<li>
+<p>Once you have set the number of drafts, students will be able to check
+their responses and receive feedback that updates with each draft.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AFAFeedbackDrawer.png">
+</div>
+<p></p>
+<p>Students will see:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A “Check” button with the number of attempts remaining.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A <strong>Latest Draft</strong> section displaying the most recent feedback.</p>
+</li>
+<li>
+<p>A <strong>Past Drafts</strong> dropdown that allows them to compare current
+and earlier feedback.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p>Tip: You can preview this experience using “Preview as Student” after
+setting up the AFA component.</p>
+<p></p>
+</li>
 <li>
 <p>To use Error Tags as a reference, tag the question to a content map. Error
 Tags found within the content map would be auto-populated.</p>
@@ -130,10 +205,76 @@ Tags found within the content map would be auto-populated.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_AFA5.png">
 </div>
-</li>
-</ol>
 <p></p>
-<ol start="7" data-tight="true" class="tight">
+</li>
+<li>
+<p>To use Suggested Answer as a reference, specify a detailed mark scheme
+in the&nbsp;<strong>Suggested Answer </strong>field. You can include PDFs
+or images here for assessment of students’ responses.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NewSuggestedAnswerUpload.png">
+</div>
+<p>Some helpful tips on writing the suggested answer:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>When using images or PDFs for suggested answers, ensure clarity and readability
+by using high-quality scans or images with legible text or handwriting.</p>
+</li>
+<li>
+<p>Clearly indicate key points through annotations, highlights, or labels,
+and align the marking scheme by providing a text-based breakdown of criteria
+where necessary.</p>
+</li>
+<li>
+<p>If multiple answers are acceptable, specify alternatives either within
+the image or as a separate explanation.</p>
+</li>
+<li>
+<p>PDFs can be useful for structured responses, such as worked solutions,
+annotated diagrams, or essay-style answers, with clear indications of how
+each section aligns with the marks awarded.</p>
+</li>
+<li>
+<p>Where possible, providing an exemplar response can help guide students
+in understanding expected formatting and content depth.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NewPosterForTipsForSAFA.png">
+</div>
+<p></p>
+</li>
+</ul>
+</li>
+<li>
+<p>Alternatively, to mark more open-ended responses based on rubrics, you
+may use <strong>Rubrics</strong> as a reference, by entering the following
+fields:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Title</p>
+</li>
+<li>
+<p>Band Descriptor</p>
+</li>
+<li>
+<p>Criterion</p>
+</li>
+<li>
+<p>Mark Range</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAFARubrics.png">
+</div>
+<p>Note: A maximum of 6 bands (columns) and 6 criteria (rows) can be added
+in a Rubrics. Click the Overflow (3-dot icon) to Add Band, Add Criterion,
+Delete Band, or Delete Criterion.</p>
+<p></p>
+</li>
 <li>
 <p>You can also select a recipe to further customise the feedback generated
 by AFA to better meet students’ needs, e.g. suggest direct replacements,
@@ -159,9 +300,31 @@ Questions, Auto-Graded and Progressive Quizzes. For Teacher Marked Quizzes,
 you have to mark and return the feedback before your students can receive
 it. Click here [/teacher-user-guide/assess/release-teacher-marked-quizzes/]
 to learn how to do so.</p>
+<p></p>
+</li>
+<li>
+<p>Before assigning to students, you can preview the feedback by clicking <strong>Preview as Student</strong> to
+ensure that the question has been configured correctly.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PreviewAsStudent.png">
+</div>
+<p>Note:</p>
+<p>Students will receive feedback automatically for Standalone Questions,
+Auto-Graded and Progressive Quizzes. For Teacher Marked Quizzes, you have
+to mark and return the feedback before your students can receive it. Click
+<a href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/release-teacher-marked-quizzes/" rel="noopener nofollow" target="_blank">here</a>to learn how to do so.</p>
+<p>Click <a href="https://go.gov.sg/quick-guide-ai-lfa" rel="noopener nofollow" target="_blank">here</a> for
+a Quick Guide to Writing Rubrics and Suggested Answers for Learning Feedback
+Assistants.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NewQuickGuideToLFA.jpg">
+</div>
 </li>
 </ol>
 <hr>
+<p></p>
 </li>
 </ol>
 <p></p>
