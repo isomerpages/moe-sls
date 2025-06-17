@@ -79,6 +79,7 @@ Click the dropdown arrow located on the right of the Module Tag field to select 
 <p>An example of input into Additional Details with Learning Experience(s):</p>
 <img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP9.png"><p></p>
 	
-<p>	Click <a target="\_blank" href="https://go.gov.sg/quick-guide-ai-acp">here</a> for a Quick Guide to Authoring Copilot.
+<p>	Click <a target="\_blank" href="https://go.gov.sg/quick-guide-ai-acp">here</a> for a Quick Guide to Authoring Copilot.</p>
+<p><img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/ACP_QG1.png">
 </p></ol>
 </ol>
