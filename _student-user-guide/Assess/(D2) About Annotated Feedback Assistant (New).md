@@ -47,7 +47,7 @@ feedback provided is inappropriate, you may write in to <a href="mailto:helpdesk
 report the issue.</p>
 </li>
 </ol>
-<h3>[New] Check Your Draft for Feedback</h3>
+<h3>Check Your Draft for Feedback (New)</h3>
 <p>If your teacher has enabled it, you will see a <strong>“Check”</strong> button
 after writing your response.</p>
 <div class="isomer-image-wrapper">
@@ -69,7 +69,7 @@ checks left will be shown below your answer.</p>
 </ul>
 <p>Tip: Make edits before clicking “Check” again. Submitting without improving
 your answer may return similar feedback.</p>
-<h3>[New] View Feedback History</h3>
+<h3>View Feedback History (New)</h3>
 <p>If your teacher allows multiple feedback drafts, you can view the feedback
 from earlier drafts as well, even after your teacher unsubmits your response
 for you to revise your answer. This helps you track how your response improves
@@ -100,5 +100,5 @@ this results in it being inaccurate at times. You are encouraged to discuss
 the&nbsp;feedback and marks with your teacher if you need further explanation.&nbsp;Bear
 in mind that AFA and ShortAnsFA may have also missed some errors. If the
 feedback provided is inappropriate, you may write in to&nbsp;SLS Helpdesk&nbsp;[
-<a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">mailto:helpdesk@sls.ufinity.com</a>] to report the issue.</p>
+<a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>] to report the issue.</p>
 <p></p>
