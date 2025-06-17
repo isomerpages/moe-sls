@@ -37,3 +37,4 @@ third_nav_title: Track Progress
 	<li> Click <strong>Download Report</strong> and choose the assessment or content item which you would like to download the report for.
 	<img alt="View ALS Learning Progress" src="/images/2Teacher/T_View_LP_DL3.png" style="width: 100%;"></li> 
 	</ol></ol></ol>
+	<p>Click <a>here</a> for a Quick Guide to Adaptive Learning System.<a target="_blank" href="https://go.gov.sg/quick-guide-ai-dat"><img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/als_qg.png"></a></p>
