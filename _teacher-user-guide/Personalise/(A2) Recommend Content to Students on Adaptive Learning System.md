@@ -42,4 +42,4 @@ third_nav_title: Personalise
 </ul>
 </ol>
 
-<p>Click <a>here</a> for a Quick Guide to Adaptive Learning System.<a target="_blank" href="https://go.gov.sg/quick-guide-ai-dat"><img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/als_qg.png"></a></p>
+<p>Click <a>here</a> for a Quick Guide to Adaptive Learning System.<a target="_blank" href="https://go.gov.sg/quick-guide-ai-als"><img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/als_qg.png"></a></p>
