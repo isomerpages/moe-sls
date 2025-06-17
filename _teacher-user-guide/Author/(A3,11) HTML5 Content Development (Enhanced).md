@@ -151,4 +151,22 @@ As a workaround, students can access the assignment via the Assignment URL.
 This happens when there is no "index.html" file found directly inside the ZIP file, e.g. it is found inside another folder, or it has been renamed as "index.html.html". Please follow steps 1 and 2 as stated in the User Guide above when uploading a HTML5 Zip file in SLS. You may want to use this tool: <a>https://sg.iwant2study.org/ospsg/index.php/1253</a> to automatically correct the ZIP file into a SLS compatible format.
 <p></p>
 </li><li><p><strong>Why does the HTML5 Media Object appear as a file, instead of being loaded in the frame?</strong></p>
-</li></ol>
+<ol style="list-style-type:lower-alpha;">
+	<li>Create a <strong>fully interactive, realistic-looking simulation</strong> of [plant growth] using only <strong>HTML, CSS, and JavaScript</strong>, all within a <strong> single self-contained HTML file</strong>. This file must be immediately usable in LMS platforms like the <strong>Student Learning Space (SLS)</strong> without requiring any external resources or internet access.</li>
+	<li><strong>Hide the page title</strong>, margins, and unnecessary UI to maximize vertical space.</li>
+	<li><strong>To optimise the file for SLS iframe view:</strong> Should fit width = 100% and height = 450 px.</li>
+	<li><strong>Fully responsive</strong>&nbsp;design for both desktop and mobile screens.</li>
+</ol>
+<p>
+</p></li><li><p><strong>How to create HTML5 Media Object with xAPI with score and teacher feedback compliance?</strong></p>
+<ol style="list-style-type:lower-alpha;">
+<li>Use a free AI-powered IDE like <a target="_blank" href="http://Trae.ai">Trae.ai</a> or <strong>Visual Code Studio with Cline bot Extension</strong></li>
+<li>Open a folder with a working xAPI example, such as the unzipped <strong>03-html5-dynamic-input-score-is-text-field</strong> folder.</li>
+<li>Include score-marks and teacher feedback after each action. For example:
+	<ul>
+		<li><strong>t = 0:</strong> Q1 asked, student answered "[response]" – marked ✅ <strong>correct</strong>.</li>
+		<li><strong>t = 1:</strong> Q2 asked, student answered "[response]" – marked ❌<strong>incorrect</strong>.</li>
+	</ul>
+</li><li>Once the interactive behaves as expected, ask the AI to <strong>hide debugging panels if desired</strong>.</li>
+	<li>The project should now be ready to export as an <strong>xAPI-compliant zip file</strong> compatible with <strong>SLS</strong>.</li>
+			</ol></li></ol>
