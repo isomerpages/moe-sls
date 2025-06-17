@@ -86,7 +86,7 @@ variant: markdown
   };
   // Immediately invoke getParameters on page load
   document.addEventListener("DOMContentLoaded", function() { XAPIUtils.getParameters(); });
-  &lt;script&gt;
+  &lt;/script&gt;
 </code></pre>
     </li>
     <li>
