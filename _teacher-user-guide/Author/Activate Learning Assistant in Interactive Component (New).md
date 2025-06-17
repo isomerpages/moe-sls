@@ -136,7 +136,7 @@ All student responses will be displayed on a single page for easy review.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Adding a Knowledge Base will anchor the generation of content by Learning
-Assistant to information which can be added by you, e.g. a syllabus document,
+Assistant to information which can be added, e.g. a syllabus document,
 a comprehension passage or an excerpt from MOE’s interactive digital textbooks.
 It is recommended to upload specific PDF segments to improve the precision
 of generated content, as uploading too much information may potentially
