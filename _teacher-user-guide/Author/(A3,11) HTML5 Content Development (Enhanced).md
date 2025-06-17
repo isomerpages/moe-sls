@@ -142,12 +142,14 @@ You may download the HTML5 ZIP files based on the scenarios to create FRQ with I
 <hr>
 <ol>
 <li><p><strong>Why does the HTML5 Media Object close after an Assignment is opened in a new tab?</strong></p>
-<p> The following line of code in the HTML5 Media Object may have caused this issue:</p>
-<p><em>top.close();</em></p>
-<p>//window.opener.top.close();</p>
-<p> As a workaround, students can access the assignment via the Assignment URL.</p>
+The following line of code in the HTML5 Media Object may have caused this issue:<p></p>
+<ul>
+<li><em>top.close();</em>
+</li><li>//window.opener.top.close();</li></ul>
+As a workaround, students can access the assignment via the Assignment URL.
 </li>
 <li><p><strong>Why does the HTML5 Media Object appear as a file, instead of being loaded in the frame?</strong></p>
-<p> This happens when there is no "index.html" file found directly inside the ZIP file, e.g. it is found inside another folder, or it has been renamed as "index.html.html". Please follow steps 1 and 2 as stated in the User Guide above when uploading a HTML5 Zip file in SLS. 
-</p>
+This happens when there is no "index.html" file found directly inside the ZIP file, e.g. it is found inside another folder, or it has been renamed as "index.html.html". Please follow steps 1 and 2 as stated in the User Guide above when uploading a HTML5 Zip file in SLS. 
+<p></p>
+</li><li><p><strong>Why does the HTML5 Media Object appear as a file, instead of being loaded in the frame?</strong></p>
 </li></ol>
