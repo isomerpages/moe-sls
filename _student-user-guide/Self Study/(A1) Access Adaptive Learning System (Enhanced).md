@@ -34,6 +34,7 @@ variant: markdown
 	<li>After selecting a Topic / Subtopic, the learning mode best suited to your learning profile will be labelled with a ‘Recommended’ tag.  You can follow the recommendation or choose another mode. You can also exit the chosen learning mode halfway and change to a more suitable learning mode.</li>
 <img alt="Access Adaptive Learning System (ALS)" src="/images/1Student/SS_ALS5.png" style="width: 100%;"><br>
 <li>At the end of each quiz, you will be able to see your mastery level of the concepts tested. You can also view your learning progress and decide what topics to learn next. For more information on how to track your learning progress with ALS, click <a target="_blank" href="/student-user-guide/track-progress/view-als-learning-progress/">here</a>.</li>
-<img alt="Access Adaptive Learning System (ALS)" src="/images/1Student/SS_ALS6.png" style="width: 100%;">	
+<br> Click  <a target="_blank" href="/https://go.gov.sg/quick-guide-ai-als-student/">here</a> for a Quick Guide to Adaptive Learning System.<br>
+<img alt="Access Adaptive Learning System (ALS)" src="/images/1Student/SS_ALS_QG.png" style="width: 100%;">	
 </ol>
 <hr>
