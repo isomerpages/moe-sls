@@ -12,11 +12,11 @@ variant: markdown
 <ul>
 <li>FA-Math can be added as Prepopulated Student Answer in a Free-Response Question. Students will be informed that FA-Math will provide feedback for the question.</li>
 <li>File Submission and Suggested Answer Field are disabled when using FA-Math.</li>
-	 <li>Before using AI-enabled features in SLS, you are encouraged to have students complete the Basic Modules for AI and AI-enabled features in SLS in the following links:
-<ul><li><a href="https://go.gov.sg/ai-lower-pri">⁠ ⁠Lower Primary Module</a></li>
+<p>Before using AI-enabled features in SLS, you are encouraged to have students complete the Basic Modules for AI and AI-enabled features in SLS in the following links:
+</p><ul><li><a href="https://go.gov.sg/ai-lower-pri">⁠ ⁠Lower Primary Module</a></li>
 <li><a href="https://go.gov.sg/ai-upper-pri">⁠ Upper Primary Module</a></li>
 <li><a href="https://go.gov.sg/ai-sec">⁠ Secondary Level Module</a></li></ul>
-</li></ul>
+</ul><p></p>
 <hr>
 <ol>
 <li><p>Select <strong>Free-Response</strong> then <strong>Feedback Assistant - Mathematics</strong> under Questions in the Component Bar. The Create New Question subpage will open.</p>	
