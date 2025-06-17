@@ -29,7 +29,7 @@ Add the Module Title.
 In the Module Notes field, add a brief description of your module's learning objectives and key concepts. Click  <a target="_blank" href="https://www.opal2.moe.edu.sg/csl/s/epedagogy/wiki/page/view?title=%5BSection+1.3%5D+e-Pedagogy+in+subject+discipline">here</a> (requires OPAL login) for more information on how to craft more specific input, for more supporting resources and ideas.</li>
 <u>Note</u>: A maximum of 2000 characters can be input into this field.
 <img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP4.png">
-	<li>Click the <b>Up/Down</b> arrows to set the number of sections to generate in the module. The number of sections can depend on the number of topics or sub-topics covered in the module, or the number of lessons you have to cover the module content.</li>
+	<li>Set the number of sections to generate in the module. The number of sections can depend on the number of topics or sub-topics covered in the module, or the number of lessons you have to cover the module content.</li>
 		<p><u>Note</u>: A maximum of 20 Sections can be created in a module.</p>
 <img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP5.png">
 <li>
@@ -55,12 +55,12 @@ Click the dropdown arrow located on the right of the Module Tag field to select 
 <li>Click <strong>Add Existing</strong> and select <strong>From Templates</strong> to choose a suitable SLS template for Authoring Copilot to refer to when you wish for it to generate a similar Module Structure.</li>
 <li>Click <strong>Create</strong> to generate the Section(s) in the Module. Authoring Copilot will create a Suggested Module Plan with Module description and Section notes. Click the checkboxes next to the generated content you wish to include in the module. Click <strong>Add</strong> to autogenerate Section(s) within the Module.</li>
 <li>Authoring Copilot will create a Suggested Module Plan with Module description and Section notes. Click <strong>Add</strong> to autogenerate Section(s) within the Module.</li>	
-<img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP12.png">
+<img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP12g.png">
 <li>You can edit the Module and Section(s) generated in the Module Editor page, as you would for a normal lesson.</li>
 <li>To regenerate the Module and Section(s), click <strong>Back to Generate Module</strong> to edit the Module Details and regenerate the Module and Section(s).</li>
 <img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP12a.png">
 	<p>Alternatively, you can regenerate the Module and Section by clicking the <b>orange Create</b> icon <img alt="Create" style="width:1.5rem; display: inline;" src="/images/Icons/ACP.svg"> on the respective cards to reopen Authoring Copilot. Newly generated Sections will be appended to the end of the existing set of Sections.</p>
-<p>When creating your module, consider including curricular elements from subject-specific Teaching and Learning Guides (available in OPAL2.0) which can be found in subject-specific <a target="_blank" href="https://www.opal2.moe.edu.sg/csl/s/epedagogy/wiki/page/view?title=%5BSection+1.3%5D+e-Pedagogy+in+subject+discipline">Teaching and Learning Guides</a> (requires OPAL login).</p>
+<p>When creating your module, include curricular considerations from subject-specific <a target="_blank" href="https://www.opal2.moe.edu.sg/csl/s/epedagogy/wiki/page/view?title=%5BSection+1.3%5D+e-Pedagogy+in+subject+discipline">Teaching and Learning Guides</a> (requires OPAL login).</p>
 <p>These may include:</p>
 <ul>
 <li>Building on students' prior knowledge</li>
@@ -77,6 +77,8 @@ Click the dropdown arrow located on the right of the Module Tag field to select 
 <li>An example set of Module Notes:</li>
 </ul>
 <p>An example of input into Additional Details with Learning Experience(s):</p>
-<img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP9.png">
-</ol>
+<img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP9.png"><p></p>
+	
+<p>	Click <a target="\_blank" href="https://go.gov.sg/quick-guide-ai-acp">here</a> for a Quick Guide to Authoring Copilot.
+</p></ol>
 </ol>
