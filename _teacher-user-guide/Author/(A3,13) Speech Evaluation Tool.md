@@ -9,8 +9,12 @@ variant: markdown
 <h1 id="speech-evaluation-">(A3,13) Speech Evaluation Tool</h1><hr>
 <h2 id="enable-speech-evaluation">Enable Speech Evaluation</h2>
 <hr>
+<ul>Before using AI-enabled features in SLS, you are encouraged to have students complete the Basic Modules for AI and AI-enabled features in SLS in the following links:
+<ul><li><a href="https://go.gov.sg/ai-lower-pri">⁠ ⁠Lower Primary Module</a></li>
+<li><a href="https://go.gov.sg/ai-upper-pri">⁠ Upper Primary Module</a></li>
+	<li><a href="https://go.gov.sg/ai-sec">⁠ Secondary Level Module</a></li></ul>
 <ol>
-<li><p>You can enable auto-marking in an <strong>Audio-Response Question</strong> by selecting the Audio-Response under Question dropdown in the Component Bar. </p>
+	<li><p>You can enable auto-marking in an <strong>Audio-Response Question</strong> by selecting the Audio-Response under Question dropdown in the Component Bar. </p>
 	<p> <u>Note</u>: The Speech Evaluation Tool is only available for Audio-Response Question types. </p>
 </li>
 <li><p>Check the box next to "Use" and select the relevant Language for Speech Evaluation</p>
@@ -51,3 +55,4 @@ variant: markdown
 <li>If you unsubmit a student’s response, they will need to delete their audio response in order to reattempt the question.</li>
 <p><u>Note</u>: Their transcript and error annotations will also be removed if their audio response is deleted.</p>
 </ul></ol>
+<p> Click<a href="https://go.gov.sg/quick-guide-ai-set">⁠ ⁠here</a> for a Quick Guide to Speech Evaluation Tool.</p></ul>
