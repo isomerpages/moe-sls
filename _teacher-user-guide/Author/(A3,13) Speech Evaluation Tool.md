@@ -9,8 +9,8 @@ variant: markdown
 <h1 id="speech-evaluation-">(A3,13) Speech Evaluation Tool</h1><hr>
 <h2 id="enable-speech-evaluation">Enable Speech Evaluation</h2>
 <hr>
-<ul>Before using AI-enabled features in SLS, you are encouraged to have students complete the Basic Modules for AI and AI-enabled features in SLS in the following links:
-<ul><li><a href="https://go.gov.sg/ai-lower-pri">⁠ ⁠Lower Primary Module</a></li>
+<ol><p>Before using AI-enabled features in SLS, you are encouraged to have students complete the Basic Modules for AI and AI-enabled features in SLS in the following links:
+</p><ul><li><a href="https://go.gov.sg/ai-lower-pri">⁠ ⁠Lower Primary Module</a></li>
 <li><a href="https://go.gov.sg/ai-upper-pri">⁠ Upper Primary Module</a></li>
 	<li><a href="https://go.gov.sg/ai-sec">⁠ Secondary Level Module</a></li></ul>
 <ol>
@@ -55,5 +55,5 @@ variant: markdown
 <li>If you unsubmit a student’s response, they will need to delete their audio response in order to reattempt the question.</li>
 <p><u>Note</u>: Their transcript and error annotations will also be removed if their audio response is deleted.</p>
 </ul></ol>
-<p> Click<a href="https://go.gov.sg/quick-guide-ai-set">⁠ ⁠here</a> for a Quick Guide to Speech Evaluation Tool.</p></ul>
-<p><img alt="Speech Evaluation" style="width: 100%;" src="/images/2Teacher/AU_SET_QG.jpg"></p>
+<p> Click<a href="https://go.gov.sg/quick-guide-ai-set">⁠ ⁠here</a> for a Quick Guide to Speech Evaluation Tool.</p>
+<p><img alt="Speech Evaluation" style="width: 100%;" src="/images/2Teacher/AU_SET_QG.jpg"></p></ol>
