@@ -12,7 +12,7 @@ variant: markdown
 <hr>
 <p>When creating HTML5 interactive content for SLS, the maximum file size limit is 500 MB. </p>
 <ol>
-<li>Acceptable languages: HTML5, CSS, and JavaScript (client-side only)</li>
+<li>Acceptable languages: Client-side only technologies: HTML5, CSS, and JavaScript. No server-side code or external APIs are permitted.</li>
 <li>Responsive requirements: 
 <ol style="list-style-type: lower-alpha;">
 <li>Vector graphics should be used, using SVG or other suitable formats,</li>
@@ -25,7 +25,7 @@ variant: markdown
 	<li>Scales proportionally and works within an &lt;iframe&gt;
  regardless of the dimension of the &lt;iframe&gt;,</li>
 <li>Scales proportionately and works within its own browser window regardless of size,</li>
-<li>Self-contained HTML5 packages should contain the necessary WebGLibraries (if required) in their root folder.</li>
+<li>Self-contained HTML5 packages should contain the necessary WebGL libraries (if required) in their root folder. Note that if WebGL is used, all .js and shader assets must be bundled locally.</li>
 </ol>
 </li>
 <li>Others:
@@ -38,7 +38,8 @@ variant: markdown
 <hr>
 <ol>
 <li><p>Ensure your Media Object folder contains the "index.html" file.</p>
-<p><img alt="HTML5 Content Development" style="width: 100%;" src="/images/2Teacher/AU-AddHTML1.png"></p>
+	<p> Note: Your ZIP folder must contain index.html in the root - not nested and must be named index.html. Otherwise, SLS will not recognise the folder.
+</p><p><img alt="HTML5 Content Development" style="width: 100%;" src="/images/2Teacher/AU-AddHTML1.png"></p>
 </li>
 <li><p>Select all the files within the folder and zip/compress them.</p>
 </li>
