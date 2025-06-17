@@ -7,9 +7,9 @@ third_nav_title: Author
 ---
 <h1>(A1,5) Add Section (Adaptive)(New)</h1>
 <hr>
-<p>Teachers can create Section (Adaptive) in a module to assign ALS content
-directly to students and track their completion in the assignment heatmap.
-This enables the integration of adaptive and non-adaptive learning.</p>
+<p>You can create Section (Adaptive) in a module to assign ALS content directly
+to students and track their completion in the assignment heatmap. This
+enables the integration of adaptive and non-adaptive learning.</p>
 <h2>Adding Section (Adaptive)</h2>
 <hr>
 <ol data-tight="true" class="tight">
@@ -23,7 +23,9 @@ select Section (Adaptive).
 </div>
 </li>
 <li>
-<p>Select the learning mode.</p>
+<p>Select Guided Learning/Master Check/Revision or Test Myself (For Guided
+Learning/Master Check/Revision, system will recommend the most suitable
+learning mode for the student).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/Add_Section__Adaptive___E1_vi____2.png">
 </div>
@@ -63,27 +65,42 @@ Learning Outcome (LO).</p>
 <li>
 <p>For Test Myself mode, you can select multiple LOs.</p>
 </li>
+<li>
+<p>Select LOs marked with orange icons, as these are the only ones containing
+ALS content. If LOs without orange icons are checked (i.e. without ALS
+content), an error may be encountered when students enter the adaptive
+sections.</p>
+</li>
 </ul>
 <h2>Tracking Students’ Progress</h2>
 <hr>
-<p>Teachers can track students’ completion of Section (Adaptive) under the
-Monitoring Assignment page. They can also view students’ attempts of the
-Adaptive Learning session in Section (Adaptive)</p>
+<p>You can track students’ completion of Section (Adaptive) under the Monitoring
+Assignment page. They can also view students’ attempts of the Adaptive
+Learning session in Section (Adaptive)</p>
 <hr>
 <ol data-tight="true" class="tight">
 <li>
 <p>Check students’ progress using the different colour codes. Clicking on
 the magnifying glass icon will open up the Ability Snapshot page.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/Add_Section__Adaptive___E1_vi____5.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AU_ALS_5.png">
+</div>
 </li>
 <li>
-<p>You can view students’ mastery of the LO(s) in the Ability Snapshot page.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/Add_Section__Adaptive___E1_vi____6.png">
-</div>
+<p>You can view students’ mastery of the LO(s) in the Ability Snapshot page.
+Ability scores are system-generated based on students’ responses to the
+learning activities in the Section (Adaptive). Scores above 0.8 indicate
+that students have mastered the learning outcome(s); scores below 0.11
+indicate that students need attention.</p>
 </li>
 </ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AU_ALS_6.png">
+</div>
+<p>Click <a href="https://go.gov.sg/quick-guide-ai-als" rel="noopener nofollow" target="_blank">here</a> for
+a Quick Guide to Adaptive Learning System.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1000091794.jpg">
+</div>
 <p></p>
