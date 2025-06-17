@@ -12,7 +12,11 @@ variant: markdown
 <ul>
 <li>FA-Math can be added as Prepopulated Student Answer in a Free-Response Question. Students will be informed that FA-Math will provide feedback for the question.</li>
 <li>File Submission and Suggested Answer Field are disabled when using FA-Math.</li>
-</ul>
+	 <li>Before using AI-enabled features in SLS, you are encouraged to have students complete the Basic Modules for AI and AI-enabled features in SLS in the following links:
+<ul><li><a href="https://go.gov.sg/ai-lower-pri">⁠ ⁠Lower Primary Module</a></li>
+<li><a href="https://go.gov.sg/ai-upper-pri">⁠ Upper Primary Module</a></li>
+<li><a href="https://go.gov.sg/ai-sec">⁠ Secondary Level Module</a></li></ul>
+</li></ul>
 <hr>
 <ol>
 <li><p>Select <strong>Free-Response</strong> then <strong>Feedback Assistant - Mathematics</strong> under Questions in the Component Bar. The Create New Question subpage will open.</p>	
@@ -40,7 +44,7 @@ variant: markdown
 </li></ol>
 
 <ol><u>Supporting Resources</u>:
-<li><p>This <a target="_blank" href="https://go.gov.sg/fa-math-eposter">e-Poster</a> highlights key features of FA-Math.</p></li>
+<li><p>Click <a target="_blank" href="https://go.gov.sg/quick-guide-ai-fa-math">here</a> for a Quick Guide to FA-Math.</p></li>
 	<li>View the <strong> step-by-step video guides </strong><a target="_blank" href="http://go.gov.sg/fa-math-playlist">here</a> to learn how to craft specific FA-Math question types.</li>
 	<li><p>Find readily available FA-Math sample questions in the SLS Community Gallery by searching <strong>FA-Math</strong>. More questions will be uploaded on the Community Gallery once they are available. Check out SgLDC for more updates. </p></li>
 	<li>Resources from the FA-Math webinar, including video recordings and sample questions, can be found <a target="_blank" href="https://go.gov.sg/fa-math-sls-package">here</a>.</li>
