@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Assess
 ---
-<h1>(A2,2) Analyse Students’ Responses with Data Assistant</h1>
+<h1>(A2,2) Analyse Students’ Responses with Data Assistant (Enhanced)</h1>
 <hr>
 <h2>Analyse Students’ Responses using Data Assistant</h2>
 <hr>
@@ -165,7 +165,7 @@ Assistant to analyse the overall performance of their class in a quiz.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AS_DAT9.png">
 </div>
-<p><em>Quiz Overview Page </em>
+<p><em>Quiz Overview Page</em>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT10.png">
@@ -248,3 +248,11 @@ students.</p>
 <p>If you encounter any unexpected errors while using Data Assistant, please
 report them to the <a href="helpdesk@sls.ufinity.com" rel="noopener nofollow" target="_blank">helpdesk</a> for
 assistance.</p>
+<p></p>
+<p>Click <a href="https://go.gov.sg/quick-guide-ai-dat" rel="noopener nofollow" target="_blank"><u>here</u></a> for
+a Quick Guide to Data Assistant.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT8.png">
+</div>
+<p></p>
