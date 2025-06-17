@@ -209,10 +209,10 @@ clicking on the ‘Save analysis’ button.</p>
 </li>
 </ol>
 <h2>[New] Accessing and Managing Saved Analysis/ Feedback</h2>
-<p><strong>Viewing Saved Analysis / Feedback for Quizzes</strong>
+<p><strong>Viewing Saved Analysis / Feedback for Quizzes and FRQ</strong>
 </p>
-<p>To view saved analysis/feedback for quizzes, click on ‘monitor’ followed
-by the lesson activity where you have saved your analysis.</p>
+<p>To view saved analysis/feedback for quizzes and FRQ, click on ‘monitor’
+followed by the lesson activity where you have saved your analysis.</p>
 <ol>
 <li>
 <p>After students submit the quiz, click on ‘monitor’</p>
@@ -229,7 +229,8 @@ by the lesson activity where you have saved your analysis.</p>
 </div>
 <ol start="3" data-tight="true" class="tight">
 <li>
-<p>You will be able to view your saved analysis/feedback.</p>
+<p>You will be able to view your saved analysis/feedback at the bottom of
+the page.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT14.png">
 </div>
