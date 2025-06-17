@@ -56,3 +56,4 @@ variant: markdown
 <p><u>Note</u>: Their transcript and error annotations will also be removed if their audio response is deleted.</p>
 </ul></ol>
 <p> Click<a href="https://go.gov.sg/quick-guide-ai-set">⁠ ⁠here</a> for a Quick Guide to Speech Evaluation Tool.</p></ul>
+<p><img alt="Speech Evaluation" style="width: 100%;" src="/images/2Teacher/AU_SET_QG.png"></p>
