@@ -211,8 +211,8 @@ clicking on the ‘Save analysis’ button.</p>
 <h2>[New] Accessing and Managing Saved Analysis/ Feedback</h2>
 <p><strong>Viewing Saved Analysis / Feedback for Quizzes</strong>
 </p>
-<p>To view saved analysis/feedback, click on ‘monitor’ followed by the lesson
-activity where you have saved your analysis.</p>
+<p>To view saved analysis/feedback for quizzes, click on ‘monitor’ followed
+by the lesson activity where you have saved your analysis.</p>
 <ol>
 <li>
 <p>After students submit the quiz, click on ‘monitor’</p>
@@ -248,7 +248,31 @@ students.</p>
 <p>If you encounter any unexpected errors while using Data Assistant, please
 report them to the <a href="helpdesk@sls.ufinity.com" rel="noopener nofollow" target="_blank">helpdesk</a> for
 assistance.</p>
+<p><strong>Viewing Saved Analysis / Feedback for Discussion</strong>
+</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>To view saved analysis/feedback for Discussion, click on ‘monitor’ followed
+by the lesson activity where you have saved your analysis.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT15.png">
+</div>
+</li>
+<li>
+<p>Click on 'View class submissions.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT16.png">
+</div>
+</li>
+<li>
+<p>You will be able to find your saved analysis in the form of a discussion
+post.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT17.png">
+</div>
+</li>
+</ol>
 <p>Click <a href="https://go.gov.sg/quick-guide-ai-dat" rel="noopener nofollow" target="_blank"><u>here</u></a> for
 a Quick Guide to Data Assistant.</p>
 <p></p>
