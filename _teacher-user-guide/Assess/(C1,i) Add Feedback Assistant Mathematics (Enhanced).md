@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(C1,i) Add Feedback Assistant Mathematics (Enhanced)</h1><hr>
+<h1>(C1,i) Add Feedback Assistant Mathematics</h1><hr>
 <p>The Feedback Assistant - Mathematics (FA-Math) is an engine that offers step-by-step feedback to students on their answers.</p>
 <p><b>Important</b>:</p>
 <ul>
@@ -44,7 +44,7 @@ variant: markdown
 </li></ol>
 
 <ol><u>Supporting Resources</u>:
-<li><p>Click <a target="_blank" href="https://go.gov.sg/quick-guide-ai-fa-math">here</a> for a Quick Guide to FA-Math.</p></li>
+<p>Click <a target="_blank" href="https://go.gov.sg/quick-guide-ai-fa-math">here</a> for a Quick Guide to FA-Math.</p>
 <p></p>
 <img alt="(C1,i) Add Feedback Assistant - Mathematics (FA-Math)" src="/images/2Teacher/FA_Math_QG.png" style="width: 100%;">
 	<li>View the <strong> step-by-step video guides </strong><a target="_blank" href="http://go.gov.sg/fa-math-playlist">here</a> to learn how to craft specific FA-Math question types.</li>
