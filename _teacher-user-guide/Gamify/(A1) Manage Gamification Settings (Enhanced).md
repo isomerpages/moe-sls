@@ -33,7 +33,7 @@ variant: markdown
 <li>You can also edit the Game Experience after assigning the module. From within an Assignment, open the right menu and select Edit. Click the <strong>Manage Gamification Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/GameEdit.svg"> to access the Gamification subpage.</li>
 </ul>
 </li>
-<li>From 2025 June Update, you may also import gamification information such as Details, Experience Points, Game Stories, Collectibles and Leaderboard from existing modules.
+<li>From June 2025 Update, you may also import gamification information such as Details, Experience Points, Game Stories, Collectibles and Leaderboard from existing modules.
 <ol style="list-style-type: lower-alpha;">
 <li>Click <strong>Import Game Settings</strong> to import either <strong>From Library</strong> or <strong>From Starred Resources</strong>.
 <p><img alt="Manage Gamification Settings" style="width: 100%;" src="/images/2Teacher/G_ManageGamification2.png"></p>
