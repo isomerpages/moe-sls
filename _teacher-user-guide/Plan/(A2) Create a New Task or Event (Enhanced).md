@@ -11,7 +11,7 @@ variant: markdown
 <h2>Create a New Task</h2>
 <hr>
 <ol>
-<li>There are four ways to create a <strong>New Task</strong>, from:
+<li>There are three ways to create a <strong>New Task</strong>, from:
 <ol style="list-style-type: lower-alpha;">
 <li>Planner
 <ol style="list-style-type: lower-roman;">
