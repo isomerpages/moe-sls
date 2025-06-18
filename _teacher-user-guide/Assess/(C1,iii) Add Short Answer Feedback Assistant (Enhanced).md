@@ -640,7 +640,6 @@ further discussions with your students.</p>
 <p>Click <a href="https://go.gov.sg/quick-guide-ai-lfa" rel="noopener nofollow" target="_blank">here</a> for
 a Quick Guide to Writing Rubrics and Suggested Answers for Learning Feedback
 Assistants.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NewQuickGuideToLFA.jpg">
 </div>
