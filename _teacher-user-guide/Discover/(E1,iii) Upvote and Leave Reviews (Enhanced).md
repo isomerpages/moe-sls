@@ -6,7 +6,7 @@ third_nav_title: Discover
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(E1,iii) Upvote and Leave Reviews (Enhanced)</h1><hr>
+<h1>(E1,iii) Upvote and Leave Reviews</h1><hr>
 <p>Teachers are able to upvote and leave Reviews for MOE Library and Community Gallery Modules.</p>
 <h2>Upvote Modules</h2>
 <hr>
