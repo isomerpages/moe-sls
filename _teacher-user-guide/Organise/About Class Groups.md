@@ -6,7 +6,7 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>About Class Groups (Enhanced)</h1>
+<h1>About Class Groups</h1>
 <hr>
 <p><b>Important:</b> From Mar 2025 Update, owners and co-teachers of class groups can restore past class groups as active class groups <a target="_blank" href="/teacher-user-guide/organise/view-and-restore-past-class-groups/">here</a>.
 
