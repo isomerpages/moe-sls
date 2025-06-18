@@ -15,7 +15,7 @@ variant: markdown
 <li>Click <strong>Click-and-Drop</strong>.</li>
 <li>In the Question Body field, enter the question.</li>
 <li>Click <strong>Upload</strong> to upload a Base Image.</li>
-	<p><u>Note</u>: Click Crop tool to rotate or crop your image using the preset ratios or a freeform dimension of your choice. <b>(NEW)</b></p>
+	<p><u>Note</u>: Click Crop tool to rotate or crop your image using the preset ratios or a freeform dimension of your choice.</p>
 <li><p>Click <strong>Set Option Size</strong> to choose from: </p>
 <ul>
 	<li><b>Use Base Image</b>: Select the dimension on your base image. Click Done to confirm.</li>
