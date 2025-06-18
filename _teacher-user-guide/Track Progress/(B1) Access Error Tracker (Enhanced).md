@@ -42,9 +42,9 @@ third_nav_title: Track Progress
 <li>To see individual student's <strong>Learning Progress</strong>, click on the <strong>Learning Progress</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/LearningProgress.svg"> next to the student's name.
 <ol style="list-style-type: lower-alpha;">
 <li>Click on the <strong>Error Tracker</strong> tab.</li>
+<p><img alt="Access Error Tracker" style="width: 100%;" src="/images/2Teacher/TP_errortrackerA.png"></p>
 <li>You can then filter the Error Tracker by month range and error tag for more effective tracking over time.</li>
 <li>You can also click on the <strong>Questions</strong> tab to see a list of attempted modules, each showing the number of tagged errors.</li>
 </ol>
-<p><img alt="Access Error Tracker" style="width: 100%;" src="/images/2Teacher/TP_errortrackerA.png"></p>
 </li>
 </ol>
