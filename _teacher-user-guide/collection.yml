@@ -138,6 +138,14 @@ collections:
       - Customise/(A1,vi) Change SLS Password.md
       - Customise/(A1,vii) Switch to Student Account (Enhanced).md
       - Customise/(B1) Manage My Templates.md
+      - Differentiate/.keep
+      - Differentiate/Differentiate.md
+      - Differentiate/(A1) Create Subgroups.md
+      - Differentiate/(A2) View Subgroups.md
+      - Differentiate/(A3) Edit & Delete a Subgroup.md
+      - Differentiate/(B1,i) Add Activity, Quiz or Section Prerequisites
+        (Enhanced).md
+      - Differentiate/(B1,ii) Set Differentiated Access.md
       - Discover/.keep
       - Discover/Discover.md
       - Discover/About Resources.md
@@ -159,14 +167,6 @@ collections:
       - Discover/(E1,iv) About Adaptive Learning System (ALS).md
       - Discover/(E1,v) Tag Resources to Adaptive Learning System.md
       - Discover/(E1,vi) Link Activities in ALS Content.md
-      - Differentiate/.keep
-      - Differentiate/Differentiate.md
-      - Differentiate/(A1) Create Subgroups.md
-      - Differentiate/(A2) View Subgroups.md
-      - Differentiate/(A3) Edit & Delete a Subgroup.md
-      - Differentiate/(B1,i) Add Activity, Quiz or Section Prerequisites
-        (Enhanced).md
-      - Differentiate/(B1,ii) Set Differentiated Access.md
       - Enact/.keep
       - Enact/Enact.md
       - Enact/(A1) Change Access to Activities.md
