@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Gamify
 ---
-<h1>(A3) Add Conditions to Game Story or Collectibles (Enhanced)</h1><hr>
+<h1>(A3) Add Conditions to Game Story or Collectibles</h1><hr>
 <p>Conditions help determine when your Game Stories and Collectibles appear during the module. Game Stories and Collectibles will appear after the conditions have been fulfilled. Game Stories and Collectibles with no Conditions will not appear but can be awarded to students manually. </p>
 
 <p><u>Note:</u> From March 2025 update, there are 3 types of collectibles: Achievements, Avatars, Digital Badges. Digital badges are special badges awarded to students and teachers’ profile for completing self-study modules from MOE Library.</p>
