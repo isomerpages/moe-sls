@@ -7,8 +7,8 @@ image: /images/FaviconLight.png
 third_nav_title: Assign
 ---
 <h2>(A1,vii) View Past Assignments</h2>
-<p>Important:&nbsp;From June 2025 Update, teachers and students will be able
-to view past assignments in a separate tab.</p>
+<p><u>Important:</u>&nbsp;From June 2025 Update, teachers and students will
+be able to view past assignments in a separate tab.</p>
 <p>There are multiple ways to access Past Assignments</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -32,8 +32,8 @@ and click filter to select any earlier year.</p>
 </li>
 </ul>
 <p></p>
-<p>Note: When accessing Past Assignments, you will still be able to do the
-following within a 30-day grace period:</p>
+<p><u>Note:</u> When accessing Past Assignments, you will still be able to
+do the following within a 30-day grace period:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Mark, provide feedback and return assignments to students</p>
