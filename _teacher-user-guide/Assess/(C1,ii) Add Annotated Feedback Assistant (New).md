@@ -151,13 +151,8 @@ cards.</p>
 <p>You can select a Feedback Reference, such as Suggested Answer, Rubrics
 and/or Error Tags for AFA to reference when auto-generating feedback for
 students.</p>
-<p><u>Note:</u> You can have up to two Feedback References for each question
-with AFA enabled.</p>
 </li>
 </ol>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AFACheck.png">
-</div>
 <p></p>
 <ol start="6" data-tight="true" class="tight">
 <li>
@@ -165,9 +160,13 @@ with AFA enabled.</p>
 student is allowed to check for feedback using AFA. This means students
 can revise and check their answer multiple times, receiving updated feedback
 each time — up to the limit set by you.</p>
-<p></p>
 <p><em>Tip: The default value is set to 0. Should you choose to set to 1, students will only be able to check once. Increase this value (up to 9) if you'd like to encourage more iterative drafting and feedback.</em>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AFACheck.png">
+</div>
+<p><u>Note:</u> You can have up to two Feedback References for each question
+with AFA enabled.</p>
 <p></p>
 </li>
 <li>
@@ -194,8 +193,8 @@ and earlier feedback.</p>
 </ul>
 </li>
 </ul>
-<p>Tip: You can preview this experience using “Preview as Student” after
-setting up the AFA component.</p>
+<p><em>Tip: You can preview this experience using “Preview as Student” after setting up the AFA component.</em>
+</p>
 <p></p>
 </li>
 <li>
@@ -270,8 +269,8 @@ fields:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAFARubrics.png">
 </div>
-<p>Note: A maximum of 6 bands (columns) and 6 criteria (rows) can be added
-in a Rubrics. Click the Overflow (3-dot icon) to Add Band, Add Criterion,
+<p><u>Note:</u> A maximum of 6 bands (columns) and 6 criteria (rows) can be
+added in a Rubrics. Click the Overflow (3-dot icon) to Add Band, Add Criterion,
 Delete Band, or Delete Criterion.</p>
 <p></p>
 </li>
@@ -295,12 +294,6 @@ to allow students to receive holistic feedback as well.</p>
 <li>
 <p>After editing, click outside the Component to save.</p>
 <p></p>
-<p><u>Note:</u> Students will receive feedback automatically for Standalone
-Questions, Auto-Graded and Progressive Quizzes. For Teacher Marked Quizzes,
-you have to mark and return the feedback before your students can receive
-it. Click here [/teacher-user-guide/assess/release-teacher-marked-quizzes/]
-to learn how to do so.</p>
-<p></p>
 </li>
 <li>
 <p>Before assigning to students, you can preview the feedback by clicking <strong>Preview as Student</strong> to
@@ -308,11 +301,12 @@ ensure that the question has been configured correctly.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PreviewAsStudent.png">
 </div>
-<p>Note:</p>
-<p>Students will receive feedback automatically for Standalone Questions,
-Auto-Graded and Progressive Quizzes. For Teacher Marked Quizzes, you have
-to mark and return the feedback before your students can receive it. Click
-<a href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/release-teacher-marked-quizzes/" rel="noopener nofollow" target="_blank">here</a>to learn how to do so.</p>
+<p><u>Note:</u> Students will receive feedback automatically for Standalone
+Questions, Auto-Graded and Progressive Quizzes. For Teacher Marked Quizzes,
+you have to mark and return the feedback before your students can receive
+it. Click <a href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/release-teacher-marked-quizzes/" rel="noopener nofollow" target="_blank">here </a>to
+learn how to do so.</p>
+<p></p>
 <p>Click <a href="https://go.gov.sg/quick-guide-ai-lfa" rel="noopener nofollow" target="_blank">here</a> for
 a Quick Guide to Writing Rubrics and Suggested Answers for Learning Feedback
 Assistants.
