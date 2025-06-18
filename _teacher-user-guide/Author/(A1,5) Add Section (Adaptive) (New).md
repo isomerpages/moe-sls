@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Author
 ---
-<h1>(A1,5) Add Section (Adaptive)(New)</h1>
+<h1>(A1,5) Add Section (Adaptive)(Enhanced)</h1>
 <hr>
 <p>You can create Section (Adaptive) in a module to assign ALS content directly
 to students and track their completion in the assignment heatmap. This
@@ -23,14 +23,14 @@ select Section (Adaptive).
 </div>
 </li>
 <li>
-<p>Select Guided Learning/Master Check/Revision or Test Myself (For Guided
-Learning/Master Check/Revision, system will recommend the most suitable
+<p>Select Guided Learning/Mastery Check/Revision or Test Myself (For Guided
+Learning/Mastery Check/Revision, system will recommend the most suitable
 learning mode for the student).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/Add_Section__Adaptive___E1_vi____2.png">
 </div>
 <p></p>
-<p><strong><u>Note:</u></strong>
+<p><u>Note:</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -55,7 +55,7 @@ mastery.</p>
 </div>
 </li>
 </ol>
-<p><strong><u>Note:</u></strong>
+<p><u>Note:</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
