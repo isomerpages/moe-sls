@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Author
 ---
-<h1>Use Authoring Copilot to create New Sections</h1>
+<h1>Use Authoring Copilot to create New Sections (Enhanced)</h1>
 <hr>
 <ol>
 <u>Important</u>:
@@ -18,7 +18,7 @@ On the homepage, click <b>Create New/Edit</b>. Click <b>Module</b>.
 <img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP1.png">
 </li>
 <li>
-Click the <b>orange Create</b> icon <img alt="Authoring Copilot" style="width:1.5rem; display: inline;" src="/images/Icons/ACP.svg"> to open Authoring Copilot.
+You can also access Authoring Copilot in the Module Editor page of the Section, and click the <b>orange Create</b> icon <img alt="Authoring Copilot" style="width:1.5rem; display: inline;" src="/images/Icons/ACP.svg"> on the Module card to open Authoring Copilot.
 <img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/AU_ACP13.png">
 </li>
 <li>
