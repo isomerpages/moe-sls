@@ -88,9 +88,9 @@ variant: markdown
 <h2>Close Live Chat</h2>
 <hr>
 <ol>
-<li>You can either manually close the active Live Chat Rooms or allow the system to end them when the time limit is reached.
+<li>You can either manually close active Live Chat Rooms or allow the system to end them when the time limit is reached.
 <ol style="list-style-type: lower-alpha;">
-<li>To close the Live Chat Room manually, click on <strong>View Class Submissions</strong>.
+<li>To close a Live Chat Room manually, click on <strong>View Class Submissions</strong>.
 <p><img alt="Close Live Chat" style="width: 80%;" src="/images/2Teacher/COL_CloseLiveChat1.png"></p>
 </li>
 <li>Click on <strong>Close Live Chat Room(s)</strong>
