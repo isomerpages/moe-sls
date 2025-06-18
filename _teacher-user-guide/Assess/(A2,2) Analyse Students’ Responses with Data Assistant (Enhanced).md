@@ -6,9 +6,9 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Assess
 ---
-<h1>(A2,2) Analyse Students’ Responses with Data Assistant (Enhanced)</h1>
+<h2>(A2,2) Analyse Students’ Responses with Data Assistant (Enhanced)</h2>
 <hr>
-<h2>Analyse Students’ Responses using Data Assistant</h2>
+<h3>Analyse Students’ Responses using Data Assistant</h3>
 <hr>
 <p>Data Assistant (DAT) is an AI-powered tool that analyses qualitative data
 from student responses. It identifies and summarises major themes from
@@ -19,7 +19,7 @@ responses and allows for more timely interventions.</p>
 probabilistic in nature. Thus, it may be inaccurate at times. It is crucial
 that teachers carefully review the analysis provided and validate its accuracy
 before making any interventions based on it.</p>
-<h2>Where Can You Use Data Assistant?</h2>
+<h3>Where Can You Use Data Assistant?</h3>
 <p>You can access DAT in the following areas:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -39,7 +39,7 @@ before making any interventions based on it.</p>
 </p>
 </li>
 </ul>
-<h2>Using Data Assistant to Analyse Free-Response Questions, Discussions &amp; ITT</h2>
+<h3>Using Data Assistant to Analyse Free-Response Questions, Discussions &amp; ITT</h3>
 <hr>
 <ol>
 <li>
@@ -116,7 +116,7 @@ posts with relevant tags for easier categorisation.</p>
 bookmark specific student responses for later reference.</p>
 </li>
 </ol>
-<h2>Using Data Assistant in Quizzes [New]</h2>
+<h3>Using Data Assistant in Quizzes (New)</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>You can now get both individual student feedback and aggregated class
@@ -135,7 +135,7 @@ Assistant to analyse the overall performance of their class in a quiz.</p>
 </ul>
 </li>
 </ol>
-<h2>Enabling Quiz-Level Feedback</h2>
+<h3>Enabling Quiz-Level Feedback</h3>
 <ol>
 <li>
 <p>Go to the quiz settings.</p>
@@ -150,10 +150,10 @@ Assistant to analyse the overall performance of their class in a quiz.</p>
 </div>
 </li>
 </ol>
-<h2>View Individual Student Feedback</h2>
+<h3>View Individual Student Feedback</h3>
 <ol>
 <li>
-<p>After students submit the quiz, click on ‘monitor’</p>
+<p>After students submit the quiz, click on <strong>Monitor</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 5%;" height="auto" width="100%" alt="" src="/images/Icons/Monitor.svg">
 </div>
@@ -179,7 +179,7 @@ students.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT11.png">
 </div>
-<h2>View Aggregated Quiz Feedback:</h2>
+<h3>View Aggregated Quiz Feedback</h3>
 <ol>
 <li>
 <p>On the quiz overview page, click on the Data Assistant icon.</p>
@@ -194,11 +194,11 @@ for Data Assistant in the space provided.</p>
 <li>
 <p>Click "Generate" to receive an aggregated feedback of the class’ performance
 for the quiz.</p>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT13.png">
 </div>
+</li>
+</ol>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>You can choose to save the generated analysis for future reference by
@@ -208,7 +208,7 @@ clicking on the ‘Save analysis’ button.</p>
 </p>
 </li>
 </ol>
-<h2>[New] Accessing and Managing Saved Analysis/ Feedback</h2>
+<h3>Accessing and Managing Saved Analysis/ Feedback (New)</h3>
 <p><strong>Viewing Saved Analysis / Feedback for Quizzes and FRQ</strong>
 </p>
 <p>To view saved analysis/feedback for quizzes and FRQ, click on ‘monitor’
@@ -222,11 +222,11 @@ followed by the lesson activity where you have saved your analysis.</p>
 </li>
 <li>
 <p>Then click on ‘Quiz Status’ to view the quiz overview page.</p>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AS_DAT9.png">
 </div>
+</li>
+</ol>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>You will be able to view your saved analysis/feedback at the bottom of
@@ -249,8 +249,7 @@ students.</p>
 <p>If you encounter any unexpected errors while using Data Assistant, please
 report them to the <a href="helpdesk@sls.ufinity.com" rel="noopener nofollow" target="_blank">helpdesk</a> for
 assistance.</p>
-<p><strong>Viewing Saved Analysis / Feedback for Discussion</strong>
-</p>
+<h3>Viewing Saved Analysis / Feedback for Discussion</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>To view saved analysis/feedback for Discussion, click on ‘monitor’ followed
