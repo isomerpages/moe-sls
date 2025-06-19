@@ -267,7 +267,7 @@ variant: markdown
 
 <ul>
 
-<li>Students can use the @-mention feature in notes, annotations, comments, posts and feedback to notify teachers when their attention is needed. The names in the dropdown list for using @-mention will be based on the teachers of the assignment.</li>
+<li>Students can use the <a target="_blank" href="/student-user-guide/assess/view-and-respond-to-teacher-comments/">@-mention feature</a> in notes, annotations, comments, posts and feedback to notify teachers when their attention is needed. The names in the dropdown list for using @-mention will be based on the teachers of the assignment.</li>
 
 </ul></details></li>
 
