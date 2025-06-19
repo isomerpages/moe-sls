@@ -258,7 +258,7 @@ variant: markdown
 
 <ul>
 
-<li>Students can access the Assessments listing page to view all assessments assigned to them.</li>
+<li>Students can access the <a target="_blank" href="/student-user-guide/assess/about-assessments/">Assessments listing page</a> to view all assessments assigned to them.</li>
 <li>Students cannot view the module structure of upcoming assessments and assignments that require passcodes.</li>
 
 </ul></details></li>
