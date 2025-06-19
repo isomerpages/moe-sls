@@ -122,7 +122,7 @@ variant: markdown
 
 <details><summary><strong>Hide Question Number</strong></summary>
 <ul>
-<li>Teachers can hide question/component numbers in quizzes through the Quiz Details settings.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">hide question/component numbers</a> in quizzes through the Quiz Details settings.</li>
 </ul>
 </details>
 
@@ -144,8 +144,8 @@ variant: markdown
 <li><details><summary><h4 style="margin: 0; display: inline;">Authoring Copilot (ACP) Enhancements</h4></summary>
 
 <ul>
-<li>Teachers can upload Google Slides, Docs and Sheets into the Knowledge Base to be used for ACP generation and for Learning Assistant reference (from 4 July 2025).</li>
-<li>Teachers can access ACP directly from the Add New and Create/Edit subpages.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/">upload Google Slides, Docs and Sheets</a> into the Knowledge Base to be used for ACP generation and for Learning Assistant reference (from 4 July 2025).</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/">access ACP directly</a> from the Add New and Create/Edit subpages.</li>
 </ul>
 
 </details></li>
@@ -155,7 +155,7 @@ variant: markdown
 <ul>
 
 <li>Assessments will no longer be shown together with assignments. Instead, teachers can access the Assessments listing page to view all assigned assessments.</li>
-<li>Teachers can also switch to their student accounts with the shortcut on the Assessments listing page.</li>
+<li>Teachers can also <a target="_blank" href="/teacher-user-guide/assess/login-for-e-assessments/">switch to their student accounts</a> with the shortcut on the Assessments listing page.</li>
 
 </ul></details></li>
 
@@ -164,7 +164,7 @@ variant: markdown
 <div style="margin-left: 20px;">
 <details><summary><strong>@-Mention</strong></summary>
 <ul>
-<li>Teachers can use the @-mention feature in notes, annotations, comments, posts and feedback to notify other teachers and students when their attention is needed. The names in the dropdown list for using @-mention will be based on the teachers and assignees of the assignment.</li>
+<li>Teachers can use the @-mention feature in <a target="_blank" href="/teacher-user-guide/assign/highlight-and-annotate-in-teachers-copy-of-assignment/">notes</a>, <a target="_blank" href="/teacher-user-guide/assess/annotate-underline-students-responses/">annotations</a>, <a target="_blank" href="/teacher-user-guide/assess/add-teacher-comments/">comments</a>, <a target="_blank" href="/teacher-user-guide/collaborate/post-and-comment-in-the-forum/">posts</a> and <a target="_blank" href="/teacher-user-guide/assess/mark-teacher-marked-quizzes/">feedback</a> to notify other teachers and students when their attention is needed. The names in the dropdown list for using @-mention will be based on the teachers and assignees of the assignment.</li>
 </ul>
 </details>
 
