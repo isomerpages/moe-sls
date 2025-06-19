@@ -215,9 +215,9 @@ variant: markdown
 
 <ul>
 
-<li>Teachers will be able to save their DAT analyses results for FRQ responses and Discussion posts for future reference.</li>
-<li>Teachers can set up DAT so that students can receive quiz level feedback at the end of a quiz based on their performance for questions in the quiz.</li>
-<li>Teachers will be able to use DAT to analyse the overall performance of their class in a quiz.</li>
+<li>Teachers will be able to <a target="_blank" href="/teacher-user-guide/assess/analyse-students-responses-with-data-assistant/">save their DAT analyses results</a> for FRQ responses and Discussion posts for future reference.</li>
+<li>Teachers can set up DAT so that students can <a target="_blank" href="/teacher-user-guide/assess/analyse-students-responses-with-data-assistant/">receive quiz level feedback</a> at the end of a quiz based on their performance for questions in the quiz.</li>
+<li>Teachers will be able to use DAT to <a target="_blank" href="/teacher-user-guide/assess/analyse-students-responses-with-data-assistant/">analyse the overall performance</a> of their class in a quiz.</li>
 
 </ul></details></li>
 
@@ -225,9 +225,9 @@ variant: markdown
 
 <ul>
 
-<li>Teachers can quickly access a selected student's error tracker from the Students tab.</li>
-<li>When viewing as student, teachers can see a listing of attempted modules with the number of tagged errors under the Questions tab. Clicking on "View Questions" under each module will allow teachers to see the list of questions and their associated error counts.</li>
-<li>A filter has also been added to allow teachers to filter the error tracker by month range and error tag.</li>
+<li>Teachers can quickly <a target="_blank" href="/teacher-user-guide/track-progress/access-error-tracker/">access a selected student's error tracker</a> from the Students tab.</li>
+<li>When viewing as student, teachers can see a listing of attempted modules with the number of <a target="_blank" href="/teacher-user-guide/track-progress/access-error-tracker/">tagged errors under the Questions tab</a>. Clicking on "View Questions" under each module will allow teachers to see the list of questions and their associated error counts.</li>
+<li>A filter has also been added to allow teachers to <a target="_blank" href="/teacher-user-guide/track-progress/access-error-tracker/">filter the error tracker by month range and error tag</a>.</li>
 
 </ul></details></li>
 
