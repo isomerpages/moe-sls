@@ -235,8 +235,8 @@ variant: markdown
 
 <ul>
 
-<li>Teachers can star and unstar class group and community resources.</li>
-<li>Teachers can add content from their starred class group resources.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/organise/star-resources/">star and unstar class group and community resources</a>.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/organise/star-resources/">add content</a> from their starred class group resources.</li>
 
 </ul></details></li>
 
