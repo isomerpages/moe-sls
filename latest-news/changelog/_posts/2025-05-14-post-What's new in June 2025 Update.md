@@ -7,7 +7,7 @@ description: ""
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>What's new in June 2025 Update</h1>
+<h1>What's new in June 2025 Update - With links to User Guide</h1>
 
 <p>This list details the changes users can expect in the upcoming SLS June 2025 Update, which will be rolled out on 25 June 2025. Please note that SLS will be unavailable from 23 June 2025 11:59 PM to 25 June 2025 10:00 PM to facilitate this update.</p>
 
@@ -103,10 +103,10 @@ variant: markdown
 <div style="margin-left: 20px;">
 <details><summary><strong>Gamification Enhancements</strong></summary>
 <ul>
-<li>Teachers can import gamification settings like Details, Experience Points, Game Stories, Collectibles and Leaderboard from other modules in Starred Resources and Library.</li>
-<li>Teachers can duplicate game stories and collectibles when setting up their gamification conditions.</li>
-<li>Teachers can add gamification conditions as section/activity prerequisites that regulate students' access.</li>
-<li>Teachers can switch off viewability of Experience Points (XP) for students. When viewability of XP is switched off, XP and levels will not be displayed for students. However, game stories and collectibles with level conditions will still be awarded.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">import gamification settings</a> like Details, Experience Points, Game Stories, Collectibles and Leaderboard from other modules in Starred Resources and Library.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">duplicate</a> game stories and collectibles when setting up their gamification conditions.</li>
+<li>Teachers can add gamification conditions as <a target="_blank" href="/teacher-user-guide/differentiate/add-activity-quiz-section-prerequisites/">section/activity prerequisites</a> that regulate students' access.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/gamify/manage-gamification-settings/">switch off viewability</a> of Experience Points (XP) for students. When viewability of XP is switched off, XP and levels will not be displayed for students. However, game stories and collectibles with level conditions will still be awarded.</li>
 </ul>
 </details>
 
