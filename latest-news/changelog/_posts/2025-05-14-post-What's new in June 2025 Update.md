@@ -275,7 +275,7 @@ variant: markdown
 
 <ul>
 
-<li>Students can use a 'Check' button to receive iterative annotated feedback about their answer and subsequently work on the feedback in a new draft of their response.</li>
+<li>Students can use a <a target="_blank" href="/student-user-guide/assess/about-annotated-feedback-assistant/">'Check' button</a> to receive iterative annotated feedback about their answer and subsequently work on the feedback in a new draft of their response.</li>
 <li>Students will be able to view past drafts with accompanying annotations.</li>
 
 </ul></details></li>
