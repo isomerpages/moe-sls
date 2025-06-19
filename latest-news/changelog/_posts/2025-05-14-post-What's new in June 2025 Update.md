@@ -198,7 +198,7 @@ variant: markdown
 <ul>
 
 <li>Teachers can filter to the Learning Outcome level in the student view of the ALS Learning Progress Dashboard (LPD) and sort students based on their ability score.</li>
-<li>Teachers can see a snapshot of the ability score attained by students when they complete an Adaptive Section in an assignment.</li>
+<li>Teachers can see a <a target="_blank" href="/teacher-user-guide/author/add-section-adaptive/">snapshot of the ability score attained</a> by students when they complete an Adaptive Section in an assignment.</li>
 
 </ul></details></li>
 
@@ -206,8 +206,8 @@ variant: markdown
 
 <ul>
 
-<li>Students can submit Google Slides, Docs and Sheets to ShortAnsFA as part of their Free Response Question (FRQ) response to receive feedback.</li>
-<li>Teachers can edit criterion feedback after an FRQ/Audio Response Question (ARQ) is released.</li>
+<li>Students can submit <a target="_blank" href="/teacher-user-guide/assess/add-short-answer-feedback-assistant/">Google Slides, Docs and Sheets to ShortAnsFA</a> as part of their Free Response Question (FRQ) response to receive feedback.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/assess/add-short-answer-feedback-assistant/">edit criterion feedback</a> after an FRQ/Audio Response Question (ARQ) is released.</li>
 
 </ul></details></li>
 
