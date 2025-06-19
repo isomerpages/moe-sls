@@ -112,10 +112,10 @@ variant: markdown
 
 <details><summary><strong>Live Chat</strong></summary>
 <ul>
-<li>Teachers can set up Live Chat for both team and non-team discussions.</li>
-<li>Students and teachers can interact in active Live Chat rooms and view each other's posts live.</li>
-<li>Teachers can manually end and close Live Chat rooms. The Live Chat room will be converted into a discussion post and past interactions will be stored as comments.</li>
-<li>Teachers can also set a time limit for Live Chat rooms. Live Chat rooms will close automatically when the time limit is reached.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/collaborate/add-a-discussion/">set up Live Chat</a> for both team and non-team discussions.</li>
+<li><a target="_blank" href="/student-user-guide/collaborate/join-a-live-chat-discussion/">Students</a> and teachers can interact in active Live Chat rooms and view each other's posts live.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/collaborate/add-a-discussion/">manually end and close</a> Live Chat rooms. The Live Chat room will be converted into a discussion post and past interactions will be stored as comments.</li>
+<li>Teachers can also <a target="_blank" href="/teacher-user-guide/collaborate/add-a-discussion/">set a time limit</a> for Live Chat rooms. Live Chat rooms will close automatically when the time limit is reached.</li>
 <li>Live Chat will not be accessible in self-study modules and when previewing as student.</li>
 </ul>
 </details>
