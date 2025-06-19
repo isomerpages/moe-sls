@@ -19,7 +19,7 @@ variant: markdown
 
 <ul>
 
-<li>Teachers and students can choose to log in directly for e-assessments using SLS or MIMS Login. They will be brought directly to their Assessments listing page upon logging in.</li>
+<li><a target="_blank" href="/teacher-user-guide/assess/login-for-e-assessments/">Teachers</a> and <a target="_blank" href="/student-user-guide/assess/about-assessments/">students</a> can choose to log in directly for e-assessments using SLS or MIMS Login. They will be brought directly to their Assessments listing page upon logging in.</li>
 
 </ul></details></li>
 
