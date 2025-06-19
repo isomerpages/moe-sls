@@ -57,10 +57,10 @@ variant: markdown
 <li><details><summary><h4 style="margin: 0; display: inline;">Planner Enhancements</h4></summary>
 
 <ul>
-<li><a target="_blank" href="/teacher-user-guide/plan/create-class-events/">Teachers</a> and <a target="_blank" href="/student-user-guide/plan/create-a-new-event/">students</a> can manage their work by creating tasks, with deadlines, from multiple entry points such as the new task list, module plan, section cover, and learning progress (students only).</li>
-<li>Teachers and students can attach resources such as sections and modules to these tasks.</li>
+<li><a target="_blank" href="/teacher-user-guide/plan/access-planner/">Teachers</a> and <a target="_blank" href="/student-user-guide/plan/access-planner/">students</a> can manage their work by creating tasks, with deadlines, from multiple entry points such as the new task list, module plan, section cover, and learning progress (students only).</li>
+<li><a target="_blank" href="/teacher-user-guide/plan/attach-assignments-and-resources-to-events/">Teachers</a>  and <a target="_blank" href="/student-user-guide/plan/create-a-new-event/">students</a> can attach resources such as sections and modules to these tasks.</li>
 <li>Students will be prompted when they mark incomplete attachments as complete.</li>
-<li>Students can also create goals from learning progress as a task and attach relevant self-study resources.</li>
+<li><a target="_blank" href="/student-user-guide/plan/create-a-new-event/">Students</a> can also create goals from learning progress as a task and attach relevant self-study resources.</li>
 <li>The calendar range in the planner will be extended to include the year before and the year after the current year. Teachers can clear planner events en-masse.</li>
 </ul>
 
