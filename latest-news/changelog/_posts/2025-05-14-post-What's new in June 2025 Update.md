@@ -47,7 +47,7 @@ variant: markdown
 
 <details><summary><strong>Past Assignments</strong></summary>
 <ul>
-<li><a target="_blank" href="/student-user-guide/assign/access-past-assignments/">Teachers</a> and <a target="_blank" href="/teacher-user-guide/assign/view-past-assignments/">students</a> can view assignments from their past class groups in the Assignments listing page, making it easier to locate past assignments.</li>
+<li><a target="_blank" href="/teacher-user-guide/assign/view-past-assignments/">Teachers</a> and <a target="_blank" href="/student-user-guide/assign/access-past-assignments/">students</a> can view assignments from their past class groups in the Assignments listing page, making it easier to locate past assignments.</li>
 </ul>
 </details>
 </div>
