@@ -170,7 +170,7 @@ variant: markdown
 
 <details><summary><strong>Annotation Enhancements</strong></summary>
 <ul>
-<li>Teachers can share notes and annotations from their teacher assignment view with all other assignees of the assignment. Students will see the same referenced note or annotation in their own assignment view.</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/assign/highlight-and-annotate-in-teachers-copy-of-assignment/">share notes and annotations</a> from their teacher assignment view with all other assignees of the assignment. Students will see the same referenced note or annotation in their own assignment view.</li>
 <li>Teachers can choose to notify students when they share notes and annotations from their teacher assignment view.</li>
 </ul>
 </details>
@@ -189,7 +189,7 @@ variant: markdown
 
 <ul>
 
-<li>Teachers will be able to set the number of drafts that students can submit to AFA to receive feedback on before their final submission.</li>
+<li>Teachers will be able to <a target="_blank" href="/teacher-user-guide/assess/add-annotated-feedback-assistant/">set the number of drafts</a> that students can submit to AFA to receive feedback on before their final submission.</li>
 
 </ul></details></li>
 
