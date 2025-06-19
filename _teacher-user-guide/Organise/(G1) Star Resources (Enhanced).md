@@ -8,7 +8,7 @@ variant: markdown
 ---
 <h1>(G1) Star Resources (Enhanced)</h1>
 <hr>
-<p>Starred Resources allow both teachers and students to star up to 300 resources. Teachers can star Modules, Questions, Media Objects and Apps. You may star resources found in the MOE Library, Community Gallery, or My Drive that you want to view or review at a later time.</p>
+<p>Starred Resources allow both teachers and students to star up to 300 resources. Teachers can star Modules, Questions, Media Objects and Apps. You may star resources found in the MOE Library, Community Gallery, Class Group and Community Resources, or My Drive that you want to view or review at a later time.</p>
 <p>When creating Modules, you can also <a target="_blank" href="/teacher-user-guide/author/add-existing-from-library-and-starred-resources/">add existing resources that you have starred</a> to Modules.</p>
 <p>Starred Resources can be found in the left menu, under <strong>Resources</strong>.</p>
 
