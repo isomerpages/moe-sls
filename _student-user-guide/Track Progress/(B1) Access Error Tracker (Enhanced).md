@@ -39,7 +39,6 @@ third_nav_title: Track Progress
 <ol style="list-style-type: lower-alpha;">
 <li>Click on "View Questions" under each module to see the list of questions and their associated error counts. </li>
 	<li>You can also filter the error tracker by month range and error tag.</li>
-
 </ol>
 </li>
 </ol>
