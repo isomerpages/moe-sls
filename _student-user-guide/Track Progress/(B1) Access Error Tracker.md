@@ -34,5 +34,12 @@ third_nav_title: Track Progress
 </ul>
 </li>
 </ol>
+</li><li>Under the Questions tab, you can view a listing of attempted modules with the number of tagged errors.
+<p><img alt="Access Error Tracker" style="width: 100%;" src="/images/1Student/tp_errortrackerb.png"></p>
+<ol style="list-style-type: lower-alpha;">
+<li>Click on "View Questions" under each module to see the list of questions and their associated error counts. </li>
+	<li>You can also filter the error tracker by month range and error tag.</li>
+
+</ol>
 </li>
 </ol>
