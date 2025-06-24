@@ -94,7 +94,6 @@ variant: markdown
 <ol>
 <li>Click the Event card to view the event details.</li>
 <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Duplicate Event</strong>.
-<p><img alt="Create a New Task or Event" style="width: 80%;" src="/images/1Student/P_NewEventEdit.png"></p>
 </li>
 <li>Make any necessary edits and click <strong>Create</strong> to proceed.</li>
 <li>A new Event card will be created at the stated start date/time.</li>
