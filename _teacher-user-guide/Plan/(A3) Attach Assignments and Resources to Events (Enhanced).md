@@ -38,7 +38,7 @@ third_nav_title: Plan
 <ol>
 <li>Click the <strong>Task</strong> or <strong>Event card</strong> to enter the Task or Event subpage.</li>
 <li>To detach an Assignment, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Detach Task</strong>.</li>
-<li>To detach a Resource, click the <strong>Detach</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Detach.svg"> on the Resource card.</li>
+<li>To detach a Resource, click the <strong>Detach</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/DetachEvent.svg"> on the Resource card.</li>
 </ol>
 <h2>Video Tutorial</h2>
 <hr>
