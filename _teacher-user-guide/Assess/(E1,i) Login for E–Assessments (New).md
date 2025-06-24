@@ -14,13 +14,13 @@ third_nav_title: Assess
 <li>
 <p>If you had selected Login with SLS, select Login for E-Assessment.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2Teacher/e_assessment_sls_login.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2Teacher/e_assessment_sls_login.png">
 </div>
 </li>
 <li>
 <p>Alternatively, you may Login with MIMS and select Login for E-Assessment.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2Teacher/e_assessment_mims_login.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2Teacher/e_assessment_mims_login.png">
 </div>
 </li>
 <li>
