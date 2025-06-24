@@ -41,3 +41,5 @@ third_nav_title: Personalise
 <li>Clicking on the notification will bring students into ALS, where they will be prompted to select a learning mode. The recommended learning mode will be determined by ALS engine.</li>
 </ul>
 </ol>
+
+<p>Click <a>here</a> for a Quick Guide to Adaptive Learning System.<a target="_blank" href="https://go.gov.sg/quick-guide-ai-als"><img alt="Use Authoring Copilot to create New Activities &amp; Components" style="width: 100%;" src="/images/2Teacher/als_qg.png"></a></p>

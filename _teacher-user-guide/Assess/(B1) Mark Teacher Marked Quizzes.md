@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="-1-mark-teacher-marked-quizzes">(B1) Mark Teacher-Marked Quizzes</h1><hr>
-<h2 id="-marking-a-teacher-marked-quiz-">Marking a Teacher-Marked Quiz</h2>
+<h2 id="-marking-a-teacher-marked-quiz-">Marking a Teacher-Marked Quiz (Enhanced)</h2>
 <hr>
 <p>Only in a Teacher-Marked Quiz will you be able to allocate/edit marks and provide Comments for open-ended questions (i.e. Free-Response, Audio-Response, File Submission questions) to students.</p>
 <ol>
@@ -43,9 +43,13 @@ variant: markdown
 <li>Click <strong>Post</strong> to proceed.</li>
 <li><p>Enter the marks for each question and click <strong>Save</strong>.</p>
 <p><img alt="Mark Teacher-Marked Quizzes" style="width: 80%;" src="/images/2Teacher/As-TeacherMarkedQuiz2.png"></p>
-	<p> <u>Note</u>: For Teacher Comments, you may insert mathematical or chemical equations by clicking the respective icons. You can also insert drawings, upload file attachments from your local hard disk or Google Drive, or record an audio recording.</p>
-</li>
-<li><p>If you are in an individual student's Assignment, click the <strong>left/right</strong> arrows at the top to navigate to the next student.</p>
+	<p> <u>Note</u>: 
+		</p><ul>
+			<li>For Teacher Comments, you may insert mathematical or chemical equations by clicking the respective icons. You can also insert drawings, upload file attachments from your local hard disk or Google Drive, or record an audio recording.</li>
+			<li>You can also mention students and/or teachers in your post by typing '@' and selecting their names from the dropdown list. The selected students and/or teachers will be notified.</li>
+			<p><img alt="Mark Teacher-Marked Quizzes" style="width: 100%;" src="/images/2Teacher/As_TeacherComments_Quiz.png"></p>
+</ul>
+</li><li><p>If you are in an individual student's Assignment, click the <strong>left/right</strong> arrows at the top to navigate to the next student.</p>
 </li>
 <li><p>Additionally, you can <a target="_blank" href="/teacher-user-guide/assess/annotate-underline-students-responses/">annotate</a> (underline) your student's responses to give specific Comments. </p>
 <p><img alt="Mark Teacher-Marked Quizzes" style="width: 80%;" src="/images/2Teacher/As-Annotation.png"></p>

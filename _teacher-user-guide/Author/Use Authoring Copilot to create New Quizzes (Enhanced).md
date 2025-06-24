@@ -16,39 +16,40 @@ image: /images/FaviconLight.png
 
 ---
 
-<ol><li>
-In the Module Editor page of the Quiz, click the <b>orange Create</b> icon <img alt="create" style="width:1.5rem; display: inline;" src="/images/Icons/ACP.svg"> on the Quiz card to open Authoring Copilot.
+<ol><li>In the Homepage, click <b>Create/Edit</b>, and click the <b>orange Create</b> icon <img alt="create" style="width:1.5rem; display: inline;" src="/images/Icons/ACP.svg"> in the <b>Quiz</b> card.
+<img alt="Create New Quiz with Authoring Copilot" style="width: 100%;" src="/images/2Teacher/ACP_1b.png">
+</li><li>Alternatively, in the Module Editor page of the Quiz, click the <b>orange Create</b> icon <img alt="create" style="width:1.5rem; display: inline;" src="/images/Icons/ACP.svg"> on the Quiz card to open Authoring Copilot.
 <img alt="Create New Quiz with Authoring Copilot" style="width: 100%;" src="/images/2Teacher/AU_ACP_Quiz19.png">
 </li>
 <li>
 If you have used Authoring Copilot to create the Quiz, the Quiz Title and Quiz Notes would have been pre-populated. If not, add the Quiz Title and Quiz Notes. Quiz Notes will help guide the Authoring Copilot in the generation of the questions in the Quiz.<img alt="Create New Quiz with Authoring Copilot" style="width: 100%;" src="/images/2Teacher/AU_ACP_Quiz2.png">
 </li>
 <li><p>You can select the type of components you want Authoring Copilot to generate.</p><img alt="Create New Quiz with Authoring Copilot" style="width: 100%;" src="/images/2Teacher/AU_ACP_Components.png">
-<p>Click the <b>Up/Down</b> arrows to set the number of components you want, for e.g., if you want to create 3 Multiple Choice Questions and 2 Free Response Questions and, set 5 components, and select the Multiple-Choice and Free-Response options.</p>
+<p>Set the number of components you want, for e.g., if you want to create 3 Multiple Choice Questions and 2 Free Response Questions and, set 5 components, and select the Multiple-Choice and Free-Response options.</p>
 	<p>You can also generate components directly from the component bar.</p></li>
-	
-
-	
-<li>Click the <b>Up/Down</b> arrows to set the Quiz Duration. This duration will be reflected at the Quiz Cover page. The recommended duration for each generated question within the Quiz may not add up to the total Quiz Duration set here.
+<li>Set the Quiz Duration. This duration will be reflected at the Quiz Cover page. The recommended duration for each generated question within the Quiz may not add up to the total Quiz Duration set here.
 </li>
 <li><p>
 In the Additional Details field, you can include information about the question types and number of questions in the Quiz.</p>
 <u>Note</u>:
 <ul>
-<li>For example, “Create 3 Free Response Questions and 4 Multiple Choice Questions”.</li>
+<li>For example, “Create 3 multiple-choice questions with lower difficulty for students who are lower progress learners to mainly test recall. Create 2 free-response questions with higher difficulty for students who are higher progress learners to extend their learning with specific real world problems”.</li>
 <li>Make sure that the information given about the number of questions in Additional Details corresponds to the Number of Components field.</li>
 <li>Authoring Copilot can generate Suggested Answers for Free Response Questions.</li>
 <li>You can enable <strong>ShortAnsFA</strong> and edit the Suggested Answer (if required) and mark allocation in Free-Response questions for immediate feedback.</li></ul>
 </li><li>
-	You can add a Knowledge Base by clicking <b>Add Knowledge Base</b></li><p><img alt="Create New Quiz with Authoring Copilot" style="width: 80%;" src="/images/2Teacher/ACP_New_Quiz.png"></p>
-<li> You can upload up to 20 Knowledge Bases that can comprise text, PDF or images. These Knowledge Bases can be used when generating sections, activities/quizzes and components in a module. Knowledge Base Titles should be entered to organise your Knowledge Bases so that you can easily find and append the relevant Knowledge Base(s) for different activities in a module, e.g. Reading 1 for Activity 1, Chapter 2 Notes for Activity 2, etc.
-	</li><li> To add PDFs or images, click Add Media, and Upload File.</li><p><img alt="Create New Quiz with Authoring Copilot" style="width: 80%;" src="/images/2Teacher/AU_ACP_KB2.png"></p>
-<li>Authoring Copilot will create a Suggested Quiz Plan with Quiz Description and Question(s). Click the checkbox next to Split into pages if you want the content to be populated across different pages of the Quiz. Click the checkboxes next to the generated content you wish to include in the Quiz. Click&nbsp;Add&nbsp;to autogenerate the Quiz Description and Question(s) selected.	
+	You can add a Knowledge Base by clicking <b>Add Knowledge Base</b>. You can upload up to 20 Knowledge Bases that can comprise text, or up to 50 images or pages of PDFs or Google files (e.g., Slides, Docs). These Knowledge Bases can be used when generating sections, activities/quizzes and components in a module. Knowledge Base Titles should be entered to organise your Knowledge Bases so that you can easily find and append the relevant Knowledge Base(s) for different activities in a module, e.g. Reading 1 for Activity 1, Chapter 2 Notes for Activity 2, etc.</li><p><img alt="Create New Quiz with Authoring Copilot" style="width: 80%;" src="/images/2Teacher/AU_ACP_KB1.png"></p>
+	<li> To add PDFs or images, click Add Media, and Upload File. To add a Google file, click on <b>Embed File from Google</b>, and select your file. After uploading your file, click <b>Save</b>.</li><p><img alt="Create New Quiz with Authoring Copilot" style="width: 80%;" src="/images/2Teacher/AU_ACP_KB2.png"></p>
 	
-<img alt="Create New Quiz with Authoring Copilot" style="width: 70%;" src="/images/2Teacher/AU_ACP_Quiz6.png">
+<u>Note</u>:
+<ul><li>Adding a Knowledge Base will anchor the generation of content by Authoring Copilot to information which can be added, e.g. a syllabus document, a comprehension passage or an excerpt from MOE’s interactive digital textbooks. It is recommended to upload specific PDF segments to improve the precision of generated content, as uploading too much information may potentially confuse the LLM and increase hallucinations. Please ensure all uploaded materials comply with data security classification (up to Official (Closed), Non-Sensitive) and copyright laws, using only legally permitted content, properly licensed resources, or materials with explicit permissions. You may refer to <a target="_blank" href="https://www.learning.moe.edu.sg/terms-of-use/">this link</a> for more details.</li></ul>
+
+<li>Authoring Copilot will create a Suggested Quiz Plan with Quiz Description and Question(s). Click the checkbox next to Split into pages if you want the content to be populated across different pages of the Quiz. <p></p>
+<p>Click the checkboxes next to the generated content you wish to include in the Quiz. Click <b>Add</b> to autogenerate the Quiz Description and Question(s) selected.</p>
+	<img alt="Create New Quiz with Authoring Copilot" style="width: 70%;" src="/images/2Teacher/AU_ACP_Quiz6.png">
 </li>
 <li>
-<p>You can regenerate single components into other types or generate more components. As such, you can click <b>Back to Generate Quiz</b> to edit specific components and regenerate to other components. You can edit the Quiz and Questions generated in the Module Editor page, as you would for a normal quiz.</p>
+<p>You can regenerate single components into other types or generate more components. As such, you can click <b>Back to Generate Quiz</b> to edit specific components and regenerate to other components. You can edit the Quiz and Questions generated in the Module Editor page.</p>
 <img alt="Create New Quiz with Authoring Copilot" style="width: 100%;" src="/images/2Teacher/AU_ACP_Quiz7.png">
 </li>
 <li>
@@ -59,4 +60,8 @@ In the Additional Details field, you can include information about the question 
 <li>Create quizzes that are aligned with learning objectives more easily</li>
 <li>Start with Free Response Questions to generate comprehensive content, then transform into other component types like Multiple Choice or Fill-in-the-Blanks to cater to diverse learning needs</li>
 <li>Adapt complex questions into simpler formats for scaffolding and differentiation of learning</li></ul></ol>
+
+<p>	Click <a target="\_blank" href="https://go.gov.sg/quick-guide-ai-acp">here</a> for a Quick Guide to Authoring Copilot.</p>
+<p><img alt="Use Authoring Copilot to create New Sections" style="width: 100%;" src="/images/2Teacher/ACP_QG1.png">
+</p>
 <hr>

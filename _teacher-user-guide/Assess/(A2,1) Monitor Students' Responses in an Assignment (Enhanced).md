@@ -40,6 +40,7 @@ variant: markdown
 <li>Clicking the Question Number on the Heatmap will redirect you to the Aggregated Student Responses.</li>
 <li>To exit the filtered view, click the <strong>X</strong> beside the <strong>Filter</strong> icon.</li>
 <li>Drawings, files, audio clips submitted to an Interactive Thinking Tool will not be downloaded.</li>
+<li>You can view section start and due dates when filtering by sections on the heatmap. You can also click on the dates to access the Assignment Settings page and adjust the due dates.</li>
 </ul>
 </li>
 </ul>

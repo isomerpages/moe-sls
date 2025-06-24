@@ -15,7 +15,7 @@ variant: markdown
 <li>Click <strong>Click-and-Drop</strong>.</li>
 <li>In the Question Body field, enter the question.</li>
 <li>Click <strong>Upload</strong> to upload a Base Image.</li>
-	<p><u>Note</u>: Click Crop tool to rotate or crop your image using the preset ratios or a freeform dimension of your choice. <b>(NEW)</b></p>
+	<p><u>Note</u>: Click Crop tool to rotate or crop your image using the preset ratios or a freeform dimension of your choice.</p>
 <li><p>Click <strong>Set Option Size</strong> to choose from: </p>
 <ul>
 	<li><b>Use Base Image</b>: Select the dimension on your base image. Click Done to confirm.</li>
@@ -32,7 +32,7 @@ variant: markdown
 		
 <li>Click the&nbsp;<b>Overflow</b>&nbsp;(<b>3-dot</b>&nbsp;icon) beside the option to:</li>
 			<p><img style="width: 100%;" src="/images/2Teacher/AU_AddClickDrop3.png"></p>
-	<ul><li><b>Place</b>: To place an option on the Base Image. The option will follow your cursor. Click on the Base Image to place the option at that particular position.</li>
+	<ul><li><b>Place</b>: To place an option on the Base Image. The option will follow your cursor. Click on the Base Image to place the option at that particular position. The option will automatically match the base image dimensions.</li>
 	<li><b>Edit</b>: To edit text (text option only).</li>
 		<li><b>Crop</b>: To crop image (image option only).</li>
 		<li><b>Reposition</b>: To edit the position of an option placed on the Base Image.</li>

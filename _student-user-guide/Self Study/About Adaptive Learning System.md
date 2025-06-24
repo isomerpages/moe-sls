@@ -14,3 +14,10 @@ and offering immediate feedback based on his/her readiness. Students can
 access the ALS through the Student Learning Space (SLS) for self-directed
 learning. With the ALS, students learn independently, at their own pace,
 according to their strengths and needs.</p>
+<p></p>
+<p>Click <a href="https://go.gov.sg/quick-guide-ai-als-student" rel="noopener nofollow" target="_blank">here</a> for
+a Quick Guide to Adaptive Learning System.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1Student/SS_ALS_QG.png">
+</div>
+<p></p>

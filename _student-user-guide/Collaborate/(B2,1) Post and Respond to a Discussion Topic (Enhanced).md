@@ -24,7 +24,9 @@ can fill in the following details:</p>
 <ol>
 <li>
 <p><strong>Message</strong> - This can be in the form of text, mathematical/chemical
-equations, emojis, images, drawings, and file attachments.</p>
+equations, emojis, images, drawings, and file attachments. You can mention
+your teachers by typing '@' and selecting their name(s). Your teacher(s)
+will be notified when you added a post.</p>
 </li>
 <li>
 <p><strong>Keyword Tags</strong> - Add some relevant descriptions to help
@@ -49,7 +51,7 @@ and <strong>Comment Off</strong>.</p>
 <hr>
 <p>You can view and comment on other responses by clicking&nbsp;<strong>View Class Submissions</strong>.
 To sort the responses, click the dropdown arrow next to <strong>Sort By</strong>.</p>
-<h2>Respond to a Post</h2>
+<h2>Respond to a Post (Enhanced)</h2>
 <hr>
 <p>You may choose to upvote responses by clicking on the Upvote icon on the
 response card.</p>
@@ -62,6 +64,13 @@ response card.</p>
 <li>
 <p>Click the <strong>Response card</strong>, followed by <strong>Add</strong>&nbsp;on
 the bottom right.</p>
+</li>
+<li>
+<p>You can mention your teachers by typing '@' and selecting their name(s).
+Your teacher(s) will be notified when you added a comment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1Student/CO_Mention_Teacher.png">
+</div>
 </li>
 <li>
 <p>After typing in your comment, click&nbsp;<strong>Post</strong>.</p>

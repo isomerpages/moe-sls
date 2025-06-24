@@ -33,9 +33,9 @@ collections:
       - Assess/(A3,11) Speech Evaluation.md
       - Assess/(A3,12) E–Dictionary.md
       - Assess/(B1) View Completed Assignments.md
-      - Assess/(B2) View Quiz Results.md
+      - Assess/(B2) View Quiz Results (Enhanced).md
       - Assess/(B3) View and Respond to Teacher Comments.md
-      - Assess/(C1) About Assessments.md
+      - Assess/(C1) About Assessments (Enhanced).md
       - Assess/(D1) About Feedback Assistant Mathematics (Enhanced).md
       - Assess/(D2) About Annotated Feedback Assistant (New).md
       - Assess/(D3) About Short Answer Feedback Assistant (Enhanced).md
@@ -43,6 +43,7 @@ collections:
       - Assign/Assign.md
       - Assign/About Assignments.md
       - Assign/(A1) Access Assignments (Enhanced).md
+      - Assign/(A2) Access Past Assignments (New).md
       - Authenticate/.keep
       - Authenticate/Authentication.md
       - Authenticate/How to Log In (Student).md
@@ -62,6 +63,7 @@ collections:
       - Collaborate/(B3,1) View and Respond in the Forum (Enhanced).md
       - Collaborate/(B3,2) Edit a Poll.md
       - Collaborate/(C1) Join a Google Meet Video Conference.md
+      - Collaborate/(D1) Join a Live Chat Discussion (New).md
       - Customise/.keep
       - Customise/Customise.md
       - Customise/(A1,i) Customise an Avatar.md
@@ -74,7 +76,7 @@ collections:
       - Discover/Discover.md
       - Discover/About Self Study Resources.md
       - Discover/(A1) Access Self Study Resources.md
-      - Discover/(A2) Search for Self Study Resources.md
+      - Discover/(A2) Search for Self Study Resources (Enhanced).md
       - Discover/(A3) Attempt Self Study Resources.md
       - Discover/(B1) Access App Library.md
       - Gamify/.keep
@@ -90,37 +92,37 @@ collections:
       - Organise/.keep
       - Organise/Organise.md
       - Organise/About Class Groups.md
-      - Organise/(A1,i) Access Class Groups (Enhanced).md
+      - Organise/(A1,i) Access Class Groups.md
       - Organise/(A1,ii) Access Past Class Groups.md
       - Organise/(B1) Search in My Drive.md
       - Organise/(B2) Create New Folders.md
       - Organise/(B3) Delete Resources.md
       - Organise/(C1,i) Manage Folders.md
       - Organise/(C1,ii) Restore Resources from Trash.md
-      - Organise/(D1) Star Resources.md
+      - Organise/(D1) Star Resources (Enhanced).md
       - Organise/(E1,i) Access My Subjects.md
       - Organise/(E1,ii) Follow & Unfollow Subjects.md
       - Organise/(F1,i) View Print Friendly Worksheet.md
       - Organise/(F1,ii) Copy to My Drive.md
       - Plan/.keep
       - Plan/Plan.md
-      - Plan/(A1) Access Planner.md
-      - Plan/(A2) Create a New Event.md
+      - Plan/(A1) Access Planner (Enhanced).md
+      - Plan/(A2) Create a New Task or Event (Enhanced).md
       - Self Study/.keep
       - Self Study/Self Study.md
       - Self Study/Access Learning Assistant in Interactive Component (New).md
       - Self Study/About Adaptive Learning System.md
       - Self Study/(A1) Access Adaptive Learning System (Enhanced).md
-      - Self Study/(B1,1) Annotate Text within Activities.md
+      - Self Study/(B1,1) Annotate Text within Activities (Enhanced).md
       - Self Study/(B1,2) Add Notes to Images.md
       - Self Study/(B1,3) Add Notes to Audio or Video.md
       - Self Study/(B2) View Notes.md
-      - Self Study/(B3) Comment on Notes.md
+      - Self Study/(B3) Comment on Notes (Enhanced).md
       - Track Progress/.keep
       - Track Progress/Track Progress.md
       - Track Progress/(A1,i) Access Learning Progress.md
       - Track Progress/(A1,ii) View ALS Learning Progress.md
-      - Track Progress/(A2,i) View by Topic.md
+      - Track Progress/(A2,i) View by Topic (Enhanced).md
       - Track Progress/(A2,ii) View by Month.md
       - Track Progress/(A2,iii) View by Question.md
-      - Track Progress/(B1) Access Error Tracker.md
+      - Track Progress/(B1) Access Error Tracker (Enhanced).md
