@@ -255,13 +255,13 @@ assistance.</p>
 by the lesson activity where you have saved your analysis.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT15.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT15.png">
 </div>
 </li>
 <li>
 <p>Click on 'View class submissions.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT16.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT16.png">
 </div>
 </li>
 <li>
