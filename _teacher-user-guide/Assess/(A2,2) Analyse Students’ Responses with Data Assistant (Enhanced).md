@@ -70,7 +70,7 @@ that guides Data Assistant in analysing qualitative data.</p>
 <p>Click <strong>Generate</strong>. Data Assistant will provide an overall
 analysis and group responses and students into common themes.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AS_DAT4.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/AS_DAT4.png">
 </div>
 </li>
 <li>
