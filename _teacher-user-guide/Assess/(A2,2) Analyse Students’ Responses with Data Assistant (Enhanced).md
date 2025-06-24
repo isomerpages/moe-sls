@@ -165,10 +165,8 @@ Assistant to analyse the overall performance of their class in a quiz.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AS_DAT9.png">
 </div>
-<p><em>Quiz Overview Page</em>
-</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT10.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT10.png">
 </div>
 <ol start="3" data-tight="true" class="tight">
 <li>
