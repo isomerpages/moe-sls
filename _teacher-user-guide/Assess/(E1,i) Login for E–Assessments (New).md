@@ -14,13 +14,13 @@ third_nav_title: Assess
 <li>
 <p>If you had selected Login with SLS, select Login for E-Assessment.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/e_assessment_sls_login.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2Teacher/e_assessment_sls_login.png">
 </div>
 </li>
 <li>
 <p>Alternatively, you may Login with MIMS and select Login for E-Assessment.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/e_assessment_mims_login.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2Teacher/e_assessment_mims_login.png">
 </div>
 </li>
 <li>
@@ -48,7 +48,7 @@ top right corner in the Assignment List.</p>
 <p>If you would like to test the assessment view for students, you may switch
 to your student account from this page.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/E_Assessment_Switch_to_Student_Account.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/E_Assessment_Switch_to_Student_Account_1.png">
 </div>
 <p><u>Note:</u> You must assign the assessment to your teacher-student account
 in order to view it as a student.</p>
