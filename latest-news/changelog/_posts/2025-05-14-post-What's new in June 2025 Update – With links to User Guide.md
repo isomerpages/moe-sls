@@ -293,7 +293,7 @@ variant: markdown
 
 <ul>
 
-<li>Students can star and unstar class group resources.</li>
+<li>Students can <a target="_blank" href="/student-user-guide/organise/star-resources/">star and unstar class group and community resources</a>.</li>
 
 </ul></details></li>
 
