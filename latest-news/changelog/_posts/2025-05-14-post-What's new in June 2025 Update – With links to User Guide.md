@@ -144,7 +144,7 @@ variant: markdown
 <li><details><summary><h4 style="margin: 0; display: inline;">Authoring Copilot (ACP) Enhancements</h4></summary>
 
 <ul>
-<li>Teachers can <a target="_blank" href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/">upload Google Slides, Docs and Sheets</a> into the Knowledge Base to be used for ACP generation and for Learning Assistant reference (from 4 July 2025).</li>
+<li>Teachers can <a target="_blank" href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/">upload Google Slides, Docs and Sheets</a> into the Knowledge Base to be used for ACP generation and for Learning Assistant reference.</li>
 <li>Teachers can <a target="_blank" href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-activities-components/">access ACP directly</a> from the Add New and Create/Edit subpages.</li>
 </ul>
 
