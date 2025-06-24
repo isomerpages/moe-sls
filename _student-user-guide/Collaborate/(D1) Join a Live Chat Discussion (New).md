@@ -63,4 +63,3 @@ by your teacher.</p>
 </li>
 </ol>
 <p></p>
-<p>LiveChatStudent5.png</p>
