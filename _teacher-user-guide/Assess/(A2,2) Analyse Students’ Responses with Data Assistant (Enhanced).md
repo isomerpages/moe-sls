@@ -53,7 +53,7 @@ Question, Discussion Board/Forum, or Interactive Thinking Tool.</p>
 </div>
 </li>
 <li>
-<p>Click the Data Assistant<strong> </strong>icon</p>
+<p>Click the <strong>Data Assistant </strong>icon.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AS_DAT2_1.png">
 </div>
@@ -215,13 +215,14 @@ clicking on the ‘Save analysis’ button.</p>
 followed by the lesson activity where you have saved your analysis.</p>
 <ol>
 <li>
-<p>After students submit the quiz, click on ‘monitor’</p>
+<p>After students submit the quiz, click on <strong>Monitor.</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 5%;" height="auto" width="100%" alt="" src="/images/Icons/Monitor.svg">
 </div>
 </li>
 <li>
-<p>Then click on ‘Quiz Status’ to view the quiz overview page.</p>
+<p>Then click on <strong>Quiz Status</strong> to view the quiz overview page.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AS_DAT9.png">
 </div>
