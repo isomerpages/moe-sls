@@ -93,7 +93,7 @@ to access various follow up actions.</p>
 of students that fall under the same theme. You can click on <strong>View Students</strong> to
 see the names of students within a particular theme.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AS_DAT6.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/AS_DAT6.png">
 </div>
 </li>
 <li>
@@ -222,7 +222,7 @@ followed by the lesson activity where you have saved your analysis.</p>
 <li>
 <p>Then click on <strong>Quiz Status</strong> to view the quiz overview page.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AS_DAT9.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/AS_DAT9.png">
 </div>
 </li>
 </ol>
@@ -231,7 +231,7 @@ followed by the lesson activity where you have saved your analysis.</p>
 <p>You will be able to view your saved analysis/feedback at the bottom of
 the page.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT14.png">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT14.png">
 </div>
 </li>
 <li>
@@ -255,13 +255,13 @@ assistance.</p>
 by the lesson activity where you have saved your analysis.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT15.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT15.png">
 </div>
 </li>
 <li>
-<p>Click on 'View class submissions.</p>
+<p>Click on 'View class submissions.'</p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT16.png">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2Teacher/AS_DAT16.png">
 </div>
 </li>
 <li>
