@@ -175,7 +175,7 @@ their responses and receive feedback that updates with each draft.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AFAFeedbackDrawer.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/AFAFeedbackDrawer.png">
 </div>
 <p></p>
 <p>Students will see:</p>

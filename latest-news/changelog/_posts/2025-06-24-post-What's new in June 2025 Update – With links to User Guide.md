@@ -1,7 +1,7 @@
 ---
 title: What's new in June 2025 Update – With links to User Guide
 permalink: /what-s-new-in-june-2025-update/
-date: 2025-05-14
+date: 2025-06-24
 layout: post
 description: ""
 image: /images/FaviconLight.png
