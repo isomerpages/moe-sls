@@ -47,7 +47,7 @@ third_nav_title: SLS Latest Features
 <p>User Guide:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" rel="noopener nofollow" target="_blank">Analyse Students’ Responses with Data Assistant</a>
+<p><a href="/teacher-user-guide/assess/analyse-students-responses-with-data-assistant/" rel="noopener nofollow" target="_blank">Analyse Students’ Responses with Data Assistant</a>
 </p>
 </li>
 </ol>
