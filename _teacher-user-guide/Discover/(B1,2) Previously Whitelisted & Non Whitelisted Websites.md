@@ -30,6 +30,12 @@ https://moe-etd.maps.arcgis.com
 https://awwapp.com
 </td>
 </tr>
+<tr><td><strong>Checkfirst</strong></td>
+<td>Site has been deprecated</td>
+<td>
+hhttps://www.checkfirst.gov.sg/
+</td>
+</tr>
 <tr><td><strong>Classroom Screen</strong></td>
 <td>Site fails security requirement</td>
 <td>
