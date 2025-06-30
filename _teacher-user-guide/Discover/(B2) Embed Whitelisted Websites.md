@@ -191,12 +191,6 @@ https://www.channelnewsasia.com
 https://seithi.mediacorp.sg
 </td>
 </tr>
-<tr><td><strong>Checkfirst</strong></td>
-<td>Eligibility Checker</td>
-<td>
-https://www.checkfirst.gov.sg
-</td>
-</tr>
 <tr><td><strong>Chem Not Cheem</strong></td>
 <td>Chemistry Resources</td>
 <td>
@@ -334,8 +328,8 @@ https://www.edcafe.ai
 https://edition.cnn.com
 </td>
 </tr>
-<tr><td><strong>Edtech Sims</strong> <font color="#FBBC04">NEW!</font></td>
-<td>Educational Games and Tools</td>
+<tr><td><strong>Edtech Sims</strong> 
+</td><td>Educational Games and Tools</td>
 <td>
 https://edtechsims.com/
 </td>
@@ -922,6 +916,8 @@ https://saatchigallery.com
 <td>AI Chatbot</td>
 <td>
 https://app.schoolai.com
+<br>
+https://student.schoolai.com <font color="#FBBC04">NEW!</font> 
 </td>
 </tr>
 <tr><td><strong>Science Kids</strong></td>
@@ -1689,6 +1685,8 @@ https://acsbr.padlet.org
 <br>
 https://acsjunior.padlet.org 
 <br>
+https://acspri.padlet.org <font color="#FBBC04">NEW!</font> 
+<br>
 https://aitongschool3.padlet.org
 <br>
 https://anchorgreen.padlet.org
@@ -1863,7 +1861,9 @@ https://taonan.padlet.org
 <br>
 https://taonanschool.padlet.org
 <br>
-https://temasekjc.padlet.org 
+https://temasekjc.padlet.org
+<br>
+https://tksec.padlet.org <font color="#FBBC04">NEW!</font> 
 <br>
 https://unityprimaryschool.padlet.org 
 <br>
