@@ -6,6 +6,9 @@ description: ""
 ---
 <h3>SLS Professional Development</h3>
 <p></p>
+<h4>SLS PD Community</h4>
+<p>Join the SLS PD Community here: <a href="https://go.gov.sg/joinslspdcommunity" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/joinslspdcommunity</a>
+</p>
 <h4>SLS as a One-Stop Hub</h4>
 <hr>
 <table style="minWidth: 50px">
@@ -54,7 +57,59 @@ description: ""
 <p></p>
 <h4>SLS Certification</h4>
 <hr>
-<p>[Available in Mar 2025]</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p><strong>Title</strong>
+</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Links</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SLS Certification Module A: Onboarding</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://go.gov.sg/slsmodulea" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/slsmodulea</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SLS Certification Module B: Browsing</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://go.gov.sg/slsmodulea" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/slsmoduleb</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SLS Certification Module C: Assigning</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://go.gov.sg/slsmodulea" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/slsmodulec</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SLS Certification Module D: Authoring</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="http://go.gov.sg/slsmodulea" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/slsmoduled</a>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <h4>SLS Release Module</h4>
 <p><u>Important</u>: Please switch to your student account before attempting
 this Module</p>
