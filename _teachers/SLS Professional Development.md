@@ -111,8 +111,6 @@ description: ""
 </tbody>
 </table>
 <h4>SLS Release Module</h4>
-<p><u>Important</u>: Please switch to your student account before attempting
-this Module</p>
 <hr>
 <table style="minWidth: 50px">
 <colgroup>
