@@ -77,6 +77,8 @@ variant: tiptap
 <p>June</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>2nd Jun - TCEF Unconference</p>
+<p>3rd Jun - TCEF Unconference</p>
 <p>25<sup>th</sup> Jun – June 2025 Update</p>
 <p>&nbsp;</p>
 </td>
@@ -122,7 +124,7 @@ variant: tiptap
 <p>November</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;11th Nov - SLS Year-End Engagement Session</p>
 <p>&nbsp;</p>
 </td>
 </tr>
