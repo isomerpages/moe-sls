@@ -86,7 +86,7 @@ description: ""
 <p>SLS Certification Module B: Browsing</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://go.gov.sg/slsmodulea" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/slsmoduleb</a>
+<p><a href="http://go.gov.sg/slsmoduleb" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/slsmoduleb</a>
 </p>
 </td>
 </tr>
@@ -95,7 +95,7 @@ description: ""
 <p>SLS Certification Module C: Assigning</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://go.gov.sg/slsmodulea" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/slsmodulec</a>
+<p><a href="http://go.gov.sg/slsmodulec" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/slsmodulec</a>
 </p>
 </td>
 </tr>
@@ -104,7 +104,7 @@ description: ""
 <p>SLS Certification Module D: Authoring</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="http://go.gov.sg/slsmodulea" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/slsmoduled</a>
+<p><a href="http://go.gov.sg/slsmoduled" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/slsmoduled</a>
 </p>
 </td>
 </tr>
