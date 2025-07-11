@@ -79,7 +79,8 @@ to identify common errors and the students who made these errors.</p>
 </li>
 <li>
 <p>You can choose to save the generated analysis for future reference by
-clicking on the ‘Save analysis’ button.</p>
+clicking on the ‘Save analysis’ button. Please note that saving analyses
+is only for Discussion and Aggregated Free-Response Questions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AS_DAT5.png">
 </div>
