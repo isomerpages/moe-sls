@@ -1691,7 +1691,7 @@ https://acsbr.padlet.org
 <br>
 https://acsjunior.padlet.org 
 <br>
-https://acspri.padlet.org <font color="#FBBC04">NEW!</font> 
+https://acspri.padlet.org 
 <br>
 https://aitongschool3.padlet.org
 <br>
@@ -1869,7 +1869,7 @@ https://taonanschool.padlet.org
 <br>
 https://temasekjc.padlet.org
 <br>
-https://tksec.padlet.org <font color="#FBBC04">NEW!</font> 
+https://tksec.padlet.org 
 <br>
 https://unityprimaryschool.padlet.org 
 <br>
