@@ -57,7 +57,7 @@ features in SLS in the following links:</p>
 <ol>
 <li>
 <p>In an <strong>Activity</strong>, navigate to <strong>Interactive</strong>,
-then select <strong>Discussion</strong> and click on <strong>Learning Assistant (Beta)</strong>.</p>
+then select <strong>Learning Assistant 1-to-1 (Beta)</strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AU_LEA1a.png">
