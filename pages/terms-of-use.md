@@ -1,6 +1,7 @@
 ---
 title: Terms of Use
 permalink: /terms-of-use/
+variant: markdown
 ---
 <h1>Terms of Use For Singapore Student Learning Space</h1>
 <hr>
@@ -37,7 +38,7 @@ permalink: /terms-of-use/
   <li>Upload programs intended to damage or place excessive load on a computer system or network. This includes computer viruses, Trojans and worms;</li>
   <li>Take any action that imposes any unreasonable or disproportionately large load on the servers of MOE or MOE’s contractors;</li>
   <li>Attempt to circumvent data protection schemes or uncover security loopholes; and</li>
-  <li>Upload or store on the Website, knowingly, any information which has been assigned a security classification by the Government of the Republic of Singapore.</li>
+  <li>Upload or store on the Website, knowingly, any information which has been assigned a security classification by the Government of the Republic of Singapore. SLS can only be used with information classified up to a maximum of 'OFFICIAL (CLOSED) \ NON-SENSITIVE'. Information you enter may be processed by AI systems (large Language Models) to enable AI-powered features. </li>
 </ol></ul>
 </li></ol>
 <h2>Hyperlinks</h2>

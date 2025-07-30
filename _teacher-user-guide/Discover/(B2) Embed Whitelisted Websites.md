@@ -123,6 +123,12 @@ https://www.bilibili.com
 https://bingobaker.com
 </td>
 </tr>
+<tr><td><strong>Biology Simulations</strong></td>
+<td>Online Biology Simulations </td>
+<td>
+https://www.biologysimulations.com <font color="#FBBC04">NEW!</font>
+</td>
+</tr>
 <tr><td><strong>Blooket</strong></td>
 <td>Gamification</td>
 <td>
@@ -917,7 +923,7 @@ https://saatchigallery.com
 <td>
 https://app.schoolai.com
 <br>
-https://student.schoolai.com <font color="#FBBC04">NEW!</font> 
+https://student.schoolai.com  
 </td>
 </tr>
 <tr><td><strong>Science Kids</strong></td>
@@ -1685,7 +1691,7 @@ https://acsbr.padlet.org
 <br>
 https://acsjunior.padlet.org 
 <br>
-https://acspri.padlet.org <font color="#FBBC04">NEW!</font> 
+https://acspri.padlet.org 
 <br>
 https://aitongschool3.padlet.org
 <br>
@@ -1863,7 +1869,7 @@ https://taonanschool.padlet.org
 <br>
 https://temasekjc.padlet.org
 <br>
-https://tksec.padlet.org <font color="#FBBC04">NEW!</font> 
+https://tksec.padlet.org 
 <br>
 https://unityprimaryschool.padlet.org 
 <br>
