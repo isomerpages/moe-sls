@@ -7,6 +7,19 @@ third_nav_title: Teaching & Learning on SLS
 image: /images/FaviconLight.png
 ---
 <h3>AI–enabled Features</h3>
+
+<p>Before using AI-enabled features in SLS, you are encouraged to have students complete the Basic Modules for AI and AI-enabled features in SLS in the following links:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/ai-lower-pri">Lower Primary Module</a></p>
+</li>
+<li>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/ai-upper-pri">Upper Primary Module</a></p>
+</li>
+<li>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/ai-sec">Secondary Level Module</a></p>
+</li>
+</ul>
 <details>
 	<summary><h4>Adaptive Learning System</h4></summary>
 <p>The ALS provides a&nbsp;personalised&nbsp;learning pathway for&nbsp;each
