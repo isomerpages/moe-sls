@@ -16,7 +16,7 @@ use of generative AI in teaching and learning.</p>
 <h2>Educator Resources</h2>
 <hr>
 <p>Guidance on the use of generative AI tools in schools can be found here:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://intranet.moe.gov.sg/etd/edtechmp2030/Pages/Resources.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>Generative AI Guides</u></a> (requires
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://intranet.moe.gov.sg/etd/edtechmp2030/Pages/ST1_Empower-Students_Learning-through-Greater-Customisation-and-Personalisation-with-EdTech.aspx" rel="noopener noreferrer nofollow" target="_blank"><u>Generative AI Guides</u></a> (requires
 access to MOE Intranet, S/N 5)</p>
 <h2>Parent Resources</h2>
 <hr>
