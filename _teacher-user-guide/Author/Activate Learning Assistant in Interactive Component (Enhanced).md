@@ -46,7 +46,7 @@ features in SLS in the following links:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ai-sec" rel="noopener noreferrer nofollow" target="_blank">Secondary/JC/MI Level Module</a>
+<p><a href="https://go.gov.sg/ai-sec" rel="noopener noreferrer nofollow" target="_blank">Secondary/JC/MI Module</a>
 </p>
 </li>
 </ul>
