@@ -27,7 +27,7 @@ assigning the assignment to your students. You should also access students’
 conversation logs when the assignment has started.</p>
 </li>
 <li>
-<p>Currently, Learning Assistant is only available for Secondary 1 students
+<p>Currently, Learning Assistant is only available for Primary 4 students
 and above. When it is enabled for discussions, students will interact with
 SALiS.</p>
 <p></p>
@@ -46,7 +46,7 @@ features in SLS in the following links:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ai-sec" rel="noopener noreferrer nofollow" target="_blank">Secondary Level Module</a>
+<p><a href="https://go.gov.sg/ai-sec" rel="noopener noreferrer nofollow" target="_blank">Secondary/JC/MI Level Module</a>
 </p>
 </li>
 </ul>
