@@ -37,7 +37,7 @@ AI and AI-enabled features in SLS in the following links:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ai-sec" rel="noopener nofollow" target="_blank">Secondary Level Module</a>
+<p><a href="https://go.gov.sg/ai-sec" rel="noopener nofollow" target="_blank">Secondary/JC/MI Level Module</a>
 </p>
 </li>
 </ul>
