@@ -29,7 +29,8 @@ conversation logs when the assignment has started.</p>
 <li>
 <p>Currently, Learning Assistant is only available for Primary 4 students
 and above. When it is enabled for discussions, students will interact with
-SALiS.</p>
+SALiS. Please ensure that your Class Group settings are set to the correct
+level for your students to access Learning Assistant.</p>
 <p></p>
 </li>
 </ul>
