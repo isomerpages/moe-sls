@@ -17,7 +17,7 @@ image: /images/FaviconLight.png
 <p><a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/ai-upper-pri">Upper Primary Module</a></p>
 </li>
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/ai-sec">Secondary Level Module</a></p>
+<p><a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/ai-sec">Secondary/JC/MI Level Module</a></p>
 </li>
 </ul>
 <details>

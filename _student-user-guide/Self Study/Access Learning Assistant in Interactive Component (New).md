@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Self Study
 ---
-<h2>Access Learning Assistant in Interactive Component (New)</h2>
+<h2>Access Learning Assistant in Interactive Component (New</h2>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -37,7 +37,7 @@ AI and AI-enabled features in SLS in the following links:</p>
 </p>
 </li>
 <li>
-<p><a href="https://go.gov.sg/ai-sec" rel="noopener nofollow" target="_blank">Secondary Level Module</a>
+<p><a href="https://go.gov.sg/ai-sec" rel="noopener nofollow" target="_blank">Secondary/JC/MI Level Module</a>
 </p>
 </li>
 </ul>
