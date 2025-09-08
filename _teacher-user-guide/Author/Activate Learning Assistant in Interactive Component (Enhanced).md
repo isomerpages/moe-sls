@@ -13,7 +13,7 @@ third_nav_title: Author
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Important:</strong>
+<p><strong>Important</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
