@@ -94,11 +94,7 @@ share the URL.</p>
 </tr>
 </tbody>
 </table>
-<p>5.&nbsp;&nbsp;&nbsp; Share the URL with the Desktop Engineer (DE), who
-will create a Browser Shortcut on the Student Desktop. Work with the DE
-if the URL needs to be updated prior to the e-SBA. For more information
-on how to check the e-SBA URL, you may watch a video guide here: <a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/checkesba">https://go.gov.sg/checkesba</a>
-</p>
+
 <p>&nbsp;</p>
 <h4>During the e-SBA in SLS,</h4>
 <p>1.&nbsp;&nbsp;&nbsp; Students will double click on the browser shortcut
