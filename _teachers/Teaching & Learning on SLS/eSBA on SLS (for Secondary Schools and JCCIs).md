@@ -215,15 +215,7 @@ responses?</p>
 <p>Any subsequent changes to the marking scheme will need to be separately
 processed offline. Teachers can identify additional acceptable responses
 and manually adjust marks awarded to students offline.</p>
-<p>5.&nbsp;&nbsp;&nbsp; Can I create a URL Shortener for the SLS Assessment
-URL?</p>
-<p>Teachers can consider using a URL Shortener. If the URL Shortener is used,
-please whitelist the URL in the Service Request Form when making an application
-for the Lockdown Account. For example,</p>
-<p>• whitelist <a rel="noopener noreferrer nofollow" target="_blank" href="https://bitly.com">https://bitly.com</a> if
-bitly is used</p>
-<p>• whitelist <a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg">https://go.gov.sg</a> if
-<a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg">go.gov.sg</a> is used</p>
+
 <p></p>
 <p></p>
 </details>
