@@ -94,11 +94,7 @@ share the URL.</p>
 </tr>
 </tbody>
 </table>
-<p>5.&nbsp;&nbsp;&nbsp; Share the URL with the Desktop Engineer (DE), who
-will create a Browser Shortcut on the Student Desktop. Work with the DE
-if the URL needs to be updated prior to the e-SBA. For more information
-on how to check the e-SBA URL, you may watch a video guide here: <a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/checkesba">https://go.gov.sg/checkesba</a>
-</p>
+
 <p>&nbsp;</p>
 <h4>During the e-SBA in SLS,</h4>
 <p>1.&nbsp;&nbsp;&nbsp; Students will double click on the browser shortcut
@@ -215,15 +211,7 @@ responses?</p>
 <p>Any subsequent changes to the marking scheme will need to be separately
 processed offline. Teachers can identify additional acceptable responses
 and manually adjust marks awarded to students offline.</p>
-<p>5.&nbsp;&nbsp;&nbsp; Can I create a URL Shortener for the SLS Assessment
-URL?</p>
-<p>Teachers can consider using a URL Shortener. If the URL Shortener is used,
-please whitelist the URL in the Service Request Form when making an application
-for the Lockdown Account. For example,</p>
-<p>• whitelist <a rel="noopener noreferrer nofollow" target="_blank" href="https://bitly.com">https://bitly.com</a> if
-bitly is used</p>
-<p>• whitelist <a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg">https://go.gov.sg</a> if
-<a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg">go.gov.sg</a> is used</p>
+
 <p></p>
 <p></p>
 </details>
