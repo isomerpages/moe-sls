@@ -215,3 +215,15 @@ and manually adjust marks awarded to students offline.</p>
 <p></p>
 <p></p>
 </details>
+<details>
+<summary><h4 style="margin: 0; display: inline;">Resources</h4></summary>
+
+<p><strong>1. <a rel="noopener noreferrer nofollow" target="_blank" href="https://docs.google.com/presentation/d/1nv3jYFEAe11e3RwtkIx2jtxo80MXGkPk/edit?usp=sharing&amp;ouid=107947145652324035273&amp;rtpof=true&amp;sd=true">e-SBA Guide</a></strong></p>
+<p>This guide provides the steps for implementing e-SBA via SLS. It covers e-authoring, e-delivering, e-marking, and e-returning assessments.</p>
+
+<p><strong>2. <a rel="noopener noreferrer nofollow" target="_blank" href="https://docs.google.com/presentation/d/1TUeaSobCicUYvFnuIw9QsarQExE0aLKh/edit?usp=drive_link&amp;ouid=107947145652324035273&amp;rtpof=true&amp;sd=true">Student Briefing Template</a></strong></p>
+<p>This template is designed for teachers to brief students on the e-SBA process, including how to access, complete, and submit their assessments. Teachers can edit the template as needed.</p>
+
+<p><u>Note</u>: Both resources are accessible only via MOE iCON login.</p>
+
+</details>
