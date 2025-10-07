@@ -11,20 +11,20 @@ variant: markdown
 <p>This list details the changes users can expect in the upcoming SLS December 2025 Release (Release 3), which will be rolled out on 4 December 2025. Please note that SLS will be unavailable from 2 December 2025 00:00 to 4 December 2025 23:00 to facilitate this update.</p>
 <h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for All Users</h2>
 <ol>
-<li><details><summary><h4>Annotation Enhancements</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Annotation Enhancements</h4></summary>
 <ol>
 <li>Teachers and students will see a consistent interface when creating and editing notes, annotations, and discussion posts on SLS.</li>
 <li>Annotation cards now display the media objects they reference, making it easier for users to see the context of their notes.</li>
 </ol></details></li>
 
-<li><details><summary><h4>Rich Text Editor</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Rich Text Editor</h4></summary>
 <ol>
 <li>Teachers and students can now use cut, copy, and paste options on the toolbar and right-click context menu in addition to keyboard shortcuts.</li>
 <li>Teachers and students can now use additional formatting options such as underline, strikethrough, superscript, and subscript in most Rich Text Editors on SLS.</li>
 <li>The toolbar for Rich Text Editors has been reorganised and can now be collapsed on desktop screens. It is collapsed by default on mobile screens.</li>
 </ol></details></li>
 
-<li><details><summary><h4>UI/ UX Enhancements</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">UI/ UX Enhancements</h4></summary>
 <ol>
 <li>Subpages have increased height and width for desktop and tablet, improving content visibility.</li>
 <li>Module tags and content maps are now displayed on module covers.</li>
@@ -32,7 +32,7 @@ variant: markdown
 <li>Table displays have been refined to improve clarity and visibility of content.</li>
 </ol></details></li>
 
-<li><details><summary><h4>Homepage Enhancements</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Homepage Enhancements</h4></summary>
 <ol>
 <li>A "Continue Where You Left Off" section has been added on the homepage, allowing teachers and students to quickly return to recently accessed modules, assignments and templates.</li>
 <li>The homepage now supports alt-text for screen reader compatibility and keyboard navigation using the "Tab" key.</li>
@@ -42,7 +42,7 @@ variant: markdown
 <li>Teachers with the External Content Developers (ECD) flag will no longer see the "Switch to Student Account" option.</li>
 </ol></details></li>
 
-<li><details><summary><h4>Notifications Enhancements</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Notifications Enhancements</h4></summary>
 <ol>
 <li>Teachers and students can choose their preferred assignment sub-categories for email notifications, giving them greater control over the notifications they receive.</li>
 <li>Teachers and students can view their latest notifications under the notification bell and mark them as read directly from the notification panel.</li>
@@ -50,12 +50,12 @@ variant: markdown
 <li>The filters on the notification listing page have been updated to help users find relevant notifications more easily.</li>
 </ol></details></li>
 
-<li><details><summary><h4>Profile Live Indicator</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Profile Live Indicator</h4></summary>
 <ol>
 <li>Teachers and students can see a green dot on user avatars when users are active on SLS.</li>
 </ol></details></li>
 
-<li><details><summary><h4>Helpdesk Support</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Helpdesk Support</h4></summary>
 <ol>
 <li>Teachers and students can access the User Guide or Helpdesk via a help widget available on all SLS pages, except the login page.</li>
 <li>Teachers and students can submit Helpdesk tickets with pre-filled details and attach multiple images to provide clearer support requests.</li>
@@ -64,7 +64,7 @@ variant: markdown
 
 <h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for Teachers</h2>
 <ol>
-<li><details><summary><h4>Search</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Search</h4></summary>
 <ul>
 <li><strong>Starred Resources</strong>:<ol>
 <li>Teachers can search for starred resources by title on the Starred Resources page.</li>
@@ -75,7 +75,7 @@ variant: markdown
 </ol></li>
 </ul></details></li>
 
-<li><details><summary><h4>Authoring</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Authoring</h4></summary>
 <ul>
 <li><strong>Rubrics Enhancements</strong>:<ol>
 <li>Teachers can search for rubrics, star rubrics, and add rubrics from search or Starred Resources to Free-Response Questions (FRQ) and Audio-Response Questions (ARQ).</li>
@@ -87,7 +87,7 @@ variant: markdown
 </ol></li>
 </ul></details></li>
 
-<li><details><summary><h4>Assignments</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Assignments</h4></summary>
 <ul>
 <li><strong>Half Marks</strong>:<ol>
 <li>Teachers can now award half marks for Free-Response Questions (FRQ) and Audio-Response Questions (ARQ) in Teacher-Marked Quizzes (TMQ) and standalone questions.</li>
@@ -108,7 +108,7 @@ variant: markdown
 </ol></li>
 </ul></details></li>
 
-<li><details><summary><h4>Authoring Copilot (ACP) Enhancements</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Authoring Copilot (ACP) Enhancements</h4></summary>
 <ol>
 <li>Teachers can use Authoring Copilot (ACP) to generate new rubrics or populate empty fields in existing rubrics for FRQs.</li>
 <li>Teachers can use ACP to generate a HTML5 interactive, and refine it further with instructions.</li>
@@ -120,7 +120,7 @@ variant: markdown
 <li>Teachers can customise the number of game stories and collectibles generated in Advanced Settings.</li>
 </ol></details></li>
 
-<li><details><summary><h4>Learning Assistant (LEA)</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Learning Assistant (LEA)</h4></summary>
 <ul>
 <li><strong>Learning Assistant in Live Chat</strong>:<ol>
 <li>Teachers can enable LEA in Live Chat, allowing students to interact with SALiS during Live Chat discussions.</li>
@@ -131,19 +131,19 @@ variant: markdown
 </ol></li>
 </ul></details></li>
 
-<li><details><summary><h4>Short Answer Feedback Assistant (ShortAnsFA) Enhancements</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Short Answer Feedback Assistant (ShortAnsFA) Enhancements</h4></summary>
 <ol>
 <li>Teachers can provide additional instructions when setting up ShortAnsFA. They can select predetermined feedback styles (e.g., direct answer, simple feedback, Socratic feedback) or customise their own instructions.</li>
 <li>The leniency field will be removed for ShortAnsFA.</li>
 </ol></details></li>
 
-<li><details><summary><h4>Groups</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Groups</h4></summary>
 <ol>
 <li>Owners and co-teachers of groups, as well as SLS School Administrators, can temporarily add a teacher to a group with a set end date. However, an end date cannot be set for owners so that owners will always retain access to their groups.</li>
 <li>When new teachers are added to a group, they will now receive the Observer role by default, giving them immediate viewing access to assignments.</li>
 </ol></details></li>
 
-<li><details><summary><h4>Community Gallery</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Community Gallery</h4></summary>
 <ol>
 <li>Teachers receive a notification once they submit a module to the Community Gallery.</li>
 <li>A consistent URL is now used for Community Gallery modules whether pending review, featured or returned, so teachers can share links right after submission.</li>
@@ -151,12 +151,12 @@ variant: markdown
 <li>All teachers who collaborated on a Community Gallery module will be notified when their module receives a teacher review.</li>
 </ol></details></li>
 
-<li><details><summary><h4>Learning Outcome Display Name</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Learning Outcome Display Name</h4></summary>
 <ol>
 <li>Teachers can toggle between viewing displayed learning outcomes or learning outcomes. Displayed learning outcomes are learning outcomes with more student-friendly language that are shown to students when added by Content Approvers and Content Officers (CAs and COs).</li>
 </ol></details></li>
 
-<li><details><summary><h4>QR and Shortened Link Generation</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">QR and Shortened Link Generation</h4></summary>
 <ol>
 <li>Teachers can generate QR codes with SLS branding for assignments, modules, groups and community URLs, so students and colleagues can access them quickly.</li>
 <li>Shortened URLs are now generated automatically and can be copied or used to create QR codes.</li>
@@ -165,7 +165,7 @@ variant: markdown
 
 <h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for Students</h2>
 <ol>
-<li><details><summary><h4>My Notebooks</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">My Notebooks</h4></summary>
 <ol>
 <li>Students can create notebooks to add and organise notes/annotations from assignments. These added notes/annotations can be edited from notebooks directly and edits made will be updated in the original modules, which can be accessed via links on each note/annotation.</li>
 <li>Students can also create their own revision notes inside notebooks using the Rich Text Editor.</li>
@@ -175,7 +175,7 @@ variant: markdown
 <li>Students can organise their notebooks by creating categories and moving notebooks between categories. Students can also toggle between card and list views of their notebooks.</li>
 </ol></details></li>
 
-<li><details><summary><h4>Assignments</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Assignments</h4></summary>
 <ul>
 <li><strong>Assignment Sharing and Study Buddy List</strong>:<ol>
 <li>Students can send and receive study buddy invitations.</li>
@@ -190,24 +190,6 @@ variant: markdown
 </ol></li>
 </ul></details></li>
 
-<li><details><summary><h4>Starred Resources</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Starred Resources</h4></summary>
 <ol>
-<li>Students can search for starred resources by title on the Starred Resources page.</li>
-</ol></details></li>
-
-<li><details><summary><h4>Adaptive Learning System (ALS) Enhancements</h4></summary>
-<ol>
-<li>Students can select a maximum number of 50 learning outcomes for Test Myself mode in ALS.</li>
-<li>Students can receive recommendations drawn from resources (tagged to ALS content maps) in active groups they belong to when they enter ALS.</li>
-</ol></details></li>
-
-<li><details><summary><h4>Learning Assistant in Live Chat</h4></summary>
-<ol>
-<li>Students can use @-mention to call on SALiS during Live Chat discussions for assistance.</li>
-</ol></details></li>
-
-<li><details><summary><h4>Learning Outcome Display Name</h4></summary>
-<ol>
-<li>Students will see displayed learning outcomes in more student-friendly language if added by Content Approvers and Content Officers (CAs and COs).</li>
-</ol></details></li>
-</ol>
+<li>Students can search for starred resources by title on the Starred Resources page.</li></ol></details></li></ol>
