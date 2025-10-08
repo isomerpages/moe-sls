@@ -226,7 +226,7 @@ in login or e-learning issues during working hours.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 65729100
-<br>Email: tang_kok_bin@moe.edu.sg
+<br>Email: aes@moe.edu.sg
 <br>Others:</p>
 </td>
 </tr>
@@ -2724,7 +2724,7 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>St. Andrew's Junior School</p>
+<p>St Andrew’s School (Junior)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 62884303
