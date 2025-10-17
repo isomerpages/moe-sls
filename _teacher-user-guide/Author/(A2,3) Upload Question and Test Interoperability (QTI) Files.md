@@ -8,14 +8,17 @@ variant: markdown
 ---
 <h1 id="upload-question-and-test-interoperability-qti-2-1-files">(A2,3) Upload Question and Test Interoperability (QTI 2.1) Files</h1>
 <hr>
-<h2 id="Digitise Past Year Paper">Digitise Past Year Papers for Practice</h2>
-You can digitise your school’s past year exam questions from within SLS for your students’ revision.
+<h2 id="Digitise-Past-Year-Papers">Digitise Past Year Papers for Practice</h2>
 
-1.  Upload your past year paper (in Word or PDF format) to a QTI converter tool.
-2.  Download the converted file as a QTI 2.1 format.
-3.  Navigate to the Module editor to upload the QTI 2.1 file.
-4.  Your questions will be automatically populated in the Module.
-5.  When assigning or managing the Module, [allow students to copy the Assignment](/teacher-user-guide/assign/allow-students-to-copy-assignments/) to their My Drive folder to enable self-study.
+<p>You can digitise your school's past year exam questions from within SLS for your students' revision.</p>
+
+<ol>
+  <li>Upload your past year paper (in Word or PDF format) to a QTI converter tool.</li>
+  <li>Download the converted file as a QTI 2.1 format.</li>
+  <li>Navigate to the Module editor to upload the QTI 2.1 file.</li>
+  <li>Your questions will be automatically populated in the Module.</li>
+  <li>When assigning or managing the Module, <a href="/teacher-user-guide/assign/allow-students-to-copy-assignments/">allow students to copy the Assignment</a> to their My Drive folder to enable self-study.</li>
+</ol>
 
 
 <h2 id="uploading-a-qti-2-1-zip-file-in-sls">Uploading a QTI 2.1 ZIP file in SLS</h2>
