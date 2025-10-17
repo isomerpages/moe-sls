@@ -88,10 +88,10 @@ variant: markdown
 <details>
 <summary><h4>D. Ideas for Teaching &amp; Learning</h4></summary>
 <ul>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/co-create-modules-in-class-groups/">(D1,i) Co-create Modules in Class Groups</a></li>
-<li><a target="_blank" href="/teachers/sls-superhero-quiz/digitise-past-year-papers-for-practice/">(D1,ii) Digitise Past Year Papers for Practice</a></li>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/R18_Enhanced_Lesson_Authoring_navigation.pdf">(D1,iii) Enhanced Module Authoring and Navigation</a></li>
-<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/Phygital_learning.pdf">(D1,iv) Let's get Phygital with SLS</a></li>	
+
+<li><a href="/teacher-user-guide/author/upload-question-and-test-interoperability-qti-files/">(D1,i) Digitise Past Year Papers for Practice</a></li>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/R18_Enhanced_Lesson_Authoring_navigation.pdf">(D1,ii) Enhanced Module Authoring and Navigation</a></li>
+<li><a target="_blank" href="/files/Userguide/Downloadable%20Resources/Phygital_learning.pdf">(D1,iii) Let's get Phygital with SLS</a></li>	
 </ul>
 </details>
 <details><summary>
