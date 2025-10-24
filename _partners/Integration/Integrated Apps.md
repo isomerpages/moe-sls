@@ -12,4 +12,6 @@ variant: markdown
 <p>Integrated apps are featured in the <strong>App Library</strong> page within SLS and can be accessed by SLS users.</p>
 <p>If you are interested to integrate your application into SLS, you may contact the <a target="_blank" href="https://go.gov.sg/sls-partnerships-contact">SLS Partnerships Team</a> for further discussion.</p>
 
-![Integrated apps](/images/3Partners/integrated.png)
+![Integrated apps](/images/3Partners/Integrated_App_SLS_updated.png)
+
+![Integrated apps](/images/3Partners/Nobook_embedded_app.gif)
