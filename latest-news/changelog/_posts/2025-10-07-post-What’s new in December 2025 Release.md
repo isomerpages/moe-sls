@@ -8,7 +8,7 @@ image: ""
 variant: markdown
 ---
 <h1>What's new in R3 | With links to User Guide</h1>
-<p>This list details the changes users can expect in the upcoming SLS December 2025 Release (Release 3), which will be rolled out on 4 December 2025. Please note that SLS will be unavailable from 2 December 2025 00:00 to 4 December 2025 23:00 to facilitate this update.</p>
+<p>This list details the changes users can expect in the upcoming SLS December 2025 Release (Release 3), which will be rolled out on 4 December 2025. Please note that SLS will be unavailable from 2 December 2025 to 4 December 2025 evening to facilitate this update.</p>
 <h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for All Users</h2>
 <ol>
 <li><details><summary><h4 style="margin: 0; display: inline;">Annotation Enhancements</h4></summary>
