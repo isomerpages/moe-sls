@@ -42,9 +42,8 @@ cards.</p>
 <br>As AFA uses generative AI, the response is probabilistic in nature and
 this results in it being inaccurate at times. You are encouraged to discuss
 the&nbsp;feedback and marks with your teacher if you need further explanation.&nbsp;Bear
-in mind that AFA and ShortAnsFA may have also missed some errors. If the
-feedback provided is inappropriate, you may write in to <a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">SLS Helpdesk</a> to
-report the issue.</p>
+in mind that AFA and SAFA may have also missed some errors. If the feedback
+provided is inappropriate, you may write in to <a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">SLS Helpdesk</a> to report the issue.</p>
 </li>
 </ol>
 <h3>Check Your Draft for Feedback (New)</h3>
@@ -98,7 +97,7 @@ versions of their writing.</p>
 <p>As AFA uses generative AI, the response is probabilistic in nature and
 this results in it being inaccurate at times. You are encouraged to discuss
 the&nbsp;feedback and marks with your teacher if you need further explanation.&nbsp;Bear
-in mind that AFA and ShortAnsFA may have also missed some errors. If the
-feedback provided is inappropriate, you may write in to&nbsp;SLS Helpdesk&nbsp;[
+in mind that AFA and SAFA may have also missed some errors. If the feedback
+provided is inappropriate, you may write in to&nbsp;SLS Helpdesk&nbsp;[
 <a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a>] to report the issue.</p>
 <p></p>
