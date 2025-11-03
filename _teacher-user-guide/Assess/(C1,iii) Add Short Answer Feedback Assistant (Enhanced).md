@@ -8,21 +8,21 @@ image: /images/FaviconLight.png
 ---
 <h1>(C1,iii) Add Short Answer Feedback Assistant (Enhanced)</h1>
 <hr>
-<p>The Short Answer Feedback Assistant (ShortAnsFA) provides suggested marks
-and auto-generated content-related feedback for Free-Response Questions
-for any subject and level.</p>
+<p>The Short Answer Feedback Assistant (SAFA) provides suggested marks and
+auto-generated content-related feedback for Free-Response Questions for
+any subject and level.</p>
 <p><u>Important</u>:</p>
 <ul>
 <li>
-<p>As ShortAnsFA uses generative AI, its response is probabilistic in nature.
-Thus, it may not be suitable for questions involving mathematical computation
+<p>As SAFA uses generative AI, its response is probabilistic in nature. Thus,
+it may not be suitable for questions involving mathematical computation
 and may at times be inaccurate. You can consider using <a href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/add-mathematics-feedback-assistant/" class="discussion-id-210a234c-719d-802e-82a6-001c3a35edbf notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank">FA-Math</a> for
 questions that require mathematical computation instead. Also, Teachers
 can review the feedback generated before returning it to students. Also,
 you can review the feedback generated before returning it to students.</p>
 </li>
 <li>
-<p>You can use ShortAnsFA to provide feedback on a wider variety of responses,
+<p>You can use SAFA to provide feedback on a wider variety of responses,
 including more open-ended responses such as composition writing or reflections.</p>
 <p></p>
 <p>Before using AI-enabled features in SLS, you are encouraged to have students
@@ -44,13 +44,13 @@ following links:</p>
 </ul>
 </li>
 </ul>
-<h2>Create a ShortAnsFA question</h2>
+<h2>Create a SAFA question</h2>
 <hr>
 <ol>
 <li>
-<p>ShortAnsFA can be used in standalone questions and all types of quizzes.
-Depending on the selected mode (i.e. standalone question or quiz), you
-can determine how students will receive the feedback from ShortAnsFA.</p>
+<p>SAFA can be used in standalone questions and all types of quizzes. Depending
+on the selected mode (i.e. standalone question or quiz), you can determine
+how students will receive the feedback from SAFA.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -88,12 +88,12 @@ can determine how students will receive the feedback from ShortAnsFA.</p>
 <p>To learn more about the different quiz modes, click <a href="/teacher-user-guide/assess/create-quizzes/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>To use ShortAnsFA in a quiz, click <strong>Add New</strong> on the Module
-Editor page, then select <strong>Quiz</strong>. Proceed to Step 2 to continue
-creating a quiz.</p>
+<p>To use SAFA in a quiz, click <strong>Add New</strong> on the Module Editor
+page, then select <strong>Quiz</strong>. Proceed to Step 2 to continue creating
+a quiz.</p>
 </li>
 <li>
-<p>To use ShortAnsFA in a standalone question, click <strong>Add New</strong> on
+<p>To use SAFA in a standalone question, click <strong>Add New</strong> on
 the Module Editor page then select <strong>Activity</strong>. Proceed to
 Step 3 to continue creating a standalone question.</p>
 </li>
@@ -132,7 +132,7 @@ response.
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>[New] </strong>When using both Annotated Feedback Assistant (AFA)
-and ShortAnsFA, you can now <strong>choose whether to use and show rubric marks</strong> to
+and SAFA, you can now <strong>choose whether to use and show rubric marks</strong> to
 students. This gives you greater control over how feedback is scaffolded
 in multi-assistant configurations.
 <br>
@@ -142,7 +142,7 @@ in multi-assistant configurations.
 </li>
 <li>
 <p>From the Leniency dropdown list, select the intended leniency of the feedback
-and marks provided by ShortAnsFA. High leniency would cause feedback generated
+and marks provided by SAFA. High leniency would cause feedback generated
 to be more open and diverse, with a looser interpretation of the Suggested
 Answer. The default Leniency is set to <strong>Medium</strong>. Check ‘Allow
 file submission’ if you wish to allow students to&nbsp;submit PDF or images&nbsp;in
@@ -211,8 +211,8 @@ students in understanding expected formatting and content depth.</p>
 <li>
 <p>Alternatively, to mark more open-ended responses based on rubrics, click <strong>Add Rubrics</strong>.
 <br><u>Note</u>:
-<br>For each question, feedback from ShortAnsFA can only be provided using
-either Suggested Answer or Rubrics at a time.</p>
+<br>For each question, feedback from SAFA can only be provided using either
+Suggested Answer or Rubrics at a time.</p>
 </li>
 <li>
 <p>Enter the following fields:</p>
@@ -259,14 +259,14 @@ ensure that the question has been configured correctly.</p>
 </li>
 <li>
 <p>For standalone questions, Progressive Quiz and Auto-graded Quiz, feedback
-from ShortAnsFA will be shown immediately after students have completed
-the question. For Teacher Marked Quiz, feedback will be shown after you
-have marked and released the quiz. Click <a href="/teacher-user-guide/assess/release-teacher-marked-quizzes/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+from SAFA will be shown immediately after students have completed the question.
+For Teacher Marked Quiz, feedback will be shown after you have marked and
+released the quiz. Click <a href="/teacher-user-guide/assess/release-teacher-marked-quizzes/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 more information on how to return the feedback for Teacher Marked Quiz.</p>
 </li>
 <li>
-<p>You may still review and edit the feedback generated by ShortAnsFA (refer
-to Table A and B). Under the <strong>Monitor Assignment</strong> page and
+<p>You may still review and edit the feedback generated by SAFA (refer to
+Table A and B). Under the <strong>Monitor Assignment</strong> page and
 clicking <strong>Teacher Comments</strong>. You are encouraged to check
 that the feedback and marks are accurate and appropriate; and engage in
 further discussions with your students.</p>
@@ -306,7 +306,7 @@ further discussions with your students.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Table A: ShortAnsFA with Rubrics</p>
+<p>Table A: SAFA with Rubrics</p>
 </td>
 </tr>
 <tr>
@@ -489,7 +489,7 @@ further discussions with your students.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Table B: ShortAnsFA with Suggested Answer</p>
+<p>Table B: SAFA with Suggested Answer</p>
 </td>
 </tr>
 <tr>
