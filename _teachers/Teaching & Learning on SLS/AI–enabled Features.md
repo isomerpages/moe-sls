@@ -1,32 +1,39 @@
 ---
 title: AI–enabled Features
 permalink: /teachers/teaching-and-learning-on-sls/aied-features/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: Teaching & Learning on SLS
 image: /images/FaviconLight.png
 ---
 <h3>AI–enabled Features</h3>
-
-<p>Before using AI-enabled features in SLS, you are encouraged to have students complete the Basic Modules for AI and AI-enabled features in SLS in the following links:</p>
+<p>Before using AI-enabled features in SLS, you are encouraged to have students
+complete the Basic Modules for AI and AI-enabled features in SLS in the
+following links:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/ai-lower-pri">Lower Primary Module</a></p>
+<p><a href="https://go.gov.sg/ai-lower-pri" rel="noopener noreferrer nofollow" target="_blank">Lower Primary Module</a>
+</p>
 </li>
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/ai-upper-pri">Upper Primary Module</a></p>
+<p><a href="https://go.gov.sg/ai-upper-pri" rel="noopener noreferrer nofollow" target="_blank">Upper Primary Module</a>
+</p>
 </li>
 <li>
-<p><a rel="noopener noreferrer nofollow" target="_blank" href="https://go.gov.sg/ai-sec">Secondary/JC/MI Level Module</a></p>
+<p><a href="https://go.gov.sg/ai-sec" rel="noopener noreferrer nofollow" target="_blank">Secondary/JC/MI Level Module</a>
+</p>
 </li>
 </ul>
-<details>
-	<summary><h4>Adaptive Learning System</h4></summary>
+<details class="isomer-details">
+<summary>Adaptive Learning System</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <p>The ALS provides a&nbsp;personalised&nbsp;learning pathway for&nbsp;each
-student. It is currently available for Mathematics (Upper Primary and Lower Secondary) and
-Geography (Upper Secondary). More topics, levels and subjects will be added
-progressively.</p>
-<div class="bp-youtube"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Search for Resources" src="https://www.youtube.com/embed/tKLBNQoaefQ?si=enQKrghmaFV8oHAl" height="315" width="560"></iframe></div>
+student. It is currently available for Mathematics (Upper Primary and Lower
+Secondary) and Geography (Upper Secondary). More topics, levels and subjects
+will be added progressively.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tKLBNQoaefQ?si=enQKrghmaFV8oHAl"></iframe>
+</div>
 <h5>How does ALS enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
 <colgroup>
@@ -97,16 +104,20 @@ will help them close students' learning gaps.</p>
 <br>
 </p>
 <p></p>
+</div>
 </details>
-
-<details>
-	<summary><h4>Authoring Copilot</h4></summary>
+<details class="isomer-details">
+<summary>Authoring Copilot</summary>
 <div data-type="detailsContent" class="isomer-details-content">
 <p>ACP is an AI-enabled feature in SLS that supports lesson planning for
 all subjects and levels by generating a module and its corresponding sections,
 activities and components based on a teacher's inputs.</p>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Zlt1akZ1HxA?si=CTVxfePRs99eNEu7" height="315" width="560"></iframe>
-<p></p><h5>How does ACP enhance teaching and learning?</h5><p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Zlt1akZ1HxA?si=CTVxfePRs99eNEu7"></iframe>
+</div>
+<p></p>
+<h5>How does ACP enhance teaching and learning?</h5>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -164,11 +175,15 @@ on a Knowledge Base that is appended by the teacher.</p>
 </p>
 </li>
 </ul>
-</div></details>
-<details>
-	<summary><h4>Annotated Feedback Assistant</h4></summary>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Annotated Feedback Assistant</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Annotated Feedback Assistant (AFA) provides students with targeted feedback embedded within their responses via annotation cards, based on suggested answers, rubrics, or error tags. It provides students with more specific feedback and can be used across different subjects.</p>
+<p>Annotated Feedback Assistant (AFA) provides students with targeted feedback
+embedded within their responses via annotation cards, based on suggested
+answers, rubrics, or error tags. It provides students with more specific
+feedback and can be used across different subjects.</p>
 <h5>How does AFA enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
 <colgroup>
@@ -185,7 +200,8 @@ on a Knowledge Base that is appended by the teacher.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Enhances Feedback Quality</strong>
 </p>
-<p>By leveraging different feedback references, teachers can provide more holistic feedback beyond just language errors.</p>
+<p>By leveraging different feedback references, teachers can provide more
+holistic feedback beyond just language errors.</p>
 </td>
 </tr>
 <tr>
@@ -197,7 +213,8 @@ on a Knowledge Base that is appended by the teacher.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Supports Critical Thinking</strong>
 </p>
-<p>Teachers can customise feedback output with options such as Socratic questioning or scaffolded hints to guide student reflection.</p>
+<p>Teachers can customise feedback output with options such as Socratic questioning
+or scaffolded hints to guide student reflection.</p>
 </td>
 </tr>
 <tr>
@@ -209,7 +226,8 @@ on a Knowledge Base that is appended by the teacher.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Facilitates Self-Directed Learning</strong>
 </p>
-<p>Teachers can control the number of times students receive feedback, enabling iterative improvement in their responses. [From June 2025]</p>
+<p>Teachers can control the number of times students receive feedback, enabling
+iterative improvement in their responses. [From June 2025]</p>
 </td>
 </tr>
 </tbody>
@@ -223,21 +241,26 @@ on a Knowledge Base that is appended by the teacher.</p>
 </p>
 </li>
 </ul>
-	<p>Student User Guide (UG):</p>
+<p>Student User Guide (UG):</p>
 <ul>
 <li>
 <p><a href="/student-user-guide/assess/about-annotated-feedback-assistant/" rel="noopener noreferrer nofollow" target="_blank">UG for students</a>
 </p>
 </li>
 </ul>
-</div></details>
-
-<details>
-<summary><h4>Data Assistant</h4></summary>
-<p>Data Assistant (DAT) allows teachers to use natural language to query and speed up the process of qualitative analysis of students’ responses, saving teachers’ time and effort, and allow for more timely intervention.   </p>
-<div class="bp-youtube"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JNGPToBneWg?si=623GseHJUFQskO-j" height="315" width="560"></iframe></div>
+</div>
+</details>
+<details class="isomer-details">
+<summary>Data Assistant</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Data Assistant (DAT) allows teachers to use natural language to query
+and speed up the process of qualitative analysis of students’ responses,
+saving teachers’ time and effort, and allow for more timely intervention.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JNGPToBneWg?si=623GseHJUFQskO-j"></iframe>
+</div>
 <h5>How does DAT enhance teaching and learning?</h5>
-	<table style="minWidth: 50px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
@@ -252,7 +275,8 @@ on a Knowledge Base that is appended by the teacher.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Provides pre-populated recipes for teachers to choose from</strong>
 </p>
-<p>Teachers will be given the option to either select a ‘recipe’ or to input their own instructions to DAT to analyse student responses.</p>
+<p>Teachers will be given the option to either select a ‘recipe’ or to input
+their own instructions to DAT to analyse student responses.</p>
 </td>
 </tr>
 <tr>
@@ -262,9 +286,10 @@ on a Knowledge Base that is appended by the teacher.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Supports evidence-based teaching and learning </strong>
+<p><strong>Supports evidence-based teaching and learning</strong>
 </p>
-<p>Group students’ responses into themes, highlight common misconceptions or identify students who may require more help.</p>
+<p>Group students’ responses into themes, highlight common misconceptions
+or identify students who may require more help.</p>
 </td>
 </tr>
 <tr>
@@ -276,7 +301,9 @@ on a Knowledge Base that is appended by the teacher.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Suggests follow up actions for teachers</strong>
 </p>
-<p>Based on results generated, suggest timely interventions such as filtering responses that meet a specific criteria, append autogenerated comments across students. </p>
+<p>Based on results generated, suggest timely interventions such as filtering
+responses that meet a specific criteria, append autogenerated comments
+across students.</p>
 </td>
 </tr>
 </tbody>
@@ -290,14 +317,18 @@ on a Knowledge Base that is appended by the teacher.</p>
 </p>
 </li>
 </ul>
+</div>
 </details>
-
-<details>
-<summary><h4>Learning Assistant</h4></summary>
-<p>Learning Assistant (LEA) is a student-facing* dialogic agent on SLS, which serves to guide students’ learning via iterative questioning.</p>
-<div class="bp-youtube"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vcOv9dDPG2M?si=awf6YHHs4BmcJ3lg" height="315" width="560"></iframe></div>
+<details class="isomer-details">
+<summary>Learning Assistant</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Learning Assistant (LEA) is a student-facing* dialogic agent on SLS, which
+serves to guide students’ learning via iterative questioning.</p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vcOv9dDPG2M?si=awf6YHHs4BmcJ3lg"></iframe>
+</div>
 <h5>How does LEA enhance teaching and learning?</h5>
-	<table style="minWidth: 50px">
+<table style="minWidth: 50px">
 <colgroup>
 <col>
 <col>
@@ -312,7 +343,8 @@ on a Knowledge Base that is appended by the teacher.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Settings to safeguard students’ learning and well-being</strong>
 </p>
-<p>Teachers can set interaction limits on LEA to reduce over-reliance by students, and access students’ conversation logs for real-time insights.</p>
+<p>Teachers can set interaction limits on LEA to reduce over-reliance by
+students, and access students’ conversation logs for real-time insights.</p>
 </td>
 </tr>
 <tr>
@@ -322,10 +354,11 @@ on a Knowledge Base that is appended by the teacher.</p>
 </div>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Personalised and Immediate Learning Support for Students
-</strong>
+<p><strong>Personalised and Immediate Learning Support for Students</strong>
 </p>
-<p>LEA provides students with timely and contextual responses based on curated learning materials in the knowledge base, reinforcing understanding and enabling self-directed learning. </p>
+<p>LEA provides students with timely and contextual responses based on curated
+learning materials in the knowledge base, reinforcing understanding and
+enabling self-directed learning.</p>
 </td>
 </tr>
 <tr>
@@ -337,7 +370,8 @@ on a Knowledge Base that is appended by the teacher.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Enhanced Engagement with Role-based Interactions</strong>
 </p>
-<p>LEA can take on different roles with pre-populated recipes, making conversations more immersive and engaging, hence enhancing student engagement.</p>
+<p>LEA can take on different roles with pre-populated recipes, making conversations
+more immersive and engaging, hence enhancing student engagement.</p>
 </td>
 </tr>
 </tbody>
@@ -358,10 +392,11 @@ on a Knowledge Base that is appended by the teacher.</p>
 </p>
 </li>
 </ul>
+</div>
 </details>
-
-<details>
-<summary><h4>Feedback Assistant Mathematics</h4></summary>
+<details class="isomer-details">
+<summary>Feedback Assistant Mathematics</summary>
+<div data-type="detailsContent" class="isomer-details-content">
 <h5>Feedback Assistant - Mathematics</h5>
 <p>FA-Math is a rules-based engine that offers step-by-step hints and feedback
 to students’ workings, and suggested marks. It can generate randomised
@@ -376,7 +411,9 @@ questions and support many question types including for geometry and graphs.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/AI in Education/icon_marking.png">
+</div>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Provides line-by-line hints and feedback</strong>
@@ -433,18 +470,17 @@ and e-Poster:</p>
 </p>
 </li>
 </ul>
+</div>
 </details>
-
-<details>
-	<summary><h4>Short Answer Feedback Assistant</h4></summary>
+<details class="isomer-details">
+<summary>Short Answer Feedback Assistant</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Short Answer Feedback Assistant (ShortAnsFA) provides suggested marks
-and auto-generated feedback for free-response questions for any subject
-and level.</p>
+<p>Short Answer Feedback Assistant (SAFA) provides suggested marks and auto-generated
+feedback for free-response questions for any subject and level.</p>
 <div class="iframe-wrapper">
 <iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gQcWscdqvOw?si=LKGFYM1A7pd_tNET"></iframe>
 </div>
-<h5>How does ShortAnsFA enhance teaching and learning?</h5>
+<h5>How does SAFA enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -477,7 +513,7 @@ based on the suggested mark scheme, which teachers can edit and build on.</p>
 <p>Can be used for close-ended, short answer questions with well-defined
 mark schemes.</p>
 <p></p>
-<p>*ShortAnsFA should not be used for questions involving mathematical computation
+<p>*SAFA should not be used for questions involving mathematical computation
 as it is unable to provide accurate feedback for mathematical concepts.</p>
 </td>
 </tr>
@@ -515,10 +551,13 @@ to advance learning.</p>
 </ul>
 </div>
 </details>
-
-<details>
-	<summary><h4>Speech Evaluation Tool</h4></summary>
-<p>Speech Evaluation Tool (SET) provides automated feedback on students' spoken responses. Designed to support oral communication skills, SET helps students refine their pronunciation, fluency, and speech clarity through targeted formative feedback.</p>
+<details class="isomer-details">
+<summary>Speech Evaluation Tool</summary>
+<div data-type="detailsContent" class="isomer-details-content">
+<p>Speech Evaluation Tool (SET) provides automated feedback on students'
+spoken responses. Designed to support oral communication skills, SET helps
+students refine their pronunciation, fluency, and speech clarity through
+targeted formative feedback.</p>
 <h5>How does SET enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
 <colgroup>
@@ -535,7 +574,8 @@ to advance learning.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Applicable across different subjects and levels</strong>
 </p>
-<p>Can be used for English Language, Mother Tongue Languages across levels, to help students improve their speech delivery and articulation.</p>
+<p>Can be used for English Language, Mother Tongue Languages across levels,
+to help students improve their speech delivery and articulation.</p>
 </td>
 </tr>
 <tr>
@@ -547,7 +587,9 @@ to advance learning.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Encourages self-directed learning</strong>
 </p>
-<p>Students can record, review, and revise their spoken responses based on auto-generated feedback, allowing them to track improvements and build confidence in speaking.</p>
+<p>Students can record, review, and revise their spoken responses based on
+auto-generated feedback, allowing them to track improvements and build
+confidence in speaking.</p>
 </td>
 </tr>
 <tr>
@@ -559,7 +601,8 @@ to advance learning.</p>
 <td rowspan="1" colspan="1">
 <p><strong>Supports deeper learning in oral communication</strong>
 </p>
-<p>Helps students develop effective speaking skills across various communicative contexts, such as presentations and reading aloud.</p>
+<p>Helps students develop effective speaking skills across various communicative
+contexts, such as presentations and reading aloud.</p>
 </td>
 </tr>
 </tbody>
@@ -580,4 +623,6 @@ to advance learning.</p>
 </p>
 </li>
 </ul>
+</div>
 </details>
+<p></p>
