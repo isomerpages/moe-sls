@@ -8,9 +8,9 @@ image: /images/FaviconLight.png
 ---
 <h1>(D3) About Short Answer Feedback Assistant (Enhanced)</h1>
 <hr>
-<p>The Short Answer Feedback Assistant (ShortAnsFA) provides auto-generated
-content-related feedback and suggested marks for free-response questions
-for any subject and level. It can also be combined with <a href="/student-user-guide/assess/about-annotated-feedback-assistant/" rel="noopener nofollow" target="_blank">Annotated Feedback Assistant</a> to
+<p>The Short Answer Feedback Assistant (SAFA) provides auto-generated content-related
+feedback and suggested marks for free-response questions for any subject
+and level. It can also be combined with <a href="/student-user-guide/assess/about-annotated-feedback-assistant/" rel="noopener nofollow" target="_blank">Annotated Feedback Assistant</a> to
 provide feedback for both language and content related feedback.</p>
 <ol>
 <li>
@@ -21,8 +21,8 @@ provide feedback for both language and content related feedback.</p>
 <br>
 <br><u>Note: </u>
 <br>You can upload PDFs or images as part of your response for assessment
-by ShortAnsFA. You may also upload <strong>Google Files</strong> by clicking
-on ‘<strong>Embed File from Google’</strong>, and selecting your file.</p>
+by SAFA. You may also upload <strong>Google Files</strong> by clicking on
+‘<strong>Embed File from Google’</strong>, and selecting your file.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><strong>Submit Quiz</strong> if you are responding to a quiz;</p>
@@ -71,10 +71,10 @@ on the speech bubble icon on the annotation cards.
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NewAFAQuestionInDrawer.png">
 </div>
 <p><u>Note: </u>
-<br>As ShortAnsFA uses generative AI, its response is probabilistic in nature
-and this results in it being inaccurate at times. You are encouraged to
-reflect on the feedback received and discuss the feedback and marks with
-your teacher if you need further explanation.</p>
+<br>As SAFA uses generative AI, its response is probabilistic in nature and
+this results in it being inaccurate at times. You are encouraged to reflect
+on the feedback received and discuss the feedback and marks with your teacher
+if you need further explanation.</p>
 </li>
 </ol>
 <p></p>
