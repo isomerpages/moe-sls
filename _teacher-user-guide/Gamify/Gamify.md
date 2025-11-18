@@ -35,4 +35,3 @@ variant: markdown
 <li><a target="_blank" href="/teacher-user-guide/gamify/award-xp-game-story-and-achievements-manually/">(C1) Award XP, Game Story &amp; Achievements Manually</a></li>
 </ul>
 </details>
-
