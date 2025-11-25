@@ -42,7 +42,9 @@ Students may view their digital badges on their profile page.</p>
 <p></p>
 <h1>Gamify Your Module with Authoring Copilot</h1>
 <p></p>
+<p></p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/e51KclMHpQw?vq=hd1080"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube-nocookie.com/embed/4FPHybWZUXg"></iframe>
 </div>
+<p></p>
 <p></p>
