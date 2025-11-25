@@ -111,8 +111,8 @@ to decide how many questions to recommend.</p>
 </div>
 </li>
 </ol>
-<p>Note: For "Test Myself", you can select the learning outcomes that are
-one year below your current level of learning (You can select P5 learning
+<p><u>Note</u>: For "Test Myself", you can select the learning outcomes that
+are one year below your current level of learning (You can select P5 learning
 outcomes when you are in P6). You may select up to 50 learning outcomes.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_1student_SS_ALS6.jpg">
