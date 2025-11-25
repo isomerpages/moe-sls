@@ -42,4 +42,7 @@ variant: markdown
 <li><p>Click <a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">here</a> for adding questions in a Quiz.</p>
 </li>
 </ul>
-<p><u>Note:</u> From March 2025 Update, you can also edit certain fields, such as the Suggested Answer and Feedback fields, for a Free-Response Question after the module has been assigned and students have started attempting the question in the Multi-Part Question.</p>
+<p><u>Note:</u> You can also edit certain fields, such as the Suggested Answer and Feedback fields, for a Free-Response Question after the module has been assigned and students have started attempting the question in the Multi-Part Question.</p>
+<ul>
+	<li><p>From Dec 2025 Update: You can continue to edit Multi-Part Response questions even after they have been assigned or attempted by students. This allows you to correct any errors found in the question. The last edited date and time will be displayed if the assignment or resource has been modified after a student’s attempt.</p>
+</li></ul>
