@@ -101,10 +101,9 @@ attempted individually.</p>
 Audio-Response Question. Click <a href="/student-user-guide/assign/attempt-google-attached-files/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 find out how to attempt such Assignments.</p>
 </li>
+
 <li>
-<p>Your teacher might have added a recommended duration time for each Activity
-to give you an idea of how long each Activity is expected supposed to take.
-(NEW)</p>
+<p style="color:red">From Dec 2025 Update: Students can now view the last edited date and time of a question if the assignment or resource has been updated after an attempt.</p>
 <p></p>
 </li>
 </ul>
