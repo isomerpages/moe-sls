@@ -103,7 +103,7 @@ find out how to attempt such Assignments.</p>
 </li>
 
 <li>
-<p style="color:red">From Dec 2025 Update: Students can now view the last edited date and time of a question if the assignment or resource has been updated after an attempt.</p>
+<p>From Dec 2025 Update: Students can now view the last edited date and time of a question if the assignment or resource has been updated after an attempt.</p>
 <p></p>
 </li>
 </ul>
