@@ -183,7 +183,7 @@ Owners in a Class Group.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Added by a teacher who is the Owner of a Class Group</p>
+<p>Default role when added to a class group</p>
 </td>
 </tr>
 <tr>
@@ -226,7 +226,24 @@ can switch students to different Class Groups owned. The system will add
 the Liaison Teacher into the changed Class Group if a student that is not
 from your own school is added.</p>
 </li>
+<li>
+<p>From the Dec 2025 Update, newly added teachers to a Class Group will be
+assigned the Observer role by default, allowing them to view assignments.</p>
+</li>
 </ul>
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p>Click <strong>Share via QR Code</strong> to generate QR code with SLS branding
+for your students to scan and join the class group.</p>
+<p>a. If users cannot join the class group with the QR code, go to the class
+group Admin Tab, click on Edit Details. Under Access Settings, tick Allow
+requests to join with Class Group URL.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR_code_1.png">
+</div>
+</li>
+</ol>
 <h2>Edit a Class Group Details</h2>
 <hr>
 <ol>
@@ -247,6 +264,11 @@ and students to view the Learning Progress of this Class Group.</p>
 </li>
 <li>
 <p>Click <strong>Save</strong> to confirm your changes, followed by <strong>X</strong>.</p>
+<p>Note: From Dec 2025 Update, when adding a teacher to a Class Group, you
+can set an end date for their access. This allows the added teacher to
+remain in the group only for the specified time period. The system will
+automatically remove teachers with a set time limit once the end date is
+reached.</p>
 </li>
 </ol>
 <h2>Create a Community</h2>
@@ -293,16 +315,20 @@ URL.</p>
 <p>Your Community has been successfully created.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/upscalemedia_transformed__1___1_.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CreateCommunities3.png">
 </div>
+<p></p>
 </li>
 <li>
 <p>Click on <strong>Edit Details</strong> to change the Name, Expiry Academic
 Year, brief description of your Class Group, group image, or add teachers.
 You can also create <strong>Subgroups</strong> in a Community.</p>
 </li>
+<li>
+<p>Click <strong>Share via QR Code</strong> to generate QR code with SLS branding
+for staff to quickly scan to join the Community.</p>
+</li>
 </ol>
-<p></p>
 <h2>Archive a Community</h2>
 <p>Communities created in SLS can be archived when they are no longer needed.</p>
 <ol data-tight="true" class="tight">
