@@ -14,15 +14,14 @@ assessment items to ALS content maps and allow these to be recommended
 by ALS for their students, in addition to existing content items developed
 by CPDD.</p>
 <h2>Overview of how to add resources to ALS</h2>
-<hr>
+<h3>Setting up School Student Group</h3>
 <ol>
 <li>
-<p><u>Note</u>:</p>
 <p>Before tagging content to ALS, departments are encouraged to create level/
 school-wide Student Groups to alleviate the need for teachers to upload
 resources individually for each class. To learn how to create level/ school-wide
 Student Groups, click <a href="/teacher-user-guide/organise/create-class-groups/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
-<h2>Add school-based resources to ALS</h2>
+<h3>2a. Creation and tagging of ALS Content (Modules, Section &amp; Activities)</h3>
 <hr>
 <ol data-tight="true" class="tight">
 <li>
@@ -32,11 +31,7 @@ Student Groups, click <a href="/teacher-user-guide/organise/create-class-groups/
 </div>
 </li>
 <li>
-<p>Click on the Setting icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="Setting" src="/images/Icons/setting.svg">
-</div>
-<p>on the Module card.</p>
+<p>Click on the Setting icon on the Module card.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Tag Resources to Adaptive Learning System" src="/images/2Teacher/D_Tag_ALS2.png">
 </div>
@@ -47,22 +42,20 @@ Student Groups, click <a href="/teacher-user-guide/organise/create-class-groups/
 <li>
 <p>Select the Subject and Level. From the Content Map dropdown list, select
 the content map with ‘(ALS)’ indicated. Select the checkboxes with the
-orange Learning Outcome</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="Iearningoutcome" src="/images/Icons/learningoutcome.svg">
-</div>
-<p>next to the intended learning outcomes of the subtopic.
+orange Learning Outcome next to the intended learning outcomes of the subtopic.
 <br><u>Note</u>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Only learning outcomes with the orange Learning Outcome</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="Iearningoutcome" src="/images/Icons/learningoutcome.svg">
-</div>
-<p>are available for recommendation in ALS.</p>
+<p>Only learning outcomes with the orange Learning Outcome are available
+for recommendation in ALS.</p>
 </li>
 <li>
 <p>Select the learning outcomes which correspond to the subtopic.</p>
+</li>
+<li>
+<p>Select only 1 learning outcome for each section. If more than 1 learning
+outcomes are selected, the student may experience the same content being
+recommended across different learning outcomes.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -70,11 +63,7 @@ orange Learning Outcome</p>
 </div>
 </li>
 <li>
-<p>Click the Setting icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="setting" src="/images/Icons/setting.svg">
-</div>
-<p>on the Section card.</p>
+<p>Click the Setting icon on the Section card.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="(E1, v) Tag Resources to Adaptive Learning System" src="/images/2Teacher/D_Tag_ALS5.png">
 </div>
@@ -84,82 +73,10 @@ orange Learning Outcome</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="(E1, v) Tag Resources to Adaptive Learning System" src="/images/2Teacher/D_Tag_ALS6.png">
 </div>
+<p></p>
 </li>
 <li>
-<p>Select the Subject and Level. From the Content Map dropdown list, select
-the content map with ‘(ALS)’ indicated. Select the checkbox with the orange
-Learning Outcome icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="learningoutcome" src="/images/Icons/learningoutcome.svg">
-</div>
-<p>next to 1 intended learning outcome.
-<br><u>Note</u>:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>If there is no content map with ‘(ALS)’ indicated, the selected subject
-and level is currently unavailable on ALS.</p>
-</li>
-<li>
-<p>Only learning outcomes with the orange Learning Outcome icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="learningoutcome" src="/images/Icons/learningoutcome.svg">
-</div>
-<p>are available for recommendation in ALS.</p>
-</li>
-<li>
-<p>Select the learning outcomes which correspond to the subtopic.</p>
-</li>
-</ul>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Tag Resources to Adaptive Learning System" src="/images/2Teacher/D_tagresources.png">
-</div>
-</li>
-<li>
-<p>Click the Setting icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="setting" src="/images/Icons/setting.svg">
-</div>
-<p>on the Section card.</p>
-</li>
-<li>
-<p>Click <strong>Add Section Tag</strong>.</p>
-</li>
-<li>
-<p>Select the Subject and Level. From the Content Map dropdown list, select
-the content map with ‘(ALS)’ indicated. Select the checkbox with the orange
-Learning Outcome icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="learningoutcome" src="/images/Icons/learningoutcome.svg">
-</div>
-<p>&nbsp;next to 1 intended learning outcome.</p>
-</li>
-<li>
-<p><u>Note</u>:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>If there is no content map with ‘(ALS)’ indicated, the selected subject
-and level is currently unavailable on ALS.</p>
-</li>
-<li>
-<p>Only learning outcomes with the orange Learning Outcome icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="learningoutcome" src="/images/Icons/learningoutcome.svg">
-</div>
-<p>are available for recommendation in ALS.</p>
-</li>
-<li>
-<p>Select only 1 learning outcome for each section. If more than 1 learning
-outcomes are selected, the student may experience the same content being
-recommended across different learning outcomes.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Click the <strong>Save</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="learningoutcome" src="/images/Icons/Save.svg">
-</div>
-<p>to proceed.</p>
+<p>Click the <strong>Save</strong> icon to proceed.</p>
 </li>
 <li>
 <p>Create new activities in the Section by clicking <strong>Add New</strong> and
@@ -229,11 +146,11 @@ consolidate and apply their knowledge, and receive feedback.</p>
 <p>Activity 4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ALP: Monitor and Provide Feedback</p>
+<p>Custom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Multiple choice questions, SAFA-enabled free response questions to assess
-students’ mastery level.</p>
+<p>Multiple choice questions, Learning-Feedback Assistances (LFAs) enabled
+free response questions to assess students’ mastery level.</p>
 </td>
 </tr>
 </tbody>
@@ -249,48 +166,45 @@ recommended activities by ALS may not follow a specific sequence.</p>
 </ul>
 </li>
 <li>
-<p>Click the Settings icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="setting" src="/images/Icons/setting.svg">
-</div>
-<p>from the Activity card.</p>
+<p>Click the Settings icon from the Activity card.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Tag Resources to Adaptive Learning System" src="/images/2Teacher/D_Tag_ALS10.png">
 </div>
 </li>
-<li>
+</ol>
+</li>
+</ol>
 <p>Select the appropriate Active Learning Process for each Activity from
-the dropdown list. Click the Save icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="save" src="/images/Icons/Save.svg">
-</div>
-<p>to proceed to populate the content for the Activity.</p>
+the dropdown list. Click the Save icon to proceed to populate the content
+for the Activity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Tag Resources to Adaptive Learning System" src="/images/2Teacher/D_Tag_ALS11.png">
 </div>
-</li>
+<p></p>
+<h3>2b. Creation and tagging of ALS Content (Quiz)</h3>
+<ol data-tight="true" class="tight">
 <li>
 <p>Create a Progressive Quiz in the Section by clicking <strong>Add New</strong> and
 selecting <strong>Quiz</strong>. The default Quiz Mode is Progressive Quiz.</p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Tag Resources to Adaptive Learning System" src="/images/2Teacher/D_Tag_ALS12.png">
 </div>
-</li>
+<ol start="2" data-tight="true" class="tight">
 <li>
 <p>ALS can support a range of question types: Multiple-Choice, Fill-in-the-Blanks,
-Click-and-Drop, Error Editing, Free-Response, and Multi-Part Questions.
-AI-enabled questions, such as FA-Math or SAFA questions can also be added
-to the quiz. Each question should be on a separate page.</p>
+Click-and-Drop, Error Editing and Free-Response questions. LFA-enabled
+questions, such as FA-Math, AFA or SAFA questions can also be added to
+the quiz. Each question should be on a separate page.</p>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Tag Resources to Adaptive Learning System" src="/images/2Teacher/D_Tag_ALS13z.png">
 </div>
-</li>
+<ol data-tight="true" class="tight">
 <li>
-<p>Click the Settings icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="Setting" src="/images/Icons/setting.svg">
-</div>
-<p>on the Question card.</p>
+<p>Click the Settings icon on the Question card.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Tag Resources to Adaptive Learning System" src="/images/2Teacher/D_Tag_ALS14.png">
 </div>
@@ -304,11 +218,8 @@ to the quiz. Each question should be on a separate page.</p>
 <li>
 <p>Select the Subject and Level. From the Content Map dropdown list, select
 the content map with ‘(ALS)’ indicated. Select the Skill Level of the question.
-Select the checkbox with the orange Learning Outcome icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="learningoutcome" src="/images/Icons/learningoutcome.svg">
-</div>
-<p>next to the learning outcome assessed by the question.
+Select the checkbox with the orange Learning Outcome icon next to the learning
+outcome assessed by the question.
 <br><u>Note</u>:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -316,11 +227,8 @@ Select the checkbox with the orange Learning Outcome icon</p>
 question.</p>
 </li>
 <li>
-<p>Ensure that you select only from the orange Learning Outcome icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="learningoutcome" src="/images/Icons/learningoutcome.svg">
-</div>
-<p>, and a maximum of 1 learning outcome for each question.</p>
+<p>Ensure that you select only from the orange Learning Outcome icon, and
+a maximum of 1 learning outcome for each question.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -328,20 +236,14 @@ question.</p>
 </div>
 </li>
 <li>
-<p>Click the Save icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="Save" src="/images/Icons/Save.svg">
-</div>
-<p>and proceed to tag the rest of the questions in the Progressive Quiz.</p>
+<p>Click the Save and proceed to tag the rest of the questions in the Progressive
+Quiz.</p>
 </li>
 <li>
-<p>Click the Done icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="Done" src="/images/Icons/Done.svg">
-</div>
-<p>to save your changes.</p>
+<p>Click the Done icon to save your changes.</p>
 </li>
-<li>
+</ol>
+<h3>3. Add school-based resources to School Student Group</h3>
 <p>To enable ALS to suggest Activities in the Section you have created, navigate
 to the class group where you want the content to be recommended. Click
 the <strong>Resources</strong> tab. Click <strong>Add Resource</strong> and
@@ -349,7 +251,7 @@ select From My Drive.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Tag Resources to Adaptive Learning System" src="/images/2Teacher/D_Tag_ALS19.png">
 </div>
-</li>
+<ol data-tight="true" class="tight">
 <li>
 <p>Select the resource you have created and click <strong>Choose</strong>.</p>
 <div class="isomer-image-wrapper">
@@ -365,17 +267,17 @@ select From My Drive.</p>
 the next step to resume the resource and activities in the resource to
 be recommended by ALS.</p>
 </li>
+<li>
+<p>Students will be able to receive ALS recommendations from all class groups
+that they are in with relevant subjects, regardless of the levels tagged.</p>
+</li>
 </ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Tag Resources to Adaptive Learning System" src="/images/2Teacher/D_Tag_ALS21.png">
 </div>
 </li>
 <li>
-<p>Click to enter the resource. Click the <strong>Resume</strong> button</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="Done" src="/images/Icons/Play.svg">
-</div>
-<p>.</p>
+<p>Click to enter the resource. Click the <strong>Resume</strong> button.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Tag Resources to Adaptive Learning System" src="/images/2Teacher/D_Tag_ALS22.png">
 </div>
@@ -386,8 +288,6 @@ be available for ALS recommendations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="(E1, v) Tag Resources to Adaptive Learning System" src="/images/2Teacher/D_Tag_ALS23.png">
 </div>
-</li>
-</ol>
 </li>
 </ol>
 <p></p>
