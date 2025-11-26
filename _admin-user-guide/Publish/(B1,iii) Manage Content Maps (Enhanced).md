@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="manage-content-maps">(B1,iii) Manage Content Maps (Enhanced)</h1>
-<p>Content Approvers and Content Officers (CAs and COs) will be able to view all Content Maps from here and make edits to Content Maps tagged to their Owner Group.</p>
+<li>Content Approvers and Content Officers (CAs and COs) will be able to view all Content Maps from here and make edits to Content Maps tagged to their Owner Group.<p></p>
 <h2 id="manage-content-maps">Manage Content Maps</h2>
 <hr>
 <ol>
@@ -67,24 +67,24 @@ variant: markdown
 <p>When editing an ALS content map, you can now add prerequisites to multiple learning outcomes.</p>
 	<ol>
 	<li>Click on Learning Outcomes after selecting your ALS content map.</li>
-<p><img src="/images/MCM_add_prerequisite.png"></p>
+<p><img style="width:150 rem; display: inline" src="/images/MCM_add_prerequisite.png"></p>
 	<li>Click on the Edit button beside the topic or subtopic.</li>
-	<p><img src="/images/MCM_add_prerequisite2.png"></p>
+	<p><img style="width:150 rem; display: inline" src="/images/MCM_add_prerequisite2.png"></p>
 	<li>Click on Add Prerequisite.</li>
-	<p><img src="/images/MCM_add_prerequisite3.png"></p>
+	<p><img style="width:150 rem; display: inline" src="/images/MCM_add_prerequisite3.png"></p>
 	<li>Set the same prerequisite(s) for the selected learning outcome(s) or set prerequisite(s) sequentially within selected subtopic(s).</li>
-	<p><img src="/images/MCM_add_prerequisite4.jpg"></p>
+	<p><img style="width:150 rem; display: inline" src="/images/MCM_add_prerequisite4.jpg"></p>
 	<li>Click <strong>ADD</strong> to save.</li>
 	</ol>
 	<h2>Add Level of Learning to Multiple Learning Outcomes (For ALS Content Map)</h2>
 	<p>When editing an ALS content map, you can now add Level of Learning to multiple learning outcomes. Similar to how you add prerequisites to multiple learning outcomes, click on Learning Outcomes after selecting your ALS content map and click on the Edit button beside the topic or subtopic.</p>
 	<ol>
 	<li>Click on Add Level of Learning.</li>
-	<p><img src="/images/MCM_add_LOL1.jpg"></p>
+	<p><img style="width:150 rem; display: inline" src="/images/MCM_add_LOL1.jpg"></p>
 	<li>After selecting your learning outcomes, select your levels of learning.</li>
-	<p><img src="/images/MCM_add_LOL2.png"></p>
+	<p><img style="width:150 rem; display: inline" src="/images/MCM_add_LOL2.png"></p>
 	<li>The levels of learning will appear under the learning outcome after being added.</li>
-	<p><img src="/images/MCM_add_LOL3.png"></p>
+	<p><img style="width:150 rem; display: inline" src="/images/MCM_add_LOL3.png"></p>
 	</ol>
 <h2>Add Error Tags to Content Map (For CAs)</h2>
 <hr>
@@ -107,4 +107,4 @@ variant: markdown
         <p>To delete the Error Tag, click the <strong>Overflow</strong> (<strong>3-dots</strong> icon) and select the <strong>Delete</strong> button.</p>
     </li>
 <img alt="Manage Content Maps" style="width: 80%;" src="/images/5Admin/a_managecontent1.png">
-</ol>
+</ol></li>
