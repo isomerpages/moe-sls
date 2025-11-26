@@ -14,6 +14,10 @@ assessment items to ALS content maps and allow these to be recommended
 by ALS for their students, in addition to existing content items developed
 by CPDD.</p>
 <h2>Overview of how to add resources to ALS</h2>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/images_2Teacher_D_Tag_ALSz.png">
+</div>
 <h3>Setting up School Student Group</h3>
 <ol>
 <li>
@@ -37,7 +41,10 @@ Student Groups, click <a href="/teacher-user-guide/organise/create-class-groups/
 </div>
 </li>
 <li>
-<p>Click <strong>Add Module Tag</strong>.</p>
+<p>Click the dropdown arrow next to <strong>Module Tags</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Module_Tag.png">
+</div>
 </li>
 <li>
 <p>Select the Subject and Level. From the Content Map dropdown list, select
@@ -149,7 +156,7 @@ consolidate and apply their knowledge, and receive feedback.</p>
 <p>Custom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Multiple choice questions, Learning-Feedback Assistances (LFAs) enabled
+<p>Multiple choice questions, Learning-Feedback Assistant10.s (LFAs) enabled
 free response questions to assess students’ mastery level.</p>
 </td>
 </tr>
@@ -171,12 +178,14 @@ recommended activities by ALS may not follow a specific sequence.</p>
 <img style="width: 100%;" height="auto" width="100%" alt="Tag Resources to Adaptive Learning System" src="/images/2Teacher/D_Tag_ALS10.png">
 </div>
 </li>
-</ol>
-</li>
-</ol>
+<li>
 <p>Select the appropriate Active Learning Process for each Activity from
 the dropdown list. Click the Save icon to proceed to populate the content
 for the Activity.</p>
+</li>
+</ol>
+</li>
+</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Tag Resources to Adaptive Learning System" src="/images/2Teacher/D_Tag_ALS11.png">
 </div>
@@ -288,6 +297,7 @@ be available for ALS recommendations.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="(E1, v) Tag Resources to Adaptive Learning System" src="/images/2Teacher/D_Tag_ALS23.png">
 </div>
+<p></p>
 </li>
 </ol>
 <p></p>
