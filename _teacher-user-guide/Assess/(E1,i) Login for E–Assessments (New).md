@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Assess
 ---
-<h2>(E1,i) Login for E-Assessments (New)</h2>
+<h2>(E1,i) Login for E-Assessments</h2>
 <ol data-tight="true" class="tight">
 <li>
 <p>On the main login page, select your preferred login method.</p>
