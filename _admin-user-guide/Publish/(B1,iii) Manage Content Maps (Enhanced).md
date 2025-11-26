@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="manage-content-maps">(B1,iii) Manage Content Maps (Enhanced)</h1>
-<li>Content Approvers and Content Officers (CAs and COs) will be able to view all Content Maps from here and make edits to Content Maps tagged to their Owner Group.<p></p>
+<p>Content Approvers and Content Officers (CAs and COs) will be able to view all Content Maps from here and make edits to Content Maps tagged to their Owner Group.</p>
 <h2 id="manage-content-maps">Manage Content Maps</h2>
 <hr>
 <ol>
@@ -107,4 +107,4 @@ variant: markdown
         <p>To delete the Error Tag, click the <strong>Overflow</strong> (<strong>3-dots</strong> icon) and select the <strong>Delete</strong> button.</p>
     </li>
 <img alt="Manage Content Maps" style="width: 80%;" src="/images/5Admin/a_managecontent1.png">
-</ol></li>
+</ol>
