@@ -15,7 +15,7 @@ such as Home-Based Learning days.</p>
 <p>Teachers and students can access the User Guide or Contact Support through
 the help widget available on all SLS pages (except the login page).</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Contact_SLS_Helpdesk__Enhanced_1.png">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Contact_SLS_Helpdesk__Enhanced_1.png">
 </div>
 <p>You can submit Helpdesk tickets with pre-filled details and attach multiple
 images for clearer support requests.</p>
