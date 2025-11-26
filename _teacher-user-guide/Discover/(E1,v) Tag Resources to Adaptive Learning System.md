@@ -53,7 +53,7 @@ orange Learning Outcome next to the intended learning outcomes of the subtopic.
 <br><u>Note</u>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Only learning outcomes with the orange Learning Outcome are available
+<p>Only learning outcomes with the orange Learning Outcome icon are available
 for recommendation in ALS.</p>
 </li>
 <li>
@@ -66,7 +66,7 @@ recommended across different learning outcomes.</p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="(E1, v) Tag Resources to Adaptive Learning System" src="/images/2Teacher/D_Tag_ALS4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/images2TeacherD_tagresources.png">
 </div>
 </li>
 <li>
