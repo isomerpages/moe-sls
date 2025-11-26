@@ -156,7 +156,7 @@ consolidate and apply their knowledge, and receive feedback.</p>
 <p>Custom</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Multiple choice questions, Learning-Feedback Assistant10.s (LFAs) enabled
+<p>Multiple choice questions, Learning-Feedback Assistants (LFAs) enabled
 free response questions to assess students’ mastery level.</p>
 </td>
 </tr>
