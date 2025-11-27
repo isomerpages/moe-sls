@@ -69,8 +69,6 @@ Section Tags. If you would like to add or edit Section Tags, click the
 dropdown arrow located on the right of the <strong>Section Tag</strong> field
 to select the Subject, Level, and Content Map. Select the checkboxes next
 to Topics and Sub-topics relevant to the Section.</p>
-</li>
-<li>
 <p><u>Note</u>:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -131,11 +129,7 @@ relevant Knowledge Base(s) for different activities in a module, e.g. Reading
 <p>To add PDF or images, click <strong>Add Media</strong>, and <strong>Upload File</strong>.
 To add a Google file, click on <strong>Embed File from Google</strong>,
 and select your file. After uploading your file, click <strong>Save</strong>.</p>
-</li>
-<li>
 <p><u>Note</u>:</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Adding a Knowledge Base will anchor the generation of content by Authoring
 Copilot to information which can be added, e.g. a syllabus document, a
 comprehension passage or an excerpt from MOE’s interactive digital textbooks.
@@ -147,21 +141,21 @@ Non-Sensitive) and copyright laws, using only legally permitted content,
 properly licensed resources, or materials with explicit permissions. You
 may refer to <a href="https://www.learning.moe.edu.sg/terms-of-use/" rel="noopener noreferrer nofollow" target="_blank">this link</a> for
 more details.</p>
-</li>
-<li>
-<p>The Knowledge Base added to the Section would appear as the Knowledge
+<p>
+<br>The Knowledge Base added to the Section would appear as the Knowledge
 Base for activities in the Section. Teachers can enter each activity and
 uncheck the checkbox if they do not wish to use the Knowledge Base for
-that particular activity.</p>
-<ol start="11" data-tight="true" class="tight">
+that particular activity.
+<br>
+</p>
+</li>
 <li>
 <p>Click Create to autogenerate the Activities/Components in the Module.
 Review the Suggested Section/Activity Plan. Click the checkbox next to <strong>Split into pages</strong> (only
 for Activity Plan) if you want the content to be populated across different
-pages. Click <strong>Add</strong> to autogenerate the selected content.</p>
-</li>
-<li>
-<p>You can edit the Section and Activities/ Activities and Components generated
+pages. Click <strong>Add</strong> to autogenerate the selected content.
+<br>
+<br>You can edit the Section and Activities/ Activities and Components generated
 in the Module Editor page, as you would for a normal module.</p>
 </li>
 <li>
@@ -175,11 +169,8 @@ you can regenerate the Section and Activities by clicking the <strong>orange Reg
 will be appended to the end of the existing set of Activities.</p>
 </li>
 <li>
-<p>You can regenerate any component. Click on the <strong>orange Regenerate</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="ACP Regenerate" src="/images/Icons/ACPRegenerate.svg">
-</div>
-<p>on the question card, and it will show the original component. Click the <strong>Up/Down</strong> arrows
+<p>You can regenerate any component. Click on the <strong>orange Regenerate</strong> icon
+on the question card, and it will show the original component. Click the <strong>Up/Down</strong> arrows
 to set the Number of Components and select the Component Types that you
 want to regenerate the original component to. Click <strong>Create.</strong>
 </p>
@@ -204,6 +195,8 @@ immediate feedback.</p>
 <li>
 <p>Authoring Copilot can also generate other various resources in a module
 such as:</p>
+</li>
+</ol>
 <ul data-tight="true" class="tight">
 <li>
 <p>game elements (Refer to <strong>(A1) Manage Gamification Settings (Enhanced)</strong> (insert
@@ -223,13 +216,7 @@ link))</p>
 </p>
 </li>
 </ul>
-</li>
-</ol>
-</li>
-</ul>
 <p>Click <a href="https://go.gov.sg/quick-guide-ai-acp" rel="noopener nofollow" target="_blank">here</a> for
 a Quick Guide to Authoring Copilot.</p>
-</li>
-</ol>
 <p>Click <a rel="noopener noreferrer nofollow" target="_blank">here</a> for
 a Quick Guide to Authoring Copilot.</p>
