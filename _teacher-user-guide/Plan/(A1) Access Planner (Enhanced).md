@@ -51,7 +51,7 @@ variant: markdown
 <li>All Day Events</li>
 </ul></li>
 <li><strong>Events that will not be imported:</strong> 
-<ul><li>Events outside of the date range: 16 Dec 2022 to 15 Dec 2023</li>
+<ul><li>Events outside of the date range of the previous, current and the following year</li>
 <li>Recurring events lasting more than one day</li></ul>
 </li>
 </ol>
