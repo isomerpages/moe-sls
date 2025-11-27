@@ -25,6 +25,8 @@ variant: markdown
     <li>You will be able to Flag/Unflag a Notification, to indicate if they are important, and select Notifications to Mark As Read.</li>
     <li>Unread Notifications are indicated with a yellow circle on the Notification&nbsp;cards&nbsp;and on the&nbsp;<strong>Bell</strong>&nbsp;icon <img style="width:1rem; display: inline;" src="/images/Icons/Bell.svg"> found on the header of the homepage. </li> <img alt="About Notifications" src="/images/1Student/N-New.png">
 			<li>Should you wish to receive SLS Notifications through your email, you will have to enable <a target="_blank" href="/student-user-guide/customise/set-email-notifications/">email notifications</a>.</li>
-	<u>Note</u>: All&nbsp;notifications will expire after 90 days.
-    
-  </ol><p></p>
+	<u>Note</u>:
+<ul>
+<li>All notifications will expire after 90 days.</li>
+<li>You can click on links in email notifications for direct access to the relevant page.</li>
+</ul></ol>
