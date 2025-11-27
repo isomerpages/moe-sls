@@ -20,11 +20,9 @@ attempt on their own as self-study or meet different learner profiles.</p>
 <li>
 <p>Teachers in these groups may share, co-edit and curate the resources with
 each other. The resources may be added from My Drive, Library (MOE Library
-and Community Gallery), and Starred Resources.</p>
-<p></p>
-<p><u>Note</u>: From Mar 2025 Update, teachers can see the name of the teacher
-who is editing the class group resource when they try to resume or edit
-the resource.</p>
+and Community Gallery), and Starred Resources. Teachers can also see the
+name of the teacher who is editing the class group resource when they try
+to resume or edit the resource.</p>
 <p></p>
 </li>
 <li>
@@ -32,6 +30,9 @@ the resource.</p>
 organise and filter the resources.</p>
 </li>
 </ol>
+<p><u>Note:</u> When you delete, unpublish, or pause resources, any related
+notes and annotations that students have added to their notebooks will
+become unavailable to them.</p>
 <h2>Access Class Group Resources</h2>
 <hr>
 <ol>
