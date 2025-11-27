@@ -8,7 +8,7 @@ image: ""
 variant: markdown
 ---
 <h1>What's new in R3 | With links to User Guide</h1>
-<p>This list details the changes users can expect in the upcoming SLS December 2025 Release (Release 3), which will be rolled out on 4 December 2025. Please note that SLS will be unavailable from 2 December 2025 to 4 December 2025 evening to facilitate this update.</p>
+<p>This list details the changes users can expect in the upcoming SLS December 2025 Release (Release 3), which will be rolled out on 4 December 2025. Please note that SLS will be unavailable from Tuesday, 2 December 2025 to Thursday, 4 December 2025 evening to facilitate this update.</p>
 <h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for All Users</h2>
 <ol>
 <li><details><summary><h4 style="margin: 0; display: inline;">Annotation Enhancements</h4></summary>
@@ -26,6 +26,7 @@ variant: markdown
 
 <li><details><summary><h4 style="margin: 0; display: inline;">UI/ UX Enhancements</h4></summary>
 <ol>
+<li>Icons and illustrations on SLS have been refreshed and AI-enabled features can be identified by an orange sparkle.</li>
 <li>Subpages have increased height and width for desktop and tablet, improving content visibility.</li>
 <li>Module tags and content maps are now displayed on module covers.</li>
 <li>Shaded grey boxes framing images and videos have been removed. The frame now only appears when users hover over the image, improving the viewing experience.</li>
@@ -55,10 +56,9 @@ variant: markdown
 <li>Teachers and students can see a green dot on user avatars when users are active on SLS.</li>
 </ol></details></li>
 
-<li><details><summary><h4 style="margin: 0; display: inline;">Helpdesk Support</h4></summary>
+<li><details><summary><h4 style="margin: 0; display: inline;">Help Widget</h4></summary>
 <ol>
-<li>Teachers and students can access the User Guide or Helpdesk via a help widget available on all SLS pages, except the login page.</li>
-<li>Teachers and students can submit Helpdesk tickets with pre-filled details and attach multiple images to provide clearer support requests.</li>
+<li>Teachers and students can access the User Guide via a help widget available on all SLS pages, except the login page.</li>
 </ol></details></li>
 </ol>
 
@@ -141,6 +141,7 @@ variant: markdown
 <ol>
 <li>Owners and co-teachers of groups, as well as SLS School Administrators, can temporarily add a teacher to a group with a set end date. However, an end date cannot be set for owners so that owners will always retain access to their groups.</li>
 <li>When new teachers are added to a group, they will now receive the Observer role by default, giving them immediate viewing access to assignments.</li>
+<li>Owners and co-teachers of groups can hide the list of group members from students for better management of students' privacy.</li>
 </ol></details></li>
 
 <li><details><summary><h4 style="margin: 0; display: inline;">Community Gallery</h4></summary>
@@ -167,7 +168,7 @@ variant: markdown
 <ol>
 <li><details><summary><h4 style="margin: 0; display: inline;">My Notebooks</h4></summary>
 <ol>
-<li>Students can create notebooks to add and organise notes/annotations from assignments. These added notes/annotations can be edited from notebooks directly and edits made will be updated in the original modules, which can be accessed via links on each note/annotation.</li>
+<li>Students can create notebooks to add and organise notes/annotations from assignments and resources. These added notes/annotations can be edited from notebooks directly and edits made will be updated in the original modules, which can be accessed via links on each note/annotation.</li>
 <li>Students can also create their own revision notes inside notebooks using the Rich Text Editor.</li>
 <li>Students can embed Google Drive files, attach files or add audio recordings to notes and notebook covers.</li>
 <li>Students can organise their notes by moving components or pages to specific positions, creating links to specific notebook pages, or adding coloured tabs to pages.</li>
@@ -192,4 +193,30 @@ variant: markdown
 
 <li><details><summary><h4 style="margin: 0; display: inline;">Starred Resources</h4></summary>
 <ol>
-<li>Students can search for starred resources by title on the Starred Resources page.</li></ol></details></li></ol>
+<li>Students can search for starred resources by title on the Starred Resources page.</li>
+</ol></details></li>
+
+<li><details><summary><h4 style="margin: 0; display: inline;">Adaptive Learning System (ALS) Enhancements</h4></summary>
+<ol>
+<li>Students can select a maximum number of 50 learning outcomes for Test Myself mode in ALS.</li>
+<li>Students can receive recommendations drawn from resources (tagged to ALS content maps) in active groups they belong to when they enter ALS.</li>
+</ol></details></li>
+
+<li><details><summary><h4 style="margin: 0; display: inline;">Learning Assistant in Live Chat</h4></summary>
+<ol>
+<li>Students can use @-mention to call on SALiS during Live Chat discussions for assistance.</li>
+</ol></details></li>
+
+<li><details><summary><h4 style="margin: 0; display: inline;">Learning Outcome Display Name</h4></summary>
+<ol>
+<li>Students will see displayed learning outcomes in more student-friendly language if added by Content Approvers and Content Officers (CAs and COs).</li>
+</ol></details></li>
+</ol>
+
+<h2><img src="/images/Icons/Star.svg" style="width:3rem; display: inline;">Features for Administrators</h2>
+<ol>
+<li><details><summary><h4 style="margin: 0; display: inline;">Groups</h4></summary>
+<ol>
+<li>SLS School Administrators can temporarily add a teacher to a group with a set end date. However, an end date can no longer be set for owners so that owners will always retain access to their groups.</li>
+</ol></details></li>
+</ol>
