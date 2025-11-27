@@ -194,6 +194,9 @@ these new components into the activity.
 <br>
 </p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__2_.png">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Use Authoring Copilot to create New Activities &amp; Components" src="/images/2Teacher/AU_ACPComponent18.png">
 </div>
 <p><u>Note</u>: Authoring Copilot can generate Suggested Answers for Free
@@ -201,9 +204,34 @@ Response Questions. You can enable <strong>SAFA </strong>and edit the Suggested
 Answer (if required) and mark allocation in Free-Response questions for
 immediate feedback.</p>
 </li>
+<li>
+<p>Authoring Copilot can also generate other various resources in a module
+such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>game elements (Refer to <strong>(A1) Manage Gamification Settings (Enhanced)</strong> (insert
+link))</p>
+</li>
+<li>
+<p>images (Refer to <strong>Generate Images with Authoring Copilot (New)</strong> (insert
+link))</p>
+</li>
+<li>
+<p>interactives (Refer to <strong>Generate Interactives with Authoring Copilot (New)</strong> (insert
+link))</p>
+</li>
+<li>
+<p>rubrics (Refer to <a href="https://www.learning.moe.edu.sg/teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/" rel="noopener nofollow" target="_blank">(A2,13) Add Rubrics to Audio- and Free-Response Questions (Enhanced)</a>)
+<br>
+</p>
+</li>
+</ul>
+</li>
 </ol>
 </li>
 </ul>
+<p>Click <a href="https://go.gov.sg/quick-guide-ai-acp" rel="noopener nofollow" target="_blank">here</a> for
+a Quick Guide to Authoring Copilot.</p>
 </li>
 </ol>
 <p>Click <a rel="noopener noreferrer nofollow" target="_blank">here</a> for
