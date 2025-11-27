@@ -41,14 +41,17 @@ components within SLS:</p>
 </li>
 </ol>
 <p></p>
-<h2>Generate Images in Text/Media or question body with Authoring Copilot</h2>
 <p>View the video guide below for a step-by-step demonstration on generating
 images using Authoring Copilot.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/2TVTNHXxVwQ?si=OdxPe7j-sMYxHH60"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Sp2pNwyPDv8?si=W7sw9uGsnGDbR_JF"></iframe>
 </div>
 <p></p>
-<p></p>
+<p>View collated samples from the recipes in Authoring Copilot with a similar
+instruction:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adding_a_Knowledge_Base_will_anchor_the_generation_of_content_by_Authoring_Copilot_to_information_which_can_be_added_by_you__e_g__a_syllabus_document__a_comprehension_passage_or_an_excerpt_from_MO__5___1_.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
