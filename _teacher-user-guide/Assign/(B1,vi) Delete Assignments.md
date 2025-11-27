@@ -19,3 +19,5 @@ variant: markdown
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Delete an Assignment" src="https://www.youtube.com/embed/6qUs8EVmDcc" height="100%" width="100%"></iframe>
 </div>
+<p>
+<u>Note</u>: When you delete, unpublish, or pause assignments, any related notes and annotations that students have added to their notebooks will become unavailable to them.</p>
