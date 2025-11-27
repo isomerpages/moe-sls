@@ -106,9 +106,10 @@ variant: markdown
 </ol></li>
 </ol>
 <p><img alt="Create a New Task or Event" style="width: 100%;" src="/images/2Teacher/P_deleteevent2.png"></p>
+
 <h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Create New Events and Attach Resources from Planner" src="https://www.youtube.com/embed/kFcGdlOW-Rw" height="100%" width="100%"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Pause:Resume an Assignment" src="https://www.youtube.com/embed/kFcGdlOW-Rw" height="100%" width="100%"></iframe>
 </div>
 <p>The "Lessons" in My Drive mentioned in the video have been relabelled to "Modules".</p>
