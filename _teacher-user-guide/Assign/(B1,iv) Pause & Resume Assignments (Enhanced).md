@@ -26,6 +26,8 @@ variant: markdown
 <li><p>Click <strong>OK</strong> to proceed or <strong>Cancel</strong> to return to the paused Assignment.</p>
 </li>
 </ol>
+<p><u>Note</u>: When you pause assignments, any related notes and annotations that students have added to their notebooks will become unavailable to them.</p>
+
 <h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
