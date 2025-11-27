@@ -25,7 +25,7 @@ third_nav_title: Author
 <ul>
 <li>Other Information - Location, Question Type, Question Tags, Created by, Last Edited by, Keyword Tags and Used in.</li>
 </ul>
-<p><img alt="Add From Existing Questions" style="width: 50%;" src="/images/2Teacher/AU_AddFromExisting2.png"></p>
+<p><img alt="Add From Existing Questions" style="width: 50%;" src="/images/2Teacher/AU_AddFromExisting2X.png"></p>
 </li>
 <li>When Adding from Library, you can search for Questions using the Search Bar which contains the following filter:
 <ul>
@@ -54,7 +54,7 @@ third_nav_title: Author
 <ol>
 <li>Search for questions by entering keywords from their titles. You can then refine your search results using the "Resource Type" filter.</li>
 <li>Once you have decided on the question(s) to add to your module, tick the box(s) on the Question card(s) then click <strong>Select</strong>.</li>
-<p><img alt="Add From Existing Questions" style="width: 50%;" src="/images/2Teacher/AU_AddFromExisiting4.png"></p>
+<p><img alt="Add From Existing Questions" style="width: 50%;" src="/images/2Teacher/AU_AddFromExisiting4X.png"></p>
 <li>You may also click <strong>Choose</strong> in the Questions Detail subpage.</li>
 <li>For Multi-part Questions, once you have decided on the question part(s) to add, tick the box beside the question in the Question Details subpage then click <strong>Choose</strong>.</li>
 <p><u>Note</u>: Selected questions will be added to the same level. (If you add parts a, bi and cii of the same multi-part question, the three questions will be added at the same level e.g. 1, 2, 3 or a, b, c)</p>
