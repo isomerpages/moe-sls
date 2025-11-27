@@ -33,5 +33,4 @@ teacher has not enabled Assignment Sharing.</p>
 <p>From the Dec 2025 Update, shareable assignments enabled by teachers will
 be automatically shared with peers on your <strong>Study Buddy List</strong> within
 the same <strong>Class Group</strong>. Also, you can also by manage assignment
-sharing by <strong>adding more Study Buddies</strong> [Hyperlink Manage Study
-Buddy List (New)].</p>
+sharing by <a href="https://www.learning.moe.edu.sg/student-user-guide/collaborate/manage-study-buddy-list/" rel="noopener nofollow" target="_blank">adding more Study Buddies</a>.</p>
