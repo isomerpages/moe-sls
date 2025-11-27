@@ -24,16 +24,13 @@ appropriate.</p>
 <ol>
 <li>
 <p>In the Homepage, click the <strong>orange Create</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="create" src="/images/Icons/ACP.svg">
-</div>
 <p>on any activity that you would like to generate.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Use Authoring Copilot to create New Activities &amp; Components" src="/images/2Teacher/AU_ACP_Section2a.png">
 </div>
 <p>You can also access Authoring Copilot in the Module Editor page of the
-Section, and click the orange Create icon (ACP.svg) on the Section card
-to open Authoring Copilot.</p>
+Section, and click the orange Create icon on the Section card to open Authoring
+Copilot.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Use Authoring Copilot to create New Activities &amp; Components" src="/images/2Teacher/AU_ACP_Section1.png">
 </div>
