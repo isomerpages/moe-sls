@@ -50,10 +50,11 @@ variant: markdown
 <p><u>Note</u>: Live Chat is not available when previewing as a student.</p>
 <h2>View Discussion</h2>
 <hr>
-<p>There are two ways you can view and comment on your students' responses in a Discussion:</p>
+<p>There are three ways you can view and comment on your students' responses in a Discussion:</p>
 <ol>
 	<li>From the Discussion page, click <strong>View Class Submission</strong>.
 	</li><li>From the Monitor Assignment page, click <strong>View Responses</strong> under the component in the heatmap.
+	</li><li>Via Data Assistant, where you can filter grouped responses and  <strong>Add Comment</strong>.
 		<p><u>Note:</u> To sort your students' responses, click the dropdown arrow next to <strong>Sort By</strong>.</p></li>
 </ol>
 
