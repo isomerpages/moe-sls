@@ -51,10 +51,10 @@ collections:
       - Authenticate/Forgot SLS Username.md
       - Authenticate/Unsuccessful Password Reset Attempts.md
       - Authenticate/Unlock Account.md
-      - Collaborate/(A1) Manage Study Buddy List (New).md
       - Collaborate/.keep
       - Collaborate/Collaborate.md
       - Collaborate/About Assignment Sharing.md
+      - Collaborate/(A1) Manage Study Buddy List (New).md
       - Collaborate/(A2) Interact in a Shared Assignment.md
       - Collaborate/(B1) Access the Forum.md
       - Collaborate/(B2,1) Post and Respond to a Discussion Topic (Enhanced).md
