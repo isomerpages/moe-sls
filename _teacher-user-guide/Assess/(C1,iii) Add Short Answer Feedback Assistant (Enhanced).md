@@ -76,11 +76,18 @@ how students will receive the feedback from SAFA.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>1. Progressive Quiz
-<br>2. Auto-Graded Quiz
-<br>3. Standalone Question</p>
+<br>2. Standalone Question</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students receive feedback automatically after submitting each question</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Auto-Graded Quiz</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Students receive feedback automatically after submitting the entire quiz</p>
 </td>
 </tr>
 </tbody>
@@ -141,22 +148,59 @@ in multi-assistant configurations.
 </ul>
 </li>
 <li>
-<p>From the Leniency dropdown list, select the intended leniency of the feedback
-and marks provided by SAFA. High leniency would cause feedback generated
-to be more open and diverse, with a looser interpretation of the Suggested
-Answer. The default Leniency is set to <strong>Medium</strong>. Check ‘Allow
-file submission’ if you wish to allow students to&nbsp;submit PDF or images&nbsp;in
-their response&nbsp;(subject to existing file size limits on SLS).</p>
-<p><u>Note:</u> From March 2025, you can provide suggested answers in PDF
-or image format, and students can also submit their responses using PDFs
-or images. This feature is particularly useful for subjects requiring handwritten
-responses, diagrams, or visual work, such as mathematics, science, or geography.
-&nbsp;Enable this option if students’ answers are better represented visually
-rather than through typed responses.</p>
+<p>You can now customise how the Short Answer Feedback Assistant (SAFA) marks
+students’ response and generates feedback by providing <strong>additional details</strong> or
+specific <strong>instructions</strong>.
+<br>
+</p>
+<p>Under <strong>Additional Details</strong>, you may choose one of the suggested <em>recipes</em> below
+or create your own to adjust the marking leniency and style of the feedback.
+<br>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/as_safa4a.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SAFA___Add_Inst.png">
 </div>
+</li>
+</ol>
+<p>Notes:</p>
 <ul data-tight="true" class="tight">
+<li>
+<p>At the end of the prepopulated recipe, you can also enter your own <strong>Instructions to Short Answer Feedback Assistant</strong>,
+such as: <em>“Award only [number] marks if the student does not mention [specific concept] in their response.”</em>
+</p>
+</li>
+<li>
+<p>The previous <em>Leniency</em> dropdown has been removed. You can now adjust
+feedback style and marking using the recipe options or your own written
+instructions.</p>
+</li>
+</ul>
+<ol start="6" data-tight="true" class="tight">
+<li>
+<p>From the Response Size dropdown list, select the response size, or estimated
+length of students’ response. A short response would be approximately 100
+words, a medium response would be 300 words long, and a long response would
+be approximately 500 words. The default Response Size is set to <strong>Medium</strong>.</p>
+<p>
+<br><u>Note:</u> If students need to submit longer responses, consider breaking
+the question into multiple FRQs. For example, you can create two FRQs to
+divide the response or structure it as one FRQ per paragraph to facilitate
+structured and manageable submissions.</p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 80%" height="auto" width="100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_AddShortAnsFA03.png">
+</div>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p>Specify a detailed mark scheme in the <strong>Suggested Answer</strong>.
+You can include PDFs or images here for assessment of students’ responses.</p>
+</li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NewSuggestedAnswerUpload.png">
+</div>
+<ol start="8" data-tight="true" class="tight">
 <li>
 <p>You can provide suggested answers in PDF or image format, and students
 can also submit their responses using PDFs or images. This feature is particularly
@@ -164,78 +208,57 @@ useful for subjects requiring handwritten responses, diagrams, or visual
 work, such as Mathematics, Science, or Geography. Enable this option if
 students’ answers are better represented visually rather than through typed
 responses.</p>
-</li>
-<li>
-<p><strong>Google Files</strong> uploaded by students will also be accepted
+<p>
+<br><strong>Google Files</strong> uploaded by students will also be accepted
 and automatically converted into PDF or image format before evaluation
 by the system. This allows for more flexible student submissions across
-subjects.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>From the Response Size dropdown list, select the response size, or estimated
-length of students’ response. A short response would be approximately 100
-words long, a medium response would be 300 words long, and a long response
-would be 500 words long. The default Response Size is set to <strong>Medium</strong>.</p>
-<p><u>Note:</u> If students need to submit longer responses, consider breaking
-the question into multiple FRQs. For example, you can create two FRQs to
-divide the response or structure it as one FRQ per paragraph to facilitate
-structured and manageable submissions.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%" height="auto" width="100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_AddShortAnsFA03.png">
-</div>
-<p>Specify a detailed mark scheme in the <strong>Suggested Answer</strong>.
-You can include PDFs or images here for assessment of students’ responses.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/NewSuggestedAnswerUpload.png">
-</div>
-<p><u>Note:</u> When using images or PDFs for suggested answers, ensure clarity
+subjects.
+<br>
+<br>Note: When using images or PDFs for suggested answers, ensure clarity
 and readability by using high-quality scans or images with legible text
 or handwriting. Clearly indicate key points through annotations, highlights,
 or labels, and align the marking scheme by providing a text-based breakdown
-of criteria where necessary.</p>
-<p>If multiple answers are acceptable, specify alternatives either within
-the image or as a separate explanation. PDFs can be useful for structured
-responses, such as worked solutions, annotated diagrams, or essay-style
-answers, with clear indications of how each section aligns with the marks
-awarded. Where possible, providing an exemplar response can help guide
-students in understanding expected formatting and content depth.</p>
+of criteria where necessary. If multiple answers are acceptable, specify
+alternatives either within the image or as a separate explanation. PDFs
+can be useful for structured responses, such as worked solutions, annotated
+diagrams, or essay-style answers, with clear indications of how each section
+aligns with the marks awarded. Where possible, providing an exemplar response
+can help guide students in understanding expected formatting and content
+depth.</p>
+</li>
+</ol>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NewPosterForTipsForSAFA.png">
 </div>
 <p>To learn more about writing the Suggested Answer, click on this <a href="/files/Marcomms/Feature%20Highlights/shortansfaposter.pdf" rel="noopener noreferrer nofollow" target="_blank">e-Poster</a>.</p>
+<ol start="9" data-tight="true" class="tight">
+<li>
+<p>To mark more open-ended responses based on rubrics, click <strong>Add Rubric</strong>.
+<br>You can now choose from four options:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Create New</strong> – Create a rubric manually from scratch.</p>
 </li>
 <li>
-<p>Alternatively, to mark more open-ended responses based on rubrics, click <strong>Add Rubrics</strong>.
+<p><strong>From Library</strong> – Select an existing rubric from My Drive,
+Community Gallery or MOE Library.</p>
+</li>
+<li>
+<p><strong>From Starred Resources</strong> – Use a rubric you’ve starred for
+quick access.</p>
+</li>
+<li>
+<p><strong>Generate Rubric</strong> – Use <strong>Authoring Copilot (ACP)</strong> to
+automatically generate a rubric based on your instructions. For more details,
+to please refer to this <a href="https://www.learning.moe.edu.sg/teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/" rel="noopener noreferrer nofollow" target="_blank">page</a> on
+rubrics generation.
+<br>
 <br><u>Note</u>:
 <br>For each question, feedback from SAFA can only be provided using either
 Suggested Answer or Rubrics at a time.</p>
 </li>
-<li>
-<p>Enter the following fields:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Title</p>
-</li>
-<li>
-<p>Band Descriptor</p>
-</li>
-<li>
-<p>Criterion</p>
-</li>
-<li>
-<p>Mark Range</p>
-</li>
 </ul>
-<p><u>Note</u>: A maximum of 6 bands (columns) and 6 criteria (rows) can
-be added in a Rubrics. Click the Overflow (3-dot icon) to Add Band, Add
-Criterion, Delete Band, or Delete Criterion.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 80%" height="auto" width="100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/as_safa7a.png">
-</div>
 </li>
 <li>
 <p>Click outside the Component to save.</p>
@@ -266,10 +289,9 @@ more information on how to return the feedback for Teacher Marked Quiz.</p>
 </li>
 <li>
 <p>You may still review and edit the feedback generated by SAFA (refer to
-Table A and B). Under the <strong>Monitor Assignment</strong> page and
-clicking <strong>Teacher Comments</strong>. You are encouraged to check
-that the feedback and marks are accurate and appropriate; and engage in
-further discussions with your students.</p>
+Table A and B). Under the <strong>Monitor Assignment</strong> page and clicking <strong>Teacher Comments</strong>.
+You are encouraged to check that the feedback and marks are accurate and
+appropriate; and engage in further discussions with your students.</p>
 </li>
 </ol>
 <p>
