@@ -16,11 +16,9 @@ cancelled.</p>
 <p>There are two ways to identify if assignment sharing is enabled:</p>
 <ol>
 <li>
-<p>From the Assignment card, the&nbsp;<strong>Assignment Sharing</strong>&nbsp;icon&nbsp;</p>
-<div class="isomer-image-wrapper">
+<p>From the Assignment card, the&nbsp;<strong>Assignment Sharing</strong>&nbsp;icon
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/SharingEnabled.svg">
-</div>
-<p>&nbsp;is shown next to Lesson.</p>
+ is shown next to Lesson.</p>
 </li>
 <li>
 <p>In the assignment, click the&nbsp;<strong>User Avatar</strong>&nbsp;icon
