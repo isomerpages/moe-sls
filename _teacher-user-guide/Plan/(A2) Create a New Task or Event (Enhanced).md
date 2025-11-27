@@ -6,9 +6,9 @@ third_nav_title: Plan
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A2) Create a New Task or Event (Enhanced)</h1><hr>
+<h1 id="create-a-new-task-or-event">(A2) Create a New Task or Event (Enhanced)</h1><hr>
 <p>Class Events improve the way teachers use SLS for in-class lessons by allowing them to attach SLS resources and assignments to events in the Planner. This will help students quickly access their learning materials and easily toggle between SLS and physical resources in class.</p>
-<h2>Create a New Task</h2>
+<h2 id="create-a-new-task">Create a New Task</h2>
 <hr>
 <ol>
 <li>There are three ways to create a <strong>New Task</strong>, from:
@@ -35,7 +35,7 @@ variant: markdown
 <li>Click <strong>Create</strong> to proceed.</li>
 </ol></li>
 </ol>
-<h2>Update a Task</h2>
+<h2 id="update-a-task">Update a Task</h2>
 <hr>
 <ol>
 <li>On the Planner page, select the Tasks tab, followed by the Ongoing tab to view all your tasks.</li>
@@ -43,20 +43,20 @@ variant: markdown
 <li>To mark a task as complete, select <strong>Mark as Complete</strong>.</li>
 <li>To edit or delete a task, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Edit</strong> or <strong>Delete</strong>. You are not able to retrieve deleted tasks.</li>
 </ol>
-<h2>Creating a New Event</h2>
+<h2 id="creating-a-new-event">Creating a New Event</h2>
 <hr>
 <ol>
 <li>There are three ways to add a <strong>New Event</strong>:
 <ol style="list-style-type: lower-alpha;">
-<li>Click <strong>+ New Event</strong> from the Planner page,</li>
-<li>Click <strong>+ New Event</strong> from the Planner tab within a Class Group,</li>
+<li>Click <strong>Actions</strong> <strong>+ New Event</strong> from the Planner page,</li>
+<li>Click <strong>Actions</strong> <strong>+ New Event</strong> from the Planner tab within a Class Group,</li>
 <li>Scroll to your desired time on the Planner page and click at the time slot to create a new event at that time.</li>
 </ol></li>
-<li>When adding a new event from the Planner page, select which Planner should the new event be created for. You can do so from the <strong>Planner</strong> dropdown list.
+<li>When adding a new event from the Planner page, select which Planner the new event should be created for (includes Personal Planner). You can do so from the <strong>Planner</strong> dropdown list.
 <p><u>Note</u>: When a new event is added from the Planner tab within a Class Group, the new event created will be for the selected Class Group.</p></li>
 <li>On the New Event subpage, fill in the following details:
 <ol style="list-style-type: lower-alpha;">
-<li><strong>Planner</strong> - Click the dropdown list to select which planner you wish to create the New Event for. By default, the Personal Planner will be selected.
+<li><strong>Planner</strong> - Click the dropdown list to select which planner you want to create the New Event in. By default, the Personal Planner will be selected.
 <p>When creating a new event from the Planner tab within a Class Group, the Class Group Planner will be default Planner.</p></li>
 <li><strong>Title</strong> - The event title will be pre-filled for you as "Untitled". Change the Title to one that is concise and relevant.</li>
 <li><strong>Description</strong> - You can include details of the event here.</li>
@@ -67,13 +67,48 @@ variant: markdown
 </ol></li>
 <li>Click <strong>Create</strong> to proceed.</li>
 </ol>
-<img alt="Create a New Task or Event" style="width: 100%;" src="/images/2Teacher/P-NewEvent.png">
+<p><img alt="Create a New Task or Event" style="width: 100%;" src="/images/2Teacher/P-NewEvent.png"></p>
 <ol start="5">
 <li>For a Class Group Event, clicking the <strong>View Planner</strong> icon will redirect you to the Planner tab within the Class Group.</li>
 </ol>
+<h2 id="add-attachments-to-task-or-event">Add Attachments to Task or Event</h2>
+<hr>
+<p>You can attach assignments or resources from My Drive, Library and Starred Resources to a task or event in your Class Group and/or Personal Planner.</p>
+<ol>
+<li>From the <strong>Task</strong> or <strong>Event</strong> subpage, select either the Assignments or Resources dropdown and click <strong>Attach</strong>.
+<ol style="list-style-type: lower-alpha;">
+<li>For Assignments, you can:
+<ol style="list-style-type: lower-roman;">
+<li>Search for assignments based on title, assignment status, and/or Class Group. Click <strong>Apply</strong> to proceed.</li>
+</ol></li>
+<li>For Resources, you can:
+<ol style="list-style-type: lower-roman;">
+<li>Select <strong>From My Drive</strong>, <strong>From Library</strong>, or <strong>From Starred Resources</strong> under Attach Resources.</li>
+</ol></li>
+</ol>
+<p><img alt="Create a New Task or Event" style="width: 100%;" src="/images/2Teacher/P_Attach_resource_s.png"></p>
+</li>
+<li>From the Attach Assignment or Attach Resources subpage, you can select the section or the whole module (without sections) you wish to attach.</li>
+</ol>
+<p><img alt="Create a New Task or Event" style="width: 100%;" src="/images/2Teacher/P_Attachsection_s.png"></p>
+<h2 id="edit-duplicate-or-delete-events">Edit, Duplicate, or Delete Events</h2>
+<hr>
+<ol>
+<li>Click the Event card to view the event details.</li>
+<li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Edit</strong>, <strong>Duplicate Event</strong> or <strong>Delete</strong>.</li>
+</ol>
+<p><img alt="Create a New Task or Event" style="width: 100%;" src="/images/2Teacher/P_deleteevent.png"></p>
+<ol start="3">
+<li>To delete all events, there are 2 ways:
+<ol style="list-style-type: lower-alpha;">
+<li>Click <strong>Actions</strong> <strong>+ Delete All Events</strong> from the Planner page,</li>
+<li>Click <strong>Actions</strong> <strong>+ Delete All Events</strong> from the Planner tab within a Class Group.</li>
+</ol></li>
+</ol>
+<p><img alt="Create a New Task or Event" style="width: 100%;" src="/images/2Teacher/P_deleteevent2.png"></p>
 <h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Create New Events and Attach Resources from Planner" src="https://www.youtube.com/embed/kFcGdlOW-Rw" height="100%" width="100%"></iframe>
 </div>
-<p>The "Lessons" in My Drive mentioned in the video have been relabelled to "Modules".</p>
+<p><u>Note:</u> The "Lessons" in My Drive mentioned in the video have been relabelled to "Modules".</p>
