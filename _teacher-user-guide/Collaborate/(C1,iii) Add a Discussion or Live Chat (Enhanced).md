@@ -28,6 +28,22 @@ variant: markdown
 <li>To edit a Discussion, hover your mouse over the Discussion and click the component, or the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">. </li>
 <li>To delete your Discussion, click the <strong>Delete</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">.</li>
 </ol>
+
+<h2 id="adding-learning-assistant-to-live-chat">Adding Learning Assistant to a Live Chat</h2>
+<hr>
+<p>You can enable Learning Assistant in <strong>Live Chat</strong> to allow students to interact with <strong>SALiS</strong> during real-time discussions.</p>
+
+<p>To enable Learning Assistant in Live Chat:</p>
+<ol>
+  <li>Select <strong>Use Learning Assistant (Beta)</strong> in the Live Chat settings.</li>
+  <li>Click <strong>Learning Assistant Settings</strong> to configure the assistant.</li>
+  <li>Edit the <strong>recipe instructions</strong> and set the <strong>number of interactions</strong> allowed for students.</li>
+  <li>Click <strong>Save</strong> to apply the settings.</li>
+</ol>
+
+<p>Students can call on Learning Assistant during Live Chat by typing <strong>@SALiS</strong> followed by their question.</p>
+
+
 <h2 id="-preview-as-student-">Preview as Student</h2>
 <hr>
 <p>When you Preview as Student or assign a Discussion to students, students will be able to create Posts in response to the question.</p>
