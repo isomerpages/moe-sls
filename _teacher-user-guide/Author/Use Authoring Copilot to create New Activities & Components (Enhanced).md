@@ -216,7 +216,5 @@ link))</p>
 </p>
 </li>
 </ul>
-<p>Click <a href="https://go.gov.sg/quick-guide-ai-acp" rel="noopener nofollow" target="_blank">here</a> for
-a Quick Guide to Authoring Copilot.</p>
 <p>Click <a rel="noopener noreferrer nofollow" target="_blank">here</a> for
 a Quick Guide to Authoring Copilot.</p>
