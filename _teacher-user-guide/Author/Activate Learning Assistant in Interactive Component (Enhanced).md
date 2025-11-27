@@ -55,6 +55,14 @@ features in SLS in the following links:</p>
 </tr>
 </tbody>
 </table>
+<p>Learning Assistant is a dialogic chatbot that allows students to interact
+with. Learning Assistant can be used by students 1-to-1 or called on in
+a Live Chat with a group of students using @SALiS.</p>
+<p>This guide is for users who wish to set up 1-to-1 interactions with the
+Learning Assistant. If you wish to set up the Learning Assistant to allow
+students to call on SALiS during a group Live Chat, please visit this
+<a href="https://www.learning.moe.edu.sg/teacher-user-guide/collaborate/add-a-discussion/" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank"><u>link</u>
+</a>.</p>
 <ol>
 <li>
 <p>In an <strong>Activity</strong>, navigate to <strong>Interactive</strong>,
@@ -118,21 +126,8 @@ select your file. After uploading your file, click <strong>Save</strong>.</p>
 <p>Knowledge Base Titles should be entered to organise your Knowledge Bases
 so that you can easily find and append the relevant Knowledge Base(s) for
 different activities in a module, e.g. Reading 1 for Activity 1, Chapter
-2 Notes for Activity 2, etc.</p>
-</li>
-<li>
-<p>Click <strong>Save</strong> to confirm the Learning Assistant settings.</p>
-</li>
-<li>
-<p>Enter the <strong>discussion topic</strong> and <strong>question prompt</strong>,
-then click outside the component to save.</p>
-</li>
-<li>
-<p>To <strong>monitor student interactions</strong>, access the <strong>Discussion</strong> component.
-All student responses will be displayed on a single page for easy review.</p>
-</li>
-</ol>
-<p><u>Note:</u>
+2 Notes for Activity 2, etc.
+<br><u>Note:</u>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -149,4 +144,41 @@ explicit permissions.You may refer to <a href="https://www.learning.moe.edu.sg/t
 further details.</p>
 </li>
 </ul>
+</li>
+<li>
+<p>Click <strong>Save</strong> to confirm the Learning Assistant settings.</p>
+</li>
+<li>
+<p>Enter the <strong>discussion topic</strong> and <strong>question prompt</strong>,
+then click outside the component to save.</p>
+</li>
+</ol>
+<h2>Monitoring Learning Assistant Discussions</h2>
+<ol>
+<li>
+<p>To <strong>monitor student interactions</strong>, access the <strong>Discussion</strong> component
+and click <strong>View All Responses</strong>. All student responses will
+be displayed on a single page for easy review.</p>
+</li>
+<li>
+<p>In the unlikely event of unsafe responses by Learning Assistant, do report
+it to SLS Helpdesk.</p>
+</li>
+</ol>
+<h2>Ending Conversations with Learning Assistant</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>To end all conversations with Learning Assistant, click <strong>Close Learning Assistant 1-to-1. </strong>This
+will end all discussions with Learning Assistant. Please note that this
+action is irreversible.
+<br>
+<br>Note: For Primary 4 to 6 students, it is recommended to use Learning Assistant
+with in-class supervised use. Please close the conversation at the end
+of the lesson.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AU_LEA_3__1_.png">
+</div>
+</li>
+</ol>
 <p></p>
