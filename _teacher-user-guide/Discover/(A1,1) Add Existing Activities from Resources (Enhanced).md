@@ -30,7 +30,7 @@ variant: markdown
 <p><img alt="Add Existing Activities from Resources" style="width: 100%;" src="/images/2Teacher/Create_AddNew_1.png"></p>
 </li>
 <li>Click the <strong>Expand Activity List</strong> icon to open the Full Activity List. Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found to the right of any Activity/Section/Module Cover and click <strong>Add New</strong>.
-<p><img alt="Add Existing Activities from Resources" style="width: 100%;" src="/images/2Teacher/Create_AddNew_2a.png"></p>
+<p><img alt="Add Existing Activities from Resources" style="width: 100%;" src="/images/2Teacher/create_addnew_22.png"></p>
 </li>
 <li>From the Collapsed Activity List, click <strong>+</strong>.
 <p><img alt="Add Existing Activities from Resources" style="width: 100%;" src="/images/2Teacher/Create_AddNew_3.png"></p>
