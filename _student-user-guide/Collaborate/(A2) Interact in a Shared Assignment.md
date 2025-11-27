@@ -25,7 +25,8 @@ the Viewer Avatar icon.</p>
 </li>
 <li>
 <p>If commenting is turned on, you will be able to comment on any Notes or
-Annotations cards in your peer's Assignment and vice versa.</p>
+Annotations cards in your peer's Assignment and vice versa. You can also
+@-mention your study buddy and they will receive notifications.</p>
 </li>
 <li>
 <p>As the owner of your Assignment, you are able to turn commenting on or
