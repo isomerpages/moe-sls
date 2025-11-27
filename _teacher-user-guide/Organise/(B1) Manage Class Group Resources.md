@@ -121,7 +121,23 @@ on the Resource card for the resource you wish to move. Select&nbsp;<strong>Move
 move the resource to another Category, U<strong>ncategorise </strong>the
 resource or&nbsp;<strong>Move Resource</strong>&nbsp;to move the resource
 to another Class Group.</p>
-<p></p>
 </li>
 </ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Move resource" src="/images/2Teacher/ORG_move.png">
+</div>
+<p><u>Note:</u> A <strong>temporary message</strong> will appear when the resource
+has been successfully:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Moved to another category</p>
+</li>
+<li>
+<p>Uncategorised</p>
+</li>
+<li>
+<p>Moved to another Class Group</p>
+</li>
+</ul>
+<p></p>
 <p></p>
