@@ -56,10 +56,8 @@ of the Activities in the Section / Components in the Activities.</p>
 Activity. The number of Activities/ Components can depend on the number
 of Topics or Sub-topics covered in the Section/ Activity, or the duration
 you have to cover the Section/ Activity content.</p>
-</li>
-<li>
-<p><u>Note</u>: A maximum of 20 Activities/ Quizzes can be created in a Section.A
-maximum of 100 components that can be created in an Activity.</p>
+<p><u>Note</u>: A maximum of 20 Activities/ Quizzes can be created in a Section.
+A maximum of 100 components that can be created in an Activity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Use Authoring Copilot to create New Activities &amp; Components" src="/images/2Teacher/ACP_Component11a.png">
 </div>
@@ -192,10 +190,7 @@ want to regenerate the original component to. Click <strong>Create.</strong>
 <li>
 <p>Authoring Copilot will show the original component and the newly regenerated
 component types. Click <strong>Add</strong>. Authoring Copilot will add
-these new components into the activity.</p>
-</li>
-<li>
-<p>
+these new components into the activity.
 <br>
 </p>
 <div class="isomer-image-wrapper">
