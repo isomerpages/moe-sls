@@ -6,9 +6,10 @@ third_nav_title: Assign
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="pause-resume-assignments">(B1,iv) Pause &amp; Resume Assignments (Enhanced) </h1><hr>
+<h1 id="pause-resume-assignments">(B1,iv) Pause &amp; Resume Assignments (Enhanced)</h1><hr>
 <p><strong>Important</strong>: Student answers that have not been saved as draft before an assignment is paused, will not reappear after the assignment has been resumed.</p>
 <p>You may pause and resume an Assignment temporarily if you do not want students to have access to the Assignment.</p>
+<p><u>Note</u>: When you pause assignments, any related notes and annotations that students have added to their notebooks will become unavailable to them.</p>
 <ol>
 <li><p>Click the Assignment card to enter the Assignment and click the <strong>Pause Assignment</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pause.svg">. A blue banner will indicate whether an Assignment is paused.</p>
 	<p><u>Note</u>: Students will not be able to attempt a paused Assignment, and will view that the assignment is paused on the Assignment card or the Assignment Cover. If they are in the process of attempting an assignment when the assignment is paused, they will receive a prompt.</p>
@@ -23,11 +24,34 @@ variant: markdown
 </li>
 <li><p>Click <strong>OK</strong> to proceed or <strong>Cancel</strong> to return to the paused Assignment.</p>
 </li>
+<li><p>You may also add a new Category to your Class Group assignment. This can be used to organise the Assignments for your Class Group.</p>
+</li>
+<li><p>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the Assignment card to:</p>
+<ul>
+<li><a target="_blank" href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/monitor-students-responses-in-an-assignment/">Monitor Assignment</a></li>
+<li>View details of the Assignment</li>
+<li><a target="_blank" href="https://www.learning.moe.edu.sg/teacher-user-guide/assign/manage-assignments/">Manage Assignment</a></li>
+<li>Move the Assignment to another category</li>
+<li>Uncategorise the Assignment</li>
+<li><a target="_blank" href="https://www.learning.moe.edu.sg/teacher-user-guide/assign/move-assignments/">Move the Assignment to another Class Group</a></li>
+</ul>
+<p><img alt="Pause Resume Assignments" style="width: 100%;" src="/images/2Teacher/AS_tempmsg.png"></p>
+<p><u>Note</u>: A temporary message will appear when the Assignment has been successfully:</p>
+<ul>
+<li>Moved to another category</li>
+<li>Uncategorised</li>
+<li>Moved to another Class Group</li>
+</ul>
+</li>
+</ol>
+<h2 id="sort-assignments-in-class-group">Sort Assignments in Class Group</h2>
+<hr>
+<ol>
+<li>You can sort Assignments in Class Groups to find them easily.</li>
+<li>On the Assignment tab in the Class group, select a category from the dropdown menu. Click <strong>Apply</strong>.</li>
 </ol>
 <h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 Pause:Resume an Assignment" src="https://www.youtube.com/embed/2OrwJgg-K6Q" height="100%" width="100%"></iframe>
 </div>
-<p>
-	<u>Note</u>: When you pause assignments, any related notes and annotations that students have added to their notebooks will become unavailable to them.</p>
