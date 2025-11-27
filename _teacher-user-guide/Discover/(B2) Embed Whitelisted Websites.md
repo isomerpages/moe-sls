@@ -111,12 +111,7 @@ https://www.bandlab.com
 https://beinternetawesome.withgoogle.com
 </td>
 </tr>
-<tr><td><strong>Bilibili</strong></td>
-<td>Video Resource Site</td>
-<td>
-https://www.bilibili.com
-</td>
-</tr>
+
 <tr><td><strong>Bingo Baker</strong></td>
 <td>Online Bingo Maker</td>
 <td>
