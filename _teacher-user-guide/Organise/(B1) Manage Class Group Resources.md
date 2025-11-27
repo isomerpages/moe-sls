@@ -116,10 +116,12 @@ to locate the resource.</p>
 </div>
 </li>
 <li>
-<p>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the
-Resource card for the resource you wish to move. Select <strong>Move to Category</strong> to
-move the resource to another Category, or <strong>Move Resource</strong> to
-move the resource to another Class Group.</p>
+<p>Click the&nbsp;<strong>Overflow</strong>&nbsp;(<strong>3-dot</strong>&nbsp;icon)
+on the Resource card for the resource you wish to move. Select&nbsp;<strong>Move to Category</strong>&nbsp;to
+move the resource to another Category, U<strong>ncategorise </strong>the
+resource or&nbsp;<strong>Move Resource</strong>&nbsp;to move the resource
+to another Class Group.</p>
+<p></p>
 </li>
 </ol>
 <p></p>
