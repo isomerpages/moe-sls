@@ -59,39 +59,32 @@ set of <strong>Rubrics</strong>. Click the <strong>Overflow</strong> (<strong>3-
 to <strong>Add Band</strong>, <strong>Add Criterion</strong>, <strong>Delete Band,</strong> or <strong>Delete Criterion</strong>.</p>
 </li>
 <li>
-<p>Enter the following fields:</p>
+Enter the following fields:
 <ul data-tight="true" class="tight">
-<li>
-<p>Title</p>
+<li>Title
 </li>
 <li>
-<p>Band Descriptor</p>
+Band Descriptor
 </li>
 <li>
-<p>Criterion</p>
+Criterion
 </li>
-<li>
-<p>Mark Range</p>
-</li>
-</ul>
+<li>Mark Range
 <p><u>Note</u>: Please see below on how to use the marks of the rubrics for
 the question.</p>
-<ul data-tight="true" class="tight">
+</li><li>
+Band Description
+<p><u>Note</u>:</p>
+<ul>
 <li>
-<p>Band Description</p>
+You may enter descriptions in the form of text, mathematical formulae,
+chemical formulae, and media.
+</li>
+<li>
+From June 2025 Update, teachers can edit the band descriptions after students
+have submitted their responses.<p></p>
 </li>
 </ul>
-<p><u>Note</u>:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>You may enter descriptions in the form of text, mathematical formulae,
-chemical formulae, and media.</p>
-</li>
-<li>
-<p>From June 2025 Update, teachers can edit the band descriptions after students
-have submitted their responses.</p>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="Add Rubrics to Audio- and Free-Response Questions" src="/images/2Teacher/AU-AddRubrics1.png">
 </div>
@@ -100,11 +93,11 @@ have submitted their responses.</p>
 <p>Click outside the Component to save.</p>
 </li>
 <li>
-<p>To add rubric notes, click on the <strong>Drawer Settings</strong> icon
-followed by the <strong>Settings</strong> icon on the rubrics cards.</p>
+To add rubric notes, click on the <strong>Drawer Settings</strong> icon
+followed by the <strong>Settings</strong> icon on the rubrics cards.
 <p><u>Note</u>: Teachers can also add keywords tags and subject/level/content
-map tags.</p>
-</li>
+	map tags.</p></li><p></p>
+
 <li>
 <p>When rubrics are added to a quiz, teacher can select questions to be associated
 with the rubrics.</p>
@@ -112,7 +105,7 @@ with the rubrics.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Hide_rubrics.jpg">
 </div>
 </li>
-</ol>
+</ul></li></ol>
 <p></p>
 <h4><strong>Generate Using Authoring Copilot (ACP)</strong></h4>
 <ol data-tight="true" class="tight">
@@ -138,13 +131,13 @@ guidance such as:</p>
 and attach it to the question.</p>
 <p>You can review and modify <strong>criteria</strong>, <strong>band descriptors</strong>,
 and <strong>mark ranges</strong> as needed.</p>
-<p><u>Note</u>:</p>
-<ul data-tight="true" class="tight">
+<p><u>Note</u>:
+</p><ul data-tight="true" class="tight">
 <li>
-<p>Rubrics generated via ACP can be adjusted after creation.</p>
+Rubrics generated via ACP can be adjusted after creation.<p></p>
 </li>
 <li>
-<p>Teachers can refine or overwrite the generated rubric anytime before saving.</p>
+Teachers can refine or overwrite the generated rubric anytime before saving.<p></p>
 </li>
 </ul>
 </li>
