@@ -19,11 +19,10 @@ to find the Module using filters and relevant search terms.</p>
 <hr>
 <ol>
 <li>
-<p>Click the&nbsp;<strong>Pencil</strong> icon</p>
-<div class="isomer-image-wrapper">
+<p>Click the&nbsp;<strong>Pencil</strong> icon 
+
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pencil.svg">
-</div>
-<p>&nbsp;found at the top right of the header to enter the Module Editor
+ found at the top right of the header to enter the Module Editor
 page.</p>
 </li>
 <li>
@@ -67,11 +66,10 @@ Outcomes.</p>
 </div>
 </li>
 <li>
-<p>Click the <strong>Save</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Save.svg">
-</div>
-<p>to proceed.</p>
+<p>Click the <strong>Save</strong> icon
+
+<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Save.svg"> 
+to proceed.</p>
 <p></p>
 </li>
 </ol>
