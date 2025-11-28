@@ -34,8 +34,8 @@ By default, teachers will be reminded to enable sharing for assignment once it i
 </li>
 <li><p><strong>Activity Assignment</strong> - change the accessibility to Activities and <a target="_blank" href="/teacher-user-guide/collaborate/create-teams/">manage Teams</a>. Students will not be able to access the activity if the Student Access toggle is switched off.</p>
 </li>
-<li><p><strong>Gamification Settings (Only for Modules with Gamification toggled on)</strong> - Allow students to view individual or team leaderboards in a gamified Module by selecting the checkbox beside the respective options. You can also edit <a target="_blank" href="/teacher-user-guide/gamify/create-game-teams/">Game Teams</a></p>
-<p><u>Note</u>: Students below the 50th percentile will be hidden on the Student Leaderboard.</p>
+<li><p><strong>Gamification Settings (Only for Modules with Gamification toggled on)</strong> - Allow students to view individual or team leaderboards in a gamified Module by selecting the checkbox beside the respective options. You can also edit <a target="_blank" href="/teacher-user-guide/gamify/create-game-teams/">Game Teams</a>
+</p><p><u>Note</u>: Students below the 50th percentile will be hidden on the Student Leaderboard.</p><p></p>
 </li>
 <li><p><strong>Others</strong>:</p>
 <ul>
