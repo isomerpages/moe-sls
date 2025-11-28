@@ -16,23 +16,16 @@ File Submission questions) to students.</p>
 <ol>
 <li>
 <p>After a student submits a Teacher-Marked Quiz, it will be indicated with
-the <strong>To Be Marked</strong> tag
-</p><div class="isomer-image-wrapper">
-<img style="width:2rem; display: inline;" height="auto" width="100%" src="/images/Icons/TobeMarked.png"></div>in the Heatmap.<p></p>
+the <strong>To Be Marked</strong> tag 
+<img style="width:2rem; display: inline;" height="auto" width="100%" src="/images/Icons/TobeMarked.png"> in the Heatmap.</p>
 </li>
 <li>
 <p>The <strong>Pen</strong> icon
-</p><div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pen.svg">
-</div>
-will also appear in the following places to indicate marking is needed:<p></p>
+will also appear in the following places to indicate marking is needed:</p>
 <ul>
-<li>
-<p>Assignment card on homepage</p>
-</li>
-<li>
-<p>Assignment page</p>
-</li>
+<li> Assignment card on homepage </li>
+<li>Assignment page</li>
 <li>
 <p>Monitor Assignment page</p>
 <div class="isomer-image-wrapper">
@@ -76,10 +69,9 @@ the following questions:</p>
 </div>
 </li>
 <li>
-<p>Enter the marks for each question and and click the <strong>Save</strong> icon.
-</p><div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Save24.svg"></div><p></p>
-<p><u>Note</u>: You can also award half marks for Free-/Audio Response Questions.</p>
+<p>Enter the marks for each question and and click the <strong>Save</strong> icon
+<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Save24.svg">.
+</p><div><u>Note</u>: You can also award half marks for Free-/Audio Response Questions.</div><p></p>
 </li>
 <li>
 <p>You can also give feedback under the Feedback tab.</p>
