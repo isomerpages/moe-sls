@@ -27,7 +27,7 @@ variant: markdown
 </p><ul>
 <li>
 Change Assignment Start and Due Date/Time. You can choose to send students a notification when the Assignment has started by selecting the checkbox beside <strong>Notify students assigned when assignment starts</strong>.<p></p></li>
-<p><u>Note</u>: You can change the Start and Due Dates of individual Sections within a Module if the Assignment has not started.</p>
+<u>Note</u>: You can change the Start and Due Dates of individual Sections within a Module if the Assignment has not started.
 <li>
 By default, teachers will be reminded to enable sharing for assignment once it is due. To turn it off, you may uncheck the box <strong>Remind me to enable sharing for this assignment once it is due</strong>.</li>
 </ul>
