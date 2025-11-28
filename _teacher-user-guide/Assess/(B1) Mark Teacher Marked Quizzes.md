@@ -78,12 +78,11 @@ the following questions:</p>
 </div>
 </li>
 <li>
-<p>Enter the marks for each question and and click the <strong>Save</strong> icon.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Icons/Save.svg">
-</div>
+<p>Enter the marks for each question and and click the <strong>Save</strong> icon.
+</p><div class="isomer-image-wrapper">
+<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Save24.svg"><p></p>
 <p><u>Note</u>: You can also award half marks for Free-/Audio Response Questions.</p>
-</li>
+</div></li>
 <li>
 <p>You can also give feedback under the Feedback tab.</p>
 <ul data-tight="true" class="tight">
