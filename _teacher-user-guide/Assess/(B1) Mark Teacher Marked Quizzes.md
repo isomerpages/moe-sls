@@ -21,11 +21,11 @@ the <strong>To Be Marked</strong> tag
 <img style="width:2rem; display: inline;" height="auto" width="100%" src="/images/Icons/TobeMarked.png"></div>in the Heatmap.<p></p>
 </li>
 <li>
-<p>The <strong>Pen</strong> icon</p>
-<div class="isomer-image-wrapper">
+<p>The <strong>Pen</strong> icon
+</p><div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pen.svg">
 </div>
-<p>will also appear in the following places to indicate marking is needed:</p>
+will also appear in the following places to indicate marking is needed:<p></p>
 <ul>
 <li>
 <p>Assignment card on homepage</p>
