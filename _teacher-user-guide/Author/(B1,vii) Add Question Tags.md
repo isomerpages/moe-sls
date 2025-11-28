@@ -25,19 +25,15 @@ Learning Progress.</p>
 <hr>
 <ol>
 <li>
-<p>Click the&nbsp;<strong>Pencil</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pencil.svg">
-</div>
-<p>&nbsp;found at the top right of the header to enter the Module Editor
+<p>Click the&nbsp;<strong>Pencil</strong> icon 
+
+ <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pencil.svg">
+found at the top right of the header to enter the Module Editor
 page.</p>
 </li>
 <li>
-<p>To edit the Question Details subpage, click the <strong>Settings</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Settings24.svg">
-</div>
-<p>on the card.</p>
+<p>To edit the Question Details subpage, click the <strong>Settings</strong> icon
+<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Settings24.svg"> on the card.</p>
 </li>
 <li>
 <p>To include the Question in the Learning Progress, select the checkbox
@@ -82,11 +78,8 @@ Outcomes.</p>
 </div>
 </li>
 <li>
-<p>Click the <strong>Save</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Save.svg">
-</div>
-<p>to proceed.</p>
+<p>Click the <strong>Save</strong> icon
+<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Save.svg"> to proceed.</p>
 </li>
 </ol>
 <p></p>
