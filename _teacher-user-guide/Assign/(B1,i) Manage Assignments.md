@@ -20,13 +20,13 @@ variant: markdown
 <p>On the Assignment Summary page, you will see an Assignment card for the selected Class Group(s). Each Class Group's Assignment Settings can be modified by clicking the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> on the Class Group card to access the Assignment Settings subpage.</p>
 <p>You may modify the following in the Assignment Settings subpage:</p>
 <ul>
-<li><p><strong>Students Assigned</strong> - add or remove students by checking or unchecking the boxes next to the students' names. You may select students by Class Group or Subgroup by clicking the dropdown arrow to show the students' names according to their index number.</p>
-	<p><u>Note</u>: Students who appear in more than one assigned Subgroup will only be assigned the Assignment once. However, students who are in more than one of the assigned Class Groups will receive the assigned Module multiple times (i.e. Students will receive the Assignment once for each Class Group assigned).</p>
+<li><p><strong>Students Assigned</strong> - add or remove students by checking or unchecking the boxes next to the students' names. You may select students by Class Group or Subgroup by clicking the dropdown arrow to show the students' names according to their index number.
+</p><p><u>Note</u>: Students who appear in more than one assigned Subgroup will only be assigned the Assignment once. However, students who are in more than one of the assigned Class Groups will receive the assigned Module multiple times (i.e. Students will receive the Assignment once for each Class Group assigned).</p><p></p>
 </li>
 <li><p><strong>Schedule</strong>
 </p><ul>
 <li>
-Change Assignment Start and Due Date/Time. You can choose to send students a notification when the Assignment has started by selecting the checkbox beside <strong>Notify students assigned when assignment starts</strong>.<p></p></li>
+Change Assignment Start and Due Date/Time. You can choose to send students a notification when the Assignment has started by selecting the checkbox beside <strong>Notify students assigned when assignment starts</strong>.</li>
 <u>Note</u>: You can change the Start and Due Dates of individual Sections within a Module if the Assignment has not started.
 <li>
 By default, teachers will be reminded to enable sharing for assignment once it is due. To turn it off, you may uncheck the box <strong>Remind me to enable sharing for this assignment once it is due</strong>.</li>
