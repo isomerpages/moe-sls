@@ -25,6 +25,4 @@ variant: markdown
 <p><img alt="Set Assignments as Assessments" style="width: 50%;" src="/images/2Teacher/As-AssessmentURL.png"></p>
 <u><img style="width:1.5rem; display: inline;" src="/images/Icons/Bulb32.svg"> Did You Know</u>:
 <p>If you do not wish to create an Assessment (which will require the whitelisting of embedded links or apps), you may wish to <a target="_blank" href="/teacher-user-guide/assess/add-and-view-access-codes/">set a Access Code (formerly known as Passcode) to an Assignment</a>. Students will require the Access Code before they can attempt the Assignment.</p>
-<p><u>Supporting Resource</u>:</p>
-<li>This <a href="https://go.gov.sg/checkesba">video</a> shows how you can check the eSBA url.
-</li>
+<p>Note: From Dec 2025 Update, teachers cannot edit an assessment once it has been attempted by students.</p>

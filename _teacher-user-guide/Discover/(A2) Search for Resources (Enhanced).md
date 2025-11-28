@@ -97,11 +97,14 @@ variant: markdown
 </li>
 </ol>
 <img style="width: 100%;" alt="Search for Resources" src="/images/2Teacher/D_Searchresources2.png">
-<ol start="3">
+<ol start="5">
 <li>To view the Module Reviews, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Module card, followed by <strong>See Reviews</strong>. Click <a target="_blank" href="/teacher-user-guide/discover/leave-reviews/">here</a> to learn how to leave a Review.</li>
 <li>To make a copy of the Module, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) found on the top right of the Module card, followed by <strong>Copy To</strong>. Click <a target="_blank" href="/teacher-user-guide/organise/copy-modules-within-my-drive/">here</a> to learn how to copy a resource to My Drive.</li>
+<li> To open the Module, click on the Expand icon next to the Module title.</li> 
 </ol>
-<h2>Video Tutorial</h2>
+<p><u>Note</u>: From the Dec 2025 Update, teachers can access modules for professional learning in MOE Library from their Teacher account, with automatic redirection to the Teacher-Student account when accessed.
+	<img src="/images/Searchresources3.png">
+</p><h2>Video Tutorial</h2>
 <hr>
 <div class="bp-youtube">
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="SLS R19 - Search for Resources" src="https://www.youtube.com/embed/IBlWycX4PBE" height="100%" width="100%"></iframe>

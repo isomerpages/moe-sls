@@ -105,18 +105,19 @@ https://www.baamboozle.com
 https://www.bandlab.com
 </td>
 </tr>
+<tr><td><strong>BBC Bitesize</strong></td>
+<td>Language Resources</td>
+<td>
+https://www.bbc.co.uk/bitesize
+</td>
+</tr>
 <tr><td><strong>BeInternetAwesome</strong></td>
 <td>Resource site</td>
 <td>
 https://beinternetawesome.withgoogle.com
 </td>
 </tr>
-<tr><td><strong>Bilibili</strong></td>
-<td>Video Resource Site</td>
-<td>
-https://www.bilibili.com
-</td>
-</tr>
+
 <tr><td><strong>Bingo Baker</strong></td>
 <td>Online Bingo Maker</td>
 <td>
@@ -126,7 +127,7 @@ https://bingobaker.com
 <tr><td><strong>Biology Simulations</strong></td>
 <td>Online Biology Simulations </td>
 <td>
-https://www.biologysimulations.com <font color="#FBBC04">NEW!</font>
+https://www.biologysimulations.com 
 </td>
 </tr>
 <tr><td><strong>Blooket</strong></td>
@@ -408,6 +409,12 @@ https://www.ezhishi.net
 https://www.playfactile.com
 </td>
 </tr>
+<tr><td><strong>Factorise Table</strong></td>
+<td>Math Tool</td>
+<td>
+https://factorisetable.replit.app/
+</td>
+</tr>
 <tr><td><strong>Falstad</strong></td>
 <td>Simulations</td>
 <td>
@@ -467,6 +474,12 @@ https://gemini.google.com
 <td>Educational Games and Tools</td>
 <td>
 https://www.gimkit.com
+</td>
+</tr>
+<tr><td><strong>Glitch</strong></td>
+<td>Design Thinking Tool</td>
+<td>
+https://www.glitch.sg <font color="#FBBC04">NEW!</font>
 </td>
 </tr>
 <tr><td><strong>Glowscript</strong></td>
@@ -868,6 +881,12 @@ https://playxylo.com
 <td>Math Tools</td>
 <td>
 https://polypad.amplify.com
+</td>
+</tr>
+<tr><td><strong>ProjectKLB </strong></td>
+<td>VR tour of Kampung Lorong Buangkok</td>
+<td>
+https://projectklb.singaporetech.edu.sg/vr
 </td>
 </tr>
 <tr><td><strong>PTable</strong></td>
@@ -1280,6 +1299,12 @@ https://walkthru360.com
 <td>STEM Tools</td>
 <td>
 https://www.walter-fendt.de
+</td>
+</tr>
+<tr><td><strong>Wayground</strong></td>
+<td>Educational Games and Tools</td>
+<td>
+https://wayground.com/
 </td>
 </tr>
 <tr><td><strong>Webex Teams</strong></td>

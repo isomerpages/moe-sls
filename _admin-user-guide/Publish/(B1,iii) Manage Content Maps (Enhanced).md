@@ -35,7 +35,7 @@ variant: markdown
 <li>You may also wish to select the <strong>Subject</strong> and <strong>Level</strong> filter by selecting the relevant fields in the respective dropdown menu.</li>
 <li>Press "Enter" <em></em>to return your search results.</li>
 <li>To add more search filters, click <strong>Filter</strong>. </li>
-	<li>Under <strong>Resource</strong>, select <strong>Content Map</strong>.</li>
+<li>Under <strong>Resource</strong>, select <strong>Content Map</strong>.</li>
 
 <li>Under <strong>Owner Group</strong>, select from:<ul>
 <li><strong>All</strong></li>
@@ -62,6 +62,30 @@ variant: markdown
 <li>Click the <strong>Done</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Done.svg">  to update the Content Map.</li>
 <li>To publish ALS Content Maps, click the <strong>Publish to ALS</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Upload24.svg">.</li>
 <li>To Delete or Make a Copy of the Content Map, open <strong>Overflow</strong> (3 dots icon) in the header and select the respective buttons.</li>
+</ol>
+<h2>Add Prerequisites to multiple learning outcomes (For ALS Content Map)</h2>
+
+<ol>
+<li>When editing an ALS content map, you can now add prerequisites to multiple learning outcomes.</li>
+<li>Click on Learning Outcomes after selecting your ALS content map.</li>
+<p><img style="width:150 rem; display: inline" src="/images/MCM_add_prerequisite.png"></p>
+<li>Click on the Edit button beside the topic or subtopic.</li>
+<p><img style="width:150 rem; display: inline" src="/images/MCM_add_prerequisite2.png"></p>
+<li>Click on Add Prerequisite.</li>
+<p><img style="width:150 rem; display: inline" src="/images/MCM_add_prerequisite3.png"></p>
+<li>Set the same prerequisite(s) for the selected learning outcome(s) or set prerequisite(s) sequentially within selected subtopic(s).</li>
+<p><img style="width:150 rem; display: inline" src="/images/MCM_add_prerequisite4.jpg"></p>
+<li>Click <strong>ADD</strong> to save.</li>
+</ol>
+<h2>Add Level of Learning to Multiple Learning Outcomes (For ALS Content Map)</h2>
+<ol>
+<li>When editing an ALS content map, you can now add Level of Learning to multiple learning outcomes. Similar to how you add prerequisites to multiple learning outcomes, click on Learning Outcomes after selecting your ALS content map and click on the Edit button beside the topic or subtopic.</li>
+<li>Click on Add Level of Learning.</li>
+<p><img style="width:150 rem; display: inline" src="/images/MCM_add_LOL1.jpg"></p>
+<li>After selecting your learning outcomes, select your levels of learning.</li>
+<p><img style="width:150 rem; display: inline" src="/images/MCM_add_LOL2.png"></p>
+<li>The levels of learning will appear under the learning outcome after being added.</li>
+<p><img style="width:150 rem; display: inline" src="/images/MCM_add_LOL3.png"></p>
 </ol>
 <h2>Add Error Tags to Content Map (For CAs)</h2>
 <hr>

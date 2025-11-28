@@ -51,4 +51,5 @@ variant: markdown
 <li><p>Click <a target="_blank" href="/teacher-user-guide/author/edit-detail-cards/">here</a> for editing the Question Component Details card.</p>
 </li>
 <li>Click <a target="_blank" href="/teacher-user-guide/assess/edit-quizzes/">here</a> for adding questions in a Quiz.</li>
+	<li>From Dec 2025 Update: You can continue to edit Fill-in-the-Blank questions even after they have been assigned or attempted by students. This allows you to correct any errors found in the question. The last edited date and time will be displayed if the assignment or resource has been modified after a student’s attempt.</li>
 </ul>

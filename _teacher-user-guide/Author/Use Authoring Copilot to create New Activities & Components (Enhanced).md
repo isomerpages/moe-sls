@@ -24,16 +24,13 @@ appropriate.</p>
 <ol>
 <li>
 <p>In the Homepage, click the <strong>orange Create</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="create" src="/images/Icons/ACP.svg">
-</div>
 <p>on any activity that you would like to generate.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Use Authoring Copilot to create New Activities &amp; Components" src="/images/2Teacher/AU_ACP_Section2a.png">
 </div>
 <p>You can also access Authoring Copilot in the Module Editor page of the
-Section, and click the orange Create icon (ACP.svg) on the Section card
-to open Authoring Copilot.</p>
+Section, and click the orange Create icon on the Section card to open Authoring
+Copilot.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Use Authoring Copilot to create New Activities &amp; Components" src="/images/2Teacher/AU_ACP_Section1.png">
 </div>
@@ -56,10 +53,8 @@ of the Activities in the Section / Components in the Activities.</p>
 Activity. The number of Activities/ Components can depend on the number
 of Topics or Sub-topics covered in the Section/ Activity, or the duration
 you have to cover the Section/ Activity content.</p>
-</li>
-<li>
-<p><u>Note</u>: A maximum of 20 Activities/ Quizzes can be created in a Section.A
-maximum of 100 components that can be created in an Activity.</p>
+<p><u>Note</u>: A maximum of 20 Activities/ Quizzes can be created in a Section.
+A maximum of 100 components that can be created in an Activity.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Use Authoring Copilot to create New Activities &amp; Components" src="/images/2Teacher/ACP_Component11a.png">
 </div>
@@ -74,8 +69,6 @@ Section Tags. If you would like to add or edit Section Tags, click the
 dropdown arrow located on the right of the <strong>Section Tag</strong> field
 to select the Subject, Level, and Content Map. Select the checkboxes next
 to Topics and Sub-topics relevant to the Section.</p>
-</li>
-<li>
 <p><u>Note</u>:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -136,11 +129,7 @@ relevant Knowledge Base(s) for different activities in a module, e.g. Reading
 <p>To add PDF or images, click <strong>Add Media</strong>, and <strong>Upload File</strong>.
 To add a Google file, click on <strong>Embed File from Google</strong>,
 and select your file. After uploading your file, click <strong>Save</strong>.</p>
-</li>
-<li>
 <p><u>Note</u>:</p>
-<ul data-tight="true" class="tight">
-<li>
 <p>Adding a Knowledge Base will anchor the generation of content by Authoring
 Copilot to information which can be added, e.g. a syllabus document, a
 comprehension passage or an excerpt from MOE’s interactive digital textbooks.
@@ -152,21 +141,21 @@ Non-Sensitive) and copyright laws, using only legally permitted content,
 properly licensed resources, or materials with explicit permissions. You
 may refer to <a href="https://www.learning.moe.edu.sg/terms-of-use/" rel="noopener noreferrer nofollow" target="_blank">this link</a> for
 more details.</p>
-</li>
-<li>
-<p>The Knowledge Base added to the Section would appear as the Knowledge
+<p>
+<br>The Knowledge Base added to the Section would appear as the Knowledge
 Base for activities in the Section. Teachers can enter each activity and
 uncheck the checkbox if they do not wish to use the Knowledge Base for
-that particular activity.</p>
-<ol start="11" data-tight="true" class="tight">
+that particular activity.
+<br>
+</p>
+</li>
 <li>
 <p>Click Create to autogenerate the Activities/Components in the Module.
 Review the Suggested Section/Activity Plan. Click the checkbox next to <strong>Split into pages</strong> (only
 for Activity Plan) if you want the content to be populated across different
-pages. Click <strong>Add</strong> to autogenerate the selected content.</p>
-</li>
-<li>
-<p>You can edit the Section and Activities/ Activities and Components generated
+pages. Click <strong>Add</strong> to autogenerate the selected content.
+<br>
+<br>You can edit the Section and Activities/ Activities and Components generated
 in the Module Editor page, as you would for a normal module.</p>
 </li>
 <li>
@@ -180,11 +169,8 @@ you can regenerate the Section and Activities by clicking the <strong>orange Reg
 will be appended to the end of the existing set of Activities.</p>
 </li>
 <li>
-<p>You can regenerate any component. Click on the <strong>orange Regenerate</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" alt="ACP Regenerate" src="/images/Icons/ACPRegenerate.svg">
-</div>
-<p>on the question card, and it will show the original component. Click the <strong>Up/Down</strong> arrows
+<p>You can regenerate any component. Click on the <strong>orange Regenerate</strong> icon
+on the question card, and it will show the original component. Click the <strong>Up/Down</strong> arrows
 to set the Number of Components and select the Component Types that you
 want to regenerate the original component to. Click <strong>Create.</strong>
 </p>
@@ -192,12 +178,12 @@ want to regenerate the original component to. Click <strong>Create.</strong>
 <li>
 <p>Authoring Copilot will show the original component and the newly regenerated
 component types. Click <strong>Add</strong>. Authoring Copilot will add
-these new components into the activity.</p>
-</li>
-<li>
-<p>
+these new components into the activity.
 <br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image__2_.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Use Authoring Copilot to create New Activities &amp; Components" src="/images/2Teacher/AU_ACPComponent18.png">
 </div>
@@ -206,10 +192,29 @@ Response Questions. You can enable <strong>SAFA </strong>and edit the Suggested
 Answer (if required) and mark allocation in Free-Response questions for
 immediate feedback.</p>
 </li>
+<li>
+<p>Authoring Copilot can also generate other various resources in a module
+such as:</p>
+</li>
 </ol>
+<ul data-tight="true" class="tight">
+<li>
+<p>game elements (Refer to <strong>(A1) Manage Gamification Settings (Enhanced)</strong> (insert
+link))</p>
+</li>
+<li>
+<p>images (Refer to <strong>Generate Images with Authoring Copilot (New)</strong> (insert
+link))</p>
+</li>
+<li>
+<p>interactives (Refer to <strong>Generate Interactives with Authoring Copilot (New)</strong> (insert
+link))</p>
+</li>
+<li>
+<p>rubrics (Refer to <a href="https://www.learning.moe.edu.sg/teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/" rel="noopener nofollow" target="_blank">(A2,13) Add Rubrics to Audio- and Free-Response Questions (Enhanced)</a>)
+<br>
+</p>
 </li>
 </ul>
-</li>
-</ol>
 <p>Click <a rel="noopener noreferrer nofollow" target="_blank">here</a> for
 a Quick Guide to Authoring Copilot.</p>

@@ -7,7 +7,7 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1>(A1) Access Planner (Enhanced)</h1><hr>
-<p>From the June 2025 Update, you will be able to view the Planner by Tasks or Calendar.</p><p>Planner allows you to manage your personal learning schedule and timetable. You can create events or import your school timetable/calendar into the Planner and view Assignments which are due soon.</p>
+<p>Planner allows you to manage your personal learning schedule and timetable. You can create events or import your school timetable/calendar into the Planner and view Assignments which are due soon. You may view the Planner by Tasks or Calendar. </p>
 <p><u>Note</u>: Please ensure you have enabled pop-ups before accessing assignments or resources attached to events. You may refer to the <a target="_blank" href="/files/Userguide/Downloadable%20Resources/Enable-Pop-ups-Guide.pdf">Enable Pop-Ups guide</a> on how you can enable pop-ups for your device.</p>
 <h2>Navigating to the Page</h2>
 <hr>
@@ -20,7 +20,7 @@ variant: markdown
 </ol>
 </li>
 <li>When viewing the Planner from the homepage or left menu, you will be able to select the Class Groups you wish to view the events for. From the Planner dropdown list, select the <strong>Class Group(s)</strong> you wish to view the events for. Click <strong>Apply</strong> to proceed. The total number of Class Groups selected is indicated in parenthesis.
-<p><img alt="Access Planner" style="width: 100%;" src="/images/2Teacher/P_teacherplanner.png"></p>
+<p><img alt="Access Planner" style="width: 100%;" src="/images/2Teacher/P_newcal.png"></p>
 <p><u>Note</u>:</p>
 <ul>
     <li>When viewing the Planner from a Class Group, you will only be able to view Class Group Events for that particular Class Group.</li>
@@ -51,7 +51,7 @@ variant: markdown
 <li>All Day Events</li>
 </ul></li>
 <li><strong>Events that will not be imported:</strong> 
-<ul><li>Events outside of the date range: 16 Dec 2022 to 15 Dec 2023</li>
+<ul><li>Events outside of the date range of the previous, current and the following year</li>
 <li>Recurring events lasting more than one day</li></ul>
 </li>
 </ol>

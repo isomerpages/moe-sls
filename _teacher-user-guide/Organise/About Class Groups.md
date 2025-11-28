@@ -54,4 +54,5 @@ variant: markdown
 	</p><li>When you re-enter a Class Group, you will be on the tab that you were last on.</li>
 <li>Class Groups that are past its expiry year, or have been archived by owners can be accessed in the <a target="_blank" href="/teacher-user-guide/organise/view-and-restore-past-class-groups/">Past tab</a>.</li>
 <li>Users can also access their past groups in the Past tab if they have been removed from the Class Groups.</li>
-<li>Class Groups that are older than four years will be automatically archived and can no longer be accessed.</li><p></p>
+<li>Class Groups that are older than four years will be automatically archived and can no longer be accessed.</li>
+<li>Owners and co-teachers of groups can hide the list of group members from students for better management of students’ privacy<p></p></li>

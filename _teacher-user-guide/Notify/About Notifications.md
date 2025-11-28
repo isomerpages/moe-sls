@@ -9,8 +9,6 @@ variant: markdown
 <h1>About Notifications</h1><hr>
 <p>You can view Notifications sorted under <strong>For Me</strong> and <strong>Created By Me</strong> tabs. Under the <strong>For Me</strong> tab, you can further sort your listing by <strong>All, Unread</strong> and <strong>Flagged</strong>. You can also filter your listing using the <strong>Viewing</strong> and <strong>Type</strong> dropdown list.</p>
 <ul>
-<li>Viewing: All, General, Pinned Class Groups (if applicable), My Class Groups, Admin Roles (if applicable)</li>
-<li>Type: All, Announcements (Class Group Announcement, System Announcement), Others (Resource Status, Transcoding, Others, Forum, Assignment, Resource, Module, Media, Reports)</li>
 </ul>
 <ol>
 <li>You will receive Notifications when:
@@ -29,3 +27,4 @@ variant: markdown
 <img alt="About Notifications" style="width: 100%;" src="/images/2Teacher/N-New.png"></li>
 <li>Should you wish to receive SLS Notifications through your email, you will have to <a target="_blank" href="/teacher-user-guide/customise/set-email-notifications/">enable email notifications</a>.</li>
 </ol>
+<p><u>Note</u>: You can click on links in email notifications for direct access to the relevant page.</p>

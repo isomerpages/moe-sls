@@ -2,6 +2,8 @@ collections:
   deleted-pages:
     output: true
     order:
+      - (A1,1) Request to Share Assignment.md
+      - (A1,2) Accept a Share Request.md
       - Frequently Asked Questions.md
       - 2023 Sem 1.md
       - 2023 Sem 2.md
