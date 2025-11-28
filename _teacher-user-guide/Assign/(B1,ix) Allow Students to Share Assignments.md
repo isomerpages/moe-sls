@@ -81,11 +81,10 @@ Click <strong>Save</strong> and <strong>Proceed</strong> to confirm.</p>
 </ul>
 </li>
 <li>
-<p>If sharing access is enabled, the <strong>Assignment Sharing</strong> icon</p>
-<div class="isomer-image-wrapper">
+<p>If sharing access is enabled, the <strong>Assignment Sharing</strong> icon
+
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/SharingEnabled.svg">
-</div>
-<p>will be seen on the Assignment card and on the Assignment Cover page.</p>
+will be seen on the Assignment card and on the Assignment Cover page.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="Allow Students to Share Assignments" src="/images/2Teacher/AS-AllowShare2.png">
 </div>
