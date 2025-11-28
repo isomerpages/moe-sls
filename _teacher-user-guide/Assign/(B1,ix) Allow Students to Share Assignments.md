@@ -38,12 +38,14 @@ Assignment Card and click <strong>Manage</strong>. Alternatively, enter
 the Assignment, click the <strong>Overflow </strong>(<strong>3-dot</strong> icon)
 to open the right menu and select <strong>Manage Assignment Settings</strong>.</p>
 <p><u>Note</u>:</p>
-<p>Sharing Permissions cannot be revoked once set. It is recommended that
+<ul><li><p>Sharing Permissions cannot be revoked once set. It is recommended that
 teachers turn Sharing Permissions on only after all students have attempted
 all questions in the assignment.</p>
 </li>
-<li>
-<p>On the Assignment Settings subpage, select the <strong>Others</strong> tab.</p>
+<li>Teachers will also be automatically notified to enable sharing for an assignment once it is due.</li><ul>
+<li>To configure this setting, select the <strong>Schedule tab</strong> and uncheck the box <strong>Remind me to enable sharing for this assignment once it is due</strong>.</li>
+<li>Teachers can also click on the notification to open the heatmap and review the completion status, before deciding whether to enable sharing by clicking on <strong>Sharings Permissions</strong> and checking the box <strong>Allow students to share this assignment</strong>.</li></ul></ul>
+</li><li><p>On the Assignment Settings subpage, select the <strong>Others</strong> tab.</p>
 <ul>
 <li>
 <p>Sharing Permissions is turned off by default. To allow students to share
