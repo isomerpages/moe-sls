@@ -23,8 +23,14 @@ variant: markdown
 <li><p><strong>Students Assigned</strong> - add or remove students by checking or unchecking the boxes next to the students' names. You may select students by Class Group or Subgroup by clicking the dropdown arrow to show the students' names according to their index number.</p>
 	<p><u>Note</u>: Students who appear in more than one assigned Subgroup will only be assigned the Assignment once. However, students who are in more than one of the assigned Class Groups will receive the assigned Module multiple times (i.e. Students will receive the Assignment once for each Class Group assigned).</p>
 </li>
-<li><p><strong>Schedule</strong> - change Assignment Start and Due Date/Time. You can choose to send students a notification when the Assignment has started by selecting the checkbox beside <strong>Notify students assigned when assignment starts</strong>.</p>
-	<p><u>Note</u>: You can change the Start and Due Dates of individual Sections within a Module if the Assignment has not started.</p>
+<li><p><strong>Schedule</strong>
+</p><ul>
+<li>
+Change Assignment Start and Due Date/Time. You can choose to send students a notification when the Assignment has started by selecting the checkbox beside <strong>Notify students assigned when assignment starts</strong>.<p></p></li>
+<p><u>Note</u>: You can change the Start and Due Dates of individual Sections within a Module if the Assignment has not started.</p>
+<li>
+By default, teachers will be reminded to enable sharing for assignment once it is due. To turn it off, you may uncheck the box <strong>Remind me to enable sharing for this assignment once it is due</strong>.</li>
+</ul>
 </li>
 <li><p><strong>Activity Assignment</strong> - change the accessibility to Activities and <a target="_blank" href="/teacher-user-guide/collaborate/create-teams/">manage Teams</a>. Students will not be able to access the activity if the Student Access toggle is switched off.</p>
 </li>
@@ -37,7 +43,9 @@ variant: markdown
 <p><img alt="Manage Assignments" style="width: 100%;" src="/images/2Teacher/AS-ManageAssignment1.png"></p>
 </li>
 <li><p>Sharing Permissions - Grant permission to students to share their Module by selecting the checkbox beside <a target="_blank" href="/teacher-user-guide/assign/allow-students-to-share-assignments/">Allow students to share Assignments</a>.</p>
+<p><u>Note</u>: Assessments cannot be shared.</p>
 </li>
+
 </ul>
 </li>
 <li><p>If you want to assign an Assignment with a common Assignment Setting to more than one Class Group, click <strong>Common Assignment Settings</strong>. You can set a common Assignment Schedule, Gamification Settings, Assessment Settings, or Permissions.</p>
