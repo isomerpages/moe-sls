@@ -16,11 +16,9 @@ File Submission questions) to students.</p>
 <ol>
 <li>
 <p>After a student submits a Teacher-Marked Quiz, it will be indicated with
-the <strong>To Be Marked</strong> tag</p>
-<div class="isomer-image-wrapper">
-<img style="width:2rem; display: inline;" height="auto" width="100%" src="/images/Icons/TobeMarked.png">
-</div>
-<p>in the Heatmap.</p>
+the <strong>To Be Marked</strong> tag
+</p><div class="isomer-image-wrapper">
+<img style="width:2rem; display: inline;" height="auto" width="100%" src="/images/Icons/TobeMarked.png"></div>in the Heatmap.<p></p>
 </li>
 <li>
 <p>The <strong>Pen</strong> icon</p>
@@ -80,9 +78,9 @@ the following questions:</p>
 <li>
 <p>Enter the marks for each question and and click the <strong>Save</strong> icon.
 </p><div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Save24.svg"><p></p>
+<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Save24.svg"></div><p></p>
 <p><u>Note</u>: You can also award half marks for Free-/Audio Response Questions.</p>
-</div></li>
+</li>
 <li>
 <p>You can also give feedback under the Feedback tab.</p>
 <ul data-tight="true" class="tight">
