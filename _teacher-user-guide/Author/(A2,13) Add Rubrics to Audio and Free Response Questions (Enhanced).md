@@ -45,10 +45,11 @@ a new set of rubrics or generate a first draft using Authoring Copilot.</p>
 </li>
 </ol>
 <h4><strong>Use Existing Rubrics</strong></h4>
+<hr>
 <ol>
 <li>
-<p>From a Free-Response or Audio-Response Question, click <strong>Add Rubrics</strong> dropdown
-list.</p>
+From a Free-Response or Audio-Response Question, click <strong>Add Rubrics</strong> dropdown
+list.
 <p><u>Note</u>: From Dec 2025, teachers can also add rubrics from Library
 or Starred Resources.</p>
 </li>
