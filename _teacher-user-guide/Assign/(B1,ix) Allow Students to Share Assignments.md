@@ -38,21 +38,44 @@ Assignment Card and click <strong>Manage</strong>. Alternatively, enter
 the Assignment, click the <strong>Overflow </strong>(<strong>3-dot</strong> icon)
 to open the right menu and select <strong>Manage Assignment Settings</strong>.</p>
 <p><u>Note</u>:</p>
-<ul><li><p>Sharing Permissions cannot be revoked once set. It is recommended that
+<ul>
+<li>
+<p>Sharing Permissions cannot be revoked once set. It is recommended that
 teachers turn Sharing Permissions on only after all students have attempted
 all questions in the assignment.</p>
 </li>
-<li>Teachers will also be automatically notified to enable sharing for an assignment once it is due.</li><ul>
-<li>To configure this setting, select the <strong>Schedule tab</strong> and uncheck the box <strong>Remind me to enable sharing for this assignment once it is due</strong>.</li>
-<li>Teachers can also click on the notification to open the heatmap and review the completion status, before deciding whether to enable sharing by clicking on <strong>Sharings Permissions</strong> and checking the box <strong>Allow students to share this assignment</strong>.</li></ul></ul>
-</li><li><p>On the Assignment Settings subpage, select the <strong>Others</strong> tab.</p>
+<li>
+<p>Teachers will also be automatically notified to enable sharing for an
+assignment once it is due.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To configure this setting, select the <strong>Schedule tab</strong> and
+uncheck the box <strong>Remind me to enable sharing for this assignment once it is due</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Study_buddy_reminder__1_.png">
+</div>
+</li>
+<li>
+<p>Teachers can also click on the notification to open the heatmap and review
+the completion status, before deciding whether to enable sharing by clicking
+on <strong>Sharing Permissions</strong> and checking the box <strong>Allow students to share this assignment</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Sharing_Permissions__1_.png">
+</div>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>On the Assignment Settings subpage, select the <strong>Others</strong> tab.</p>
 <ul>
 <li>
 <p>Sharing Permissions is turned off by default. To allow students to share
 their Assignments, check the box beside <strong>Allow students to share Assignments</strong>.
 Click <strong>Save</strong> and <strong>Proceed</strong> to confirm.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Allow Students to Share Assignments" src="/images/2Teacher/AS-AllowShare1.png">
+<img style="width: 80%;" height="auto" width="100%" alt="Allow Students to Share Assignments" src="/images/2Teacher/AS-AllowShare1.png">
 </div>
 </li>
 </ul>
@@ -64,7 +87,7 @@ Click <strong>Save</strong> and <strong>Proceed</strong> to confirm.</p>
 </div>
 <p>will be seen on the Assignment card and on the Assignment Cover page.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="Allow Students to Share Assignments" src="/images/2Teacher/AS-AllowShare2.png">
+<img style="width: 50%;" height="auto" width="100%" alt="Allow Students to Share Assignments" src="/images/2Teacher/AS-AllowShare2.png">
 </div>
 </li>
 </ol>
@@ -84,6 +107,10 @@ where the other student might not otherwise be able to view.</p>
 </li>
 <li>
 <p>View and comment on each other's Notes and Annotations (highlight).</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/image__10_.png">
+</div>
 </li>
 <li>
 <p>Viewing student's highlights and notes.</p>
