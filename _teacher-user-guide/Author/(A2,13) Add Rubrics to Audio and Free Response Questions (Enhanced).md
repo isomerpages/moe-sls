@@ -81,7 +81,7 @@ You may enter descriptions in the form of text, mathematical formulae,
 chemical formulae, and media.
 </li>
 <li>
-From June 2025 Update, teachers can edit the band descriptions after students
+Teachers can edit the band descriptions after students
 have submitted their responses.<p></p>
 </li>
 </ul>
