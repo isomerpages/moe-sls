@@ -6,23 +6,7 @@ third_nav_title: Gamify
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="about-gamification-and-leaderboard">About Gamification and Leaderboard</h1><hr>
-<p>Gamification allows game-based elements to be introduced in your Module. The game-based elements include Experience Points (XP) and Levels, Game Stories, and Collectibles. </p>
-<p>You can award students with bonus XP or lesser XP using XP modifiers.</p>
-<p>Through the use of Game Stories, you can also create scenarios such as Escape Room or Mystery Solving based on real world or fantasy settings.</p>
-<h2 id="glossary-of-terms">Glossary of Terms</h2>
-<hr>
-<p><strong>Experience Points (XP)</strong> - XP is awarded to students to measure their progress within the game. XP is converted from marks awarded to them in Assignments/Assessments.</p>
-<p><strong>Levels</strong> - Levels are dependent on the XP collected. When students collect enough XP, they can level up (progress to the next level).</p>
-<p><strong>Game Stories</strong> - Game Stories can be used to drive the narrative of a story and character development as the Module progresses.</p>
-<p><strong>Collectibles</strong> - There are three types of Collectibles:</p>
-<ul><li>Achievement - Achievements can be used to reward your students as the module progresses.</li>
-	<li>Avatar - Avatars can be characters or items awarded to your students. Your students can replace their SLS Avatar within the Module with these avatars.</li>
-		<li>Digital Badges - Digital badges are special badges awarded to students and teachers’ profile for completing self-study modules from MOE Library. Students may view their digital badges on their profile page.</li>
-</ul>
-<p>Did You Know?</p>
-<p>Gamified Modules are indicated with the Gamification icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Game.svg"> on Assignment/Assessment card.</p>
-<p><img alt="About Gamification and Leaderboard" style="width: 50%;" src="/images/2Teacher/G-AboutGamification1.png"></p>
+<h1 id="about-gamification-and-leaderboard">About Leaderboard</h1><hr>
 <h2 id="about-leaderboard">About Leaderboard</h2>
 <hr>
 <p>Gamification Leaderboard is a scoreboard showing the names of students, their individual XP, current Levels and Achievements. It can be accessed from the Monitoring Assignment page, under the Game Experience tab.</p>
