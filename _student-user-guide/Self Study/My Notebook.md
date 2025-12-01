@@ -198,6 +198,27 @@ the changes will be reflected in both.</p>
 </li>
 </ol>
 <p></p>
+<h3>Unavailable Notes or Annotations</h3>
+<p>A placeholder will be displayed when notes or annotations become unavailable
+because you have lost access. This could be due to some of the following
+reasons:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The notes or annotations in the assignment or resource have been deleted
+by the owner.</p>
+</li>
+<li>
+<p>The assignment or resource has been deleted or unpublished.</p>
+</li>
+<li>
+<p>The assignment or resource has been paused by the teacher.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image001__1_.png">
+</div>
+</li>
+</ul>
+<p><strong>Note: </strong>You should check again before removing such notes
+or annotations from your notebook.</p>
 <p></p>
 <p></p>
 <p></p>
