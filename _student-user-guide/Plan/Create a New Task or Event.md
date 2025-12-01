@@ -6,7 +6,7 @@ third_nav_title: Plan
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(A2) Create a New Task or Event (Enhanced)</h1>
+<h1>Create a New Task or Event</h1>
 <hr>
 <h2>Create a New Task</h2>
 <hr>
