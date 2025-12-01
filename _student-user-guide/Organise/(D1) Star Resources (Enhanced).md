@@ -6,13 +6,13 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(D1) Star Resources (Enhanced)</h1>
+<h1>(D1) Starred Resources (Enhanced)</h1>
 <hr>
-<p>You are able to star up to 300 resources. You may star Modules and Apps found in the MOE Library, App Library or My Drive that you want to view or review at a later time.</p>
+<p>You are able to star up to 300 resources. You may star modules and apps found in the MOE Library, App Library or My Drive that you want to view or review at a later time.</p>
 <p>Starred Resources can be found in the left menu, under <strong>Resources</strong>.</p>
 <h2>Starring from Search Results</h2>
 <hr>
-<p>You can star a Module or an App by clicking the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> found on the top right of the Resource Card, followed by the <strong>Add Star</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/AddStar.svg"> found at the top of the subpage.</p>
+<p>You can star a module or an app by clicking the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> found on the top right of the Resource Card, followed by the <strong>Add Star</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/AddStar.svg"> found at the top of the subpage.</p>
 <img alt="Star Resources" style="width: 80%;" src="/images/1Student/O-ResourceSubpage.png">
 <h2>Starring from My Drive folders</h2>
 <hr>
@@ -38,3 +38,12 @@ variant: markdown
 </li>
 </ol>
 <p><u>Note</u>: The Star icon will no longer be lit yellow when you successfully unstar the resource.</p>
+<h2>Search for Starred Resources</h2>
+<hr>
+<p></p><ol><li>Open the left menu on the homepage, click View Menu to select Starred Resources.</li>
+	<p><img alt="Star Resources" style="width: 100%;" src="/images/1Student/Frame_15001.png"></p>
+	<li>You can search for starred resources by title on the Starred Resources page.</li>
+		<p><img alt="Star Resources" style="width: 100%;" src="/images/1Student/Group_2446.png"></p>
+	
+	
+</ol>
