@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Gamify
 ---
-<h1>About Gamification and Leaderboard</h1>
+<h1>About Gamification</h1>
 <hr>
 <p>Gamification allows game-based elements to be introduced in your Module.
 The game-based elements include Experience Points (XP) and Levels, Game
