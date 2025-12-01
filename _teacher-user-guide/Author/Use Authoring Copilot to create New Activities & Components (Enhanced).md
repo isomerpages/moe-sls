@@ -199,19 +199,18 @@ such as:</p>
 </ol>
 <ul data-tight="true" class="tight">
 <li>
-<p>game elements (Refer to <strong>(A1) Manage Gamification Settings (Enhanced)</strong> (insert
-link))</p>
+<p>game elements (Refer to <a href="https://www.learning.moe.edu.sg/gamify-a-module-with-authoring-copilot/" rel="noopener nofollow" target="_blank">Gamify a Module with Authoring Copilot)</a>
+</p>
 </li>
 <li>
-<p>images (Refer to <strong>Generate Images with Authoring Copilot (New)</strong> (insert
-link))</p>
+<p>images (Refer to <a href="https://www.learning.moe.edu.sg/generate-images-with-authoring-copilot/" rel="noopener nofollow" target="_blank">Generate Images with Authoring Copilot</a>)</p>
 </li>
 <li>
-<p>interactives (Refer to <strong>Generate Interactives with Authoring Copilot (New)</strong> (insert
-link))</p>
+<p>interactives (Refer to <a href="https://www.learning.moe.edu.sg/generate-interactives-with-authoring-copilot/" rel="noopener nofollow" target="_blank">Generate Interactives with Authoring Copilot)</a>
+</p>
 </li>
 <li>
-<p>rubrics (Refer to <a href="https://www.learning.moe.edu.sg/teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/" rel="noopener nofollow" target="_blank">(A2,13) Add Rubrics to Audio- and Free-Response Questions (Enhanced)</a>)
+<p>rubrics (Refer to <a href="https://www.learning.moe.edu.sg/teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/" rel="noopener nofollow" target="_blank">Add Rubrics to Audio- and Free-Response Questions (Enhanced)</a>)
 <br>
 </p>
 </li>
