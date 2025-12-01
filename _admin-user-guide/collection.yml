@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Explore SLS Functions.md
-      - Administer/Personalise SLS Homepage.md
       - Administer/.keep
       - Administer/Administer.md
       - Administer/(A1) Activate Teacher Account.md
@@ -19,6 +18,7 @@ collections:
       - Administer/(E1) Manage Subjects (For Schools Not Using School Cockpit).md
       - Administer/(F1) Manage Class Groups.md
       - Administer/(G1) Generate Reports.md
+      - Administer/Personalise SLS Homepage.md
       - Notify/.keep
       - Notify/Notify.md
       - Notify/(A1) Manage School Announcements.md
