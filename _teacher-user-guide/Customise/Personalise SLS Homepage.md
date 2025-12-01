@@ -70,8 +70,7 @@ the main page. Press <strong>Tab</strong> again to move to the next icon.
 </p>
 <p>Video guide:</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4CRqp6vjoSU?si=HGzew1yLePfp5TnT"></iframe>
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/yum64z9PU3s?si=2FZmcoYwdh67Hjd1"></iframe>
 </div>
-<p></p>
 <p></p>
 <p></p>
