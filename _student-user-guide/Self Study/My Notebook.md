@@ -32,23 +32,23 @@ view your notebooks in Card view by clicking on the note card icon.</p>
 <p>Click <strong>Create Category</strong> to organise your notebooks. For each
 category, click the overflow (<strong>3-dot</strong>) icon to move, rename,
 or delete it.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Create_Notebook_1.png">
+</div>
 </li>
 </ul>
 </li>
 </ol>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Create_Notebook_1.png">
-</div>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p>After creating a new notebook, enter the title, upload an image as cover,
 and add a description. Click anywhere outside the component to auto-save.
 To make changes later, click the pencil icon.</p>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Create_Notebook_2.png">
 </div>
+</li>
+</ol>
 <p>Note: After organising your notes, you can create a contents page on the
 notebook cover by inserting links to other notebook pages in the description
 section.</p>
@@ -79,13 +79,13 @@ your pages or spotlight certain pages—for example:</p>
 <p>Pink: Connection between chapters, reflections</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Create_Notebook_3.png">
+</div>
 </li>
 </ul>
 </li>
 </ol>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Create_Notebook_3.png">
-</div>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p>Click <strong>Add Note</strong> to add content to each page. Click the <strong>3-dot</strong> icon
@@ -117,11 +117,11 @@ view the notes.</p>
 </li>
 <li>
 <p>To add the notes to a notebook, click <strong>Add to Notebook</strong>.</p>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Add_notes_to_Notebook_2.png">
 </div>
+</li>
+</ol>
 <ol start="3" data-tight="true" class="tight">
 <li>
 <p>Select the notebook where you want to add the notes. If the notes have
@@ -134,11 +134,11 @@ already been added to a notebook, it will appear under <strong>“Added to”.</
 <li>
 <p>Select the page to add the notes to, then click <strong>Add</strong> to
 confirm.</p>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Add_notes_to_Notebook_4.png">
 </div>
+</li>
+</ol>
 <ol start="5" data-tight="true" class="tight">
 <li>
 <p>A temporary message will appear when the notes have been successfully
