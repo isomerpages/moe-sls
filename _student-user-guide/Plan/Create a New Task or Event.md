@@ -110,7 +110,7 @@ variant: markdown
 </ol>
 <h2>Add Attachments to Task or Event</h2>
 <hr>
-<p>You can attach assignments or resources from My Drive, Library and Starred Resources to a task or event in your Planner.</p>
+<p>You can attach assignments or resources from My Drive, Library and Starred Resources to a task or event in your Class Group and/or Personal Planner.</p>
 <ol>
 <li>From the Task or Event subpage, select either the Assignments or Resources dropdown and click <strong>Attach</strong>.
 <ol style="list-style-type: lower-alpha;">
@@ -128,8 +128,8 @@ variant: markdown
 </li>
 </ol>
 </li>
-<li>From the Attach Assignment or Resources subpage, you can select the section you wish to attach.
-<p><img alt="Create a New Task or Event" style="width: 80%;" src="/images/1Student/P_Attachsection_s.png"></p>
+<li>From the Attach Assignment or Attach Resources subpage, you can select the section or the whole module (without sections) you wish to attach.
+<p><img alt="Create a New Task or Event" style="width: 80%;" src="/images/1Student/Student_Planner_Select_Section.png"></p>
 </li>
 </ol>
 <h2>Detach Attachments from Task or Event</h2>
@@ -138,4 +138,5 @@ variant: markdown
 <li>Click the <strong>Task</strong> or <strong>Event card</strong> to enter the task or event subpage.</li>
 <li>To detach an assignment, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) and select <strong>Detach Task</strong>.</li>
 <li>To detach a resource, click the <strong>Detach</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/DetachEvent.svg"> on the Resource card.</li>
+	<p><img alt="Create a New Task or Event" style="width: 80%;" src="/images/1Student/Student_Planner_detach_Assignment.png"></p>
 </ol>
