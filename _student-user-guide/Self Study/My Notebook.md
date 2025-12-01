@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Self Study
 ---
-<h1>My Notebooks</h1>
+<h1>My Notebooks (New)</h1>
 <h2>About My Notebooks</h2>
 <p>Students can create their own notebooks for note-taking and add notes
 from assignments, consolidating everything in one place. They can also
