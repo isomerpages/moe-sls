@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-3a-comment-in-the-forum">(B3,1) View and Respond in the Forum (Enhanced)</h1><hr>
+<h1 id="-3a-comment-in-the-forum">(B3,1) View and Respond in the Forum</h1><hr>
 <h2 id="view-posts">View Posts</h2>
 <hr>
 <p>You may choose to sort posts by clicking on the dropdown arrow next to <strong>Sort By</strong>.</p>
