@@ -20,7 +20,7 @@ variant: markdown
 <p><img alt="Generate Passcode for Students" style="width: 100%;" src="/images/2Teacher/A_Generate_Temporary_Passcode_3.png"></p>
 </ul>
 </ol>
-<h2 id="-generate-passcode-">Generate Passcode (Enhanced)</h2>
+<h2 id="-generate-passcode-">Generate Passcode</h2>
 <hr>
 <ol>
 <li>On the Manage Student Password / Passcode page, select the checkboxes on the left for the students you want to generate passcode for. </li>
