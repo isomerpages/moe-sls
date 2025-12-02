@@ -6,7 +6,7 @@ third_nav_title: Self Study
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(B1,1) Annotate Text within Activities (Enhanced)</h1>
+<h1>(B1,1) Annotate Text within Activities</h1>
 <hr>
 <h2>Add Annotation to Text within an Activity</h2>
 <hr>
