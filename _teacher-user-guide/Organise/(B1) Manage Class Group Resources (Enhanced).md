@@ -6,7 +6,7 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: tiptap
 ---
-<h1>(B1) Manage Class Group Resources (Enhanced)</h1>
+<h1>(B1) Manage Class Group Resources</h1>
 <hr>
 <h2>About Class Group Resources</h2>
 <hr>
@@ -47,7 +47,7 @@ become unavailable to them.</p>
 <p></p>
 </li>
 </ol>
-<h2>Add Class Group Resources (Enhanced)</h2>
+<h2>Add Class Group Resources</h2>
 <hr>
 <ol>
 <li>
