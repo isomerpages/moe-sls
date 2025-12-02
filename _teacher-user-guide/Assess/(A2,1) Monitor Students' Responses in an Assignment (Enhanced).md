@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: tiptap
 ---
-<h1>(A2,1) Monitor Students' Responses in an Assignment (Enhanced)</h1>
+<h1>(A2,1) Monitor Students' Responses in an Assignment </h1>
 <hr>
 <h2>Monitor an Assignment</h2>
 <hr>
@@ -42,7 +42,7 @@ page via three ways:</p>
 </ul>
 <p>Note: You can click <strong>Refresh</strong> at the top left corner of the
 Monitor Assignment page to view the most up-to-date student submissions.</p>
-<h2>Monitor Assignment page (Enhanced)</h2>
+<h2>Monitor Assignment page</h2>
 <hr>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Monitor Students' Responses in an Assignment" src="/images/2Teacher/As_MonitorStudents.png">
