@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-2-view-quiz-results">(B2) View Quiz Results (Enhanced)</h1><hr>
+<h1 id="-2-view-quiz-results">(B2) View Quiz Results</h1><hr>
 <ol>
 <li>In an assigned Module, navigate to a Quiz by clicking the <strong>Quiz</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Quiz.svg"> in the Activity List. You can also <a target="_blank" href="/student-user-guide/assess/navigate-an-assignment/">access Quizzes</a> from the <strong>Module</strong> <strong>Plan</strong> <img style="width:1.5rem; display: inline;" src="/images/Icons/courseplan32.svg"></li>
 <li><p>On the Quiz Cover, click <strong>View Results</strong>. This will lead you to the Quiz End page.</p>
