@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: tiptap
 ---
-<h1>(B2,1) Post and Respond to a Discussion Topic (Enhanced)</h1>
+<h1>(B2,1) Post and Respond to a Discussion Topic</h1>
 <hr>
 <h2>Create a New Post</h2>
 <hr>
@@ -51,7 +51,7 @@ and <strong>Comment Off</strong>.</p>
 <hr>
 <p>You can view and comment on other responses by clicking&nbsp;<strong>View Class Submissions</strong>.
 To sort the responses, click the dropdown arrow next to <strong>Sort By</strong>.</p>
-<h2>Respond to a Post (Enhanced)</h2>
+<h2>Respond to a Post</h2>
 <hr>
 <p>You may choose to upvote responses by clicking on the Upvote icon on the
 response card.</p>
