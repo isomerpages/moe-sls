@@ -6,9 +6,9 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Assign
 ---
-<h3>(A2) Access Past Assignments (New)</h3>
-<p>Important:&nbsp;From June 2025 Update, teachers and students will be able
-to view past assignments in a separate tab.</p>
+<h3>(A2) Access Past Assignments </h3>
+<p>Important:&nbsp;Teachers and students will be able to view past assignments
+in a separate tab.</p>
 <p>There are multiple ways to access Past Assignments</p>
 <ul data-tight="true" class="tight">
 <li>
