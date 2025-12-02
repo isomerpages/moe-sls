@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Assess
 ---
-<h1>(C1,ii) Add Annotated Feedback Assistant (Enhanced)</h1>
+<h1>(C1,ii) Add Annotated Feedback Assistant</h1>
 <hr>
 <p>The Annotated Feedback Assistant (AFA) provides targeted in-line feedback
 on both content and language through annotation cards, using Suggested
