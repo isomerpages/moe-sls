@@ -13,7 +13,7 @@ variant: markdown
 <p>On the Gamification subpage, select the <strong>Game Stories</strong> tab:</p>
 <ol>
 <li>You may view Game Stories with or without conditions by clicking the <strong>Condition</strong> dropdown list.</li>
-<li>To create a game story, click <strong>Add Game Story</strong>. You will need to enter the following details:
+<li>To create a game story, click <strong>Add</strong>. You may also use Authoring Copilot to Generate Game. Please refer to the link <a target="_blank" href="/teacher-user-guide/gamify/gamify-a-module-with-authoring-copilot/">here</a> to find out how to use ACP to generate game stories and collectibles. For manual creation, you will need to enter the following details:
 <ol style="list-style-type: lower-alpha;">
 <li><strong>Game Story Audio</strong> - Teacher can choose to add audio to all game stories. To add game story audio, click the toggle for Loop Audio. You may use the default audio or upload your own custom audio.
 <p><img alt="Game Stories and Collectibles" style="width: 80%;" src="/images/2Teacher/GAM_GS1.png"></p>
@@ -40,7 +40,7 @@ variant: markdown
 </ol>
 </li>
 </ol>
-<h2>Add a Collectible (New)</h2>
+<h2>Add a Collectible</h2>
 <hr>
 <p>On the Gamification subpage, select the Collectibles tab:</p>
 <ol>
