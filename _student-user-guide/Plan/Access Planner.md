@@ -9,7 +9,7 @@ variant: markdown
 <h1>Access Planner (Enhanced)</h1>
 <hr>
 <p>Planner allows you to manage your personal learning schedule and timetable.</p>
-<p>From June 2025 Update, you will be able to view the Planner by Tasks or Calendar. You can create tasks and events and view assignments which are due soon.</p>
+<p>You can view the Planner by Tasks or Calendar. You can create tasks and events and view assignments which are due soon.</p>
 <h2>Navigating to the Page</h2>
 <hr>
 <ol>
