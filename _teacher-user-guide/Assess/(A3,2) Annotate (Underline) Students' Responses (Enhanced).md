@@ -6,7 +6,7 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1 id="-3b-annotate-underline-students-responses">(A3,2) Annotate (Underline) Students' Responses (Enhanced)</h1><hr>
+<h1 id="-3b-annotate-underline-students-responses">(A3,2) Annotate (Underline) Students' Responses</h1><hr>
 <p>As a teacher, you are able to make annotations (underline) in the Student's view to provide individualised feedback.</p>
 <p><u>Note</u>:</p>
 <ul>
