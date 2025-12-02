@@ -6,7 +6,7 @@ third_nav_title: Plan
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>Access Planner (Enhanced)</h1>
+<h1>Access Planner</h1>
 <hr>
 <p>Planner allows you to manage your personal learning schedule and timetable.</p>
 <p>You can view the Planner by Tasks or Calendar. You can create tasks and events and view assignments which are due soon.</p>
