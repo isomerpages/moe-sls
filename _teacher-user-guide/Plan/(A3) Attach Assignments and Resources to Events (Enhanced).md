@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Plan
 ---
-<h1>(A3) Add Attachments to Tasks or Events (Enhanced)</h1><hr>
+<h1>(A3) Add Attachments to Tasks or Events</h1><hr>
 <p>You can attach Assignments and Resources from My Drive, Library and Starred Resources to an Event in your Planner.</p>
 <h2>Add Attachments to a Task or Event</h2>
 <hr>
