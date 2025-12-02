@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
 ---
-<h1>(D2) About Annotated Feedback Assistant </h1>
+<h1>(D2) About Annotated Feedback Assistant</h1>
 <hr>
 <p>The Annotated Feedback Assistant (AFA) provides targeted in-line feedback
 on both content and language through annotation cards, using suggested
@@ -46,7 +46,7 @@ in mind that AFA and SAFA may have also missed some errors. If the feedback
 provided is inappropriate, you may write in to <a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">SLS Helpdesk</a> to report the issue.</p>
 </li>
 </ol>
-<h3>Check Your Draft for Feedback (New)</h3>
+<h3>Check Your Draft for Feedback </h3>
 <p>If your teacher has enabled it, you will see a <strong>“Check”</strong> button
 after writing your response.</p>
 <div class="isomer-image-wrapper">
@@ -68,7 +68,7 @@ checks left will be shown below your answer.</p>
 </ul>
 <p>Tip: Make edits before clicking “Check” again. Submitting without improving
 your answer may return similar feedback.</p>
-<h3>View Feedback History (New)</h3>
+<h3>View Feedback History</h3>
 <p>If your teacher allows multiple feedback drafts, you can view the feedback
 from earlier drafts as well, even after your teacher unsubmits your response
 for you to revise your answer. This helps you track how your response improves
