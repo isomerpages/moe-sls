@@ -32,7 +32,7 @@ variant: markdown
 	<li>On the Planner page, Events from pinned Class Groups will appear by default.</li>
 </ul></li></ol>
 
-<h2>Request to Join a Class Group (Enhanced)</h2>
+<h2>Request to Join a Class Group</h2>
 <hr>
 <ol>
     <li>Students can send a request to join a Class Group, by accessing the Class Group URL, which has been shared by another teacher or student.
