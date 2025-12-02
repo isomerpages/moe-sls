@@ -13,14 +13,14 @@ variant: markdown
 <p>On the Gamification subpage, select the <strong>Game Stories</strong> tab:</p>
 <ol>
 <li>You may view Game Stories with or without conditions by clicking the <strong>Condition</strong> dropdown list.</li>
-<li>To create a game story, click <strong>Add</strong>. You may also use Authoring Copilot to Generate Game. Please refer to the link <a target="_blank" href="/teacher-user-guide/gamify/gamify-a-module-with-authoring-copilot/">here</a> to find out how to use ACP to generate game stories and collectibles. For manual creation, you will need to enter the following details:
+<li>To create a game story, click <strong>Add</strong>. You may also use Authoring Copilot to Generate Game. Please refer to the link <a target="_blank" href="/teacher-user-guide/gamify/gamify-a-module-with-authoring-copilot/">here</a> to find out how to use ACP to generate game stories and collectibles. For manual creation, add the following details:
 <ol style="list-style-type: lower-alpha;">
-<li><strong>Game Story Audio</strong> - Teacher can choose to add audio to all game stories. To add game story audio, click the toggle for Loop Audio. You may use the default audio or upload your own custom audio.
+<li><strong>Game Story Audio</strong> - You can choose to add audio to all game stories. To add game story audio, click the toggle for Loop Audio. You may use the default audio or upload your own custom audio.
 <p><img alt="Game Stories and Collectibles" style="width: 80%;" src="/images/2Teacher/GAM_GS1.png"></p>
 </li>
 <li><strong>Title</strong> - The game story title will be pre-filled for you as "Untitled Game Story". Change the Title to one that is concise and unique to help you identify the game story.</li>
 <li><strong>Description</strong> - The description allows you to describe the story, up to a character limit of 2000 characters. You can upload a Audio/Video file in the description field.</li>
-<li><strong>Image</strong> - This image will be visible as a prompt for the student when they fulfill the required conditions for the game story. If left empty, a default game story icon will be populated for you. You can hide image when it is awarded.
+<li><strong>Image</strong> - This image will be visible as a prompt for the student when they fulfill the required conditions for the game story. If left empty, a default game story icon will be populated for you. You can hide image when it is awarded. You may also use Authoring Copilot to create images under <b>Generate Image</b>.
 <p><u>Note</u>: Images for game story prompts will be uploaded with 16:9 aspect ratio.</p></li>
 <li><strong>Game Branches (Optional)</strong> - Select Game Choices or Short Response Text and click <strong>Add Branch</strong>.
 <ol style="list-style-type: lower-roman;">
@@ -36,7 +36,8 @@ variant: markdown
 <li>After creating a game story, you may click <a target="_blank" href="/teacher-user-guide/gamify/add-conditions-to-game-story-or-collectibles/">Add Conditions</a> to determine when the game story will appear during the module. All game stories are hidden by default until they are awarded to the students.</li>
 <li>To duplicate, add, reorder, or delete a game story, click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the game story card and select the respective options.
 <p><img alt="Game Stories and Collectibles" style="width: 80%;" src="/images/2Teacher/G_EditGameStory1.png"></p>
-</li>
+	</li><li> You may also generate images for each game story by clicking on <b>Edit</b>, then <b>Generate Image</b>.</li>
+
 </ol>
 </li>
 </ol>
@@ -58,6 +59,7 @@ variant: markdown
 <li><strong>Title</strong> - The achievement title will be pre-filled for you as "Untitled Achievement". Change the title to one that is concise and unique to help you identify the achievement.</li>
 <li><strong>Description</strong> - The description allows you to describe the achievement and write congratulatory messages, up to a character limit of 2000 characters.</li>
 <li><strong>Icon</strong> - This icon will be visible as a prompt for the student when they achieve the required conditions for this achievement and as an icon for this achievement on the Leaderboard. If left empty, a default achievement icon will be populated for you.</li>
+	<li>To generate an image for your collectible, you may either upload your own image or use Authoring Copilot to generate one for you.</li>
 <li>Collectible Settings:
 <ol style="list-style-type: lower-roman;">
 <li><strong>Hide Award prompt</strong> - Select the checkbox if you want the award prompt to be hidden from students when the collectible is being awarded to them.
@@ -68,7 +70,7 @@ variant: markdown
 <li><strong>Game Branches (Optional)</strong> - Select Game Choices or Short Response Text and click <strong>Add Branch</strong>.
 <ol style="list-style-type: lower-roman;">
 <li>Game Choice - Enter an option in each branch. To add more branches, click <strong>Add Branch</strong>. Each branch is an option for students to select when they are awarded the game story.</li>
-<li>Short Response Text - Enter all acceptable answers in Branch A. All other responses provided by students when they are awarded the game story will direct them to Branch (All Other Response).</li>
+<li>Short Response Text - Enter all acceptable answers in Branch A. All other responses provided by students when they are awarded the game story will direct them to Branch (All Other Response).</li><p></p>
 </ol>
 <p><img alt="Game Stories and Collectibles" style="width: 80%;" src="/images/2Teacher/G-GameStory2.png"></p>
 </li>
