@@ -6,7 +6,7 @@ description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
 ---
-<h1>(D2) About Annotated Feedback Assistant (New)</h1>
+<h1>(D2) About Annotated Feedback Assistant </h1>
 <hr>
 <p>The Annotated Feedback Assistant (AFA) provides targeted in-line feedback
 on both content and language through annotation cards, using suggested
