@@ -6,7 +6,7 @@ third_nav_title: Self Study
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(B3) Comment on Notes (Enhanced)</h1>
+<h1>(B3) Comment on Notes</h1>
 <hr>
 <h2>Leave Comments on Notes</h2>
 <hr>
