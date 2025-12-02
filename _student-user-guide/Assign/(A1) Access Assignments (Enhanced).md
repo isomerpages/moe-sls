@@ -69,7 +69,7 @@ variant: markdown
 <li><p>Assignments in List view are sorted according to the latest Start Date. You may also sort the Assignments according to the Assignment Title, and Due Date.</p>
 </li>
 </ol>
-<h2 id="-sort-assignments-in-class-group-"> Sort Assignments in Class Group (Enhanced)</h2>
+<h2 id="-sort-assignments-in-class-group-"> Sort Assignments in Class Group</h2>
 <hr>
 
 1. You can sort Assignments in Class Groups to find them easily.
