@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Assess
 ---
-<h2>(A2,2) Analyse Students’ Responses with Data Assistant (Enhanced)</h2>
+<h2>(A2,2) Analyse Students’ Responses with Data Assistant</h2>
 <hr>
 <h3>Analyse Students’ Responses using Data Assistant</h3>
 <hr>
@@ -117,7 +117,7 @@ posts with relevant tags for easier categorisation.</p>
 bookmark specific student responses for later reference.</p>
 </li>
 </ol>
-<h3>Using Data Assistant in Quizzes (New)</h3>
+<h3>Using Data Assistant in Quizzes </h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>You can now get both individual student feedback and aggregated class
@@ -207,7 +207,7 @@ clicking on the ‘Save analysis’ button.</p>
 </p>
 </li>
 </ol>
-<h3>Accessing and Managing Saved Analysis/ Feedback (New)</h3>
+<h3>Accessing and Managing Saved Analysis/ Feedback </h3>
 <p><strong>Viewing Saved Analysis / Feedback for Quizzes and FRQ</strong>
 </p>
 <p>To view saved analysis/feedback for quizzes and FRQ, click on ‘monitor’
