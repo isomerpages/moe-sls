@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Collaborate
 ---
-<h2>(D1) Post and Respond to a Live Chat Discussion (Enhanced)</h2>
+<h2>(D1) Post and Respond to a Live Chat Discussion </h2>
 <h3>Discuss in Live Chat</h3>
 <hr>
 <ol>
