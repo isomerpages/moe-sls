@@ -6,7 +6,7 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: markdown
 ---
-<h1>(D1,iii) View and Restore Past Class Groups (Enhanced)</h1><hr>
+<h1>(D1,iii) View and Restore Past Class Groups </h1><hr>
 <p><b>Important</b>: From Mar 2025 Update, owners and co-teachers of class groups can restore past class groups as active class groups.</p>
 <p>	At the start of each academic year, all Class Groups from the preceding year will be found under the Past tab.</p>
 <ol>
@@ -20,7 +20,7 @@ variant: markdown
 </ol>
 <p><u>Note</u>: There is no way to delete a Class Group. Assignments, Resources, Forum cards and Apps found within will still be viewable.</p>
 
-<h1>Restore Past Class Groups (Enhanced)</h1><hr>
+<h1>Restore Past Class Groups </h1><hr>
 <ol>
 	<li>From the Past Class Groups page, select the Class Group you wish to restore.</li>
 	<li>Click on the <strong>Admin</strong> tab.
