@@ -17,7 +17,7 @@ content.</p>
 <p>Avoid using prompts which carry a high risk of infringing intellectual
 property rights (e.g., avoid prompts such as “produce an image similar
 to [Artist X’s] works or “create an image incorporating [Brand Y’s] logo”).
-You may refer to our <a href="go.gov.sg/ai-chapter4" rel="noopener nofollow" target="_blank">Quick Guide to Gen AI Chapter 4 - Guidance on Use of Multimodal Generative AI Tools to Enhance T&amp;L</a> for
+You may refer to our <a href="https://go.gov.sg/ai-chapter4" rel="noopener nofollow" target="_blank">Quick Guide to Gen AI Chapter 4 - Guidance on Use of Multimodal Generative AI Tools to Enhance T&amp;L</a> for
 more information.</p>
 </li>
 <li>
