@@ -10,7 +10,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Photo_from_Ministry_of_Education__Singapore__3_.png
+      background: /images/Photo_from_Ministry_of_Education__Singapore__4_.png
       button: Login to SLS
       url: https://vle.learning.moe.edu.sg/login
   - resources:
