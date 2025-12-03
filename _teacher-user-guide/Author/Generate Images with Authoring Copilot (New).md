@@ -17,7 +17,7 @@ content.</p>
 <p>Avoid using prompts which carry a high risk of infringing intellectual
 property rights (e.g., avoid prompts such as “produce an image similar
 to [Artist X’s] works or “create an image incorporating [Brand Y’s] logo”).
-You may refer to our <a href="go.gov.sg/ai-chapter4" rel="noopener nofollow" target="_blank">Quick Guide to Gen AI Chapter 4 - Guidance on Use of Multimodal Generative AI Tools to Enhance T&amp;L</a> for
+You may refer to our <a href="https://go.gov.sg/ai-chapter4" rel="noopener nofollow" target="_blank">Quick Guide to Gen AI Chapter 4 - Guidance on Use of Multimodal Generative AI Tools to Enhance T&amp;L</a> for
 more information.</p>
 </li>
 <li>
@@ -37,7 +37,7 @@ components within SLS:</p>
 <p>Module/Section/Discussion Featured Image/Click-and-Drop Base Image</p>
 </li>
 <li>
-<p><a href="https://www.learning.moe.edu.sg/teacher-user-guide/gamify/manage-gamification-settings/" rel="noopener nofollow" target="_blank">Gamification</a> elements</p>
+<p><a href="https://www.learning.moe.edu.sg/gamify-a-module-with-authoring-copilot/" rel="noopener nofollow" target="_blank">Gamification</a> elements</p>
 </li>
 </ol>
 <p></p>
@@ -53,7 +53,7 @@ instruction:</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Adding_a_Knowledge_Base_will_anchor_the_generation_of_content_by_Authoring_Copilot_to_information_which_can_be_added_by_you__e_g__a_syllabus_document__a_comprehension_passage_or_an_excerpt_from_MO__5___1_.png">
 </div>
 <p></p>
-<p>Join the <a href="go.gov.sg/slscommunity" rel="noopener nofollow" target="_blank">SLS Community</a> for
+<p>Join the <a href="https://go.gov.sg/slscommunity" rel="noopener nofollow" target="_blank">SLS Community</a> for
 more ideas.</p>
 <p></p>
 <p></p>
