@@ -554,10 +554,11 @@ to advance learning.</p>
 <details class="isomer-details">
 <summary>Speech Evaluation Tool</summary>
 <div data-type="detailsContent" class="isomer-details-content">
-<p>Speech Evaluation Tool (SET) provides automated feedback on students'
-spoken responses. Designed to support oral communication skills, SET helps
-students refine their pronunciation, fluency, and speech clarity through
-targeted formative feedback.</p>
+<p>Speech Evaluation Tool (SET) provides instant, automated feedback on pronunciation,
+reading fluency, and speech clarity to help students improve their speaking
+abilities for English and Mother Tongue Languages.
+<br>
+</p>
 <h5>How does SET enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
 <colgroup>
