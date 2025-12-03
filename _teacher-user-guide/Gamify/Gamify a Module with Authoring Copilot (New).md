@@ -41,7 +41,7 @@ Students may view their digital badges on their profile page.</p>
 </ul>
 <p></p>
 <p>To find out more about tips and strategies on how to gamify your module,
-join the <a href="go.gov.sg/slscommunity" rel="noopener nofollow" target="_blank">SLS Community</a> and
+join the <a href="https://go.gov.sg/slscommunity" rel="noopener nofollow" target="_blank">SLS Community</a> and
 access this <a href="https://vle.learning.moe.edu.sg/class-group/module/view/c913c9c0-5946-4761-831b-51abc805250f/section/97376925/activity/97376935?pageNo=1" rel="noopener nofollow" target="_blank">module.</a>
 </p>
 <h1>Gamify Your Module with Authoring Copilot</h1>
