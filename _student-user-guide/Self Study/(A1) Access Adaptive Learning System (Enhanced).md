@@ -47,9 +47,6 @@ edited on the main Adaptive Learning page.</p>
 <li>
 <p>Every subject will be organised on a shelf. You can easily track your
 learning progress for a topic using the progress bar on the Topic cards.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_1student_SS_ALS5.png">
-</div>
 </li>
 <li>
 <p>There are four learning modes in ALS.</p>
@@ -107,7 +104,7 @@ to decide how many questions to recommend.</p>
 </tbody>
 </table>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_1student_SS_ALS5.png">
+<img style="width: 85%;" height="auto" width="100%" alt="" src="/images/image_1student_SS_ALS5.png">
 </div>
 </li>
 </ol>
