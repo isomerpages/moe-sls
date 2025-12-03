@@ -112,7 +112,7 @@ to decide how many questions to recommend.</p>
 are one year below your current level of learning (You can select P5 learning
 outcomes when you are in P6). You may select up to 50 learning outcomes.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image_1student_SS_ALS6.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/image_1student_SS_ALS6.jpg">
 </div>
 <ol start="7" data-tight="true" class="tight">
 <li>
@@ -131,7 +131,7 @@ learning mode halfway and change to a more suitable learning mode.
 the concepts tested. You can also view your learning progress and decide
 what topics to learn next. For more information on how to track your learning
 progress with ALS, click <a href="/student-user-guide/track-progress/view-als-learning-progress/" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-<br>Click <a href="/https://go.gov.sg/quick-guide-ai-als-student/" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+<br>Click <a href="https://go.gov.sg/quick-guide-ai-als" rel="noopener noreferrer nofollow" target="_blank">here</a> for
 a Quick Guide to Adaptive Learning System.
 <br>
 </p>
