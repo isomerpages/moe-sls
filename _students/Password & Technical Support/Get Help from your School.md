@@ -1801,9 +1801,10 @@ ang_yew_leong@schools.gov.sg
 <p>Montfort Junior School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 65101599
-<br>Email:
-<br>Others:</p>
+<p>Tel: 65101588
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">lee_boon_haw@schools.gov.sg</a>
+<br>Others: <a rel="noopener noreferrer nofollow" target="_blank">https://www.montfortjunior.moe.edu.sg/our-partners/Parents/e-links/</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -2227,8 +2228,8 @@ ang_yew_leong@schools.gov.sg
 <p>Peicai Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 62884159
-<br>Email: peicai_ss@moe.edu.sg
+<p>Tel: 62021260
+<br>Email:
 <br>Others:</p>
 </td>
 </tr>
@@ -3505,8 +3506,8 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 <p>Zhonghua Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 62824339
-<br>Email: zhonghua_ss@moe.edu.sg
+<p>Tel: 65938171
+<br>Email:<a rel="noopener noreferrer nofollow" target="_blank"> arifah_azman@schools.gov.sg</a>
 <br>Others:</p>
 </td>
 </tr>

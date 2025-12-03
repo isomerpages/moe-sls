@@ -20,30 +20,37 @@ variant: markdown
 <p>On the Assignment Summary page, you will see an Assignment card for the selected Class Group(s). Each Class Group's Assignment Settings can be modified by clicking the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> on the Class Group card to access the Assignment Settings subpage.</p>
 <p>You may modify the following in the Assignment Settings subpage:</p>
 <ul>
-<li><p><strong>Students Assigned</strong> - add or remove students by checking or unchecking the boxes next to the students' names. You may select students by Class Group or Subgroup by clicking the dropdown arrow to show the students' names according to their index number.</p>
-	<p><u>Note</u>: Students who appear in more than one assigned Subgroup will only be assigned the Assignment once. However, students who are in more than one of the assigned Class Groups will receive the assigned Module multiple times (i.e. Students will receive the Assignment once for each Class Group assigned).</p>
-</li>
-<li><p><strong>Schedule</strong> - change Assignment Start and Due Date/Time. You can choose to send students a notification when the Assignment has started by selecting the checkbox beside <strong>Notify students assigned when assignment starts</strong>.</p>
-	<p><u>Note</u>: You can change the Start and Due Dates of individual Sections within a Module if the Assignment has not started.</p>
+<li><p><strong>Students Assigned</strong> - add or remove students by checking or unchecking the boxes next to the students' names. You may select students by Class Group or Subgroup by clicking the dropdown arrow to show the students' names according to their index number.</p></li>
+<u>Note</u>: Students who appear in more than one assigned Subgroup will only be assigned the Assignment once. However, students who are in more than one of the assigned Class Groups will receive the assigned Module multiple times (i.e. Students will receive the Assignment once for each Class Group assigned).<p></p>
+<li><p><strong>Schedule</strong>
+</p><ul>
+<li>
+<p>Change Assignment Start and Due Date/Time. You can choose to send students a notification when the Assignment has started by selecting the checkbox beside <strong>Notify students assigned when assignment starts</strong>.</p></li>
+<u>Note</u>: You can change the Start and Due Dates of individual Sections within a Module if the Assignment has not started.<p></p>
+<li>
+By default, teachers will be reminded to enable sharing for assignment once it is due. To turn it off, you may uncheck the box <strong>Remind me to enable sharing for this assignment once it is due</strong>.</li>
+</ul>
 </li>
 <li><p><strong>Activity Assignment</strong> - change the accessibility to Activities and <a target="_blank" href="/teacher-user-guide/collaborate/create-teams/">manage Teams</a>. Students will not be able to access the activity if the Student Access toggle is switched off.</p>
 </li>
 <li><p><strong>Gamification Settings (Only for Modules with Gamification toggled on)</strong> - Allow students to view individual or team leaderboards in a gamified Module by selecting the checkbox beside the respective options. You can also edit <a target="_blank" href="/teacher-user-guide/gamify/create-game-teams/">Game Teams</a></p>
-<p><u>Note</u>: Students below the 50th percentile will be hidden on the Student Leaderboard.</p>
+<u>Note</u>: Students below the 50th percentile will be hidden on the Student Leaderboard.<p></p>
 </li>
 <li><p><strong>Others</strong>:</p>
 <ul>
 <li><p>Assessment Settings - Turn the Assignment into an Assessment by selecting the checkbox beside <a target="_blank" href="/teacher-user-guide/assess/set-assignments-as-assessments/">Set as Assessment</a>.</p>
 <p><img alt="Manage Assignments" style="width: 100%;" src="/images/2Teacher/AS-ManageAssignment1.png"></p>
 </li>
-<li><p>Sharing Permissions - Grant permission to students to share their Module by selecting the checkbox beside <a target="_blank" href="/teacher-user-guide/assign/allow-students-to-share-assignments/">Allow students to share Assignments</a>.</p>
-</li>
+<li><p>Sharing Permissions - Grant permission to students to share their Module by selecting the checkbox beside <a target="_blank" href="/teacher-user-guide/assign/allow-students-to-share-assignments/">Allow students to share Assignments</a>.</p></li>
+<u>Note</u>: Assessments cannot be shared.<p></p>
+
+
 </ul>
 </li>
 <li><p>If you want to assign an Assignment with a common Assignment Setting to more than one Class Group, click <strong>Common Assignment Settings</strong>. You can set a common Assignment Schedule, Gamification Settings, Assessment Settings, or Permissions.</p>
-<p><img alt="Manage Assignments" style="width: 100%;" src="/images/2Teacher/AS-ManageAssignment2.png"></p>
-	<p><u>Note</u>: By setting Common Assignment Settings, it will overwrite any existing settings that were previously set.</p>
-</li>
+<p><img alt="Manage Assignments" style="width: 100%;" src="/images/2Teacher/AS-ManageAssignment2.png"></p></li>
+<u>Note</u>: By setting Common Assignment Settings, it will overwrite any existing settings that were previously set.<p></p>
+
 <li><p>Click <strong>Save</strong> to save your changes and <strong>X</strong> to close the subpage.</p>
 </li>
 <li>Click the <strong>Overflow</strong> (<strong>3-dot</strong> icon) to Split, Rename or Delete the Assignment.<ul>
@@ -53,7 +60,7 @@ variant: markdown
 </ul>
 <p><img alt="Manage Assignments" style="width: 80%;" src="/images/2Teacher/AS-ManageAssignment3.png"></p>
 <ul>
-<li><p>Click <strong>Assign</strong>, found on the top right of the Assignment Summary page to assign the Module.</p>
-	<p><u>Note</u>: For Modules with multiple Sections, it may take some time for the Assignment to appear on your Assignment List.</p>
-</li>
+<li><p>Click <strong>Assign</strong>, found on the top right of the Assignment Summary page to assign the Module.</p></li>
+<u>Note</u>: For Modules with multiple Sections, it may take some time for the Assignment to appear on your Assignment List.<p></p>
+
 </ul>

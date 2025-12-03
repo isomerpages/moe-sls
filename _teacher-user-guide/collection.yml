@@ -7,24 +7,23 @@ collections:
       - Administer/Administer.md
       - Administer/(A1,i) Onboard New Students.md
       - Administer/(A1,ii) Reset Student Passwords for Classes.md
-      - Administer/(A1,iii) Generate Passcode for Students (Enhanced).md
+      - Administer/(A1,iii) Generate Passcode for Students.md
       - Assess/.keep
       - Assess/Assess.md
       - Assess/(A1) Create Quizzes.md
-      - Assess/(A2,1) Monitor Students' Responses in an Assignment (Enhanced).md
-      - Assess/(A2,2) Analyse Students’ Responses with Data Assistant
-        (Enhanced).md
-      - Assess/(A3,1) Add Teacher Comments (Enhanced).md
-      - Assess/(A3,2) Annotate (Underline) Students' Responses (Enhanced).md
+      - Assess/(A2,1) Monitor Students' Responses in an Assignment.md
+      - Assess/(A2,2) Analyse Students’ Responses with Data Assistant.md
+      - Assess/(A3,1) Add Teacher Comments.md
+      - Assess/(A3,2) Annotate (Underline) Students' Responses.md
       - Assess/(A3,3) Mark Free Response Questions.md
       - Assess/(A4) Print to Scan.md
       - Assess/(B1) Mark Teacher Marked Quizzes.md
       - Assess/(B2,1) Release Teacher Marked Quizzes.md
       - Assess/(B2,2) Unsubmit Teacher Marked Quizzes or Questions.md
       - Assess/(C1,i) Add Feedback Assistant Mathematics (Enhanced).md
-      - Assess/(C1,ii) Add Annotated Feedback Assistant (Enhanced).md
+      - Assess/(C1,ii) Add Annotated Feedback Assistant.md
       - Assess/(C1,iii) Add Short Answer Feedback Assistant (Enhanced).md
-      - Assess/(D1,i) Edit Quizzes (Enhanced).md
+      - Assess/(D1,i) Edit Quizzes.md
       - Assess/(D1,ii) View Students' Notes.md
       - Assess/(D1,iii) Manage Assignments, Sections, Activities (Enhanced).md
       - Assess/(D1,iv) Submit Quizzes.md
@@ -38,7 +37,7 @@ collections:
       - Assign/(A1,iii) Assign MOE Library Modules (Enhanced).md
       - Assign/(A1,iv) Assign Community Gallery Modules.md
       - Assign/(A1,v) Add or Sort Assignments in Class Group.md
-      - Assign/(A1,vi) View Assignments (Enhanced).md
+      - Assign/(A1,vi) View Assignments.md
       - Assign/(A1,vii) View Past Assignments.md
       - Assign/(B1,i) Manage Assignments.md
       - Assign/(B1,ii) Schedule Assignments.md
@@ -70,7 +69,7 @@ collections:
       - Author/(A1,2) Add New Activities & Sections.md
       - Author/(A1,3) Add Existing From Library & Starred Resources (Enhanced).md
       - Author/(A1,4) Add Introduction.md
-      - Author/(A1,5) Add Section (Adaptive) (Enhanced).md
+      - Author/(A1,5) Add Section (Adaptive).md
       - Author/(A2,1) Add Components.md
       - Author/(A2,2) Add Split Page Media.md
       - Author/(A2,3) Upload Question and Test Interoperability (QTI) Files.md
@@ -104,7 +103,7 @@ collections:
       - Author/(A3,14) Localisation and E–Dictionary.md
       - Author/About Templates.md
       - Author/(B1,i) Manage Modules.md
-      - Author/(B1,ii) Edit Modules (Enhanced).md
+      - Author/(B1,ii) Edit Modules.md
       - Author/(B1,iii) Edit Activities & Sections.md
       - Author/(B1,iv) View and Edit Module Plans.md
       - Author/(B1,v) Make a Copy of Modules or Assignments.md
@@ -121,7 +120,7 @@ collections:
       - Collaborate/(A1,1) Add a Topic.md
       - Collaborate/(A1,2) Add a Poll.md
       - Collaborate/(A2) Change Forum Settings.md
-      - Collaborate/(A3) Post and Comment in the Forum (Enhanced).md
+      - Collaborate/(A3) Post and Comment in the Forum.md
       - Collaborate/(B1) Create Team Activities.md
       - Collaborate/(B2) Create Teams.md
       - Collaborate/(C1,i) Add an Interactive Thinking Tool.md
@@ -139,15 +138,15 @@ collections:
       - Customise/(A1,iv) Set Email Notifications.md
       - Customise/(A1,v) Manage Linked Account.md
       - Customise/(A1,vi) Change SLS Password.md
-      - Customise/(A1,vii) Switch to Student Account (Enhanced).md
+      - Customise/(A1,vii) Switch to Student Account.md
       - Customise/(B1) Manage My Templates.md
+      - Customise/Personalise SLS Homepage (New).md
       - Differentiate/.keep
       - Differentiate/Differentiate.md
       - Differentiate/(A1) Create Subgroups.md
       - Differentiate/(A2) View Subgroups.md
       - Differentiate/(A3) Edit & Delete a Subgroup.md
-      - Differentiate/(B1,i) Add Activity, Quiz or Section Prerequisites
-        (Enhanced).md
+      - Differentiate/(B1,i) Add Activity, Quiz or Section Prerequisites.md
       - Differentiate/(B1,ii) Set Differentiated Access.md
       - Discover/.keep
       - Discover/Discover.md
@@ -173,11 +172,10 @@ collections:
       - Enact/.keep
       - Enact/Enact.md
       - Enact/(A1) Change Access to Activities.md
-      - Gamify/Gamify a Module with Authoring Copilot.md
       - Gamify/.keep
-      - Gamify/Gamify.md
-      - Gamify/About Gamification and Leaderboard (Enhanced).md
-      - Gamify/(A1) Manage Gamification Settings (Enhanced).md
+      - Gamify/Gamify a Module with Authoring Copilot (New).md
+      - Gamify/About Gamification and Leaderboard.md
+      - Gamify/(A1) Manage Gamification Settings.md
       - Gamify/(A2) Game Stories and Collectibles.md
       - Gamify/(A3) Add Conditions to Game Story or Collectibles.md
       - Gamify/(A4) Create Game Teams.md
@@ -195,7 +193,7 @@ collections:
       - Organise/About Class Groups.md
       - Organise/(A1) Create Class Groups and Communities.md
       - Organise/(A2) Add Teachers as Students to a Class Group.md
-      - Organise/(B1) Manage Class Group Resources (Enhanced).md
+      - Organise/(B1) Manage Class Group Resources.md
       - Organise/(C1,i) Install and Launch Apps.md
       - Organise/(C1,ii) App FAQs.md
       - Organise/(D1,i) Pin Class Groups.md
@@ -219,7 +217,7 @@ collections:
       - Plan/Plan.md
       - Plan/(A1) Access Planner (Enhanced).md
       - Plan/(A2) Create a New Task or Event (Enhanced).md
-      - Plan/(A3) Attach Assignments and Resources to Events (Enhanced).md
+      - Plan/(A3) Attach Assignments and Resources to Events.md
       - Publish/.keep
       - Publish/Publish.md
       - Publish/(A1) Submit Modules.md
@@ -232,7 +230,7 @@ collections:
       - Track Progress/(A2,ii) View by Month.md
       - Track Progress/(A2,iii) View by Student.md
       - Track Progress/(A2,iv) View Excluded Questions.md
-      - Track Progress/(B1) Access Error Tracker (Enhanced).md
+      - Track Progress/(B1) Access Error Tracker.md
       - Other Useful Information/.keep
       - Other Useful Information/Other Useful Information.md
       - Other Useful Information/Downloadable Resources.md

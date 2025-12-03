@@ -4,7 +4,7 @@ permalink: /student-user-guide/collaborate/interact-in-a-shared-assignment/
 description: ""
 third_nav_title: Collaborate
 image: /images/FaviconLight.png
-variant: tiptap
+variant: markdown
 ---
 <h1>(A2) Interact in a Shared Assignment</h1>
 <hr>
@@ -30,18 +30,18 @@ Annotations cards in your peer's Assignment and vice versa. You can also
 </li>
 <li>
 <p>As the owner of your Assignment, you are able to turn commenting on or
-off (by default, commenting is turned off).</p>
-<p><u>Note</u>:</p>
-<ul data-tight="true" class="tight">
+off (by default, commenting is turned off).
+</p><p><u>Note</u>:
+</p><ul data-tight="true" class="tight">
 <li>
-<p>Teachers have the authority to turn commenting on or off.</p>
+Teachers have the authority to turn commenting on or off.
 </li>
 <li>
-<p>Teachers are able to delete any comments.</p>
+Teachers are able to delete any comments.<p></p>
 </li>
 </ul>
-</li>
-<li>
+
+</li><li>
 <p>To turn commenting on or off, open <strong>Overflow</strong> (<strong>3-dot</strong> icon)
 found on the top right of the Annotation card and click <strong>Comment On / Off</strong>.</p>
 </li>

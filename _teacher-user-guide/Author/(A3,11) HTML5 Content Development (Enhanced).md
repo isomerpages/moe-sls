@@ -171,6 +171,25 @@ This happens when there is no "index.html" file found directly inside the ZIP fi
 	<li><strong>Hide the page title</strong>, margins, and unnecessary UI to maximize vertical space.</li>
 	<li><strong>To optimise the file for SLS iframe view:</strong> Should fit width = 100% and height = 450 px.</li>
 	<li><strong>Fully responsive</strong>&nbsp;design for both desktop and mobile screens.</li>
+	<p>Visit <a>https://iwant2study.org/lookangejss/appXapiIntegrator/ </a> and upload your zip interactive in SLS interactive generator or equivalent.</p>
+<p>The integrator automatically inserts all essential xAPI starter code, files and file structure, and launch parameters, ensuring:</p>
+<ul>
+  <li>scoring placeholder ready</li>
+  <li>generic teacher feedback ready</li>
+  <li>SLS compatibility</li>
+</ul>
+
+<p><b>Layer the new customised score and feedback on top of xAPI working interactive.</b></p>
+<p>Use a free AI-powered IDE like Trae.ai or Visual Code Studio with Cline bot Extension</p>
+<p>Prompt the IDE to add specific scoring and feedback based on your interactive. </p>
+<p>For example, score increment by 1 when certain actions are performed or hook up the current marks to the score to send via xAPI.</p>
+<p>for example, feedback can be strings of actions that student to support development and assess of 21st century skills, such as critical, adaptive and inventive thinking .</p>
+<p>t = 0: Q1 asked, student answered "[response]" – marked ✅ correct.</p>
+<p>t = 1: Q2 asked, student answered "[response]" – marked ❌incorrect.</p>
+
+<p>Once the interactive behaves as expected, ask the AI to hide debugging panels if desired.</p>
+<p>The project should now be ready to export as an xAPI-compliant zip file compatible with SLS through the Free-Response Question – Interactive Response Assistant</p>
+
 <li>Use a free AI-powered IDE like <a target="_blank" href="http://Trae.ai">Trae.ai</a> or <strong>Visual Code Studio with Cline bot Extension</strong></li>
 <li>Open a folder with a working xAPI example, such as the unzipped <strong>03-html5-dynamic-input-score-is-text-field</strong> folder.</li>
 	<li> Prompt the IDE to add new interactivity on top of the existing xAPI file.</li>

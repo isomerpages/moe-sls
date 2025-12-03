@@ -33,17 +33,17 @@ collections:
       - Assess/(A3,11) Speech Evaluation.md
       - Assess/(A3,12) E–Dictionary.md
       - Assess/(B1) View Completed Assignments.md
-      - Assess/(B2) View Quiz Results (Enhanced).md
+      - Assess/(B2) View Quiz Results.md
       - Assess/(B3) View and Respond to Teacher Comments.md
-      - Assess/(C1) About Assessments (Enhanced).md
-      - Assess/(D1) About Feedback Assistant Mathematics (Enhanced).md
-      - Assess/(D2) About Annotated Feedback Assistant (New).md
-      - Assess/(D3) About Short Answer Feedback Assistant (Enhanced).md
+      - Assess/(C1) About Assessments.md
+      - Assess/(D1) About Feedback Assistant Mathematics.md
+      - Assess/(D2) About Annotated Feedback Assistant.md
+      - Assess/(D3) About Short Answer Feedback Assistant.md
       - Assign/.keep
       - Assign/Assign.md
       - Assign/About Assignments.md
-      - Assign/(A1) Access Assignments (Enhanced).md
-      - Assign/(A2) Access Past Assignments (New).md
+      - Assign/(A1) Access Assignments.md
+      - Assign/(A2) Access Past Assignments.md
       - Authenticate/.keep
       - Authenticate/Authentication.md
       - Authenticate/How to Log In (Student).md
@@ -57,12 +57,12 @@ collections:
       - Collaborate/(A1) Manage Study Buddy List (New).md
       - Collaborate/(A2) Interact in a Shared Assignment.md
       - Collaborate/(B1) Access the Forum.md
-      - Collaborate/(B2,1) Post and Respond to a Discussion Topic (Enhanced).md
+      - Collaborate/(B2,1) Post and Respond to a Discussion Topic.md
       - Collaborate/(B2,2) Create a New Poll.md
-      - Collaborate/(B3,1) View and Respond in the Forum (Enhanced).md
+      - Collaborate/(B3,1) View and Respond in the Forum.md
       - Collaborate/(B3,2) Edit a Poll.md
       - Collaborate/(C1) Join a Google Meet Video Conference.md
-      - Collaborate/(D1) Join a Live Chat Discussion (New).md
+      - Collaborate/(D1) Join a Live Chat Discussion.md
       - Customise/.keep
       - Customise/Customise.md
       - Customise/(A1,i) Customise an Avatar.md
@@ -71,17 +71,18 @@ collections:
       - Customise/(A1,iv) Manage Linked Account.md
       - Customise/(A1,v) Change Password.md
       - Customise/(A1,vi) Update Answers to Security Questions.md
+      - Customise/Personalise SLS Homepage (New).md
       - Discover/.keep
       - Discover/Discover.md
       - Discover/About Self Study Resources.md
       - Discover/(A1) Access Self Study Resources.md
-      - Discover/(A2) Search for Self Study Resources (Enhanced).md
+      - Discover/(A2) Search for Self Study Resources.md
       - Discover/(A3) Attempt Self Study Resources.md
       - Discover/(B1) Access App Library.md
       - Gamify/.keep
       - Gamify/Gamify.md
       - Gamify/About Gamification.md
-      - Gamify/(A1) Navigate a Gamified Assignment (Enhanced).md
+      - Gamify/(A1) Navigate a Gamified Assignment.md
       - Gamify/(A2) Attempt a Gamified Assignment.md
       - Gamify/(B1) Check Progress on Leaderboard.md
       - Notify/.keep
@@ -98,30 +99,31 @@ collections:
       - Organise/(B3) Delete Resources.md
       - Organise/(C1,i) Manage Folders.md
       - Organise/(C1,ii) Restore Resources from Trash.md
-      - Organise/(D1) Star Resources (Enhanced).md
+      - Organise/(D1) Starred Resources (Enhanced).md
       - Organise/(E1,i) Access My Subjects.md
       - Organise/(E1,ii) Follow & Unfollow Subjects.md
       - Organise/(F1,i) View Print Friendly Worksheet.md
       - Organise/(F1,ii) Copy to My Drive.md
       - Plan/.keep
       - Plan/Plan.md
-      - Plan/(A1) Access Planner (Enhanced).md
-      - Plan/(A2) Create a New Task or Event (Enhanced).md
+      - Plan/Access Planner.md
+      - Plan/Create a New Task or Event.md
+      - Self Study/My Notebook (New).md
       - Self Study/.keep
       - Self Study/Self Study.md
-      - Self Study/Access Learning Assistant in Interactive Component (New).md
+      - Self Study/Access Learning Assistant in Interactive Component.md
       - Self Study/About Adaptive Learning System.md
       - Self Study/(A1) Access Adaptive Learning System (Enhanced).md
-      - Self Study/(B1,1) Annotate Text within Activities (Enhanced).md
+      - Self Study/(B1,1) Annotate Text within Activities.md
       - Self Study/(B1,2) Add Notes to Images.md
       - Self Study/(B1,3) Add Notes to Audio or Video.md
       - Self Study/(B2) View Notes.md
-      - Self Study/(B3) Comment on Notes (Enhanced).md
+      - Self Study/(B3) Comment on Notes.md
       - Track Progress/.keep
       - Track Progress/Track Progress.md
       - Track Progress/(A1,i) Access Learning Progress.md
       - Track Progress/(A1,ii) View ALS Learning Progress.md
-      - Track Progress/(A2,i) View by Topic (Enhanced).md
+      - Track Progress/(A2,i) View by Topic.md
       - Track Progress/(A2,ii) View by Month.md
       - Track Progress/(A2,iii) View by Question.md
-      - Track Progress/(B1) Access Error Tracker (Enhanced).md
+      - Track Progress/(B1) Access Error Tracker.md

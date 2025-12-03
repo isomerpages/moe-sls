@@ -4,7 +4,7 @@ permalink: /teacher-user-guide/assess/mark-free-response-questions/
 description: ""
 third_nav_title: Assess
 image: /images/FaviconLight.png
-variant: tiptap
+variant: markdown
 ---
 <h1>(A3,3) Mark Free-Response Questions</h1>
 <hr>
@@ -61,11 +61,8 @@ student you clicked.</p>
 <li>
 <p>After students submit their response, you can choose to allocate marks.
 You may also award half marks for Free/Audio-Response Questions. Click
-the <strong>Save</strong>&nbsp;icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Save.svg">
-</div>
-<p>to save.</p>
+the <strong>Save</strong>&nbsp;icon 
+<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Save.svg"> to save.</p>
 </li>
 <li>
 <p>To Add Teacher Comments, click <a href="/teacher-user-guide/assess/add-teacher-comments/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
@@ -75,11 +72,8 @@ the <strong>Save</strong>&nbsp;icon</p>
 <hr>
 <ol>
 <li>
-<p>After students submit their drawing or image, click on the <strong>Pen</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pen.svg">
-</div>
-<p>to Mark a Copy of the Drawing.</p>
+<p>After students submit their drawing or image, click on the <strong>Pen</strong> icon
+<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pen.svg"> to Mark a Copy of the Drawing.</p>
 </li>
 <li>
 <p>You can use the <a href="/teacher-user-guide/author/insert-drawings/" rel="noopener noreferrer nofollow" target="_blank">Drawing tools</a> to
@@ -121,11 +115,8 @@ Make a Google PDF Copy to Mark</p>
 </li>
 <li>
 <p>The new file will be attached to Teacher Comments. You will be able to
-edit and annotate on the new file by clicking on the <strong>Pen</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pen.svg">
-</div>
-<p>.</p>
+edit and annotate on the new file by clicking on the <strong>Pen</strong> icon
+<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pen.svg">.</p>
 </li>
 <li>
 <p>You will then be brought to a new tab where they can choose which Google
@@ -166,11 +157,9 @@ edit or comment on the new copy of the file.</p>
 <li>
 <p>After choosing “Mark as PDF” or “Mark as Google File”, the new file will
 be attached to Teacher Comments. You will be able to edit and annotate
-on the new file by clicking on the <strong>Pen</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pen.svg">
-</div>
-<p>.</p>
+on the new file by clicking on the <strong>Pen</strong> icon
+
+<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pen.svg">.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%;" height="auto" width="100%" alt="Mark Free-Response Questions" src="/images/2Teacher/As-GoogleComment1.png">
 </div>
@@ -197,11 +186,9 @@ Comments and edited, any edits made will not be saved.</p>
 and select Edit.</p>
 </li>
 <li>
-<p>Click on the <strong>Pen</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pen.svg">
-</div>
-<p>to edit the Marked PDF copy.</p>
+<p>Click on the <strong>Pen</strong> icon
+
+<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Pen.svg">to edit the Marked PDF copy.</p>
 </li>
 </ol>
 <p></p>
