@@ -8,9 +8,9 @@ third_nav_title: Customise
 <h2>Customise SLS Homepage (New)</h2>
 <p></p>
 <h3>About SLS Homepage</h3>
-<p>Students can customise their SLS homepage according to their learning
-needs by pinning, unpinning, and rearranging frequently used shortcuts,
-allowing quick and easy access.</p>
+<p>Teachers can customise their SLS homepage according to their teaching
+and learning needs by pinning, unpinning, and rearranging frequently used
+shortcuts, allowing quick and easy access.</p>
 <p></p>
 <h3>Navigate the SLS Homepage</h3>
 <ol data-tight="true" class="tight">
