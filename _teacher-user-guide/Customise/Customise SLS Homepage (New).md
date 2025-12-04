@@ -1,16 +1,16 @@
 ---
-title: Personalise SLS Homepage (New)
+title: Customise SLS Homepage (New)
 permalink: /teacher-personalise-sls-homepage/
 variant: tiptap
 description: ""
 third_nav_title: Customise
 ---
-<h2>Personalise SLS Homepage (New)</h2>
+<h2>Customise SLS Homepage (New)</h2>
 <p></p>
 <h3>About SLS Homepage</h3>
-<p>Students can personalise their SLS dashboard according to their learning
-needs by pinning, unpinning, and rearranging frequently used shortcuts,
-allowing quick and easy access.</p>
+<p>Teachers can customise their SLS homepage according to their teaching
+and learning needs by pinning, unpinning, and rearranging frequently used
+shortcuts, allowing quick and easy access.</p>
 <p></p>
 <h3>Navigate the SLS Homepage</h3>
 <ol data-tight="true" class="tight">
@@ -39,11 +39,11 @@ the top right-hand corner.</p>
 </li>
 </ol>
 <p></p>
-<h3>Personalise your SLS Dashboard</h3>
+<h3>Customise your SLS Homepage</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Open the left menu and click <strong>Edit Shortcuts</strong> to personalize
-your SLS dashboard based on your learning needs and usage.</p>
+<p>Open the left menu and click <strong>Edit Shortcuts</strong> to customise
+your SLS homepage based on your teaching and learning needs and usage.</p>
 </li>
 <li>
 <p>Select shortcuts by pinning and/or unpinning them. You can pin up to 10
