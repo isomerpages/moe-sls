@@ -43,7 +43,7 @@ the top right-hand corner.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Open the left menu and click <strong>Edit Shortcuts</strong> to personalize
-your SLS homepage based on your learning needs and usage.</p>
+your SLS homepage based on your teaching and learning needs and usage.</p>
 </li>
 <li>
 <p>Select shortcuts by pinning and/or unpinning them. You can pin up to 10
