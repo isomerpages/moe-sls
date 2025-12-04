@@ -1,6 +1,6 @@
 ---
-title: My Notebook (New)
-permalink: /my-notebook/
+title: My Notebooks (New)
+permalink: /my-notebooks/
 variant: tiptap
 description: ""
 third_nav_title: Self Study
