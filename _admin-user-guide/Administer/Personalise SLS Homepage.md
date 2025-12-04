@@ -25,11 +25,11 @@ drag-and-drop.</p>
 </li>
 <li>
 <p>Click <strong>Save</strong> when done.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/Admin_Homepage_1.png">
-</div>
 </li>
 </ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1Student/homepage_shortcuts.png">
+</div>
 <p></p>
 <h3>Navigate using Screen Reader</h3>
 <p>Press <strong>Tab</strong> to move through the interface with your keyboard.
