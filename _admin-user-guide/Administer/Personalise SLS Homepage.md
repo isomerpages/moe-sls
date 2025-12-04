@@ -8,7 +8,7 @@ third_nav_title: Administer
 <h3>Customise your SLS Homepage</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Open the left menu and click <strong>Edit Shortcuts</strong> to personalize
+<p>Open the left menu and click <strong>Edit Shortcuts</strong> to customise
 your SLS homepage based on your teaching and learning needs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/Homepage_1__1_.png">
