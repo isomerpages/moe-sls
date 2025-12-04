@@ -42,7 +42,7 @@ the top right-hand corner.</p>
 <h3>Customise your SLS Homepage</h3>
 <ol data-tight="true" class="tight">
 <li>
-<p>Open the left menu and click <strong>Edit Shortcuts</strong> to personalize
+<p>Open the left menu and click <strong>Edit Shortcuts</strong> to customise
 your SLS homepage based on your learning needs and usage.</p>
 </li>
 <li>
