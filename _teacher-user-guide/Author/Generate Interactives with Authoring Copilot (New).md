@@ -39,7 +39,7 @@ builders, etc. Find out more in the following resources:</p>
 <p><a href="https://go.gov.sg/slscommunity" rel="noopener nofollow" target="_blank">SLS Community</a>,</p>
 </li>
 <li>
-<p><a href="https://iwant2study.org/lookangejss/promptLibrary/ai-prompt-library.html" rel="noopener nofollow" target="_blank">Prompt Generator/Library</a>.</p>
+<p><a href="https://go.gov.sg/acpinteractive-resources" rel="noopener nofollow" target="_blank">Prompt Generator/Library</a>.</p>
 </li>
 </ul>
 <p></p>
