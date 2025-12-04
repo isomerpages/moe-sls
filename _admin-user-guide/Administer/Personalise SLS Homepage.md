@@ -5,11 +5,11 @@ variant: tiptap
 description: ""
 third_nav_title: Administer
 ---
-<h3>Personalise your SLS dashboard</h3>
+<h3>Customise your SLS Homepage</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>Open the left menu and click <strong>Edit Shortcuts</strong> to personalize
-your SLS dashboard based on your teaching and learning needs.</p>
+your SLS homepage based on your teaching and learning needs.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/Homepage_1__1_.png">
 </div>
@@ -18,8 +18,6 @@ your SLS dashboard based on your teaching and learning needs.</p>
 <p>For Admins, select <strong>Admin</strong> so that you can view all available
 admin functions in a page. You can select up to 10 shortcuts by pinning
 and/or unpinning them.</p>
-<p>Note: External Content Developer (ECD) is recommended to select <strong>Switch to Student Account</strong> to
-verify their lesson content in student view.</p>
 </li>
 <li>
 <p>In the <strong>Pinned Shortcuts</strong> menu, rearrange the shortcuts using
