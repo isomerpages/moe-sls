@@ -33,7 +33,15 @@ experiences directly for students to engage with students in their modules.</p>
 <p>There are many types of interactives for different use cases and learning
 outcomes. Interactives may be used for game-based learning, simulation-based
 learning, assessment, data visualisation, concept mapping, or as timeline
-builders, etc. Find out more in <a href="https://go.gov.sg/slscommunity" rel="noopener nofollow" target="_blank">SLS Community</a>, or use a <a href="https://iwant2study.org/lookangejss/promptLibrary/ai-prompt-library.html" rel="noopener nofollow" target="_blank">Prompt Generator</a>.</p>
+builders, etc. Find out more in the following resources:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/slscommunity" rel="noopener nofollow" target="_blank">SLS Community</a>,</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/acpinteractive-resources" rel="noopener nofollow" target="_blank">Prompt Generator/Library</a>.</p>
+</li>
+</ul>
 <p></p>
 <p>View the video guide below for a step-by-step demonstration on generating
 interactives using Authoring Copilot.</p>
