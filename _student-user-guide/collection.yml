@@ -51,6 +51,7 @@ collections:
       - Authenticate/Forgot SLS Username.md
       - Authenticate/Unsuccessful Password Reset Attempts.md
       - Authenticate/Unlock Account.md
+      - Collaborate/Accept a Share Request.md
       - Collaborate/Request to Share Assignment.md
       - Collaborate/.keep
       - Collaborate/Collaborate.md
