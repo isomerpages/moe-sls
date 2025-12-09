@@ -1,9 +1,9 @@
 ---
-title: (A1,2) Accept a Share Request
-permalink: /student-user-guide/collaborate/accept-a-share-request/
-description: ""
-image: /images/FaviconLight.png
+title: Accept a Share Request
+permalink: /accept-a-share-request/
 variant: markdown
+description: ""
+third_nav_title: Collaborate
 ---
 <h1 id="-1b-accept-a-share-request">(A1,2) Accept a Share Request</h1><hr>
 <ol>

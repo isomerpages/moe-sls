@@ -52,6 +52,8 @@ collections:
       - Authenticate/Unsuccessful Password Reset Attempts.md
       - Authenticate/Unlock Account.md
       - Collaborate/.keep
+      - Collaborate/Request to Share Assignment.md
+      - Collaborate/Accept a Share Request.md
       - Collaborate/Collaborate.md
       - Collaborate/About Assignment Sharing.md
       - Collaborate/(A1) Manage Study Buddy List (New).md
