@@ -2533,7 +2533,7 @@ ang_yew_leong@schools.gov.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 65717427
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">ictd@sst.edu.sg</a>
+<br>Email: ictd@sst.edu.sg
 <br>Others: Refer to instructions in the left panel of the Students Blog:
 <a href="http://studentsblog.sst.edu.sg" rel="noopener noreferrer nofollow" target="_blank">http://studentsblog.sst.edu.sg</a>
 </p>
