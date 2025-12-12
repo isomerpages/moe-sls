@@ -14,7 +14,7 @@ variant: markdown
 	<ol style="list-style-type: lower-alpha;">
 		<li>attached a pre-populated Google File to a Free-Response Question. Click <a target="_blank" href="/student-user-guide/assign/attempt-google-attached-files/">here</a> on how to attempt such questions.</li>
 		<li>turned on Feedback Assistant - Mathematics. Click <a target="_blank" href="/student-user-guide/assess/about-mathematics-feedback-assistant/">here</a> on how to attempt such questions.</li>
-	<li>turned on Language Feedback Assistant - English. Click <a target="_blank" href="/student-user-guide/assess/about-language-feedback-assistant-for-english/">here</a> on how to attempt such questions.</li>
+	<li>turned on Annotated Feedback Assistant. Click <a target="_blank" href="/student-user-guide/assess/about-annotated-feedback-assistant/">here</a> on how to attempt such questions.</li>
 	<li>turned on Short Answer Feedback Assistant. Click <a target="_blank" href="/student-user-guide/assess/about-short-answer-feedback-assistant">here</a> on how to attempt such questions.</li>
 	<li>turned on Interactive Response. Marks will be automatically awarded after you have interacted with the HTML5 content in the questions. </li>
 </ol>
