@@ -2533,7 +2533,7 @@ ang_yew_leong@schools.gov.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 65717427
-<br>Email: loh_kwai_yin@sst.edu.sg
+<br>Email: ictd@sst.edu.sg
 <br>Others: Refer to instructions in the left panel of the Students Blog:
 <a href="http://studentsblog.sst.edu.sg" rel="noopener noreferrer nofollow" target="_blank">http://studentsblog.sst.edu.sg</a>
 </p>
@@ -2677,8 +2677,8 @@ Reymund_G_Ardines@sportsschool.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 67697176
-<br>Email: admin_svps@moe.edu.sg
-<br>Others: <a href="https://go.gov.sg/svpsls" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+<br>Email:
+<br>Others: <a href="https://go.gov.sg/svicthelpdesk" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
