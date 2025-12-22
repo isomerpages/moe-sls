@@ -362,7 +362,7 @@ the next 2 years.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ng Joon Khang (IA)</p>
+<p>Ng Joon Khang</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>QIFA PRIMARY SCHOOL</p>
@@ -403,7 +403,7 @@ the next 2 years.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Yong Wei Ying (Elaine Yong)</p>
+<p>Yong Wei Ying</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>TECK WHYE PRIMARY SCHOOL</p>
@@ -517,4 +517,5 @@ the next 2 years.</p>
 </tbody>
 </table>
 <p></p>
-<p>Anchor Green Primary School</p>
+<p></p>
+<p></p>
