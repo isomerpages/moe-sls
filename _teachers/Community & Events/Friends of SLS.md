@@ -39,7 +39,7 @@ the next 2 years.</p>
 <tbody>
 <tr>
 <th rowspan="1" colspan="1">
-<p>Friends of SLS 2026</p>
+<p>Friends of SLS 2026-2027</p>
 </th>
 <th rowspan="1" colspan="1">
 <p>School</p>
