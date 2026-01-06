@@ -29,7 +29,7 @@ resembling iconic characters, artwork or styles should not be added.</p>
 <p></p>
 <h1>About Interactives</h1>
 <p>Interactives in SLS allow teachers to embed dynamic, hands-on learning
-experiences directly for students to engage with students in their modules.</p>
+experiences directly for students to engage better in their modules.</p>
 <p>There are many types of interactives for different use cases and learning
 outcomes. Interactives may be used for game-based learning, simulation-based
 learning, assessment, data visualisation, concept mapping, or as timeline
