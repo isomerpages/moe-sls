@@ -391,7 +391,7 @@ the next 2 years.</p>
 <p>Ng Joon Khang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>QIFA PRIMARY SCHOOL</p>
+<p>SHUQUN PRIMARY SCHOOL</p>
 </td>
 </tr>
 <tr>
