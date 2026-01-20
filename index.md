@@ -22,5 +22,5 @@ sections:
         of MOE’s key initiatives to transform the learning experiences of
         Singaporean students.
       button: Find out more here
-      url: /about/overview-of-student-learning-space/
+      url: https://www.learning.moe.edu.sg/sls-as-a-key-enabler-of-edtech-masterplan-2030/
 ---
