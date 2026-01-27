@@ -641,7 +641,7 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 67691529
-<br>Email: teo_yi_wen@moe.edu.sg
+<br>Email:
 <br>Others:</p>
 </td>
 </tr>
@@ -1833,9 +1833,8 @@ ang_yew_leong@schools.gov.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 96504836
-<br>Email: ncps@moe.edu.sg
-<br>Others: <a href="https://go.gov.sg/ncps-hbl-helpdesk" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
-</p>
+<br>Email: chan_miew_yen_serena@schools.gov.sg
+<br>Others:</p>
 </td>
 </tr>
 <tr>
@@ -2217,9 +2216,9 @@ ang_yew_leong@schools.gov.sg
 <p>Pei Tong Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 66602874
+<p>Tel: 67775458
 <br>Email:
-<br>Others: <a href="https://go.gov.sg/slsptps" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+<br>Others: <a href="https://form.gov.sg/6086551d3e784500119356d1" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
@@ -3148,9 +3147,10 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 <p>West View Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 6760 0178
-<br>Email: ho_wilven@schools.gov.sg
-<br>Others:</p>
+<p>Tel: 67600178
+<br>Email: wvps@moe.edu.sg
+<br>Others: Kindly contact the Form Teacher or the relevant Subject Teacher
+directly.</p>
 </td>
 </tr>
 <tr>
