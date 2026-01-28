@@ -38,5 +38,5 @@ and neither you nor your teacher will be able to reset your password.</p>
 </ol>
 <h4>Unlock Student Account</h4>
 <hr>
-<p>Please approach your school's SLS Administrator for help in unlocking
-your account.</p>
+<p>Please <a href="https://www.learning.moe.edu.sg/login-troubleshooting/get-help/get-help-from-your-school/" rel="noopener nofollow" target="_blank">approach your school's SLS Administrator</a> for
+help in unlocking your account.</p>

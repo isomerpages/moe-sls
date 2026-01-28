@@ -75,7 +75,7 @@ request another link.</p>
 address. If that's the case, you may either use the security questions
 or approach a teacher to reset your password. Remember to key in an email
 address after that for future password reset.</p>
-<p>If the problem persists, please contact the school's SLS Administrator.</p>
+<p>If the problem persists, please <a href="https://www.learning.moe.edu.sg/login-troubleshooting/get-help/get-help-from-your-school/" rel="noopener nofollow" target="_blank">contact the school's SLS Administrator</a>.</p>
 <h4>Reset Password by Answering Security Questions</h4>
 <hr>
 <ol>
