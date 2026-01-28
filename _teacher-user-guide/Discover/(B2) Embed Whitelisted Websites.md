@@ -50,12 +50,6 @@ https://360stories.com
 https://www.abcya.com
 </td>
 </tr>
-<tr><td><strong>Access Maths</strong></td>
-<td>Math Activity Resource</td>
-<td>
-https://www.accessmaths.co.uk
-</td>
-</tr>
 <tr><td><strong>AI Singapore</strong></td>
 <td>Resource site</td>
 <td>
@@ -698,12 +692,6 @@ https://mizou.com
 https://momento360.com
 </td>
 </tr>
-<tr><td><strong>Monsters of the Debt</strong></td>
-<td>Game</td>
-<td>
-https://monsters-of-the-debt.appspot.com
-</td>
-</tr>
 <tr><td><strong>Museum of Modern Art</strong></td>
 <td>Art Resource Website</td>
 <td>
@@ -1169,12 +1157,6 @@ https://thewordsearch.com
 https://www.theasys.io
 </td>
 </tr>
-<tr><td><strong>Tigtagworld</strong></td>
-<td>Video Resource Site</td>
-<td>
-https://www.tigtagworld.com
-</td>
-</tr>
 <tr><td><strong>Timelinely</strong></td>
 <td>Video Context Tool</td>
 <td>
@@ -1267,14 +1249,6 @@ https://www.uniteforliteracy.com
 <td>Augmented Reality Tool</td>
 <td>
 https://www.varteledu.com/tcc4/index.html
-</td>
-</tr>
-<tr><td><strong>Verso</strong></td>
-<td>Collaboration Tool</td>
-<td>
-https://versolearning.com
-<br>
-https://v2.versoapp.com
 </td>
 </tr>
 <tr><td><strong>Virtual Musical Instruments</strong></td>
@@ -1467,26 +1441,12 @@ https://www.desmos.com
 https://student.desmos.com
 <br>
 https://teacher.desmos.com
-<br>
-https://programguide.desmosmath.amplify.com
-</td>
-</tr>
-<tr><td><strong>Dialogflow</strong></td>
-<td>Chatbot</td>
-<td>
-https://console.dialogflow.com
 </td>
 </tr>
 <tr><td><strong>Edpuzzle</strong></td>
 <td>Interactive Video Tool</td>
 <td>
 https://edpuzzle.com
-</td>
-</tr>
-<tr><td><strong>Eko</strong></td>
-<td>Interactive Film Tool</td>
-<td>
-https://video.eko.com
 </td>
 </tr>
 <tr><td><strong>Figma</strong></td>
@@ -1941,12 +1901,6 @@ https://ri.ap.panopto.com
 <td>Simulations</td>
 <td>
 https://phet.colorado.edu
-</td>
-</tr>
-<tr><td><strong>Playposit</strong> </td>
-<td>Interactive Video Tool</td>
-<td>
-https://api.playposit.com
 </td>
 </tr>
 <tr><td><strong>Podbean</strong></td>
