@@ -27,3 +27,5 @@ third_nav_title: Authenticate
 <li><a href="/login-troubleshooting/authentication/unlock-account/" target="_blank">Unlock Account</a></li>
 </ul>
 </details>
+
+To create a MIMS account, find out more [here](https://www.learning.moe.edu.sg/admin-user-guide/administer/activate-teacher-accounts/).
