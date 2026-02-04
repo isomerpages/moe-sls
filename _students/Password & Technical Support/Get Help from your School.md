@@ -2096,7 +2096,7 @@ ang_yew_leong@schools.gov.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 67598547
-<br>Email: tan_yaw_jin@moe.edu.sg
+<br>Email: Lee_jun_xiong_melvin@moe.edu.sg
 <br>Others:</p>
 </td>
 </tr>
