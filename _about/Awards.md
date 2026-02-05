@@ -7,6 +7,12 @@ variant: markdown
 ---
 <h1>Awards</h1>
 <p>The SLS is MOE's main online learning platform used by almost 500,000 users. It has helped schools provide students with more equal access to quality resources and engaging learning experiences, improving their digital literacy and 21st century skills. Teachers also have access to a range of educational technology tools to facilitate active learning and customize lessons to different learning needs. SLS has been crucial in implementing Full Home-Based Learning and Blended Learning and will continue to be an important part of future plans for EdTech.</p>
+
+<h4>International Society for Technology in Education (ISTE) Seal Recognition 2025</h4>
+<p>The International Society for Technology in Education (ISTE) Seal recognises educational technology products that meet high standards of usability, pedagogy and alignment with the ISTE standards. </p>
+<p>The Singapore Student Learning Space (SLS) was awarded the ISTE Seal following rigorous evaluation, which affirmed its thoughtful design, strong pedagogical foundations and effective support for meaningful, equitable learning. This recognition underscores SLS as a high-quality platform that enables the seamless integration of technology in classroom practice.</p>
+
+
 <h4>Public Sector Transformation (PST) Awards Ceremony 2023</h4>
 <h5>Service Delivery Excellence Award</h5>
 <p>The Public Sector Transformation (PST) Awards Ceremony is the Whole-of-Government (WOG) pinnacle platform to recognise and reward public officers and public agencies for excellence in their work and organisational practices. The awards are aimed at encouraging officers and agencies to pursue PST by recognising best practices, as well as desired behaviours and values that undergird achievements.</p>
