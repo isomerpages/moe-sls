@@ -918,7 +918,7 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 65653692
-<br>Email: dunearn_ss@moe.edu.s
+<br>Email: dunearn_ss@moe.edu.sg
 <br>Others:</p>
 </td>
 </tr>
