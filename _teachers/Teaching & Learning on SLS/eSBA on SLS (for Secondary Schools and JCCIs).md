@@ -6,251 +6,194 @@ description: ""
 third_nav_title: Teaching & Learning on SLS
 image: /images/FaviconLight.png
 ---
-<h1>e-SBA on SLS</h1>
-<p>The fundamental principle of e-assessment remains the same as it is for
-pen-and-paper mode. Key principles of fairness, reliability and validity
-remain central when deciding the appropriate mode of and approach to assessments.
-Where appropriate, schools can choose to implement school-based e-assessments
-(e-SBAs) via SLS.</p>
-<p>For subjects with a National e-Examination component, schools should have
-received the guide from the respective subject branches. Please approach
-the respective CPDD/SDCD subject branches to get the latest copy.</p>
-<p>Schools can also refer to the steps below when implementing e-SBA via
-SLS:</p>
-<details class="isomer-details">
-<summary>e-Author</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>1. Create a teacher-marked quiz in SLS. Closed-ended questions (such as
-MCQ, Fill-In-The-Blank) will still be auto-marked. A teacher-marked quiz,
-allows the teacher to decide when to release the quiz to the students,
-just like the pen and paper test or exam.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>How to create a teacher-marked quiz in SLS:</p>
-<p><a href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/create-quizzes/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/teacher-user-guide/assess/create-quizzes/</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>2. These are specimen papers in SLS Community Gallery that you can adapt:</p>
-<p>a. N(T) Level Music Paper 1 - <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/5c55ecb8-23d0-4849-b742-25955c66105f/cover" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/5c55ecb8-23d0-4849-b742-25955c66105f/cover</a>
-</p>
-<p>b. O Level Exercise and Sports Science - <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/8aaeb942-1e2c-4bcf-990a-b7290e4fc0f9/cover" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/8aaeb942-1e2c-4bcf-990a-b7290e4fc0f9/cover</a>
-</p>
-<p>c. N(T) Level English Language Paper 1 - <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/eb64b6a2-2b7e-496b-93ba-97352059f4b8/cover" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/eb64b6a2-2b7e-496b-93ba-97352059f4b8/cover</a>
-</p>
-<p>d. N(A) Social Studies Digital Answer Booklet (this is not a specimen
-paper) - <a href="https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/a28f308b-03b8-41da-843f-4550a4b1dc8b/cover" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/mrv/community-gallery/lesson/view/a28f308b-03b8-41da-843f-4550a4b1dc8b/cover</a>
-</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>How to assign or make a copy of a SLS Community Gallery Lesson: <a href="https://www.learning.moe.edu.sg/teacher-user-guide/assign/assign-community-gallery-modules/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/teacher-user-guide/assign/assign-community-gallery-modules/</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>3. Setters may wish to adopt current practices of setting the paper in
-hardcopy format and follow through with the hardcopy vetting process.</p>
-<p>4. E-author the final version of the vetted paper in SLS and organise
-a review session to finalise the e-version.</p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>e-Deliver</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<h4>Before the e-SBA in SLS,</h4>
-<p>1.&nbsp;&nbsp;&nbsp; Assign the teacher-marked quiz to an existing Class
-Group or SLS-created Class Group. Add invigilating teacher(s) with "co-teacher"
-rights to the Class Group.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>How to add "Owner" rights to a Class Group:</p>
-<p><a href="https://www.learning.moe.edu.sg/teacher-user-guide/organise/about-class-groups/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/teacher-user-guide/organise/about-class-groups/</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>2.&nbsp;&nbsp;&nbsp; When assigning the teacher-marked quiz,</p>
-<p>a.&nbsp;&nbsp;&nbsp; Schedule the Start Time to be the same as the stipulated
-Start Time:</p>
-<p>3.&nbsp;&nbsp;&nbsp; When assigning the teacher-marked quiz,</p>
-<p>a.&nbsp;&nbsp;&nbsp; Schedule the Start Time to be the same as the stipulated
-Start Time;</p>
-<p>b.&nbsp;&nbsp;&nbsp; Change the setting of the teacher-marked quiz to
-an "assessment". By doing so, the SLS assessment will not appear on students'
-"To-Do" Dashboard, and they can only access the SLS assessment when teachers
-share the URL.</p>
-<p>4.&nbsp;&nbsp;&nbsp; Make a copy of the URL of the SLS assessment.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>How to set assignment as assessment on SLS: <a href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/set-assignments-as-assessments/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/teacher-user-guide/assess/set-assignments-as-assessments/</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<h4>During the e-SBA in SLS,</h4>
-<p>1.&nbsp;&nbsp;&nbsp; Students will double click on the browser shortcut
-on their desktop.</p>
-<p>2.&nbsp;&nbsp;&nbsp; Ask students to log into SLS. Students will be on
-the SLS assessment page.</p>
-<p>3.&nbsp;&nbsp;&nbsp; Remind students to submit the SLS assessment after
-checking.</p>
-<p>4.&nbsp;&nbsp;&nbsp; If students accidentally submit without completing,
-the teacher can un-submit the assessment and it will be returned to the
-students for them to complete the remaining questions.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p>How to un-submit a Teacher-marked Quiz: <a href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/unsubmit-teacher-marked-quizzes-or-questions/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/teacher-user-guide/assess/unsubmit-teacher-marked-quizzes-or-questions/</a>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;</p>
-<h4>After the e-SBA in SLS,</h4>
-<p>1.&nbsp;&nbsp;&nbsp; Pause the SLS assessment. This prevents unauthorised
-access after the e-SBA.</p>
+<h1>e-School Based Assessment (e-SBA) on SLS</h1>
+<h4> <strong>Introduction</strong></h4>
+<p>This page provides guidance and support to schools on the implementation
+of e-School-Based Assessments (e-SBAs) in SLS</p>
+<h4><strong>e-SBA on SLS</strong></h4>
+<p>Affordances of digital assessment are developing rapidly in tandem with
+technological advances, bringing new possibilities to both formative and
+summative assessments. Digital assessments can be harnessed to enrich assessment
+and feedback experiences for students in ways not readily achievable through
+pen-and-paper assessment. For instance, AI-enabled feedback in SLS can
+provide pedagogically aligned and motivating feedback through teacher-over-the-loop
+(instant feedback which is aligned to the teacher's mark scheme) or teacher-in-the-loop
+(edited by the teacher) to feed forward students' learning.</p>
+<p>SLS, as our core teaching and learning platform, continuously enhances
+technology-enabled learning experiences, including digital assessments.</p>
+<p>To understand the affordances of SLS for e-SBAs, click <a href="https://docs.google.com/presentation/d/1nv3jYFEAe11e3RwtkIx2jtxo80MXGkPk/edit?usp=sharing&amp;ouid=107091864680937020981&amp;rtpof=true&amp;sd=true" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank"><u>here</u></a>  <em>(iCON access is required. Updated on 15 Jan 2026) </em>to
+learn more.</p>
 <p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>e-Mark</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>1.&nbsp;&nbsp;&nbsp; Mark the open-ended responses. Closed-ended responses
-are auto-marked. If you have activated use of SAFA, the responses will
-be auto-marked.</p>
-<table style="minWidth: 25px">
+<h4><strong>Conduct of e-SBA via SLS</strong></h4>
+<p>Schools can refer to this <a href="https://docs.google.com/presentation/d/1v3W0wgIr6Q6SqXRizhb2c8aHYAsVdS7u/edit?usp=sharing&amp;ouid=107091864680937020981&amp;rtpof=true&amp;sd=true" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank"><u>guide</u></a> (<em>iCON access is required. Updated on 15 Jan 2026) </em>for
+more information on conducting e-SBA with SLS.</p>
+<p>At the Primary level, schools should continue to prioritise age-appropriate,
+tactile learning experiences like print-based reading and hands-on activities.</p>
+<p>For subjects with a National E-Examination Component at the Secondary
+and JCs/MI, schools may refer to the <a href="https://icollaborate.moe.gov.sg/nai/Lists/Document/Attachments/2356/PS-02-23.pdf" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank"><u>notification (intranet)</u></a> (published
+on 10 October 2023) on the policy guidelines and key considerations for
+e-SBA.</p>
+<p></p>
+<h4><strong>Specimen e-SBA papers for teachers’ adaptation</strong></h4>
+<p>These are specimen papers in the SLS Community Gallery that teachers can
+adapt for e-SBA for subjects with a National E-Examination Component at
+the Secondary and JCs/MI level. These are developed in collaboration with
+CPDD/SDCD and SEAB:</p>
+<table style="minWidth: 50px">
 <colgroup>
+<col>
 <col>
 </colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>How to mark a Teacher-marked Quiz: <a href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/mark-teacher-marked-quizzes/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/teacher-user-guide/assess/mark-teacher-marked-quizzes/</a>
+<p><strong>Subjects</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Specimen Paper</strong>
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<p>2.&nbsp;&nbsp;&nbsp; Indicate allocated marks.</p>
-<p>3.&nbsp;&nbsp;&nbsp; If rubrics is activated, marks can be easily adjusted.</p>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>e-Return</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>1.&nbsp;&nbsp;&nbsp; After completion of marking, resume the SLS assessment.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>How to resume an Assignment (which in this case is an assessment):</p>
-<p><a href="https://www.learning.moe.edu.sg/teacher-user-guide/assign/pause-and-resume-assignments/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/teacher-user-guide/assign/pause-and-resume-assignments/</a>
+<p>N(T) G1 Level Basic Chinese Paper 1 and 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/a167a6cf-1f28-4e87-a020-3b0c55181fd0" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/a167a6cf-1f28-4e87-a020-3b0c55181fd0</u></a>
 </p>
 </td>
 </tr>
-</tbody>
-</table>
-<p>2.&nbsp;&nbsp;&nbsp; Change the assessment back to an assignment. The
-assignment will appear in Students' Assignment List.</p>
-<p>3.&nbsp;&nbsp;&nbsp; Release the assignment to the students.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>How to release a Teacher-marked Quiz:</p>
-<p><a href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/release-teacher-marked-quizzes/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/teacher-user-guide/assess/release-teacher-marked-quizzes/</a>
+<p>N(T) G1 Level Basic Malay Paper 1 and 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/627341f8-2b7a-4cdc-a8cb-0b119a272087" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/627341f8-2b7a-4cdc-a8cb-0b119a272087</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>N(T) G1 Level Basic Tamil Paper 1 and 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/4694a5c3-e512-4084-8677-cf1017eb7538" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/4694a5c3-e512-4084-8677-cf1017eb7538</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>N(T) G1 Level English Language Paper 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/eb64b6a2-2b7e-496b-93ba-97352059f4b8" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/eb64b6a2-2b7e-496b-93ba-97352059f4b8</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>N(T) G1 Level Music Paper 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/5c55ecb8-23d0-4849-b742-25955c66105f" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/5c55ecb8-23d0-4849-b742-25955c66105f</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>N(T) G1 Level Science Paper 1</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/moe-library/module/view/5b65e07f-8060-4ef6-aa2b-209350db988c" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/moe-library/module/view/5b65e07f-8060-4ef6-aa2b-209350db988c</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>O G3 Level Exercise and Sports Science</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/8aaeb942-1e2c-4bcf-990a-b7290e4fc0f9" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/8aaeb942-1e2c-4bcf-990a-b7290e4fc0f9</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>N(A) G2 Level Chinese Paper 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/aba6e964-cda6-4059-8686-703b3ecbef43" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/aba6e964-cda6-4059-8686-703b3ecbef43</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>N(A) G2 Level Malay Paper 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/8f55a75c-b770-4f92-872f-0e17a8424b5a" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/8f55a75c-b770-4f92-872f-0e17a8424b5a</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>N(A) G2 Level Tamil Paper 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/883c1568-f5ab-4ec5-9a9f-09769fcc4a2a" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/883c1568-f5ab-4ec5-9a9f-09769fcc4a2a</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>O-Level History (2174) Digital Answer Booklet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/baeaa408-de40-4ff4-b99c-282fdc179daf" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/baeaa408-de40-4ff4-b99c-282fdc179daf</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>N(A) G2 Social Studies Digital Answer Booklet*</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/a28f308b-03b8-41da-843f-4550a4b1dc8b" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/a28f308b-03b8-41da-843f-4550a4b1dc8b</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A-Level H2 English Literature Digital Answer Booklets</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>A-Level Literature in English Digital Answer Booklet (9539/01): </strong>
+<a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/fb404e49-4d58-4622-854b-6fdd98fd5dfa" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/fb404e49-4d58-4622-854b-6fdd98fd5dfa</u>
+</a> <strong>A-Level Literature in English Digital Answer Booklet (9539/02): </strong>
+<a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/3e512d5d-1ce3-4f3c-8394-13385fdaad70" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/3e512d5d-1ce3-4f3c-8394-13385fdaad70</u>
+</a>&nbsp; <strong>A-Level Literature in English Digital Answer Booklet (9539/03): </strong>
+<a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/22c292f9-5198-4d00-9083-b37e1ce9f2e0" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/22c292f9-5198-4d00-9083-b37e1ce9f2e0</u>
+</a>&nbsp; <strong>A-Level Literature in English Digital Answer Booklet (8841/01): </strong>
+<a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/2489df75-8407-4152-a9c0-0becaeb2e7a0" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/2489df75-8407-4152-a9c0-0becaeb2e7a0</u>
+</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A Level H2 China Studies in English&nbsp;Digital Answer Booklet (Paper
+1 &amp; 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Paper 1: </strong><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/bddaf22a-208b-4b88-b7f5-56e44304e3a5" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/bddaf22a-208b-4b88-b7f5-56e44304e3a5</u></a> &nbsp;</p>
+<p><strong>Paper 2: </strong><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/615fcde9-6f6d-43ab-87f4-9015b894c074" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/615fcde9-6f6d-43ab-87f4-9015b894c074</u></a> &nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>4.&nbsp;&nbsp;&nbsp; Students will be able to locate the "completed" SLS
-assignment in their "Assignments" list.</p>
-<p>5.&nbsp;&nbsp;&nbsp; Students who were absent and did not attempt the
-SLS assessment will also be able to locate the uncompleted SLS assignment
-in their "Assignments" list.</p>
-<p></p>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Frequently Asked Questions</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p>1. Can I print the scripts?</p>
-<p>The system currently does not support the printing of students' scripts
-for marking. Teachers are encouraged to make use of the e-marking features
-such as commenting and use of rubrics with auto-computation of marks.</p>
-<p>2.&nbsp;&nbsp;&nbsp; Can I download the marks and responses?</p>
-<p>At "Monitor Assignment", download Marks and Responses in separate MSExcel
-files.</p>
-<p>3.&nbsp;&nbsp;&nbsp; Can I specify all possible answers for the editing
-question (English Language)?</p>
-<p>Specify all possible answers and indicate that answers need not be case
-sensitive. However, as there may be other unanticipated but acceptable
-answers arising from minor misspelling, any subsequent changes to the marking
-scheme will need to be separately processed offline. Teachers can identify
-additional acceptable responses and manually adjust marks awarded to students
-offline.</p>
-<p>4.&nbsp;&nbsp;&nbsp; Can I over-write the marks allocated for auto-marked
-responses?</p>
-<p>Any subsequent changes to the marking scheme will need to be separately
-processed offline. Teachers can identify additional acceptable responses
-and manually adjust marks awarded to students offline.</p>
-<p></p>
-<p></p>
-</div>
-</details>
-<details class="isomer-details">
-<summary>Resources</summary>
-<div data-type="detailsContent" class="isomer-details-content">
-<p><strong>1. <a href="https://docs.google.com/presentation/d/1nv3jYFEAe11e3RwtkIx2jtxo80MXGkPk/edit?usp=sharing&amp;ouid=107947145652324035273&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">e-SBA Guide</a></strong>
+<h4><strong>Frequently Asked Questions</strong></h4>
+<p>To view all the FAQs, please click <a href="https://docs.google.com/presentation/d/1I7yHaKDEgnujZcsdfEcIhkes32XiSRHP/edit?usp=sharing&amp;ouid=107091864680937020981&amp;rtpof=true&amp;sd=true" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank"><u>here</u></a>  <em>(iCON access is required. Updated on 15 Jan 2026).</em>
 </p>
-<p>This guide covers the objectives of e-SBA objectives and step-by-step
-instructions for implementing e-SBA on SLS.</p>
-<p><strong>2. <a href="https://docs.google.com/presentation/d/1TUeaSobCicUYvFnuIw9QsarQExE0aLKh/edit?usp=drive_link&amp;ouid=107947145652324035273&amp;rtpof=true&amp;sd=true" rel="noopener noreferrer nofollow" target="_blank">Student Briefing Template</a></strong>
-</p>
-<p>This template is designed for teachers to brief students on the e-SBA
-process, including how to access, complete, and submit their assessments.
-Teachers can edit the template as needed.</p>
-<p><u>Note</u>: Both resources are accessible only via MOE iCON login.</p>
-</div>
-</details>
 <p></p>
+<p>in SLS</p>
