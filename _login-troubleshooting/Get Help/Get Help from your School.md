@@ -196,7 +196,7 @@ further assistance.</p>
 <p>Anglo-Chinese School (Junior)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 67337911
+<p>Tel: 90048167
 <br>Email: lee_may_po@moe.edu.sg
 <br>Others:</p>
 </td>
