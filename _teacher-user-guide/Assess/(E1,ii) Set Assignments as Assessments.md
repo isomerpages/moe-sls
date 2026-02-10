@@ -50,7 +50,7 @@ where they will see a list of assessments assigned to them.</p>
 <div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Bulb32.svg">
 </div>
-<p><u> Did You Know</u>:</p>
+<p><u>Did You Know</u>:</p>
 <p>If you do not wish to create an Assessment (which will require the whitelisting
 of embedded links or apps), you may wish to <a href="/teacher-user-guide/assess/add-and-view-access-codes/" rel="noopener noreferrer nofollow" target="_blank">set a Access Code (formerly known as Passcode) to an Assignment</a>.
 Students will require the Access Code before they can attempt the Assignment.</p>
