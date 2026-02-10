@@ -197,9 +197,8 @@ further assistance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 67337911
-<br>Email:
-<br>Others: <a href="https://go.gov.sg/acsjsls" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acsjsls</a>
-</p>
+<br>Email: lee_may_po@moe.edu.sg
+<br>Others:</p>
 </td>
 </tr>
 <tr>
