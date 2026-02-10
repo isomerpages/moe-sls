@@ -7,10 +7,10 @@ third_nav_title: Teaching & Learning on SLS
 image: /images/FaviconLight.png
 ---
 <h1>e-School Based Assessment (e-SBA) on SLS</h1>
-<h4><strong>Introduction</strong></h4>
+<h4>Introduction</h4>
 <p>This page provides guidance and support to schools on the implementation
 of e-School-Based Assessments (e-SBAs) in SLS</p>
-<h4><strong>e-SBA on SLS</strong></h4>
+<h4>e-SBA on SLS</h4>
 <p>Affordances of digital assessment are developing rapidly in tandem with
 technological advances, bringing new possibilities to both formative and
 summative assessments. Digital assessments can be harnessed to enrich assessment
@@ -24,7 +24,7 @@ technology-enabled learning experiences, including digital assessments.</p>
 <p>To understand the affordances of SLS for e-SBAs, click <a href="https://docs.google.com/presentation/d/1nv3jYFEAe11e3RwtkIx2jtxo80MXGkPk/edit?usp=sharing&amp;ouid=107091864680937020981&amp;rtpof=true&amp;sd=true" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank"><u>here</u></a>  <em>(iCON access is required. Updated on 15 Jan 2026) </em>to
 learn more.</p>
 <p></p>
-<h4><strong>Conduct of e-SBA via SLS</strong></h4>
+<h4>Conduct of e-SBA via SLS</h4>
 <p>Schools can refer to this <a href="https://docs.google.com/presentation/d/1v3W0wgIr6Q6SqXRizhb2c8aHYAsVdS7u/edit?usp=sharing&amp;ouid=107091864680937020981&amp;rtpof=true&amp;sd=true" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank"><u>guide</u></a> (<em>iCON access is required. Updated on 15 Jan 2026) </em>for
 more information on conducting e-SBA with SLS.</p>
 <p>At the Primary level, schools should continue to prioritise age-appropriate,
@@ -34,7 +34,7 @@ and JCs/MI, schools may refer to the <a href="https://icollaborate.moe.gov.sg/na
 on 10 October 2023) on the policy guidelines and key considerations for
 e-SBA.</p>
 <p></p>
-<h4><strong>Specimen e-SBA papers for teachers’ adaptation</strong></h4>
+<h4>Specimen e-SBA papers for teachers’ adaptation</h4>
 <p>These are specimen papers in the SLS Community Gallery that teachers can
 adapt for e-SBA for subjects with a National E-Examination Component at
 the Secondary and JCs/MI level. These are developed in collaboration with
@@ -168,15 +168,13 @@ CPDD/SDCD and SEAB:</p>
 <p>A-Level H2 English Literature Digital Answer Booklets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>A-Level Literature in English Digital Answer Booklet (9539/01): </strong>
+<p>A-Level Literature in English Digital Answer Booklet (9539/01):<strong> </strong>
 <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/fb404e49-4d58-4622-854b-6fdd98fd5dfa" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/fb404e49-4d58-4622-854b-6fdd98fd5dfa</u>
-</a> <strong>A-Level Literature in English Digital Answer Booklet (9539/02): </strong>
-<a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/3e512d5d-1ce3-4f3c-8394-13385fdaad70" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/3e512d5d-1ce3-4f3c-8394-13385fdaad70</u>
-</a>&nbsp; <strong>A-Level Literature in English Digital Answer Booklet (9539/03): </strong>
-<a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/22c292f9-5198-4d00-9083-b37e1ce9f2e0" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/22c292f9-5198-4d00-9083-b37e1ce9f2e0</u>
-</a>&nbsp; <strong>A-Level Literature in English Digital Answer Booklet (8841/01): </strong>
-<a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/2489df75-8407-4152-a9c0-0becaeb2e7a0" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/2489df75-8407-4152-a9c0-0becaeb2e7a0</u>
 </a>
+</p>
+<p>A-Level Literature in English Digital Answer Booklet (9539/02): <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/3e512d5d-1ce3-4f3c-8394-13385fdaad70" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/3e512d5d-1ce3-4f3c-8394-13385fdaad70</u></a>&nbsp;</p>
+<p>A-Level Literature in English Digital Answer Booklet (9539/03): <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/22c292f9-5198-4d00-9083-b37e1ce9f2e0" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/22c292f9-5198-4d00-9083-b37e1ce9f2e0</u></a>&nbsp;</p>
+<p>A-Level Literature in English Digital Answer Booklet (8841/01): <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/2489df75-8407-4152-a9c0-0becaeb2e7a0" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/2489df75-8407-4152-a9c0-0becaeb2e7a0</u></a>
 </p>
 </td>
 </tr>
@@ -186,13 +184,13 @@ CPDD/SDCD and SEAB:</p>
 1 &amp; 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Paper 1: </strong><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/bddaf22a-208b-4b88-b7f5-56e44304e3a5" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/bddaf22a-208b-4b88-b7f5-56e44304e3a5</u></a> &nbsp;</p>
-<p><strong>Paper 2: </strong><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/615fcde9-6f6d-43ab-87f4-9015b894c074" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/615fcde9-6f6d-43ab-87f4-9015b894c074</u></a> &nbsp;</p>
+<p>Paper 1: <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/bddaf22a-208b-4b88-b7f5-56e44304e3a5" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/bddaf22a-208b-4b88-b7f5-56e44304e3a5</u></a> &nbsp;</p>
+<p>Paper 2: <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/615fcde9-6f6d-43ab-87f4-9015b894c074" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/615fcde9-6f6d-43ab-87f4-9015b894c074</u></a> &nbsp;</p>
 </td>
 </tr>
 </tbody>
 </table>
-<h4><strong>Frequently Asked Questions</strong></h4>
+<h4>Frequently Asked Questions</h4>
 <p>To view all the FAQs, please click <a href="https://docs.google.com/presentation/d/1I7yHaKDEgnujZcsdfEcIhkes32XiSRHP/edit?usp=sharing&amp;ouid=107091864680937020981&amp;rtpof=true&amp;sd=true" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank"><u>here</u></a>  <em>(iCON access is required. Updated on 15 Jan 2026).</em>
 </p>
 <p></p>
