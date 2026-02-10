@@ -1329,8 +1329,8 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 62886516
-<br>Email: holyinnocentspri@moe.edu.sg
-<br>Others: <a href="https://go.gov.sg/hips-slsunlock" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+<br>Email: admin_holyinnocent@moe.edu.sg
+<br>Others: <a href="https://go.gov.sg/hips-student-icon-reset" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
