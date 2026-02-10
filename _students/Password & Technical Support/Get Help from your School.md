@@ -6,10 +6,13 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Password & Technical Support
 ---
-<h3>Get Help from your School</h3>
+<h1>Get Help from your School</h1>
 <p>The following are details on how you can contact your school to assist
 in login or e-learning issues during working hours.</p>
 <p>You may use the search function in your browser to find your school quickly.</p>
+<p>If your school/organisation’s contact information is not listed here,
+please write to <a href="https://www.learning.moe.edu.sg/login-troubleshooting/get-help/contact-sls-helpdesk/" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">SLS Helpdesk</a> for
+further assistance.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -193,10 +196,9 @@ in login or e-learning issues during working hours.</p>
 <p>Anglo-Chinese School (Junior)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 67337911
-<br>Email:
-<br>Others: <a href="https://go.gov.sg/acsjsls" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/acsjsls</a>
-</p>
+<p>Tel: 90048167
+<br>Email: lee_may_po@moe.edu.sg
+<br>Others:</p>
 </td>
 </tr>
 <tr>
@@ -568,8 +570,7 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 <td rowspan="1" colspan="1">
 <p>Tel: 67859790
 <br>Email:
-<br>Others: <a href="https://go.gov.sg/hbl" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
-</p>
+<br>Others</p>
 </td>
 </tr>
 <tr>
@@ -579,7 +580,7 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 <td rowspan="1" colspan="1">
 <p>Tel: 67830923
 <br>Email:
-<br>Others: <a href="https://form.gov.sg/5d9c31130152c7001911c710" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+<br>Others: <a href="https://docs.google.com/forms/d/e/1FAIpQLSemkOenWQsrCl_VZnywnY2S0Cf2Xo2tg0OoMY--FA2bG7BO9w/viewform" rel="noopener noreferrer nofollow" target="_blank">Google Form</a>
 </p>
 </td>
 </tr>
@@ -916,9 +917,8 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 65653692
-<br>Email:
-<br>Others: <a href="https://go.gov.sg/dsshelpdesk" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
-</p>
+<br>Email: dunearn_ss@moe.edu.sg
+<br>Others:</p>
 </td>
 </tr>
 <tr>
@@ -946,9 +946,9 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 <p>East Spring Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 67866192
+<p>Tel: 67026513
 <br>Email:
-<br>Others: <a href="https://eastspringpri.moe.edu.sg/others/sls-password-reset" rel="noopener noreferrer nofollow" target="_blank">School Website</a>
+<br>Others: <a href="https://www.eastspringpri.moe.edu.sg/for-students/" rel="noopener noreferrer nofollow" target="_blank">School Website</a>
 </p>
 </td>
 </tr>
@@ -1329,8 +1329,8 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 62886516
-<br>Email: holyinnocentspri@moe.edu.sg
-<br>Others: <a href="https://go.gov.sg/hips-slsunlock" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+<br>Email: admin_holyinnocent@moe.edu.sg
+<br>Others: <a href="https://go.gov.sg/hips-student-icon-reset" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
@@ -3507,7 +3507,7 @@ directly.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 65938171
-<br>Email:<a rel="noopener noreferrer nofollow" target="_blank"> arifah_azman@schools.gov.sg</a>
+<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">arifah_azman@schools.gov.sg</a> 
 <br>Others:</p>
 </td>
 </tr>
