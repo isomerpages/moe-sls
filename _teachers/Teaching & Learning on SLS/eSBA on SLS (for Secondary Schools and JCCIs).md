@@ -7,7 +7,7 @@ third_nav_title: Teaching & Learning on SLS
 image: /images/FaviconLight.png
 ---
 <h1>e-School Based Assessment (e-SBA) on SLS</h1>
-<h4> <strong>Introduction</strong></h4>
+<h4><strong>Introduction</strong></h4>
 <p>This page provides guidance and support to schools on the implementation
 of e-School-Based Assessments (e-SBAs) in SLS</p>
 <h4><strong>e-SBA on SLS</strong></h4>
