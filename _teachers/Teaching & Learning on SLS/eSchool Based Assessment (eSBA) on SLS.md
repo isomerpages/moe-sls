@@ -156,8 +156,7 @@ CPDD/SDCD and SEAB:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>N(A)-Level History (2195) Digital Answer Booklet</strong>
-</p>
+<p>N(A)-Level History (2195) Digital Answer Booklet</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/23220a7c-158b-4462-903c-c4dc32fbec7c" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/23220a7c-158b-4462-903c-c4dc32fbec7c</u></a>
@@ -200,8 +199,7 @@ CPDD/SDCD and SEAB:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>A-Level H1 History (8838) Digital Answer Booklet</strong>
-</p>
+<p>A-Level H1 History (8838) Digital Answer Booklet</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/551d7c50-527a-4546-a1f1-88b884fdeef2" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/551d7c50-527a-4546-a1f1-88b884fdeef2</u></a>
@@ -210,8 +208,7 @@ CPDD/SDCD and SEAB:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>A-Level H2 History (9174) Digital Answer Booklet</strong>
-</p>
+<p>A-Level H2 History (9174) Digital Answer Booklet</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/d5cce0ee-4ef1-470c-9ffe-55b64121331a" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/d5cce0ee-4ef1-470c-9ffe-55b64121331a</u></a>
