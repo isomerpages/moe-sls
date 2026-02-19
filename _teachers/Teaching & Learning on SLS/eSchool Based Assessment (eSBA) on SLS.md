@@ -165,7 +165,7 @@ CPDD/SDCD and SEAB:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>N(A) G2 Social Studies Digital Answer Booklet*</p>
+<p>N(A) G2 Social Studies Digital Answer Booklet</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/a28f308b-03b8-41da-843f-4550a4b1dc8b" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/a28f308b-03b8-41da-843f-4550a4b1dc8b</u></a>
