@@ -105,9 +105,8 @@ further assistance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 64560340
-<br>Email: suzanah_saparwan@moe.edu.sg
-<br>Others: <a href="https://form.gov.sg/#!/5d7e0dd328467500121f6aab" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
-</p>
+<br>Email:
+<br>Others:</p>
 </td>
 </tr>
 <tr>
@@ -632,8 +631,9 @@ further assistance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 63852455
-<br>Email: sarina_md_ismail@schools.gov.sg
-<br>Others:</p>
+<br>Email: chijoln@moe.edu.sg
+<br>Others: <a href="https://www.chijourladyofthenativity.moe.edu.sg/contact-us/password-reset-request/" rel="noopener nofollow" target="_blank">School Website</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1504,9 +1504,8 @@ further assistance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 62623593
-<br>Email:
-<br>Others: <a href="https://form.gov.sg/#!/5d6e1250d6754c0012d7ef15" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
-</p>
+<br>Email: jwss@moe.edu.sg
+<br>Others:</p>
 </td>
 </tr>
 <tr>
@@ -2766,8 +2765,9 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 65690822
-<br>Email: lim_suan_chu@moe.edu.sg; kiliammal_kathamuthu@moe.edu.sg
-<br>Others:</p>
+<br>Email:
+<br>Others: <a href="https://form.gov.sg/688036f6b192420741f6ce7d" rel="noopener nofollow" target="_blank">Form SG</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -3337,7 +3337,8 @@ directly.</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 64560669
 <br>Email:
-<br>Others:</p>
+<br>Others: <a href="http://for.edu.sg/yckss-sls" rel="noopener nofollow" target="_blank">Form SG</a>
+</p>
 </td>
 </tr>
 <tr>
