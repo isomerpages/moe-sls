@@ -1584,9 +1584,9 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 <p>Kranji Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 67634812
-<br>Email:
-<br>Others: <a href="http://go.gov.sg/passwordresetform" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+<p>Tel: 98440894
+<br>Email: woon_ai_ling@schools.gov.sg
+<br>Others: <a href="https://go.gov.sg/kpsstudentpassswordresetform" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
