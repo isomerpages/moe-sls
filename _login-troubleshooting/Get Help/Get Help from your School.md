@@ -105,9 +105,8 @@ further assistance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 64560340
-<br>Email: suzanah_saparwan@moe.edu.sg
-<br>Others: <a href="https://form.gov.sg/#!/5d7e0dd328467500121f6aab" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
-</p>
+<br>Email:
+<br>Others:</p>
 </td>
 </tr>
 <tr>
@@ -196,9 +195,10 @@ further assistance.</p>
 <p>Anglo-Chinese School (Junior)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 90048167
-<br>Email: lee_may_po@moe.edu.sg
-<br>Others:</p>
+<p>Tel: 67337911
+<br>Email:
+<br>Others: <a href="https://go.gov.sg/slshelpacsj" rel="noopener nofollow" target="_blank">Form SG</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -452,10 +452,9 @@ further assistance.</p>
 <p>Bukit View Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 65661990
-<br>Email: Mr Vicnes at vicnes@btvss.moe.edu.sg, Mr Alexander Chia at alexander_s_chia@btvss.moe.edu.sg,
-Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
-<br>Others:</p>
+<p>Tel: 60352717
+<br>Email: Mr Vicnes (vicnes_kumar_perumal@moe.edu.sg)
+<br>Others: Mr Kendrick Tan (kendrick_tan@moe.edu.sg)</p>
 </td>
 </tr>
 <tr>
@@ -590,8 +589,8 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 63443072
-<br>Email:
-<br>Others: <a href="https://form.gov.sg/#!/5ff1c39f404a380012f84102" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+<br>Email: chijktps@moe.edu.sg
+<br>Others: <a href="https://go.gov.sg/vlrhsb" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
@@ -632,8 +631,9 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 63852455
-<br>Email: sarina_md_ismail@schools.gov.sg
-<br>Others:</p>
+<br>Email: chijoln@moe.edu.sg
+<br>Others: <a href="https://www.chijourladyofthenativity.moe.edu.sg/contact-us/password-reset-request/" rel="noopener nofollow" target="_blank">School Website</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1069,7 +1069,7 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 65860123
-<br>Email: muhammad_fariz_mohamed_zain@schools.gov.sg
+<br>Email: muhammad_fariz_mohamed_zain@moe.edu.sg
 <br>Others: <a href="https://form.gov.sg/5d65d57cd6754c0012d6d775" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
 </td>
@@ -1144,7 +1144,7 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 <td rowspan="1" colspan="1">
 <p>Tel: 65624370
 <br>Email:
-<br>Others: <a href="https://go.gov.sg/fhpssls" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+<br>Others: <a href="https://form.gov.sg/67db9e6cf5a3f0517ef378e4" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
@@ -1504,9 +1504,8 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 62623593
-<br>Email:
-<br>Others: <a href="https://form.gov.sg/#!/5d6e1250d6754c0012d7ef15" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
-</p>
+<br>Email: jwss@moe.edu.sg
+<br>Others:</p>
 </td>
 </tr>
 <tr>
@@ -1585,9 +1584,8 @@ Mrs Koh-Tan Hui Min at tan_hui_min_b@btvss.moe.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 67634812
-<br>Email:
-<br>Others: <a href="http://go.gov.sg/passwordresetform" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
-</p>
+<br>Email: woon_ai_ling@schools.gov.sg
+<br>Others: muhammad_hafiz_mohamed_yasim@moe.edu.sg; woon_ai_ling@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1741,8 +1739,7 @@ ang_yew_leong@schools.gov.sg
 <td rowspan="1" colspan="1">
 <p>Tel: 64893326
 <br>Email:
-<br>Others: <a href="https://meetoh.moe.edu.sg/for-students/mee-tohians-self-directed-learners" rel="noopener noreferrer nofollow" target="_blank">School Website</a>
-</p>
+<br>Others:</p>
 </td>
 </tr>
 <tr>
@@ -2177,7 +2174,7 @@ ang_yew_leong@schools.gov.sg
 <td rowspan="1" colspan="1">
 <p>Tel: 62816606
 <br>Email: it_support@plmgss.edu.sg
-<br>Others: <a href="https://form.gov.sg/5e4344864c1a3300115e873c" rel="noopener noreferrer nofollow" target="_blank">FormSG</a>
+<br>Others: <a href="https://forms.gle/QAsRiG8UnLd6DkC87" rel="noopener noreferrer nofollow" target="_blank">Google Form</a>
 </p>
 </td>
 </tr>
@@ -2339,8 +2336,8 @@ ang_yew_leong@schools.gov.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 65701588
-<br>Email:
-<br>Others: <a href="https://www.punggolviewpri.moe.edu.sg/ez-links/sls/" rel="noopener noreferrer nofollow" target="_blank">School Website</a>
+<br>Email: iskandar_hamid@moe.edu.sg
+<br>Others: <a href="https://www.punggolviewpri.moe.edu.sg/mims-password-reset/" rel="noopener noreferrer nofollow" target="_blank">School Website</a>
 </p>
 </td>
 </tr>
@@ -2724,13 +2721,12 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>St Andrew’s School (Junior)</p>
+<p>St Andrew's Junior School</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 62884303
 <br>Email: ict@saintandrewsjunior.moe.edu.sg
-<br>Others: <a href="https://form.gov.sg/#!/5d229344bf829f00113c1876" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
-</p>
+<br>Others</p>
 </td>
 </tr>
 <tr>
@@ -2769,8 +2765,9 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 65690822
-<br>Email: lim_suan_chu@moe.edu.sg; kiliammal_kathamuthu@moe.edu.sg
-<br>Others:</p>
+<br>Email:
+<br>Others: <a href="https://form.gov.sg/688036f6b192420741f6ce7d" rel="noopener nofollow" target="_blank">Form SG</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -2780,7 +2777,7 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 62803628
 <br>Email:
-<br>Others: <a href="https://go.gov.sg/sgpssls" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+<br>Others: <a href="https://form.gov.sg/68d645a724853a2522f46756" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
@@ -2790,9 +2787,8 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 62889470
-<br>Email:
-<br>Others: <a href="https://form.gov.sg/#!/5d5a138c0842660019287a60" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
-</p>
+<br>Email: peh_hun_sheng@moe.edu.sg
+<br>Others:</p>
 </td>
 </tr>
 <tr>
@@ -2974,7 +2970,7 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 64548769
 <br>Email:
-<br>Others: <a href="https://form.gov.sg/609de16fb3fce000127e3ffe" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+<br>Others: <a href="https://for.edu.sg/tgpspasswordreset" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
@@ -2985,7 +2981,7 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 97888640
 <br>Email:
-<br>Others: <a href="https://go.gov.sg/twpshelpline" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+<br>Others: <a href="https://go.gov.sg/twps-sls-request" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
@@ -3339,9 +3335,9 @@ directly.</p>
 <p>Yio Chu Kang Secondary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 64560669 ext.128
+<p>Tel: 64560669
 <br>Email:
-<br>Others: <a href="https://go.gov.sg/yckss-sls-help" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+<br>Others: <a href="http://for.edu.sg/yckss-sls" rel="noopener nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
@@ -3405,8 +3401,8 @@ directly.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 62612489
-<br>Email:
-<br>Others: <a href="https://go.gov.sg/sls-pw-reset" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
+<br>Email: admin_ycss@moe.edu.sg
+<br>Others: <a href="https://go.gov.sg/ycss-ict-helpdesk" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
