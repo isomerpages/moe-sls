@@ -196,7 +196,7 @@ further assistance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 67337911
-<br>Email:
+<br>Email: acsj@moe.edu.sg
 <br>Others: <a href="https://go.gov.sg/slshelpacsj" rel="noopener nofollow" target="_blank">Form SG</a>
 </p>
 </td>
