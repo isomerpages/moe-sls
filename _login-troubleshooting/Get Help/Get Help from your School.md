@@ -196,7 +196,7 @@ further assistance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 67337911
-<br>Email:
+<br>Email: acsj@moe.edu.sg
 <br>Others: <a href="https://go.gov.sg/slshelpacsj" rel="noopener nofollow" target="_blank">Form SG</a>
 </p>
 </td>
@@ -1484,8 +1484,7 @@ further assistance.</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 62655980
 <br>Email: jss.ict.team@gmail.com
-<br>Others: <a href="https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/login-troubleshooting/authentication/index/</a>
-</p>
+<br>Others:</p>
 </td>
 </tr>
 <tr>
