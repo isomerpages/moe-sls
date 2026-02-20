@@ -1,6 +1,6 @@
 ---
 title: eSchool Based Assessment (eSBA) on SLS
-permalink: /teachers/esba-on-sls-for-secondary-schools-and-jccis/
+permalink: /teachers/esba-on-sls/
 variant: tiptap
 description: ""
 third_nav_title: Teaching & Learning on SLS
@@ -189,16 +189,6 @@ CPDD/SDCD and SEAB:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A Level H2 China Studies in English&nbsp;Digital Answer Booklet (Paper
-1 &amp; 2)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Paper 1: <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/bddaf22a-208b-4b88-b7f5-56e44304e3a5" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/bddaf22a-208b-4b88-b7f5-56e44304e3a5</u></a> &nbsp;</p>
-<p>Paper 2: <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/615fcde9-6f6d-43ab-87f4-9015b894c074" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/615fcde9-6f6d-43ab-87f4-9015b894c074</u></a> &nbsp;</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>A-Level H1 History (8838) Digital Answer Booklet</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -213,6 +203,16 @@ CPDD/SDCD and SEAB:</p>
 <td rowspan="1" colspan="1">
 <p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/d5cce0ee-4ef1-470c-9ffe-55b64121331a" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/d5cce0ee-4ef1-470c-9ffe-55b64121331a</u></a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A Level H2 China Studies in English&nbsp;Digital Answer Booklet (Paper
+1 &amp; 2)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Paper 1: <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/bddaf22a-208b-4b88-b7f5-56e44304e3a5" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/bddaf22a-208b-4b88-b7f5-56e44304e3a5</u></a> &nbsp;</p>
+<p>Paper 2: <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/615fcde9-6f6d-43ab-87f4-9015b894c074" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/615fcde9-6f6d-43ab-87f4-9015b894c074</u></a> &nbsp;</p>
 </td>
 </tr>
 </tbody>
