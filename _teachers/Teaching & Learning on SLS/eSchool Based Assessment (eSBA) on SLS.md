@@ -1,6 +1,6 @@
 ---
 title: eSchool Based Assessment (eSBA) on SLS
-permalink: /teachers/esba-on-sls/
+permalink: /teachers/esba-on-sls-for-secondary-schools-and-jccis/
 variant: tiptap
 description: ""
 third_nav_title: Teaching & Learning on SLS
