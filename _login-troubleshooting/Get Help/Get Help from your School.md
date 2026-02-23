@@ -3000,7 +3000,7 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 64428066
-<br>Email: Low_Kian_Seh@schools.gov.sg
+<br>Email: dma@temasekjc.moe.edu.sg
 <br>Others:</p>
 </td>
 </tr>
