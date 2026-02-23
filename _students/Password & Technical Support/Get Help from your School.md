@@ -2071,8 +2071,8 @@ ang_yew_leong@schools.gov.sg
 <p>Oasis Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 96450775/63209855
-<br>Email: daniel_low_chuen_zher@moe.edu.sg
+<p>Tel: 63209855
+<br>Email: oasis_ps@moe.edu.sg
 <br>Others:</p>
 </td>
 </tr>
