@@ -177,22 +177,22 @@ CPDD/SDCD and SEAB:</p>
 <p>A-Level H2 English Literature Digital Answer Booklets</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A-Level Literature in English Digital Answer Booklet (9539/01):<strong> </strong>
-<a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/fb404e49-4d58-4622-854b-6fdd98fd5dfa" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/fb404e49-4d58-4622-854b-6fdd98fd5dfa</u>
-</a>
+<p>H2 A-Level Literature in English Digital Answer Booklet Paper 1 (9539/01):<strong>&nbsp;</strong>
+<a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/fb404e49-4d58-4622-854b-6fdd98fd5dfa" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/community-gallery/module/view/fb404e49-4d58-4622-854b-6fdd98fd5dfa&nbsp;</a>
 </p>
-<p>A-Level Literature in English Digital Answer Booklet (9539/02): <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/3e512d5d-1ce3-4f3c-8394-13385fdaad70" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/3e512d5d-1ce3-4f3c-8394-13385fdaad70</u></a>&nbsp;</p>
-<p>A-Level Literature in English Digital Answer Booklet (9539/03): <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/22c292f9-5198-4d00-9083-b37e1ce9f2e0" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/22c292f9-5198-4d00-9083-b37e1ce9f2e0</u></a>&nbsp;</p>
-<p>A-Level Literature in English Digital Answer Booklet (8841/01): <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/2489df75-8407-4152-a9c0-0becaeb2e7a0" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/2489df75-8407-4152-a9c0-0becaeb2e7a0</u></a>
-</p>
+<p>H2 A-Level Literature in English Digital Answer Booklet Paper 2 (9539/02):&nbsp;
+<a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/3e512d5d-1ce3-4f3c-8394-13385fdaad70" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/community-gallery/module/view/3e512d5d-1ce3-4f3c-8394-13385fdaad70</a>&nbsp;</p>
+<p>H2 A-Level Literature in English Digital Answer Booklet Paper 3 (9539/03):&nbsp;
+<a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/22c292f9-5198-4d00-9083-b37e1ce9f2e0" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/community-gallery/module/view/22c292f9-5198-4d00-9083-b37e1ce9f2e0</a>&nbsp;</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A-Level H1 History (8838) Digital Answer Booklet</p>
+<p>A-Level H1 English Literature Digital Answer Booklet</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/551d7c50-527a-4546-a1f1-88b884fdeef2" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/551d7c50-527a-4546-a1f1-88b884fdeef2</u></a>
+<p>H1 A-Level Literature in English Digital Answer Booklet (8841/01):&nbsp;
+<a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/2489df75-8407-4152-a9c0-0becaeb2e7a0" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/community-gallery/module/view/2489df75-8407-4152-a9c0-0becaeb2e7a0</a>
 </p>
 </td>
 </tr>
@@ -202,6 +202,15 @@ CPDD/SDCD and SEAB:</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/d5cce0ee-4ef1-470c-9ffe-55b64121331a" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/d5cce0ee-4ef1-470c-9ffe-55b64121331a</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A-Level H1 History (8838) Digital Answer Booklet</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/551d7c50-527a-4546-a1f1-88b884fdeef2" rel="noopener noreferrer nofollow" target="_blank"><u>https://vle.learning.moe.edu.sg/community-gallery/module/view/551d7c50-527a-4546-a1f1-88b884fdeef2</u></a>
 </p>
 </td>
 </tr>
