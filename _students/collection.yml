@@ -2,10 +2,10 @@ collections:
   students:
     output: true
     order:
-      - Resources for Self directed Learning.md
       - Students.md
       - Password & Technical Support/.keep
       - Password & Technical Support/Password and Technical Support.md
       - Password & Technical Support/Get Help from your School.md
+      - Resources for Self directed Learning.md
       - Student Initiated Learning.md
       - Young Overseas Singaporeans.md
