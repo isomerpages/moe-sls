@@ -1,4 +1,5 @@
 collections:
   parents:
     output: true
-    order: []
+    order:
+      - Resources for Parents.md
