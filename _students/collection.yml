@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Resources for Self directed Learning.md
       - Students.md
       - Password & Technical Support/.keep
       - Password & Technical Support/Password and Technical Support.md
