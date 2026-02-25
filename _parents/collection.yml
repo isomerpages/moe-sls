@@ -1,5 +1,0 @@
-collections:
-  parents:
-    output: true
-    order:
-      - Resources for Parents.md
