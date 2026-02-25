@@ -24,23 +24,12 @@ links:
     sublinks:
       - title: Password & Technical Support
         url: /students/password-and-technical-support/
-      - title: Self-directed Learning
-        url: /permalink
       - title: Student Initiated Learning
         url: /students/student-initiated-learning/
       - title: Young Overseas Singaporeans
         url: /students/young-overseas-singaporeans/
       - title: Student User Guide
         url: /student-user-guide/index/
-  - title: Parents
-    url: /permalink
-    sublinks:
-      - title: Password & Technical Support
-        url: /permalink
-      - title: Onboarding for P1 & Sec 1
-        url: /permalink
-      - title: Resources for Parents
-        url: /permalink
   - title: Partners
     url: /partners/
     sublinks:
