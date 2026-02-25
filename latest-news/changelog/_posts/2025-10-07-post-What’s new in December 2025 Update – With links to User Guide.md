@@ -337,16 +337,16 @@ breaks, special characters).</p>
 </ul>
 </li>
 <li>
-<p>Short Answer Feedback Assistant (ShortAnsFA) Enhancements</p>
+<p>Short Answer Feedback Assistant (SAFA) Enhancements</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><a href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/add-short-answer-feedback-assistant/" rel="noopener nofollow" target="_blank">Teachers</a> can
-provide additional instructions when setting up ShortAnsFA. They can select
-predetermined feedback styles (e.g., direct answer, simple feedback, Socratic
-feedback) or customise their own instructions.</p>
+provide additional instructions when setting up SAFA. They can select predetermined
+feedback styles (e.g., direct answer, simple feedback, Socratic feedback)
+or customise their own instructions.</p>
 </li>
 <li>
-<p>The leniency field will be removed for ShortAnsFA.</p>
+<p>The leniency field will be removed for SAFA.</p>
 </li>
 </ol>
 </li>
