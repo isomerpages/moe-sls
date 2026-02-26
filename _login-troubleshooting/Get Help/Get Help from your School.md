@@ -1205,8 +1205,8 @@ further assistance.</p>
 <p>Gongshang Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 67831191 ext.238
-<br>Email: sim_aik_seng@moe.edu.sg
+<p>Tel: 67831191
+<br>Email: helpdesk@gsps.edu.sg
 <br>Others:</p>
 </td>
 </tr>
