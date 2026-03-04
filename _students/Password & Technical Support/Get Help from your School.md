@@ -1603,9 +1603,8 @@ further assistance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 62595396
-<br>Email: mohamad_fazil_yusoff@moe.edu.sg
-<br>Others: <a href="mailto:ng_lenni@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ng_lenni@moe.edu.sg</a>;
-lim_fung_hwee@moe.edu.sg</p>
+<br>Email: yeo_beng_hock@moe.edu.sg
+<br>Others: ng_lenni@moe.edu.sg; lim_fung_hwee@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
@@ -1685,9 +1684,8 @@ lim_fung_hwee@moe.edu.sg</p>
 <p>Marsiling Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 62696193
-<br>Email: chua_ban_hwee_jasper@schools.gov.sg; siti_fatimah_bt_muhammad@schools.gov.sg;
-ang_yew_leong@schools.gov.sg
+<p>Tel: 91467016
+<br>Email: thiliban_subramaniam@schools.gov.sg
 <br>Others:</p>
 </td>
 </tr>
@@ -2012,7 +2010,7 @@ ang_yew_leong@schools.gov.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 67598884
-<br>Email: nur_dalela_abu_hasan@moe.edu.sg
+<br>Email: heng_cindy@moe.edu.sg
 <br>Others:</p>
 </td>
 </tr>
