@@ -235,7 +235,7 @@ the next 2 years.</p>
 <p>Lim Wei Heng, Edwin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>DAZHONG PRIMARY</p>
+<p>DAZHONG PRIMARY SCHOOL</p>
 </td>
 </tr>
 <tr>
