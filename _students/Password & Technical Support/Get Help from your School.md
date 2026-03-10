@@ -2835,7 +2835,7 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 63394247
-<br>Email: nur_azzah_noh@moe.edu.sg
+<br>Email: stmargaretps@moe.edu.sg
 <br>Others:</p>
 </td>
 </tr>
