@@ -91,7 +91,7 @@ a focused discussion.</p>
 <p>The default limit is <strong>20 interactions per student</strong>.</p>
 </li>
 <li>
-<p>The minimum is <strong>10</strong>, and the maximum is <strong>50</strong>.</p>
+<p>The minimum is <strong>5</strong>, and the maximum is <strong>50</strong>.</p>
 </li>
 <li>
 <p>Once the limit is reached, students can no longer continue the conversation
@@ -113,20 +113,19 @@ Role Play, Research Assistant, Idea Generator.</p>
 <li>
 <p>To provide context and scope the Learning Assistant’s responses more accurately,
 click <strong>Add Knowledge Base</strong> to upload reference materials.
-You can upload up to 20 Knowledge Bases that can comprise text, or up to
-5 images or pages of PDFs or Google files (e.g., Slides, Docs). To add
-PDFs or images, click <strong>Add Media</strong>, and <strong>Upload File. </strong>To
-add a Google file, click on <strong>Embed File from Google,</strong> and
-select your file. After uploading your file, click <strong>Save</strong>.</p>
+You can upload up to 20 Knowledge Bases that can comprise text (up to 100,000
+characters) and files. To add PDFs or images from your personal device,
+click <strong>From File Upload.</strong> To add a Google File, click <strong>From Google Drive</strong>.
+To add resources already in SLS, select either <strong>From Library</strong> or <strong>From Starred Resources</strong>.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AU_ACP_KB2__1_.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/Screenshot_2026_03_14_at_9_15_17_AM.png">
 </div>
 <p></p>
-<p>Knowledge Base Titles should be entered to organise your Knowledge Bases
-so that you can easily find and append the relevant Knowledge Base(s) for
-different activities in a module, e.g. Reading 1 for Activity 1, Chapter
-2 Notes for Activity 2, etc.
+<p>Note: Users can send a maximum of 20 Knowledge Bases (KBs), which includes
+both text and file KBs. For LEA, a maximum of 5 files of no more than 5
+MB in total can be sent.
+<br>
 <br><u>Note:</u>
 </p>
 <ul data-tight="true" class="tight">
@@ -151,6 +150,10 @@ further details.</p>
 <li>
 <p>Enter the <strong>discussion topic</strong> and <strong>question prompt</strong>,
 then click outside the component to save.</p>
+</li>
+<li>
+<p>Test out the Learning Assistant by using the <strong>Preview as Student </strong>function,
+and review its responses before assigning to your students.</p>
 </li>
 </ol>
 <h2>Monitoring Learning Assistant Discussions</h2>
@@ -181,4 +184,5 @@ of the lesson.</p>
 </div>
 </li>
 </ol>
-<p></p>
+<p>Click <a href="https://go.gov.sg/quick-guides-ai-sls" rel="noopener nofollow" target="_blank">here</a> for
+a Quick Guide to Learning Assistant.</p>

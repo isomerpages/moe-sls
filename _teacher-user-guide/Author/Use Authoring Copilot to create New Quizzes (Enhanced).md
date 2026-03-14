@@ -92,20 +92,23 @@ and mark allocation in Free-Response questions for immediate feedback.</p>
 </li>
 <li>
 <p>You can add a Knowledge Base by clicking <strong>Add Knowledge Base</strong>.
-You can upload up to 20 Knowledge Bases that can comprise text, or up to
-50 images or pages of PDFs or Google files (e.g., Slides, Docs). These
-Knowledge Bases can be used when generating sections, activities/quizzes
-and components in a module. Knowledge Base Titles should be entered to
-organise your Knowledge Bases so that you can easily find and append the
-relevant Knowledge Base(s) for different activities in a module, e.g. Reading
-1 for Activity 1, Chapter 2 Notes for Activity 2, etc.</p>
+You can upload up to 20 Knowledge Bases that can comprise text (up to 100,000
+characters) and files. These Knowledge Bases can be used when generating
+sections, activities/quizzes and components in a module.</p>
+<p>Note: Users can send a maximum of 20 Knowledge Bases (KBs), which includes
+both text and file KBs. For the file KBs, the total file size limit is
+20MB.</p>
 </li>
 <li>
-<p>To add PDFs or images, click Add Media, and Upload File. To add a Google
-file, click on <strong>Embed File from Google</strong>, and select your
-file. After uploading your file, click <strong>Save</strong>.</p>
-</li>
-<li>
+<p>To add PDFs or images from your personal device, click <strong>From File Upload. </strong>To
+add a Google file, click on <strong>From Google Drive</strong>. To add resources
+already in SLS, select either From Library or From Starred Resources. After
+uploading your file, click <strong>Save</strong>.
+<br>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/Screenshot_2026_03_14_at_9_28_21_AM.png">
+</div>
 <p><u>Note</u>:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -170,7 +173,7 @@ of learning</p>
 </ul>
 </li>
 </ol>
-<p>Click <a href="https://go.gov.sg/quick-guide-ai-acp" rel="noopener noreferrer nofollow" target="\_blank">here</a> for
+<p>Click <a href="https://go.gov.sg/quick-guides-ai-sls" rel="noopener noreferrer nofollow" target="\_blank">here</a> for
 a Quick Guide to Authoring Copilot.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Use Authoring Copilot to create New Sections" src="/images/2Teacher/ACP_QG1.png">
