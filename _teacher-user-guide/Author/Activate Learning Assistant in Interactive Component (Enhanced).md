@@ -151,6 +151,10 @@ further details.</p>
 <p>Enter the <strong>discussion topic</strong> and <strong>question prompt</strong>,
 then click outside the component to save.</p>
 </li>
+<li>
+<p>Test out the Learning Assistant by using the <strong>Preview as Student </strong>function,
+and review its responses before assigning to your students.</p>
+</li>
 </ol>
 <h2>Monitoring Learning Assistant Discussions</h2>
 <ol>
