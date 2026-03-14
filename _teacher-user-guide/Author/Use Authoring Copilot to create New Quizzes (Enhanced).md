@@ -107,10 +107,8 @@ uploading your file, click <strong>Save</strong>.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/Screenshot_2026_03_14_at_9_15_17_AM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/Screenshot_2026_03_14_at_9_28_21_AM.png">
 </div>
-</li>
-<li>
 <p><u>Note</u>:</p>
 <ul data-tight="true" class="tight">
 <li>
