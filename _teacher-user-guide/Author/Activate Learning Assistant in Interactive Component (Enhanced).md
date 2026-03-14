@@ -184,4 +184,5 @@ of the lesson.</p>
 </div>
 </li>
 </ol>
-<p></p>
+<p>Click <a href="https://go.gov.sg/quick-guides-ai-sls" rel="noopener nofollow" target="_blank">here</a> for
+a Quick Guide to Learning Assistant.</p>
