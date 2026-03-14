@@ -215,9 +215,7 @@ such as:</p>
 </p>
 </li>
 <li>
-<p>rubrics (Refer to <a href="https://www.learning.moe.edu.sg/teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/" rel="noopener nofollow" target="_blank">Add Rubrics to Audio- and Free-Response Questions (Enhanced)</a>)
-<br>
-</p>
+<p>rubrics (Refer to <a href="https://www.learning.moe.edu.sg/teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/" rel="noopener nofollow" target="_blank">Add Rubrics to Audio- and Free-Response Questions (Enhanced)</a>)</p>
 </li>
 </ul>
 <p>Click <a rel="noopener noreferrer nofollow" target="_blank">here</a> for
