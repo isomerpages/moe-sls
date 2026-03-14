@@ -175,7 +175,7 @@ of learning</p>
 </ul>
 </li>
 </ol>
-<p>Click <a href="https://go.gov.sg/quick-guide-ai-acp" rel="noopener noreferrer nofollow" target="\_blank">here</a> for
+<p>Click <a href="https://go.gov.sg/quick-guides-ai-sls" rel="noopener noreferrer nofollow" target="\_blank">here</a> for
 a Quick Guide to Authoring Copilot.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Use Authoring Copilot to create New Sections" src="/images/2Teacher/ACP_QG1.png">
