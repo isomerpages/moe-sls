@@ -14,7 +14,7 @@ the <strong>SLS Modules Dashboard.</strong>
 </p>
 </li>
 <li>
-<p>Please use the <a href="" rel="noopener noreferrer nofollow" target="_blank">SLS Modules Dashboard</a> (on
+<p>Please use the <a href="https://go.gov.sg/sls-modules-dashboard" rel="noopener noreferrer nofollow" target="_blank">SLS Modules Dashboard</a> (on
 WOG only) to download the module and media utilisation data.
 <br>Available data:</p>
 <ul data-tight="true" class="tight">
