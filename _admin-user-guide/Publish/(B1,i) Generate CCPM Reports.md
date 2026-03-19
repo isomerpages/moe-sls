@@ -44,10 +44,11 @@ for the selected months; users who accessed multiple times across the months
 will be counted multiple times.</p>
 </li>
 <li>
-<p>Click the <strong>download icon</strong> at the bottom and select Crosstab
-. In the pop-up that appears, check that “MOE Library Full Set” (for the
+<p>Click the <strong>download icon</strong> at the bottom and select <strong>Crosstab icon</strong>.
+In the pop-up that appears, check that “MOE Library Full Set” (for the
 module utilisation report) or “Media Utilisation Report” is selected, then
 click <strong>Download</strong>.</p>
 </li>
 </ol>
+<p></p>
 <p></p>
