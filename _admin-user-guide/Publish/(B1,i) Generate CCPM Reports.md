@@ -51,4 +51,7 @@ click <strong>Download</strong>.</p>
 </li>
 </ol>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/ccpm_1.png">
+</div>
 <p></p>
