@@ -50,10 +50,11 @@ module utilisation report) or “Media Utilisation Report” is selected, then
 click <strong>Download</strong>.</p>
 </li>
 </ol>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/ccpm_1.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/download_modules__1_.png">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/ccpm_2.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/5Admin/download_media__1_.png">
 </div>
 <p></p>
