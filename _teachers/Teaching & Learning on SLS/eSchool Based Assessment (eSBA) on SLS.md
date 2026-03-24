@@ -232,9 +232,9 @@ CPDD/SDCD and SEAB:</p>
 <p></p>
 <h4>We listened: What’s new in SLS R4 (Jun 2026) to better support e-SBA in SLS</h4>
 <p></p>
-<p>This <a href="https://docs.google.com/presentation/d/1b94i8ln8q5FWXA91ymHnwr0xrkSbwlHW/edit?usp=sharing&amp;ouid=107947145652324035273&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">deck</a>&nbsp;(<em>iCON access is required. Updated on 31 Mar 2026</em>)
-gives an early sight of the enhancements in SLS R4 (Jun 2026) that supports
-e-SBA on SLS. These new features were developed from feedback that we gathered
+<p>This <a href="https://docs.google.com/presentation/d/1b94i8ln8q5FWXA91ymHnwr0xrkSbwlHW/edit?usp=sharing&amp;ouid=107947145652324035273&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">deck</a>&nbsp;<em>(iCON access is required. Updated on 31 Mar 2026)</em> gives
+an early sight of the enhancements in SLS R4 (Jun 2026) that supports e-SBA
+on SLS. These new features were developed from feedback that we gathered
 from teachers. The key enhancements are</p>
 <ol data-tight="true" class="tight">
 <li>
