@@ -242,7 +242,7 @@ from teachers. The key enhancements are</p>
 layout</p>
 </li>
 <li>
-<p>[<strong>e-delivery</strong>] Assign ONE e-assessment to large cohorts</p>
+<p>[<strong>e-delivery</strong>] Assign linked e-assessment to large cohorts</p>
 </li>
 <li>
 <p>[<strong>e-mark</strong>] On-screen marking using drawing tool</p>
