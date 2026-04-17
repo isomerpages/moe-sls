@@ -876,7 +876,7 @@ further assistance.</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 64436848
 <br>Email:
-<br>Others: <a href="http://go.gov.sg/damaisechelpdesk" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/damaisechelpdesk</a>
+<br>Others: <a href="http://go.gov.sg/damaisechelpdesk" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/damaisechelpdesk</a>
 </p>
 </td>
 </tr>
@@ -1267,8 +1267,9 @@ further assistance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 62589781
-<br>Email: chan_yew_sum_sunny@moe.edu.sg
-<br>Others:</p>
+<br>Email:
+<br>Others: <a href="" rel="noopener nofollow" target="_blank">go.gov.sg/stuaccountrecovery</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1797,9 +1798,8 @@ chung_jun_rui@schools.gov.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 65101588
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">lee_boon_haw@schools.gov.sg</a>
-<br>Others: <a rel="noopener noreferrer nofollow" target="_blank">https://www.montfortjunior.moe.edu.sg/our-partners/Parents/e-links/</a>
-</p>
+<br>Email: mjs_mims_sls_passwordreset@schools.gov.sg
+<br>Others:</p>
 </td>
 </tr>
 <tr>
@@ -2386,7 +2386,7 @@ chung_jun_rui@schools.gov.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 64710807
-<br>Email: zairee_sallai@moe.edu.sg
+<br>Email: qss@moe.edu.sg
 <br>Others: 64741421</p>
 </td>
 </tr>
@@ -3070,7 +3070,7 @@ Whatsapp to 89079710 with CG, Name and UserID</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 62402117
-<br>Email: help@vjc.sg
+<br>Email: help@vjc.edu.sg
 <br>Others:</p>
 </td>
 </tr>
@@ -3388,7 +3388,7 @@ directly.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 64490121
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">ynps@schools.gov.sg</a>
+<br>Email: ynps@schools.gov.sg
 <br>Others: <a href="https://go.gov.sg/ynpwreset" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
 </td>
@@ -3501,10 +3501,11 @@ directly.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 65938171
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">arifah_azman@schools.gov.sg</a> 
+<br>Email: arifah_azman@schools.gov.sg
 <br>Others:</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p></p>
 <p></p>
