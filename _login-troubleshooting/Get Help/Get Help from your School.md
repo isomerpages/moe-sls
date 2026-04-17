@@ -876,7 +876,7 @@ further assistance.</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 64436848
 <br>Email:
-<br>Others: <a href="http://go.gov.sg/damaisechelpdesk" rel="noopener noreferrer nofollow" target="_blank">http://go.gov.sg/damaisechelpdesk</a>
+<br>Others: <a href="http://go.gov.sg/damaisechelpdesk" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/damaisechelpdesk</a>
 </p>
 </td>
 </tr>
@@ -3388,7 +3388,7 @@ directly.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 64490121
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">ynps@schools.gov.sg</a>
+<br>Email: ynps@schools.gov.sg
 <br>Others: <a href="https://go.gov.sg/ynpwreset" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
 </p>
 </td>
@@ -3501,7 +3501,7 @@ directly.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 65938171
-<br>Email: <a rel="noopener noreferrer nofollow" target="_blank">arifah_azman@schools.gov.sg</a> 
+<br>Email: arifah_azman@schools.gov.sg
 <br>Others:</p>
 </td>
 </tr>
