@@ -1268,7 +1268,7 @@ further assistance.</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 62589781
 <br>Email:
-<br>Others: <a href="" rel="noopener nofollow" target="_blank">go.gov.sg/stuaccountrecovery</a>
+<br>Others: <a href="https://go.gov.sg/stuaccountrecovery" rel="noopener nofollow" target="_blank">go.gov.sg/stuaccountrecovery</a>
 </p>
 </td>
 </tr>
