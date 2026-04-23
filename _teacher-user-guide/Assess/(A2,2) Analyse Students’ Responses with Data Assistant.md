@@ -102,13 +102,13 @@ see the names of students within a particular theme. <strong>Note:</strong>
 the <strong>“Add Feedback” option in Data Assistant may be disabled while the discussion/chat is still active</strong>.</p>
 <p>Teachers will be able to provide feedback via Data Assistant <strong>only after the discussion or Learning Assistant interaction has been closed</strong>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="feedback enabled after chat closed" src="/images/a2_2_92.png">
-</div>
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="close chat" src="/images/2Teacher/a2_2_91.png">
 </div>
 <p>This ensures that students complete their interaction cycle with SALiS
 before teacher feedback is provided.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="feedback enabled after chat closed" src="/images/a2_2_92.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/AS_DAT6.png">
 </div>
