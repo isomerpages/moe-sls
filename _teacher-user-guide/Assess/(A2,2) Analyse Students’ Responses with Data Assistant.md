@@ -91,28 +91,19 @@ to access various follow up actions.</p>
 </li>
 <li>
 <p>Clicking <strong>Add Feedback </strong>allows you to give feedback to groups
-of students that fall under the same theme.</p>
+of students that fall under the same theme. You can click on View Students
+to see the names of the students within a particular theme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/AS_DAT6.png">
 </div>
-<p>You can click on <strong>View Students</strong> to see the names of students
-within a particular theme. <strong>Note:</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Note: When Learning Assistant (SALiS) is enabled in a Discussion or Live Chat" src="/images/2Teacher/a2_2_9.png">
-</div>
 <p>
-<br>When Learning Assistant (SALiS) is enabled in a Discussion or Live Chat,
-the <strong>“Add Feedback” option in Data Assistant may be disabled while the discussion/chat is still active</strong>.</p>
-<p>Teachers will be able to provide feedback via Data Assistant <strong>only after the discussion or Learning Assistant interaction has been closed</strong>.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="close chat" src="/images/2Teacher/a2_2_91.png">
-</div>
-<p>This ensures that students complete their interaction cycle with SALiS
+<br>Note: When Learning Assistant is enabled in a Discussion or Live Chat,
+the <strong>“Add Feedback” </strong>option in Data Assistant may be isabled
+while the discussion/chat is still active.</p>
+<p>Teachers will be able to provide feedback via Data Assistant only after
+the discussion or Learning Assistant interaction has been closed. This
+ensures that students complete their interaction cycle with Learning Assistant
 before teacher feedback is provided.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="feedback enabled after chat closed" src="/images/a2_2_92.png">
-</div>
 </li>
 <li>
 <p>The feedback will be prepopulated with the analysis from Data Assistant.
