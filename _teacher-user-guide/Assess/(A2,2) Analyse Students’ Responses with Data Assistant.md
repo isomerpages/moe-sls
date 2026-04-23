@@ -91,10 +91,27 @@ to access various follow up actions.</p>
 </li>
 <li>
 <p>Clicking <strong>Add Feedback </strong>allows you to give feedback to groups
-of students that fall under the same theme. You can click on <strong>View Students</strong> to
-see the names of students within a particular theme.</p>
+of students that fall under the same theme.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/AS_DAT6.png">
+</div>
+<p>You can click on <strong>View Students</strong> to see the names of students
+within a particular theme. <strong>Note:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Note: When Learning Assistant (SALiS) is enabled in a Discussion or Live Chat" src="/images/2Teacher/a2_2_9.png">
+</div>
+<p>
+<br>When Learning Assistant (SALiS) is enabled in a Discussion or Live Chat,
+the <strong>“Add Feedback” option in Data Assistant may be disabled while the discussion/chat is still active</strong>.</p>
+<p>Teachers will be able to provide feedback via Data Assistant <strong>only after the discussion or Learning Assistant interaction has been closed</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="close chat" src="/images/2Teacher/a2_2_91.png">
+</div>
+<p>This ensures that students complete their interaction cycle with SALiS
+before teacher feedback is provided.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="feedback enabled after chat closed" src="/images/a2_2_92.png">
 </div>
 </li>
 <li>
@@ -117,7 +134,7 @@ posts with relevant tags for easier categorisation.</p>
 bookmark specific student responses for later reference.</p>
 </li>
 </ol>
-<h3>Using Data Assistant in Quizzes </h3>
+<h3>Using Data Assistant in Quizzes</h3>
 <ol data-tight="true" class="tight">
 <li>
 <p>You can now get both individual student feedback and aggregated class
@@ -207,7 +224,7 @@ clicking on the ‘Save analysis’ button.</p>
 </p>
 </li>
 </ol>
-<h3>Accessing and Managing Saved Analysis/ Feedback </h3>
+<h3>Accessing and Managing Saved Analysis/ Feedback</h3>
 <p><strong>Viewing Saved Analysis / Feedback for Quizzes and FRQ</strong>
 </p>
 <p>To view saved analysis/feedback for quizzes and FRQ, click on ‘monitor’
