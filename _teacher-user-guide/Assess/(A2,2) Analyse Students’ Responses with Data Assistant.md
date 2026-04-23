@@ -93,9 +93,20 @@ to access various follow up actions.</p>
 <p>Clicking <strong>Add Feedback </strong>allows you to give feedback to groups
 of students that fall under the same theme. You can click on <strong>View Students</strong> to
 see the names of students within a particular theme. <strong>Note:</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Note: When Learning Assistant (SALiS) is enabled in a Discussion or Live Chat" src="/images/2Teacher/a2_2_9.png">
+</div>
+<p>
 <br>When Learning Assistant (SALiS) is enabled in a Discussion or Live Chat,
 the <strong>“Add Feedback” option in Data Assistant may be disabled while the discussion/chat is still active</strong>.</p>
 <p>Teachers will be able to provide feedback via Data Assistant <strong>only after the discussion or Learning Assistant interaction has been closed</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="feedback enabled after chat closed" src="/images/a2_2_92.png">
+</div>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="close chat" src="/images/2Teacher/a2_2_91.png">
+</div>
 <p>This ensures that students complete their interaction cycle with SALiS
 before teacher feedback is provided.</p>
 <div class="isomer-image-wrapper">
