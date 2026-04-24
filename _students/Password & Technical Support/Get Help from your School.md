@@ -2436,8 +2436,9 @@ chung_jun_rui@schools.gov.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 64430380
-<br>Email: lim_ee_min@schools.gov.sg
-<br>Others:</p>
+<br>Email:
+<br>Others: <a href="https://go.gov.sg/rss-schoolhelpline" rel="noopener nofollow" target="_blank">Form SG</a>
+</p>
 </td>
 </tr>
 <tr>
