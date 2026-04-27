@@ -11,11 +11,6 @@ variant: tiptap
 2026 Release (Release 4), which will be rolled out on 10 June 2026. Please
 note that SLS will be unavailable from Tuesday, 9 June 2026 to Wednesday,
 10 June 2026 to facilitate this update.</p>
-<p></p>
-<p>This list details the changes users can expect in the upcoming SLS June
-2026 Release (Release 4), which will be rolled out on 10 June 2026. Please
-note that SLS will be unavailable from Tuesday, 9 June 2026 to Wednesday,
-10 June 2026 to facilitate this update.</p>
 <h1>Features for All Users</h1>
 <h2>Drawing Tool</h2>
 <ol data-tight="true" class="tight">
