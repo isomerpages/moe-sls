@@ -1,6 +1,6 @@
 ---
-title: AI in Education Ethics Framework
-permalink: /ai-in-sls/responsible-ai/ai-in-education-ethics-framework/
+title: AI in Education Framework
+permalink: /ai-in-sls/responsible-ai/ai-in-education-framework/
 variant: tiptap
 description: ""
 image: /images/FaviconLight.png
