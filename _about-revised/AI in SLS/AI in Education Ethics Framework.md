@@ -160,6 +160,6 @@ use of AI for teaching and learning can access this module on SLS:</p>
 </p>
 <p>Teachers who are planning to deploy AIEd applications in small-scale localised
 trials in one or a few schools should complete the following checklist:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://intranet.moe.gov.sg/etd/edtechmp2030/Documents/MOE%20AIEd%20Implementation%20Guide%20%26%20Checklist%20(Nov%202025).pdf" rel="noopener noreferrer nofollow" target="_blank">MOE AIEd Implementation Guide and Checklist</a> (requires
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://go.gov.sg/edtechmp-aied-guide-checklist" rel="noopener noreferrer nofollow" target="_blank">MOE AIEd Implementation Guide and Checklist</a> (requires
 access to MOE Intranet)</p>
 <p></p>
