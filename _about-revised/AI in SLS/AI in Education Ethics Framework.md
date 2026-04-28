@@ -25,11 +25,11 @@ Framework.&nbsp;&nbsp;
 <br>
 </p>
 <p>Specifically, the Ministry of Education has developed the AI-in-Education
-(AIEd) Ethics Framework, which builds on the Model AI Governance Framework
-to address education-specific use and risks, and incorporates key beliefs
+(AIEd) Framework, which builds on the Model AI Governance Framework to
+address education-specific use and risks, and incorporates key beliefs
 from the Ethos of the Teaching Profession.&nbsp;</p>
 <p></p>
-<p>The MOE AIEd Ethics Framework seeks to:&nbsp;</p>
+<p>The MOE AIEd Framework seeks to:&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Guide the safe and responsible development and governance of AIEd systems
@@ -44,7 +44,7 @@ as expressed in our Ethos of the Teaching Profession.&nbsp;</p>
 </ol>
 <h2>Overview</h2>
 <hr>
-<p>The MOE AIEd Ethics Framework outlines four principles of <strong>Agency</strong>, <strong>Inclusivity</strong>, <strong>Fairness </strong>and <strong>Safety</strong>.</p>
+<p>The MOE AIEd Framework outlines four principles of <strong>Agency</strong>, <strong>Inclusivity</strong>, <strong>Fairness </strong>and <strong>Safety</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="overview of ethics principles showing agency, inclusivity, fairness and safety." src="/images/AI in Education/ResponsibleAI_Overview.png">
 </div>
@@ -154,9 +154,9 @@ learning environment, we:</p>
 </p>
 <h2>Educator Resources</h2>
 <hr>
-<p>Teachers who wish to learn more about the AIEd Ethics Framework to guide
-their use of AI for teaching and learning can access this module on SLS:</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://go.gov.sg/aied-ethics-primer" rel="noopener noreferrer nofollow" target="_blank">AIEd Ethics Primer</a>
+<p>Teachers who wish to learn more about the AIEd Framework to guide their
+use of AI for teaching and learning can access this module on SLS:</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://go.gov.sg/aied-ethics-primer" rel="noopener noreferrer nofollow" target="_blank">AIEd Primer</a>
 </p>
 <p>Teachers who are planning to deploy AIEd applications in small-scale localised
 trials in one or a few schools should complete the following checklist:</p>
