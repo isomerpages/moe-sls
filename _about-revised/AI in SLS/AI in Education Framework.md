@@ -45,8 +45,9 @@ as expressed in our Ethos of the Teaching Profession.&nbsp;</p>
 <h2>Overview</h2>
 <hr>
 <p>The MOE AIEd Framework outlines four principles of <strong>Agency</strong>, <strong>Inclusivity</strong>, <strong>Fairness </strong>and <strong>Safety</strong>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="overview of ethics principles showing agency, inclusivity, fairness and safety." src="/images/AI in Education/ResponsibleAI_Overview.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/AIEd_Framework_Brief.png">
 </div>
 <h2>Agency</h2>
 <hr>
