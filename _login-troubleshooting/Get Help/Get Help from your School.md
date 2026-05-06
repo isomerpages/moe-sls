@@ -887,7 +887,7 @@ further assistance.</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 65658002
 <br>Email: dazhong_ps@moe.edu.sg
-<br>Others: <a href="" rel="noopener nofollow" target="_blank">Form SG</a>
+<br>Others: <a href="http://go.gov.sg/dzpsaccountreset" rel="noopener nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
