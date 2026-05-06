@@ -876,7 +876,7 @@ further assistance.</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 64436848
 <br>Email:
-<br>Others: <a href="http://go.gov.sg/damaisechelpdesk" rel="noopener noreferrer nofollow" target="_blank">go.gov.sg/damaisechelpdesk</a>
+<br>Others: <a href="" rel="noopener nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
@@ -3509,5 +3509,4 @@ directly.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
 <p></p>
