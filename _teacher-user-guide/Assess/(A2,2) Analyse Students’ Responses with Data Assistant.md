@@ -98,7 +98,7 @@ to see the names of the students within a particular theme.</p>
 </div>
 <p>
 <br>Note: When Learning Assistant is enabled in a Discussion or Live Chat,
-the <strong>“Add Feedback” </strong>option in Data Assistant may be isabled
+the <strong>“Add Feedback” </strong>option in Data Assistant may be disabled
 while the discussion/chat is still active.</p>
 <p>Teachers will be able to provide feedback via Data Assistant only after
 the discussion or Learning Assistant interaction has been closed. This
