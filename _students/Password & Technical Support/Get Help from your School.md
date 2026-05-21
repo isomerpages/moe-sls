@@ -2571,9 +2571,8 @@ chung_jun_rui@schools.gov.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 63840809
-<br>Email: mohammed_azhar_mohd_shariff@schools.gov.sg, skps@moe.edu.sg
-<br>Others: <a href="http://tinyurl.com/SLS-Unlock-Account-2019" rel="noopener noreferrer nofollow" target="_blank">Form SG</a>
-</p>
+<br>Email: azlan_shah_rahman@schools.gov.sg; admin_skps@moe.edu.sg
+<br>Others:</p>
 </td>
 </tr>
 <tr>
