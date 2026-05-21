@@ -2713,9 +2713,8 @@ Reymund_G_Ardines@sportsschool.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 62857008
-<br>Email: it_help@sajc.edu.sg
-<br>Others: <a href="https://form.gov.sg/#!/5d537ac7a1bf7a00125b4654" rel="noopener noreferrer nofollow" target="_blank">Form SG</a> or
-Whatsapp to 89079710 with CG, Name and UserID</p>
+<br>Email: sajc_ict@moe.edu.sg
+<br>Others:</p>
 </td>
 </tr>
 <tr>
