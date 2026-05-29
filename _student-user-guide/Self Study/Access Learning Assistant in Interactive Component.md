@@ -66,6 +66,11 @@ to help guide the discussion. You may use these as prompts or ask your
 own questions.</p>
 </li>
 <li>
+<p>You may choose to <strong>end the discussion at any time</strong> by clicking
+the <strong>End Discussion</strong> button when you have gathered sufficient
+ideas or completed the task.</p>
+</li>
+<li>
 <p>Your interactions with SALiS are automatically <strong>saved</strong> in
 the Interactive component, where your teacher can <strong>review your conversation history</strong>.</p>
 </li>
