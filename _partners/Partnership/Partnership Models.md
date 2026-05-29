@@ -102,5 +102,44 @@ in resource creation and weaving the resources and content into <a href="https:/
 </li>
 </ul>
 <h4>External Content Developers (Others) for Schools and MOE Division</h4>
+<p>To enable schools and MOE Divisions to engage external content developers
+(ECDs) in creating customised resources for them in SLS, schools and MOE
+Divisions can now apply for temporary SLS accounts under a category of
+users defined as “ECD (Others)”.</p>
+<p>ECD (Others) will be provisioned with an SLS teacher account with the
+following conditions:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The account will be tagged to a group administered centrally by SLS Office
+(i.e. not tagged to the school).</p>
+</li>
+<li>
+<p>The account can only create class groups with other teachers (i.e. no
+access to students).</p>
+</li>
+<li>
+<p>Contents developed can only be shared through Class Groups or published
+on Community Gallery (subject to existing approval process).</p>
+</li>
+</ul>
+<p><strong>Application of ECD (Others)</strong>
+</p>
+<p>Schools/MOE Divisions to submit a request to SLS Ops Team through https://go.gov.sg/ecds.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Approval from School Leader/Branch Head to be included in the application.</p>
+</li>
+<li>
+<p>Maximum of 2 accounts per project.</p>
+</li>
+<li>
+<p>Period of access should be defined clearly, e.g. for commercial transactions,
+it should be within contract end date.</p>
+</li>
+<li>
+<p>SLS ID to be indicated if ECD has a current/previous SLS account under
+another school or project.</p>
+</li>
+</ul>
 <p></p>
 <p></p>
