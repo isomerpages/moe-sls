@@ -52,7 +52,7 @@ with <strong>SALiS.</strong> Click on <strong>Discuss with SALiS</strong> in
 the Interactive component to begin your interaction.</p>
 </li>
 <li>
-<p>Use SALiS’s responses to guide your interaction, but always <strong>think critically and verify information</strong> before
+<p>Use SALiS’ responses to guide your interaction, but always <strong>think critically and verify information</strong> before
 using it in your assignments.</p>
 </li>
 <li>
@@ -76,7 +76,7 @@ the Interactive component, where your teacher can <strong>review your conversati
 </li>
 <li>
 <p>You should ask <strong>clear and specific questions</strong> for better
-responses, use SALiS’s suggestions to deepen interactions while thinking
+responses, use SALiS’ suggestions to deepen interactions while thinking
 independently, and always ensure accuracy before relying on AI-generated
 content.</p>
 </li>
