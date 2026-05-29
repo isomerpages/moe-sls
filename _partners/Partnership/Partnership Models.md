@@ -124,7 +124,8 @@ on Community Gallery (subject to existing approval process).</p>
 </ul>
 <p><strong>Application of ECD (Others)</strong>
 </p>
-<p>Schools/MOE Divisions to submit a request to SLS Ops Team through https://go.gov.sg/ecds.</p>
+<p>Schools/MOE Divisions to submit a request to SLS Ops Team through this
+<a href="https://go.gov.sg/ecds." rel="noopener nofollow" target="_blank">link</a>.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Approval from School Leader/Branch Head to be included in the application.</p>
