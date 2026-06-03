@@ -71,7 +71,7 @@ or (3) Autosaving failed. You may also manually click on <strong>Save as Draft</
 </div>
 </li>
 <li>
-<p>If internet connection is unstable, please <strong>do not close</strong> the
+<p>If internet connection is unstable, please <strong><u>do not close</u></strong> the
 browser page. Your last saved response in SLS will be restored when connectivity
 resumes, even if the page is refreshed.</p>
 </li>
