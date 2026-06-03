@@ -21,7 +21,10 @@ Activities and Components than expected.</p>
 appropriate.</p>
 </li>
 </ul>
-<p></p>
+<p>Teachers are recommended to first use Authoring Copilot to generate a
+module plan, before creating or refining the Activities and Components.
+For more information, please refer to <a href="https://www.learning.moe.edu.sg/teacher-user-guide/author/use-authoring-copilot-generate-modules/" rel="noopener nofollow" target="_blank">Plan and Generate Modules with Authoring Copilot.</a>
+</p>
 <p>To access Authoring Copilot to create components in an Activity, in the <strong>Create/Edit </strong>subpage,
 click the <strong>Authoring Copilot icon</strong> on the Activity card.</p>
 <div class="isomer-image-wrapper">
