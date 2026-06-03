@@ -42,7 +42,6 @@ such as:</p>
 </ul>
 <p>View the video below for a step-by-step guide on planning and generating
 modules with Authoring Copilot.</p>
-<p></p>
 <div class="iframe-wrapper">
 <iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/ZGUGNe4zslA?si=K-y7WnkShVJTf9Ss"></iframe>
 </div>
