@@ -60,9 +60,8 @@ comment.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="View and Respond to Teacher Comments" src="/images/1Student/As-TeacherComments2.png">
 </div>
-<p>Note:</p>
-<p>If your teacher has provided feedback using the Drawing Tool, you may
-click <strong>Reply</strong> to respond to your teacher’s comments by annotating
+<p><u>Note</u>: If your teacher has provided feedback using the Drawing Tool,
+you may click Reply to respond to your teacher’s comments by annotating
 on the same image. You may also download the image (png) for future reference.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/1Student/TeacherComments_Reply.png">
