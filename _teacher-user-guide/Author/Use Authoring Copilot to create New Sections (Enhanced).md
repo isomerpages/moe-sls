@@ -22,6 +22,24 @@ appropriate.</p>
 <p></p>
 <p>Authoring Copilot is a teacher-facing tool for lesson planning, including
 generating module plans, sections, activities, and components.</p>
+<p>Authoring Copilot can also generate other various resources in a module
+such as:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>game elements (Refer to <a href="https://www.learning.moe.edu.sg/gamify-a-module-with-authoring-copilot/" rel="noopener nofollow" target="_blank">Gamify a Module with Authoring Copilot)</a>
+</p>
+</li>
+<li>
+<p>images (Refer to <a href="https://www.learning.moe.edu.sg/generate-images-with-authoring-copilot/" rel="noopener nofollow" target="_blank">Generate Images with Authoring Copilot</a>)</p>
+</li>
+<li>
+<p>interactives (Refer to <a href="https://www.learning.moe.edu.sg/generate-interactives-with-authoring-copilot/" rel="noopener nofollow" target="_blank">Generate Interactives with Authoring Copilot)</a>
+</p>
+</li>
+<li>
+<p>rubrics (Refer to <a href="https://www.learning.moe.edu.sg/teacher-user-guide/author/add-rubrics-to-audio-and-free-response-questions/" rel="noopener nofollow" target="_blank">Add Rubrics to Audio- and Free-Response Questions (Enhanced)</a>)</p>
+</li>
+</ul>
 <p>View the video below for a step-by-step guide on planning and generating
 modules with Authoring Copilot.</p>
 <p></p>
