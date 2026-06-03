@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Author
 ---
-<h1>Use Authoring Copilot to create New Activities &amp; Components </h1>
+<h1>Use Authoring Copilot to create New Activities &amp; Components</h1>
 <hr>
 <p><u>Important:</u>
 </p>
