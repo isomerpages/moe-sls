@@ -12,7 +12,7 @@ variant: markdown
 <li>On the Manage Users page, search for a user in your school based on SLS user ID, Email, and Name.</li>
 <li><p>To refine the search results, select the following filters from the respective dropdown list:</p>
 <ul>
-<li><strong>SLS Account Status</strong> - Activated, Activated (Locked), Not Activated, Not Activated (Locked), Inactive</li>
+<li><strong>SLS Account Status</strong> - Active, Inactive, Locked</li>
 <li><p><strong>Form Class</strong> (for students only)</p>
 <p><img style="width: 80%;" src="/images/5Admin/A-Filter1.png"></p>
 </li>
