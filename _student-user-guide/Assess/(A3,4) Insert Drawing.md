@@ -136,20 +136,20 @@ scroll up and down image.</p>
 <hr>
 <ul>
 <li>
-<p>To edit the drawing, click the&nbsp;<strong>Edit Image</strong>&nbsp;icon</p>
+<p>To edit the drawing, click the&nbsp;<strong>Edit Image</strong>&nbsp;icon
+to open up the drawing tool again.</p>
 <div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/EditImage.svg">
 </div>
-<p>to open up the drawing tool again.</p>
 </li>
 <li>
-<p>To delete the entire drawing, click the&nbsp;<strong>Delete</strong>&nbsp;icon</p>
+<p>To delete the entire drawing, click the&nbsp;<strong>Delete</strong>&nbsp;icon.</p>
 <div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Trash.svg">
 </div>
 </li>
 <li>
-<p>To download the entire drawing, click the <strong>Download</strong> icon</p>
+<p>To download the entire drawing, click the <strong>Download</strong> icon.</p>
 <div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Download.svg">
 </div>
