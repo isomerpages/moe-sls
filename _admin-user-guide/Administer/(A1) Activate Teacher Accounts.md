@@ -22,7 +22,6 @@ variant: markdown
 <p> <u>Note</u>: </p>
 <ul>
 <li>Please ensure that a MIMS account has been created for the teacher and is currently active.</li>
-<li>Applications submitted through email will no longer be accepted.</li>
 </ul>
 </li>
 <li>For teachers who are direct hires of Special Education (SPED) schools, submit the account application through email instead. Please contact the <a target="_blank" href="/login-troubleshooting/get-help/contact-sls-helpdesk/">SLS Helpdesk</a> if you do not have the required forms.</li>
