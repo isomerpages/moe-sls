@@ -102,4 +102,11 @@ font type.</p>
 style (i.e. heading style).</p>
 </li>
 </ol>
+<p>Note: From R4 (Jun 2026), the Rich Text Editor field will be collapsed
+by default to provide more space for typing. You can expand or collapse
+the toolbar, and the state of the toolbar will be retained, even after
+you refresh the page or close the tab.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/1Student/Formatting_Expand.png">
+</div>
 <p></p>
