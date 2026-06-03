@@ -25,7 +25,7 @@ variant: markdown
 <li>Applications submitted through email will no longer be accepted.</li>
 </ul>
 </li>
-<li>For teachers who are direct hires of SPED schools, submit the account application through email instead. Please contact the <a target="_blank" href="/login-troubleshooting/get-help/contact-sls-helpdesk/">SLS Helpdesk</a> if you do not have the required forms.</li>
+<li>For teachers who are direct hires of Special Education (SPED) schools, submit the account application through email instead. Please contact the <a target="_blank" href="/login-troubleshooting/get-help/contact-sls-helpdesk/">SLS Helpdesk</a> if you do not have the required forms.</li>
 <li>SLS School Admins can see all teacher accounts on the <a target="_blank" href="/admin-user-guide/administer/about-manage-users/">Manage Users</a> page.</li>
 <li>If a teacher's account cannot be found through the Manage Users page, please contact the <a target="_blank" href="/login-troubleshooting/get-help/contact-sls-helpdesk/">SLS Helpdesk</a>.</li>
 </ol>
@@ -40,7 +40,7 @@ variant: markdown
 </li>
 <li>SLS School Admins can identify teacher accounts that have not been activated through the <a target="_blank" href="/admin-user-guide/administer/about-manage-users/">Manage Users</a> page. On the Manage Users page, click <strong>Filter</strong> and applying the following filters from the respective dropdown list: <ul>
 <li><strong>Role</strong> - Teacher</li>
-<li><strong>SLS Account Status</strong> - Not Activated, Not Activated (Locked)</li>
+<li><strong>SLS Account Status</strong> - Active, Inactive, Locked</li>
 </ul>
-	<p><img alt="Activate Teacher Account" style="width: 100%;" src="/images/5Admin/A-Filter.png"></p>
+	<p><img alt="Activate Teacher Account" style="width: 100%;" src="/images/5Admin/Manage_Users_1.png"></p>
 	</li></ol>
