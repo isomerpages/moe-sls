@@ -44,3 +44,43 @@ variant: markdown
 </ul>
 	<p><img alt="Activate Teacher Account" style="width: 100%;" src="/images/5Admin/Manage_Users_1.png"></p>
 	</li></ol>
+
+
+<hr>
+	<h2 id="-temporary-sls-teacher-accounts-">Temporary SLS Teacher Accounts</h2>
+<hr>
+
+<p>SLS School Admins can manually create and manage up to <strong>10 temporary SLS teacher accounts</strong> for short-term access needs. These accounts may be created for short-term relief teachers or flexi-adjunct teachers who do not have a MIMS account.</p>
+
+<p>However, where possible, it is recommended to create a Teacher Account via MIMS so that the teacher can continue to create and access resources in the long term.</p>
+
+<ol>
+<li>Under <strong>Admin</strong>, click <strong>Manage Users</strong>.</li>
+
+<li>
+<p>Click <strong>Add Temporary User</strong>.</p>
+
+<p><img alt="Add Temporary User" style="width: 100%;" src="/images/5Admin/Manage_Users_2.png"></p>
+</li>
+
+<li>
+<p>Fill in the following details:</p>
+
+<p><img alt="Fill in Temporary User Details" style="width: 100%;" src="/images/5Admin/Manage_Users_3.png"></p>
+
+<ul>
+<li><strong>Name</strong>: Enter the user’s name.</li>
+<li><strong>Email</strong>: Enter the user’s email address.</li>
+<li><strong>Account Expiry Date</strong>: Select an expiry date.</li>
+<li><strong>School</strong>: Select the relevant school.</li>
+</ul>
+</li>
+
+<li>Click <strong>Create</strong> to create the temporary account.</li>
+</ol>
+
+<p><strong>Note</strong>:</p>
+
+<ul>
+<li>Each temporary account can remain valid for up to <strong>30 days from the date of creation</strong> or until <strong>31 December of the current academic year</strong>, whichever comes first.</li>
+</ul>
