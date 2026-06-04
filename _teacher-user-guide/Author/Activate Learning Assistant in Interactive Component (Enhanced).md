@@ -67,7 +67,10 @@ students to call on SALiS during a group Live Chat, please visit this
 <p>View the video guide below for step-by-step instructions on setting up
 Learning Assistant in SLS.</p>
 <p></p>
-<p>&lt;insert video&gt;</p>
+<p></p>
+<div class="iframe-wrapper">
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dvu_fs6QDQs?si=uAb-4txIbLAiev7f"></iframe>
+</div>
 <p></p>
 <p>To learn more about using Learning Assistant (LEA), including pedagogical,
 ethical, and technical considerations, refer to this <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/68b0284f-3bf6-47dd-bfef-07fcfff61677" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank"><u>resource</u></a>.</p>
