@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Author
 ---
-<h2>Activate Learning Assistant in Interactive Component</h2>
+<h2>Set Up Learning Assistant</h2>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
@@ -63,105 +63,25 @@ Learning Assistant. If you wish to set up the Learning Assistant to allow
 students to call on SALiS during a group Live Chat, please visit this
 <a href="https://www.learning.moe.edu.sg/teacher-user-guide/collaborate/add-a-discussion/" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank"><u>link</u>
 </a>.</p>
-<ol>
-<li>
-<p>In an <strong>Activity</strong>, navigate to <strong>Interactive</strong>,
-then select <strong>Learning Assistant 1-to-1 (Beta)</strong>.</p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AU_LEA1a.png">
-</div>
+<p>View the video guide below for step-by-step instructions on setting up
+Learning Assistant in SLS.</p>
 <p></p>
-</li>
-<li>
-<p>Choose from the available <strong>predefined roles</strong> (e.g., Discussion
-Facilitator, Idea Generator) or create a <strong>custom role</strong> by
-providing your own instructions. If selecting a predefined role, modify
-the instructions in the [placeholder values] to suit your class’s needs.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AU_LEA_2.png">
-</div>
+<p>&lt;insert video&gt;</p>
 <p></p>
-</li>
-<li>
-<p>Set the <strong>interaction limit</strong> for students for them to have
-a focused discussion.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The default limit is <strong>20 interactions per student</strong>.</p>
-</li>
-<li>
-<p>The minimum is <strong>5</strong>, and the maximum is <strong>50</strong>.</p>
-</li>
-<li>
-<p>Once the limit is reached, students can no longer continue the conversation
-in that specific discussion component.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Enable <strong>suggested questions</strong> as scaffolding by checking the
-respective box. The Learning Assistant will provide <strong>three suggested questions</strong> per
-interaction.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Suggested questions are recommended for the following predefined roles:
-Role Play, Research Assistant, Idea Generator.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>To provide context and scope the Learning Assistant’s responses more accurately,
-click <strong>Add Knowledge Base</strong> to upload reference materials.
-You can upload up to 20 Knowledge Bases that can comprise text (up to 100,000
-characters) and files. To add PDFs or images from your personal device,
-click <strong>From File Upload.</strong> To add a Google File, click <strong>From Google Drive</strong>.
-To add resources already in SLS, select either <strong>From Library</strong> or <strong>From Starred Resources</strong>.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/Screenshot_2026_03_14_at_9_15_17_AM.png">
-</div>
-<p></p>
-<p>Note: Users can send a maximum of 20 Knowledge Bases (KBs), which includes
-both text and file KBs. For LEA, a maximum of 5 files of no more than 5
-MB in total can be sent.
-<br>
-<br><u>Note:</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Adding a Knowledge Base will anchor the generation of content by Learning
-Assistant to information which can be added, e.g. a syllabus document,
-a comprehension passage or an excerpt from MOE’s interactive digital textbooks.
-It is recommended to upload specific PDF segments to improve the precision
-of generated content, as uploading too much information may potentially
-confuse the LLM and increase hallucinations. Please ensure all uploaded
-materials comply with copyright comply with data security classification
-(up to Official (Closed), Non-Sensitive) and copyright laws, using only
-legally permitted content, properly licensed resources, or materials with
-explicit permissions.You may refer to <a href="https://www.learning.moe.edu.sg/terms-of-use/" rel="noopener noreferrer nofollow" target="_blank">https://www.learning.moe.edu.sg/terms-of-use/</a> for
-further details.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Click <strong>Save</strong> to confirm the Learning Assistant settings.</p>
-</li>
-<li>
-<p>Enter the <strong>discussion topic</strong> and <strong>question prompt</strong>,
-then click outside the component to save.</p>
-</li>
-<li>
-<p>Test out the Learning Assistant by using the <strong>Preview as Student </strong>function,
-and review its responses before assigning to your students.</p>
-</li>
-</ol>
+<p>To learn more about using Learning Assistant (LEA), including pedagogical,
+ethical, and technical considerations, refer to this <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/68b0284f-3bf6-47dd-bfef-07fcfff61677" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank"><u>resource</u></a>.</p>
 <h2>Monitoring Learning Assistant Discussions</h2>
 <ol>
 <li>
 <p>To <strong>monitor student interactions</strong>, access the <strong>Discussion</strong> component
 and click <strong>View All Responses</strong>. All student responses will
 be displayed on a single page for easy review.</p>
+</li>
+<li>
+<p>Students may <strong>end their discussion at any time</strong> using the <em>End Discussion</em> button.
+You may wish to guide students on when to do so, for example after they
+have gathered sufficient ideas or completed the task.</p>
 </li>
 <li>
 <p>In the unlikely event of unsafe responses by Learning Assistant, do report
