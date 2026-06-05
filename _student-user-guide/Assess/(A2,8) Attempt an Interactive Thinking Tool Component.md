@@ -7,49 +7,41 @@ image: /images/FaviconLight.png
 variant: markdown
 ---
 <h1 id="attempt-an-interactive-thinking-tool-component">(A2,8) Attempt an Interactive Thinking Tool Component</h1><hr>
-<h2 id="-interactive-thinking-tool-">Interactive Thinking Tool</h2>
+<p>Interactive Thinking Tool (ITT) component is now part of Discussions.
+
+When participating in a Discussion, you may see structured prompts presented as tabs. These guide your responses in a similar way to previous ITT activities.</p>
+
+<h2 id="-interactive-thinking-tool-">Respond to prompts</h2>
 <hr>
 <ol>
-<li>Your assignment may contain an Interactive Thinking Tool (ITT).</li>
-<li>An Interactive Thinking Tool can consist of one to three columns, with a question or text for each column. The response to each column has to be submitted separately.</li>
-<li>You can click <b>Refresh</b> at the top left corner of the interaction board to view the most up-to-date student submissions. </li>
-<img style="width: 100%;" alt="Attempt an Interactive Thinking Tool Component" src="/images/1Student/As_ITT1.png">
-<li>Some columns of the Interactive Thinking Tool contain a part of the answer in the text box (e.g. The writer thinks that…). This is given by your teacher to help you to form your answer.</li>
-<li>You can edit your response by clicking the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg">.</li>
-<li>Apart from text responses, you can include the following:<ul>
-<li><a target="_blank" href="/student-user-guide/assess/insert-mathematical-or-chemical-equations/">Mathematical or chemical equations</a>.</li>
-<li><a target="_blank" href="/student-user-guide/assess/insert-drawing/">Drawings</a>.</li>
-<li><a target="_blank" href="/student-user-guide/assess/upload-file/">Uploaded files</a>.</li>
-<li><a target="_blank" href="/student-user-guide/assess/attempt-an-audio-response-question/">Audio recording</a> (1 audio recording for each ITT response).</li>
-</ul>
-</li>
-</ol>
-<h2 id="-view-class-submissions-">View Class Submissions</h2>
+<li>Enter your response in the text box provided.</li>
+<li>You may include: 
+<ul><li>Mathematical or chemical equations.	
+</li><li>Drawings
+</li><li> Uploaded files
+</li><li> Audio recording (if enabled)</li></ul></li>
+<li>Submit your response for each section. </li>
+
+	
+<h2 id="-interactive-thinking-tool-">View responses</h2>
 <hr>
 <ol>
-<li>After you have submitted your response for an Interactive Thinking Tool, you can view and comment on your peers' responses for that section under <strong>View Class Submissions</strong>.</li>
-<li>You can view responses column by column by clicking on the respective column tabs.</li>
-<li>You can also view responses grouped by student by clicking the <strong>View All</strong> tab.</li>
-<li>If you see an <strong>Eye</strong> icon beside your name in the Interactive Thinking Tool card, it means that your teacher has hidden the names of all students. You will be able to see only your name in the Interaction Board. </li>
-<p><img style="width: 100%;" alt="Attempt an Interactive Thinking Tool Component" src="/images/1Student/As-ITT.png"></p>
-<li>In each column, you can click the <strong>Filter</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Filter24.svg"> to view the posts that have been bookmarked by your teacher.</li>
-</ol>
-<h2 id="-view-comments-">View Comments</h2>
+<p>After submitting your response, you may be able to view your peers’ responses depending on your teacher’s settings.
+
+You can:</p>
+<ul><li>View responses across different sections (tabs)
+</li><li>View responses grouped by student
+</li><li> Filter posts based on bookmarks set by your teacher </li></ul>
+	
+<h2 id="-view-class-submissions-"> Comment on responses</h2>
 <hr>
-<p>To view comments on any response, click on the Response card.</p>
-<p>All the comments will be shown in the order of time posted, with the most recent post at the bottom. The number of comments is shown in parenthesis.</p>
-<h2 id="-comment-on-peers-responses-">Comment on Peers' Responses</h2>
-<hr>
-<p>To comment on one of your peers' responses,</p>
 <ol>
-<li>Click the Response card, followed by <strong>Add</strong> on the bottom right.</li>
-<li>Apart from text responses, you can include the following:<ul>
-<li><a target="_blank" href="/student-user-guide/assess/insert-mathematical-or-chemical-equations/">Mathematical or chemical equations</a>.</li>
-</ul>
-</li>
-<li><p>After typing in your comment, click <strong>Post</strong>.</p>
-<p> <img style="width: 100%;" alt="Attempt an Interactive Thinking Tool Component" src="/images/1Student/As-ITTComments.png"></p>
-</li>
-<li><p>You can edit/delete your response by clicking on <strong>Overflow</strong> (<strong>3 dot</strong> icon).</p>
-</li>
-</ol>
+<p>To comment on a peer’s response:
+	</p><li>Click the Response card, followed by&nbsp;<strong>Add</strong>.</li>
+<li>Enter your comment.</li>
+<li>Click&nbsp;<strong>Post</strong>. </li>
+	
+	
+<p>You can edit or delete your comment using the Overflow (3-dot) icon.
+
+Comments are displayed in chronological order, with the most recent at the bottom.</p></ol></ol></ol>
