@@ -29,5 +29,27 @@ student you clicked.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_MarkACopy.png">
 </div>
 </li>
+<li>
+<p>Use the <a href="https://www.learning.moe.edu.sg/teacher-user-guide/author/insert-drawings/" rel="noopener noreferrer nofollow" target="_blank">drawing tool</a> to
+provide feedback to your students.</p>
+</li>
+<li>
+<p>When done, click <strong>Next</strong>, followed by <strong>Post</strong> to
+save your feedback. You can also check the box beside Notify student(s)
+if you want to inform them about your feedback.</p>
+</li>
+<li>
+<p>Click <strong>Cancel</strong> if you do not wish to post the feedback.</p>
+</li>
+<li>
+<p>Teachers can edit or delete the feedback if necessary. Teachers can also
+download the feedback as an image (png).</p>
+</li>
+<li>
+<p>Your student may reply to your marked image by clicking on the <strong>Reply</strong> icon.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AS_MarkACopy1.png">
+</div>
+</li>
 </ol>
 <p></p>
