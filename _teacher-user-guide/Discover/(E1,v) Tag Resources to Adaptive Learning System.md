@@ -13,18 +13,18 @@ to the needs of their students. Teachers can tag their own content and
 assessment items to ALS content maps and allow these to be recommended
 by ALS for their students, in addition to existing content items developed
 by CPDD.</p>
-<h2>Overview of how to add resources to ALS</h2>
-<p></p>
+<p>Click here for a Quick Guide to Adaptive Learning System.Overview of how
+to add resources to ALS</p>
+<h3>Overview of how to add resources to ALS</h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/images_2Teacher_D_Tag_ALSz.png">
 </div>
-<h3>Setting up School Student Group</h3>
-<ol>
-<li>
+<h3>1. Setting up School Student Group</h3>
 <p>Before tagging content to ALS, departments are encouraged to create level/
 school-wide Student Groups to alleviate the need for teachers to upload
 resources individually for each class. To learn how to create level/ school-wide
-Student Groups, click <a href="/teacher-user-guide/organise/create-class-groups/" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+Student Groups, click&nbsp;<a href="https://www.learning.moe.edu.sg/teacher-user-guide/organise/create-class-groups/" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank"><u>here</u></a>.</p>
+<p></p>
 <h3>2a. Creation and tagging of ALS Content (Modules, Section &amp; Activities)</h3>
 <hr>
 <ol data-tight="true" class="tight">
@@ -182,8 +182,6 @@ recommended activities by ALS may not follow a specific sequence.</p>
 <p>Select the appropriate Active Learning Process for each Activity from
 the dropdown list. Click the Save icon to proceed to populate the content
 for the Activity.</p>
-</li>
-</ol>
 </li>
 </ol>
 <div class="isomer-image-wrapper">
