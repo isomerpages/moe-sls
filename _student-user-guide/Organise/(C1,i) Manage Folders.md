@@ -6,10 +6,11 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: tiptap
 ---
-<h1>(C1,i) Organise Modules in My Drive by Drag and Drop</h1>
-<p>You can move your Modules into folders in&nbsp;<strong>My Drive</strong>&nbsp;to
-keep your learning resources organised.</p>
-<ol data-tight="true" class="tight">
+<h1>(C1,i) Manage Folder </h1>
+<h2>Organise Modules in My Drive by Drag and Drop</h2>
+<p>You can move your Modules into folders in&nbsp;My Drive&nbsp;to keep your
+learning resources organised.</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Go to&nbsp;<strong>My Drive</strong>&nbsp;and ensure the&nbsp;<strong>My Modules</strong>&nbsp;tab
 is selected.</p>
@@ -25,12 +26,12 @@ Chem, Physics, Bio) is visible in the same list of items.</p>
 <li>
 <p>Move your mouse pointer over the Module row until the drag cursor appears,
 then click and hold the left mouse button on the Module.</p>
-</li>
-<li>
-<p>Drag the Module and hover over the target folder until the folder is highlighted.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="drag and drop" src="/images/Resources/MyDriveDragnDrop.png">
 </div>
+</li>
+<li>
+<p>Drag the Module and hover over the target folder until the folder is highlighted.</p>
 </li>
 <li>
 <p>Release the mouse button to drop the Module into the folder.</p>
@@ -38,14 +39,10 @@ then click and hold the left mouse button on the Module.</p>
 <li>
 <p>Click the folder to open it and check that the Module has been moved into
 the folder.</p>
-</li>
-<li>
 <p>You can repeat these actions to organise other Modules into different
 folders so that your My Drive stays neat and easy to navigate.</p>
 </li>
-</ol>
-<h1>(C1,i) Manage Folders</h1>
-<hr>
+</ul>
 <h2>Move Modules to a Folder</h2>
 <hr>
 <p>You can move an existing Module from one folder to another.</p>
