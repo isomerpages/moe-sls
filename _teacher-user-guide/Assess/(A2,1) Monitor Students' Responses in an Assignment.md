@@ -6,42 +6,29 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: tiptap
 ---
-<h1>(A2,1) Monitor Students' Responses in an Assignment </h1>
+<h1>(A2,1) Monitor Students' Responses in an Assignment</h1>
 <hr>
 <h2>Monitor an Assignment</h2>
 <hr>
 <p>You can monitor your students' Assignment progress on the Monitor Assignment
-page via three ways:</p>
+page via 3 ways:</p>
+<div class="isomer-image-wrapper">
+<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Monitor.svg">
+</div>
 <ul data-tight="true" class="tight">
 <li>
-<p>From the Assignment card, click the <strong>Monitoring</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Monitor.svg">
-</div>
-<p>.</p>
+<p>From the Assignment card, click the <strong>Monitoring</strong> icon.</p>
 </li>
 <li>
-<p>From within the Assignment, click the <strong>Monitoring</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Monitor.svg">
-</div>
-<p>in the header.</p>
+<p>From within the Assignment, click the <strong>Monitoring</strong> icon in
+the header.</p>
 </li>
 <li>
-<p>From the <strong>Module Plan</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/courseplan32.svg">
-</div>
-<p>, click the <strong>Monitoring</strong> icon</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Monitor.svg">
-</div>
-<p>.</p>
+<p>From the <strong>Module Plan</strong>, click the <strong>Monitoring</strong> icon.</p>
 </li>
 </ul>
-<p>Note: You can click <strong>Refresh</strong> at the top left corner of the
-Monitor Assignment page to view the most up-to-date student submissions.</p>
+<p><u>Note:</u> You can click <strong>Refresh</strong> at the top left corner
+of the Monitor Assignment page to view the most up-to-date student submissions.</p>
 <h2>Monitor Assignment page</h2>
 <hr>
 <div class="isomer-image-wrapper">
@@ -79,64 +66,74 @@ listing.</p>
 </ul>
 </li>
 <li>
-<p><strong>Filter</strong>
-</p>
+<p><strong>Filter: </strong>To filter by Student's Assignment, Section and
+Activity completion status. Click the <strong>Filter</strong> icon to open
+the Activities in the Section.</p>
 <div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Filter24.svg">
 </div>
-<p>: To filter by Student's Assignment, Section and Activity completion status.
-Click the <strong>Filter</strong> icon to open the Activities in the Section.</p>
 </li>
 <li>
-<p><strong>Toggle on/off to show marks under Setting</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Settings24.svg">
-</div>
-<p>: To show/hide marks on the Heatmap.</p>
+<p><strong>Toggle on/off to show marks under Setting: </strong>To show/hide
+marks on the Heatmap.</p>
 </li>
 <li>
-<p><strong>Legend</strong>
-</p>
+<p><strong>Legend:</strong> Legend for the colours and icons used in the Heatmap.</p>
 <div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Legend.svg">
 </div>
-<p>: Legend for the colours and icons used in the Heatmap.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/As_Heatmaplegend.png">
+</div>
 </li>
 <li>
 <p><strong>Heatmap</strong>: Table of students and their response data. All
-questions will be indicated in this table. Click the <strong>Section</strong> icon</p>
+questions will be indicated in this table. Click the <strong>Section</strong> icon
+to navigate to a Section.</p>
 <div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Section.svg">
 </div>
-<p>to navigate to a Section. Within a Section, click the <strong>Activity</strong> icon</p>
+</li>
+</ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Within a Section, click the <strong>Activity</strong> icon to navigate to
+an Activity.</p>
 <div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/ActivityIcon.svg">
 </div>
-<p>,</p>
 <div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/ActivityOptional32.svg">
 </div>
-<p>or</p>
 <div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Quiz.svg">
 </div>
-<p>to navigate to an Activity. Team Quizzes will be indicated with the <strong>Team</strong> icon</p>
+</li>
+<li>
+<p>Team Quizzes will be indicated with the <strong>Team</strong> icon.</p>
 <div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/TeamSubmission.svg">
 </div>
-<p>. Alternatively, click the <strong>Filter</strong> icon</p>
+</li>
+<li>
+<p>Alternatively, click the <strong>Filter</strong> icon beside a Section or
+Activity icon to filter a Section or an Activity. Within an Activity, click
+the <strong>Question Number</strong> in the table header to view the aggregated
+students' responses for that particular question.</p>
 <div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/FilterTo.svg">
 </div>
-<p>beside a Section or Activity icon to filter a Section or an Activity.
-Within an Activity, click the <strong>Question Number</strong> in the table
-header to view the aggregated students' responses for that particular question.</p>
+</li>
+</ul>
+<p></p>
 <p><u>Note</u>:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>From March 2025 Update, you can view student responses by clicking View
-Responses or the visual indicator under the component on the heatmap.</p>
+<p>You can view student responses by clicking View Responses or the visual
+indicator under the component on the heatmap.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/As_Heatmap4.png">
+</div>
 </li>
 <li>
 <p>Clicking the Question Number on the Heatmap will redirect you to the Aggregated
@@ -155,10 +152,10 @@ the heatmap. You can also click on the dates to access the Assignment Settings
 page and adjust the due dates.</p>
 </li>
 </ul>
-</li>
-</ul>
 <h2>Monitor Student Draft Responses</h2>
 <hr>
+<ol data-tight="true" class="tight">
+<li>
 <p>You can monitor your students’ draft responses in the following question
 types:</p>
 <ul data-tight="true" class="tight">
@@ -191,11 +188,18 @@ types:</p>
 </p>
 </li>
 </ul>
-<p>To view your students’ responses:</p>
+</li>
+</ol>
+<h4>To view your students’ responses:</h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>On the&nbsp;<strong>Monitor Assignment</strong>&nbsp;page, select the
-student's name.</p>
+<p>On the <strong>Monitor Assignment </strong>page, click the <strong>Overflow</strong> (three-dot)
+icon, then select <strong>View Students’ Responses</strong>. A full list
+of students’ names will be displayed for you to select a student, which
+will bring you to the individual student’s assignment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/ViewStudentResponses.png">
+</div>
 </li>
 <li>
 <p>From the Activity List on the left, select the Activity that contains
@@ -244,11 +248,10 @@ board to view the most up-to-date student submissions.</p>
 either of the columns.</p>
 </li>
 <li>
-<p>The number of Comments is indicated beside the <strong>Comment</strong> icon</p>
+<p>The number of Comments is indicated beside the <strong>Comment</strong> icon.</p>
 <div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Comment.svg">
 </div>
-<p>.</p>
 </li>
 <li>
 <p>To view comments for any response, click the Response card.</p>
@@ -268,12 +271,12 @@ of the Response card.</p>
 <p>After typing in the comment, click <strong>Post</strong>.</p>
 </li>
 <li>
-<p>You can bookmark an Interactive Thinking Tool card by clicking the <strong>Bookmark</strong> icon</p>
+<p>You can bookmark an Interactive Thinking Tool card by clicking the <strong>Bookmark</strong> icon.
+This will allow you to filter the cards in the Interaction Board. Bookmarked
+cards will also be displayed first.</p>
 <div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Bookmark.svg">
 </div>
-<p>. This will allow you to filter the cards in the Interaction Board. Bookmarked
-cards will also be displayed first.</p>
 </li>
 </ol>
 <h2>Monitor a Poll</h2>
@@ -289,11 +292,11 @@ the individual bar graph will show the number of votes for a particular
 option.</p>
 </li>
 <li>
-<p>You can also view by individual student’s response by clicking the <strong>List</strong> icon</p>
+<p>You can also view by individual student’s response by clicking the <strong>List</strong> icon
+next to View by.</p>
 <div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/List.svg">
 </div>
-<p>next to View by.</p>
 </li>
 <li>
 <p>The legend for the Poll is found below the bar chart.</p>
@@ -301,8 +304,8 @@ option.</p>
 </ol>
 <h2>Monitor a Discussion</h2>
 <hr>
-<p><u>Note: </u>From March 2025 Update, you may monitor students' submission
-status under the component in the heatmap.</p>
+<p><u>Note</u>: You may monitor students' submission status under the component
+in the heatmap.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Monitor Students' Responses in an Assignment" src="/images/2Teacher/As_Heatmap5.png">
 </div>
@@ -316,8 +319,8 @@ the Interaction Board.</p>
 of posts submitted by each student.</p>
 </li>
 <li>
-<p>You can click Refresh at the top left corner of the interaction board
-to view the most up-to-date student submissions.</p>
+<p>You can click <strong>Refresh</strong> at the top left corner of the interaction
+board to view the most up-to-date student submissions.</p>
 </li>
 <li>
 <p>Download the responses from the Discussion by clicking <strong>Download Responses</strong>.</p>
@@ -330,11 +333,10 @@ to view the most up-to-date student submissions.</p>
 to their posts.</p>
 </li>
 <li>
-<p>The number of Comments is indicated beside the <strong>Comment</strong> icon</p>
+<p>The number of Comments is indicated beside the <strong>Comment</strong> icon.</p>
 <div class="isomer-image-wrapper">
 <img style="width:1.5rem; display: inline;" height="auto" width="100%" src="/images/Icons/Comment.svg">
 </div>
-<p>.</p>
 </li>
 <li>
 <p>To view comments for any response, click the Response card.</p>
@@ -355,9 +357,36 @@ of the Response card.</p>
 </ol>
 <p><u>Note</u>: Each student can submit more than one post in a Discussion
 and teachers can create new posts as well.</p>
+<h2>Monitor Linked Assignments</h2>
+<hr>
+<p>Following R4 (Jun 2026), teachers can monitor linked assignments via the
+enhanced monitoring dashboard. Each assignment will be linked to its respective
+Class Group and Subgroup or Form class, enabling more effective management
+of modules beyond class level.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Go to any Class Group that has been assigned a linked assignment. Open
+the assignment and click <strong>View Linked Assignments</strong>, which
+can be found below the monitoring icon.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/Linked_Assignments_2.png">
+</div>
+</li>
+<li>
+<p>The monitoring dashboard displays the Class Groups and specific Subgroups
+or Form classes that have been assigned the module. Teachers can view the
+completion rate or click on the <strong>Overflow</strong> (3-dot icon) to
+download marks and responses. For more detailed monitoring of the assignment
+(e.g., providing feedback on students’ responses), click <strong>Monitor</strong> to
+access the individual Student Groups.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/Linked_Assignments_2.png">
+</div>
+</li>
+</ol>
 <h2>Video Tutorial</h2>
 <hr>
 <div class="iframe-wrapper">
-<iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8H8XXhcynK0"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8H8XXhcynK0"></iframe>
 </div>
 <p></p>
