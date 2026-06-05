@@ -4,131 +4,252 @@ permalink: /teacher-user-guide/collaborate/add-a-discussion/
 description: ""
 third_nav_title: Collaborate
 image: /images/FaviconLight.png
-variant: markdown
+variant: tiptap
 ---
-<h1 id="add-a-discussion-">(C1,iii) Add a Discussion or Live Chat (Enhanced)</h1><hr>
-<h2 id="-create-a-discussion-from-module-editor-page-">Create a Discussion or Live Chat from Module Editor page</h2>
+<h1>(C1,iii) Add a Discussion or Live Chat (Enhanced)</h1>
+<hr>
+<h2>What is a Discussion?</h2>
+<hr>
+<p>Discussion allows students to share responses, interact with one another,
+and build on each other’s ideas.</p>
+<p>You can structure discussions using prompts and scaffolds, and control
+how students participate and view responses.</p>
+<p>Discussion also supports real-time interaction through Live Chat.</p>
+<p></p>
+<h2>Create a Discussion or Live Chat from Module Editor page</h2>
 <hr>
 <ol>
-<li>In the Module Editor page, select an Activity and hover your mouse over <strong>Interactive</strong> in the Component Bar, followed by <strong>Discussion</strong> and select <strong>Default</strong> or <strong>Live Chat (Beta)</strong>. 
-<p><img alt="Add a Discussion" style="width: 80%;" src="/images/2Teacher/COL_InteractiveDLC.png"></p>
+<li>
+<p>In the Module Editor page, select an Activity and hover your mouse over <strong>Interactive</strong> in
+the Component Bar, followed by <strong>Discussion</strong>. You can select <strong>Default</strong> or <strong>Live Chat (Beta)</strong>.</p>
 </li>
-<li>Enter the following fields:<ul>
-<li>Set time limit (only available for Live Chat)
-<p><u>Note</u>: The default time limit for Live Chat is 20 minutes.</p></li>
-<li>Topic (optional)</li>
-<li>Featured Image (optional)</li>
-<li>Question Body</li>
+<li>
+<p>Enter the following fields:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Title</p>
+</li>
+<li>
+<p>Featured Image (optional)</p>
+</li>
+<li>
+<p>Discussion Body</p>
+</li>
+<li>
+<p>Set time limit (only available for Live Chat)</p>
+</li>
+<li>
+<p>Scaffolds (optional): You can add scaffolds to guide students’ responses.
+Each scaffold appears as a separate tab, allowing you to structure the
+discussion into different parts (e.g. perspectives or steps).</p>
+</li>
 </ul>
 </li>
-<li>After the details are entered, click outside the Discussion box to save your work.</li>
-<li>To hide the names of students, click the <strong>Settings</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg"> on the Discussion card. By default, the names of students will be visible. To hide the names of students, select the checkbox "Hide Names". Click <strong>Save</strong> followed by <strong>X</strong>.</li><li>To enable upvoting of discussion posts, click the&nbsp;<strong>Settings</strong>&nbsp;icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Settings24.svg">on the Discussion card and select the checkbox "Allow Voting". Click&nbsp;<strong>Save</strong> followed by <strong>X</strong>.</li>
-	
-<li>When students' names are hidden, they will appear as Anonymous on the Interaction Board. Students will only see their own names.</li>
-<li>To edit a Discussion, hover your mouse over the Discussion and click the component, or the <strong>Pencil</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Pencil.svg">. </li>
-<li>To delete your Discussion, click the <strong>Delete</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Trash.svg">.</li>
+<li>
+<p>Note:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The default time limit for Live Chat is 20 minutes.</p>
+</li>
+<li>
+<p>You can preview the discussion to see how it will appear to students.</p>
+</li>
+<li>
+<p>When previewing, you will be able to create posts and view the discussion
+interface from a student’s perspective. After previewing, you can continue
+editing the resource immediately without leaving the page.</p>
+</li>
+<li>
+<p>Live Chat is not available in Preview. To test Live Chat, assign the discussion
+to a test group with yourself added as a student.</p>
+</li>
+</ul>
+</li>
 </ol>
-
-<h2 id="adding-learning-assistant-to-live-chat">Adding Learning Assistant to a Live Chat</h2>
+<h2>Configure Discussion Settings</h2>
 <hr>
-<p>You can enable Learning Assistant in <strong>Live Chat</strong> to allow students to interact with <strong>SALiS</strong> during real-time discussions.</p>
-
-<p>To enable Learning Assistant in Live Chat:</p>
+<p>You can control how students participate in the discussion using the settings
+in the Discussion component.</p>
+<p>To access these settings:</p>
 <ol>
-  <li>Select <strong>Use Learning Assistant (Beta)</strong> in the Live Chat settings.</li>
-  <li>Click <strong>Learning Assistant Settings</strong> to configure the assistant.</li>
-  <li>Edit the <strong>recipe instructions</strong> and set the <strong>number of interactions</strong> allowed for students.</li>
-  <li>Click <strong>Save</strong> to apply the settings.</li>
+<li>
+<p>Click on the Discussion component in the Module Editor.</p>
+</li>
+<li>
+<p>You can configure the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Students must post before viewing class submissions</strong>:
+When enabled, students must submit their own response before they can view
+their classmates’ responses. This encourages independent thinking.</p>
+</li>
+<li>
+<p><strong>Limit to one post per student</strong>: When enabled, each student
+can only submit one response. This helps ensure more thoughtful contributions.</p>
+</li>
+</ul>
+</li>
 </ol>
-
-<p>Students can call on Learning Assistant during Live Chat by typing <strong>@SALiS</strong> followed by their question.</p>
-
-
-<h2 id="-preview-as-student-">Preview as Student</h2>
+<p>Note: These settings cannot be changed once students have attempted the
+discussion.</p>
+<p>You can configure the following:</p>
+<ul>
+<li>
+<p><strong>Hide names</strong>: When enabled, student names will appear as
+Anonymous on the Interaction Board. Students will only see their own names.</p>
+</li>
+<li>
+<p><strong>Allow voting</strong>: When enabled, students can upvote their
+peers’ responses to highlight useful or interesting ideas.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C1_2Ciii__20Add_20a_20Discussion_20_4_.png">
+</div>
+</li>
+</ul>
+<h2>View and Monitor Discussions</h2>
 <hr>
-<p>When you Preview as Student or assign a Discussion to students, students will be able to create Posts in response to the question.</p>
-<p><u>Note</u>: Live Chat is not available when previewing as a student.</p>
-<h2>View Discussion</h2>
+<p>You can view and respond to student posts in the discussion using different
+views and tools.</p>
+<h3>Access student responses</h3>
+<p>You can access student responses in the following ways:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>From the Discussion component, click <strong>View Class Submissions</strong>
+</p>
+</li>
+<li>
+<p>From the Monitor Assignment page, click <strong>View Responses</strong>
+</p>
+</li>
+<li>
+<p>Via Data Assistant, where responses can be grouped and analysed</p>
+</li>
+</ol>
+<h3>Switch between views</h3>
+<p>You can view student responses in different formats:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Wall view</strong>: Displays responses in a visual, card-based
+layout, allowing you to quickly scan and compare ideas.</p>
+</li>
+<li>
+<p><strong>Table view</strong>: Displays responses in a structured list,
+making it easier to review submissions systematically.</p>
+</li>
+</ul>
+<h3>Monitor student participation</h3>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Accessing_20Student_20Participation.png">
+</div>
+<p>You can track student participation using the participation table to see
+which students have submitted responses. You may also download the students’
+responses.</p>
+<h3>Manage posts</h3>
+<p>You can:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Bookmark posts that require your attention</p>
+</li>
+<li>
+<p>Filter posts based on bookmarks</p>
+</li>
+</ul>
+<p>These tools help you quickly identify key responses and monitor student
+engagement.</p>
+<h2>View and Respond to Posts</h2>
 <hr>
-<p>There are three ways you can view and comment on your students' responses in a Discussion:</p>
+<p>Click on a response card to view and add comments.</p>
+<p>Comments are displayed in chronological order, with the most recent at
+the bottom.</p>
+<p>To comment on a student’s response:</p>
 <ol>
-	<li>From the Discussion page, click <strong>View Class Submission</strong>.
-	</li><li>From the Monitor Assignment page, click <strong>View Responses</strong> under the component in the heatmap.
-	</li><li>Via Data Assistant, where you can filter grouped responses and  <strong>Add Comment</strong>.
-		<p><u>Note:</u> To sort your students' responses, click the dropdown arrow next to <strong>Sort By</strong>.</p></li>
+<li>
+<p>Click the <strong>Response card</strong>, followed by <strong>Add</strong>.</p>
+</li>
+<li>
+<p>Enter your comment. You may include text, or insert mathematical or chemical
+equations where needed.</p>
+</li>
+<li>
+<p>You can mention student(s) by typing '@' and selecting their names. The
+selected student(s) will receive a notification. You can also tag <strong>@All Students</strong> to
+notify the entire class.</p>
+</li>
+<li>
+<p>Click <strong>Post</strong>.</p>
+</li>
 </ol>
-
-<h2>View Comments</h2>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mention_20Students.png">
+</div>
+<p>You can edit or delete your comment by clicking the <strong>Overflow (3-dot) icon</strong>.</p>
+<p>If needed, you can choose to notify students when posting your comment.</p>
+<h2>Use Live Chat</h2>
 <hr>
-<p>To view comments on any response, click on the <b>Response card</b>.</p>
-<p>All the comments will be shown in the order of time posted, with the most recent post at the bottom. The number of comments is shown in parenthesis. Click the <strong>Refresh</strong> button at the top left-hand corner to update responses.</p>
-<h2>Respond to Students' Responses (Enhanced)</h2>
+<p>Live Chat allows students to engage in real-time discussions.</p>
+<p>When creating a Discussion, you can select <strong>Live Chat (Beta)</strong> to
+enable this mode.</p>
+<p>You can:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Set a time limit for the discussion</p>
+</li>
+<li>
+<p>Enable Learning Assistant to support students during the discussion</p>
+</li>
+</ul>
+<p>During Live Chat:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students and teachers can see messages in real time</p>
+</li>
+</ul>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frame_2011.png">
+</div>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students can interact with Learning Assistant by typing @SALiS followed
+by their question</p>
+</li>
+</ul>
+<p>When the session ends:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The Live Chat is automatically converted into a discussion post</p>
+</li>
+<li>
+<p>All messages are saved as comments</p>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frame_2014.png">
+</div>
+<p>Additionally, you can choose to manually close a Live Chat session.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Frame_2010.png">
+</div>
+<p>Note: Students will no longer be able to interact in the Live Chat Room(s).
+Each Live Chat Room will be converted into a post and previous conversations
+will be saved as comments. This action cannot be undone.</p>
+<h2>Use Data Assistant (DAT)</h2>
 <hr>
-<p><u>Note:</u> Students and teachers may choose to upvote students' responses by clicking on the <strong>Upvote</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/upvote.svg"> on the <strong>Response Card</strong>.</p>
-
-<p><img alt="Add a Discussion" style="width: 80%;" src="/images/2Teacher/C_AddDiscussion.png"></p>
-
-<p>To comment on one of your student's responses,</p>
-<ol>
-    <li>
-			<p>Click the <b>Response card</b>, followed by <strong>Add</strong> on the bottom right.</p>
-    </li>
-    <li>
-        <p>Apart from text responses, you can choose to include <a href="/student-user-guide/assess/insert-mathematical-or-chemical-equations/">Mathematical or chemical equations.</a></p></li>
-    <li>
-        <p>You can also mention student(s) in your post by typing '@' and selecting their names from the dropdown list. The selected student(s) will receive a notification when you post your comment. If you tag "@All Students", all assigned students will be notified.</p>
-    </li>
-    <li>
-        <p>After typing in your comment, click <strong>Post</strong>.</p>
-        <p><img alt="Add a Discussion" style="width: 80%;" src="/images/2Teacher/COL_MentionTR.png"></p>
-    </li>
-    <li>
-        <p>You can edit/delete your response by clicking on the <b>Overflow</b> (<b>3-dot</b> icon).</p>
-    </li>
-    <li>
-        <p>If you wish to notify students of the comment, select the <strong>Notify student(s)</strong> checkbox.</p>
-    </li>
-</ol>
-
-<h2>View Live Chat Room</h2>
-<hr>
-<ol>
-<li>You can see when someone is typing in the Live Chat Room.
-<p><img alt="View Live Chat Room" style="width: 80%;" src="/images/2Teacher/COL_ViewLiveChat1.png"></p>
+<p>Data Assistant (DAT) helps you analyse student responses in a discussion.</p>
+<p>You can access DAT from the discussion to view grouped insights based
+on student responses.</p>
+<p>DAT analyses are only visible to teachers and are not shown to students.</p>
+<p>You can:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>View multiple analyses in a collapsible list</p>
 </li>
-<li>As a teacher, you can view the student chat history by scrolling the chat. You can also see who else is in the Live Chat Room by clicking on <strong>View Members</strong>.
-<p><img alt="View Live Chat Room" style="width: 80%;" src="/images/2Teacher/COL_ViewLiveChat2.png"></p>
-<p><img alt="View Live Chat Room" style="width: 80%;" src="/images/2Teacher/COL_ViewLiveChat3.png"></p>
-	</li><li>When students or teachers require additional assistance, they may seek help from the Learning Assistant by typing @SALiS with their questions.
-	<p>Note: There is an interaction limit set by the teacher, when using Learning Assistant. This interaction limit decreases for each student every time they call on @SALiS.</p>
-	
+<li>
+<p>Expand each analysis to review the AI-generated insights</p>
 </li>
-</ol>
-
-<h2>Close Live Chat</h2>
-<hr>
-<ol>
-<li>You can either manually close active Live Chat Rooms or allow the system to end them when the time limit is reached.
-<ol style="list-style-type: lower-alpha;">
-<li>To close a Live Chat Room manually, click on <strong>View Class Submissions</strong>.
-<p><img alt="Close Live Chat" style="width: 80%;" src="/images/2Teacher/COL_CloseLiveChat1.png"></p>
+<li>
+<p>Edit the analyses to refine or adjust the content where needed</p>
 </li>
-<li>Click on <strong>Close Live Chat Room(s)</strong>
-<p><u>Note</u>: Students will no longer be able to interact in the Live Chat Room(s). Each Live Chat Room will be converted into a post and previous conversations will be saved as comments. This action cannot be undone.</p>
-<p><img alt="Close Live Chat" style="width: 80%;" src="/images/2Teacher/COL_CloseLiveChat2.png"></p>
-</li>
-<li>The Live Chat Room closes when the time limit is reached.
-<p><img alt="Close Live Chat" style="width: 80%;" src="/images/2Teacher/COL_CloseLiveChat3.png"></p>
-</li>
-</ol>
-</li>
-</ol>
-
-<h2>Edit Live Chat</h2>
-<hr>
-<ol>
-<li>You can edit Live Chat for Discussion component if the Live Chat Room has not been created by clicking on the <strong>Overflow</strong> (<strong>3-dot</strong> icon) on the right menu and selecting <strong>Edit</strong>.
-<p><u>Note</u>: Changes made to the topic and question body after the live chat room has been created will not be reflected in the Live Chat Room.</p>
-</li>
-<li>You can create a new Live Chat component if the Live Chat Room has already been created.</li>
-</ol>
+</ul>
+<p>These insights can help you identify common patterns, misconceptions,
+and key ideas in student responses.</p>
