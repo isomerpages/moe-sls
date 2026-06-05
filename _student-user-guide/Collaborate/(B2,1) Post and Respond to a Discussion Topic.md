@@ -6,7 +6,7 @@ third_nav_title: Collaborate
 image: /images/FaviconLight.png
 variant: tiptap
 ---
-<h1>(B2,1) Post and Respond to a Discussion Topic</h1>
+<h1>(B2,1) Post and Comment on a Discussion Topic</h1>
 <hr>
 <h2>Create a New Post</h2>
 <hr>
@@ -53,8 +53,8 @@ and <strong>Comment Off</strong>.</p>
 To sort the responses, click the dropdown arrow next to <strong>Sort By</strong>.</p>
 <h2>Respond to a Post</h2>
 <hr>
-<p>You may choose to upvote responses by clicking on the Upvote icon on the
-response card.</p>
+<p>You may choose to upvote responses by clicking on the <strong>Upvote</strong> icon
+on the <strong>Response Card</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="Comment in the Forum" src="/images/1Student/C_UpvoteForum.png">
 </div>
@@ -76,11 +76,7 @@ Your teacher(s) will be notified when you added a comment.</p>
 <p>After typing in your comment, click&nbsp;<strong>Post</strong>.</p>
 </li>
 <li>
-<p>You can Edit or Delete your response by clicking on the <strong>Overflow</strong> (<strong>3-dot</strong> icon).</p>
-</li>
-<li>
-<p>You may choose to upvote responses by clicking on the <strong>Upvote</strong> icon
-on the Response Card.</p>
+<p>You can Edit or <strong>Delete</strong> your response by clicking on the <strong>Overflow</strong> (<strong>3-dot</strong> icon).</p>
 </li>
 </ol>
 <p></p>
