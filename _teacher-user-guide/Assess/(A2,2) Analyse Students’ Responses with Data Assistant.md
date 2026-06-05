@@ -31,20 +31,16 @@ before making any interventions based on it.</p>
 </p>
 </li>
 <li>
-<p><strong>Interactive Thinking Tools (ITT)</strong>
-</p>
-</li>
-<li>
-<p><strong>Quizzes</strong>  <em>(New!)</em>
+<p><strong>Quizzes</strong>
 </p>
 </li>
 </ul>
-<h3>Using Data Assistant to Analyse Free-Response Questions, Discussions &amp; ITT</h3>
+<h3>Using Data Assistant to Analyse Free-Response Questions &amp; Discussions</h3>
 <hr>
 <ol>
 <li>
 <p>Select from your existing resources an activity containing a Free-Response
-Question, Discussion Board/Forum, or Interactive Thinking Tool.</p>
+Question or Discussion Board/Forum.</p>
 </li>
 <li>
 <p>Scroll to the bottom of the Question, click <strong>View All Responses</strong>.</p>
@@ -69,9 +65,25 @@ that guides Data Assistant in analysing qualitative data.</p>
 <li>
 <p>Click <strong>Generate</strong>. Data Assistant will provide an overall
 analysis and group responses and students into common themes.</p>
+<p>Note:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Data Assistant analyses are only visible to teachers and are not shown
+to students.</p>
+</li>
+<li>
+<p>Analyses are displayed in a collapsible format. You can expand each analysis
+to review the insights.</p>
+</li>
+<li>
+<p>You can also edit the generated analyses to refine or adjust the content
+before using them.</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/AS_DAT4.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/image.png">
 </div>
+<p></p>
 </li>
 <li>
 <p>Data Assistant can work on questions marked by Short Answer Feedback Assistant
@@ -119,10 +131,6 @@ students.</p>
 <li>
 <p>For Discussion Board/Forum: Click <strong>Add Keyword Tags</strong> to label
 posts with relevant tags for easier categorisation.</p>
-</li>
-<li>
-<p>For Interactive Thinking Tool (ITT): Click <strong>Bookmark Responses</strong> to
-bookmark specific student responses for later reference.</p>
 </li>
 </ol>
 <h3>Using Data Assistant in Quizzes</h3>
