@@ -4,80 +4,309 @@ permalink: /admin-user-guide/publish/manage-modules/
 description: ""
 third_nav_title: Publish
 image: /images/FaviconLight.png
-variant: markdown
+variant: tiptap
 ---
-<h1 id="-2-manage-modules">(A2) Manage Modules (Enhanced)</h1>
-<p>Content Approvers (CAs) and Content Officers (COs) are able to manage MOE Library Modules.</p>
-<h2 id="manage-a-module">Manage a Module</h2>
-<hr>
-<ol>
-<li>Open the left menu and select <strong>Administration</strong>, followed by <strong>Manage Modules</strong>.</li>
-<li>The list of Modules will be reflected in the table, indicating the following:<ul>
-<li>Title</li>
-<li>Type</li>
-<li>Subject</li>
-<li>Level</li>
-<li>Modified Date</li>
-<li>Modified By</li>
-<li>Status</li>
-<li>Owner Group</li>
-<li>Content Map(s)</li>
+<h1>(A2) Manage Modules</h1>
+<p>Content Approvers (CAs) and Content Officers (COs) are able to manage
+MOE Library Modules.</p>
+<h2>Manage module details</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>Open the left menu.</p>
+</li>
+<li>
+<p>Click <strong>Administration</strong>, then select <strong>Manage Modules</strong>.</p>
+</li>
+<li>
+<p>View the list of modules in the table.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Title</p>
+</li>
+<li>
+<p>Type</p>
+</li>
+<li>
+<p>Subject</p>
+</li>
+<li>
+<p>Level</p>
+</li>
+<li>
+<p>Modified date</p>
+</li>
+<li>
+<p>Modified by</p>
+</li>
+<li>
+<p>Status</p>
+</li>
+<li>
+<p>Owner group</p>
+</li>
+<li>
+<p>Content map(s)</p>
+</li>
 </ul>
 </li>
-<li>To view the Module Details, scroll to the extreme right. Click the <strong>Overflow</strong> (3 dots icon) and select <strong>Module Details</strong>.</li>
-<li><p>You can download the Marks and Responses from the <strong>Overflow</strong> too.</p>
-<p><u>Note</u>: From R2 (Nov 2024) CAs can download MOE Library student responses and marks by multiple schools.</p>
-<img alt="Manage Modules" style="width: 100%;" src="/images/5Admin/P-ManageLessons.png"></li>
-<li><p>To view the Admin Reviews of a Module, click <strong>Open</strong> under the Module Title and click <strong>Admin Reviews</strong> on the grey banner.</p>
-<p><img alt="Manage Modules" style="width: 100%;" src="/images/5Admin/P-ManageLessons1.png"></p>
+<li>
+<p>Sort or review modules as needed from the table.</p>
 </li>
-</ol>
-<h2 id="search-for-a-lesson">Search for a Module</h2>
-<hr>
-<ol>
-<li>You can search for Modules by entering your search terms in the Search Bar. </li>
-<li>You may also wish to select the <strong>Subject</strong> and <strong>Level</strong> filter by selecting the relevant fields in the respective dropdown menu.</li>
-<li>Press "Enter" <em></em>to return your search results.</li>
-<li>To add more search filters, click <strong>Filter</strong>. </li>
-<li>Under <strong>Resource</strong>, select <strong>Modules</strong>.</li>
-<li>Under <strong>Owner Group</strong>, select from:<ul>
-<li><strong>All</strong></li>
-<li><strong>My Groups</strong></li>
-<li><strong>Other Groups</strong></li>
+<li>
+<p>Click the <strong>Overflow</strong> (3 dots) icon and select <strong>Module Details</strong> to
+view details.</p>
+</li>
+<li>
+<p>Access additional actions from the <strong>Overflow</strong> menu.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Download marks and responses</p>
+</li>
 </ul>
 </li>
-<li>You can filter the Module by <strong>Status</strong>:<ul>
-<li><strong>All</strong></li>
-<li><strong>Draft</strong></li>
-<li><strong>Pending Approval</strong></li>
-<li><strong>Approved</strong></li>
-<li><strong>Rejected</strong></li>
-<li><strong>Unpublished</strong></li>
+</ol>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/images_5Admin_P_ManageLessons.png">
+</div>
+<hr>
+<ol>
+<li>
+<p>Open the left menu and select <strong>Administration</strong>, followed
+by <strong>Manage Modules</strong>.</p>
+</li>
+<li>
+<p>The list of Modules will be reflected in the table, indicating the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Title</p>
+</li>
+<li>
+<p>Type</p>
+</li>
+<li>
+<p>Subject</p>
+</li>
+<li>
+<p>Level</p>
+</li>
+<li>
+<p>Modified Date</p>
+</li>
+<li>
+<p>Modified By</p>
+</li>
+<li>
+<p>Status</p>
+</li>
+<li>
+<p>Owner Group</p>
+</li>
+<li>
+<p>Content Map(s)</p>
+</li>
 </ul>
 </li>
-<li>Click <strong>Apply</strong> and select <strong>Apply Filters</strong> to perform your selection.</li>
+<li>
+<p>To view the Module Details, scroll to the extreme right. Click the <strong>Overflow</strong> (3
+dots icon) and select <strong>Module Details</strong>.</p>
+</li>
+<li>
+<p>You can download the Marks and Responses from the <strong>Overflow</strong> too.</p>
+<p><u>Note</u>: From R2 (Nov 2024) CAs can download MOE Library student responses
+and marks by multiple schools.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Manage Modules" src="/images/5Admin/P-ManageLessons.png">
+</div>
+</li>
 </ol>
-<h2 id="publish-unpublish-a-lesson">Publish/Unpublish a Module</h2>
+<p>To view the Admin Reviews of a Module, click <strong>Open</strong> under
+the Module Title and click <strong>Admin Reviews</strong> on the grey banner.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="Manage Modules" src="/images/5Admin/P-ManageLessons1.png">
+</div>
+<p>CAs can download MOE Library student responses and marks across multiple
+schools</p>
+<ol start="7" data-tight="true" class="tight">
+<li>
+<p>Click <strong>Open</strong> on a module.</p>
+</li>
+<li>
+<p>Click <strong>Admin Reviews</strong> on the banner to view review history.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_ManageLessons1.png">
+</div>
+</li>
+</ol>
+<h2>Search for Modules</h2>
 <hr>
-<p>You can only Publish or Unpublish a Module that is tagged to your Owner Group.</p>
-<ol>
-<li>To Publish/Unpublish a Module, click <strong>Open</strong> under the Module Title. </li>
-<li>For a Module that is pending approval, Approve 
-<img style="width:1.5rem; display: inline;" src="/images/Icons/ApproveLesson32.svg"> or Reject <img style="width:1.5rem; display: inline;" src="/images/Icons/RejectLesson32.svg">  the Module by clicking on their respective icons located on the top right of the Module header.</li>
-<li>The Admin Reviews subpage will be automatically updated with the relevant action. </li>
+<h2>Search for modules</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>Enter keywords in the search bar.</p>
+</li>
+<li>
+<p>(Optional) Select <strong>Subject</strong> and <strong>Level</strong> from
+the dropdown lists.</p>
+</li>
+<li>
+<p>Press <strong>Enter</strong> to view results.</p>
+</li>
+<li>
+<p>Click <strong>Filter</strong> to refine your search.</p>
+</li>
+<li>
+<p>Under <strong>Resource</strong>, select <strong>Modules</strong>.</p>
+</li>
+<li>
+<p>Under <strong>Owner Group</strong>, select one:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All</p>
+</li>
+<li>
+<p>My Groups</p>
+</li>
+<li>
+<p>Other Groups</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Under <strong>Status</strong>, select one:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>All</p>
+</li>
+<li>
+<p>Draft</p>
+</li>
+<li>
+<p>Pending approval</p>
+</li>
+<li>
+<p>Approved</p>
+</li>
+<li>
+<p>Rejected</p>
+</li>
+<li>
+<p>Unpublished</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Click <strong>Apply Filters</strong>.</p>
+</li>
 </ol>
-<h2 id="edit-a-lesson-for-cas-">Edit a Module (For CAs)</h2>
-<hr>
-<p>You can only Edit a Resource that is tagged to your Owner Group, and only when the Resource is Unpublished.</p>
-<ol>
-<li>Unpublish the Resource by clicking the <strong>Unpublish</strong> icon <img style="width:1.7rem; display: inline;" src="/images/Icons/UnpublishLesson32.svg">.</li>
-<li>Click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> to make the necessary edits.</li>
-<li>Click the <strong>Done</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/Done.svg"> to save your changes, followed by the <strong>Approve</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ApproveLesson32.svg"> to publish the edited Resource to MOE Library.</li>
+<h2>Manage module status</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>Click <strong>Open</strong> on the module.</p>
+</li>
+<li>
+<p>Perform the required action.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Approve or reject a module that is pending approval using the respective
+icons.</p>
+</li>
+<li>
+<p>The <strong>Admin Reviews</strong> page updates automatically after each
+action.</p>
+</li>
+</ul>
+</li>
 </ol>
-<h2 id="edit-a-lesson-for-cos-">Edit a Module (For COs)</h2>
-<hr>
-<p>CO will have to seek approval from CA to unpublish the Resource for editing. </p>
-<ol>
-<li>Once the Resource has been unpublished, click the <strong>Pencil</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/Pencil.svg"> to enter the Module Editor page.</li>
-<li>CO can submit the Resource to CA(s) for approval after the edits are completed.</li>
+<h2>Edit a module</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>Click <strong>Open</strong> on the module.</p>
+</li>
+<li>
+<p>Click the <strong>Pencil</strong> icon to enter the Module Editor.</p>
+</li>
+<li>
+<p>Make the required changes.</p>
+</li>
+<li>
+<p>Click the <strong>Done</strong> icon to save.</p>
+</li>
+<li>
+<p>Submit or approve the updated version as required.</p>
+</li>
 </ol>
+<h2>Manage module versions</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>Access module versions from the <strong>Manage Modules</strong> page.</p>
+</li>
+<li>
+<p>Edit approved modules without unpublishing.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>A new version is automatically created for editing and approval.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Approve the updated version.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The updated version replaces the existing module.</p>
+</li>
+<li>
+<p>The previous version is archived.</p>
+</li>
+<li>
+<p>The module URL remains unchanged.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Review version indicators.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Updated version banners and admin review messages are displayed to support
+the workflow.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Access archived versions when needed.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students can access archived versions they have attempted or starred.</p>
+</li>
+<li>
+<p>Teachers can access archived versions they have starred.</p>
+</li>
+<li>
+<p>Content Officers (COs) and Content Approvers (CAs) can access all archived
+versions belonging to their owner groups from Manage Modules.</p>
+</li>
+<li>
+<p>A banner inside each archived version provides the link to the latest
+version.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Download archived data if required.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Student marks and responses from archived versions remain available for
+download. This can be done on the Manage Modules page, from the overflow
+menu next to each module.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Delete archived versions when necessary.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>This removes teacher and student access to the archived versions.</p>
+</li>
+</ul>
+</li>
+</ol>
+<p></p>
