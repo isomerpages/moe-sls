@@ -221,6 +221,60 @@ FRQ with Interactive Response.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>directly from the <a href="https://iwant2study.moe.edu.sg/lookangejss/appXapiIntegratorAgent/public/" class="ng-star-inserted" rel="noopener" target="_blank">MOE xAPI Integrator Agent</a>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong><a href="https://iwant2study.org/lookangejss/appXapiIntegratorAgent/public/api/samples/timeline/scorable_newTab_timeline_claude46v4_Water_States_Interact.zip" rel="noopener noreferrer nofollow" target="_blank">scorable_newTab_timeline_claude46v4_Water_States_</a><a href="http://Interact.zip" rel="noopener noreferrer nofollow" target="_blank">Interact.zip</a></strong> —
+5/5/2026, 9:11:33 PM • 72 KB</p>
+</li>
+<li>
+<p><strong><a href="https://iwant2study.org/lookangejss/appXapiIntegratorAgent/public/api/samples/timeline/scorable_newTab_timeline_claude46v4_Condensation.zip" rel="noopener noreferrer nofollow" target="_blank">scorable_newTab_timeline_claude46v4_</a><a href="http://Condensation.zip" rel="noopener noreferrer nofollow" target="_blank">Condensation.zip</a></strong> —
+5/5/2026, 9:11:33 PM • 84 KB</p>
+</li>
+<li>
+<p><strong><a href="https://iwant2study.org/lookangejss/appXapiIntegratorAgent/public/api/samples/timeline/scorable_newTab_timeline_scorable_newTab_quiz_index.html__2_%20(3).zip" rel="noopener noreferrer nofollow" target="_blank">scorable_newTab_timeline_scorable_newTab_quiz_index.html__2_ (3).zip</a></strong> —
+3/6/2026, 9:28:49 PM • 144 KB</p>
+</li>
+<li>
+<p><strong><a href="https://iwant2study.org/lookangejss/appXapiIntegratorAgent/public/api/samples/timeline/scorable_newTab_timeline_Percentage-Fraction-Decimal_Converter_Lab_20260305_Claude46v3.zip" rel="noopener noreferrer nofollow" target="_blank">scorable_newTab_timeline_Percentage-Fraction-Decimal_Converter_Lab_20260305_</a><a href="http://Claude46v3.zip" rel="noopener noreferrer nofollow" target="_blank">Claude46v3.zip</a></strong> —
+3/6/2026, 9:28:49 PM • 65 KB</p>
+</li>
+<li>
+<p><strong><a href="https://iwant2study.org/lookangejss/appXapiIntegratorAgent/public/api/samples/timeline/scorable_newTab_timeline_P5_Triangle_Area_Interactive_20260306%20(5).zip" rel="noopener noreferrer nofollow" target="_blank">scorable_newTab_timeline_P5_Triangle_Area_Interactive_20260306 (5).zip</a></strong> —
+3/6/2026, 9:28:49 PM • 190 KB</p>
+</li>
+<li>
+<p><strong><a href="https://iwant2study.org/lookangejss/appXapiIntegratorAgent/public/api/samples/timeline/scorable_newTab_timeline_Gemini31%2BInteractive_20260223011808.zip" rel="noopener noreferrer nofollow" target="_blank">scorable_newTab_timeline_Gemini31+Interactive_</a><a href="http://20260223011808.zip" rel="noopener noreferrer nofollow" target="_blank">20260223011808.zip</a></strong> —
+3/6/2026, 9:28:49 PM • 45 KB</p>
+</li>
+<li>
+<p><strong><a href="https://iwant2study.org/lookangejss/appXapiIntegratorAgent/public/api/samples/timeline/scorable_newTab_timeline_AIClaude46_Chinese_Handwriting_Practice___Recognition_20260226.zip" rel="noopener noreferrer nofollow" target="_blank">scorable_newTab_timeline_AIClaude46_Chinese_Handwriting_Practice___Recognition_</a><a href="http://20260226.zip" rel="noopener noreferrer nofollow" target="_blank">20260226.zip</a></strong> —
+3/6/2026, 9:28:49 PM • 93 KB</p>
+</li>
+<li>
+<p><strong><a href="https://iwant2study.org/lookangejss/appXapiIntegratorAgent/public/api/samples/timeline/scorable_newTab_timeline_AIClaude46_Chinese_Handwriting_Mastery_Tool_20260226.zip" rel="noopener noreferrer nofollow" target="_blank">scorable_newTab_timeline_AIClaude46_Chinese_Handwriting_Mastery_Tool_</a><a href="http://20260226.zip" rel="noopener noreferrer nofollow" target="_blank">20260226.zip</a></strong> —
+3/6/2026, 9:28:49 PM • 69 KB</p>
+</li>
+<li>
+<p><strong><a href="https://iwant2study.org/lookangejss/appXapiIntegratorAgent/public/api/samples/timeline/scorable_newTab_timeline_AIClaude46v3_Chinese_Handwriting_Practice_20260225_claudesimple2.zip" rel="noopener noreferrer nofollow" target="_blank">scorable_newTab_timeline_AIClaude46v3_Chinese_Handwriting_Practice_20260225_</a><a href="http://claudesimple2.zip" rel="noopener noreferrer nofollow" target="_blank">claudesimple2.zip</a></strong> —
+3/6/2026, 9:28:49 PM • 60 KB</p>
+</li>
+<li>
+<p><strong><a href="https://iwant2study.org/lookangejss/appXapiIntegratorAgent/public/api/samples/timeline/scorable_newTab_timeline_P5_Triangle_Area_Interactive_20260306%20(2).zip" rel="noopener noreferrer nofollow" target="_blank">scorable_newTab_timeline_P5_Triangle_Area_Interactive_20260306 (2).zip</a></strong> —
+3/6/2026, 9:28:34 PM • 179 KB</p>
+</li>
+<li>
+<p><strong><a href="https://iwant2study.org/lookangejss/appXapiIntegratorAgent/public/api/samples/timeline/scorable_newTab_timeline_Interactive_20260129041044.zip" rel="noopener noreferrer nofollow" target="_blank">scorable_newTab_timeline_Interactive_</a><a href="http://20260129041044.zip" rel="noopener noreferrer nofollow" target="_blank">20260129041044.zip</a></strong> —
+3/6/2026, 9:28:34 PM • 117 KB</p>
+</li>
+<li>
+<p><strong><a href="https://iwant2study.org/lookangejss/appXapiIntegratorAgent/public/api/samples/timeline/scorable_newTab_timeline_Interactive_20260129041044%20(1).zip" rel="noopener noreferrer nofollow" target="_blank">scorable_newTab_timeline_Interactive_20260129041044 (1).zip</a></strong> —
+3/6/2026, 9:28:34 PM • 122 KB</p>
+</li>
+<li>
+<p><strong><a href="https://iwant2study.org/lookangejss/appXapiIntegratorAgent/public/api/samples/timeline/scorable_newTab_timeline_Factual_Fluency.zip" rel="noopener noreferrer nofollow" target="_blank">scorable_newTab_timeline_Factual_</a><a href="http://Fluency.zip" rel="noopener noreferrer nofollow" target="_blank">Fluency.zip</a></strong> —
+3/6/2026, 9:28:34 PM • 163 KB</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
