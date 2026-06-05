@@ -214,6 +214,17 @@ FRQ with Interactive Response.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>more sample files and templates to try out</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>more recent examples</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>directly from the <a href="https://iwant2study.moe.edu.sg/lookangejss/appXapiIntegratorAgent/public/" class="ng-star-inserted" rel="noopener" target="_blank">MOE xAPI Integrator Agent</a>.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Send score only</p>
 </td>
 <td rowspan="1" colspan="1">
