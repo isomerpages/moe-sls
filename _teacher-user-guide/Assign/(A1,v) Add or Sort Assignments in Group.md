@@ -137,10 +137,10 @@ one or more assignments to the new student.</p>
 </div>
 <p>b. Select the new student and click <strong>Next</strong>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/images_2Teacher_as_addassignmenttonewstudents2.png">
+<img style="width: 100%;" height="auto" width="100%" alt="Select Student" src="/images/2Teacher/as_addassignmenttonewstudents2.jpg">
 </div>
 <div class="isomer-image-wrapper">
-<img style="width: 100%;" height="auto" width="100%" alt="Select Student" src="/images/2Teacher/as_addassignmenttonewstudents2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/images_2Teacher_as_addassignmenttonewstudents2.png">
 </div>
 <p>c. Select the assignment(s) to assign to the student and complete the
 process</p>
