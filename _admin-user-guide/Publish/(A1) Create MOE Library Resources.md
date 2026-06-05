@@ -56,9 +56,49 @@ MOE Library modules directly in “Manage Modules”</p>
 </li>
 <li>
 <p>Select your owner group to create your MOE Library module.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Createmoelibmodules2.png">
+</div>
 </li>
 <li>
-<p></p>
+<p>In the module view, Content Officers (COs) can submit the module for approval.
+Content Approvers (CAs), can approve the module by clicking on the Approve
+icon.</p>
+</li>
+<li>
+<p>When approving MOE Library modules, an error message will appear for failure
+to include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Description</strong>
+</p>
+</li>
+<li>
+<p><strong>Keyword Tags</strong>
+</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Media Objects that require approval will also appear in the Error Page.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/unapprovedmedia.png">
+</div>
+</li>
+<li>
+<p>To approve the media object click on the checkbox next to it and click
+“Approve”.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/unapprovedmedia2.png">
+</div>
+</li>
+<li>
+<p>To adjust the module visibility, click the gear icon on the module card
+and adjust the module settings.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Modulesetting.jpg">
+</div>
 </li>
 </ol>
+<p></p>
 <p></p>
