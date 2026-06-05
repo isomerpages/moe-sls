@@ -6,7 +6,7 @@ third_nav_title: Publish
 image: /images/FaviconLight.png
 variant: tiptap
 ---
-<h1>(A1) Create MOE Library Resources </h1>
+<h1>(A1) Create MOE Library Resources</h1>
 <p>You can refer to the following User Guide pages to find out how you can:</p>
 <ul data-tight="true" class="tight">
 <li>
