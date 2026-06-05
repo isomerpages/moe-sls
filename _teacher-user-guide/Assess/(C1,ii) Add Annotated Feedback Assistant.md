@@ -309,9 +309,8 @@ learn how to do so.</p>
 <p></p>
 <p>To learn more about using Annotated Feedback Assistant (AFA), including
 pedagogical, ethical, and technical considerations, refer to this <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/c7941673-60c0-47c7-b658-aa339ef65d47" rel="noopener noreferrer nofollow" target="_blank">resource</a>.</p>
-<p>Click here (<a href="https://go.gov.sg/quick-guides-ai-sls" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/quick-guides-ai-sls</a>)
-for a Quick Guide to Writing Rubrics and Suggested Answers for Learning
-Feedback Assistants.</p>
+<p>Click here for a Quick Guide to Writing Rubrics and Suggested Answers
+for Learning Feedback Assistants.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NewQuickGuideToLFA.jpg">
 </div>
