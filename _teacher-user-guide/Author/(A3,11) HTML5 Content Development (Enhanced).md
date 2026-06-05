@@ -339,8 +339,9 @@ vertical space.</p>
 screens.</p>
 </li>
 <li>
-<p>Visit <a rel="noopener noreferrer nofollow" target="_blank">https://iwant2study.org/lookangejss/appXapiIntegrator/ </a>and
-upload your zip interactive in SLS interactive generator or equivalent.</p>
+<p>Visit the <a href="https://iwant2study.moe.edu.sg/lookangejss/appXapiIntegratorAgent/public/" class="ng-star-inserted" rel="noopener" target="_blank">MOE xAPI Integrator</a> and
+upload your zip interactive. The integrator automatically inserts all essential
+xAPI starter code, files and file structure</p>
 <p>The integrator automatically inserts all essential xAPI starter code,
 files and file structure, and launch parameters, ensuring:</p>
 <ul data-tight="true" class="tight">
@@ -373,8 +374,10 @@ compatible with SLS through the Free-Response Question – Interactive Response
 Assistant</p>
 </li>
 <li>
-<p>Use a free AI-powered IDE like <a href="http://Trae.ai" rel="noopener noreferrer nofollow" target="_blank">Trae.ai</a> or <strong>Visual Code Studio with Cline bot Extension</strong>
-</p>
+<p>You can leverage full IDE ecosystems like <a href="http://Trae.ai" rel="noopener noreferrer nofollow" target="_blank">Trae.ai</a> or <a href="https://code.visualstudio.com/" class="ng-star-inserted" rel="noopener" target="_blank">Visual Studio Code (VSC)</a> with
+the <a href="https://cline.bot/" class="ng-star-inserted" rel="noopener" target="_blank">Cline Bot Extension,</a> 
+<a href="https://www.anthropic.com/product/claude-code" class="ng-star-inserted" rel="noopener" target="_blank">Claude Code</a> <a href="https://platform.openai.com/" class="ng-star-inserted" rel="noopener" target="_blank">OpenAI Codex, </a>you can use <a href="https://antigravity.google/" class="ng-star-inserted" rel="noopener" target="_blank">Google Antigravity</a> to
+automatically generate specific JavaScript logic directly within your setup.</p>
 </li>
 <li>
 <p>Open a folder with a working xAPI example, such as the unzipped <strong>03-html5-dynamic-input-score-is-text-field</strong> folder.</p>
