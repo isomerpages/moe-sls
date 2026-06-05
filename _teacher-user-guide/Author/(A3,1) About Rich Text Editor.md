@@ -8,10 +8,11 @@ variant: tiptap
 ---
 <h1>(A3,1) About Rich Text Editor</h1>
 <hr>
-<p>The Rich Text Editor allows you to add or edit content, images, links,
-and other components in an Activity.</p>
-<p>In the Rich Text Editor, you can:</p>
 <ol data-tight="true" class="tight">
+<li>
+<p>The Rich Text Editor allows you to add or edit content, images, links,
+and other components in an Activity. In the Rich Text Editor, you can:</p>
+<ul data-tight="true" class="tight">
 <li>
 <p>Undo and Redo</p>
 </li>
@@ -71,9 +72,12 @@ and other components in an Activity.</p>
 <p><a href="/teacher-user-guide/author/text-to-speech/" rel="noopener noreferrer nofollow" target="_blank">Generate Text-to-Speech Files</a>
 </p>
 </li>
-</ol>
+</ul>
+<p></p>
+</li>
+<li>
 <p>You are also able to:</p>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>View the word count or character count at the right corner of the text
 field. Click to switch between the two views.</p>
@@ -83,12 +87,13 @@ field. Click to switch between the two views.</p>
 access the undo and redo function.</p>
 </li>
 <li>
-<p>Right click to renumber the bullet points under List Properties.</p>
-<p></p>
+<p>Right click to renumber the bullet points under <strong>List Properties</strong>.</p>
+</li>
+</ul>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="About Rich Text" src="/images/2Teacher/AU_AboutRichText1.png">
 </div>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p><strong>Expand</strong> and <strong>Collapse</strong> the Rich Text Editor
 field by clicking the respective icons.</p>
@@ -101,4 +106,13 @@ field by clicking the respective icons.</p>
 and Embed Websites directly from the component bar.</p>
 </li>
 </ul>
+</li>
+</ol>
+<p><u>Note</u>: From R4 (Jun 2026), the Rich Text Editor field will be collapsed
+by default to provide more space for typing.</p>
+<p>You can expand or collapse the toolbar, and the state of the toolbar will
+be retained, even after you refresh the page or close the tab.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/AU_AboutRichText2.png">
+</div>
 <p></p>
