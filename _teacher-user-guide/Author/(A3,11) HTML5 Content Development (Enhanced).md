@@ -214,7 +214,7 @@ FRQ with Interactive Response.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>more sample files and templates to try out</p>
+<p>More sample files and templates to try out</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>more recent examples</p>
