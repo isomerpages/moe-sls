@@ -25,6 +25,6 @@ variant: markdown
 <li><p>You may <strong>Edit</strong> or <strong>Delete</strong> your comment by selecting the options in the <strong>Overflow</strong> (<strong>3-dot</strong> icon).</p>
 </li>
 <img alt="Comment in the Forum" style="width: 100%;" src="/images/1Student/CO-CommentForum1.png">
-<li> You may also upvote posts in the forum by clicking on the Upvote icon <img style="width:1.5rem; display: inline;" src="/images/Icons/upvote.svg"> on the Post card.</li>
+	<li> You may also upvote posts in the forum by clicking on the <strong>Upvote</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/upvote.svg"> on the <strong>Post card</strong>.</li>
 <img alt="Comment in the Forum" style="width: 100%;" src="/images/1Student/C_UpvoteForum.png">
 </ol>
