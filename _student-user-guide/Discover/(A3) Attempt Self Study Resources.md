@@ -4,49 +4,269 @@ permalink: /student-user-guide/discover/attempt-self-study-resources/
 description: ""
 third_nav_title: Discover
 image: /images/FaviconLight.png
-variant: markdown
+variant: tiptap
 ---
 <h1>(A3) Attempt Self-Study Resources</h1>
 <hr>
 <p>You can attempt Self-Study Resources from 3 locations:</p>
-<ol>
-<li>MOE Library</li>
-<li>Class Group Resources</li>
-<li>My Drive</li>
+<ol data-tight="true" class="tight">
+<li>
+<p>MOE Library</p>
+</li>
+<li>
+<p>Class Group Resources</p>
+</li>
+<li>
+<p>My Drive</p>
+</li>
 </ol>
-<p>When a Module is attempted from one of the above three locations, it will be automatically added to the <a target="_blank" href="/student-user-guide/discover/access-self-study-resources/"> Self-Study List</a>.</p>
+<p>When a Module is attempted from one of the above three locations, it will
+be automatically added to the <a href="/student-user-guide/discover/access-self-study-resources/" rel="noopener noreferrer nofollow" target="_blank">Self-Study List</a>.</p>
 <h2>Attempt MOE Library Modules</h2>
 <hr>
-<p>You can search for and attempt Modules from the MOE Library.</p>
+<p>To search for and attempt a Lesson from the MOE Library:</p>
 <ol>
-<li>On the homepage, click&nbsp;<strong>MOE Library</strong>. Alternatively, open the left menu from the header, and click&nbsp;<strong>Resources</strong>, followed by&nbsp;<strong>MOE Library</strong>.</li>
-<li><a target="_blank" href="/student-user-guide/discover/search-for-self-study-resources/">Search for MOE Library Modules </a> you wish to attempt.</li>
-<li>To view the Module Details, click the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> on the Module card. You will be able to view details such as Module Description, list of Activities and Sections (if any), Module creator, and when it was lasted edited. To open the Module in a new tab, click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg">.</li>
-<li>To begin attempting the Module, click the <strong>Module card</strong>. Within the Module, open the right menu to <strong>Reattempt</strong> (once you have started on the Module), <a target="_blank" href="/student-user-guide/organise/copy-to-my-drive/">Copy to My Drive</a> (if permissions have been enabled), or <a target="_blank" href="/student-user-guide/organise/view-print-friendly-worksheet/">View as Print-Friendly Worksheet</a>(if permissions have been enabled). 
-<img alt="Attempt Self Study Resources" src="/images/1Student/SS_Lesson.png"></li>	
-<p><u>Note</u>: Should you Reattempt the Module, responses from your previous attempt will be deleted. To keep a copy of your responses, make a copy of the Module before reattempting.</p>    
-<li>To revisit this Module, you can access it from your Self-Study List <a target="_blank" href="/student-user-guide/discover/access-self-study-resources/"> access self-study list</a>. Your previous responses will be saved.</li>
+<li>
+<p>Click on <strong>MOE Library</strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Alternatively, open the left menu and click <strong>Resources</strong>,
+then <strong>MOE Library</strong>.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Search for Lessons you want to attempt as part of revision or learn more
+about a new topic.</p>
+</li>
+<li>
+<p>To view Lesson details:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click the <strong>View Details</strong> icon on the Lesson card.</p>
+</li>
+<li>
+<p>You can view:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Lesson description</p>
+</li>
+<li>
+<p>Activities and sections (if any)</p>
+</li>
+<li>
+<p>Lesson creator</p>
+</li>
+<li>
+<p>Last edited date</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Click the <strong>Expand</strong> icon to open the Lesson in a new tab.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>To start a Lesson:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click the <strong>Lesson card</strong>.</p>
+</li>
+<li>
+<p>In the Lesson, open the right menu to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Reattempt</strong> (after starting the Lesson)</p>
+</li>
+<li>
+<p><strong>Copy to My Drive</strong> (if enabled)</p>
+</li>
+<li>
+<p><strong>View as Print-Friendly Worksheet</strong> (if enabled)</p>
+</li>
+</ul>
+</li>
+</ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="Attempt Self Study Resources" src="/images/1Student/SS_Lesson.png">
+</div>
+</li>
+<li>
+<p>To revisit a Lesson:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Go to the <strong>Self-Study List</strong>.</p>
+</li>
+<li>
+<p>Your previous responses are saved.</p>
+</li>
+</ul>
+</li>
 </ol>
+<p><strong>Note:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>If you reattempt a Lesson, your previous responses will be deleted.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To keep your responses, copy the Lesson to “My Drive” before reattempting.</p>
+</li>
+<li>
+<p>When an MOE Library Module is updated, you can still access all previously
+attempted versions from the Self-Study page. A banner will appear at the
+top of the Module with a direct link to view and attempt the new version.</p>
+</li>
+</ul>
+</li>
+</ul>
 <h2>Attempt Class Group Resources</h2>
 <hr>
-<ol>
-  <li>On the homepage, open the left menu and click <strong>Class Groups</strong>. Alternatively, click <strong>Class Groups</strong> under the Class Groups tab.</li>
-  <li>On the Class Groups page, select the Class Group with the Class Group Resources you wish to access.</li>
-  <li>Select the <strong>Resources</strong> tab.</li>
-  <li>Students may search for, or select the resource to view and attempt. Click the <strong>Module card</strong> to open the Module in a new tab.</li>
-  <li>To view the Module Details, click the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> on the Module card. You will be able to view details such as Module Description, list of Activities and Sections (if any), Module creator, and when it was lasted edited. To open the Module in a new tab, click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg">.</li>
-  <li>To begin attempting the Module, click the <strong>Module card</strong>. Within the Module, open the right menu to <strong>Reattempt</strong> (once you have started on the Module), <strong>Copy to My Drive</strong> (if permissions have been enabled), or <strong>View as Print-Friendly Worksheet</strong> (if permissions have been enabled).</li>
-<u>Note</u>: Should you Reattempt the Module, responses from your previous attempt will be deleted. To keep a copy of your responses, make a copy of the Module before reattempting.  
-  <li>To revisit this Module, you can <a target="_blank" href="/student-user-guide/discover/access-self-study-resources/">access it from your Self-Study List</a>. </li>
-<u>Note</u>: Your previous responses will be saved.  
+<p>To search for and attempt a Lesson from Class Group Resources:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Go to <strong>Class Groups</strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Alternatively, open the left menu and click <strong>Class Groups</strong>.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Select a Class Group.</p>
+</li>
+<li>
+<p>Click the <strong>Resources</strong> tab.</p>
+</li>
+<li>
+<p>Search for or select a Lesson.</p>
+</li>
+<li>
+<p>To view Lesson details:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click the <strong>View Details</strong> icon on the Lesson card.</p>
+</li>
+<li>
+<p>Click the <strong>Expand</strong> icon to open the Lesson in a new tab.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>To start a Lesson:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click the <strong>Lesson card</strong>.</p>
+</li>
+<li>
+<p>In the Lesson, open the right menu to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Reattempt</strong> (after starting the Lesson)</p>
+</li>
+<li>
+<p><strong>Copy to My Drive</strong> (if enabled)</p>
+</li>
+<li>
+<p><strong>View as Print-Friendly Worksheet</strong> (if enabled)</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>To revisit a Lesson:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Go to the <strong>Self-Study List</strong>.</p>
+</li>
+<li>
+<p>Your previous responses are saved.</p>
+</li>
+</ul>
+</li>
 </ol>
+<p><strong>Note:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>If you reattempt a Lesson, your previous responses are deleted.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To keep your responses, copy the Lesson before reattempting.</p>
+</li>
+</ul>
+</li>
+</ul>
 <h2>Attempt Modules from My Drive</h2>
 <hr>
-<ol>
-  <li>On the homepage, click <strong>My Drive</strong>. Alternatively, open the left menu from the header, and click&nbsp;<strong>Resources</strong>, followed by&nbsp;<strong>My Drive</strong>. By default, you will be on your My Modules tab.</li>
-<li>To view the Module Details, click the <strong>Overflow</strong> (3-dot icon) and select the <strong>View Details</strong> icon <img style="width:1.5rem; display: inline;" src="/images/Icons/ViewDetails.svg"> on the Module card. You will be able to view details such as Module Description, list of Activities and Sections (if any), Module creator, and when it was lasted edited. To open the Module in a new tab, click the <strong>Expand</strong> icon <img style="width:1.2rem; display: inline;" src="/images/Icons/external-link.svg">.</li>
-<li>Click <strong>Open</strong> under a Module Title to start attempting the Module in a new tab. Within the Module, open the right menu to <strong>Reattempt</strong> (once you have started on the Module), or <a target="_blank" href="/student-user-guide/organise/view-print-friendly-worksheet/">View as Print-Friendly Worksheet</a> (if permissions have been enabled).</li>
-<u>Note</u>: Should you Reattempt the Module, responses from your previous attempt will be deleted. To keep a copy of your responses, make a copy of the Module before reattempting.
-<li>To revisit this Module, you can access it from your Self-Study List.</li>
-<u>Note</u>: Your previous responses will be saved.
+<p>To search for and attempt a Lesson from My Drive:</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Go to <strong>My Drive</strong>.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Alternatively, open the left menu and click <strong>Resources</strong>,
+then <strong>My Drive</strong>.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>To view Lesson details:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click the <strong>Overflow (3-dot)</strong> icon.</p>
+</li>
+<li>
+<p>Select <strong>View Details</strong>.</p>
+</li>
+<li>
+<p>Click the <strong>Expand</strong> icon to open the Lesson in a new tab.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>To start a Lesson:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Click <strong>Open</strong> under the Lesson title.</p>
+</li>
+<li>
+<p>In the Lesson, open the right menu to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Reattempt</strong> (after starting the Lesson)</p>
+</li>
+<li>
+<p><strong>View as Print-Friendly Worksheet</strong> (if enabled)</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>To revisit a Lesson:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Go to the <strong>Self-Study List</strong>.</p>
+</li>
+<li>
+<p>Your previous responses are saved.</p>
+</li>
+</ul>
+</li>
 </ol>
+<p><strong>Note:</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>If you reattempt a Lesson, your previous responses are deleted.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>To keep your responses, copy the Lesson before reattempting.</p>
+</li>
+</ul>
+</li>
+</ul>
+<p></p>
