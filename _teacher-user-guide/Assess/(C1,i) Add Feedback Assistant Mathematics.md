@@ -6,16 +6,11 @@ third_nav_title: Assess
 image: /images/FaviconLight.png
 variant: tiptap
 ---
-<h1>(C1,i) Add Feedback Assistant Mathematics</h1>
-<hr>
-<p>The Feedback Assistant - Mathematics (FA-Math) is an engine that offers
-step-by-step feedback to students on their answers.</p>
+<h2>About FA-Math</h2>
+<p>Feedback Assistant – Mathematics (FA-Math) provides step-by-step feedback
+to students on their answers.</p>
 <p><strong>Important</strong>:</p>
 <ul>
-<li>
-<p>From Dec 2025 Update: FA Math will award marks rounded to the nearest
-0.5.</p>
-</li>
 <li>
 <p>FA-Math can be added as Prepopulated Student Answer in a Free-Response
 Question. Students will be informed that FA-Math will provide feedback
@@ -44,7 +39,15 @@ following links:</p>
 </ul>
 </li>
 </ul>
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>FA-Math awards marks rounded up to the nearest 0.5.</p>
+</li>
+<li>
+<p>From June 2026 Update, teachers can view student responses to FA-Math
+questions in the Student Responses view.</p>
+</li>
+</ul>
 <hr>
 <ol>
 <li>
