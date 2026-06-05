@@ -6,22 +6,22 @@ third_nav_title: Organise
 image: /images/FaviconLight.png
 variant: tiptap
 ---
-<h1>(A1) Create Class Groups and Communities</h1>
+<h1>(A1) Create Groups and Communities</h1>
 <hr>
 <ol>
 <li>
-<p>From the homepage, open the left menu and click <strong>Class Groups</strong>,
-followed by <strong>All Class Groups</strong>. Alternatively, under the
-Class Groups tab, click <strong>Class Groups</strong>.</p>
+<p>From the homepage, open the left menu and click <strong> Groups</strong>,
+followed by <strong>All Groups</strong>. Alternatively, under the Groups
+tab, click<strong> Groups</strong>.</p>
 </li>
 <li>
 <p>Click <strong>Add New Group</strong> to open Create New Group subpage. Enter
 the <strong>Name</strong> and <strong>Expiry</strong>  <strong>Academic</strong>  <strong>Year</strong>, <strong>Description</strong> (optional), <strong>Group Image</strong> (optional), <strong>Subject</strong> (optional),
-and <strong>Level</strong> (optional). Tagging a Subject and Level to a Class
-Group allows teachers and students to view the <a href="https://www.learning.moe.edu.sg/teacher-user-guide/track-progress/access-learning-progress/" rel="noopener nofollow" target="_blank">Learning Progress</a> for
-this Class Group.</p>
-<p><u>Note:</u> From Mar 2025 Update, teachers will be able to set class group
-expiry year to “No Expiry”.</p>
+and <strong>Level</strong> (optional). Tagging a Subject and Level to a Group
+allows teachers and students to view the <a href="https://www.learning.moe.edu.sg/teacher-user-guide/track-progress/access-learning-progress/" rel="noopener nofollow" target="_blank">Learning Progress</a> for
+this Group.</p>
+<p><u>Note:</u> From Mar 2025 Update, teachers will be able to set group expiry
+year to “No Expiry”.</p>
 </li>
 <li>
 <p>There are 3 <strong>Group Types</strong> to select from: Student, Professional
@@ -31,9 +31,9 @@ are only for teachers, please remove students before converting the Group
 Type.</p>
 </li>
 <li>
-<p>Check the <strong>Allow requests to join with Class Group URL</strong> box
-to allow teachers and students to join the Class Group without having to
-be added by the Owner/Co-teacher of the Class Group manually.</p>
+<p>Check the <strong>Allow requests to join with Group URL</strong> box to
+allow teachers and students to join the Group without having to be added
+by the Owner/Co-teacher of the Group manually.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/JoinClassGroup1.jpg">
@@ -42,11 +42,11 @@ be added by the Owner/Co-teacher of the Class Group manually.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>You may locate the Class Group URL from the browser's address bar.</p>
+<p>You may locate the Group URL from the browser's address bar.</p>
 </li>
 <li>
-<p>When teachers join using the Class Group URL, they will be assigned the
-Observer role.</p>
+<p>When teachers join using the Group URL, they will be assigned the Observer
+role.</p>
 </li>
 </ul>
 </li>
@@ -58,19 +58,18 @@ Observer role.</p>
 </p>
 </li>
 <li>
-<p>Your&nbsp;<strong>Groups</strong>, if you are the Owner of those Class
-Groups</p>
+<p>Your&nbsp;<strong>Groups</strong>, if you are the Owner of those Groups</p>
 </li>
 </ul>
-<p><u>Note:</u> Students from Class Groups (Class) from School Cockpit cannot
-be added as a Group.</p>
+<p><u>Note:</u> Students from Groups (Class) from School Cockpit cannot be
+added as a Group.</p>
 </li>
 <li>
 <p>You can add teacher users from your school or other schools as Students
-in your Class Group.</p>
+in your Group.</p>
 <p><u>Note: </u>Teachers added as a Student to a Group will only be able
-to access this Class Group using their accounts in Student View. They will
-also be given the Liaison Teacher role.</p>
+to access this Group using their accounts in Student View. They will also
+be given the Liaison Teacher role.</p>
 </li>
 <li>
 <p>You can add teachers with the following roles:</p>
@@ -104,11 +103,10 @@ also be given the Liaison Teacher role.</p>
 <p>add/remove teachers&nbsp;(Owner only)</p>
 </li>
 <li>
-<p>approve/reject join requests for Staff Class Group and Communities. (Owner
-only)</p>
+<p>approve/reject join requests for Staff Group and Communities. (Owner only)</p>
 </li>
 <li>
-<p>approve/reject join requests for Student and PD Class groups</p>
+<p>approve/reject join requests for Student and PD groups</p>
 </li>
 <li>
 <p>change roles of teachers (Owner only)</p>
@@ -117,18 +115,17 @@ only)</p>
 <p>add/remove students</p>
 </li>
 <li>
-<p>archive a Class Group</p>
+<p>archive a Group</p>
 </li>
 <li>
-<p>create/delete Class Group Announcements, Events in Planner, Quick Create
-Activities/Quizzes, Resources and Categories, Topics and Polls in Forum,
-and Subgroups</p>
+<p>create/delete Group Announcements, Events in Planner, Quick Create Activities/Quizzes,
+Resources and Categories, Topics and Polls in Forum, and Subgroups</p>
 </li>
 <li>
 <p>change Forum Settings</p>
 </li>
 <li>
-<p>edit a Class Group description</p>
+<p>edit a Group description</p>
 </li>
 <li>
 <p>install/uninstall App (Owner only)</p>
@@ -140,8 +137,8 @@ and Subgroups</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Default role when a teacher creates a Class Group. There can be multiple
-Owners in a Class Group.</p>
+<p>Default role when a teacher creates a Group. There can be multiple Owners
+in a Group.</p>
 </td>
 </tr>
 <tr>
@@ -156,7 +153,7 @@ Owners in a Class Group.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Added by a teacher who is the Owner of a Class Group</p>
+<p>Added by a teacher who is the Owner of a Group</p>
 </td>
 </tr>
 <tr>
@@ -169,13 +166,13 @@ Owners in a Class Group.</p>
 <p>add/remove students (from the teacher's school only)</p>
 </li>
 <li>
-<p>create/delete Class Group Announcements</p>
+<p>create/delete Group Announcements</p>
 </li>
 <li>
-<p>view events in Planner, Apps and Class Group Details</p>
+<p>view events in Planner, Apps and Group Details</p>
 </li>
 <li>
-<p>access Assignments and Class Group Resources</p>
+<p>access Assignments and Group Resources</p>
 </li>
 <li>
 <p>create/delete Posts and Polls in Forum (if permission has been granted).</p>
@@ -183,7 +180,7 @@ Owners in a Class Group.</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Default role when added to a class group</p>
+<p>Default role when added to a group</p>
 </td>
 </tr>
 <tr>
@@ -221,54 +218,60 @@ add teachers (minimally as&nbsp;Liaison Teachers) from the same school
 as the intended students and have these teachers add their students.</p>
 </li>
 <li>
-<p>To add Students from other schools to your own Class Groups, Group Owner
-can switch students to different Class Groups owned. The system will add
-the Liaison Teacher into the changed Class Group if a student that is not
-from your own school is added.</p>
+<p>To add Students from other schools to your own Groups, Group Owner can
+switch students to different Groups owned. The system will add the Liaison
+Teacher into the changed Group if a student that is not from your own school
+is added.</p>
 </li>
 <li>
-<p>From the Dec 2025 Update, newly added teachers to a Class Group will be
-assigned the Observer role by default, allowing them to view assignments.</p>
+<p>Newly added teachers to a Group will be assigned the Observer role by
+default, allowing them to view assignments.</p>
+</li>
+<li>
+<p>From the R4 June 2026 update, Group Owners can update the roles of multiple
+teachers at the same time from the Group <strong>Admin</strong> page.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Class_group_change_role.png">
+</div>
 <ol start="9" data-tight="true" class="tight">
 <li>
 <p>Click <strong>Share via QR Code</strong> to generate QR code with SLS branding
-for your students to scan and join the class group.</p>
-<p>a. If users cannot join the class group with the QR code, go to the class
-group Admin Tab, click on Edit Details. Under Access Settings, tick Allow
-requests to join with Class Group URL.</p>
+for your students to scan and join the group.</p>
+<p>a. If users cannot join the group with the QR code, go to the group Admin
+Tab, click on Edit Details. Under Access Settings, tick Allow requests
+to join with Group URL.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/QR_code_1.png">
 </div>
 </li>
 </ol>
-<h2>Edit a Class Group Details</h2>
+<h2>Edit Group Details</h2>
 <hr>
 <ol>
 <li>
-<p>On the Class Group page, select the relevant <strong>Class Group Card</strong>.</p>
+<p>On the Group page, select the relevant<strong> Group Card</strong>.</p>
 </li>
 <li>
 <p>Click the&nbsp;<strong>Admin</strong>&nbsp;Tab, followed by <strong>View &amp; Edit</strong>.</p>
 </li>
 <li>
 <p>In the&nbsp;<strong>Edit Details</strong>&nbsp;subpage, you can change
-the Name, enter a brief description of your Class Group, add a group image,
-change the Group type or Expiry Academic Year and add teachers and students.
-If it is a Group created within SLS, you can also select a Subject and
-Level from the respective dropdown lists.</p>
-<p>Note: Tagging a Subject and Level to a Class Group will allow teachers
-and students to view the Learning Progress of this Class Group.</p>
+the Name, enter a brief description of your Group, add a group image, change
+the Group type or Expiry Academic Year and add teachers and students. If
+it is a Group created within SLS, you can also select a Subject and Level
+from the respective dropdown lists.</p>
+<p>Note: Tagging a Subject and Level to a Group will allow teachers and students
+to view the Learning Progress of this Group.</p>
 </li>
 <li>
 <p>Click <strong>Save</strong> to confirm your changes, followed by <strong>X</strong>.</p>
-<p>Note: From Dec 2025 Update, when adding a teacher to a Class Group, you
-can set an end date for their access. This allows the added teacher to
-remain in the group only for the specified time period. The system will
-automatically remove teachers with a set time limit once the end date is
-reached.</p>
+<p>Note: When adding a teacher to a Group, you can set an end date for their
+access. This allows the added teacher to remain in the group only for the
+specified time period. The system will automatically remove teachers with
+a set time limit once the end date is reached.</p>
 </li>
 </ol>
 <h2>Create a Community</h2>
@@ -289,7 +292,7 @@ may also browse or search for joined Communities.</p>
 <li>
 <p>Enter the <strong>Name</strong> and <strong>Expiry</strong>  <strong>Academic</strong>  <strong>Year</strong>, <strong>Description</strong> (optional),
 Community <strong>Image</strong> (optional), <strong>Subject</strong> (optional),
-and <strong>Level</strong> (optional). Unlike Class Groups, there is no Learning
+and <strong>Level</strong> (optional). Unlike Groups, there is no Learning
 Progress for Communities.</p>
 </li>
 <li>
@@ -321,8 +324,8 @@ URL.</p>
 </li>
 <li>
 <p>Click on <strong>Edit Details</strong> to change the Name, Expiry Academic
-Year, brief description of your Class Group, group image, or add teachers.
-You can also create <strong>Subgroups</strong> in a Community.</p>
+Year, brief description of your Group, group image, or add teachers. You
+can also create <strong>Subgroups</strong> in a Community.</p>
 </li>
 <li>
 <p>Click <strong>Share via QR Code</strong> to generate QR code with SLS branding
