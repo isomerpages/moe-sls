@@ -10,7 +10,7 @@ variant: tiptap
 <hr>
 <ol>
 <li>
-<p>From the homepage, open the left menu and click <strong> Groups</strong>,
+<p>From the homepage, open the left menu and click <strong>Groups</strong>,
 followed by <strong>All Groups</strong>. Alternatively, under the Groups
 tab, click<strong> Groups</strong>.</p>
 </li>
