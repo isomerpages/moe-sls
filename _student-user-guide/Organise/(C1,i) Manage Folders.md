@@ -28,6 +28,9 @@ then click and hold the left mouse button on the Module.</p>
 </li>
 <li>
 <p>Drag the Module and hover over the target folder until the folder is highlighted.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="drag and drop" src="/images/Resources/MyDriveDragnDrop.png">
+</div>
 </li>
 <li>
 <p>Release the mouse button to drop the Module into the folder.</p>
@@ -90,7 +93,4 @@ the table header.</p>
 </li>
 </ol>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="drag and drop" src="/images/Resources/MyDriveDragnDrop.png">
-</div>
 <p></p>
