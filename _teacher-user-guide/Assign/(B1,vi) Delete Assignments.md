@@ -52,11 +52,17 @@ the <strong>Trash</strong> page which can be accessed from:</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Go to the&nbsp;<strong>Assignments</strong>&nbsp;page and click&nbsp;<strong>Trash</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/DeleteAssignments1.png">
+</div>
 </li>
 <li>
 <p>The most recently deleted Assignments will be displayed. Select the Assignment
 that you wish to restore and click the&nbsp;<strong>Restore</strong>&nbsp;button
 on the right side of the Assignment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/DeleteAssignments2.png">
+</div>
 </li>
 <li>
 <p>Click&nbsp;<strong>OK</strong>&nbsp;to confirm.</p>
@@ -65,6 +71,9 @@ on the right side of the Assignment.</p>
 <p>Once the Assignment has been successfully restored, it will open in a
 new tab. Teachers can then amend the Assignment if needed, such as making
 edits, adjusting the schedule, or managing the settings.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/DeleteAssignments3.png">
+</div>
 </li>
 </ol>
 <h4><strong>B. Access Trash Page from the Student Group</strong></h4>
@@ -74,11 +83,17 @@ edits, adjusting the schedule, or managing the settings.</p>
 </li>
 <li>
 <p>Select the&nbsp;<strong>Assignments</strong>&nbsp;tab and click<strong> Trash</strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/DeleteAssignments4.png">
+</div>
 </li>
 <li>
 <p>The most recently deleted Assignments from this group will be displayed.
 Select the Assignment that you wish to restore and click the&nbsp;<strong>Restore</strong>&nbsp;button
 on the right side of the Assignment.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/DeleteAssignments5.png">
+</div>
 </li>
 <li>
 <p>Click&nbsp;<strong>OK</strong>&nbsp;to confirm.</p>
@@ -87,6 +102,9 @@ on the right side of the Assignment.</p>
 <p>Once the Assignment has been successfully restored, it will open in a
 new tab. Teachers can then amend the Assignment if needed, such as making
 edits, adjusting the schedule, or managing the settings.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/DeleteAssignments6.png">
+</div>
 </li>
 </ol>
 <p><u>Note</u>:</p>
@@ -104,6 +122,10 @@ please contact the SLS Helpdesk (<a href="https://www.learning.moe.edu.sg/login-
 <p>You can also restore deleted Assessments using the same steps above. You
 can access deleted Assessments from <strong>Trash</strong> on the Assessments
 page.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2Teacher/DeleteAssignments7.png">
+</div>
 </li>
 </ul>
+<p></p>
 <p></p>
