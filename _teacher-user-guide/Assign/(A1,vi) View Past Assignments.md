@@ -6,7 +6,7 @@ description: ""
 image: /images/FaviconLight.png
 third_nav_title: Assign
 ---
-<h2>(A1,vii) View Past Assignments</h2>
+<h2>(A1,vi) View Past Assignments</h2>
 <p><u>Important:</u>&nbsp;From June 2025 Update, teachers and students will
 be able to view past assignments in a separate tab.</p>
 <p>There are multiple ways to access Past Assignments</p>
