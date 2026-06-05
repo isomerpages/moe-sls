@@ -44,6 +44,18 @@ following links:</p>
 </ul>
 </li>
 </ul>
+<p>To learn more about using Short Answer Feedback Assistant (SAFA), including
+pedagogical, ethical, and technical considerations, refer to these resources:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>SLS Explorer - Understanding SAFA</strong>: <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/c6785e33-3f8e-4acc-b066-b01cfe9cbc9d" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/community-gallery/module/view/c6785e33-3f8e-4acc-b066-b01cfe9cbc9d</a>
+</p>
+</li>
+<li>
+<p><strong>Enhanced SAFA on Feedback Recipes: </strong><a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/2d884ae9-a39a-45bb-92c7-a942b151f9aa" rel="noopener noreferrer nofollow" target="_blank">https://vle.learning.moe.edu.sg/community-gallery/module/view/2d884ae9-a39a-45bb-92c7-a942b151f9aa</a>
+</p>
+</li>
+</ul>
 <h2>Create a SAFA question</h2>
 <hr>
 <ol>
@@ -146,13 +158,10 @@ in multi-assistant configurations.
 </p>
 </li>
 </ul>
-</li>
-<li>
 <p>You can now customise how the Short Answer Feedback Assistant (SAFA) marks
 students’ response and generates feedback by providing <strong>additional details</strong> or
-specific <strong>instructions</strong>.
-<br>
-</p>
+specific <strong>instructions</strong>.</p>
+<p></p>
 <p>Under <strong>Additional Details</strong>, you may choose one of the suggested <em>recipes</em> below
 or create your own to adjust the marking leniency and style of the feedback.
 <br>
@@ -162,6 +171,51 @@ or create your own to adjust the marking leniency and style of the feedback.
 </div>
 </li>
 </ol>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Recipe</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Description</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Present the feedback according to a framework</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Structures the feedback using a specific framework (e.g. PEEL, CER) to
+help students understand the reasoning process.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Provide additional marking guidance</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Adds extra marking notes or clarifications based on your custom instructions.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Simplify the language of the feedback</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Generates student-friendly feedback using simpler and more accessible
+language.</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>Notes:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -175,6 +229,9 @@ feedback style and marking using the recipe options or your own written
 instructions.</p>
 </li>
 </ul>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Annotated_20Feedback_20Assistant_20_4_.png">
+</div>
 <ol start="6" data-tight="true" class="tight">
 <li>
 <p>From the Response Size dropdown list, select the response size, or estimated
@@ -191,16 +248,12 @@ structured and manageable submissions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 80%" height="auto" width="100%" alt="Add Short Answer Feedback Assistant" src="/images/2Teacher/AS_AddShortAnsFA03.png">
 </div>
-<ol start="7" data-tight="true" class="tight">
-<li>
 <p>Specify a detailed mark scheme in the <strong>Suggested Answer</strong>.
 You can include PDFs or images here for assessment of students’ responses.</p>
-</li>
-</ol>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NewSuggestedAnswerUpload.png">
 </div>
-<ol start="8" data-tight="true" class="tight">
+<ul data-tight="true" class="tight">
 <li>
 <p>You can provide suggested answers in PDF or image format, and students
 can also submit their responses using PDFs or images. This feature is particularly
@@ -208,25 +261,27 @@ useful for subjects requiring handwritten responses, diagrams, or visual
 work, such as Mathematics, Science, or Geography. Enable this option if
 students’ answers are better represented visually rather than through typed
 responses.</p>
-<p>
-<br><strong>Google Files</strong> uploaded by students will also be accepted
+</li>
+<li>
+<p><strong>Google Files</strong> uploaded by students will also be accepted
 and automatically converted into PDF or image format before evaluation
 by the system. This allows for more flexible student submissions across
 subjects.
 <br>
-<br>Note: When using images or PDFs for suggested answers, ensure clarity
-and readability by using high-quality scans or images with legible text
-or handwriting. Clearly indicate key points through annotations, highlights,
-or labels, and align the marking scheme by providing a text-based breakdown
-of criteria where necessary. If multiple answers are acceptable, specify
-alternatives either within the image or as a separate explanation. PDFs
-can be useful for structured responses, such as worked solutions, annotated
-diagrams, or essay-style answers, with clear indications of how each section
-aligns with the marks awarded. Where possible, providing an exemplar response
+<br>Note:</p>
+<p>When using images or PDFs for suggested answers, ensure clarity and readability
+by using high-quality scans or images with legible text or handwriting.
+Clearly indicate key points through annotations, highlights, or labels,
+and align the marking scheme by providing a text-based breakdown of criteria
+where necessary. If multiple answers are acceptable, specify alternatives
+either within the image or as a separate explanation. PDFs can be useful
+for structured responses, such as worked solutions, annotated diagrams,
+or essay-style answers, with clear indications of how each section aligns
+with the marks awarded. Where possible, providing an exemplar response
 can help guide students in understanding expected formatting and content
 depth.</p>
 </li>
-</ol>
+</ul>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NewPosterForTipsForSAFA.png">
