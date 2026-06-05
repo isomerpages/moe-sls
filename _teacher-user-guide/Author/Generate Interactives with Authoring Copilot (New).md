@@ -46,10 +46,17 @@ builders, etc. Find out more in the following resources:</p>
 <p>View the video guide below for a step-by-step demonstration on generating
 interactives using Authoring Copilot.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Usg90XyYOmM?si=7Eplt7uoFxFEKwDU"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Usg90XyYOmM?si=7Eplt7uoFxFEKwDU"></iframe>
 </div>
+<p>To learn more about using Learning Assistant (LEA) Interactive generation,
+including pedagogical, ethical, and technical considerations, refer to
+this <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/2d884ae9-a39a-45bb-92c7-a942b151f9aa" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank"><u>resource</u></a>.</p>
 <p></p>
-<p></p>
+<p>Click here (<a href="https://go.gov.sg/quick-guide-ai-acp" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/quick-guide-ai-acp</a>)
+for a Quick Guide to Authoring Copilot.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_202025_06_16_20at_201_46_54_E2_80_AFPM.png">
+</div>
 <p></p>
 <p></p>
 <p></p>
