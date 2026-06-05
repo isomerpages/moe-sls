@@ -57,6 +57,11 @@ You can also import images into options using QTI.</p>
 <p>A sample file can be found <a href="https://go.gov.sg/qtisample" rel="noopener noreferrer nofollow" target="_blank">here</a>. (Q1-15 will be uploaded successfully
 while Q16 will be unsuccessful as it is meant to test for errors.)</p>
 </li>
+<li>
+<p><strong>Note</strong>: If you are looking for more sample formats across
+different subjects, you can find a collection of downloadable QTI packages
+directly on the <a href="https://iwant2study.moe.edu.sg/lookangejss/QTIlowJunHua/docx_to_qti.html" class="ng-star-inserted" rel="noopener" target="_blank">MOE DOCX to QTI Converter</a> page.</p>
+</li>
 </ul>
 </li>
 <li>
