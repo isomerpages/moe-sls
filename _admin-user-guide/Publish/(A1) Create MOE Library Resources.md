@@ -100,5 +100,45 @@ and adjust the module settings.</p>
 </div>
 </li>
 </ol>
+<p>Preview MOE Library Modules</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>Open the Module.</p>
+</li>
+<li>
+<p>Preview the Module as a student under the overflowing menu (3 Dots).</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>You can preview across all statuses:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Draft</p>
+</li>
+<li>
+<p>Pending approval</p>
+</li>
+<li>
+<p>Approved</p>
+</li>
+<li>
+<p>Rejected</p>
+</li>
+<li>
+<p>Unpublished</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Edit questions after previewing when needed.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>You can make changes immediately after previewing.</p>
+</li>
+</ul>
+</li>
+</ol>
 <p></p>
 <p></p>
+<p>Preview <s>and edit before submission </s>MOE Library Modules</p>
