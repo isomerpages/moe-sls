@@ -5,7 +5,7 @@ collections:
       - Explore SLS Functions.md
       - Administer/.keep
       - Administer/Administer.md
-      - Administer/(A1) Activate Teacher Account.md
+      - Administer/(A1) Activate Teacher Accounts.md
       - Administer/(B1) Prepare Student Accounts through School Cockpit.md
       - Administer/(B2) Inform Parents of Student SLS IDs.md
       - Administer/(B3) Initiate Student Account Activation.md
@@ -25,7 +25,7 @@ collections:
       - Publish/.keep
       - Publish/Publish.md
       - Publish/(A1) Create MOE Library Resources.md
-      - Publish/(A2) Manage Modules (Enhanced).md
+      - Publish/(A2) Manage Modules.md
       - Publish/(A3) Manage Media.md
       - Publish/(A4) Add Digital Badges to a Module (New).md
       - Publish/(B1,i) Generate CCPM Reports.md

@@ -16,11 +16,12 @@ collections:
       - Assess/(A3,1) Add Teacher Comments.md
       - Assess/(A3,2) Annotate (Underline) Students' Responses.md
       - Assess/(A3,3) Mark Free Response Questions.md
+      - Assess/(A3,4) Mark a Copy of a Drawing.md
       - Assess/(A4) Print to Scan.md
       - Assess/(B1) Mark Teacher Marked Quizzes.md
       - Assess/(B2,1) Release Teacher Marked Quizzes.md
       - Assess/(B2,2) Unsubmit Teacher Marked Quizzes or Questions.md
-      - Assess/(C1,i) Add Feedback Assistant Mathematics (Enhanced).md
+      - Assess/(C1,i) Add Feedback Assistant Mathematics.md
       - Assess/(C1,ii) Add Annotated Feedback Assistant.md
       - Assess/(C1,iii) Add Short Answer Feedback Assistant (Enhanced).md
       - Assess/(D1,i) Edit Quizzes.md
@@ -33,12 +34,11 @@ collections:
       - Assign/.keep
       - Assign/Assign.md
       - Assign/(A1,i) Create Assignments (Enhanced).md
-      - Assign/(A1,ii) Quick Assign Activities & Quizzes.md
-      - Assign/(A1,iii) Assign MOE Library Modules (Enhanced).md
-      - Assign/(A1,iv) Assign Community Gallery Modules.md
-      - Assign/(A1,v) Add or Sort Assignments in Class Group.md
-      - Assign/(A1,vi) View Assignments.md
-      - Assign/(A1,vii) View Past Assignments.md
+      - Assign/(A1,ii) Assign MOE Library Modules.md
+      - Assign/(A1,iii) Assign Community Gallery Modules.md
+      - Assign/(A1,iv) Add or Sort Assignments in Group.md
+      - Assign/(A1,v) View Assignments.md
+      - Assign/(A1,vi) View Past Assignments.md
       - Assign/(B1,i) Manage Assignments.md
       - Assign/(B1,ii) Schedule Assignments.md
       - Assign/(B1,iii) Edit Assignments.md
@@ -61,7 +61,7 @@ collections:
       - Author/Activate Learning Assistant in Interactive Component (Enhanced).md
       - Author/Generate Images with Authoring Copilot (New).md
       - Author/Generate Interactives with Authoring Copilot (New).md
-      - Author/Use Authoring Copilot to create New Sections (Enhanced).md
+      - Author/Plan and Generate Modules with Authoring Copilot (New).md
       - Author/Use Authoring Copilot to create New Activities & Components
         (Enhanced).md
       - Author/Use Authoring Copilot to create New Quizzes (Enhanced).md
@@ -189,15 +189,15 @@ collections:
       - Notify/(B1,i) View Notifications.md
       - Organise/.keep
       - Organise/Organise.md
-      - Organise/About Class Groups.md
-      - Organise/(A1) Create Class Groups and Communities.md
+      - Organise/About Groups.md
+      - Organise/(A1) Create Groups and Communities.md
       - Organise/(A2) Add Teachers as Students to a Class Group.md
-      - Organise/(B1) Manage Class Group Resources.md
+      - Organise/(B1) Manage Group Resources.md
       - Organise/(C1,i) Install and Launch Apps.md
       - Organise/(C1,ii) App FAQs.md
-      - Organise/(D1,i) Pin Class Groups.md
-      - Organise/(D1,ii) Archive Class Groups.md
-      - Organise/(D1,iii) View and Restore Past Class Groups.md
+      - Organise/(D1,i) Pin Groups.md
+      - Organise/(D1,ii) Archive Groups.md
+      - Organise/(D1,iii) View and Restore Past Groups.md
       - Organise/(E1) Access My Drive.md
       - Organise/(E2) Search in My Drive.md
       - Organise/(E3,1) Create New Folders.md

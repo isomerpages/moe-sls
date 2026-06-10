@@ -278,6 +278,30 @@ overflow menu to rename items in both My Modules and Shared with Me.</p>
 </li>
 </ol>
 <h1>Features for Students</h1>
+<h2>Assessments</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students will be redirected to the Assessments page after exiting their
+assessments.</p>
+</li>
+<li>
+<p>A new status indicator inside assessments shows whether students are online
+or offline.</p>
+</li>
+</ol>
+<h2>Autosaving</h2>
+<ol data-tight="true" class="tight">
+<li>
+<p>Students will see a clearer autosaving indicator when attempting Free
+Response Questions (FRQs) and Audio Response Questions (ARQs). The updated
+indicator will reflect when autosaving is in progress, successful, or has
+failed.</p>
+</li>
+<li>
+<p>Student responses for FRQs and ARQs will also be autosaved in the event
+of connection issues.</p>
+</li>
+</ol>
 <h2>Learning Assistant (LEA)</h2>
 <ol data-tight="true" class="tight">
 <li>

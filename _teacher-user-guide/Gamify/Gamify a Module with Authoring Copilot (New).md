@@ -1,6 +1,6 @@
 ---
 title: Gamify a Module with Authoring Copilot (New)
-permalink: /gamify-a-module-with-authoring-copilot/
+permalink: /teacher-user-guide/gamify/gamify-a-module-with-authoring-copilot/
 variant: tiptap
 description: ""
 third_nav_title: Gamify

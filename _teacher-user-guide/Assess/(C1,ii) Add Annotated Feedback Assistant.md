@@ -307,11 +307,10 @@ you have to mark and return the feedback before your students can receive
 it. Click <a href="https://www.learning.moe.edu.sg/teacher-user-guide/assess/release-teacher-marked-quizzes/" rel="noopener nofollow" target="_blank">here </a>to
 learn how to do so.</p>
 <p></p>
-<p>Click <a href="https://go.gov.sg/quick-guide-ai-lfa" rel="noopener nofollow" target="_blank">here</a> for
-a Quick Guide to Writing Rubrics and Suggested Answers for Learning Feedback
-Assistants.
-<br>
-</p>
+<p>To learn more about using Annotated Feedback Assistant (AFA), including
+pedagogical, ethical, and technical considerations, refer to this <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/c7941673-60c0-47c7-b658-aa339ef65d47" rel="noopener noreferrer nofollow" target="_blank">resource</a>.</p>
+<p>Click here for a Quick Guide to Writing Rubrics and Suggested Answers
+for Learning Feedback Assistants.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/NewQuickGuideToLFA.jpg">
 </div>

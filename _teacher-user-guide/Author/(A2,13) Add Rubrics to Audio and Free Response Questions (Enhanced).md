@@ -4,14 +4,13 @@ permalink: /teacher-user-guide/author/add-rubrics-to-audio-and-free-response-que
 description: ""
 third_nav_title: Author
 image: /images/FaviconLight.png
-variant: markdown
+variant: tiptap
 ---
 <h1>(A2,13) Manage Rubrics for Audio- and Free-Response Questions (Enhanced)</h1>
 <hr>
-<h2>Star Rubrics (New)</h2>
+<h2>Star Rubrics</h2>
 <hr>
-<p>From Dec 2025, teachers will be able to add existing rubrics to starred
-resources.</p>
+<p>Teachers are able to add existing rubrics to starred resources.</p>
 <ol>
 <li>
 <p>To star rubrics, click on the <strong>Drawer Settings</strong> icon followed
@@ -41,15 +40,18 @@ Starred Resources (available from Dec 2025).</p>
 </li>
 <li>
 <p><strong>Generate Rubrics using Authoring Copilot (ACP)</strong> – Create
-a new set of rubrics or generate a first draft using Authoring Copilot.</p>
+a new set of rubrics or generate a first draft using Authoring Copilot.
+Find out more about the pedagogical, ethical, and technical considerations
+in this <a href="https://vle.learning.moe.edu.sg/community-gallery/module/view/2d884ae9-a39a-45bb-92c7-a942b151f9aa" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank"><u>resource.</u></a>
+</p>
 </li>
 </ol>
 <h4><strong>Use Existing Rubrics</strong></h4>
 <hr>
 <ol>
 <li>
-From a Free-Response or Audio-Response Question, click <strong>Add Rubrics</strong> dropdown
-list.
+<p>From a Free-Response or Audio-Response Question, click <strong>Add Rubrics</strong> dropdown
+list.</p>
 <p><u>Note</u>: From Dec 2025, teachers can also add rubrics from Library
 or Starred Resources.</p>
 </li>
@@ -59,30 +61,34 @@ set of <strong>Rubrics</strong>. Click the <strong>Overflow</strong> (<strong>3-
 to <strong>Add Band</strong>, <strong>Add Criterion</strong>, <strong>Delete Band,</strong> or <strong>Delete Criterion</strong>.</p>
 </li>
 <li>
-Enter the following fields:
+<p>Enter the following fields:</p>
 <ul data-tight="true" class="tight">
-<li>Title
+<li>
+<p>Title</p>
 </li>
 <li>
-Band Descriptor
+<p>Band Descriptor</p>
 </li>
 <li>
-Criterion
+<p>Criterion</p>
 </li>
-<li>Mark Range
+<li>
+<p>Mark Range</p>
 <p><u>Note</u>: Please see below on how to use the marks of the rubrics for
 the question.</p>
-</li><li>
-Band Description
+</li>
+<li>
+<p>Band Description</p>
 <p><u>Note</u>:</p>
 <ul>
 <li>
-You may enter descriptions in the form of text, mathematical formulae,
-chemical formulae, and media.
+<p>You may enter descriptions in the form of text, mathematical formulae,
+chemical formulae, and media.</p>
 </li>
 <li>
-Teachers can edit the band descriptions after students
-have submitted their responses.<p></p>
+<p>Teachers can edit the band descriptions after students have submitted
+their responses.</p>
+<p></p>
 </li>
 </ul>
 <div class="isomer-image-wrapper">
@@ -93,11 +99,14 @@ have submitted their responses.<p></p>
 <p>Click outside the Component to save.</p>
 </li>
 <li>
-To add rubric notes, click on the <strong>Drawer Settings</strong> icon
-followed by the <strong>Settings</strong> icon on the rubrics cards.
+<p>To add rubric notes, click on the <strong>Drawer Settings</strong> icon
+followed by the <strong>Settings</strong> icon on the rubrics cards.</p>
 <p><u>Note</u>: Teachers can also add keywords tags and subject/level/content
-	map tags.</p></li><p></p>
-
+map tags.</p>
+</li>
+<li>
+<p></p>
+</li>
 <li>
 <p>When rubrics are added to a quiz, teacher can select questions to be associated
 with the rubrics.</p>
@@ -105,7 +114,9 @@ with the rubrics.</p>
 <img style="width: 80%;" height="auto" width="100%" alt="" src="/images/Hide_rubrics.jpg">
 </div>
 </li>
-</ul></li></ol>
+</ul>
+</li>
+</ol>
 <p></p>
 <h4><strong>Generate Using Authoring Copilot (ACP)</strong></h4>
 <ol data-tight="true" class="tight">
@@ -131,13 +142,15 @@ guidance such as:</p>
 and attach it to the question.</p>
 <p>You can review and modify <strong>criteria</strong>, <strong>band descriptors</strong>,
 and <strong>mark ranges</strong> as needed.</p>
-<p><u>Note</u>:
-</p><ul data-tight="true" class="tight">
+<p><u>Note</u>:</p>
+<ul data-tight="true" class="tight">
 <li>
-Rubrics generated via ACP can be adjusted after creation.<p></p>
+<p>Rubrics generated via ACP can be adjusted after creation.</p>
+<p></p>
 </li>
 <li>
-Teachers can refine or overwrite the generated rubric anytime before saving.<p></p>
+<p>Teachers can refine or overwrite the generated rubric anytime before saving.</p>
+<p></p>
 </li>
 </ul>
 </li>
