@@ -32,7 +32,7 @@ with tabs to guide how students respond, similar to previous ITT formats.</p>
 </li>
 </ul>
 <p>
-<br>To set up and use these features, refer to: <strong><a href="https://app.notion.com/p/C1-iii-Add-a-Discussion-or-Live-Chat-Enhanced-db1a234c719d83ddbcfb81aa5dcc1891?pvs=21" rel="noopener noreferrer nofollow" target="_blank">(C1,iii) Add a Discussion (Enhanced)</a></strong>
+<br>To set up and use these features, refer to: <strong><a href="https://www.learning.moe.edu.sg/teacher-user-guide/collaborate/add-a-discussion/" rel="noopener noreferrer nofollow" target="_blank">(C1,iii) Add a Discussion (Enhanced)</a></strong>
 </p>
 </li>
 </ol>
