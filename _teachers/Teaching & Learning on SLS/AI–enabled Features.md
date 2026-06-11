@@ -32,7 +32,7 @@ student. It is currently available for Mathematics (Upper Primary and Lower
 Secondary) and Geography (Upper Secondary). More topics, levels and subjects
 will be added progressively.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tKLBNQoaefQ?si=enQKrghmaFV8oHAl"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/tKLBNQoaefQ?si=enQKrghmaFV8oHAl"></iframe>
 </div>
 <h5>How does ALS enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
@@ -113,7 +113,7 @@ will help them close students' learning gaps.</p>
 all subjects and levels by generating a module and its corresponding sections,
 activities and components based on a teacher's inputs.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Zlt1akZ1HxA?si=CTVxfePRs99eNEu7"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Zlt1akZ1HxA?si=CTVxfePRs99eNEu7"></iframe>
 </div>
 <p></p>
 <h5>How does ACP enhance teaching and learning?</h5>
@@ -171,7 +171,7 @@ on a Knowledge Base that is appended by the teacher.</p>
 <p>Teachers User Guide (UG) which includes step-by-step guidance:</p>
 <ul>
 <li>
-<p><a href="/teacher-user-guide/author/use-authoring-copilot-to-create-new-sections/" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
+<p><a href="https://www.learning.moe.edu.sg/teacher-user-guide/author/use-authoring-copilot-generate-modules/" rel="noopener noreferrer nofollow" target="_blank">UG for teachers</a>
 </p>
 </li>
 </ul>
@@ -257,7 +257,7 @@ iterative improvement in their responses. [From June 2025]</p>
 and speed up the process of qualitative analysis of students’ responses,
 saving teachers’ time and effort, and allow for more timely intervention.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JNGPToBneWg?si=623GseHJUFQskO-j"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/JNGPToBneWg?si=623GseHJUFQskO-j"></iframe>
 </div>
 <h5>How does DAT enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
@@ -325,7 +325,7 @@ across students.</p>
 <p>Learning Assistant (LEA) is a student-facing* dialogic agent on SLS, which
 serves to guide students’ learning via iterative questioning.</p>
 <div class="iframe-wrapper">
-<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vcOv9dDPG2M?si=awf6YHHs4BmcJ3lg"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vcOv9dDPG2M?si=awf6YHHs4BmcJ3lg"></iframe>
 </div>
 <h5>How does LEA enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
@@ -478,7 +478,7 @@ and e-Poster:</p>
 <p>Short Answer Feedback Assistant (SAFA) provides suggested marks and auto-generated
 feedback for free-response questions for any subject and level.</p>
 <div class="iframe-wrapper">
-<iframe height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gQcWscdqvOw?si=LKGFYM1A7pd_tNET"></iframe>
+<iframe referrerpolicy="strict-origin-when-cross-origin" height="100%" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gQcWscdqvOw?si=LKGFYM1A7pd_tNET"></iframe>
 </div>
 <h5>How does SAFA enhance teaching and learning?</h5>
 <table style="minWidth: 50px">
