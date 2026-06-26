@@ -2163,7 +2163,8 @@ chung_jun_rui@schools.gov.sg
 <td rowspan="1" colspan="1">
 <p>Tel:
 <br>Email:
-<br>Others: <a href="https://form.gov.sg/6086551d3e784500119356d1" rel="noopener noreferrer nofollow" target="_blank">Student Affairs Helpdesk Portal</a>
+<br>Others: <a href="https://helpdesk.pathlight.org.sg/hc/en-us/requests/new?ticket_form_id=42668493222425" rel="noopener noreferrer nofollow" target="_blank">Student </a>
+<a href="https://form.gov.sg/6086551d3e784500119356d1" rel="noopener noreferrer nofollow" target="_blank">Affairs Helpdesk Portal</a>
 </p>
 </td>
 </tr>
