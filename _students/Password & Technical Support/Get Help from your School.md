@@ -2158,6 +2158,17 @@ chung_jun_rui@schools.gov.sg
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Pathlight School</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tel:
+<br>Email:
+<br>Others: <a href="https://form.gov.sg/6086551d3e784500119356d1" rel="noopener noreferrer nofollow" target="_blank">Student Affairs Helpdesk Portal</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Paya Lebar Methodist Girls' School (Primary)</p>
 </td>
 <td rowspan="1" colspan="1">
