@@ -25,7 +25,7 @@ technology-enabled learning experiences, including digital assessments.</p>
 learn more.</p>
 <p></p>
 <h4>Conduct of e-SBA via SLS</h4>
-<p>Schools can refer to this <a href="https://docs.google.com/presentation/d/1v3W0wgIr6Q6SqXRizhb2c8aHYAsVdS7u/edit?usp=sharing&amp;ouid=107091864680937020981&amp;rtpof=true&amp;sd=true" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank"><u>guide</u></a> (<em>iCON access is required. Updated on 30 Jun 2026) </em>for
+<p>Schools can refer to this <a href="https://docs.google.com/presentation/d/1v_j6JdqFDgZDIelwgri-jAGc_g1XSpFt/edit?usp=sharing&amp;ouid=107091864680937020981&amp;rtpof=true&amp;sd=true" rel="noopener nofollow" target="_blank">guide</a> (<em>iCON access is required. Updated on 30 Jun 2026) </em>for
 more information on conducting e-SBA with SLS.</p>
 <p>At the Primary level, schools should continue to prioritise age-appropriate,
 tactile learning experiences like print-based reading and hands-on activities.</p>
@@ -227,7 +227,7 @@ CPDD/SDCD and SEAB:</p>
 </tbody>
 </table>
 <h4>Frequently Asked Questions</h4>
-<p>To view all the FAQs, please click <a href="https://docs.google.com/presentation/d/1I7yHaKDEgnujZcsdfEcIhkes32XiSRHP/edit?usp=sharing&amp;ouid=107091864680937020981&amp;rtpof=true&amp;sd=true" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank"><u>here</u></a>  <em>(iCON access is required. Updated on 30 Jun 2026).</em>
+<p>To view all the FAQs, please click <a href="https://docs.google.com/presentation/d/1f46792tg3sZEJ8QEUUhsla5vf9JrRRRL/edit?usp=sharing&amp;ouid=107091864680937020981&amp;rtpof=true&amp;sd=true" class="notion-link-token notion-focusable-token notion-enable-hover" rel="noopener noreferrer" target="_blank"><u>here</u></a>  <em>(iCON access is required. Updated on 30 Jun 2026).</em>
 </p>
 <p></p>
 <h4>We listened: What’s new in SLS R4 (Jun 2026) to better support e-SBA in SLS</h4>
