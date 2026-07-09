@@ -764,7 +764,7 @@ further assistance.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 67583912
-<br>Email: ang_hui_jun_edwin@moe.edu.sg
+<br>Email: cchys@moe.edu.sg
 <br>Others:</p>
 </td>
 </tr>
