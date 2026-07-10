@@ -9,7 +9,10 @@ third_nav_title: Authenticate
 <h3>Unlock Account</h3>
 <h4>How a Student Account Gets Locked</h4>
 <hr>
+<ol data-tight="true" class="tight">
+<li>
 <p>For security reasons, your account will be locked if:</p>
+<p></p>
 <ul data-tight="true" class="tight">
 <li>
 <p>you try to log in with an incorrect password too many times, or</p>
@@ -19,7 +22,7 @@ third_nav_title: Authenticate
 the password.</p>
 </li>
 </ul>
-<ol data-tight="true" class="tight">
+</li>
 <li>
 <p>When you are unsuccessful at logging in, there will be a message to inform
 you. You may continue to attempt to log in until the Login button no longer
@@ -31,12 +34,18 @@ and attempt to log in repeatedly after refreshing your browser or using
 a different browser or device, you run the risk of getting your account
 locked.</p>
 </li>
-<li>
-<p>You will no longer be able to log in even if you enter the correct password
-and neither you nor your teacher will be able to reset your password.</p>
-</li>
 </ol>
 <h4>Unlock Student Account</h4>
 <hr>
-<p>Please <a href="https://www.learning.moe.edu.sg/login-troubleshooting/get-help/get-help-from-your-school/" rel="noopener nofollow" target="_blank">approach your school's SLS Administrator</a> for
-help in unlocking your account.</p>
+<ol data-tight="true" class="tight">
+<li>
+<p>If your account has been locked, you will no longer be able to log in
+even if you enter the correct password and neither you nor your teacher
+will be able to reset your password.</p>
+</li>
+<li>
+<p>Please <a href="https://www.learning.moe.edu.sg/login-troubleshooting/get-help/get-help-from-your-school/" rel="noopener nofollow" target="_blank">approach your school's SLS Administrator</a>,
+who will verify your identity and assist you in unlocking your account.</p>
+</li>
+</ol>
+<p></p>
