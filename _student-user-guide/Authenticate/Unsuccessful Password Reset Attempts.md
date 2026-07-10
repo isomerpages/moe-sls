@@ -56,9 +56,5 @@ login page.</p>
 <p>Alternatively, please contact your <a href="/login-troubleshooting/get-help/get-help-from-your-school/" rel="noopener noreferrer nofollow" target="_blank">School-Based Helpline</a> for
 help.</p>
 </li>
-<li>
-<p>Contact the SLS Helpdesk at <a href="mailto:helpdesk@sls.ufinity.com" rel="noopener noreferrer nofollow" target="_blank">helpdesk@sls.ufinity.com</a> or call
-6702 6513.</p>
-</li>
 </ol>
 <p></p>
