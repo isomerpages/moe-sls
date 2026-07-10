@@ -7,20 +7,20 @@ image: /images/FaviconLight.png
 variant: tiptap
 ---
 <h1>(B3) Initiate Student Account Activation</h1>
-<h3>Onboarding via Login with MIMS</h3>
+<h3>Activating Student Account via MIMS Login</h3>
 <hr>
 <ol data-tight="true" class="tight">
 <li>
 <p><u>Note</u>: From R4 (Jun 2026), Students with MIMS accounts can now access
-SLS directly using Login with MIMS without first completing SLS onboarding
-(e.g. setting up an SLS password or security questions).</p>
+SLS directly using <strong>Login with MIMS</strong> without first completing
+SLS onboarding (e.g. setting up an SLS password or security questions).</p>
 </li>
 <li>
 <p>Students may choose to complete SLS onboarding at a later time if they
-wish to access SLS using Login with SLS.</p>
+wish to access SLS using <strong>Login with SLS</strong>.</p>
 </li>
 </ol>
-<h3>Onboarding via Login with SLS</h3>
+<h3>Activating Student Account via SLS Login</h3>
 <hr>
 <ol data-tight="true" class="tight">
 <li>
