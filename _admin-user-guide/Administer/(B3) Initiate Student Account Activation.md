@@ -11,8 +11,8 @@ variant: tiptap
 <hr>
 <ol data-tight="true" class="tight">
 <li>
-<p>Note: From R4 (Jun 2026), Students with MIMS accounts can now access SLS
-directly using Login with MIMS without first completing SLS onboarding
+<p><u>Note</u>: From R4 (Jun 2026), Students with MIMS accounts can now access
+SLS directly using Login with MIMS without first completing SLS onboarding
 (e.g. setting up an SLS password or security questions).</p>
 </li>
 <li>
