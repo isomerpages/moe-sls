@@ -153,7 +153,7 @@ from the dashboard.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Teachers can view their students' responses from within an assignment
-or assessment by going to the left menu and selecting More Actions &gt;
+or assessment by going to the right menu and selecting More Actions &gt;
 View Students' Responses. This replaces the old method where teachers had
 to click on their own name to access the students' list.</p>
 </li>
