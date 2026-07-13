@@ -4,7 +4,10 @@ permalink: /login-troubleshooting/authentication/locked-account/
 description: ""
 third_nav_title: Authentication
 image: /images/FaviconLight.png
+variant: tiptap
 ---
-<h1 id="locked-account">Locked Account</h1>
-<p>Due to security reasons, your account will be locked if there are multiple failed attempts to log in with an incorrect password.</p>
-<p>Please approach your school's SLS Administrator for help in unlocking your account.</p>
+<h1>Locked Account</h1>
+<p>Due to security reasons, your account will be locked if there are multiple
+failed attempts to log in with an incorrect password.</p>
+<p>Please <a href="https://www.learning.moe.edu.sg/login-troubleshooting/get-help/get-help-from-your-school/" rel="noopener nofollow" target="_blank">approach your school's SLS Administrator</a> for
+help in unlocking your account.</p>
