@@ -86,7 +86,9 @@ Component Bar. Alternatively, click the <strong>Add Media</strong> icon</p>
 <li>
 <p>Upload the ZIP file by either dragging and dropping it into the box, or
 clicking the box to select a file through the file manager. A sample file
-is provided <a href="https://go.gov.sg/qtisample" rel="noopener noreferrer nofollow" target="_blank">here</a>.</p>
+is provided <a href="https://iwant2study.moe.edu.sg/lookangejss/promptLibrary/01users/u-42af27c0ba11fe65c564/countable-nouns-are-nouns-that-can-be-counted-with-pictures-replacements-by-acp/countable-nouns-are-nouns-that-can-be-counted-with-pictures-replacements-by-acp.zip" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+For more samples, templates, and community-contributed interactive resources,
+check out the <a href="https://iwant2study.moe.edu.sg/lookangejss/promptLibrary/ai-prompt-library.html" class="ng-star-inserted" rel="noopener" target="_blank">SLS Prompt Generator - I Want 2 Study AI Prompt Library</a>.</p>
 </li>
 <li>
 <p>Click <strong>Upload</strong> when done.</p>
