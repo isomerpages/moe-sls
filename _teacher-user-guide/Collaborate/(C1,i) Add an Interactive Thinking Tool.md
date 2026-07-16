@@ -14,7 +14,7 @@ variant: tiptap
 <li>
 <p>The Interactive Thinking Tool (ITT) is now integrated into the&nbsp;<strong>Discussion</strong>&nbsp;component.</p>
 <p>You can create structured student responses by setting up a Discussion
-with tabs to guide how students respond, similar to previous ITT formats.</p>
+with scaffolds to guide how students respond, similar to previous ITT formats.</p>
 <p>In addition, Discussion now includes enhanced features such as:</p>
 <p></p>
 <ul data-tight="true" class="tight">
