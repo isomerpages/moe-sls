@@ -2022,8 +2022,9 @@ chung_jun_rui@schools.gov.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 62576781
-<br>Email: go.gov.sg/nsshelpline
-<br>Others:</p>
+<br>Email:
+<br>Others: <a href="https://go.gov.sg/nsshelpline" rel="noopener nofollow" target="_blank">go.gov.sg/nsshelpline</a>
+</p>
 </td>
 </tr>
 <tr>
