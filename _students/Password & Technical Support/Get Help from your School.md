@@ -2022,7 +2022,7 @@ chung_jun_rui@schools.gov.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 62576781
-<br>Email: northlandhelpdesk@gmail.com
+<br>Email: go.gov.sg/nsshelpline
 <br>Others:</p>
 </td>
 </tr>
