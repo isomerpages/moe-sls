@@ -2939,7 +2939,7 @@ Reymund_G_Ardines@sportsschool.edu.sg
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 63441593
-<br>Email: tan_jie_ming@moe.edu.sg
+<br>Email: tkgs@moe.edu.sg
 <br>Others:</p>
 </td>
 </tr>
