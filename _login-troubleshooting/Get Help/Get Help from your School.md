@@ -1130,16 +1130,6 @@ further assistance.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Fuchun Secondary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tel: 63681984
-<br>Email: fcss@moe.edu.sg
-<br>Others:</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Fuhua Primary School</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1516,16 +1506,6 @@ further assistance.</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 65638704
 <br>Email: sls@jvs.edu.sg
-<br>Others:</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Juying Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tel: 67932039 ext.123
-<br>Email:
 <br>Others:</p>
 </td>
 </tr>
