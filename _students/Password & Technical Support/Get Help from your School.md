@@ -9,10 +9,8 @@ third_nav_title: Password & Technical Support
 <h1>Get Help from your School</h1>
 <p>The following are details on how you can contact your school to assist
 in login or e-learning issues.</p>
-<p>You may use the search function in your browser to find your school quickly.</p>
-<p>If your school/organisation’s contact information is not listed here,
-please write to <a href="https://www.learning.moe.edu.sg/login-troubleshooting/get-help/contact-sls-helpdesk/" class="fui-Link ___1q1shib f2hkw1w f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1s184ao f1mk8lai fnbmjn9 f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh fhgqx19 f1olyrje f1p93eir f1nev41a f1h8hb77 f1lqvz6u f10aw75t fsle3fq f17ae5zn" rel="noreferrer noopener" target="_blank">SLS Helpdesk</a> for
-further assistance.</p>
+<p>If no support contact is listed here, please contact your school/organisation
+directly.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -887,7 +885,7 @@ further assistance.</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 65658002
 <br>Email: dazhong_ps@moe.edu.sg
-<br>Others: <a href="https://go.gov.sg/dzpsaccountreset" rel="noopener nofollow" target="_blank">Form SG</a>
+<br>Others: <a href="http://go.gov.sg/dzpsaccountreset" rel="noopener nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
@@ -1125,16 +1123,6 @@ further assistance.</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 63683925
 <br>Email: admin_fcps@moe.edu.sg
-<br>Others:</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fuchun Secondary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tel: 63681984
-<br>Email: fcss@moe.edu.sg
 <br>Others:</p>
 </td>
 </tr>
@@ -1516,16 +1504,6 @@ further assistance.</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 65638704
 <br>Email: sls@jvs.edu.sg
-<br>Others:</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Juying Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tel: 67932039 ext.123
-<br>Email:
 <br>Others:</p>
 </td>
 </tr>
