@@ -887,7 +887,7 @@ further assistance.</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 65658002
 <br>Email: dazhong_ps@moe.edu.sg
-<br>Others: <a href="https://go.gov.sg/dzpsaccountreset" rel="noopener nofollow" target="_blank">Form SG</a>
+<br>Others: <a href="http://go.gov.sg/dzpsaccountreset" rel="noopener nofollow" target="_blank">Form SG</a>
 </p>
 </td>
 </tr>
@@ -1125,16 +1125,6 @@ further assistance.</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 63683925
 <br>Email: admin_fcps@moe.edu.sg
-<br>Others:</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Fuchun Secondary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tel: 63681984
-<br>Email: fcss@moe.edu.sg
 <br>Others:</p>
 </td>
 </tr>
@@ -1516,16 +1506,6 @@ further assistance.</p>
 <td rowspan="1" colspan="1">
 <p>Tel: 65638704
 <br>Email: sls@jvs.edu.sg
-<br>Others:</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Juying Primary School</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tel: 67932039 ext.123
-<br>Email:
 <br>Others:</p>
 </td>
 </tr>
