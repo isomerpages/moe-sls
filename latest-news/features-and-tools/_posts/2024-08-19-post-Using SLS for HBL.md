@@ -22,10 +22,7 @@ logging in.</p>
 <p><strong>School-Based Helpline</strong>: Set up and maintain a school-based
 helpline that students can contact for assistance during school operating
 hours. Remember to keep your school’s contact details on our Info-Site
-updated as well.</p>
-<p><strong>SLS Helpdesk</strong>: Ensure that your students have the SLS
-helpdesk contact details for assistance after school operating hours. They
-would need to able to answer their own security questions.
+updated as well.
 <br>
 </p>
 <p>Find out more information on <a href="https://intranet.moe.gov.sg/etd/Pages/SLS-HBL.aspx?fbclid=IwZXh0bgNhZW0CMTAAAR3I7aTIB1Bcrx_amL4DjHs6gMxyZwKbGg1SjhNbxpubXdoylcSexkuH0h4_aem_jE-XOvd7dy9r_QTsQiRoaQ" rel="noopener noreferrer nofollow" target="_blank">using SLS for HBL</a>!</p>
