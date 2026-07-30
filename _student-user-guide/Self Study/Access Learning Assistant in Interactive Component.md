@@ -13,21 +13,9 @@ third_nav_title: Self Study
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Important:</p>
+<h3>Important:</h3>
+<h4>Before using Learning Assistant, please complete the Basic Modules for AI and AI-enabled features in SLS in the following links:</h4>
 <ul data-tight="true" class="tight">
-<li>
-<p>As Learning Assistant uses generative AI, its responses are probabilistic
-in nature and may be inaccurate at times.</p>
-</li>
-<li>
-<p>You are encouraged to always reflect on the responses received and verify
-that the content generated is accurate and appropriate by fact-checking
-with other sources.</p>
-</li>
-<li>
-<p>Before using Learning Assistant, please complete the Basic Modules for
-AI and AI-enabled features in SLS in the following links:</p>
-</li>
 <li>
 <p><a href="https://go.gov.sg/ai-lower-pri" rel="noopener nofollow" target="_blank">Lower Primary Module</a>
 </p>
@@ -45,6 +33,19 @@ AI and AI-enabled features in SLS in the following links:</p>
 </tr>
 </tbody>
 </table>
+<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>As Learning Assistant uses generative AI, its responses are probabilistic
+in nature and may be inaccurate at times.</p>
+</li>
+<li>
+<p>You are encouraged to always reflect on the responses received and verify
+that the content generated is accurate and appropriate by fact-checking
+with other sources.</p>
+</li>
+</ul>
+<p></p>
 <ol data-tight="true" class="tight">
 <li>
 <p>When the Learning Assistant is enabled for interactions, you will interact
