@@ -13,8 +13,7 @@ third_nav_title: Self Study
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h3>Important:</h3>
-<h4>Before using Learning Assistant, please complete the Basic Modules for AI and AI-enabled features in SLS in the following links:</h4>
+<h3>Important: <br>Before using Learning Assistant, please complete the Basic Modules for AI and AI-enabled features in SLS in the following links:</h3>
 <ul data-tight="true" class="tight">
 <li>
 <p><a href="https://go.gov.sg/ai-lower-pri" rel="noopener nofollow" target="_blank">Lower Primary Module</a>
