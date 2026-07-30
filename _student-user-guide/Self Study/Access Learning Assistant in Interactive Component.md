@@ -6,15 +6,56 @@ description: ""
 third_nav_title: Self Study
 ---
 <h2>Access Learning Assistant in Interactive Component</h2>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h3>Important:</h3>
+<h4>Before using Learning Assistant, please complete the Basic Modules for AI and AI-enabled features in SLS in the following links:</h4>
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://go.gov.sg/ai-lower-pri" rel="noopener nofollow" target="_blank">Lower Primary Module</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ai-upper-pri" rel="noopener nofollow" target="_blank">Upper Primary Module</a>
+</p>
+</li>
+<li>
+<p><a href="https://go.gov.sg/ai-sec" rel="noopener nofollow" target="_blank">Secondary/JC/MI Level Module</a>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
 <p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>As Learning Assistant uses generative AI, its responses are probabilistic
+in nature and may be inaccurate at times.</p>
+</li>
+<li>
+<p>You are encouraged to always reflect on the responses received and verify
+that the content generated is accurate and appropriate by fact-checking
+with other sources.</p>
+</li>
+</ul>
+<p></p>
+<ol data-tight="true" class="tight">
+<li>
 <p>When the Learning Assistant is enabled for interactions, you will interact
 with <strong>SALiS.</strong> Click on <strong>Discuss with SALiS</strong> in
 the Interactive component to begin your interaction.</p>
+</li>
+<li>
 <p>Use SALiS’ responses to guide your interaction, but always <strong>think critically and verify information</strong> before
-using it in your assignments.
-<br>
-</p>
-<ol data-tight="true" class="tight">
+using it in your assignments.</p>
+</li>
 <li>
 <p>You can interact with SALiS up to a set limit determined by your teacher.
 Once the limit is reached, you <strong>cannot continue</strong> the conversation
