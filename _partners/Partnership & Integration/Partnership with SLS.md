@@ -11,7 +11,7 @@ variant: markdown
 <p> SLS currently</p>
 <ul>
 <li>works with various external content providers/developers to build/procure SLS content,</li>
-<li>whitelists websites which can be iframed within SLS, e.g. Padlet, Deck Toys, Kahoot,</li>
+<li>whitelists websites which can be iframed within SLS, e.g. Padlet, Kahoot,</li>
 <li>integrates with apps through its Application Development Framework, e.g. MySkillsFuture, and</li>
 <li>incorporates external engines to enhance SLS capabilities, e.g. Text-to-Speech and Speech Evaluation engines.</li>
 </ul>
