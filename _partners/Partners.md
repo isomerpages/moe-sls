@@ -12,13 +12,6 @@ variant: markdown
 <hr>
 <ul>
   <li><a target="_blank" href="/partners/partnership/partnership-with-sls/">Partnership with SLS</a></li>
-  <li><a target="_blank" href="/partners/partnership/partnership-models/">Partnership Models</a></li>
-  <li><a target="_blank" href="/partners/partnership/sls-data/">SLS Data</a></li>
-</ul>
-
-<h2>Integration</h2>
-<hr>
-<ul>
   <li><a target="_blank" href="/partners/integration/whitelisted-websites/">Whitelisted Websites</a></li>
   <li><a target="_blank" href="/partners/integration/integrated-apps/">Integrated Apps</a></li>
   <li><a target="_blank" href="/partners/integration/external-engines/">External Engines</a></li>
