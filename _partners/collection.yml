@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Partners.md
+      - Partnership/External Engines.md
       - Partnership/Integrated Apps.md
       - Partnership/Whitelisted Websites.md
       - Partnership/.keep
