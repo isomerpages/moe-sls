@@ -3,13 +3,12 @@ collections:
     output: true
     order:
       - Partners.md
-      - Partnership/.keep
-      - Partnership/Partnership with SLS.md
-      - Partnership/Partnership Models.md
+      - Partnership and Integration/.keep
+      - Partnership and Integration/Partnership with SLS.md
+      - Partnership and Integration/Whitelisted Websites.md
+      - Partnership and Integration/Integrated Apps.md
+      - Partnership and Integration/External Engines.md
       - Integration/.keep
-      - Integration/Whitelisted Websites.md
-      - Integration/Integrated Apps.md
-      - Integration/External Engines.md
       - Events/SLS Launchpad 2024.md
       - Events/.keep
       - Events/SLS Partners Engagement Session 2024.md

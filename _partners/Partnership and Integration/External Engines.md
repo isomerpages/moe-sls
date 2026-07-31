@@ -1,8 +1,8 @@
 ---
 title: External Engines
-permalink: /partners/integration/external-engines/
+permalink: /partners/partnership-and-integration/external-engines/
 description: ""
-third_nav_title: Integration
+third_nav_title: Partnership and Integration
 image: /images/FaviconLight.png
 variant: markdown
 ---

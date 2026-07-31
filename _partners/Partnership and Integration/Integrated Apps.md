@@ -1,8 +1,8 @@
 ---
 title: Integrated Apps
-permalink: /partners/integration/integrated-apps/
+permalink: /partners/partnership-and-integration/integrated-apps/
 description: ""
-third_nav_title: Integration
+third_nav_title: Partnership and Integration
 image: /images/FaviconLight.png
 variant: markdown
 ---

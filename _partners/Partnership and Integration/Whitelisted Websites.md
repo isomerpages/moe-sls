@@ -1,8 +1,8 @@
 ---
 title: Whitelisted Websites
-permalink: /partners/integration/whitelisted-websites/
+permalink: /partners/partnership-and-integration/whitelisted-websites/
 description: ""
-third_nav_title: Integration
+third_nav_title: Partnership and Integration
 image: /images/FaviconLight.png
 variant: markdown
 ---
