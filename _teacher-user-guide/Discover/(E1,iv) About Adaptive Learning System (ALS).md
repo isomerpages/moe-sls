@@ -39,7 +39,8 @@ in <a href="/teacher-user-guide/organise/add-teachers-as-students-to-a-class-gro
 <p><u>Supporting Resources</u>:</p>
 <ol>
 <li>
-<p>Click here for a Quick Guide to Adaptive Learning System.</p>
+<p>Click <a href="https://go.gov.sg/quick-guides-ai-sls" rel="noopener nofollow" target="_blank">here</a> for
+a Quick Guide to Adaptive Learning System.</p>
 </li>
 <li>
 <p>View this&nbsp;<a href="https://www.youtube.com/watch?v=cWkoFG32Aho" rel="noopener noreferrer nofollow" target="_blank">video</a>&nbsp;to
