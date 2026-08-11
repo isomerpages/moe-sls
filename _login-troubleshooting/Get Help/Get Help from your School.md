@@ -2714,7 +2714,7 @@ Reymund_G_Ardines@sportsschool.edu.sg
 <td rowspan="1" colspan="1">
 <p>Tel: 62884303
 <br>Email: ict@saintandrewsjunior.moe.edu.sg
-<br>Others</p>
+<br>Others:</p>
 </td>
 </tr>
 <tr>
@@ -2724,6 +2724,7 @@ Reymund_G_Ardines@sportsschool.edu.sg
 <td rowspan="1" colspan="1">
 <p>Tel: 63341539</p>
 <p>Email: itsupport@sams.org.sg</p>
+<p>Others:</p>
 </td>
 </tr>
 <tr>
