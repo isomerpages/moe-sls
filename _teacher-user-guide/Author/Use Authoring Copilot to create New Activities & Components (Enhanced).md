@@ -57,5 +57,3 @@ such as:</p>
 <p></p>
 <p>Click <a href="https://go.gov.sg/quick-guides-ai-sls" rel="noopener nofollow" target="_blank">here</a> for
 a Quick Guide to Authoring Copilot.</p>
-<p>Click <a href="https://go.gov.sg/quick-guides-ai-sls" rel="noopener noreferrer nofollow" target="_blank">here</a> for
-a Quick Guide to Authoring Copilot.</p>
