@@ -1665,7 +1665,7 @@ directly.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 62696193
-<br>Email: thiliban_subramaniam@schools.gov.sg; durgabigai_ga@schools.gov.sg;
+<br>Email: thiliban_subramaniam@schools.gov.sg; durgambigai_ga@schools.gov.sg;
 chung_jun_rui@schools.gov.sg
 <br>Others:</p>
 </td>
