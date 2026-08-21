@@ -140,5 +140,3 @@ and adjust the module settings.</p>
 </li>
 </ol>
 <p></p>
-<p></p>
-<p>Preview <s>and edit before submission </s>MOE Library Modules</p>
