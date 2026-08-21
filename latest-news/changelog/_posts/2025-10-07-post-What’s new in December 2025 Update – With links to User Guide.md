@@ -294,7 +294,7 @@ They can choose from 3 generated images with each request.</p>
 gamification components and Click-and-Drop questions.</p>
 </li>
 <li>
-<p>Teachers can use <a href="https://www.learning.moe.edu.sg/gamify-a-module-with-authoring-copilot/" rel="noopener nofollow" target="_blank">use ACP to generate game stories and collectibles</a>.
+<p>Teachers can use <a href="https://www.learning.moe.edu.sg/teacher-user-guide/gamify/gamify-a-module-with-authoring-copilot/" rel="noopener nofollow" target="_blank">use ACP to generate game stories and collectibles</a>.
 Generated stories will be linked to existing sections and activities within
 the module.</p>
 </li>
