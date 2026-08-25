@@ -22,7 +22,7 @@ security question answers, or email address.</p>
 <p><u>Note</u>: For a permanent solution, students can follow this guide
 on <a href="/teacher-user-guide/administer/reset-student-passwords-for-classes/" rel="noopener noreferrer nofollow" target="_blank">Student - Reset Password</a> to
 reset their passwords. If they still encounter difficulties, and you are
-unable to reset their password for them, please contact <a href="https://www.learning.moe.edu.sg/login-troubleshooting/get-help/get-help-from-your-school/" rel="noopener nofollow" target="_blank">your school's SLS Administrator</a>.</p>
+unable to reset their password for them, please <a href="https://www.learning.moe.edu.sg/login-troubleshooting/get-help/get-help-from-your-school/" rel="noopener nofollow" target="_blank">contact your school's SLS Administrator</a>.</p>
 <h2>Access Passcode</h2>
 <hr>
 <ol>
