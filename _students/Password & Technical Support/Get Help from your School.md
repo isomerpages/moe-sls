@@ -1573,7 +1573,7 @@ directly.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tel: 67662464
-<br>Email: m_losiny@schools.gov.sg
+<br>Email: kranji_ss@moe.edu.sg
 <br>Others:</p>
 </td>
 </tr>
