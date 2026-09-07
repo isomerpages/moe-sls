@@ -1756,9 +1756,9 @@ chung_jun_rui@schools.gov.sg
 <p>Methodist Girls' School (Secondary)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tel: 67962434
-<br>Email: edmund_wong@mgs.sch.edu.sg
-<br>Others:</p>
+<p>Tel: 64694800
+<br>Email: mgss@moe.edu.sg
+<br>Others: mgps@moe.edu.sg</p>
 </td>
 </tr>
 <tr>
